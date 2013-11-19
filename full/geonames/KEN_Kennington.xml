@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Kennington</toponymName>
+<name>Kennington</name>
+<lat>51.1674</lat>
+<lng>0.88491</lng>
+<geonameId>2645804</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4178</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kennington%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.87249</west>
+<north>51.17519</north>
+<east>0.89734</east>
+<south>51.15961</south>
+</bbox>
+<score>92.48553466796875</score>
+</geoname>
+<geoname>
+<toponymName>Kennington</toponymName>
+<name>Kennington</name>
+<lat>51.48796</lat>
+<lng>-0.10566</lng>
+<geonameId>6545174</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population>4000</population>
+<alternateNames>کیننگٹن</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>M8</adminCode3>
+<adminName3>Southwark</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kennington</alternateName>
+<alternateName lang="ur">کیننگٹن</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.11817</west>
+<north>51.49575</north>
+<east>-0.09315</east>
+<south>51.48017</south>
+</bbox>
+<score>82.89567565917969</score>
+</geoname>
+<geoname>
+<toponymName>Kennington</toponymName>
+<name>Kennington</name>
+<lat>51.71643</lat>
+<lng>-1.25513</lng>
+<geonameId>7297012</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UE</adminCode3>
+<adminName3>Vale of White Horse District</adminName3>
+<adminCode4>38UE035</adminCode4>
+<adminName4>Kennington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kennington%2C_Oxfordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.27735</west>
+<north>51.72842</north>
+<east>-1.23291</east>
+<south>51.70445</south>
+</bbox>
+<score>50.30516052246094</score>
+</geoname>
+</geonames>

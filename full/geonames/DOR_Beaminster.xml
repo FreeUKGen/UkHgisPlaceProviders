@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Beaminster</toponymName>
+<name>Beaminster</name>
+<lat>50.809</lat>
+<lng>-2.7391</lng>
+<geonameId>2656100</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2853</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Beaminster</alternateName>
+<alternateName lang="unlc">BMN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.74917</west>
+<north>50.81536</north>
+<east>-2.72904</east>
+<south>50.80264</south>
+</bbox>
+<score>96.93441009521484</score>
+</geoname>
+<geoname>
+<toponymName>Beaminster</toponymName>
+<name>Beaminster</name>
+<lat>50.81295</lat>
+<lng>-2.75379</lng>
+<geonameId>7290817</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH007</adminCode4>
+<adminName4>Beaminster</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.76359</west>
+<north>50.8423</north>
+<east>-2.68548</east>
+<south>50.78852</south>
+</bbox>
+<score>78.62254333496094</score>
+</geoname>
+</geonames>

@@ -1,0 +1,38 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>14038</id>
+<name>WADDINGTON</name>
+<container>LINCOLNSHIRE</container>
+<lat>53.1711668027082</lat>
+<lon>-0.536012308548779</lon>
+<gazetteerText>WADDINGTON, a parish, with a village, in the district and county of Lincoln; on the Lincoln and Grantham railway, 4 miles S of Lincoln. It has a post-office under Lincoln, and a r. station. Acres, 3,305. Real property, &#163;10,31 4. Pop., 909. Houses, 200. The property is much subdivided. The living is a rectory in the diocese of Lincoln. Value, &#163;850.* Patron, Lincoln College, Oxford. The church was recently restored. There are Baptist and Wesleyan chapels, a national school, and charities &#163;7. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LIN/Waddington/</link>
+<link>http://en.wikipedia.org/wiki/Waddington,_Lincolnshire</link>
+<link>http://www.geonames.org/2634923</link>
+</links>
+<unit>
+   <id>10462794</id>
+   <status>CP/AP</status>
+   <name>WADDINGTON</name>
+</unit>
+<unit>
+   <id>10462800</id>
+   <status>EP</status>
+   <name>WADDINGTON</name>
+</unit>
+<nearByPlace>
+   <id>646</id>
+   <name>BRACEBRIDGE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11896</id>
+   <name>CANWICK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13000</id>
+   <name>MERE</name>
+</nearByPlace>
+</place>
+</results>

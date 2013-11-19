@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Long Melford</toponymName>
+<name>Long Melford</name>
+<lat>52.07481</lat>
+<lng>0.71639</lng>
+<geonameId>2643661</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2795</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UB</adminCode3>
+<adminName3>Babergh District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Long_Melford</alternateName>
+<alternateName lang="unlc">LMD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.70604</west>
+<north>52.08117</north>
+<east>0.72673</east>
+<south>52.06845</south>
+</bbox>
+<score>95.63996887207031</score>
+</geoname>
+<geoname>
+<toponymName>Long Melford</toponymName>
+<name>Long Melford</name>
+<lat>52.08815</lat>
+<lng>0.72942</lng>
+<geonameId>7292503</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UB</adminCode3>
+<adminName3>Babergh District</adminName3>
+<adminCode4>42UB048</adminCode4>
+<adminName4>Long Melford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.68804</west>
+<north>52.12453</north>
+<east>0.77081</east>
+<south>52.05177</south>
+</bbox>
+<score>71.78569030761719</score>
+</geoname>
+</geonames>

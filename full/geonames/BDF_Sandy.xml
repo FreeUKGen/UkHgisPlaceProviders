@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Sandy</toponymName>
+<name>Sandy</name>
+<lat>52.12927</lat>
+<lng>-0.28925</lng>
+<geonameId>2638530</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>11129</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC056</adminCode3>
+<adminName3>Sandy</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sandy%2C_Bedfordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.31123</west>
+<north>52.14276</north>
+<east>-0.26727</east>
+<south>52.11578</south>
+</bbox>
+<score>89.88826751708984</score>
+</geoname>
+<geoname>
+<toponymName>Sandy</toponymName>
+<name>Sandy</name>
+<lat>52.13122</lat>
+<lng>-0.27679</lng>
+<geonameId>7291391</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC056</adminCode3>
+<adminName3>Sandy</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.31714</west>
+<north>52.15364</north>
+<east>-0.23644</east>
+<south>52.1088</south>
+</bbox>
+<score>87.16056060791016</score>
+</geoname>
+</geonames>

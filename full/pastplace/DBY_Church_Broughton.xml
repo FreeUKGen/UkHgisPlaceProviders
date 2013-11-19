@@ -1,0 +1,39 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1753</id>
+<name>CHURCH BROUGHTON</name>
+<container>DERBYSHIRE</container>
+<lat>52.8987517711209</lat>
+<lon>-1.69983283456724</lon>
+<gazetteerText>BROUGHTON-CHURCH, a parish in the district of Burton-upon-Trent and county of Derby; 2&#189; miles NNE of Scropton r. station, and 10 W by S of Derby. It includes the hamlets of Sapperton and Harehill; and has a post office, of the name of Church-Broughton, under Derby. Acres, 2,272. Real property, &#163;3,661. Pop., 651. Houses, 154. The living is a vicarage in the diocese of Lichfield. Value, &#163;228. Patron, William Hopkins, Esq. The church is ancient, and was recently repaired. There are a Primitive Methodist chapel, an endowed school with &#163;30 a year, and charities &#163;22. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/DBY/ChurchBroughton/index.html</link>
+<link>http://en.wikipedia.org/wiki/Church_Broughton</link>
+<link>http://www.geonames.org/2653045</link>
+</links>
+<unit>
+   <id>10017907</id>
+   <status>CP/AP</status>
+   <name>CHURCH BROUGHTON</name>
+</unit>
+<unit>
+   <id>10017919</id>
+   <status>EP</status>
+   <name>CHURCH BROUGHTON WITH BARTON BLOUNT</name>
+</unit>
+<unit>
+   <id>10051484</id>
+   <status>EP</status>
+   <name>CHURCH BROUGHTON</name>
+</unit>
+<nearByPlace>
+   <id>2687</id>
+   <name>BOYLESTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5087</id>
+   <name>BARTON BLOUNT</name>
+</nearByPlace>
+</place>
+</results>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Halstead</toponymName>
+<name>Halstead</name>
+<lat>51.32796</lat>
+<lng>0.13269</lng>
+<geonameId>2647605</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11299</population>
+<alternateNames>Fort Halstead,Halstead,Halsted</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>B8</adminCode3>
+<adminName3>GB.ENG.G5.B8</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Fort_Halstead</alternateName>
+<alternateName lang="unlc">HSD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.1111</west>
+<north>51.34145</north>
+<east>0.15429</east>
+<south>51.31447</south>
+</bbox>
+<score>99.18984985351562</score>
+</geoname>
+<geoname>
+<toponymName>Halstead</toponymName>
+<name>Halstead</name>
+<lat>51.94506</lat>
+<lng>0.63927</lng>
+<geonameId>2647604</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UC</adminCode3>
+<adminName3>Braintree District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Halstead</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.62467</west>
+<north>51.95405</north>
+<east>0.65386</east>
+<south>51.93606</south>
+</bbox>
+<score>74.42897033691406</score>
+</geoname>
+<geoname>
+<toponymName>Halstead</toponymName>
+<name>Halstead</name>
+<lat>51.94525</lat>
+<lng>0.64344</lng>
+<geonameId>7293495</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UC</adminCode3>
+<adminName3>Braintree District</adminName3>
+<adminCode4>22UC031</adminCode4>
+<adminName4>Halstead</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.62098</west>
+<north>51.95837</north>
+<east>0.66589</east>
+<south>51.93213</south>
+</bbox>
+<score>65.08006286621094</score>
+</geoname>
+<geoname>
+<toponymName>Halstead</toponymName>
+<name>Halstead</name>
+<lat>51.32928</lat>
+<lng>0.13702</lng>
+<geonameId>7293780</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Halstead%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>45.732879638671875</score>
+</geoname>
+</geonames>

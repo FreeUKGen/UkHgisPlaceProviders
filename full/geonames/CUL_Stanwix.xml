@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Stanwix</toponymName>
+<name>Stanwix</name>
+<lat>54.90569</lat>
+<lng>-2.94134</lng>
+<geonameId>2637032</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UD</adminCode3>
+<adminName3>Carlisle District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.95698</west>
+<north>54.91468</north>
+<east>-2.92569</east>
+<south>54.89669</south>
+</bbox>
+<score>62.434078216552734</score>
+</geoname>
+</geonames>

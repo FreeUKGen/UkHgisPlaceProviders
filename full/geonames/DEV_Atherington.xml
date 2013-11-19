@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Atherington</toponymName>
+<name>Atherington</name>
+<lat>50.98333</lat>
+<lng>-4.01667</lng>
+<geonameId>2656849</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Atherington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UE</adminCode3>
+<adminName3>North Devon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Atherington%2C_Devon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.03096</west>
+<north>50.99233</north>
+<east>-4.00238</east>
+<south>50.97434</south>
+</bbox>
+<score>94.75872039794922</score>
+</geoname>
+<geoname>
+<toponymName>Atherington</toponymName>
+<name>Atherington</name>
+<lat>50.9899</lat>
+<lng>-4.0098</lng>
+<geonameId>7294915</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UE</adminCode3>
+<adminName3>North Devon District</adminName3>
+<adminCode4>18UE003</adminCode4>
+<adminName4>Atherington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.03749</west>
+<north>51.01252</north>
+<east>-3.98212</east>
+<south>50.96729</south>
+</bbox>
+<score>76.01329040527344</score>
+</geoname>
+<geoname>
+<toponymName>Atherington</toponymName>
+<name>Atherington</name>
+<lat>50.80496</lat>
+<lng>-0.58159</lng>
+<geonameId>7910863</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UC</adminCode3>
+<adminName3>Arun District</adminName3>
+<adminCode4>45UC010</adminCode4>
+<adminName4>Climping</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.59582</west>
+<north>50.81395</north>
+<east>-0.56735</east>
+<south>50.79596</south>
+</bbox>
+<score>60.508758544921875</score>
+</geoname>
+</geonames>

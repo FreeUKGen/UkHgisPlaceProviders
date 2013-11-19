@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Greetham</toponymName>
+<name>Greetham</name>
+<lat>52.72231</lat>
+<lng>-0.60785</lng>
+<geonameId>7292232</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L4</adminCode2>
+<adminName2>Rutland</adminName2>
+<adminCode3>00FP022</adminCode3>
+<adminName3>Greetham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.65689</west>
+<north>52.73853</north>
+<east>-0.5588</east>
+<south>52.7061</south>
+</bbox>
+<score>106.66429901123047</score>
+</geoname>
+<geoname>
+<toponymName>Greetham</toponymName>
+<name>Greetham</name>
+<lat>52.72059</lat>
+<lng>-0.63068</lng>
+<geonameId>2647934</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L4</adminCode2>
+<adminName2>Rutland</adminName2>
+<adminCode3>00FP022</adminCode3>
+<adminName3>Greetham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Greetham%2C_Rutland</alternateName>
+<alternateName lang="unlc">ZBE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.66039</west>
+<north>52.73858</north>
+<east>-0.60098</east>
+<south>52.70261</south>
+</bbox>
+<score>64.67037963867188</score>
+</geoname>
+</geonames>

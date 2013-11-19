@@ -1,0 +1,42 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>14559</id>
+<name>COYCHURCH</name>
+<container>GLAMORGAN</container>
+<lat>51.5050218381384</lat>
+<lon>-3.53197297529153</lon>
+<gazetteerText>COYCHURCH, or Coed-Dhu-Church, two hamlets and a parish in Bridgend district, Glamorgan. The hamlets are Higher and Lower C.; and lie on the eastern branch of the river Ogmore, adjacent to the South Wales railway, 2&#189; and 1&#189; miles E by N of Bridgend. Acres, 3, 910 and 1, 090. Real property, &#163;1, 868 and &#163;1, 626. Pop., 316 and 295. Houses, 61 and 65. The parish includes also Pencoed hamlet and Peterstone chapelry; and it has a post office, of the name of Coychurch, under Bridgend. Acres, 9, 105. Real property, &#163;6, 520; of which &#163;440 are in mines. Pop., 1, 431. Houses, 301. The surface is diversified; and includes the Caer-Caradoc mountain. Coal and lime are worked. The living is a rectory, united with the p. curacy of Peterstone-super-Montem, in the diocese of Llandaff. Value, &#163;446.* Patron, the Earl of Dunraven. The church is a fine Cruciform edifice of the 14th century, similar to the church of Coyty, but larger. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/wal/GLA/Coychurch/</link>
+<link>http://www.geonames.org/2652178</link>
+</links>
+<unit>
+   <id>10160017</id>
+   <status>CP/AP</status>
+   <name>COYCHURCH LOWER AND HIGHER</name>
+</unit>
+<unit>
+   <id>10484856</id>
+   <status>Hmlt/CP</status>
+   <name>HIGHER COYCHURCH</name>
+</unit>
+<unit>
+   <id>10484868</id>
+   <status>CP/Hmlt</status>
+   <name>COYCHURCH LOWER</name>
+</unit>
+<nearByPlace>
+   <id>2709</id>
+   <name>ST MARY HILL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6370</id>
+   <name>LLAN GAN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8449</id>
+   <name>PEN LLIN</name>
+</nearByPlace>
+</place>
+</results>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Altarnun</toponymName>
+<name>Altarnun</name>
+<lat>50.58532</lat>
+<lng>-4.5352</lng>
+<geonameId>7293056</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE002</adminCode3>
+<adminName3>Altarnun</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.60409</west>
+<north>50.62796</north>
+<east>-4.46631</east>
+<south>50.54269</south>
+</bbox>
+<score>115.13020324707031</score>
+</geoname>
+<geoname>
+<toponymName>Altarnun</toponymName>
+<name>Altarnun</name>
+<lat>50.60464</lat>
+<lng>-4.51224</lng>
+<geonameId>2657420</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Altarnun</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE002</adminCode3>
+<adminName3>Altarnun</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Altarnun</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.52642</west>
+<north>50.61363</north>
+<east>-4.49807</east>
+<south>50.59565</south>
+</bbox>
+<score>109.10771179199219</score>
+</geoname>
+</geonames>

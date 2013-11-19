@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Comberton</toponymName>
+<name>Comberton</name>
+<lat>52.18709</lat>
+<lng>0.01905</lng>
+<geonameId>2652502</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2238</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Comberton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.01172</west>
+<north>52.19159</north>
+<east>0.02639</east>
+<south>52.18259</south>
+</bbox>
+<score>102.20124816894531</score>
+</geoname>
+<geoname>
+<toponymName>Comberton</toponymName>
+<name>Comberton</name>
+<lat>52.19383</lat>
+<lng>0.02477</lng>
+<geonameId>7298338</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<adminCode4>12UG017</adminCode4>
+<adminName4>Comberton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.00635</west>
+<north>52.2165</north>
+<east>0.04318</east>
+<south>52.17115</south>
+</bbox>
+<score>76.2179946899414</score>
+</geoname>
+<geoname>
+<toponymName>Great Comberton</toponymName>
+<name>Great Comberton</name>
+<lat>52.07805</lat>
+<lng>-2.06693</lng>
+<geonameId>2648132</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Comberton,Great Comberton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Great_Comberton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.08157</west>
+<north>52.08704</north>
+<east>-2.05229</east>
+<south>52.06906</south>
+</bbox>
+<score>63.61309814453125</score>
+</geoname>
+</geonames>

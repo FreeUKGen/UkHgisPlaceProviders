@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Mitcheldean</toponymName>
+<name>Mitcheldean</name>
+<lat>51.8644</lat>
+<lng>-2.4895</lng>
+<geonameId>2642412</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2148</population>
+<alternateNames>Milcheldean,Mitcheldean</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UD</adminCode3>
+<adminName3>Forest of Dean</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mitcheldean</alternateName>
+<alternateName lang="unlc">MIT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.49678</west>
+<north>51.8689</north>
+<east>-2.48222</east>
+<south>51.85991</south>
+</bbox>
+<score>109.16612243652344</score>
+</geoname>
+<geoname>
+<toponymName>Mitcheldean</toponymName>
+<name>Mitcheldean</name>
+<lat>51.86321</lat>
+<lng>-2.49277</lng>
+<geonameId>7298589</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UD</adminCode3>
+<adminName3>Forest of Dean</adminName3>
+<adminCode4>23UD021</adminCode4>
+<adminName4>Mitcheldean</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.51987</west>
+<north>51.88658</north>
+<east>-2.46567</east>
+<south>51.83983</south>
+</bbox>
+<score>77.46487426757812</score>
+</geoname>
+</geonames>

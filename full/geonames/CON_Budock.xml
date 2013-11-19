@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Budock</toponymName>
+<name>Budock</name>
+<lat>50.14405</lat>
+<lng>-5.11785</lng>
+<geonameId>7294373</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE012</adminCode3>
+<adminName3>Budock</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.14472</west>
+<north>50.16481</north>
+<east>-5.09098</east>
+<south>50.12329</south>
+</bbox>
+<score>113.59483337402344</score>
+</geoname>
+<geoname>
+<toponymName>Budock Water</toponymName>
+<name>Budock Water</name>
+<lat>50.14533</lat>
+<lng>-5.10351</lng>
+<geonameId>2654375</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Budock,Budock Water</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE012</adminCode3>
+<adminName3>Budock</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Budock_Water</alternateName>
+<alternateName lang="unlc">BWV</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.11754</west>
+<north>50.15433</north>
+<east>-5.08947</east>
+<south>50.13634</south>
+</bbox>
+<score>62.83129119873047</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Aller</toponymName>
+<name>Aller</name>
+<lat>51.06028</lat>
+<lng>-2.85806</lng>
+<geonameId>2657484</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Aller</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aller%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.87237</west>
+<north>51.06927</north>
+<east>-2.84374</east>
+<south>51.05128</south>
+</bbox>
+<score>95.72116088867188</score>
+</geoname>
+<geoname>
+<toponymName>Aller</toponymName>
+<name>Aller</name>
+<lat>51.07023</lat>
+<lng>-2.86241</lng>
+<geonameId>7294134</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD003</adminCode4>
+<adminName4>Aller</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.89326</west>
+<north>51.10318</north>
+<east>-2.83156</east>
+<south>51.03729</south>
+</bbox>
+<score>75.41592407226562</score>
+</geoname>
+</geonames>

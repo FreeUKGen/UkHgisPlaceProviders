@@ -1,0 +1,192 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1230</id>
+<name>WALTON ON THE HILL</name>
+<container>LANCASHIRE</container>
+<lat>53.447144292409</lat>
+<lon>-2.92420113122822</lon>
+<gazetteerText>WALTON-ON-THE-HILL, a village and a township in West Derby district, and a parish partly also in Ormskirk district, Lancashire. The village stands near the Liverpool and Ormskirk railway, 3 miles N of Liverpool; and has a post-office&#8225; under Liverpool, and a r. station. The township comprises 1,886 acres. Real property, &#163;20,570; of which &#163;100 are in quarries. Pop. in 1851, 2,469; in 1861, 3,598,-of whom 679 were in Liverpool borough jail. Houses, 527. Villas are numerous, and in great variety. The Liverpool jail was erected between 1851 and 1861, and has capacity for 627 male and 429 female prisoners. A workhouse, on a site of 22 acres, was erected in 1864, at a cost of &#163;33,000. A cemetery at Anfield comprises nearly 120 acres. The parish contains also Everton, Kirkdale, Bootle-cum-Linacre, Fazakerley, Kirkby, Simonswood, and Formby townships; includes considerable part of Liverpool borough; and is ecclesiastically divided into 36 sections, one of which is Walton-Breck in W. township, and the others of which are noticed in our articles on the other townships and on Edgehilland Liverpool. Acres, 29,233; of which 9,600 are water. Pop. in 1851, 46,302; in 1861, 85,058. Houses, 14,113. The head living, or St. Mary&apos;s, is a rectory and a vicarage, and the living of W.-Breck or Trinity is a p. curacy, in the diocese of Chester. Value of St. M., &#163;1,300;* of T., &#163;230. Patron of St. M., J. S. Leigh, Esq.; of T., J. Stock, Esq. St. Mary&apos;s church is Tudor; and that of Trinity is recent. There are several dissenting chapels, a Roman Catholic chapel, an endowed school with &#163;47 a year, three national schools, and charities &#163;309. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LAN/WaltonontheHill/</link>
+<link>http://www.geonames.org/2634827</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41289</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41282</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41281</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41280</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41285</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41286</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41287</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41288</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41290</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41284</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41283</link>
+</links>
+<unit>
+   <id>10029132</id>
+   <status>USD</status>
+   <name>WALTON ON THE HILL</name>
+</unit>
+<unit>
+   <id>10074502</id>
+   <status>UD</status>
+   <name>WALTON ON THE HILL</name>
+</unit>
+<unit>
+   <id>10384096</id>
+   <status>EP</status>
+   <name>WALTON BRECK</name>
+</unit>
+<unit>
+   <id>10384138</id>
+   <status>CP/AP</status>
+   <name>WALTON ON THE HILL</name>
+</unit>
+<unit>
+   <id>10384151</id>
+   <status>EP</status>
+   <name>WALTON ON THE HILL</name>
+</unit>
+<unit>
+   <id>10384163</id>
+   <status>EP</status>
+   <name>WALTON ON THE HILL ST JOHN THE EVANGELIST</name>
+</unit>
+<unit>
+   <id>10384187</id>
+   <status>EP</status>
+   <name>WALTON ON THE HILL ST LUKE THE EVANGELIST</name>
+</unit>
+<unit>
+   <id>10384199</id>
+   <status>EP</status>
+   <name>WALTON ON THE HILL ST MARGARET BELMONT ROAD</name>
+</unit>
+<unit>
+   <id>10546266</id>
+   <status></status>
+   <name>WALTON</name>
+</unit>
+<unit>
+   <id>10581760</id>
+   <status></status>
+   <name>WALTON</name>
+</unit>
+<unit>
+   <id>12746325</id>
+   <status>PBDivCon/BCon</status>
+   <name>LIVERPOOL WALTON</name>
+</unit>
+<nearByPlace>
+   <id>962</id>
+   <name>BOOTLE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1294</id>
+   <name>KIRKBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9819</id>
+   <name>AINTREE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10067</id>
+   <name>CROXTETH PARK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10206</id>
+   <name>EVERTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10224</id>
+   <name>FAZAKERLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10686</id>
+   <name>MELLING</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10695</id>
+   <name>NETHERTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10741</id>
+   <name>ORRELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10897</id>
+   <name>SIMONSWOOD</name>
+</nearByPlace>
+</place>
+<place>
+<id>943</id>
+<name>WALTON LE DALE</name>
+<container>LANCASHIRE</container>
+<lat>53.7348873467078</lat>
+<lon>-2.65398211564636</lon>
+<gazetteerText>WALTON-LE-DALE, a village, a township, a chapelry, and a sub-district, in Blackburn parish and Preston district, Lancashire. The village stands on the river Ribble, 2 miles SE of Preston r. station; and has a post-office&#8225; under Preston. The township includes Bamber-Bridge and Higher Walton villages and three hamlets; and comprises 4,630 acres. Real property, &#163;22,358; of which &#163;72 are in fisheries. Pop. in 1851, 6,855; in 1861, 7,383. Houses, 1,387. The property is much subdivided. W. Lodge, W. Hall, Darwen Bank, Darwen Cottage, Cooper Hill, Prospect Hill, Lostock Hall, and Highwood are chief residences. There are five cotton-mils, a print-work, an iron-foundry, and a corn mill; and market gardening is considerable.&#151;The chapelry formerly included all the township, but now excludes Bamber-Bridge and Higher Walton. Pop., 3,283. The living is a vicarage in the diocese of Manchester. Value, &#163;300.* Patron, the Vicar of Black. burn. The church was rebuilt about 1350, and partially restored in 1794, 1816, and 1861. There are a Roman Catholic chapel, a national school, and charities &#163;78.&#151;The sub-district contains three townships. Acres, 9,400. Pop., 8,654. Houses, 1,634. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Walton-le-Dale</link>
+<link>http://www.genuki.org.uk/big/eng/LAN/WaltonleDale/</link>
+<link>http://www.geonames.org/2634830</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=53121</link>
+</links>
+<unit>
+   <id>10062949</id>
+   <status>USD</status>
+   <name>WALTON LE DALE</name>
+</unit>
+<unit>
+   <id>10173644</id>
+   <status>UD</status>
+   <name>WALTON LE DALE</name>
+</unit>
+<unit>
+   <id>10384102</id>
+   <status>CP/Ch</status>
+   <name>WALTON LE DALE</name>
+</unit>
+<unit>
+   <id>10384126</id>
+   <status>EP</status>
+   <name>WALTON LE DALE</name>
+</unit>
+<unit>
+   <id>10545500</id>
+   <status></status>
+   <name>WALTON LE DALE</name>
+</unit>
+<nearByPlace>
+   <id>10070</id>
+   <name>CUERDON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17257</id>
+   <name>SOUTH RIBBLE</name>
+</nearByPlace>
+</place>
+<place>
+<id>24584</id>
+<name>HIGHER WALTON</name>
+<container>LANCASHIRE</container>
+<lat>53.7419503267756</lat>
+<lon>-2.63990318383466</lon>
+<gazetteerText>WALTON (Higher), a chapelry in Walton-le-Dale township, Lancashire; 2&#190; miles E by N of Preston r. station. It was constituted in 1864; and its Post town is Preston. Pop., about 2,000. There are a cotton factory, print-works, and a foundry. The living is a p. curacy in the diocese of Manchester. Value, &#163;150. Patron, alternately the Bishop of M. and the Vicar of Blackburn. The church was built in 1863, at a cost of &#163;4,000; and is in the early English style. There is a Roman Catholic chapel. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Higher_Walton,_Lancashire</link>
+</links>
+<unit>
+   <id>10384084</id>
+   <status>EP</status>
+   <name>HIGHER WALTON</name>
+</unit>
+</place>
+<place>
+<id>24640</id>
+<name>WALTON JUNCTION</name>
+<container>LANCASHIRE</container>
+<lat>53.4557079447149</lat>
+<lon>-2.96393822276229</lon>
+<gazetteerText>WALTON-JUNCTION, a r. station in the SW of Lancashire: on the Lancashire and Yorkshire railway, midway between Liverpool and Walton-on-the-Hill, at the forking of the lines toward respectively Ormskirk and Southport. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+</place>
+</results>

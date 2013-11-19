@@ -1,0 +1,38 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>7576</id>
+<name>NORTH MUSKHAM</name>
+<container>NOTTINGHAMSHIRE</container>
+<lat>53.1219307241226</lat>
+<lon>-0.810401812255179</lon>
+<gazetteerText>MUSKHAM (North), a village, a township, and a parish, in Southwell district, Notts. The village stands on the river Trent, adjacent to the Great Northern railway, at a ferry to Holme, 3&#189; miles N of Newark; and has a post-office under Newark. The township includes the village, and extends into the country. Pop., 614. Houses, 140. The parish contains also the township of Bathley, and comprises 2, 180 acres. Real property, &#163;5, 161. Pop., 848. Houses, 194. The property is much subdivided. The manor belongs to J. T. Edge, Esq. The Grange is the residence of P. Handley, Esq. The living is a vicarage in the diocese of Lincoln. Value, &#163;300.* Patron, the Bishop of Ripon. The church is of the 14th century; and consists of nave, aisles, and chancel, with a tower. There are two Wesleyan chapels, an endowed school with &#163;61 a year, and charities &#163;47. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/NTT/NorthMuskham/index.html</link>
+<link>http://en.wikipedia.org/wiki/North_Muskham</link>
+<link>http://www.geonames.org/2641298</link>
+</links>
+<unit>
+   <id>10265400</id>
+   <status>CP/AP</status>
+   <name>NORTH MUSKHAM</name>
+</unit>
+<unit>
+   <id>10265423</id>
+   <status>EP</status>
+   <name>NORTH MUSKKHAM</name>
+</unit>
+<nearByPlace>
+   <id>7248</id>
+   <name>BATHLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7356</id>
+   <name>CROMWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7459</id>
+   <name>HOLME</name>
+</nearByPlace>
+</place>
+</results>

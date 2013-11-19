@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Northop</toponymName>
+<name>Northop</name>
+<lat>53.2011</lat>
+<lng>-3.12334</lng>
+<geonameId>7301171</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ024</adminCode3>
+<adminName3>Northop</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.15449</west>
+<north>53.22179</north>
+<east>-3.09218</east>
+<south>53.1804</south>
+</bbox>
+<score>105.09041595458984</score>
+</geoname>
+<geoname>
+<toponymName>Northop</toponymName>
+<name>Northop</name>
+<lat>53.20692</lat>
+<lng>-3.13277</lng>
+<geonameId>2641289</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ024</adminCode3>
+<adminName3>Northop</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Northop</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.14779</west>
+<north>53.21591</north>
+<east>-3.11775</east>
+<south>53.19792</south>
+</bbox>
+<score>85.21920776367188</score>
+</geoname>
+</geonames>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Maidstone</toponymName>
+<name>Maidstone</name>
+<lat>51.26667</lat>
+<lng>0.51667</lng>
+<geonameId>2643179</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>90894</population>
+<alternateNames>Maidstone,Meintstooun,Mejdston,Mejdstoun,medosuton,mei de si tong qu,meideuseuton,mydnstwn,Μέιντστοουν,Мейдстон,Мейдстоун,Мејдстон,میدنستون,メードストン,梅德斯通區,메이드스톤</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UH</adminCode3>
+<adminName3>Maidstone</adminName3>
+<alternateName lang="bg">Мейдстоун</alternateName>
+<alternateName lang="de">Maidstone</alternateName>
+<alternateName lang="el">Μέιντστοουν</alternateName>
+<alternateName lang="en">Maidstone</alternateName>
+<alternateName lang="es">Maidstone</alternateName>
+<alternateName lang="fa">میدنستون</alternateName>
+<alternateName lang="fi">Maidstone</alternateName>
+<alternateName lang="fr">Maidstone</alternateName>
+<alternateName lang="ja">メードストン</alternateName>
+<alternateName lang="ko">메이드스톤</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Maidstone</alternateName>
+<alternateName lang="nl">Maidstone</alternateName>
+<alternateName lang="no">Maidstone</alternateName>
+<alternateName lang="pl">Maidstone</alternateName>
+<alternateName lang="ru">Мейдстон</alternateName>
+<alternateName lang="sr">Мејдстон</alternateName>
+<alternateName lang="sv">Maidstone</alternateName>
+<alternateName lang="unlc">MDT</alternateName>
+<alternateName lang="zh">梅德斯通區</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.45437</west>
+<north>51.30561</north>
+<east>0.57896</east>
+<south>51.22772</south>
+</bbox>
+<score>131.17153930664062</score>
+</geoname>
+<geoname>
+<toponymName>Maidstone District</toponymName>
+<name>Maidstone</name>
+<lat>51.2753</lat>
+<lng>0.52837</lng>
+<geonameId>7290572</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Maidstone</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UH</adminCode3>
+<adminName3>Maidstone</adminName3>
+<alternateName lang="en">Maidstone</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.3781</west>
+<north>51.33875</north>
+<east>0.79644</east>
+<south>51.13395</south>
+</bbox>
+<score>59.80144119262695</score>
+</geoname>
+</geonames>

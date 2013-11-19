@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Old Romney</toponymName>
+<name>Old Romney</name>
+<lat>50.99012</lat>
+<lng>0.89487</lng>
+<geonameId>2640996</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>6945806</adminCode3>
+<adminName3>Shepway District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Old_Romney</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.88058</west>
+<north>50.99912</north>
+<east>0.90916</east>
+<south>50.98113</south>
+</bbox>
+<score>81.60588073730469</score>
+</geoname>
+<geoname>
+<toponymName>Old Romney</toponymName>
+<name>Old Romney</name>
+<lat>50.97629</lat>
+<lng>0.87703</lng>
+<geonameId>7294898</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>70.53778839111328</score>
+</geoname>
+</geonames>

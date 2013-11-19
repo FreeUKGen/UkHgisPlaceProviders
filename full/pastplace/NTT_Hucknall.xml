@@ -1,0 +1,103 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1062</id>
+<name>HUCKNALL</name>
+<container>NOTTINGHAMSHIRE</container>
+<lat>53.0315718962553</lat>
+<lon>-1.21282874266943</lon>
+<gazetteerText>HUCKNALL-TORKARD, a village and a parish in Basford district, Notts. The village stands near Hucknall r. station, 1 mile W of the river Trent, and 8 NNW of Nottingham; is a large place; and has a post office &#8225; under Nottingham.&#151;The parish comprises 3, 270 acres. Real property, &#163;6, 599. Pop., 2, 836. Houses, 611. The property is divided among a few. The manor belongs to the Duke of Portland. An extensive colliery, employing about 500 men, and yielding coal of excellent quality, was recently opened. Excellent limestone is quarried, and stocking making and lace making are carried on. The living is a vicarage in the diocese of Lincoln. Value, &#163;135. Patron, the Duke of Portland. The church is ancient, in tolerable condition; and contains the tomb of Lord Byron the poet, and monuments of several of his ancestors. There are chapels for Baptists, Wesleyans, Primitive Methodists, and New Connexion Methodists, a national school, and a charity of about &#163;50 a year. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/NTT/HucknallTorkard/index.html</link>
+<link>http://en.wikipedia.org/wiki/Hucknall</link>
+<link>http://www.geonames.org/2646460</link>
+</links>
+<unit>
+   <id>10004603</id>
+   <status>USD</status>
+   <name>HUCKNALL TORKARD</name>
+</unit>
+<unit>
+   <id>10220452</id>
+   <status>UD</status>
+   <name>HUCKNALL</name>
+</unit>
+<unit>
+   <id>10262392</id>
+   <status>CP/AP</status>
+   <name>HUCKNALL TORKARD</name>
+</unit>
+<unit>
+   <id>10262410</id>
+   <status>EP</status>
+   <name>HUCKNALL TORKARD</name>
+</unit>
+<unit>
+   <id>10553623</id>
+   <status></status>
+   <name>HUCKNALL TORKARD</name>
+</unit>
+<unit>
+   <id>12829231</id>
+   <status></status>
+   <name>HUCKNALL</name>
+</unit>
+<nearByPlace>
+   <id>7422</id>
+   <name>GREASLEY</name>
+</nearByPlace>
+</place>
+<place>
+<id>1291</id>
+<name>HUCKNALL UNDER HUTHWAITE</name>
+<container>NOTTINGHAMSHIRE</container>
+<lat>53.1157069098028</lat>
+<lon>-1.3017006156356</lon>
+<gazetteerText>HUCKNALL-UNDER-HUTHWAITE, a village and a township in Sutton-in-Ashfield parish, Notts. The village stands near the boundary with Derbyshire, 2&#190; miles W by N of Sutton r. station, and 5 WSW of Mansfield; and has a post office under Alfreton.-The township comprises 800 acres. Real property, &#163;2, 59 4. Pop., 1, 160. Houses, 244. There is an extensive colliery; and the manufacture of cotton hose is carried on. There is a Wesleyan chapel. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2646459</link>
+</links>
+<unit>
+   <id>10166986</id>
+   <status>UD</status>
+   <name>HUCKNALL UNDER HUTHWAITE</name>
+</unit>
+<unit>
+   <id>10174340</id>
+   <status>USD</status>
+   <name>HUCKNALL UNDER HUTHWAITE</name>
+</unit>
+</place>
+<place>
+<id>912</id>
+<name>HUTHWAITE</name>
+<container>NOTTINGHAMSHIRE</container>
+<lat>53.1247538751241</lat>
+<lon>-1.30237302673518</lon>
+<gazetteerText>HUTHWAITE, a hamlet in Sutton-in-Ashfield parish, Notts; 3 miles SW of Mansfield. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Huthwaite</link>
+<link>http://www.geonames.org/2646459</link>
+</links>
+<unit>
+   <id>10172706</id>
+   <status>UD</status>
+   <name>HUTHWAITE</name>
+</unit>
+<unit>
+   <id>10262422</id>
+   <status>CP/Hmlt</status>
+   <name>HUTHWAITE</name>
+</unit>
+<unit>
+   <id>10262513</id>
+   <status>EP</status>
+   <name>HUCKNALL UNDER HUTHWAITE</name>
+</unit>
+<unit>
+   <id>10262550</id>
+   <status>EP</status>
+   <name>HUTHWAITE</name>
+</unit>
+</place>
+</results>

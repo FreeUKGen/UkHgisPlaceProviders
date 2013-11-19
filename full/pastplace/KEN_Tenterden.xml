@@ -1,0 +1,111 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>386</id>
+<name>TENTERDEN</name>
+<container>KENT</container>
+<lat>51.0643947055034</lat>
+<lon>0.690614644633798</lon>
+<gazetteerText>Tenterden, mun. bor., market town, cinque port liberty, and par., Kent, 6&#189; miles NW. of Appledore ry. sta. and 10 miles N. of Eye - par., 8471 ac., pop. 3511; bor. and cinque port liberty (limb of the ancient town of Eye), 8948 ac., pop. 3620; P.O., T.O., 2 Banks. Market-day, Friday. The bor. (incorporated by Henry VI.) extends into Ebony par. Tenterden is situated on a height surrounded by hop plantations, and was at one time only 3 miles - now it is 12 miles - from the sea. St Mildred&apos;s parish church, with its lofty pinnacled tower - the &quot;Tenterden steeple&quot; proverbially said to have been the cause of the Goodwin Sands - was part of the monastery of St Augustine. The trade is almost purely local. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Tenterden</link>
+<link>http://www.workhouses.org.uk/Tenterden</link>
+<link>http://www.geonames.org/2636101</link>
+</links>
+<unit>
+   <id>10003702</id>
+   <status>RSD</status>
+   <name>TENTERDEN</name>
+</unit>
+<unit>
+   <id>10061659</id>
+   <status>MB</status>
+   <name>TENTERDEN</name>
+</unit>
+<unit>
+   <id>10081385</id>
+   <status>RD</status>
+   <name>TENTERDEN</name>
+</unit>
+<unit>
+   <id>10110002</id>
+   <status>USD</status>
+   <name>TENTERDEN</name>
+</unit>
+<unit>
+   <id>10133695</id>
+   <status>Borough</status>
+   <name>TENTERDEN</name>
+</unit>
+<unit>
+   <id>10140900</id>
+   <status>Hundred</status>
+   <name>TENTERDEN</name>
+</unit>
+<unit>
+   <id>10174648</id>
+   <status>RegD/PLU</status>
+   <name>TENTERDEN</name>
+</unit>
+<unit>
+   <id>10227495</id>
+   <status>AP/CP</status>
+   <name>TENTERDEN</name>
+</unit>
+<unit>
+   <id>10227501</id>
+   <status>EP</status>
+   <name>TENTERDEN</name>
+</unit>
+<unit>
+   <id>10227513</id>
+   <status>EP</status>
+   <name>TENTERDEN ST MICHAEL</name>
+</unit>
+<unit>
+   <id>10537034</id>
+   <status></status>
+   <name>TENTERDEN</name>
+</unit>
+<nearByPlace>
+   <id>2025</id>
+   <name>APPLEDORE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4494</id>
+   <name>KENARDINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5372</id>
+   <name>BIDDENDEN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5407</id>
+   <name>HIGH HALDEN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6332</id>
+   <name>ROLVENDEN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6396</id>
+   <name>SMARDEN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6421</id>
+   <name>STONE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6489</id>
+   <name>WITTERSHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6493</id>
+   <name>WOODCHURCH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8701</id>
+   <name>IDEN</name>
+</nearByPlace>
+</place>
+</results>

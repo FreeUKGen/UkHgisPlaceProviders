@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Alvington</toponymName>
+<name>Alvington</name>
+<lat>51.70444</lat>
+<lng>-2.57528</lng>
+<geonameId>2657383</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UD</adminCode3>
+<adminName3>Forest of Dean</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alvington%2C_Gloucestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.58979</west>
+<north>51.71344</north>
+<east>-2.56076</east>
+<south>51.69545</south>
+</bbox>
+<score>68.48043060302734</score>
+</geoname>
+<geoname>
+<toponymName>Alvington</toponymName>
+<name>Alvington</name>
+<lat>51.7116</lat>
+<lng>-2.57923</lng>
+<geonameId>7300594</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UD</adminCode3>
+<adminName3>Forest of Dean</adminName3>
+<adminCode4>23UD001</adminCode4>
+<adminName4>Alvington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.60891</west>
+<north>51.72866</north>
+<east>-2.54955</east>
+<south>51.69454</south>
+</bbox>
+<score>65.49524688720703</score>
+</geoname>
+</geonames>

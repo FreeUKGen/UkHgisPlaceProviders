@@ -1,0 +1,153 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>927</id>
+<name>TRURO</name>
+<container>CORNWALL</container>
+<lat>50.2629666878354</lat>
+<lon>-5.05384698388503</lon>
+<gazetteerText>Truro, mun. bor., city, par., seaport and market town, Cornwall, at the confluence of the Kenwyn and St Allen, at the head of Falmouth harbour, 8&#189; miles N. of Falmouth and 300 miles from London by rail - par., 3599 ac., pop. 6247; bor. (extending into Kenwyn par.), 1171 ac., pop. 10,619; 4 Banks, 2 newspapers. Market-days, Wednesday and Saturday. Truro (which is said to have originated in the trade with the Phoenicians) is the centre of a great mining district, and the seat of the stannary and other courts connected with the Duchy of Cornwall. Vessels of 100 tons come up to the quays, and a considerable trade is carried on in connection with the adjacent tin and copper mines. (For shipping statistics, see Appendix.) The smelting of tin is carried on to a great extent. Among the public buildings are the new cathedral, the grammar school, the mining college, and the museum of the Royal Institution of Cornwall. Samuel Foote (1720-1777), the comedian, was a native. In 1877 Truro was constituted the head of a new diocese, comprising the archdeaconry of Cornwall. It sent 2 representatives to Parliament from the 23d of Edward I. until 1885. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/Cornwall/Truro/index.html</link>
+<link>http://www.workhouses.org.uk/Truro</link>
+<link>http://en.wikipedia.org/wiki/Truro</link>
+<link>http://www.genuki.org.uk/big/eng/Cornwall/Truro/StMary/index.html</link>
+<link>http://www.geonames.org/2635412</link>
+</links>
+<unit>
+   <id>10000749</id>
+   <status>Borough</status>
+   <name>TRURO</name>
+</unit>
+<unit>
+   <id>10013677</id>
+   <status>EP</status>
+   <name>TRURO ST JOHN</name>
+</unit>
+<unit>
+   <id>10014530</id>
+   <status>EP</status>
+   <name>TRURO ST PAUL</name>
+</unit>
+<unit>
+   <id>10026246</id>
+   <status>RD</status>
+   <name>TRURO</name>
+</unit>
+<unit>
+   <id>10067546</id>
+   <status>EP</status>
+   <name>TRURO ST GEORGE</name>
+</unit>
+<unit>
+   <id>10074630</id>
+   <status>USD</status>
+   <name>TRURO</name>
+</unit>
+<unit>
+   <id>10089128</id>
+   <status>EP</status>
+   <name>TRURO ST MARY</name>
+</unit>
+<unit>
+   <id>10096704</id>
+   <status>AP/CP</status>
+   <name>TRURO ST MARY</name>
+</unit>
+<unit>
+   <id>10110592</id>
+   <status>RSD</status>
+   <name>TRURO</name>
+</unit>
+<unit>
+   <id>10111640</id>
+   <status>RegD/PLU</status>
+   <name>TRURO</name>
+</unit>
+<unit>
+   <id>10173383</id>
+   <status>MB</status>
+   <name>TRURO</name>
+</unit>
+<unit>
+   <id>10179841</id>
+   <status>CP</status>
+   <name>TRURO</name>
+</unit>
+<unit>
+   <id>10567166</id>
+   <status></status>
+   <name>TRURO</name>
+</unit>
+<unit>
+   <id>10568195</id>
+   <status></status>
+   <name>TRURO</name>
+</unit>
+<unit>
+   <id>12737312</id>
+   <status>CCon</status>
+   <name>TRURO AND ST AUSTELL</name>
+</unit>
+<unit>
+   <id>12744043</id>
+   <status>PBCon</status>
+   <name>TRURO</name>
+</unit>
+<unit>
+   <id>12751280</id>
+   <status>PDivCon</status>
+   <name>CORNWALL TRURO</name>
+</unit>
+<unit>
+   <id>12756938</id>
+   <status>CCon</status>
+   <name>TRURO</name>
+</unit>
+<unit>
+   <id>12833258</id>
+   <status></status>
+   <name>TRURO</name>
+</unit>
+<nearByPlace>
+   <id>1356</id>
+   <name>KENWYN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1621</id>
+   <name>FEOCK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1626</id>
+   <name>KEA</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1636</id>
+   <name>ST ALLEN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2230</id>
+   <name>VERYAN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2608</id>
+   <name>PROBUS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2833</id>
+   <name>PERRANZABULOE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3888</id>
+   <name>TREGONY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5101</id>
+   <name>LADOCK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5635</id>
+   <name>PERRANARWORTHAL</name>
+</nearByPlace>
+</place>
+</results>

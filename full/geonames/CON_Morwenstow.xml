@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Morwenstow</toponymName>
+<name>Morwenstow</name>
+<lat>50.90737</lat>
+<lng>-4.55024</lng>
+<geonameId>2642152</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Moorwinstow,Morwenstow</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE094</adminCode3>
+<adminName3>Morwenstow</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.5645</west>
+<north>50.91636</north>
+<east>-4.53597</east>
+<south>50.89837</south>
+</bbox>
+<score>81.37142944335938</score>
+</geoname>
+<geoname>
+<toponymName>Morwenstow</toponymName>
+<name>Morwenstow</name>
+<lat>50.90314</lat>
+<lng>-4.51381</lng>
+<geonameId>7294635</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE094</adminCode3>
+<adminName3>Morwenstow</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Morwenstow</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.57159</west>
+<north>50.93127</north>
+<east>-4.45603</east>
+<south>50.875</south>
+</bbox>
+<score>79.048828125</score>
+</geoname>
+</geonames>

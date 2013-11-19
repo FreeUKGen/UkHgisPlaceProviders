@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Crundale</toponymName>
+<name>Crundale</name>
+<lat>51.20366</lat>
+<lng>0.97418</lng>
+<geonameId>2651799</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Crundale%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.95982</west>
+<north>51.21265</north>
+<east>0.98854</east>
+<south>51.19466</south>
+</bbox>
+<score>84.78169250488281</score>
+</geoname>
+<geoname>
+<toponymName>Crundale</toponymName>
+<name>Crundale</name>
+<lat>51.2023</lat>
+<lng>0.97636</lng>
+<geonameId>7296477</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<adminCode4>29UB013</adminCode4>
+<adminName4>Crundale</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.94736</west>
+<north>51.21384</north>
+<east>1.00537</east>
+<south>51.19077</south>
+</bbox>
+<score>81.54335021972656</score>
+</geoname>
+<geoname>
+<toponymName>Crundale</toponymName>
+<name>Crundale</name>
+<lat>51.82417</lat>
+<lng>-4.94806</lng>
+<geonameId>3345260</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.96261</west>
+<north>51.83316</north>
+<east>-4.9335</east>
+<south>51.81517</south>
+</bbox>
+<score>64.91085052490234</score>
+</geoname>
+</geonames>

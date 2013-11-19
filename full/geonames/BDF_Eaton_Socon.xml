@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Eaton Socon</toponymName>
+<name>Eaton Socon</name>
+<lat>52.21752</lat>
+<lng>-0.28925</lng>
+<geonameId>2650293</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>12712</population>
+<alternateNames>Eaton Socon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eaton_Socon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.31247</west>
+<north>52.23174</north>
+<east>-0.26603</east>
+<south>52.2033</south>
+</bbox>
+<score>131.3155517578125</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Childswickham</toponymName>
+<name>Childswickham</name>
+<lat>52.0471</lat>
+<lng>-1.89409</lng>
+<geonameId>2653170</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Childs Wykeham,Childswickham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Childs_Wickham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.90872</west>
+<north>52.05609</north>
+<east>-1.87947</east>
+<south>52.0381</south>
+</bbox>
+<score>89.24285125732422</score>
+</geoname>
+<geoname>
+<toponymName>Childswickham</toponymName>
+<name>Childswickham</name>
+<lat>52.05079</lat>
+<lng>-1.90915</lng>
+<geonameId>7291724</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<adminCode4>47UF020</adminCode4>
+<adminName4>Childswickham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.94171</west>
+<north>52.0642</north>
+<east>-1.8766</east>
+<south>52.03739</south>
+</bbox>
+<score>82.91807556152344</score>
+</geoname>
+</geonames>

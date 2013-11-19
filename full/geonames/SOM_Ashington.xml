@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Ashington</toponymName>
+<name>Ashington</name>
+<lat>55.18359</lat>
+<lng>-1.59079</lng>
+<geonameId>7296747</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM012</adminCode3>
+<adminName3>Ashington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.65132</west>
+<north>55.20564</north>
+<east>-1.53027</east>
+<south>55.16154</south>
+</bbox>
+<score>100.72809600830078</score>
+</geoname>
+<geoname>
+<toponymName>Ashington</toponymName>
+<name>Ashington</name>
+<lat>50.93312</lat>
+<lng>-0.39087</lng>
+<geonameId>2656947</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2403</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UF</adminCode3>
+<adminName3>Horsham District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ashington%2C_West_Sussex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.40097</west>
+<north>50.93948</north>
+<east>-0.38078</east>
+<south>50.92676</south>
+</bbox>
+<score>91.0277099609375</score>
+</geoname>
+<geoname>
+<toponymName>Ashington</toponymName>
+<name>Ashington</name>
+<lat>55.16389</lat>
+<lng>-1.58639</lng>
+<geonameId>2656946</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Ashington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM012</adminCode3>
+<adminName3>Ashington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ashington</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.61789</west>
+<north>55.18188</north>
+<east>-1.55489</east>
+<south>55.1459</south>
+</bbox>
+<score>76.82198333740234</score>
+</geoname>
+<geoname>
+<toponymName>Ashington</toponymName>
+<name>Ashington</name>
+<lat>50.9413</lat>
+<lng>-0.39912</lng>
+<geonameId>7292752</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UF</adminCode3>
+<adminName3>Horsham District</adminName3>
+<adminCode4>45UF002</adminCode4>
+<adminName4>Ashington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.42041</west>
+<north>50.96412</north>
+<east>-0.37783</east>
+<south>50.91848</south>
+</bbox>
+<score>72.59593200683594</score>
+</geoname>
+</geonames>

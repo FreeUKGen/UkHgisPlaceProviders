@@ -1,0 +1,193 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1000</id>
+<name>WOOLWICH</name>
+<container>KENT</container>
+<lat>51.4938724024965</lat>
+<lon>0.07024772237403</lon>
+<gazetteerText>Woolwich, parl. bor., town, and par., Kent, on river Thames, 8 miles E. of London by rail - par., 1126 ac., pop. 36,665; bor. (including also the township of Eltham and the par. of Plumstead), 8296 ac., pop. 74,963; 3 Banks, 4 newspapers. The chief feature of Woolwich is the arsenal, one of the most extensive and complete establishments of the kind in the world. It is 4 miles in circumference, and is divided into the carriage, gun factory, laboratory, saddlery, and ordnance departments. The arsenal was transferred from Moorfields to Woolwich in 1716. The dockyard dates from the reign of Henry VIII., but it never attained to first rank among English naval yards. Almost the only buildings of interest are the military establishments, such as the military academy, the Rotunda or military museum, the barracks of the artillery and of the marine and royal engineers, the soldiers&apos; home, the ordnance hospital, and the Herbert hospital on the W. slope of Shooter&apos;s Hill. Military exercises and reviews are held on Woolwich Common; and at the practice range, on the marshes to the E., all cannon and new inventions in artillery are proved. There is a ferry from Woolwich pier to North Woolwich. Woolwich returns 1 member to Parliament; it was made a parliamentary borough in 1885, prior to which it was mostly included in the old parliamentary limits of Greenwich. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.nwkfhs.org.uk/WOOL_plc.htm</link>
+<link>http://en.wikipedia.org/wiki/Woolwich</link>
+<link>http://www.workhouses.org.uk/Woolwich</link>
+<link>http://www.geonames.org/2633583</link>
+</links>
+<unit>
+   <id>10187590</id>
+   <status>RegD/PLU</status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>10193904</id>
+   <status>MetB</status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>10229194</id>
+   <status>EP</status>
+   <name>WOOLWICH HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10229200</id>
+   <status>EP</status>
+   <name>WOOLWICH ST JOHN</name>
+</unit>
+<unit>
+   <id>10229224</id>
+   <status>EP</status>
+   <name>WOOLWICH ST MARY WITH HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10229236</id>
+   <status>EP</status>
+   <name>WOOLWICH ST MICHAEL AND ALL ANGELS</name>
+</unit>
+<unit>
+   <id>10229250</id>
+   <status>EP</status>
+   <name>WOOLWICH ST THOMAS</name>
+</unit>
+<unit>
+   <id>10230032</id>
+   <status>Vest/CP/AP</status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>10230044</id>
+   <status>EP</status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>10235698</id>
+   <status>CP</status>
+   <name>BOROUGH OF WOOLWICH</name>
+</unit>
+<unit>
+   <id>10539432</id>
+   <status></status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>10564761</id>
+   <status></status>
+   <name>WOOLWICH ARSENAL</name>
+</unit>
+<unit>
+   <id>10564773</id>
+   <status></status>
+   <name>WOOLWICH DOCKYARD</name>
+</unit>
+<unit>
+   <id>10594133</id>
+   <status></status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>12738730</id>
+   <status>PBCon</status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>12742745</id>
+   <status>BCon</status>
+   <name>GREENWICH WOOLWICH EAST</name>
+</unit>
+<unit>
+   <id>12749235</id>
+   <status>BCon/PBDivCon</status>
+   <name>WOOLWICH EAST</name>
+</unit>
+<unit>
+   <id>12753512</id>
+   <status>BCon</status>
+   <name>GREENWICH WOOLWICH WEST</name>
+</unit>
+<unit>
+   <id>12754826</id>
+   <status>BCon/PBDivCon</status>
+   <name>WOOLWICH WEST</name>
+</unit>
+<unit>
+   <id>12756460</id>
+   <status>BCon</status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>12780606</id>
+   <status></status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>12828512</id>
+   <status>Lon_SDist</status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>12829589</id>
+   <status></status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>12845510</id>
+   <status>AD_Town</status>
+   <name>WOOLWICH</name>
+</unit>
+<nearByPlace>
+   <id>167</id>
+   <name>GREENWICH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>441</id>
+   <name>CHISLEHURST</name>
+</nearByPlace>
+<nearByPlace>
+   <id>576</id>
+   <name>BEXLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>967</id>
+   <name>DARTFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1014</id>
+   <name>ERITH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1024</id>
+   <name>TONBRIDGE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1190</id>
+   <name>CRAYFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1191</id>
+   <name>SIDCUP</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2067</id>
+   <name>ELTHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6317</id>
+   <name>PLUMSTEAD</name>
+</nearByPlace>
+</place>
+<place>
+<id>22943</id>
+<name>NORTH WOOLWICH</name>
+<container>KENT</container>
+<lat>51.5010108215853</lat>
+<lon>0.0734533591980766</lon>
+<gazetteerText>North Woolwich, town with ry. sta., East Ham par., Essex, and detached part of Woolwich pan, Kent, on N. side of river Thames, opposite Woolwich and partly within its parliamentary limits, 8&#189; miles E. of London by rail, pop. 4098; P.O., T.O. Extensive factories, especially of telegraph cables, have recently sprung up here. The North Woolwich Gardens are a favourite holiday resort. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2641215</link>
+</links>
+<unit>
+   <id>10229273</id>
+   <status>EP</status>
+   <name>NORTH WOOLWICH</name>
+</unit>
+</place>
+</results>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Melbourn</toponymName>
+<name>Melbourn</name>
+<lat>52.08128</lat>
+<lng>0.01514</lng>
+<geonameId>2642802</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4394</population>
+<alternateNames>Melborn,Melbourn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Melbourn</alternateName>
+<alternateName lang="unlc">MEL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.00247</west>
+<north>52.08907</north>
+<east>0.02782</east>
+<south>52.0735</south>
+</bbox>
+<score>101.55072784423828</score>
+</geoname>
+<geoname>
+<toponymName>Melbourn</toponymName>
+<name>Melbourn</name>
+<lat>52.07514</lat>
+<lng>0.01639</lng>
+<geonameId>7294294</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<adminCode4>12UG070</adminCode4>
+<adminName4>Melbourn</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.02858</west>
+<north>52.10075</north>
+<east>0.06136</east>
+<south>52.04952</south>
+</bbox>
+<score>77.08869934082031</score>
+</geoname>
+</geonames>

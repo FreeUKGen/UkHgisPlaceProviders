@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>St. John</toponymName>
+<name>St. John</name>
+<lat>50.35018</lat>
+<lng>-4.23948</lng>
+<geonameId>7300043</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE159</adminCode3>
+<adminName3>St. John</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St_John%2C_Cornwall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.25673</west>
+<north>50.3646</north>
+<east>-4.22223</east>
+<south>50.33575</south>
+</bbox>
+<score>61.50669860839844</score>
+</geoname>
+<geoname>
+<toponymName>Saint John</toponymName>
+<name>Saint John</name>
+<lat>49.24694</lat>
+<lng>-2.1375</lng>
+<geonameId>3237497</geonameId>
+<countryCode>JE</countryCode>
+<countryName>Jersey</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population>2911</population>
+<alternateNames>Saint John,St Jean,St. John's,St. John’s</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1>3237497</adminCode1>
+<adminName1>Saint John</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Saint John</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saint_John%2C_Jersey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Jersey</timezone>
+<score>49.440853118896484</score>
+</geoname>
+</geonames>

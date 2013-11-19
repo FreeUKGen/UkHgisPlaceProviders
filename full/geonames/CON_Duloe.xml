@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Duloe</toponymName>
+<name>Duloe</name>
+<lat>50.39557</lat>
+<lng>-4.50417</lng>
+<geonameId>7300007</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE032</adminCode3>
+<adminName3>Duloe</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.5515</west>
+<north>50.43319</north>
+<east>-4.45683</east>
+<south>50.35794</south>
+</bbox>
+<score>115.13020324707031</score>
+</geoname>
+<geoname>
+<toponymName>Duloe</toponymName>
+<name>Duloe</name>
+<lat>50.38333</lat>
+<lng>-4.48333</lng>
+<geonameId>2650806</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE032</adminCode3>
+<adminName3>Duloe</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Duloe%2C_Cornwall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.51155</west>
+<north>50.40132</north>
+<east>-4.45511</east>
+<south>50.36535</south>
+</bbox>
+<score>73.02729797363281</score>
+</geoname>
+</geonames>

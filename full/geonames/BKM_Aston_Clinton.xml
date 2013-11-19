@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Aston Clinton</toponymName>
+<name>Aston Clinton</name>
+<lat>51.8002</lat>
+<lng>-0.7254</lng>
+<geonameId>2656864</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4128</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UB</adminCode3>
+<adminName3>Aylesbury Vale</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aston_Clinton</alternateName>
+<alternateName lang="unlc">ATN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.738</west>
+<north>51.80799</north>
+<east>-0.7128</east>
+<south>51.79241</south>
+</bbox>
+<score>95.21493530273438</score>
+</geoname>
+<geoname>
+<toponymName>Aston Clinton</toponymName>
+<name>Aston Clinton</name>
+<lat>51.79672</lat>
+<lng>-0.72164</lng>
+<geonameId>7292866</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UB</adminCode3>
+<adminName3>Aylesbury Vale</adminName3>
+<adminCode4>11UB006</adminCode4>
+<adminName4>Aston Clinton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.75823</west>
+<north>51.83474</north>
+<east>-0.68506</east>
+<south>51.7587</south>
+</bbox>
+<score>71.27378845214844</score>
+</geoname>
+</geonames>

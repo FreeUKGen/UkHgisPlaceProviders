@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Hoo</toponymName>
+<name>Hoo</name>
+<lat>51.41752</lat>
+<lng>0.5652</lng>
+<geonameId>2646656</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5377</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I3</adminCode2>
+<adminName2>Medway</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.55077</west>
+<north>51.42651</north>
+<east>0.57962</east>
+<south>51.40852</south>
+</bbox>
+<score>71.28453063964844</score>
+</geoname>
+<geoname>
+<toponymName>Hoo</toponymName>
+<name>Hoo</name>
+<lat>52.17969</lat>
+<lng>1.29237</lng>
+<geonameId>7291897</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UG</adminCode3>
+<adminName3>Suffolk Coastal District</adminName3>
+<adminCode4>42UG054</adminCode4>
+<adminName4>Hoo</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.26085</west>
+<north>52.19458</north>
+<east>1.32389</east>
+<south>52.16479</south>
+</bbox>
+<score>71.28453063964844</score>
+</geoname>
+<geoname>
+<toponymName>Hooton Station</toponymName>
+<name>Hooton Station</name>
+<lat>53.297</lat>
+<lng>-2.977</lng>
+<geonameId>2646643</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>HOO</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<alternateName lang="abbr">HOO</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hooton_railway_station</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>35.15010070800781</score>
+</geoname>
+</geonames>

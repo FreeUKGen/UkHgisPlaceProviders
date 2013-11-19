@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Reepham</toponymName>
+<name>Reepham</name>
+<lat>53.23333</lat>
+<lng>-0.43333</lng>
+<geonameId>2639511</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2172</population>
+<alternateNames>Reepham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Reepham%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.44085</west>
+<north>53.23783</north>
+<east>-0.42582</east>
+<south>53.22884</south>
+</bbox>
+<score>108.62281036376953</score>
+</geoname>
+<geoname>
+<toponymName>Reepham</toponymName>
+<name>Reepham</name>
+<lat>52.7632</lat>
+<lng>1.11099</lng>
+<geonameId>2639512</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Reepham%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.09613</west>
+<north>52.7722</north>
+<east>1.12586</east>
+<south>52.75421</south>
+</bbox>
+<score>81.86539459228516</score>
+</geoname>
+<geoname>
+<toponymName>Reepham</toponymName>
+<name>Reepham</name>
+<lat>53.25681</lat>
+<lng>-0.44104</lng>
+<geonameId>7293889</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<adminCode4>32UH080</adminCode4>
+<adminName4>Reepham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.47774</west>
+<north>53.26937</north>
+<east>-0.40433</east>
+<south>53.24425</south>
+</bbox>
+<score>78.45869445800781</score>
+</geoname>
+<geoname>
+<toponymName>Reepham</toponymName>
+<name>Reepham</name>
+<lat>52.76429</lat>
+<lng>1.09605</lng>
+<geonameId>7296661</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<adminCode4>33UC048</adminCode4>
+<adminName4>Reepham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.0466</west>
+<north>52.7905</north>
+<east>1.1455</east>
+<south>52.73808</south>
+</bbox>
+<score>78.45869445800781</score>
+</geoname>
+</geonames>

@@ -1,0 +1,112 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>460</id>
+<name>UTTOXETER</name>
+<container>STAFFORDSHIRE</container>
+<lat>52.8981111069099</lat>
+<lon>-1.86717584250785</lon>
+<gazetteerText>UTTOXETER, a town, a parish, a sub-district, and a district, in Staffordshire. The town stands on the U. canal, at a forking of railways, near the river Dove, 13 miles NE of Stafford; was known to the Saxons as Uttocceaster; was given, at the Norman conquest to H. de Ferrers; passed to John of Gaunt and to the Talbots; was the scene of some military operations in the civil wars of Charles I.; suffered severely from fire in 1672; had, for natives, the antiquary Sir S. Degge, the famous seaman Admiral Lord Gardner, and the mathematician Allen; is a seat of petty-sessions and a polling place; publishes a weekly newspaper; carries on brewing, cork-cutting, glue and leather manufacture; comprises several good streets, with a central market place; and has a post-office&#8225; under Stoke-on-Trent, a r. station with telegraph, two banking offices, a town hall of 1855, built at a cost of about &#163;4,000, an ancient six-arched bridge, a modern church, with ancient tower and spire, four dissenting chapels, a Roman Catholic chapel, a grammar-school, national and infant schools, a workhouse, alms houses, considerable charities, a weekly market on Wednesday, four annual cheese fairs, and five other annual fairs. Pop. in 1861, 3,645. Houses, 796.&#151;The parish includes also three hamlets, and is divided into five constablewicks. Acres, 8,973. Real property, &#163;18,699. Pop., 4,847. Houses, 1,047. The living is a vicarage in the diocese of Lichfield. Value, &#163;300.* Patrons, the Dean and Canons of Windsor. The p. curacy of Stramshall is a separate benefice.&#151;The sub-district contains 7 parishes. Acres, 24,807. Pop., 8,008. Houses, 1,683.&#151;The district includes also Abbots-Bromley and Sudbury sub-districts, and comprises 62,890 acres. Poor rates in 1863, &#163;6,453. Pop. in 1851, 15,140; in 1861, 14,787. Houses, 3,102. Marriages in 1863, 97; births, 412 -of which 36 were illegitimate; deaths, 307,-of which 94 were at ages under 5 years, and 12 at ages above 85. Marriages in the ten years 1851-60, 910; births, 3,992; deaths, 3,028. The places of worship, in 1851, were 19 of the Church of England, with 6,747 sittings; 3 of Independents, with 630 s.; 1 of Baptists, with 70 s.; 1 of Quakers, with 110 s.; 9 of Wesleyans, with 1,311 s.; 11 of Primitive Methodists, with 1,184 s.; 2 of Roman Catholics, with 135 s.; and 1 of Latter Day Saints, with 65 s. The schools were 26 public day-schools, with 1,410 scholars; 34 private day-schools, with 750 s.; 31 Sunday schools, with 1,668 s.; and 1 evening school for adults, with 5 s. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Uttoxeter</link>
+<link>http://www.workhouses.org.uk/Uttoxeter</link>
+<link>http://www.genuki.org.uk/big/eng/STS/Uttoxeter/index.html</link>
+<link>http://www.geonames.org/2635043</link>
+</links>
+<unit>
+   <id>10034486</id>
+   <status>RD</status>
+   <name>UTTOXETER</name>
+</unit>
+<unit>
+   <id>10074484</id>
+   <status>UD</status>
+   <name>UTTOXETER</name>
+</unit>
+<unit>
+   <id>10087170</id>
+   <status>Borough</status>
+   <name>UTTOXETER</name>
+</unit>
+<unit>
+   <id>10103393</id>
+   <status>RegD/PLU</status>
+   <name>UTTOXETER</name>
+</unit>
+<unit>
+   <id>10111043</id>
+   <status>RSD</status>
+   <name>UTTOXETER</name>
+</unit>
+<unit>
+   <id>10295737</id>
+   <status>CP/AP</status>
+   <name>UTTOXETER</name>
+</unit>
+<unit>
+   <id>10295762</id>
+   <status>EP</status>
+   <name>UTTOXETER</name>
+</unit>
+<unit>
+   <id>10295774</id>
+   <status>CP</status>
+   <name>UTTOXETER RURAL</name>
+</unit>
+<unit>
+   <id>10550270</id>
+   <status></status>
+   <name>UTTOXETER</name>
+</unit>
+<unit>
+   <id>10581576</id>
+   <status></status>
+   <name>UTTOXETER</name>
+</unit>
+<unit>
+   <id>12832874</id>
+   <status></status>
+   <name>UTTOXETER</name>
+</unit>
+<nearByPlace>
+   <id>1753</id>
+   <name>CHURCH BROUGHTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4043</id>
+   <name>DOVERIDGE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5206</id>
+   <name>SUDBURY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7917</id>
+   <name>ABBOTS BROMLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8028</id>
+   <name>DRAYCOTT IN THE CLAY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8210</id>
+   <name>KINGSTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8391</id>
+   <name>LEIGH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8404</id>
+   <name>MARCHINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8420</id>
+   <name>NEWBOROUGH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8540</id>
+   <name>STOWE</name>
+</nearByPlace>
+</place>
+</results>

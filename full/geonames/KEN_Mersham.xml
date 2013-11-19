@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Mersham</toponymName>
+<name>Mersham</name>
+<lat>51.1192</lat>
+<lng>0.93307</lng>
+<geonameId>2642712</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mersham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.91873</west>
+<north>51.1282</north>
+<east>0.9474</east>
+<south>51.11021</south>
+</bbox>
+<score>85.92919921875</score>
+</geoname>
+<geoname>
+<toponymName>Mersham</toponymName>
+<name>Mersham</name>
+<lat>51.11734</lat>
+<lng>0.91837</lng>
+<geonameId>7295850</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<adminCode4>29UB024</adminCode4>
+<adminName4>Mersham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.8871</west>
+<north>51.14146</north>
+<east>0.94964</east>
+<south>51.09321</south>
+</bbox>
+<score>76.62741088867188</score>
+</geoname>
+</geonames>

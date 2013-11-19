@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Penhow</toponymName>
+<name>Penhow</name>
+<lat>51.62035</lat>
+<lng>-2.85119</lng>
+<geonameId>7298859</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y6</adminCode2>
+<adminName2>City of Newport</adminName2>
+<adminCode3>00PR019</adminCode3>
+<adminName3>Penhow</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.87427</west>
+<north>51.6466</north>
+<east>-2.82811</east>
+<south>51.5941</south>
+</bbox>
+<score>114.28921508789062</score>
+</geoname>
+</geonames>

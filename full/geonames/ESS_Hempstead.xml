@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Hempstead</toponymName>
+<name>Hempstead</name>
+<lat>52.01653</lat>
+<lng>0.37886</lng>
+<geonameId>2647125</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5000</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UQ</adminCode3>
+<adminName3>Uttlesford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hempstead%2C_Essex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.36424</west>
+<north>52.02553</north>
+<east>0.39347</east>
+<south>52.00754</south>
+</bbox>
+<score>92.504638671875</score>
+</geoname>
+<geoname>
+<toponymName>Hempstead</toponymName>
+<name>Hempstead</name>
+<lat>52.88333</lat>
+<lng>1.11667</lng>
+<geonameId>2647124</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hempstead</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hempstead%2C_near_Holt%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.10176</west>
+<north>52.89233</north>
+<east>1.13157</east>
+<south>52.87434</south>
+</bbox>
+<score>90.50213623046875</score>
+</geoname>
+<geoname>
+<toponymName>Hempstead</toponymName>
+<name>Hempstead</name>
+<lat>52.01914</lat>
+<lng>0.39611</lng>
+<geonameId>7292036</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UQ</adminCode3>
+<adminName3>Uttlesford District</adminName3>
+<adminCode4>22UQ025</adminCode4>
+<adminName4>Hempstead</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.3545</west>
+<north>52.03913</north>
+<east>0.43773</east>
+<south>51.99915</south>
+</bbox>
+<score>69.97842407226562</score>
+</geoname>
+<geoname>
+<toponymName>Hempstead</toponymName>
+<name>Hempstead</name>
+<lat>52.88926</lat>
+<lng>1.12245</lng>
+<geonameId>7301841</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF041</adminCode4>
+<adminName4>Hempstead</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.10079</west>
+<north>52.90733</north>
+<east>1.14412</east>
+<south>52.8712</south>
+</bbox>
+<score>69.97842407226562</score>
+</geoname>
+</geonames>

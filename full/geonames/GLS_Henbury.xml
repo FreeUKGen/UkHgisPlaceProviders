@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Henbury</toponymName>
+<name>Henbury</name>
+<lat>51.50278</lat>
+<lng>-2.62167</lng>
+<geonameId>2647117</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Henbury</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B7</adminCode2>
+<adminName2>City of Bristol</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Henbury</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.62745</west>
+<north>51.50638</north>
+<east>-2.61589</east>
+<south>51.49918</south>
+</bbox>
+<score>84.12083435058594</score>
+</geoname>
+<geoname>
+<toponymName>Henbury</toponymName>
+<name>Henbury</name>
+<lat>53.25348</lat>
+<lng>-2.20059</lng>
+<geonameId>7293002</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z7</adminCode2>
+<adminName2>Cheshire East</adminName2>
+<adminCode3>00EQ062</adminCode3>
+<adminName3>Henbury</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Henbury%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.23427</west>
+<north>53.27085</north>
+<east>-2.16692</east>
+<south>53.23612</south>
+</bbox>
+<score>70.46441650390625</score>
+</geoname>
+</geonames>

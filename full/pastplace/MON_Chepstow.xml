@@ -1,0 +1,98 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>505</id>
+<name>CHEPSTOW</name>
+<container>MONMOUTHSHIRE</container>
+<lat>51.6276396805274</lat>
+<lon>-2.67298060407059</lon>
+<gazetteerText>Chepstow, market town, river-port, and par., with ry. sta., Monmouthshire, on SE. border of co., 17 miles NE. of Newport and 142 miles W. of London -- par. and town, 1096 ac. and 187 ac. tidal water and foreshore, pop. 3591; P.O., T.O., 1 Bank, 1 newspaper.Market-days, Wednesday and Saturday; is situated on the Wye, 2 miles from its junction with the Severn, amidst scenery of much beauty and grandeur. C. has a river and coast trade in coal, iron, timber, bark, cider, &amp;c. Chepstow is now a sub-port of Gloucester. The river is navigable for large vessels as far as the bridge, but from the narrowness and depth of the channel the tide forms a dangerous bore, frequently rising to the height of 50 ft., and even higher. The castle (11th century), which stands on the summit of a cliff washed by the Wye, gradually sank into ruins after its capture by Cromwell, but is still a magnificent pile. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Chepstow</link>
+<link>http://www.geonames.org/2653256</link>
+<link>http://www.workhouses.org.uk/Chepstow</link>
+<link>http://www.genuki.org.uk/big/wal/MON/Chepstow/index.html</link>
+</links>
+<unit>
+   <id>10013240</id>
+   <status>CP/AP</status>
+   <name>CHEPSTOW</name>
+</unit>
+<unit>
+   <id>10090660</id>
+   <status>UD</status>
+   <name>CHEPSTOW</name>
+</unit>
+<unit>
+   <id>10112102</id>
+   <status>RegD/PLU</status>
+   <name>CHEPSTOW</name>
+</unit>
+<unit>
+   <id>10177674</id>
+   <status>RD</status>
+   <name>CHEPSTOW</name>
+</unit>
+<unit>
+   <id>10226170</id>
+   <status>RSD</status>
+   <name>CHEPSTOW</name>
+</unit>
+<unit>
+   <id>10549176</id>
+   <status></status>
+   <name>CHEPSTOW</name>
+</unit>
+<unit>
+   <id>10563288</id>
+   <status></status>
+   <name>CHEPSTOW</name>
+</unit>
+<unit>
+   <id>12746490</id>
+   <status>PDivCon</status>
+   <name>MONMOUTHSHIRE SOUTHERN</name>
+</unit>
+<unit>
+   <id>12827260</id>
+   <status>USD</status>
+   <name>CHEPSTOW</name>
+</unit>
+<nearByPlace>
+   <id>2466</id>
+   <name>HOWICK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2834</id>
+   <name>ITTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6449</id>
+   <name>ST KINMARKS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8763</id>
+   <name>ST ARVANS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10338</id>
+   <name>AUST</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10638</id>
+   <name>ELBERTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10813</id>
+   <name>MOUNTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10953</id>
+   <name>LITTLETON UPON SEVERN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>14570</id>
+   <name>MATHERNE</name>
+</nearByPlace>
+</place>
+</results>

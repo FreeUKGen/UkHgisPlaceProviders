@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Warehorne</toponymName>
+<name>Warehorne</name>
+<lat>51.05788</lat>
+<lng>0.8393</lng>
+<geonameId>2634654</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.82498</west>
+<north>51.06687</north>
+<east>0.85361</east>
+<south>51.04888</south>
+</bbox>
+<score>66.0160903930664</score>
+</geoname>
+<geoname>
+<toponymName>Warehorne</toponymName>
+<name>Warehorne</name>
+<lat>51.06001</lat>
+<lng>0.82983</lng>
+<geonameId>7294680</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<adminCode4>29UB038</adminCode4>
+<adminName4>Warehorne</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Warehorne</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.80283</west>
+<north>51.08868</north>
+<east>0.85683</east>
+<south>51.03135</south>
+</bbox>
+<score>60.42640686035156</score>
+</geoname>
+</geonames>

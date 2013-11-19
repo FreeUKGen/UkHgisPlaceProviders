@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Prestbury</toponymName>
+<name>Prestbury</name>
+<lat>53.3012</lat>
+<lng>-2.15451</lng>
+<geonameId>7294569</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z7</adminCode2>
+<adminName2>Cheshire East</adminName2>
+<adminCode3>00EQ108</adminCode3>
+<adminName3>Prestbury</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.18458</west>
+<north>53.33181</north>
+<east>-2.12443</east>
+<south>53.27058</south>
+</bbox>
+<score>103.94903564453125</score>
+</geoname>
+<geoname>
+<toponymName>Prestbury</toponymName>
+<name>Prestbury</name>
+<lat>53.28333</lat>
+<lng>-2.15</lng>
+<geonameId>2639925</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>3342</population>
+<alternateNames>Prestburg</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z7</adminCode2>
+<adminName2>Cheshire East</adminName2>
+<adminCode3>00EQ108</adminCode3>
+<adminName3>Prestbury</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Prestbury%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.16064</west>
+<north>53.28969</north>
+<east>-2.13936</east>
+<south>53.27697</south>
+</bbox>
+<score>93.93745422363281</score>
+</geoname>
+<geoname>
+<toponymName>Prestbury</toponymName>
+<name>Prestbury</name>
+<lat>51.91852</lat>
+<lng>-2.06101</lng>
+<geonameId>7298562</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UB</adminCode3>
+<adminName3>Cheltenham</adminName3>
+<adminCode4>23UB002</adminCode4>
+<adminName4>Prestbury</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Prestbury%2C_Gloucestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.08935</west>
+<north>51.9297</north>
+<east>-2.03267</east>
+<south>51.90734</south>
+</bbox>
+<score>51.409881591796875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Westhoughton</toponymName>
+<name>Westhoughton</name>
+<lat>53.54899</lat>
+<lng>-2.52464</lng>
+<geonameId>2634387</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>22994</population>
+<alternateNames>Westhoughton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B1</adminCode2>
+<adminName2>Bolton</adminName2>
+<adminCode3>00BL003</adminCode3>
+<adminName3>Westhoughton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Westhoughton</alternateName>
+<alternateName lang="unlc">WTG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.55765</west>
+<north>53.5686</north>
+<east>-2.49163</east>
+<south>53.52939</south>
+</bbox>
+<score>131.65386962890625</score>
+</geoname>
+<geoname>
+<toponymName>Westhoughton</toponymName>
+<name>Westhoughton</name>
+<lat>53.551</lat>
+<lng>-2.52782</lng>
+<geonameId>7300546</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B1</adminCode2>
+<adminName2>Bolton</adminName2>
+<adminCode3>00BL003</adminCode3>
+<adminName3>Westhoughton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.5696</west>
+<north>53.57916</north>
+<east>-2.48603</east>
+<south>53.52284</south>
+</bbox>
+<score>114.16382598876953</score>
+</geoname>
+</geonames>

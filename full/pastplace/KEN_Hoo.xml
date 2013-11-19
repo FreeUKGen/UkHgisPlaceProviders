@@ -1,0 +1,114 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>4976</id>
+<name>HOO</name>
+<container>KENT</container>
+<lat>51.422499885119</lat>
+<lon>0.581612373810913</lon>
+<gazetteerText>HOO, a district and a hundred in Kent. The district occupies the peninsula between the Thames and the Medway; and contains the parishes of Hoo-ST. Werburgh, Stoke, Isle of Grain, Allhallows, Hoo-St. Mary, High Halstow, and Cooling. Acres, 33, 281. Poor rates in 1863, &#163;1, 964. Pop. in 1851, 2, 845; in 1861, 2, 861. Houses, 544. Marriages in 1862, 16; births, 134, -of which 6 were illegitimate; deaths, 78, -of which 26 were at ages under 5 years, and 1 at an age above 85. Marriages in the ten years 1851-60, 128; births, 1, 091; deaths, 710. The places of worship, in 1851, were 7 of the Church of England, with 1, 266 sittings; 1 of Baptists, with 120 s.; 1 of Wesleyans, with 100 s.; 2 of Bible Christians, with 165 s.; and 1 undefined, with 120 s. The schools were 2 public day schools, with 130 scholars; 8 private day schools, with 139 s.; and 10 Sunday schools, with 402 s. The workhouse is in Hoo-ST. Werburgh; and, at the Census of 1861, had 55 inmates.-The hundred is in the lathe of Aylesford; and is nearly identical with the district, but smaller. Pop. in 1851, 2, 457. Houses, 449. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Hoo_St_Werburgh</link>
+<link>http://www.workhouses.org.uk/Hoo</link>
+<link>http://www.geonames.org/2646656</link>
+<link>http://www.nwkfhs.org.uk/HOOW_plc.htm</link>
+</links>
+<unit>
+   <id>10081336</id>
+   <status>CP</status>
+   <name>HOO ST WERBURGH</name>
+</unit>
+<unit>
+   <id>10109863</id>
+   <status>RSD</status>
+   <name>HOO</name>
+</unit>
+<unit>
+   <id>10140560</id>
+   <status>Hundred</status>
+   <name>HOO</name>
+</unit>
+<unit>
+   <id>10154911</id>
+   <status>RegD/PLU</status>
+   <name>HOO</name>
+</unit>
+<unit>
+   <id>10172433</id>
+   <status>AP/CP</status>
+   <name>HOO</name>
+</unit>
+<unit>
+   <id>10201329</id>
+   <status>EP</status>
+   <name>HOO ST WERBURGH</name>
+</unit>
+<unit>
+   <id>10201380</id>
+   <status>RD</status>
+   <name>HOO</name>
+</unit>
+<unit>
+   <id>10536546</id>
+   <status></status>
+   <name>HOO</name>
+</unit>
+<nearByPlace>
+   <id>2082</id>
+   <name>HIGH HALSTOW</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6417</id>
+   <name>STOKE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17272</id>
+   <name>MEDWAY</name>
+</nearByPlace>
+</place>
+<place>
+<id>4486</id>
+<name>ST MARY HOO</name>
+<container>KENT</container>
+<lat>51.4706115369337</lat>
+<lon>0.595421129642794</lon>
+<gazetteerText>HOO, or HOO-ST. MARY, a village and a parish in Hoo district, Kent. The village stands 1&#189; mile S of the Thames, 6 ENE of Higham r. station, and 6&#189; NE of Rochester; and occupies a comparatively high site, with a belt of marsh between it and the Thames.&#151;The parish comprises 2, 196 acres of land, and 670 of water; and its post town is Rochester. Real property, &#163;3, 882. Pop., 264. Houses, 50. The property is divided among a few. The living is a rectory in the diocese of Rochester. Value, &#163;502.* Patron, the Rev. R. G. Burt. The church consists of nave and chancel, with a tower. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/St_Mary_Hoo</link>
+<link>http://www.nwkfhs.org.uk/HOOM_plc.htm</link>
+</links>
+<unit>
+   <id>10151909</id>
+   <status>CP/AP</status>
+   <name>ST MARY HOO</name>
+</unit>
+<unit>
+   <id>10151910</id>
+   <status>EP</status>
+   <name>ST MARY HOO</name>
+</unit>
+</place>
+<place>
+<id>5365</id>
+<name>ALLHALLOWS</name>
+<container>KENT</container>
+<lat>51.4765484257481</lat>
+<lon>0.646448209871297</lon>
+<gazetteerText>ALLHALLOWS, or Hoo-Allhallows, a parish in Hoo district, Kent; on the Thames, 8&#189; miles NE of Strood r. station. Post Town, Hoo under Rochester. Acres, 5,165; of which 2,705 are water. Real property, &#163;3,689. Pop., 236. Houses, 45. The property is divided among a few. The coastguard station of Yantlet Creek is on the shore. The living is a vicarage in the diocese of Rochester. Value, &#163;247. Patrons, the Dean and Chapter of Rochester. The church is very good. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2657476</link>
+<link>http://en.wikipedia.org/wiki/Allhallows,_Kent</link>
+<link>http://www.nwkfhs.org.uk/HOOA_plc.htm</link>
+</links>
+<unit>
+   <id>10171507</id>
+   <status>EP</status>
+   <name>ALLHALLOWS</name>
+</unit>
+<unit>
+   <id>10192481</id>
+   <status>AP/CP</status>
+   <name>ALLHALLOWS</name>
+</unit>
+</place>
+</results>

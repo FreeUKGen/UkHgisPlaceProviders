@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Scorborough</toponymName>
+<name>Scorborough</name>
+<lat>53.89545</lat>
+<lng>-0.4596</lng>
+<geonameId>2638370</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Scorborough,Scorbrough</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB087</adminCode3>
+<adminName3>Leconfield</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Scorborough</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.47487</west>
+<north>53.90444</north>
+<east>-0.44434</east>
+<south>53.88646</south>
+</bbox>
+<score>99.95783996582031</score>
+</geoname>
+</geonames>

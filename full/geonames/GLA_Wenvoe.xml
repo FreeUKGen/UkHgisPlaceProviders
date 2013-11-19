@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wenvoe</toponymName>
+<name>Wenvoe</name>
+<lat>51.43847</lat>
+<lng>-3.28228</lng>
+<geonameId>7298038</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<adminCode3>00PD026</adminCode3>
+<adminName3>Wenvoe</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.32689</west>
+<north>51.46557</north>
+<east>-3.23767</east>
+<south>51.41137</south>
+</bbox>
+<score>113.38196563720703</score>
+</geoname>
+<geoname>
+<toponymName>Wenvoe</toponymName>
+<name>Wenvoe</name>
+<lat>51.44776</lat>
+<lng>-3.26369</lng>
+<geonameId>2634525</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Wenvoe</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<adminCode3>00PD026</adminCode3>
+<adminName3>Wenvoe</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wenvoe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.27813</west>
+<north>51.45676</north>
+<east>-3.24926</east>
+<south>51.43877</south>
+</bbox>
+<score>107.72015380859375</score>
+</geoname>
+</geonames>

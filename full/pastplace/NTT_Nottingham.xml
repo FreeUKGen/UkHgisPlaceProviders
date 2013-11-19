@@ -1,0 +1,893 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>15</id>
+<name>NOTTINGHAM</name>
+<container>NOTTINGHAMSHIRE</container>
+<lat>52.9649045286189</lat>
+<lon>-1.17440749170105</lon>
+<gazetteerText>Nottingham, parl. and mun. bor., market town, co. town of Notts, and co. in itself, on the N. bank of the Trent, 15 miles E. of Derby and 126 NW. of London by rail, 9960 ac., pop. 186,575; 6 Banks, 6 newspapers. Market-days, Wednesday and Saturday. Little is known concerning the early history of the town. A stronghold was built by William the Conqueror, during whose reign also the town was fortified. During the Barons&apos; Wars Nottingham was a centre of turbulence, and was taken several times, being partially destroyed in the reign of Stephen. Edward IV. was proclaimed here in 1460. Charles I. was besieged in Nottingham in 1642, and in the following year the town surrendered to Colonel Hutchinson, the Parliamentarian commander. Its public buildings do not call for special remark. The castle, founded by William I., was dismantled in the time of the Commonwealth, and after being rebuilt as a dwelling-house was burnt by the Reform rioters in 1830. It is now restored, and contains the &quot; Midland Counties Art Museum,&quot; the property of the corporation. Lacemaking and the mfr. of cotton hosiery are very important industries, nearly all the supply of British laces being made in the town. Silk, flax, and woollen mills are also in operation; the mfr. of weaving and netting machinery is largely carried on; and iron-foundries, breweries, and tanneries are successful seats of industry. A picturesque feature of the town is&quot; its arboretum, 18 acres in extent. Nottingham returns 3 members to Parliament (3 divisions - viz., West, East, and South, 1 member for each division); its representation was increased from 2 to 3 members in 1885, when the parliamentary limits were extended. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/NTT/Nottingham/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/NTT/Nottingham/StMary/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/NTT/Nottingham/StPeter/index.html</link>
+<link>http://en.wikipedia.org/wiki/Nottingham</link>
+<link>http://www.workhouses.org.uk/Nottingham</link>
+<link>http://www.genuki.org.uk/big/eng/NTT/Nottingham/StNicholas/index.html</link>
+<link>http://www.geonames.org/2641170</link>
+</links>
+<unit>
+   <id>10268862</id>
+   <status>EP</status>
+   <name>NOTTINGHAM ST PAUL</name>
+</unit>
+<unit>
+   <id>10266063</id>
+   <status>EP</status>
+   <name>NOTTINGHAM EMMANUEL</name>
+</unit>
+<unit>
+   <id>10266154</id>
+   <status>EP</status>
+   <name>NOTTINGHAM ST ANDREW</name>
+</unit>
+<unit>
+   <id>10266520</id>
+   <status>EP</status>
+   <name>NOTTINGHAM ST MARY THE VIRGIN</name>
+</unit>
+<unit>
+   <id>12738274</id>
+   <status>PBDivCon</status>
+   <name>NOTTINGHAM WEST</name>
+</unit>
+<unit>
+   <id>10004615</id>
+   <status>USD</status>
+   <name>NOTTINGHAM</name>
+</unit>
+<unit>
+   <id>10166494</id>
+   <status>Borough</status>
+   <name>NOTTINGHAM</name>
+</unit>
+<unit>
+   <id>10266191</id>
+   <status>EP</status>
+   <name>NOTTINGHAM ST ANN WITH EMMANUEL</name>
+</unit>
+<unit>
+   <id>10553775</id>
+   <status></status>
+   <name>NOTTINGHAM NORTH EAST</name>
+</unit>
+<unit>
+   <id>10268977</id>
+   <status>EP</status>
+   <name>NOTTINGHAM ST STEPHEN</name>
+</unit>
+<unit>
+   <id>10268930</id>
+   <status>EP</status>
+   <name>NOTTINGHAM ST PHILIP WITH ST LUKE</name>
+</unit>
+<unit>
+   <id>10268953</id>
+   <status>EP</status>
+   <name>NOTTINGHAM ST SAVIOUR</name>
+</unit>
+<unit>
+   <id>10266051</id>
+   <status>EP</status>
+   <name>NOTTINGHAM ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10561516</id>
+   <status></status>
+   <name>BYRON</name>
+</unit>
+<unit>
+   <id>12738262</id>
+   <status>PBDivCon/BCon</status>
+   <name>NOTTINGHAM EAST</name>
+</unit>
+<unit>
+   <id>12781131</id>
+   <status></status>
+   <name>NOTTINGHAM</name>
+</unit>
+<unit>
+   <id>10568353</id>
+   <status></status>
+   <name>NOTTINGHAM</name>
+</unit>
+<unit>
+   <id>10266336</id>
+   <status>EP</status>
+   <name>NOTTINGHAM ST GEORGE</name>
+</unit>
+<unit>
+   <id>10266476</id>
+   <status>EP</status>
+   <name>NOTTINGHAM ST MARK</name>
+</unit>
+<unit>
+   <id>10577949</id>
+   <status></status>
+   <name>NOTTINGHAM</name>
+</unit>
+<unit>
+   <id>10577974</id>
+   <status></status>
+   <name>NOTTINGHAM 2</name>
+</unit>
+<unit>
+   <id>10268874</id>
+   <status>CP/AP</status>
+   <name>NOTTINGHAM ST PETER</name>
+</unit>
+<unit>
+   <id>10268849</id>
+   <status>CP/AP</status>
+   <name>NOTTINGHAM ST NICHOLAS</name>
+</unit>
+<unit>
+   <id>10266488</id>
+   <status>CP/AP</status>
+   <name>NOTTINGHAM ST MARY</name>
+</unit>
+<unit>
+   <id>10063231</id>
+   <status>RegD/PLPar/PLU</status>
+   <name>NOTTINGHAM</name>
+</unit>
+<unit>
+   <id>10001389</id>
+   <status>MB/CB</status>
+   <name>NOTTINGHAM</name>
+</unit>
+<unit>
+   <id>12757517</id>
+   <status>BCon</status>
+   <name>NOTTINGHAM SOUTH</name>
+</unit>
+<unit>
+   <id>12753032</id>
+   <status>PBDivCon/BCon</status>
+   <name>NOTTINGHAM SOUTH</name>
+</unit>
+<unit>
+   <id>12746684</id>
+   <status>BCon</status>
+   <name>NOTTINGHAM NORTH</name>
+</unit>
+<unit>
+   <id>12736356</id>
+   <status>BCon</status>
+   <name>NOTTINGHAM NORTH WEST</name>
+</unit>
+<unit>
+   <id>12756422</id>
+   <status>BCon</status>
+   <name>NOTTINGHAM WEST</name>
+</unit>
+<unit>
+   <id>10577962</id>
+   <status></status>
+   <name>NOTTINGHAM 1</name>
+</unit>
+<unit>
+   <id>12738250</id>
+   <status>PBDivCon/BCon</status>
+   <name>NOTTINGHAM CENTRAL</name>
+</unit>
+<unit>
+   <id>10268989</id>
+   <status>EP</status>
+   <name>NOTTINGHAM ST THOMAS</name>
+</unit>
+<unit>
+   <id>10266026</id>
+   <status>CP</status>
+   <name>NOTTINGHAM</name>
+</unit>
+<unit>
+   <id>10168600</id>
+   <status>UA</status>
+   <name>NOTTINGHAM</name>
+</unit>
+<unit>
+   <id>12845558</id>
+   <status>AD_Town/CntyOfIt</status>
+   <name>NOTTINGHAM</name>
+</unit>
+<unit>
+   <id>10553799</id>
+   <status></status>
+   <name>NOTTINGHAM SOUTH EAST</name>
+</unit>
+<unit>
+   <id>10562624</id>
+   <status></status>
+   <name>CASTLE</name>
+</unit>
+<unit>
+   <id>10562703</id>
+   <status></status>
+   <name>ST MARY</name>
+</unit>
+<unit>
+   <id>10268904</id>
+   <status>EP</status>
+   <name>NOTTINGHAM ST PETER</name>
+</unit>
+<unit>
+   <id>10474632</id>
+   <status>CP</status>
+   <name>NOTTINGHAM SHIRE HALL</name>
+</unit>
+<unit>
+   <id>10268850</id>
+   <status>EP</status>
+   <name>NOTTINGHAM ST NICHOLAS</name>
+</unit>
+<unit>
+   <id>12830750</id>
+   <status></status>
+   <name>NOTTINGHAM</name>
+</unit>
+<unit>
+   <id>10577986</id>
+   <status></status>
+   <name>NOTTINGHAM 3</name>
+</unit>
+<unit>
+   <id>10266105</id>
+   <status>EP</status>
+   <name>NOTTINGHAM HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10577950</id>
+   <status></status>
+   <name>NOTTINGHAM</name>
+</unit>
+<unit>
+   <id>10266166</id>
+   <status>EP</status>
+   <name>NOTINGHAM ST ANN</name>
+</unit>
+<unit>
+   <id>10266208</id>
+   <status>EP</status>
+   <name>NOTTINGHAM ST BARTHOLOMEW</name>
+</unit>
+<unit>
+   <id>10266350</id>
+   <status>EP</status>
+   <name>NOTTINGHAM ST GEORGE WITH ST JOHN THE BAPTIST</name>
+</unit>
+<unit>
+   <id>10266087</id>
+   <status>EP</status>
+   <name>NOTTINGHAM HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10266117</id>
+   <status>EP</status>
+   <name>NOTTINGHAM HOLY TRINITY WITH ST MARK</name>
+</unit>
+<unit>
+   <id>10268916</id>
+   <status>EP</status>
+   <name>NOTTINGHAM ST PETER WITH ST JAMES</name>
+</unit>
+<unit>
+   <id>10266415</id>
+   <status>EP</status>
+   <name>NOTTINGHAM ST LUKE</name>
+</unit>
+<unit>
+   <id>10268928</id>
+   <status>EP</status>
+   <name>NOTTINGHAM ST PHILIP</name>
+</unit>
+<unit>
+   <id>10266531</id>
+   <status>EP</status>
+   <name>NOTTINGHAM ST MATTHEW</name>
+</unit>
+<unit>
+   <id>10474620</id>
+   <status>RD</status>
+   <name>NOTTINGHAM</name>
+</unit>
+<unit>
+   <id>10266361</id>
+   <status>EP</status>
+   <name>NOTTINGHAM ST JAMES</name>
+</unit>
+<unit>
+   <id>12749090</id>
+   <status>PBCon</status>
+   <name>NOTTINGHAM</name>
+</unit>
+<unit>
+   <id>10266385</id>
+   <status>EP</status>
+   <name>NOTTINGHAM ST JOHN THE BAPTIST</name>
+</unit>
+<nearByPlace>
+   <id>88</id>
+   <name>ARNOLD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>107</id>
+   <name>LONG EATON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>216</id>
+   <name>CARLTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>628</id>
+   <name>BEESTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>695</id>
+   <name>HEANOR</name>
+</nearByPlace>
+<nearByPlace>
+   <id>809</id>
+   <name>ILKESTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1034</id>
+   <name>WEST BRIDGFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1062</id>
+   <name>HUCKNALL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7257</id>
+   <name>BILBOROUGH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7516</id>
+   <name>EAST LEAKE</name>
+</nearByPlace>
+</place>
+<place>
+<id>215</id>
+<name>MANSFIELD</name>
+<container>NOTTINGHAMSHIRE</container>
+<lat>53.1413560046123</lat>
+<lon>-1.19400714972069</lon>
+<gazetteerText>Mansfield, market town and par., Notts, on river Maun, 16 miles N. of Nottingham and 137 miles NW. of London by rail, 7252 ac., pop. 13,653; 3 Banks, 2 newspapers. Market-day, Thursday, From coins and other relics found here, Mansfield is supposed to have been a Roman station. It is surrounded by the vestiges of Sherwood Forest. Silk and cotton mills, iron foundries, engine works, brick and tile works, and breweries, &amp;c., give employment to the inhabitants. The cattle markets and corn markets are important. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/NTT/Mansfield/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/NTT/MansfieldWoodhouse/index.html</link>
+<link>http://en.wikipedia.org/wiki/Mansfield</link>
+<link>http://en.wikipedia.org/wiki/Mansfield_Woodhouse</link>
+<link>http://www.workhouses.org.uk/Mansfield</link>
+<link>http://www.geonames.org/2643097</link>
+</links>
+<unit>
+   <id>10026817</id>
+   <status>MB</status>
+   <name>MANSFIELD</name>
+</unit>
+<unit>
+   <id>10028826</id>
+   <status>RSD</status>
+   <name>MANSFIELD</name>
+</unit>
+<unit>
+   <id>10064260</id>
+   <status></status>
+   <name>MANSFIELD</name>
+</unit>
+<unit>
+   <id>10084430</id>
+   <status>RegD/PLU</status>
+   <name>MANSFIELD</name>
+</unit>
+<unit>
+   <id>10110944</id>
+   <status>USD</status>
+   <name>MANSFIELD</name>
+</unit>
+<unit>
+   <id>10264728</id>
+   <status>CP/AP</status>
+   <name>MANSFIELD</name>
+</unit>
+<unit>
+   <id>10264753</id>
+   <status>EP</status>
+   <name>MANSFIELD ST AUGUSTINE</name>
+</unit>
+<unit>
+   <id>10264765</id>
+   <status>EP</status>
+   <name>MANSFIELD ST JOHN</name>
+</unit>
+<unit>
+   <id>10264777</id>
+   <status>EP</status>
+   <name>MANSFIELD ST LAWRENCE</name>
+</unit>
+<unit>
+   <id>10264790</id>
+   <status>EP</status>
+   <name>MANSFIELD ST MARK</name>
+</unit>
+<unit>
+   <id>10276251</id>
+   <status>EP</status>
+   <name>MANSFIELD</name>
+</unit>
+<unit>
+   <id>10553714</id>
+   <status></status>
+   <name>MANSFIELD</name>
+</unit>
+<unit>
+   <id>10576866</id>
+   <status></status>
+   <name>MANSFIELD</name>
+</unit>
+<unit>
+   <id>12740694</id>
+   <status>CCon</status>
+   <name>MANSFIELD</name>
+</unit>
+<unit>
+   <id>12751000</id>
+   <status>PDivCon</status>
+   <name>NOTTINGHAMSHIRE MANSFIELD</name>
+</unit>
+<unit>
+   <id>12781118</id>
+   <status></status>
+   <name>MANSFIELD</name>
+</unit>
+<unit>
+   <id>12832783</id>
+   <status></status>
+   <name>MANSFIELD</name>
+</unit>
+<nearByPlace>
+   <id>122</id>
+   <name>CLAY CROSS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>258</id>
+   <name>BOLSOVER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>417</id>
+   <name>ALFRETON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>538</id>
+   <name>SUTTON IN ASHFIELD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3076</id>
+   <name>BLACKWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5213</id>
+   <name>HASLAND</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5249</id>
+   <name>SHIREBROOK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7264</id>
+   <name>BLIDWORTH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7334</id>
+   <name>CLIPSTONE</name>
+</nearByPlace>
+</place>
+<place>
+<id>764</id>
+<name>NEWARK</name>
+<container>NOTTINGHAMSHIRE</container>
+<lat>53.0782923603679</lat>
+<lon>-0.799399479300015</lon>
+<gazetteerText>Newark upon Trent, mun. bor., market town, and par., Notts, 18&#189; miles NE. of Nottingham and 120 miles from London by rail - par., 2108 ac., pop. 14,083; bor., 1933 ac., pop. 14,018; 3 Banks, 2 news-papers. Market-day, Wednesday. Newark has ancient British and Roman associations. The castle, now an imposing ruin, is supposed to have been founded by Egbert, King of the West Saxons. Here King John died in 1216. Three sieges were sustained by the town during the Civil War, and it was surrendered to the Scottish army in 1646. Newark is connected with the Trent navigation, and carries on an immense trade in malt and flour; its corn market is one of the largest in the kingdom. Ironfounding, brassfounding, brewing, and the mfr. of boilers and agricultural implements, are conspicuous industries. The town has long been known for the mfr. of a special plaster, which alone was used in the erection of the great International Exhibition. Newark returned 2 members to Parliament until 1885. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Newark-on-Trent</link>
+<link>http://www.workhouses.org.uk/Newark</link>
+<link>http://www.geonames.org/2641731</link>
+</links>
+<unit>
+   <id>10043475</id>
+   <status>RSD</status>
+   <name>NEWARK</name>
+</unit>
+<unit>
+   <id>10043840</id>
+   <status>RegD/PLU</status>
+   <name>NEWARK</name>
+</unit>
+<unit>
+   <id>10054734</id>
+   <status>Borough</status>
+   <name>NEWARK UPON TRENT</name>
+</unit>
+<unit>
+   <id>10057188</id>
+   <status></status>
+   <name>NEWARK AND SHERWOOD</name>
+</unit>
+<unit>
+   <id>10075130</id>
+   <status>USD</status>
+   <name>NEWARK UPON TRENT</name>
+</unit>
+<unit>
+   <id>10108986</id>
+   <status>RD</status>
+   <name>NEWARK</name>
+</unit>
+<unit>
+   <id>10112291</id>
+   <status>Wap</status>
+   <name>NEWARK</name>
+</unit>
+<unit>
+   <id>10136465</id>
+   <status>MB</status>
+   <name>NEWARK</name>
+</unit>
+<unit>
+   <id>10265484</id>
+   <status>CP</status>
+   <name>WEST NEWARK</name>
+</unit>
+<unit>
+   <id>10265538</id>
+   <status>EP</status>
+   <name>NEWARK ON TRENT</name>
+</unit>
+<unit>
+   <id>10265540</id>
+   <status>EP</status>
+   <name>NEWARK ON TRENT CHRIST CHURCH</name>
+</unit>
+<unit>
+   <id>10265551</id>
+   <status>EP</status>
+   <name>NEWARK ON TRENT ST LEONARD</name>
+</unit>
+<unit>
+   <id>10265678</id>
+   <status>CP/AP</status>
+   <name>NEWARK UPON TRENT</name>
+</unit>
+<unit>
+   <id>10553519</id>
+   <status></status>
+   <name>NEWARK</name>
+</unit>
+<unit>
+   <id>10568158</id>
+   <status></status>
+   <name>NEWARK</name>
+</unit>
+<unit>
+   <id>10577305</id>
+   <status></status>
+   <name>NEWARK</name>
+</unit>
+<unit>
+   <id>10577317</id>
+   <status></status>
+   <name>NEWARK</name>
+</unit>
+<unit>
+   <id>10577329</id>
+   <status></status>
+   <name>NEWARK 1</name>
+</unit>
+<unit>
+   <id>10577330</id>
+   <status></status>
+   <name>NEWARK 2</name>
+</unit>
+<unit>
+   <id>10577342</id>
+   <status></status>
+   <name>NEWARK EAST</name>
+</unit>
+<unit>
+   <id>12740359</id>
+   <status>PDivCon</status>
+   <name>NOTTINGHAMSHIRE NEWARK</name>
+</unit>
+<unit>
+   <id>12740700</id>
+   <status>CCon</status>
+   <name>NEWARK</name>
+</unit>
+<unit>
+   <id>12754346</id>
+   <status>PBCon</status>
+   <name>NEWARK UPON TRENT</name>
+</unit>
+<unit>
+   <id>12781120</id>
+   <status></status>
+   <name>NEWARK</name>
+</unit>
+<unit>
+   <id>12836521</id>
+   <status></status>
+   <name>NEWARK</name>
+</unit>
+<nearByPlace>
+   <id>7759</id>
+   <name>SOUTHWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12295</id>
+   <name>FULBECK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11563</id>
+   <name>LONG BENNINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7238</id>
+   <name>BALDERTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13902</id>
+   <name>SWINDERBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11516</id>
+   <name>BASSINGHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7400</id>
+   <name>FLINTHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13329</id>
+   <name>NAVENBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7780</id>
+   <name>SUTTON ON TRENT</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12661</id>
+   <name>NORTH HYKEHAM</name>
+</nearByPlace>
+</place>
+<place>
+<id>17343</id>
+<name>RUSHCLIFFE</name>
+<container>NOTTINGHAMSHIRE</container>
+<lat>52.9000715442529</lat>
+<lon>-1.03673797242275</lon>
+<gazetteerText>RUSHCLIFFE, a wapentake in the S of Notts; cut into two divisions, N and S; and containing 11 parishes and parts of 2 others in the N div., and 16 in the S div. Acres, 21, 593 and 22, 340. Pop. in 1851, 6, 243 and 6,034; in 1861, 11, 777. Houses, 2, 630. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<unit>
+   <id>10063395</id>
+   <status>Wap</status>
+   <name>RUSHCLIFFE</name>
+</unit>
+<unit>
+   <id>10100677</id>
+   <status></status>
+   <name>RUSHCLIFFE</name>
+</unit>
+<unit>
+   <id>12740712</id>
+   <status>CCon</status>
+   <name>RUSHCLIFFE</name>
+</unit>
+<unit>
+   <id>12741042</id>
+   <status>PDivCon</status>
+   <name>NOTTINGHAMSHIRE RUSHCLIFFE</name>
+</unit>
+</place>
+<place>
+<id>17198</id>
+<name>BASSETLAW</name>
+<container>NOTTINGHAMSHIRE</container>
+<lat>53.3319963211026</lat>
+<lon>-0.95671491254618</lon>
+<gazetteerText>BASSETLAW, a wapentake in the N of Notts. It includes East Retford borough and fifty-four parishes; and is cut into the divisions of Hatfield, North Clay, and South Clay. Acres of Hatfield div., 116,806. Pop. in 1851, 24,621; in 1861, 26,093. Houses, 5,658. Acres of North Clay div., 45,714. Pop. in 1851, 10,367; in 1861, 10,183. Houses, 2,290. Acres of South Clay div., 40,314. Pop. in 1851, 8,806; in 1861, 8,072. Houses, 1,766. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<unit>
+   <id>10076900</id>
+   <status></status>
+   <name>BASSETLAW</name>
+</unit>
+<unit>
+   <id>10091573</id>
+   <status>Wap</status>
+   <name>BASSETLAW</name>
+</unit>
+<unit>
+   <id>12740670</id>
+   <status>CCon</status>
+   <name>BASSETLAW</name>
+</unit>
+<unit>
+   <id>12755685</id>
+   <status>PDivCon</status>
+   <name>NOTTINGHAMSHIRE BASSETLAW</name>
+</unit>
+</place>
+<place>
+<id>17364</id>
+<name>BROXTOWE</name>
+<container>NOTTINGHAMSHIRE</container>
+<lat>52.9761300390806</lat>
+<lon>-1.26120065856121</lon>
+<gazetteerText>BROXTOW, a hamlet and a hundred in Notts. The hamlet is in Bilbrough parish, 3&#188; miles NW of Nottingham; and was once a parish. The hundred lies around the hamlet; extends 23 miles northward from the Trent, and 22 eastward from Derbyshire; and is cut into two divisions, North and South. The N. division contains sixteen parishes. Acres, 51,836. Pop. in 1851, 48,653. The S. division contains also sixteen parishes. Acres, 30,253. Pop. in 1851, 35,483. Pop. of both in 1861, 88,886. Houses, 18,600. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<unit>
+   <id>10005814</id>
+   <status>Wap</status>
+   <name>BROXTOWE</name>
+</unit>
+<unit>
+   <id>10089852</id>
+   <status></status>
+   <name>BROXTOWE</name>
+</unit>
+<unit>
+   <id>10257335</id>
+   <status>EP</status>
+   <name>BROXTOWE</name>
+</unit>
+<unit>
+   <id>10259605</id>
+   <status>Ch</status>
+   <name>BROXTOWE</name>
+</unit>
+<unit>
+   <id>12736903</id>
+   <status>PDivCon</status>
+   <name>NOTTINGHAMSHIRE BROXTOWE</name>
+</unit>
+<unit>
+   <id>12740682</id>
+   <status>CCon</status>
+   <name>BROXTOWE</name>
+</unit>
+<unit>
+   <id>12756549</id>
+   <status>CCon</status>
+   <name>BROXTOWE</name>
+</unit>
+</place>
+<place>
+<id>22625</id>
+<name>STANDARD HILL</name>
+<container>NOTTINGHAMSHIRE</container>
+<lat>52.9504784461091</lat>
+<lon>-1.15748715595161</lon>
+<gazetteerText>Standard Hill - par., Notts, within bor. of Nottingham, pop. 1942. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/St._James'_Church,_Standard_Hill</link>
+</links>
+<unit>
+   <id>10270261</id>
+   <status>CP/ExP</status>
+   <name>STANDARD HILL</name>
+</unit>
+<unit>
+   <id>10270273</id>
+   <status>EExP</status>
+   <name>STANDARD HILL</name>
+</unit>
+</place>
+<place>
+<id>24415</id>
+<name>MAPPERLEY</name>
+<container>NOTTINGHAMSHIRE</container>
+<lat>52.9754879919036</lat>
+<lon>-1.13465936392726</lon>
+<gazetteerText>Mapperley, dist., in N. of bor. of Nottingham, pop. 9165; P.O., and P.O. at Mapperley Plain, where is the Midland Observatory, founded 1853. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<unit>
+   <id>10266403</id>
+   <status>EP</status>
+   <name>MAPPERLEY ST JUDE</name>
+</unit>
+</place>
+<place>
+<id>20341</id>
+<name>LENTON</name>
+<container>NOTTINGHAMSHIRE</container>
+<lat>52.9443214696154</lat>
+<lon>-1.17695540227862</lon>
+<gazetteerText>LENTON, a small town, a parish, and a sub-district in the district of Radford, and county of Nottingham. The town stands on the river Leen, near its confluence with the Trent, on the Nottingham canal, adjacent to the Nottingham and Mansfield railway, near its junction with the Midland railway, 1&#189; mile WSW of Nottingham; consists of two portions, New and Old; is all practically suburban to Nottingham; had anciently a rich priory of Cluniac monks, a house of Carmelite friars, and an hospital of St. Anthony; carries on industry in numerous lace factories, machine-works, tarnneries, chemical-works, starch-works, bleachfields, and an iron foundry; and has a post office, &#8225; of the name of New Lenton, under Nottingham,-a postal-pillar in Old Lenton,-a station, at Old Lenton, on the Nottingham and Mansfield railway, -a church, four dissenting chapels, national schools, an industrial training institution and orphanage, and fairs on Whit-Wednesday and 11 Nov. The Cluniac priory was founded by William Peverel, son of the Conqueror; went, at the dissolution, to John Harrington; and was parity obliterated, partly absorbed, by a handsome modern seat, in the monastic style. The church was built in 1842; superseded a previous one of the 14th century; consists of nave, aisles, and chancel, with a tower; and contains a Saxon font. The dissenting chapels are Baptist, Wesleyan, Primitive Methodist, and New Connexion Methodist.&#151;The parish includes the isolated tract of Bestwood Park, 5 miles N of Nottingham; includes also part of Hyson-Green chapelry; and contains many fine residences. Acres, 5,080. Real property, &#163;26,768; of which &#163;699 are in mines. Pop. in 1851,5,589; in 1861,5,828. Houses, 1,188. The manor belongs to Sherwin Gregory, Esq. The living is a vicarage in the diocese of Lincoln. Value, &#163;250.* Patron, the Lord Chancellor. The p. curacy of HysonGreen is a separate benefice.&#151;The sub-district contains Brewhouse-Yard extra-parochial tract, and all the portions of Lenton and Radford parishes, S of the turnpike road from Nottingham to Ilkeston. Pop., 5,678. Houses, 1,178. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Lenton</link>
+<link>http://www.genuki.org.uk/big/eng/NTT/Lenton/index.html</link>
+</links>
+<unit>
+   <id>10264017</id>
+   <status>CP/AP</status>
+   <name>LENTON</name>
+</unit>
+<unit>
+   <id>10264066</id>
+   <status>EP</status>
+   <name>LENTON</name>
+</unit>
+<unit>
+   <id>10264078</id>
+   <status>EP</status>
+   <name>LENTON ABBEY</name>
+</unit>
+<unit>
+   <id>10553805</id>
+   <status></status>
+   <name>NOTTINGHAM SOUTH WEST</name>
+</unit>
+</place>
+<place>
+<id>20419</id>
+<name>RADFORD</name>
+<container>NOTTINGHAMSHIRE</container>
+<lat>52.956058965319</lat>
+<lon>-1.18417634070353</lon>
+<gazetteerText>RADFORD, a suburban town, a parish, a sub-district, and a district in Notts. The town is suburban to Nottingham; lies on the river Leen and on the Nottingham and Mansfield railway, 1&#189; mile W N W of the centre of Nottingham; consists of two parts, called Old R. and New R.; increased its population nearly sixfold between 1801 and 1861; shares largely in the manufactures of Nottingham, chiefly lace and stockings; and has a post-office under Nottingham, a railway-station, two churches, six dissenting chapels, a national school, a workhouse, and charities &#163;12. St. Peter&apos;s church was rebuilt in 181 2; and is a neat Gothic edifice, with a tower. Christchurch was built in 1845, and is in New Rad ford. The parish includes Kensington, New Coleorton, and part of Hyson-Green, and comprises 1,000 acres. Real property, &#163;27, 659. Pop. in 1851, 12, 637; in 1861, 13, 495. Houses, 2, 858. The manor belongs to J. S. Gregory, Esq. Gas-works were erected in 1844; and coal ismined. The living of St. Peter is a vicarage, and that of Christchurch is a p. curacy, in the diocese of Lincoln. Value of the former, &#163;293; * of the latter, &#163;300. Patron of the former, the Lord Chancellor; of the latter, alternately the Crown and the Bishop. The sub-district comprises the parts of Rad ford and Lenton parishes N of the road from Nottingham to Ilkeston and S W of the road to Alfreton. Pop. in 1851, 8, 888; in 1861, 10, 192. Houses, 2, 162. The districtcomprehends also the sub-district of Lenton, containing the parts of Rad ford and Lenton parishes S of the Nottingham and Ilkeston road, together with the extra-parochial tract of Brewhouse-Yard; the sub-district of Hyson-Green, containing the rest of Radford and Lenton parishes; and the sub-district of Snenton, conterminate with Snenton parish. Acres of the district, 6, 800. Poor-rates in 1863, &#163;9, 211. Pop. in 1851, 26, 776; in 1861, 30, 479. Houses, 6, 366. Marriages in 1863, 229; births, 1,055, of which 80 were illegitimate; deaths, 686, of which. 355 were at ages under 5 years, and 11 at ages above 85. Marriages in the ten years 1851-60, 2, 802; births, 11, 281; deaths, 7, 241. The places of worship, in 1851, were 4 of the Church of England, with 2, 801sittings; 3 of Independents, with 422 s.; 2 of Baptists, with 410 s.; 5 of Wesleyans, with 1, 400 s.; 3 of New Connexion Methodists, with 802 s.; 2 of Primitive Methodists with 393 s.: 1 of the Wesleyan Association, with 140 s.; and 1 of Latter Day Saints with 300 s. The schools were 6 public day schools, with 831 scholars; 43private day schools, with 1,097 s.; and 17 Sunday schools, with 2, 799 s. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Radford,_Nottingham</link>
+<link>http://www.genuki.org.uk/big/eng/NTT/Radford/index.html</link>
+<link>http://www.workhouses.org.uk/Radford</link>
+</links>
+<unit>
+   <id>10138371</id>
+   <status>RSD</status>
+   <name>RADFORD</name>
+</unit>
+<unit>
+   <id>10215500</id>
+   <status>PLU/RegD</status>
+   <name>RADFORD</name>
+</unit>
+<unit>
+   <id>10269430</id>
+   <status>CP/AP</status>
+   <name>RADFORD</name>
+</unit>
+<unit>
+   <id>10269453</id>
+   <status>EP</status>
+   <name>RADFORD ST PETER</name>
+</unit>
+<unit>
+   <id>10269477</id>
+   <status>EP</status>
+   <name>RADFORD ALL SOULS</name>
+</unit>
+<unit>
+   <id>10269489</id>
+   <status>EP</status>
+   <name>RADFORD ST MICHAEL AND ALL ANGELS</name>
+</unit>
+<unit>
+   <id>10553787</id>
+   <status></status>
+   <name>NOTTINGHAM NORTH WEST</name>
+</unit>
+<unit>
+   <id>12781143</id>
+   <status></status>
+   <name>RADFORD</name>
+</unit>
+</place>
+</results>

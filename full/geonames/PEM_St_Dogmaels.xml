@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>St. Dogmaels</toponymName>
+<name>St. Dogmaels</name>
+<lat>52.08235</lat>
+<lng>-4.68018</lng>
+<geonameId>7296334</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS061</adminCode3>
+<adminName3>St. Dogmaels</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.75169</west>
+<north>52.1179</north>
+<east>-4.66929</east>
+<south>52.06211</south>
+</bbox>
+<score>96.51481628417969</score>
+</geoname>
+</geonames>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>High Halden</toponymName>
+<name>High Halden</name>
+<lat>51.10331</lat>
+<lng>0.71394</lng>
+<geonameId>2646954</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/High_Halden</alternateName>
+<alternateName lang="unlc">HGL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.69961</west>
+<north>51.1123</north>
+<east>0.72827</east>
+<south>51.09431</south>
+</bbox>
+<score>77.67341613769531</score>
+</geoname>
+<geoname>
+<toponymName>High Halden</toponymName>
+<name>High Halden</name>
+<lat>51.10534</lat>
+<lng>0.70788</lng>
+<geonameId>7298948</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<adminCode4>29UB019</adminCode4>
+<adminName4>High Halden</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.66545</west>
+<north>51.12758</north>
+<east>0.75031</east>
+<south>51.08309</south>
+</bbox>
+<score>69.67780303955078</score>
+</geoname>
+</geonames>

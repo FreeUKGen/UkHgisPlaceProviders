@@ -1,0 +1,107 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>101</id>
+<name>ASHBY DE LA ZOUCH</name>
+<container>LEICESTERSHIRE</container>
+<lat>52.7516747481331</lat>
+<lon>-1.47533023467547</lon>
+<gazetteerText>Ashby-de-la-Zouch, par., township, and market town, N. Leicestershire, on river Mease, 16 m. NW. of Leicester and 118 miles from London by rail -- par., 8097 ac., pop. 8512; township, 6980 ac., pop. 7465; town, pop. 4536; P.O., T.O., 2 Banks, 1 newspaper. Market-day, Saturday. The town has mfrs. of hosiery, hats, and leather. The par. contains extensive mines of coal, lead, ironstone, and limestone. Ashby Castle, built by Sir Wm. Hastings in 1480, and now in ruins, was for some time the prison of Mary, Queen of Scots. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.workhouses.org.uk/AshbyDeLaZouch</link>
+<link>http://www.geonames.org/2656970</link>
+<link>http://www.genuki.org.uk/big/eng/LEI/Ashby.html</link>
+<link>http://en.wikipedia.org/wiki/Ashby_de_la_Zouch</link>
+</links>
+<unit>
+   <id>10002953</id>
+   <status>UD</status>
+   <name>ASHBY DE LA ZOUCH</name>
+</unit>
+<unit>
+   <id>10027056</id>
+   <status>RD</status>
+   <name>ASHBY DE LA ZOUCH</name>
+</unit>
+<unit>
+   <id>10055465</id>
+   <status>USD</status>
+   <name>ASHBY DE LA ZOUCH</name>
+</unit>
+<unit>
+   <id>10112000</id>
+   <status>RegD/PLU</status>
+   <name>ASHBY DE LA ZOUCH</name>
+</unit>
+<unit>
+   <id>10138668</id>
+   <status>RSD</status>
+   <name>ASHBY DE LA ZOUCH</name>
+</unit>
+<unit>
+   <id>10369083</id>
+   <status>AP/CP</status>
+   <name>ASHBY DE LA ZOUCH</name>
+</unit>
+<unit>
+   <id>10369125</id>
+   <status>EP</status>
+   <name>ASHBY DE LA ZOUCH</name>
+</unit>
+<unit>
+   <id>10369150</id>
+   <status>EP</status>
+   <name>ASHBY DE LA ZOUCH HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10551638</id>
+   <status></status>
+   <name>ASHBY DE LA ZOUCH</name>
+</unit>
+<unit>
+   <id>12835978</id>
+   <status></status>
+   <name>ASHBY DE LA ZOUCH</name>
+</unit>
+<nearByPlace>
+   <id>563</id>
+   <name>ASHBY WOULDS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1783</id>
+   <name>MEASHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4132</id>
+   <name>OAKTHORPE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5558</id>
+   <name>PACKINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10568</id>
+   <name>APPLEBY MAGNA</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10702</id>
+   <name>COLEORTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11236</id>
+   <name>RAVENSTONE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11310</id>
+   <name>SWANNINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11340</id>
+   <name>THRINGSTONE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11382</id>
+   <name>WORTHINGTON</name>
+</nearByPlace>
+</place>
+</results>

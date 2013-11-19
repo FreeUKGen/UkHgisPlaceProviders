@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Mickleton</toponymName>
+<name>Mickleton</name>
+<lat>54.58616</lat>
+<lng>-2.11115</lng>
+<geonameId>7291046</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ074</adminCode3>
+<adminName3>Mickleton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.20925</west>
+<north>54.62053</north>
+<east>-2.01305</east>
+<south>54.5518</south>
+</bbox>
+<score>109.42100524902344</score>
+</geoname>
+<geoname>
+<toponymName>Mickleton</toponymName>
+<name>Mickleton</name>
+<lat>54.60807</lat>
+<lng>-2.04998</lng>
+<geonameId>2642638</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ074</adminCode3>
+<adminName3>Mickleton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mickleton%2C_County_Durham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.08105</west>
+<north>54.62606</north>
+<east>-2.01891</east>
+<south>54.59008</south>
+</bbox>
+<score>69.72438049316406</score>
+</geoname>
+<geoname>
+<toponymName>Mickleton</toponymName>
+<name>Mickleton</name>
+<lat>52.08333</lat>
+<lng>-1.76667</lng>
+<geonameId>2642639</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1554</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<alternateName lang="unlc">MCO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.77399</west>
+<north>52.08783</north>
+<east>-1.75935</east>
+<south>52.07884</south>
+</bbox>
+<score>64.44058227539062</score>
+</geoname>
+<geoname>
+<toponymName>Mickleton</toponymName>
+<name>Mickleton</name>
+<lat>52.08548</lat>
+<lng>-1.76658</lng>
+<geonameId>7293584</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<adminCode4>23UC070</adminCode4>
+<adminName4>Mickleton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mickleton%2C_Gloucestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.79086</west>
+<north>52.11258</north>
+<east>-1.7423</east>
+<south>52.05838</south>
+</bbox>
+<score>53.614234924316406</score>
+</geoname>
+</geonames>

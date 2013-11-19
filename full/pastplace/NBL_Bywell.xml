@@ -1,0 +1,83 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>8871</id>
+<name>BYWELL</name>
+<container>NORTHUMBERLAND</container>
+<lat>54.9685391306057</lat>
+<lon>-1.9379761810959</lon>
+<gazetteerText>BYWELL-ST. PETER, a township and a parish in Hexham district, Northumberland. The township includes part of Bywell village. Pop., 94. Houses, 20. The parish includes also the townships of Whittonstall, Newlands, Espershields, Healy, High Fortherley, Broomley, Apperley, Stelling, Newton, and Newton Hall; extends southward to the river Derwent at the boundary with Durham; and is nearly 8 miles long and 5 miles broad. Post Town, Stocksfield, Northumberland. Acres. 17,784. Real property, &#163;9,296. Pop., 1,574. Houses, 288. The property is divided among a few. Much of the land in the south is high and poor. The living is a vicarage in the diocese of Durham. Value, &#163;300. Patrons, the Dean and Chapter of Durham. The church has a square tower, and is good. The p. curacy of Whittonstall is a separate charge. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.bpears.org.uk/NBL/BywellStAndrew/index.html</link>
+<link>http://www.genuki.bpears.org.uk/NBL/BywellStPeter/index.html</link>
+<link>http://en.wikipedia.org/wiki/Bywell</link>
+<link>http://www.geonames.org/7296750</link>
+</links>
+<unit>
+   <id>10304933</id>
+   <status>CP</status>
+   <name>BYWELL</name>
+</unit>
+<unit>
+   <id>10304945</id>
+   <status>CP/AP</status>
+   <name>BYWELL ST ANDREW</name>
+</unit>
+<unit>
+   <id>10304994</id>
+   <status>CP/AP</status>
+   <name>BYWELL ST PETER</name>
+</unit>
+<unit>
+   <id>10305019</id>
+   <status>EP</status>
+   <name>BYWELL ST PETER</name>
+</unit>
+<unit>
+   <id>10551730</id>
+   <status></status>
+   <name>BYWELL</name>
+</unit>
+<nearByPlace>
+   <id>9564</id>
+   <name>NEWTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9686</id>
+   <name>STELLING</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9690</id>
+   <name>STYFORD</name>
+</nearByPlace>
+</place>
+<place>
+<id>9626</id>
+<name>RIDING</name>
+<container>NORTHUMBERLAND</container>
+<lat>54.9444002211316</lat>
+<lon>-1.98932932438241</lon>
+<gazetteerText>RIDING, a township in Bywell St. Andrew parish, Northumberland; on Watlingstreet, the river Tyne, and the Newcastle and Carlisle railway, at Riding Mill r. station, 5&#189; miles E S E of Hexham. It has a bridge over the Tyne, and a post-office, of the name of Riding-Mill, Northumberland. Acres, 1,007. Pop., 142. Houses, 21. The bridge was erected in 1822. Riding House is a chief residence. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/8299845</link>
+</links>
+<unit>
+   <id>10304982</id>
+   <status>EP</status>
+   <name>RIDING MILL</name>
+</unit>
+<unit>
+   <id>10327283</id>
+   <status>CP/Tn</status>
+   <name>RIDING</name>
+</unit>
+<nearByPlace>
+   <id>8850</id>
+   <name>BROOMHAUGH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9078</id>
+   <name>DILSTON</name>
+</nearByPlace>
+</place>
+</results>

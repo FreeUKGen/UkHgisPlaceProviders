@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Blisland</toponymName>
+<name>Blisland</name>
+<lat>50.53583</lat>
+<lng>-4.63691</lng>
+<geonameId>7293057</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE004</adminCode3>
+<adminName3>Blisland</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.70396</west>
+<north>50.56796</north>
+<east>-4.56987</east>
+<south>50.5037</south>
+</bbox>
+<score>111.3584213256836</score>
+</geoname>
+<geoname>
+<toponymName>Blisland</toponymName>
+<name>Blisland</name>
+<lat>50.5276</lat>
+<lng>-4.68237</lng>
+<geonameId>2655342</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Blisland</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE004</adminCode3>
+<adminName3>Blisland</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Blisland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.69652</west>
+<north>50.53659</north>
+<east>-4.66822</east>
+<south>50.51861</south>
+</bbox>
+<score>105.53323364257812</score>
+</geoname>
+</geonames>

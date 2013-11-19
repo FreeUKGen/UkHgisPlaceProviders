@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Moresby</toponymName>
+<name>Moresby</name>
+<lat>54.56316</lat>
+<lng>-3.55262</lng>
+<geonameId>7300138</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UE</adminCode3>
+<adminName3>Copeland District</adminName3>
+<adminCode4>16UE017</adminCode4>
+<adminName4>Moresby</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.58149</west>
+<north>54.58206</north>
+<east>-3.52376</east>
+<south>54.54427</south>
+</bbox>
+<score>75.14735412597656</score>
+</geoname>
+</geonames>

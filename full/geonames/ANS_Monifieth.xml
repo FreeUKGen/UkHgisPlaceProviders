@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Monifieth</toponymName>
+<name>Monifieth</name>
+<lat>56.48227</lat>
+<lng>-2.81732</lng>
+<geonameId>2642342</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Monadh Feithe,Monadh Fèithe,Monifieth,Monifijt,Монифийт</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T7</adminCode2>
+<adminName2>Angus</adminName2>
+<alternateName lang="bg">Монифийт</alternateName>
+<alternateName lang="gd">Monadh Fèithe</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Monifieth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.83361</west>
+<north>56.49127</north>
+<east>-2.80103</east>
+<south>56.47328</south>
+</bbox>
+<score>80.0106430053711</score>
+</geoname>
+</geonames>

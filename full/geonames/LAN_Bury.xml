@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Bury</toponymName>
+<name>Bury</name>
+<lat>53.6</lat>
+<lng>-2.3</lng>
+<geonameId>2654187</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>61044</population>
+<alternateNames>Beri,Beris,Bury,bary,beli,Бери,Бері,باری,베리</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C1</adminCode2>
+<adminName2>Bury</adminName2>
+<alternateName lang="bg">Бери</alternateName>
+<alternateName lang="de">Bury</alternateName>
+<alternateName lang="en">Bury</alternateName>
+<alternateName lang="eo">Bury</alternateName>
+<alternateName lang="fa">باری</alternateName>
+<alternateName lang="fi">Bury</alternateName>
+<alternateName lang="fr">Bury</alternateName>
+<alternateName lang="it">Bury</alternateName>
+<alternateName lang="ko">베리</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bury</alternateName>
+<alternateName lang="lt">Beris</alternateName>
+<alternateName lang="nl">Bury</alternateName>
+<alternateName lang="no">Bury</alternateName>
+<alternateName lang="pl">Bury</alternateName>
+<alternateName lang="ru">Бери</alternateName>
+<alternateName lang="sr">Бери</alternateName>
+<alternateName lang="uk">Бері</alternateName>
+<alternateName lang="unlc">BUY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.35362</west>
+<north>53.6318</north>
+<east>-2.24638</east>
+<south>53.5682</south>
+</bbox>
+<score>141.4117889404297</score>
+</geoname>
+<geoname>
+<toponymName>Borough of Bury</toponymName>
+<name>Borough of Bury</name>
+<lat>53.58333</lat>
+<lng>-2.33333</lng>
+<geonameId>3333136</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>183800</population>
+<alternateNames>BUR,Bury</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C1</adminCode2>
+<adminName2>Bury</adminName2>
+<alternateName lang="abbr">BUR</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Metropolitan_Borough_of_Bury</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.38341</west>
+<north>53.66707</north>
+<east>-2.2341</east>
+<south>53.512</south>
+</bbox>
+<score>78.05398559570312</score>
+</geoname>
+<geoname>
+<toponymName>Bury</toponymName>
+<name>Bury</name>
+<lat>52.43583</lat>
+<lng>-0.10677</lng>
+<geonameId>2654188</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bury%2C_Cambridgeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.12153</west>
+<north>52.44482</north>
+<east>-0.09202</east>
+<south>52.42684</south>
+</bbox>
+<score>76.34614562988281</score>
+</geoname>
+<geoname>
+<toponymName>Bury</toponymName>
+<name>Bury</name>
+<lat>50.90939</lat>
+<lng>-0.56322</lng>
+<geonameId>2654189</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UD</adminCode3>
+<adminName3>Chichester District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bury%2C_West_Sussex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.57749</west>
+<north>50.91839</north>
+<east>-0.54896</east>
+<south>50.9004</south>
+</bbox>
+<score>76.34614562988281</score>
+</geoname>
+<geoname>
+<toponymName>Bury</toponymName>
+<name>Bury</name>
+<lat>50.92448</lat>
+<lng>-0.57181</lng>
+<geonameId>7296502</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UD</adminCode3>
+<adminName3>Chichester District</adminName3>
+<adminCode4>45UD008</adminCode4>
+<adminName4>Bury</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.60731</west>
+<north>50.94971</north>
+<east>-0.53631</east>
+<south>50.89925</south>
+</bbox>
+<score>71.60211181640625</score>
+</geoname>
+<geoname>
+<toponymName>Bury</toponymName>
+<name>Bury</name>
+<lat>52.435</lat>
+<lng>-0.10283</lng>
+<geonameId>7296785</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<adminCode4>12UE013</adminCode4>
+<adminName4>Bury</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.13299</west>
+<north>52.44728</north>
+<east>-0.07266</east>
+<south>52.42273</south>
+</bbox>
+<score>71.60211181640625</score>
+</geoname>
+</geonames>

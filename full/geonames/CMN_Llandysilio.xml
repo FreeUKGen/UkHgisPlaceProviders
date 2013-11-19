@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llandysilio</toponymName>
+<name>Llandysilio</name>
+<lat>52.76283</lat>
+<lng>-3.06967</lng>
+<geonameId>7301011</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN049</adminCode3>
+<adminName3>Llandysilio</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.12874</west>
+<north>52.77787</north>
+<east>-3.01059</east>
+<south>52.7478</south>
+</bbox>
+<score>107.70556640625</score>
+</geoname>
+<geoname>
+<toponymName>Llandysilio</toponymName>
+<name>Llandysilio</name>
+<lat>52.76471</lat>
+<lng>-3.08509</lng>
+<geonameId>2644110</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN049</adminCode3>
+<adminName3>Llandysilio</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llandysilio</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.09996</west>
+<north>52.7737</north>
+<east>-3.07023</east>
+<south>52.75572</south>
+</bbox>
+<score>86.98707580566406</score>
+</geoname>
+</geonames>

@@ -1,0 +1,33 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>6432</id>
+<name>SUTTON VALENCE</name>
+<container>KENT</container>
+<lat>51.2000735142765</lat>
+<lon>0.590645738505123</lon>
+<gazetteerText>SUTTON-VALENCE, a parish, with a village, in Hollingbourn district, Kent; 3&#190; miles N NE of Staplehurst r. station. It has a post-office&#8225; under Staplehurst. Acres, 2,132. Real property, &#163;4,692. Pop., 1,056. Houses, 246. The property is much subdivided. S. Castle, now reduced to scanty remains, dates from the time of Edward I., and probably was built by the Valences, Earls of Pembroke. The living is a vicarage, united with East Sutton, in the diocese of Canterbury. Value, &#163;318.* Patrons, the Dean and Chapter of Rochester. The church is modern. There are an Independent chapel, a free grammar-school, a national school, alms houses with &#163;87 a year, and other charities &#163;15. The grammar-school belongs to the Cloth-workers&apos; company; was rebuilt, on an extended scale, in 1866; and has exhibitions at St. John&apos;s College, Cambridge. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Sutton_Valence</link>
+<link>http://www.geonames.org/2636467</link>
+</links>
+<unit>
+   <id>10227240</id>
+   <status>AP/CP</status>
+   <name>SUTTON VALENCE</name>
+</unit>
+<unit>
+   <id>10227276</id>
+   <status>EP</status>
+   <name>SUTTON VALENCE WITH EAST SUTTON</name>
+</unit>
+<nearByPlace>
+   <id>6430</id>
+   <name>EAST SUTTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6463</id>
+   <name>ULCOMBE</name>
+</nearByPlace>
+</place>
+</results>

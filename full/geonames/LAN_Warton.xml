@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Warton</toponymName>
+<name>Warton</name>
+<lat>53.76667</lat>
+<lng>-2.88333</lng>
+<geonameId>2634727</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1833</population>
+<alternateNames>Warton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UF</adminCode3>
+<adminName3>Fylde District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Warton%2C_Fylde</alternateName>
+<alternateName lang="unlc">WRT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.89094</west>
+<north>53.77116</north>
+<east>-2.87572</east>
+<south>53.76217</south>
+</bbox>
+<score>94.63816833496094</score>
+</geoname>
+<geoname>
+<toponymName>Warton</toponymName>
+<name>Warton</name>
+<lat>54.13333</lat>
+<lng>-2.76667</lng>
+<geonameId>2634726</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Warton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UH</adminCode3>
+<adminName3>Lancaster</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Warton%2C_Lancaster</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.78202</west>
+<north>54.14233</north>
+<east>-2.75131</east>
+<south>54.12434</south>
+</bbox>
+<score>93.1069107055664</score>
+</geoname>
+<geoname>
+<toponymName>Warton</toponymName>
+<name>Warton</name>
+<lat>54.14189</lat>
+<lng>-2.80966</lng>
+<geonameId>7299069</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UH</adminCode3>
+<adminName3>Lancaster</adminName3>
+<adminCode4>30UH032</adminCode4>
+<adminName4>Warton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.88664</west>
+<north>54.1615</north>
+<east>-2.73269</east>
+<south>54.12229</south>
+</bbox>
+<score>74.027099609375</score>
+</geoname>
+</geonames>

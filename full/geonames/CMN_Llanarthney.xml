@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanarthney</toponymName>
+<name>Llanarthney</name>
+<lat>51.84954</lat>
+<lng>-4.16092</lng>
+<geonameId>7297151</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU021</adminCode3>
+<adminName3>Llanarthney</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.23491</west>
+<north>51.87122</north>
+<east>-4.08694</east>
+<south>51.82786</south>
+</bbox>
+<score>115.13020324707031</score>
+</geoname>
+<geoname>
+<toponymName>Llanarthney</toponymName>
+<name>Llanarthney</name>
+<lat>51.86043</lat>
+<lng>-4.12873</lng>
+<geonameId>2644186</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanarthney</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU021</adminCode3>
+<adminName3>Llanarthney</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanarthney</alternateName>
+<alternateName lang="unlc">LTY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.14329</west>
+<north>51.86943</north>
+<east>-4.11416</east>
+<south>51.85144</south>
+</bbox>
+<score>94.31924438476562</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Liston</toponymName>
+<name>Liston</name>
+<lat>52.06667</lat>
+<lng>0.7</lng>
+<geonameId>2644394</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Liston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UC</adminCode3>
+<adminName3>Braintree District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Liston%2C_Essex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.68537</west>
+<north>52.07566</north>
+<east>0.71463</east>
+<south>52.05767</south>
+</bbox>
+<score>91.96282196044922</score>
+</geoname>
+<geoname>
+<toponymName>Liston</toponymName>
+<name>Liston</name>
+<lat>52.07315</lat>
+<lng>0.69723</lng>
+<geonameId>7295096</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UC</adminCode3>
+<adminName3>Braintree District</adminName3>
+<adminCode4>22UC036</adminCode4>
+<adminName4>Liston</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.68173</west>
+<north>52.08302</north>
+<east>0.71274</east>
+<south>52.06329</south>
+</bbox>
+<score>71.97026062011719</score>
+</geoname>
+</geonames>

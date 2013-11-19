@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Radcliffe</toponymName>
+<name>Radcliffe</name>
+<lat>53.56178</lat>
+<lng>-2.32455</lng>
+<geonameId>6691227</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>34239</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C1</adminCode2>
+<adminName2>Bury</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Radcliffe%2C_Greater_Manchester</alternateName>
+<alternateName lang="unlc">RDC</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.36464</west>
+<north>53.58557</north>
+<east>-2.28447</east>
+<south>53.53798</south>
+</bbox>
+<score>96.5393295288086</score>
+</geoname>
+<geoname>
+<toponymName>Radcliffe on Trent</toponymName>
+<name>Radcliffe on Trent</name>
+<lat>52.94802</lat>
+<lng>-1.03855</lng>
+<geonameId>2639727</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7349</population>
+<alternateNames>Radcliffe,Radcliffe on Trent</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Radcliffe-on-Trent</alternateName>
+<alternateName lang="unlc">RNT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.05684</west>
+<north>52.95903</north>
+<east>-1.02027</east>
+<south>52.937</south>
+</bbox>
+<score>58.871341705322266</score>
+</geoname>
+<geoname>
+<toponymName>Radcliffe</toponymName>
+<name>Radcliffe</name>
+<lat>53.5622</lat>
+<lng>-2.32152</lng>
+<geonameId>7676847</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>MTRO</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>metro station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C1</adminCode2>
+<adminName2>Bury</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>16.302000045776367</score>
+</geoname>
+</geonames>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Breage</toponymName>
+<name>Breage</name>
+<lat>50.11847</lat>
+<lng>-5.36568</lng>
+<geonameId>7291111</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE009</adminCode3>
+<adminName3>Breage</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.42017</west>
+<north>50.14975</north>
+<east>-5.31119</east>
+<south>50.08718</south>
+</bbox>
+<score>110.1891860961914</score>
+</geoname>
+<geoname>
+<toponymName>Breage</toponymName>
+<name>Breage</name>
+<lat>50.10893</lat>
+<lng>-5.3326</lng>
+<geonameId>2654835</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Breage</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE009</adminCode3>
+<adminName3>Breage</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Breage%2C_Cornwall</alternateName>
+<alternateName lang="unlc">BGQ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.34663</west>
+<north>50.11793</north>
+<east>-5.31858</east>
+<south>50.09994</south>
+</bbox>
+<score>85.412841796875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wye</toponymName>
+<name>Wye</name>
+<lat>51.18249</lat>
+<lng>0.93678</lng>
+<geonameId>2633460</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2112</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wye%2C_Kent</alternateName>
+<alternateName lang="unlc">WYE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.9296</west>
+<north>51.18699</north>
+<east>0.94395</east>
+<south>51.17799</south>
+</bbox>
+<score>102.58721160888672</score>
+</geoname>
+<geoname>
+<toponymName>Wye Railway Station</toponymName>
+<name>Wye Railway Station</name>
+<lat>51.18512</lat>
+<lng>0.92928</lng>
+<geonameId>6945267</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>WYE</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<alternateName lang="abbr">WYE</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wye_railway_station</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>41.28260803222656</score>
+</geoname>
+</geonames>

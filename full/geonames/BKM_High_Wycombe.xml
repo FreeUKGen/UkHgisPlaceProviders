@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>High Wycombe</toponymName>
+<name>High Wycombe</name>
+<lat>51.62907</lat>
+<lng>-0.74934</lng>
+<geonameId>2646914</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>80357</population>
+<alternateNames>Chepping,HYC,High Wycombe,Khaj Uikumb,Khaj Vikom,Khaj-Uikom,Wycombe,hai wei ke mu,haiwikeom,hay waykam,Хай Уикъмб,Хай-Уиком,Хај Виком,های وایکام,海威科姆,하이위컴</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UF</adminCode3>
+<adminName3>Wycombe</adminName3>
+<alternateName lang="bg">Хай Уикъмб</alternateName>
+<alternateName lang="de">High Wycombe</alternateName>
+<alternateName lang="en">High Wycombe</alternateName>
+<alternateName lang="fa">های وایکام</alternateName>
+<alternateName lang="fr">High Wycombe</alternateName>
+<alternateName lang="iata">HYC</alternateName>
+<alternateName lang="ko">하이위컴</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/High_Wycombe</alternateName>
+<alternateName lang="ru">Хай-Уиком</alternateName>
+<alternateName lang="sr">Хај Виком</alternateName>
+<alternateName lang="unlc">HWY</alternateName>
+<alternateName lang="zh">海威科姆</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.80824</west>
+<north>51.66561</north>
+<east>-0.69045</east>
+<south>51.59254</south>
+</bbox>
+<score>133.130615234375</score>
+</geoname>
+<geoname>
+<toponymName>High Wycombe</toponymName>
+<name>High Wycombe</name>
+<lat>51.63121</lat>
+<lng>-0.7486</lng>
+<geonameId>6286412</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UF</adminCode3>
+<adminName3>Wycombe</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>17.60210418701172</score>
+</geoname>
+</geonames>

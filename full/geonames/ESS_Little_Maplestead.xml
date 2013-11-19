@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Little Maplestead</toponymName>
+<name>Little Maplestead</name>
+<lat>51.9719</lat>
+<lng>0.6554</lng>
+<geonameId>7300500</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UC</adminCode3>
+<adminName3>Braintree District</adminName3>
+<adminCode4>22UC038</adminCode4>
+<adminName4>Little Maplestead</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Little_Maplestead</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.63215</west>
+<north>51.98544</north>
+<east>0.67865</east>
+<south>51.95835</south>
+</bbox>
+<score>53.721229553222656</score>
+</geoname>
+</geonames>

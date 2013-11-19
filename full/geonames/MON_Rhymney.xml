@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Rhymney</toponymName>
+<name>Rhymney</name>
+<lat>51.76474</lat>
+<lng>-3.29046</lng>
+<geonameId>7301671</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X4</adminCode2>
+<adminName2>Caerphilly</adminName2>
+<adminCode3>00PK022</adminCode3>
+<adminName3>Rhymney</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.33446</west>
+<north>51.79897</north>
+<east>-3.24646</east>
+<south>51.73052</south>
+</bbox>
+<score>112.3118896484375</score>
+</geoname>
+<geoname>
+<toponymName>Rhymney</toponymName>
+<name>Rhymney</name>
+<lat>51.75998</lat>
+<lng>-3.28553</lng>
+<geonameId>2639407</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7089</population>
+<alternateNames>Rhymney</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X4</adminCode2>
+<adminName2>Caerphilly</adminName2>
+<adminCode3>00PK022</adminCode3>
+<adminName3>Rhymney</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rhymney</alternateName>
+<alternateName lang="unlc">RYY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.30178</west>
+<north>51.77004</north>
+<east>-3.26929</east>
+<south>51.74993</south>
+</bbox>
+<score>108.86579895019531</score>
+</geoname>
+</geonames>

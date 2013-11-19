@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>St. Anthony-in-Meneage</toponymName>
+<name>St. Anthony-in-Meneage</name>
+<lat>50.08062</lat>
+<lng>-5.10686</lng>
+<geonameId>7294645</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE130</adminCode3>
+<adminName3>St. Anthony-in-Meneage</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.12698</west>
+<north>50.0966</north>
+<east>-5.08674</east>
+<south>50.06465</south>
+</bbox>
+<score>89.80067443847656</score>
+</geoname>
+</geonames>

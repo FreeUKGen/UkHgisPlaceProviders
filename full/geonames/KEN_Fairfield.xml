@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Fairfield</toponymName>
+<name>Fairfield</name>
+<lat>54.49726</lat>
+<lng>-2.99223</lng>
+<geonameId>2649744</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>T</fcl>
+<fcode>MT</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>mountain</fcodeName>
+<population/>
+<alternateNames/>
+<elevation>873</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UF</adminCode3>
+<adminName3>Eden District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Fairfield_%28Lake_District%29</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>51.215415954589844</score>
+</geoname>
+<geoname>
+<toponymName>Fairfield</toponymName>
+<name>Fairfield</name>
+<lat>54.2</lat>
+<lng>-7.56667</lng>
+<geonameId>2649742</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NIR">NIR</adminCode1>
+<adminName1>N Ireland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-7.58204</west>
+<north>54.20899</north>
+<east>-7.55129</east>
+<south>54.19101</south>
+</bbox>
+<score>36.587310791015625</score>
+</geoname>
+<geoname>
+<toponymName>Fairfield</toponymName>
+<name>Fairfield</name>
+<lat>53.27009</lat>
+<lng>-1.89643</lng>
+<geonameId>2649743</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UH</adminCode3>
+<adminName3>High Peak District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.91147</west>
+<north>53.27908</north>
+<east>-1.88139</east>
+<south>53.2611</south>
+</bbox>
+<score>36.587310791015625</score>
+</geoname>
+</geonames>

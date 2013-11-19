@@ -1,0 +1,43 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>8506</id>
+<name>SEIGHFORD</name>
+<container>STAFFORDSHIRE</container>
+<lat>52.8192703508514</lat>
+<lon>-2.17602786699684</lon>
+<gazetteerText>SEIGHFORD, a parish, with four villages, in the district and county of Stafford; 2&#189; miles N W of Stafford r.station. Post-town, Stafford. Acres, 4, 451. Real property, &#163;6, 778. Pop., 808. Houses, 164. The property is divided among a few. The manor belongs to F. Eld, Esq. S. Hall is the chief residence. The living is a vicarage in the diocese of Lichfield. Value, &#163;1 89.* Patron, F. Eld, Esq. The church is good; and there is a chapel, forming a separate charge, at Derrington. There are also a slightly endowed school, and charities &#163;11. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/STS/Seighford/index.html</link>
+<link>http://en.wikipedia.org/wiki/Seighford</link>
+<link>http://www.geonames.org/2638247</link>
+</links>
+<unit>
+   <id>10292694</id>
+   <status>CP/AP</status>
+   <name>SEIGHFORD</name>
+</unit>
+<unit>
+   <id>10292712</id>
+   <status>EP</status>
+   <name>SEIGHFORD</name>
+</unit>
+<unit>
+   <id>10485964</id>
+   <status>EP</status>
+   <name>SEIGHFORD WITH DERRINGTON AND CRESSWELL</name>
+</unit>
+<nearByPlace>
+   <id>8047</id>
+   <name>ELLENHALL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8158</id>
+   <name>HAUGHTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8485</id>
+   <name>RANTON</name>
+</nearByPlace>
+</place>
+</results>

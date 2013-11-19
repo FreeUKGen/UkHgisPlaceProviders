@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Marden</toponymName>
+<name>Marden</name>
+<lat>51.17482</lat>
+<lng>0.48855</lng>
+<geonameId>2643060</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2466</population>
+<alternateNames>Marden</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UH</adminCode3>
+<adminName3>Maidstone</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marden%2C_Kent</alternateName>
+<alternateName lang="unlc">MRD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.4784</west>
+<north>51.18118</north>
+<east>0.49869</east>
+<south>51.16846</south>
+</bbox>
+<score>77.36702728271484</score>
+</geoname>
+<geoname>
+<toponymName>Marden</toponymName>
+<name>Marden</name>
+<lat>51.17682</lat>
+<lng>0.50011</lng>
+<geonameId>7298953</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UH</adminCode3>
+<adminName3>Maidstone</adminName3>
+<adminCode4>29UH026</adminCode4>
+<adminName4>Marden</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.45369</west>
+<north>51.2123</north>
+<east>0.54653</east>
+<south>51.14134</south>
+</bbox>
+<score>59.80060577392578</score>
+</geoname>
+<geoname>
+<toponymName>Marden</toponymName>
+<name>Marden</name>
+<lat>52.12972</lat>
+<lng>-2.68766</lng>
+<geonameId>7291154</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA145</adminCode3>
+<adminName3>Marden</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marden%2C_Herefordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.72423</west>
+<north>52.15283</north>
+<east>-2.65108</east>
+<south>52.1066</south>
+</bbox>
+<score>53.80038070678711</score>
+</geoname>
+<geoname>
+<toponymName>Marden</toponymName>
+<name>Marden</name>
+<lat>51.30267</lat>
+<lng>-1.88072</lng>
+<geonameId>7296286</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY151</adminCode3>
+<adminName3>Marden</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marden%2C_Wiltshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.89542</west>
+<north>51.32608</north>
+<east>-1.86601</east>
+<south>51.27925</south>
+</bbox>
+<score>53.80038070678711</score>
+</geoname>
+<geoname>
+<toponymName>Marden</toponymName>
+<name>Marden</name>
+<lat>50.93327</lat>
+<lng>-0.84585</lng>
+<geonameId>7301541</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UD</adminCode3>
+<adminName3>Chichester District</adminName3>
+<adminCode4>45UD038</adminCode4>
+<adminName4>Marden</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marden%2C_West_Sussex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.86865</west>
+<north>50.95317</north>
+<east>-0.82304</east>
+<south>50.91337</south>
+</bbox>
+<score>41.557621002197266</score>
+</geoname>
+</geonames>

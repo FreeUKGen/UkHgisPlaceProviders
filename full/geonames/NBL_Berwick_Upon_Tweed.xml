@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Berwick-Upon-Tweed</toponymName>
+<name>Berwick</name>
+<lat>55.78333</lat>
+<lng>-2</lng>
+<geonameId>2655819</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>26000</population>
+<alternateNames>Bervik-apon-Tvid,Berwick,Berwick on Tweed,Berwick-Upon-Tweed,Berwick-upon-Tweed,Бервик-апон-Твид</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<alternateName lang="ca">Berwick-upon-Tweed</alternateName>
+<alternateName lang="de">Berwick-upon-Tweed</alternateName>
+<alternateName lang="en">Berwick</alternateName>
+<alternateName lang="es">Berwick-upon-Tweed</alternateName>
+<alternateName lang="fr">Berwick-upon-Tweed</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Berwick-upon-tweed</alternateName>
+<alternateName lang="nl">Berwick-upon-Tweed</alternateName>
+<alternateName lang="no">Berwick-upon-Tweed</alternateName>
+<alternateName lang="pl">Berwick-upon-Tweed</alternateName>
+<alternateName lang="post">TD15</alternateName>
+<alternateName lang="ru">Бервик-апон-Твид</alternateName>
+<alternateName lang="sv">Berwick-upon-Tweed</alternateName>
+<alternateName lang="unlc">BWK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.03667</west>
+<north>55.80394</north>
+<east>-1.96333</east>
+<south>55.76273</south>
+</bbox>
+<score>173.0117645263672</score>
+</geoname>
+<geoname>
+<toponymName>Berwick-upon-Tweed</toponymName>
+<name>Berwick-upon-Tweed</name>
+<lat>55.77478</lat>
+<lng>-2.03495</lng>
+<geonameId>7301617</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM020</adminCode3>
+<adminName3>Berwick-upon-Tweed</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.08854</west>
+<north>55.81166</north>
+<east>-1.98136</east>
+<south>55.7379</south>
+</bbox>
+<score>97.3559341430664</score>
+</geoname>
+</geonames>

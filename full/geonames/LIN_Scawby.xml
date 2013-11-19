@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Scawby</toponymName>
+<name>Scawby</name>
+<lat>53.53787</lat>
+<lng>-0.54085</lng>
+<geonameId>2638391</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1699</population>
+<alternateNames>Scawby</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD044</adminCode3>
+<adminName3>Scawby</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Scawby</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.54842</west>
+<north>53.54236</north>
+<east>-0.53328</east>
+<south>53.53337</south>
+</bbox>
+<score>116.56470489501953</score>
+</geoname>
+<geoname>
+<toponymName>Scawby</toponymName>
+<name>Scawby</name>
+<lat>53.53522</lat>
+<lng>-0.53542</lng>
+<geonameId>7290740</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD044</adminCode3>
+<adminName3>Scawby</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.57994</west>
+<north>53.55111</north>
+<east>-0.4909</east>
+<south>53.51933</south>
+</bbox>
+<score>111.6661376953125</score>
+</geoname>
+</geonames>

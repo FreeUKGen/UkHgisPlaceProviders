@@ -1,0 +1,661 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>693</id>
+<name>WANDSWORTH</name>
+<container>SURREY</container>
+<lat>51.4559181812859</lat>
+<lon>-0.190596935032816</lon>
+<gazetteerText>Wandsworth, parl. bor. and par., Surrey, on river Wandle, at its influx into the Thames, 5 miles SW. of Waterloo Station, London, by rail - par., 2433 ac., pop. 28,004; bor. (including also the pars. of Tooting-Graveney, Streatham, and Putney), 8148 ac., pop. 68,792. Wandsworth is mentioned in Domesday Book, and became a seat of several important manufactures introduced by refugee Frenchmen after the revocation of the Edict of Nantes; the present industries include oil-mills, dye-works, paper-works, calico printing, hat making, corn mills, brewing, vinegar making, &amp;c. There are 3 ry. stations - Wandsworth, Wandsworth Common, and Wandsworth Road. The Surrey County Lunatic Asylum, the Royal Hospital for Incurables, and the Boys&apos; Home Reformatory, are here. Wandsworth returns 1 member to Parliament; it was made a parl. bor. in 1885. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.workhouses.org.uk/Wandsworth</link>
+<link>http://en.wikipedia.org/wiki/Wandsworth</link>
+<link>http://www.geonames.org/2634812</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=43039</link>
+</links>
+<unit>
+   <id>10037300</id>
+   <status>EP</status>
+   <name>WANDSWORTH</name>
+</unit>
+<unit>
+   <id>10043773</id>
+   <status>PLU/PLPar</status>
+   <name>WANDSWORTH</name>
+</unit>
+<unit>
+   <id>10079263</id>
+   <status>EP</status>
+   <name>WANDSWORTH COMMON</name>
+</unit>
+<unit>
+   <id>10104257</id>
+   <status></status>
+   <name>WANDSWORTH</name>
+</unit>
+<unit>
+   <id>10135163</id>
+   <status>MetB</status>
+   <name>WANDSWORTH</name>
+</unit>
+<unit>
+   <id>10137469</id>
+   <status>Lon_SDist</status>
+   <name>WANDSWORTH</name>
+</unit>
+<unit>
+   <id>10147591</id>
+   <status>EP</status>
+   <name>WANDSWORTH ST STEPHEN</name>
+</unit>
+<unit>
+   <id>10153360</id>
+   <status>LB</status>
+   <name>WANDSWORTH</name>
+</unit>
+<unit>
+   <id>10170692</id>
+   <status>AP/CP</status>
+   <name>WANDSWORTH</name>
+</unit>
+<unit>
+   <id>10170709</id>
+   <status>EP</status>
+   <name>WANDSWORTH ST PAUL WIMBLEDON</name>
+</unit>
+<unit>
+   <id>10191476</id>
+   <status>EP</status>
+   <name>WANDSWORTH ST ANNE</name>
+</unit>
+<unit>
+   <id>10200910</id>
+   <status>EP</status>
+   <name>WANDSWORTH ST MICHAEL AND ALL ANGELS SOUTHFIELDS</name>
+</unit>
+<unit>
+   <id>10202887</id>
+   <status>EP</status>
+   <name>WANDSWORTH ST FAITH</name>
+</unit>
+<unit>
+   <id>10235522</id>
+   <status>CP</status>
+   <name>WANDSWORTH BOROUGH</name>
+</unit>
+<unit>
+   <id>10488011</id>
+   <status>RegD</status>
+   <name>WANDSWORTH</name>
+</unit>
+<unit>
+   <id>10565170</id>
+   <status></status>
+   <name>WANDSWORTH</name>
+</unit>
+<unit>
+   <id>10568146</id>
+   <status></status>
+   <name>WANDSWORTH</name>
+</unit>
+<unit>
+   <id>10581771</id>
+   <status></status>
+   <name>WANDSWORTH</name>
+</unit>
+<unit>
+   <id>12747380</id>
+   <status>PBCon</status>
+   <name>WANDSWORTH</name>
+</unit>
+<unit>
+   <id>12747391</id>
+   <status>PBDivCon</status>
+   <name>WANDSWORTH CENTRAL</name>
+</unit>
+<unit>
+   <id>12835656</id>
+   <status></status>
+   <name>WANDSWORTH</name>
+</unit>
+<nearByPlace>
+   <id>274</id>
+   <name>TWICKENHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>443</id>
+   <name>HAMPSTEAD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>553</id>
+   <name>WOKING</name>
+</nearByPlace>
+<nearByPlace>
+   <id>571</id>
+   <name>CROYDON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>581</id>
+   <name>KENSINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>715</id>
+   <name>LAMBETH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>920</id>
+   <name>EPSOM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1042</id>
+   <name>SUTTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1168</id>
+   <name>MITCHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1299</id>
+   <name>COULSDON</name>
+</nearByPlace>
+</place>
+<place>
+<id>712</id>
+<name>BATTERSEA</name>
+<container>SURREY</container>
+<lat>51.475401544115</lat>
+<lon>-0.171103566957069</lon>
+<gazetteerText>Battersea and Clapham, parl. bor., Surrey, consisting of the township of Battersea and the par. of Clapham, 3307 ac., pop. 143,642; it returns 2 members to Parliament -- 2 divisions, viz., Battersea (pop. 73,181) and Clapham (pop. 70,461), 1 member for each division; it was made a parl. bor. in 1885. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.geonames.org/6690602</link>
+<link>http://en.wikipedia.org/wiki/Battersea</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=43025</link>
+</links>
+<unit>
+   <id>10019710</id>
+   <status>EP</status>
+   <name>BATTERSEA</name>
+</unit>
+<unit>
+   <id>10019722</id>
+   <status>EP</status>
+   <name>BATTERSEA ST ANDREW</name>
+</unit>
+<unit>
+   <id>10019734</id>
+   <status>EP</status>
+   <name>BATTERSEA ST PAUL</name>
+</unit>
+<unit>
+   <id>10019746</id>
+   <status>EP</status>
+   <name>BATTERSEA ST STEPHEN</name>
+</unit>
+<unit>
+   <id>10071112</id>
+   <status>EP</status>
+   <name>BATTERSEA CHRIST CHURCH</name>
+</unit>
+<unit>
+   <id>10071124</id>
+   <status>EP</status>
+   <name>BATTERSEA ST LUKE</name>
+</unit>
+<unit>
+   <id>10128985</id>
+   <status>AP/CP</status>
+   <name>BATTERSEA</name>
+</unit>
+<unit>
+   <id>10128997</id>
+   <status>EP</status>
+   <name>BATTERSEA CHRIST CHURCH AND ST STEPHEN</name>
+</unit>
+<unit>
+   <id>10129000</id>
+   <status>EP</status>
+   <name>BATTERSEA ST GEORGE WITH ST ANDREW</name>
+</unit>
+<unit>
+   <id>10129011</id>
+   <status>EP</status>
+   <name>BATTERSEA ST MICHAEL WANDSWORTH COMMON</name>
+</unit>
+<unit>
+   <id>10135539</id>
+   <status>MetB</status>
+   <name>BATTERSEA</name>
+</unit>
+<unit>
+   <id>10139650</id>
+   <status>PLPar</status>
+   <name>BATTERSEA</name>
+</unit>
+<unit>
+   <id>10164230</id>
+   <status>EP</status>
+   <name>BATTERSEA ST PETER AND ST PAUL</name>
+</unit>
+<unit>
+   <id>10183303</id>
+   <status>EP</status>
+   <name>BATTERSEA ST BARTHOLOMEW</name>
+</unit>
+<unit>
+   <id>10183315</id>
+   <status>EP</status>
+   <name>BATTERSEA ST PHILIP</name>
+</unit>
+<unit>
+   <id>10196383</id>
+   <status>EP</status>
+   <name>BATTERSEA ST MARY LE PARK</name>
+</unit>
+<unit>
+   <id>10199098</id>
+   <status>EP</status>
+   <name>BATTERSEA ST GEORGE</name>
+</unit>
+<unit>
+   <id>10202218</id>
+   <status>EP</status>
+   <name>BATTERSEA ST PHILIP WITH ST BARTHOLOMEW</name>
+</unit>
+<unit>
+   <id>10210100</id>
+   <status>EP</status>
+   <name>BATTERSEA ST PETER</name>
+</unit>
+<unit>
+   <id>10539882</id>
+   <status></status>
+   <name>EAST BATTERSEA</name>
+</unit>
+<unit>
+   <id>10539894</id>
+   <status></status>
+   <name>NORTH WEST BATTERSEA</name>
+</unit>
+<unit>
+   <id>10539900</id>
+   <status></status>
+   <name>SOUTH WEST BATTERSEA</name>
+</unit>
+<unit>
+   <id>10561735</id>
+   <status></status>
+   <name>BATTERSEA</name>
+</unit>
+<unit>
+   <id>10561747</id>
+   <status></status>
+   <name>BATTERSEA WEST</name>
+</unit>
+<unit>
+   <id>10569382</id>
+   <status></status>
+   <name>BATTERSEA</name>
+</unit>
+<unit>
+   <id>12736599</id>
+   <status>BCon</status>
+   <name>WANDSWORTH BATTERSEA NORTH</name>
+</unit>
+<unit>
+   <id>12736605</id>
+   <status>BCon</status>
+   <name>WANDSWORTH BATTERSEA SOUTH</name>
+</unit>
+<unit>
+   <id>12742046</id>
+   <status>PBDivCon/BCon</status>
+   <name>BATTERSEA SOUTH</name>
+</unit>
+<unit>
+   <id>12749223</id>
+   <status>PBDivCon</status>
+   <name>BATTERSEA AND CLAPHAM BATTERSEA</name>
+</unit>
+<unit>
+   <id>12749326</id>
+   <status>PBDivCon/BCon</status>
+   <name>BATTERSEA NORTH</name>
+</unit>
+<unit>
+   <id>12754670</id>
+   <status>BCon</status>
+   <name>BATTERSEA</name>
+</unit>
+<unit>
+   <id>12755028</id>
+   <status>PBDivCon</status>
+   <name>BATTERSEA AND CLAPHAM CLAPHAM</name>
+</unit>
+<unit>
+   <id>12828251</id>
+   <status>Lon_SDist</status>
+   <name>BATTERSEA</name>
+</unit>
+<unit>
+   <id>12829632</id>
+   <status></status>
+   <name>BATTERSEA</name>
+</unit>
+<nearByPlace>
+   <id>20113</id>
+   <name>VAUXHALL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>20120</id>
+   <name>KENNINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>20142</id>
+   <name>CLAPHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>20418</id>
+   <name>PUTNEY</name>
+</nearByPlace>
+</place>
+<place>
+<id>20142</id>
+<name>CLAPHAM</name>
+<container>SURREY</container>
+<lat>51.4622059936268</lat>
+<lon>-0.132757363203876</lon>
+<gazetteerText>Clapham, par. with ry. sta., mid. Surrey, forming SW. suburb of London, 1137 ac., pop. 36,380. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Clapham</link>
+<link>http://www.geonames.org/2652951</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=43028</link>
+</links>
+<unit>
+   <id>10019163</id>
+   <status>EP</status>
+   <name>CLAPHAM ST PAUL</name>
+</unit>
+<unit>
+   <id>10019631</id>
+   <status>EP</status>
+   <name>CLAPHAM</name>
+</unit>
+<unit>
+   <id>10052488</id>
+   <status>EP</status>
+   <name>CLAPHAM THE HOLY SPIRIT</name>
+</unit>
+<unit>
+   <id>10128286</id>
+   <status>EP</status>
+   <name>CLAPHAM ST JOHN</name>
+</unit>
+<unit>
+   <id>10128298</id>
+   <status>EP</status>
+   <name>CLAPHAM COMMON</name>
+</unit>
+<unit>
+   <id>10164229</id>
+   <status>AP/CP</status>
+   <name>CLAPHAM HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10182931</id>
+   <status>EP</status>
+   <name>CLAPHAM ST JAMES</name>
+</unit>
+<unit>
+   <id>10186020</id>
+   <status>EP</status>
+   <name>CLAPHAM CHRIST CHURCH</name>
+</unit>
+<unit>
+   <id>10204057</id>
+   <status>EP</status>
+   <name>CLAPHAM ST PETER</name>
+</unit>
+<unit>
+   <id>10539845</id>
+   <status></status>
+   <name>CLAPHAM</name>
+</unit>
+<unit>
+   <id>10571728</id>
+   <status></status>
+   <name>CLAPHAM AND BRIXTON</name>
+</unit>
+<unit>
+   <id>10583172</id>
+   <status></status>
+   <name>CLAPHAM</name>
+</unit>
+<unit>
+   <id>12736587</id>
+   <status>PBDivCon/BCon</status>
+   <name>WANDSWORTH CLAPHAM</name>
+</unit>
+<unit>
+   <id>12836867</id>
+   <status></status>
+   <name>CLAPHAM</name>
+</unit>
+</place>
+<place>
+<id>20170</id>
+<name>BALHAM</name>
+<container>SURREY</container>
+<lat>51.4453800607709</lat>
+<lon>-0.149275618109667</lon>
+<gazetteerText>BALHAM, a hamlet and a chapelry in Streatham parish, Surrey. The hamlet adjoins the West London and Crystal Palace railway, 4 miles WNW of the Crystal Palace; and has a station on the railway, and a post office&#8225; under Clapham, London S. A bill was introduced in 1861 for a railway to connect the West London and Crystal Palace railway at or near Balham with the Windsor line of the Southwestern at Putney. The chapelry bears the name of Balham-Hill. Pop., 1,786. The living is a vicarage in the diocese of Winchester. Value, not reported. Patron, the Rector of Streatham. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2656580</link>
+</links>
+<unit>
+   <id>10128950</id>
+   <status>EP</status>
+   <name>BALHAM</name>
+</unit>
+<unit>
+   <id>12749338</id>
+   <status>PBDivCon</status>
+   <name>WANDSWORTH BALHAM AND TOOTING</name>
+</unit>
+</place>
+<place>
+<id>20418</id>
+<name>PUTNEY</name>
+<container>SURREY</container>
+<lat>51.4598884444642</lat>
+<lon>-0.214914642985697</lon>
+<gazetteerText>Putney, town and par., Surrey, on right bank of river Thames, opposite Fulham, and within the parliamentary limits of Wandsworth, 5f miles SW. of Waterloo sta., London, by rail, and 7 miles from London Bridge by water, 2235 ac., pop. 13,235. Putney is the headquarters of the rowing world. A little above the bridge is the starting-point for the University boat-race, of which the course ends at Mortlake. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2639835</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=43035</link>
+</links>
+<unit>
+   <id>10078970</id>
+   <status>EP</status>
+   <name>PUTNEY</name>
+</unit>
+<unit>
+   <id>10147037</id>
+   <status>Ch/CP</status>
+   <name>PUTNEY</name>
+</unit>
+<unit>
+   <id>10147049</id>
+   <status>EP</status>
+   <name>PUTNEY ST MARGARET</name>
+</unit>
+<unit>
+   <id>10539833</id>
+   <status></status>
+   <name>PUTNEY</name>
+</unit>
+<unit>
+   <id>12740876</id>
+   <status>PBDivCon/BCon</status>
+   <name>WANDSWORTH PUTNEY</name>
+</unit>
+<unit>
+   <id>12742071</id>
+   <status>BCon</status>
+   <name>PUTNEY</name>
+</unit>
+</place>
+<place>
+<id>20461</id>
+<name>STREATHAM</name>
+<container>SURREY</container>
+<lat>51.4288823155896</lat>
+<lon>-0.129800253812256</lon>
+<gazetteerText>STREATHAM, a village, a parish, and a sub-district, in Wandsworth district, Surrey. The village stands on the West-End and Croydon railway, 6&#189; miles SSW of St. Pauls, London; dates from ancient times; and has a post-office&#8225; under London S, a r. station with telegraph, a police station, and a much-frequented mineral spring.&#151;The parish contains also Upper Tooting, Selhurst, Thornton-Heath, Streatham-Common, and Balsam hamlets,- all of which, except the first, have r. stations; and it includes a detached tract, called Knights-Hill, between Lambeth and Camberwell. Acres, 2,904. Real property, &#163;35,887. Pop. in 1851, 6,901; in 1861, 8,027. Houses, 1,246. The property is much subdivided; and there are numerous good residences. S. Park was the seat of the Thralls, and long, in their time, the domicile of Dr. Johnson. The living is a rectory in the diocese of Winchester. Value, &#163;1,200.* Patron, the Duke of Bedford. The church was rebuilt in 1830, and its spire in 1842. A chapel of ease, built in 1868, is under care of the rector; and five other churches, in Christchurch-Road, Grove-Road, Streatham-Common, Balham, and Upper Tooting, are separate charges. There are chapels for Wesleyans and Independents, fifteen national schools, an endowed school with &#163;20 a year, St-Ann&apos;s Society schools, and charities &#163;190.&#151;The sub-district includes Lower Tooting, and comprises 3,465 acres. Pop., 10,082. Houses, 1,613. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2636675</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=43037</link>
+</links>
+<unit>
+   <id>10037219</id>
+   <status>EP</status>
+   <name>STREATHAM</name>
+</unit>
+<unit>
+   <id>10037220</id>
+   <status>EP</status>
+   <name>STREATHAM ST MARY</name>
+</unit>
+<unit>
+   <id>10059148</id>
+   <status>EP</status>
+   <name>STREATHAM CHRIST CHURCH</name>
+</unit>
+<unit>
+   <id>10092036</id>
+   <status>EP</status>
+   <name>STREATHAM IMMANUEL</name>
+</unit>
+<unit>
+   <id>10147499</id>
+   <status>EP</status>
+   <name>STREATHAM IMMANUEL WITH ST ANSELM</name>
+</unit>
+<unit>
+   <id>10170643</id>
+   <status>CP/AP</status>
+   <name>STREATHAM</name>
+</unit>
+<unit>
+   <id>10191385</id>
+   <status>EP</status>
+   <name>STREATHAM ST PAUL FURZEDOWN</name>
+</unit>
+<unit>
+   <id>10197867</id>
+   <status>EP</status>
+   <name>STREATHAM ST ANSELM</name>
+</unit>
+<unit>
+   <id>10202863</id>
+   <status>EP</status>
+   <name>STREATHAM ST PETER</name>
+</unit>
+<unit>
+   <id>10215225</id>
+   <status>EP</status>
+   <name>WEST STREATHAM</name>
+</unit>
+<unit>
+   <id>10539857</id>
+   <status></status>
+   <name>STREATHAM</name>
+</unit>
+<unit>
+   <id>10580845</id>
+   <status></status>
+   <name>STREATHAM</name>
+</unit>
+<unit>
+   <id>10580857</id>
+   <status></status>
+   <name>STREATHAM AND MITCHAM</name>
+</unit>
+<unit>
+   <id>10595344</id>
+   <status></status>
+   <name>STREATHAM</name>
+</unit>
+<unit>
+   <id>12742083</id>
+   <status>BCon</status>
+   <name>STREATHAM</name>
+</unit>
+<unit>
+   <id>12742095</id>
+   <status>BCon</status>
+   <name>LAMBETH STREATHAM</name>
+</unit>
+<unit>
+   <id>12749259</id>
+   <status>PBDivCon/BCon</status>
+   <name>WANDSWORTH STREATHAM</name>
+</unit>
+</place>
+<place>
+<id>20472</id>
+<name>TOOTING</name>
+<container>SURREY</container>
+<lat>51.4276753270781</lat>
+<lon>-0.167255412342691</lon>
+<gazetteerText>Tooting, ry. sta., Surrey, 2 miles E. of Wimbledon. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.geonames.org/6690824</link>
+</links>
+<unit>
+   <id>10088124</id>
+   <status>EP</status>
+   <name>TOOTING ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10197880</id>
+   <status>EP</status>
+   <name>TOOTING ST AUGUSTINE</name>
+</unit>
+<unit>
+   <id>10581345</id>
+   <status></status>
+   <name>TOOTING</name>
+</unit>
+<unit>
+   <id>12742058</id>
+   <status>BCon</status>
+   <name>WANDSWORTH TOOTING</name>
+</unit>
+<unit>
+   <id>12742060</id>
+   <status>BCon</status>
+   <name>TOOTING</name>
+</unit>
+<unit>
+   <id>12828809</id>
+   <status></status>
+   <name>TOOTING</name>
+</unit>
+</place>
+<place>
+<id>23691</id>
+<name>SUMMERSTOWN</name>
+<container>SURREY</container>
+<lat>51.4323933408981</lat>
+<lon>-0.181454885961817</lon>
+<gazetteerText>SUMMERSTOWN, a chapelry in Garrat hamlet, Wandsworth parish, Surrey; on the river Wandle, 1&#189; mile NE of Wimbledon r. station. It was constituted in 1845. Post town, Garrat, under Tooting, London SW. Rated property, &#163;5,282. Pop., 920. Houses, 186. The property is much subdivided. The living is a p. curacy in the diocese of Winchester. Value, &#163;195.* Patrons, Trustees. The church is in the pointed style. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Summerstown,_London</link>
+</links>
+<unit>
+   <id>10147505</id>
+   <status>EP</status>
+   <name>SUMMERS TOWN</name>
+</unit>
+</place>
+</results>

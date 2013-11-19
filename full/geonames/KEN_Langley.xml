@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>10</totalResultsCount>
+<geoname>
+<toponymName>Langley</toponymName>
+<name>Langley</name>
+<lat>51.23333</lat>
+<lng>0.58333</lng>
+<geonameId>2644924</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Langley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UH</adminCode3>
+<adminName3>Maidstone</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Langley%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.56897</west>
+<north>51.24233</north>
+<east>0.5977</east>
+<south>51.22434</south>
+</bbox>
+<score>74.39454650878906</score>
+</geoname>
+<geoname>
+<toponymName>Langley</toponymName>
+<name>Langley</name>
+<lat>54.93333</lat>
+<lng>-2.26667</lng>
+<geonameId>2644920</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Langley,Langley-on-Tyne</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Langley%2C_Northumberland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.28232</west>
+<north>54.94233</north>
+<east>-2.25101</east>
+<south>54.92434</south>
+</bbox>
+<score>63.799278259277344</score>
+</geoname>
+<geoname>
+<toponymName>Langley</toponymName>
+<name>Langley</name>
+<lat>51.9959</lat>
+<lng>0.10428</lng>
+<geonameId>2644923</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UQ</adminCode3>
+<adminName3>Uttlesford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Langley%2C_Essex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.08967</west>
+<north>52.00489</north>
+<east>0.11889</east>
+<south>51.98691</south>
+</bbox>
+<score>62.62254333496094</score>
+</geoname>
+<geoname>
+<toponymName>Langley</toponymName>
+<name>Langley</name>
+<lat>50.80941</lat>
+<lng>-1.36917</lng>
+<geonameId>2644925</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UJ</adminCode3>
+<adminName3>New Forest</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Langley%2C_Hampshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.38341</west>
+<north>50.8184</north>
+<east>-1.35494</east>
+<south>50.80041</south>
+</bbox>
+<score>62.62254333496094</score>
+</geoname>
+<geoname>
+<toponymName>Langley</toponymName>
+<name>Langley</name>
+<lat>52.26129</lat>
+<lng>-1.72225</lng>
+<geonameId>7292694</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<adminCode4>44UE052</adminCode4>
+<adminName4>Langley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.73833</west>
+<north>52.27568</north>
+<east>-1.70618</east>
+<south>52.24691</south>
+</bbox>
+<score>57.580074310302734</score>
+</geoname>
+<geoname>
+<toponymName>Langley</toponymName>
+<name>Langley</name>
+<lat>51.23279</lat>
+<lng>0.5835</lng>
+<geonameId>7294846</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UH</adminCode3>
+<adminName3>Maidstone</adminName3>
+<adminCode4>29UH021</adminCode4>
+<adminName4>Langley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.56006</west>
+<north>51.24511</north>
+<east>0.60695</east>
+<south>51.22047</south>
+</bbox>
+<score>57.580074310302734</score>
+</geoname>
+<geoname>
+<toponymName>Langley</toponymName>
+<name>Langley</name>
+<lat>51.99233</lat>
+<lng>0.09384</lng>
+<geonameId>7298554</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UQ</adminCode3>
+<adminName3>Uttlesford District</adminName3>
+<adminCode4>22UQ029</adminCode4>
+<adminName4>Langley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.0681</west>
+<north>52.00827</north>
+<east>0.11959</east>
+<south>51.97639</south>
+</bbox>
+<score>57.580074310302734</score>
+</geoname>
+<geoname>
+<toponymName>Langley</toponymName>
+<name>Langley</name>
+<lat>53.23333</lat>
+<lng>-2.08333</lng>
+<geonameId>2644921</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z7</adminCode2>
+<adminName2>Cheshire East</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.09836</west>
+<north>53.24233</north>
+<east>-2.0683</east>
+<south>53.22434</south>
+</bbox>
+<score>45.72262191772461</score>
+</geoname>
+<geoname>
+<toponymName>Langley</toponymName>
+<name>Langley</name>
+<lat>52.26327</lat>
+<lng>-1.72005</lng>
+<geonameId>2644922</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.73474</west>
+<north>52.27227</north>
+<east>-1.70535</east>
+<south>52.25428</south>
+</bbox>
+<score>45.72262191772461</score>
+</geoname>
+<geoname>
+<toponymName>Langley</toponymName>
+<name>Langley</name>
+<lat>51.8984</lat>
+<lng>-0.24936</lng>
+<geonameId>7293713</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UF</adminCode3>
+<adminName3>North Hertfordshire District</adminName3>
+<adminCode4>26UF018</adminCode4>
+<adminName4>Langley</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Langley%2C_Hertfordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.27562</west>
+<north>51.9155</north>
+<east>-0.22309</east>
+<south>51.88131</south>
+</bbox>
+<score>41.03818130493164</score>
+</geoname>
+</geonames>

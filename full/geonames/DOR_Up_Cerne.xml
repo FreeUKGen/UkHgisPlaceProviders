@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Up Cerne</toponymName>
+<name>Up Cerne</name>
+<lat>50.83082</lat>
+<lng>-2.50042</lng>
+<geonameId>7298423</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH120</adminCode4>
+<adminName4>Up Cerne</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.51987</west>
+<north>50.8445</north>
+<east>-2.48097</east>
+<south>50.81713</south>
+</bbox>
+<score>74.1287841796875</score>
+</geoname>
+</geonames>

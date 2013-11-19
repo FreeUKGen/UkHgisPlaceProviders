@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Mallwyd</toponymName>
+<name>Mallwyd</name>
+<lat>52.69828</lat>
+<lng>-3.68471</lng>
+<geonameId>2643147</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Mallwyd</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC051</adminCode3>
+<adminName3>Mawddwy</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mallwyd</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.69955</west>
+<north>52.70727</north>
+<east>-3.66987</east>
+<south>52.68929</south>
+</bbox>
+<score>111.6026611328125</score>
+</geoname>
+</geonames>

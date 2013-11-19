@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Marylebone</toponymName>
+<name>Marylebone</name>
+<lat>51.52541</lat>
+<lng>-0.16806</lng>
+<geonameId>6545170</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Mary-le-bone,Marylebone,Marylebone Village,Mehrilebon,Mehryleban,Merilebon,St. Marylebone,ma li bo en,maelilbeon,marlibona,mrylbwn,myrylybwn,Мерілебон,Мэрилебон,Мэрылебан,מרילבון,میریلیبون,मार्लीबोन,马里波恩,매릴번</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>P5</adminCode3>
+<adminName3>City of Westminster</adminName3>
+<alternateName lang="be">Мэрылебан</alternateName>
+<alternateName lang="en">Marylebone</alternateName>
+<alternateName lang="he">מרילבון</alternateName>
+<alternateName lang="hi">मार्लीबोन</alternateName>
+<alternateName lang="ko">매릴번</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marylebone</alternateName>
+<alternateName lang="ru">Мэрилебон</alternateName>
+<alternateName lang="uk">Мерілебон</alternateName>
+<alternateName lang="unlc">MBO</alternateName>
+<alternateName lang="ur">میریلیبون</alternateName>
+<alternateName lang="zh">马里波恩</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.17384</west>
+<north>51.529</north>
+<east>-0.16227</east>
+<south>51.52181</south>
+</bbox>
+<score>59.60911178588867</score>
+</geoname>
+<geoname>
+<toponymName>Marylebone Railway Station</toponymName>
+<name>London Marylebone Railway Station</name>
+<lat>51.52264</lat>
+<lng>-0.16268</lng>
+<geonameId>2642928</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>London Marylebone Railway Station,MYB,Marylebone</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>P5</adminCode3>
+<adminName3>City of Westminster</adminName3>
+<alternateName lang="abbr">MYB</alternateName>
+<alternateName lang="en">London Marylebone Railway Station</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>33.269386291503906</score>
+</geoname>
+</geonames>

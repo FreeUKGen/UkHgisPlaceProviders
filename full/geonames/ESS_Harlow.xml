@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Harlow</toponymName>
+<name>Harlow</name>
+<lat>51.77655</lat>
+<lng>0.11158</lng>
+<geonameId>2647461</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>94365</population>
+<alternateNames>Harlow,Kharlou,hallo,harlw,harou,Харлоу,هارلو,ハーロウ,할로</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UJ</adminCode3>
+<adminName3>Harlow District</adminName3>
+<alternateName lang="bg">Харлоу</alternateName>
+<alternateName lang="de">Harlow</alternateName>
+<alternateName lang="en">Harlow</alternateName>
+<alternateName lang="fa">هارلو</alternateName>
+<alternateName lang="fr">Harlow</alternateName>
+<alternateName lang="ja">ハーロウ</alternateName>
+<alternateName lang="ko">할로</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harlow</alternateName>
+<alternateName lang="nl">Harlow</alternateName>
+<alternateName lang="no">Harlow</alternateName>
+<alternateName lang="ru">Харлоу</alternateName>
+<alternateName lang="unlc">HRL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.04734</west>
+<north>51.81626</north>
+<east>0.17582</east>
+<south>51.73684</south>
+</bbox>
+<score>136.20970153808594</score>
+</geoname>
+</geonames>

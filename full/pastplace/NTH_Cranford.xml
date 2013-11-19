@@ -1,0 +1,46 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>7683</id>
+<name>CRANFORD</name>
+<container>NORTHAMPTONSHIRE</container>
+<lat>52.3758003348154</lat>
+<lon>-0.637119805612936</lon>
+<gazetteerText>CRANFORD-ST. ANDREW and CRANFORD-ST. JOHN, two parishes in Kettering district, Northampton; on the Kettering and Huntingdon railway, 4 miles-ESE of Kettering. They have a post office, of the name of Cranford, under Kettering, and a r. station. Acres, 2, 420. Real property, &#163;3 472. Pop., 553. Houses, 113. The property is not much divided. Cranford Hall is the seat of Sir G. Robinson, Bart. The livings are rectories, united to each other, in the diocese of Peterborough. Value, &#163;348.* Patron, Sir G. Robinson, Bart. The churches are good. Charities, &#163;6. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2652084</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=66285</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=66286</link>
+</links>
+<unit>
+   <id>10268000</id>
+   <status>CP</status>
+   <name>CRANFORD</name>
+</unit>
+<unit>
+   <id>10268011</id>
+   <status>EP</status>
+   <name>CRANFORD</name>
+</unit>
+<unit>
+   <id>10268023</id>
+   <status>CP/AP</status>
+   <name>CRANFORD ST ANDREW</name>
+</unit>
+<unit>
+   <id>10268035</id>
+   <status>EP</status>
+   <name>CRANFORD ST ANDREW</name>
+</unit>
+<unit>
+   <id>10268047</id>
+   <status>CP/AP</status>
+   <name>CRANFORD ST JOHN</name>
+</unit>
+<unit>
+   <id>10268072</id>
+   <status>EP</status>
+   <name>CRANFORD ST JOHN</name>
+</unit>
+</place>
+</results>

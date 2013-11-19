@@ -1,0 +1,38 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>8203</id>
+<name>TANSOR</name>
+<container>NORTHAMPTONSHIRE</container>
+<lat>52.4991749758162</lat>
+<lon>-0.429291772344113</lon>
+<gazetteerText>TANSOR, a parish in Oundle district, Northampton; on the river Nen and the Northampton and Peterborough railway, 2 miles NNE of Oundle. Post town, Oundle. Acres, 2,050. Real property, &#163;2,457. Pop., 248. Houses, 58. The manor belongs to the Earl of Westmoreland. The living is a rectory in the diocese of Peterborough. Value, &#163;283.* Patrons, the Dean and Chapter of Lincoln. The church is partly Norman, partly early English. Charities, &#163;39. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Tansor</link>
+<link>http://www.geonames.org/2636255</link>
+</links>
+<unit>
+   <id>10281714</id>
+   <status>CP/AP</status>
+   <name>TANSOR</name>
+</unit>
+<unit>
+   <id>10281726</id>
+   <status>EP</status>
+   <name>TANSOR</name>
+</unit>
+<unit>
+   <id>10281740</id>
+   <status>EP</status>
+   <name>TANSOR WITH COTTESTOCK</name>
+</unit>
+<nearByPlace>
+   <id>7540</id>
+   <name>ASHTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7935</id>
+   <name>FOTHERINGHAY</name>
+</nearByPlace>
+</place>
+</results>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Salhouse</toponymName>
+<name>Salhouse</name>
+<lat>52.67087</lat>
+<lng>1.39638</lng>
+<geonameId>2638667</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Salhouse</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.38155</west>
+<north>52.67986</north>
+<east>1.41121</east>
+<south>52.66187</south>
+</bbox>
+<score>88.11250305175781</score>
+</geoname>
+<geoname>
+<toponymName>Salhouse</toponymName>
+<name>Salhouse</name>
+<lat>52.67936</lat>
+<lng>1.39497</lng>
+<geonameId>7299390</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<adminCode4>33UC050</adminCode4>
+<adminName4>Salhouse</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.35405</west>
+<north>52.69598</north>
+<east>1.43588</east>
+<south>52.66274</south>
+</bbox>
+<score>78.36654663085938</score>
+</geoname>
+<geoname>
+<toponymName>Salthouse</toponymName>
+<name>Salthouse</name>
+<lat>52.95195</lat>
+<lng>1.08653</lng>
+<geonameId>2638638</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Salhouse</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Salthouse</alternateName>
+<alternateName lang="unlc">STH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.0716</west>
+<north>52.96094</north>
+<east>1.10146</east>
+<south>52.94295</south>
+</bbox>
+<score>66.5575180053711</score>
+</geoname>
+</geonames>

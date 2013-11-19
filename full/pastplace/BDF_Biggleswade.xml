@@ -1,0 +1,149 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>845</id>
+<name>BIGGLESWADE</name>
+<container>BEDFORDSHIRE</container>
+<lat>52.0813821004365</lat>
+<lon>-0.244550702229136</lon>
+<gazetteerText>Biggleswade, par. and market town with ry. sta., E. Bedfordshire, on navigable river Ivel, 9&#189; miles SE. of Belford and 41 miles NW. of London by rail -- par., 4310 ac., pop. 4947; P.O., T.O., 2 Banks. Market-days, Wednesday and Saturday. B. has trade in grain, timber, and coal (by means of the river); mfrs. of thread, lace, straw-plait; and its corn market is one of the largest in England. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2655689</link>
+<link>http://www.genuki.org.uk/big/eng/BDF/Biggleswade/index.html</link>
+<link>http://en.wikipedia.org/wiki/Biggleswade</link>
+<link>http://www.workhouses.org.uk/Biggleswade</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=62629</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=62632</link>
+</links>
+<unit>
+   <id>10024110</id>
+   <status>Hundred</status>
+   <name>BIGGLESWADE</name>
+</unit>
+<unit>
+   <id>10060916</id>
+   <status>AP/CP</status>
+   <name>BIGGLESWADE</name>
+</unit>
+<unit>
+   <id>10074976</id>
+   <status>RSD</status>
+   <name>BIGGLESWADE</name>
+</unit>
+<unit>
+   <id>10093260</id>
+   <status>RD</status>
+   <name>BIGGLESWADE</name>
+</unit>
+<unit>
+   <id>10106357</id>
+   <status>EP</status>
+   <name>BIGGLESWADE</name>
+</unit>
+<unit>
+   <id>10134997</id>
+   <status>Borough</status>
+   <name>BIGGLESWADE</name>
+</unit>
+<unit>
+   <id>10137962</id>
+   <status>USD</status>
+   <name>BIGGLESWADE</name>
+</unit>
+<unit>
+   <id>10153372</id>
+   <status>UD</status>
+   <name>BIGGLESWADE</name>
+</unit>
+<unit>
+   <id>10197053</id>
+   <status>RegD/PLU</status>
+   <name>BIGGLESWADE</name>
+</unit>
+<unit>
+   <id>10547428</id>
+   <status></status>
+   <name>BIGGLESWADE</name>
+</unit>
+<unit>
+   <id>10569692</id>
+   <status></status>
+   <name>BIGGLESWADE</name>
+</unit>
+<unit>
+   <id>12753263</id>
+   <status>PDivCon</status>
+   <name>BEDFORDSHIRE NORTHERN OR BIGGLESWADE</name>
+</unit>
+<unit>
+   <id>12835693</id>
+   <status></status>
+   <name>BIGGLESWADE</name>
+</unit>
+<nearByPlace>
+   <id>2499</id>
+   <name>DUNTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3176</id>
+   <name>EDWORTH</name>
+</nearByPlace>
+</place>
+<place>
+<id>3355</id>
+<name>STOTFOLD</name>
+<container>BEDFORDSHIRE</container>
+<lat>52.0107861176181</lat>
+<lon>-0.230385985442761</lon>
+<gazetteerText>STOTFOLD, a parish, with a large village, in Biggleswade district, Beds; 2&#188; miles NW by W of Baldock r. station. It has a post-office under Baldock. Acres, 2,323. Real property, &#163;6,100. Pop. in 1851, 1,395; in 1861, 2,071,-of whom 484 were in the Beds, Herts, and Hunts lunatic asylum. Houses, 324. The property is subdivided. The lunatic asylum is a recent, extensive and ornate edifice; and stands conspicuously on high ground. The living is a vicarage in the diocese of Ely. Value, &#163;242.* Patron, Trinity College, Cambridge. The church is good. There are chapels for Baptists and Wesleyans, an endowed boys&apos; school, a national school, seven alms houses, and some other charities. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Stotfold</link>
+<link>http://www.genuki.org.uk/big/eng/BDF/Stotfold/index.html</link>
+<link>http://www.geonames.org/2636782</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=62652</link>
+</links>
+<unit>
+   <id>10006284</id>
+   <status>EP</status>
+   <name>STOTFOLD</name>
+</unit>
+<unit>
+   <id>10099614</id>
+   <status>CP/AP</status>
+   <name>STOTFOLD</name>
+</unit>
+<unit>
+   <id>10547416</id>
+   <status></status>
+   <name>STOTFOLD</name>
+</unit>
+<nearByPlace>
+   <id>1385</id>
+   <name>ARLESEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1998</id>
+   <name>NEWNHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3145</id>
+   <name>HINXWORTH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3312</id>
+   <name>ASHWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4358</id>
+   <name>CALDECOTE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4930</id>
+   <name>RADWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6207</id>
+   <name>ASTWICK</name>
+</nearByPlace>
+</place>
+</results>

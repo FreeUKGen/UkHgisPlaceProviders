@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Pentlow</toponymName>
+<name>Pentlow</name>
+<lat>52.07168</lat>
+<lng>0.63684</lng>
+<geonameId>7298511</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UC</adminCode3>
+<adminName3>Braintree District</adminName3>
+<adminCode4>22UC044</adminCode4>
+<adminName4>Pentlow</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pentlow</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.60853</west>
+<north>52.08663</north>
+<east>0.66515</east>
+<south>52.05673</south>
+</bbox>
+<score>60.42640686035156</score>
+</geoname>
+</geonames>

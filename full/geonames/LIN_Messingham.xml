@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Messingham</toponymName>
+<name>Messingham</name>
+<lat>53.5302</lat>
+<lng>-0.67347</lng>
+<geonameId>7296123</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD037</adminCode3>
+<adminName3>Messingham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.73959</west>
+<north>53.54792</north>
+<east>-0.60735</east>
+<south>53.51248</south>
+</bbox>
+<score>115.13020324707031</score>
+</geoname>
+<geoname>
+<toponymName>Messingham</toponymName>
+<name>Messingham</name>
+<lat>53.52828</lat>
+<lng>-0.65385</lng>
+<geonameId>2642697</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3565</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD037</adminCode3>
+<adminName3>Messingham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Messingham</alternateName>
+<alternateName lang="unlc">MSG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.66455</west>
+<north>53.53464</north>
+<east>-0.64315</east>
+<south>53.52192</south>
+</bbox>
+<score>102.23039245605469</score>
+</geoname>
+</geonames>

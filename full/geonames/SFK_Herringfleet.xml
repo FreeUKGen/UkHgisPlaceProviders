@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Herringfleet</toponymName>
+<name>Herringfleet</name>
+<lat>52.51972</lat>
+<lng>1.65414</lng>
+<geonameId>2647052</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Herringfleet</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UH</adminCode3>
+<adminName3>Waveney District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Herringfleet</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.63936</west>
+<north>52.52872</north>
+<east>1.66892</east>
+<south>52.51073</south>
+</bbox>
+<score>110.47532653808594</score>
+</geoname>
+</geonames>

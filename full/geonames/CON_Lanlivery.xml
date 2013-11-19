@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Lanlivery</toponymName>
+<name>Lanlivery</name>
+<lat>50.40054</lat>
+<lng>-4.70225</lng>
+<geonameId>7294627</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE062</adminCode3>
+<adminName3>Lanlivery</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.74252</west>
+<north>50.42933</north>
+<east>-4.66198</east>
+<south>50.37175</south>
+</bbox>
+<score>115.13020324707031</score>
+</geoname>
+<geoname>
+<toponymName>Lanlivery</toponymName>
+<name>Lanlivery</name>
+<lat>50.39899</lat>
+<lng>-4.70308</lng>
+<geonameId>2644888</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Lanlivery,Lanlivery Rural</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE062</adminCode3>
+<adminName3>Lanlivery</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lanlivery</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.71719</west>
+<north>50.40798</north>
+<east>-4.68897</east>
+<south>50.38999</south>
+</bbox>
+<score>98.7916259765625</score>
+</geoname>
+</geonames>

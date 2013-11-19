@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Madron</toponymName>
+<name>Madron</name>
+<lat>50.13749</lat>
+<lng>-5.57556</lng>
+<geonameId>7300020</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE080</adminCode3>
+<adminName3>Madron</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Madron</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.63926</west>
+<north>50.17172</north>
+<east>-5.51186</east>
+<south>50.10326</south>
+</bbox>
+<score>67.71542358398438</score>
+</geoname>
+<geoname>
+<toponymName>Madron</toponymName>
+<name>Madron</name>
+<lat>50.13266</lat>
+<lng>-5.56484</lng>
+<geonameId>2643228</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE080</adminCode3>
+<adminName3>Madron</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.57887</west>
+<north>50.14165</north>
+<east>-5.55081</east>
+<south>50.12367</south>
+</bbox>
+<score>56.198524475097656</score>
+</geoname>
+</geonames>

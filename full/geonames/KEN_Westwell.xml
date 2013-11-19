@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Westwell</toponymName>
+<name>Westwell</name>
+<lat>51.7881</lat>
+<lng>-1.677</lng>
+<geonameId>2634237</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UF</adminCode3>
+<adminName3>West Oxfordshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Westwell%2C_Oxfordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.69155</west>
+<north>51.79709</north>
+<east>-1.66246</east>
+<south>51.77911</south>
+</bbox>
+<score>82.9234390258789</score>
+</geoname>
+<geoname>
+<toponymName>Westwell</toponymName>
+<name>Westwell</name>
+<lat>51.78942</lat>
+<lng>-1.68932</lng>
+<geonameId>7298401</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UF</adminCode3>
+<adminName3>West Oxfordshire District</adminName3>
+<adminCode4>38UF079</adminCode4>
+<adminName4>Westwell</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.7195</west>
+<north>51.80133</north>
+<east>-1.65914</east>
+<south>51.77751</south>
+</bbox>
+<score>79.7560806274414</score>
+</geoname>
+<geoname>
+<toponymName>Westwell</toponymName>
+<name>Westwell</name>
+<lat>51.19046</lat>
+<lng>0.83858</lng>
+<geonameId>7295855</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<adminCode4>29UB039</adminCode4>
+<adminName4>Westwell</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Westwell%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.80953</west>
+<north>51.21375</north>
+<east>0.86764</east>
+<south>51.16718</south>
+</bbox>
+<score>54.05860137939453</score>
+</geoname>
+</geonames>
