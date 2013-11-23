@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>St. Mewan</toponymName>
+<name>St. Mewan</name>
+<lat>50.34231</lat>
+<lng>-4.83406</lng>
+<geonameId>7300048</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE172</adminCode3>
+<adminName3>St. Mewan</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.86268</west>
+<north>50.3729</north>
+<east>-4.80544</east>
+<south>50.31171</south>
+</bbox>
+<score>94.33431243896484</score>
+</geoname>
+<geoname>
+<toponymName>St Mewan</toponymName>
+<name>St Mewan</name>
+<lat>50.3318</lat>
+<lng>-4.81808</lng>
+<geonameId>6691952</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE172</adminCode3>
+<adminName3>St. Mewan</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St_Mewan</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.83217</west>
+<north>50.34079</north>
+<east>-4.80399</east>
+<south>50.3228</south>
+</bbox>
+<score>84.08855438232422</score>
+</geoname>
+</geonames>

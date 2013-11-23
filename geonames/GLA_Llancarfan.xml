@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llancarfan</toponymName>
+<name>Llancarfan</name>
+<lat>51.42934</lat>
+<lng>-3.3693</lng>
+<geonameId>7297811</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<adminCode3>00PD006</adminCode3>
+<adminName3>Llancarfan</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.41517</west>
+<north>51.4599</north>
+<east>-3.32343</east>
+<south>51.39878</south>
+</bbox>
+<score>108.65621948242188</score>
+</geoname>
+<geoname>
+<toponymName>Llancarfan</toponymName>
+<name>Llancarfan</name>
+<lat>51.42239</lat>
+<lng>-3.36584</lng>
+<geonameId>2644163</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llancarfan,Llancarvan</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<adminCode3>00PD006</adminCode3>
+<adminName3>Llancarfan</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llancarfan</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.38027</west>
+<north>51.43139</north>
+<east>-3.35142</east>
+<south>51.4134</south>
+</bbox>
+<score>102.44763946533203</score>
+</geoname>
+</geonames>

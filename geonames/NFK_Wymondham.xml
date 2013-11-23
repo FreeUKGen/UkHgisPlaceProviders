@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Wymondham</toponymName>
+<name>Wymondham</name>
+<lat>52.75978</lat>
+<lng>-0.74055</lng>
+<geonameId>2633445</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11674</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UG</adminCode3>
+<adminName3>Melton District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wymondham%2C_Leicestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.76285</west>
+<north>52.77327</north>
+<east>-0.71825</east>
+<south>52.74628</south>
+</bbox>
+<score>107.3668212890625</score>
+</geoname>
+<geoname>
+<toponymName>Wymondham</toponymName>
+<name>Wymondham</name>
+<lat>52.57012</lat>
+<lng>1.11623</lng>
+<geonameId>2633446</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wymondham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.10143</west>
+<north>52.57911</north>
+<east>1.13103</east>
+<south>52.56112</south>
+</bbox>
+<score>88.47637939453125</score>
+</geoname>
+<geoname>
+<toponymName>Wymondham</toponymName>
+<name>Wymondham</name>
+<lat>52.75398</lat>
+<lng>-0.72517</lng>
+<geonameId>7293880</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UG</adminCode3>
+<adminName3>Melton District</adminName3>
+<adminCode4>31UG025</adminCode4>
+<adminName4>Wymondham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.78624</west>
+<north>52.77142</north>
+<east>-0.66411</east>
+<south>52.73655</south>
+</bbox>
+<score>78.39514923095703</score>
+</geoname>
+<geoname>
+<toponymName>Wymondham</toponymName>
+<name>Wymondham</name>
+<lat>52.56116</lat>
+<lng>1.11296</lng>
+<geonameId>7295714</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH117</adminCode4>
+<adminName4>Wymondham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.06134</west>
+<north>52.6107</north>
+<east>1.16459</east>
+<south>52.51162</south>
+</bbox>
+<score>78.39514923095703</score>
+</geoname>
+<geoname>
+<toponymName>Wymondham</toponymName>
+<name>Wymondham</name>
+<lat>52.58346</lat>
+<lng>1.09139</lng>
+<geonameId>7116298</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>SWT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>sewage treatment plant</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>19.598787307739258</score>
+</geoname>
+</geonames>

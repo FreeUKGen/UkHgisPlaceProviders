@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Stock</toponymName>
+<name>Stock</name>
+<lat>51.66351</lat>
+<lng>0.44263</lng>
+<geonameId>2636896</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1579</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UF</adminCode3>
+<adminName3>Chelmsford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stock%2C_Essex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.43538</west>
+<north>51.668</north>
+<east>0.44988</east>
+<south>51.65901</south>
+</bbox>
+<score>88.69235229492188</score>
+</geoname>
+<geoname>
+<toponymName>Stock</toponymName>
+<name>Stock</name>
+<lat>51.6678</lat>
+<lng>0.4447</lng>
+<geonameId>7293510</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UF</adminCode3>
+<adminName3>Chelmsford District</adminName3>
+<adminCode4>22UF024</adminCode4>
+<adminName4>Stock</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.39696</west>
+<north>51.69323</north>
+<east>0.49245</east>
+<south>51.64236</south>
+</bbox>
+<score>65.40091705322266</score>
+</geoname>
+</geonames>

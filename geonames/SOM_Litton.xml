@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Litton</toponymName>
+<name>Litton</name>
+<lat>54.15</lat>
+<lng>-2.13333</lng>
+<geonameId>2644211</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Litton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UB</adminCode3>
+<adminName3>Craven District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Litton%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.14869</west>
+<north>54.15899</north>
+<east>-2.11797</east>
+<south>54.14101</south>
+</bbox>
+<score>87.99664306640625</score>
+</geoname>
+<geoname>
+<toponymName>Litton</toponymName>
+<name>Litton</name>
+<lat>51.2875</lat>
+<lng>-2.58167</lng>
+<geonameId>2644212</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Litton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Litton%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.59605</west>
+<north>51.29649</north>
+<east>-2.56728</east>
+<south>51.27851</south>
+</bbox>
+<score>87.99664306640625</score>
+</geoname>
+<geoname>
+<toponymName>Litton</toponymName>
+<name>Litton</name>
+<lat>54.16605</lat>
+<lng>-2.14905</lng>
+<geonameId>7291822</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UB</adminCode3>
+<adminName3>Craven District</adminName3>
+<adminCode4>36UB052</adminCode4>
+<adminName4>Litton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.19296</west>
+<north>54.18639</north>
+<east>-2.10514</east>
+<south>54.14571</south>
+</bbox>
+<score>69.08039093017578</score>
+</geoname>
+<geoname>
+<toponymName>Litton</toponymName>
+<name>Litton</name>
+<lat>51.28654</lat>
+<lng>-2.59003</lng>
+<geonameId>7294105</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<adminCode4>40UB029</adminCode4>
+<adminName4>Litton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.61897</west>
+<north>51.29886</north>
+<east>-2.56108</east>
+<south>51.27421</south>
+</bbox>
+<score>69.08039093017578</score>
+</geoname>
+<geoname>
+<toponymName>Litton</toponymName>
+<name>Litton</name>
+<lat>53.2725</lat>
+<lng>-1.75127</lng>
+<geonameId>7294838</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UF</adminCode3>
+<adminName3>Derbyshire Dales District</adminName3>
+<adminCode4>17UF068</adminCode4>
+<adminName4>Litton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Litton%2C_Derbyshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.77147</west>
+<north>53.29461</north>
+<east>-1.73106</east>
+<south>53.25039</south>
+</bbox>
+<score>48.16259002685547</score>
+</geoname>
+</geonames>

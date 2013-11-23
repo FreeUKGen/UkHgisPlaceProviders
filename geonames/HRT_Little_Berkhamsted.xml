@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Little Berkhamsted</toponymName>
+<name>Little Berkhamsted</name>
+<lat>51.75845</lat>
+<lng>-0.12504</lng>
+<geonameId>7290810</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UD</adminCode3>
+<adminName3>East Hertfordshire District</adminName3>
+<adminCode4>26UD029</adminCode4>
+<adminName4>Little Berkhamsted</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Little_Berkhamsted</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.14377</west>
+<north>51.77965</north>
+<east>-0.10631</east>
+<south>51.73726</south>
+</bbox>
+<score>51.292388916015625</score>
+</geoname>
+</geonames>

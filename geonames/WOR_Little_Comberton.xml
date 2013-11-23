@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Little Comberton</toponymName>
+<name>Little Comberton</name>
+<lat>52.08588</lat>
+<lng>-2.04972</lng>
+<geonameId>2644347</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Little_Comberton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.06436</west>
+<north>52.09488</north>
+<east>-2.03508</east>
+<south>52.07689</south>
+</bbox>
+<score>82.714599609375</score>
+</geoname>
+<geoname>
+<toponymName>Little Comberton</toponymName>
+<name>Little Comberton</name>
+<lat>52.08381</lat>
+<lng>-2.04881</lng>
+<geonameId>7291735</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<adminCode4>47UF057</adminCode4>
+<adminName4>Little Comberton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.06267</west>
+<north>52.09761</north>
+<east>-2.03495</east>
+<south>52.07001</south>
+</bbox>
+<score>72.05722045898438</score>
+</geoname>
+</geonames>

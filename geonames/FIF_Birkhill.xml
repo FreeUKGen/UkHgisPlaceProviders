@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Birkhill</toponymName>
+<name>Birkhill</name>
+<lat>55.43333</lat>
+<lng>-3.26667</lng>
+<geonameId>2655610</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>T</fcl>
+<fcode>RKS</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>rocks</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U2</adminCode2>
+<adminName2>Dumfries and Galloway</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>58.080345153808594</score>
+</geoname>
+<geoname>
+<toponymName>Birkhill</toponymName>
+<name>Birkhill</name>
+<lat>57.2151</lat>
+<lng>-2.14255</lng>
+<geonameId>6269352</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T6</adminCode2>
+<adminName2>Aberdeenshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>18.243080139160156</score>
+</geoname>
+<geoname>
+<toponymName>Birkhill</toponymName>
+<name>Birkhill</name>
+<lat>55.9933</lat>
+<lng>-3.6607</lng>
+<geonameId>7671109</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>MTRO</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>metro station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U9</adminCode2>
+<adminName2>Falkirk</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>18.243080139160156</score>
+</geoname>
+</geonames>

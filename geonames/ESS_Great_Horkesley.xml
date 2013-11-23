@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Great Horkesley</toponymName>
+<name>Great Horkesley</name>
+<lat>51.93821</lat>
+<lng>0.87551</lng>
+<geonameId>2648079</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1853</population>
+<alternateNames>Great Horkesley,Horkesley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UG</adminCode3>
+<adminName3>Colchester District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Great_Horkesley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.86822</west>
+<north>51.94271</north>
+<east>0.88281</east>
+<south>51.93371</south>
+</bbox>
+<score>107.55664825439453</score>
+</geoname>
+<geoname>
+<toponymName>Great Horkesley</toponymName>
+<name>Great Horkesley</name>
+<lat>51.94323</lat>
+<lng>0.87198</lng>
+<geonameId>7295118</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UG</adminCode3>
+<adminName3>Colchester District</adminName3>
+<adminCode4>22UG014</adminCode4>
+<adminName4>Great Horkesley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.85034</west>
+<north>51.96923</north>
+<east>0.89363</east>
+<south>51.91723</south>
+</bbox>
+<score>74.31787109375</score>
+</geoname>
+</geonames>

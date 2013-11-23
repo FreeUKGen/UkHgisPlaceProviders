@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Worcester</toponymName>
+<name>Worcester</name>
+<lat>52.18935</lat>
+<lng>-2.22001</lng>
+<geonameId>2633563</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>100023</population>
+<alternateNames>Caerwrangon,City of Worcester,Gorad Vustehr,Vigornia,Vuster,Vusteris,Wiogoraceastre,Worcester,useuteo,usuta,vuster,wrkstr,wu si te,wus texr,wwstr,Вустер,Горад Вустэр,Վուսթեր,ورکستر,وورسسٹر,ووستر,วูสเตอร์,ウスター,伍斯特,우스터</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UE</adminCode3>
+<adminName3>Worcester District</adminName3>
+<alternateName lang="ang">Wiogoraceastre</alternateName>
+<alternateName lang="ar">ووستر</alternateName>
+<alternateName lang="be">Горад Вустэр</alternateName>
+<alternateName lang="cy">Caerwrangon</alternateName>
+<alternateName lang="de">Worcester</alternateName>
+<alternateName lang="en">Worcester</alternateName>
+<alternateName lang="eo">Worcester</alternateName>
+<alternateName lang="es">Worcester</alternateName>
+<alternateName lang="fa">ووستر</alternateName>
+<alternateName lang="fi">Worcester</alternateName>
+<alternateName lang="fr">Worcester</alternateName>
+<alternateName lang="hy">Վուսթեր</alternateName>
+<alternateName lang="it">Worcester</alternateName>
+<alternateName lang="ja">ウスター</alternateName>
+<alternateName lang="ko">우스터</alternateName>
+<alternateName lang="la">Vigornia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Worcester</alternateName>
+<alternateName lang="lt">Vusteris</alternateName>
+<alternateName lang="mzn">ورکستر</alternateName>
+<alternateName lang="nl">Worcester</alternateName>
+<alternateName lang="no">Worcester</alternateName>
+<alternateName lang="pl">Worcester</alternateName>
+<alternateName lang="pnb">وورسسٹر</alternateName>
+<alternateName lang="ru">Вустер</alternateName>
+<alternateName lang="sq">Worcester</alternateName>
+<alternateName lang="sr">Вустер</alternateName>
+<alternateName lang="sv">Worcester</alternateName>
+<alternateName lang="th">วูสเตอร์</alternateName>
+<alternateName lang="tr">Worcester</alternateName>
+<alternateName lang="uk">Вустер</alternateName>
+<alternateName lang="unlc">WTR</alternateName>
+<alternateName lang="zh">伍斯特</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.2869</west>
+<north>52.23032</north>
+<east>-2.15312</east>
+<south>52.14838</south>
+</bbox>
+<score>144.98226928710938</score>
+</geoname>
+<geoname>
+<toponymName>Worcestershire</toponymName>
+<name>Worcestershire</name>
+<lat>52.16667</lat>
+<lng>-2.16667</lng>
+<geonameId>2633560</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>552900</population>
+<alternateNames>County of Worcestershire,WOR,Worcester,Worcestershire</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<alternateName lang="abbr">WOR</alternateName>
+<alternateName lang="en">Worcestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.66321</west>
+<north>52.4553</north>
+<east>-1.75741</east>
+<south>51.96655</south>
+</bbox>
+<score>57.2109375</score>
+</geoname>
+</geonames>

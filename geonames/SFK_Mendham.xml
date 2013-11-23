@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Mendham</toponymName>
+<name>Mendham</name>
+<lat>52.39755</lat>
+<lng>1.33759</lng>
+<geonameId>2642752</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mendham%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.32284</west>
+<north>52.40654</north>
+<east>1.35233</east>
+<south>52.38855</south>
+</bbox>
+<score>78.15394592285156</score>
+</geoname>
+<geoname>
+<toponymName>Mendham</toponymName>
+<name>Mendham</name>
+<lat>52.3836</lat>
+<lng>1.34563</lng>
+<geonameId>7296344</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<adminCode4>42UE064</adminCode4>
+<adminName4>Mendham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.31545</west>
+<north>52.4044</north>
+<east>1.37582</east>
+<south>52.3628</south>
+</bbox>
+<score>73.85591125488281</score>
+</geoname>
+</geonames>

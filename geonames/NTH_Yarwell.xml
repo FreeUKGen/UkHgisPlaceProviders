@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Yarwell</toponymName>
+<name>Yarwell</name>
+<lat>52.57118</lat>
+<lng>-0.43256</lng>
+<geonameId>7295733</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<adminCode4>34UD055</adminCode4>
+<adminName4>Yarwell</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Yarwell</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.45785</west>
+<north>52.58239</north>
+<east>-0.40727</east>
+<south>52.55997</south>
+</bbox>
+<score>60.317298889160156</score>
+</geoname>
+</geonames>

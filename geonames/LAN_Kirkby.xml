@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Kirkby</toponymName>
+<name>Kirkby</name>
+<lat>53.48333</lat>
+<lng>-2.9</lng>
+<geonameId>2645313</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>39208</population>
+<alternateNames>Kirkby,Kjorkbi,Кёркби</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G9</adminCode2>
+<adminName2>Knowsley</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirkby</alternateName>
+<alternateName lang="ru">Кёркби</alternateName>
+<alternateName lang="unlc">KKB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.94277</west>
+<north>53.50877</north>
+<east>-2.85723</east>
+<south>53.4579</south>
+</bbox>
+<score>110.12725830078125</score>
+</geoname>
+<geoname>
+<toponymName>Kirkby in Ashfield</toponymName>
+<name>Kirkby in Ashfield</name>
+<lat>53.09982</lat>
+<lng>-1.24379</lng>
+<geonameId>2645309</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>27539</population>
+<alternateNames>Kirkby,Kirkby in Ashfield</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UB</adminCode3>
+<adminName3>Ashfield District</adminName3>
+<alternateName lang="unlc">KBA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.27893</west>
+<north>53.12091</north>
+<east>-1.20864</east>
+<south>53.07873</south>
+</bbox>
+<score>76.4114990234375</score>
+</geoname>
+<geoname>
+<toponymName>Kirkby on Bain</toponymName>
+<name>Kirkby on Bain</name>
+<lat>53.14492</lat>
+<lng>-0.1454</lng>
+<geonameId>2645303</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kirkby,Kirkby on Bain</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirkby_on_Bain</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.16039</west>
+<north>53.15391</north>
+<east>-0.1304</east>
+<south>53.13592</south>
+</bbox>
+<score>57.43747329711914</score>
+</geoname>
+<geoname>
+<toponymName>Kirkby</toponymName>
+<name>Kirkby</name>
+<lat>54.44142</lat>
+<lng>-1.18226</lng>
+<geonameId>7296810</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<adminCode4>36UC085</adminCode4>
+<adminName4>Kirkby</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirkby%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.20646</west>
+<north>54.46359</north>
+<east>-1.15806</east>
+<south>54.41925</south>
+</bbox>
+<score>51.86277770996094</score>
+</geoname>
+</geonames>

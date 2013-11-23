@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Stalybridge</toponymName>
+<name>Stalybridge</name>
+<lat>53.48414</lat>
+<lng>-2.05908</lng>
+<geonameId>2637106</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>22748</population>
+<alternateNames>Stalibridzh,Stalybridge,Сталибридж</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O1</adminCode2>
+<adminName2>Tameside</adminName2>
+<adminCode3>00BT001</adminCode3>
+<adminName3>Mossley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stalybridge</alternateName>
+<alternateName lang="ru">Сталибридж</alternateName>
+<alternateName lang="unlc">STY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.09116</west>
+<north>53.50322</north>
+<east>-2.027</east>
+<south>53.46506</south>
+</bbox>
+<score>101.87665557861328</score>
+</geoname>
+</geonames>

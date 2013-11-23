@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Rushall</toponymName>
+<name>Rushall</name>
+<lat>51.27566</lat>
+<lng>-1.85066</lng>
+<geonameId>7301091</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY190</adminCode3>
+<adminName3>Rushall</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rushall%2C_Wiltshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.89537</west>
+<north>51.31101</north>
+<east>-1.80595</east>
+<south>51.24031</south>
+</bbox>
+<score>68.0083236694336</score>
+</geoname>
+<geoname>
+<toponymName>Rushall</toponymName>
+<name>Rushall</name>
+<lat>52.6</lat>
+<lng>-1.95</lng>
+<geonameId>2638950</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O8</adminCode2>
+<adminName2>Walsall</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.96481</west>
+<north>52.60899</north>
+<east>-1.93519</east>
+<south>52.59101</south>
+</bbox>
+<score>61.186134338378906</score>
+</geoname>
+<geoname>
+<toponymName>Rushall</toponymName>
+<name>Rushall</name>
+<lat>51.28333</lat>
+<lng>-1.81667</lng>
+<geonameId>2638951</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY190</adminCode3>
+<adminName3>Rushall</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.84544</west>
+<north>51.30132</north>
+<east>-1.7879</east>
+<south>51.26535</south>
+</bbox>
+<score>38.43937683105469</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ibstone</toponymName>
+<name>Ibstone</name>
+<lat>51.6364</lat>
+<lng>-0.9129</lng>
+<geonameId>2646310</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ibstone</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UF</adminCode3>
+<adminName3>Wycombe</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ibstone</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.92739</west>
+<north>51.64539</north>
+<east>-0.8984</east>
+<south>51.62741</south>
+</bbox>
+<score>105.96182250976562</score>
+</geoname>
+<geoname>
+<toponymName>Ibstone</toponymName>
+<name>Ibstone</name>
+<lat>51.62741</lat>
+<lng>-0.90161</lng>
+<geonameId>7298738</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UF</adminCode3>
+<adminName3>Wycombe</adminName3>
+<adminCode4>11UF014</adminCode4>
+<adminName4>Ibstone</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.92024</west>
+<north>51.64299</north>
+<east>-0.88298</east>
+<south>51.61182</south>
+</bbox>
+<score>80.46937561035156</score>
+</geoname>
+</geonames>

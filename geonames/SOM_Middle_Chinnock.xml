@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Middle Chinnock</toponymName>
+<name>Middle Chinnock</name>
+<lat>50.91485</lat>
+<lng>-2.75187</lng>
+<geonameId>2642621</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.76614</west>
+<north>50.92384</north>
+<east>-2.73761</east>
+<south>50.90586</south>
+</bbox>
+<score>55.96499252319336</score>
+</geoname>
+</geonames>

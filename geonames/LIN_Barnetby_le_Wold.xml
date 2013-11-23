@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Barnetby le Wold</toponymName>
+<name>Barnetby le Wold</name>
+<lat>53.5748</lat>
+<lng>-0.40607</lng>
+<geonameId>2656294</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1628</population>
+<alternateNames>Barnetby,Barnetby le Wold</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD004</adminCode3>
+<adminName3>Barnetby Le Wold</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barnetby</alternateName>
+<alternateName lang="unlc">BTB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.41364</west>
+<north>53.5793</north>
+<east>-0.39849</east>
+<south>53.5703</south>
+</bbox>
+<score>99.84005737304688</score>
+</geoname>
+<geoname>
+<toponymName>Barnetby Le Wold</toponymName>
+<name>Barnetby Le Wold</name>
+<lat>53.56925</lat>
+<lng>-0.38731</lng>
+<geonameId>7298808</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD004</adminCode3>
+<adminName3>Barnetby Le Wold</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.42877</west>
+<north>53.58268</north>
+<east>-0.34585</east>
+<south>53.55582</south>
+</bbox>
+<score>94.05685424804688</score>
+</geoname>
+</geonames>

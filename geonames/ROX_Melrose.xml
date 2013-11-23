@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Melrose</toponymName>
+<name>Melrose</name>
+<lat>55.59969</lat>
+<lng>-2.7277</lng>
+<geonameId>2642769</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1640</population>
+<alternateNames>Melrose</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T9</adminCode2>
+<adminName2>Scottish Borders</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Melrose%2C_Scottish_Borders</alternateName>
+<alternateName lang="unlc">MLR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.73566</west>
+<north>55.60418</north>
+<east>-2.71974</east>
+<south>55.59519</south>
+</bbox>
+<score>67.09333801269531</score>
+</geoname>
+</geonames>

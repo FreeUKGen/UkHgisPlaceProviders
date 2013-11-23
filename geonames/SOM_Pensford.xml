@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Pensford</toponymName>
+<name>Pensford</name>
+<lat>51.37111</lat>
+<lng>-2.54722</lng>
+<geonameId>2640410</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Pensford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pensford</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.56163</west>
+<north>51.3801</north>
+<east>-2.53281</east>
+<south>51.36212</south>
+</bbox>
+<score>111.59024810791016</score>
+</geoname>
+</geonames>

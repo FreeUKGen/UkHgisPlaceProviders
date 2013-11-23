@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Winston</toponymName>
+<name>Winston</name>
+<lat>54.54693</lat>
+<lng>-1.80533</lng>
+<geonameId>7294489</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ127</adminCode3>
+<adminName3>Winston</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.85676</west>
+<north>54.56582</north>
+<east>-1.7539</east>
+<south>54.52804</south>
+</bbox>
+<score>82.58969116210938</score>
+</geoname>
+<geoname>
+<toponymName>Winston</toponymName>
+<name>Winston</name>
+<lat>54.54519</lat>
+<lng>-1.78854</lng>
+<geonameId>2633803</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ127</adminCode3>
+<adminName3>Winston</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Winston%2C_County_Durham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.81956</west>
+<north>54.56317</north>
+<east>-1.75752</east>
+<south>54.5272</south>
+</bbox>
+<score>55.011802673339844</score>
+</geoname>
+<geoname>
+<toponymName>Winston</toponymName>
+<name>Winston</name>
+<lat>52.20856</lat>
+<lng>1.18715</lng>
+<geonameId>7292561</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<adminCode4>42UE117</adminCode4>
+<adminName4>Winston</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Winston%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.15304</west>
+<north>52.2199</north>
+<east>1.22126</east>
+<south>52.19722</south>
+</bbox>
+<score>42.726654052734375</score>
+</geoname>
+</geonames>

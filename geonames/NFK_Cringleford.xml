@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cringleford</toponymName>
+<name>Cringleford</name>
+<lat>52.60482</lat>
+<lng>1.24334</lng>
+<geonameId>2651971</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2105</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cringleford</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.23594</west>
+<north>52.60932</north>
+<east>1.25075</east>
+<south>52.60032</south>
+</bbox>
+<score>109.87246704101562</score>
+</geoname>
+<geoname>
+<toponymName>Cringleford</toponymName>
+<name>Cringleford</name>
+<lat>52.60798</lat>
+<lng>1.23313</lng>
+<geonameId>7299029</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH029</adminCode4>
+<adminName4>Cringleford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.21127</west>
+<north>52.61884</north>
+<east>1.25498</east>
+<south>52.59712</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

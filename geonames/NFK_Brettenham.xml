@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Brettenham</toponymName>
+<name>Brettenham</name>
+<lat>52.15</lat>
+<lng>0.88333</lng>
+<geonameId>2654770</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Brettenham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UB</adminCode3>
+<adminName3>Babergh District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brettenham%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.86867</west>
+<north>52.15899</north>
+<east>0.89799</east>
+<south>52.14101</south>
+</bbox>
+<score>100.36051940917969</score>
+</geoname>
+<geoname>
+<toponymName>Brettenham</toponymName>
+<name>Brettenham</name>
+<lat>52.41667</lat>
+<lng>0.83333</lng>
+<geonameId>2654769</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Brettenham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brettenham%2C_Norfolk</alternateName>
+<alternateName lang="unlc">BWX</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.81858</west>
+<north>52.42566</north>
+<east>0.84808</east>
+<south>52.40767</south>
+</bbox>
+<score>86.78277587890625</score>
+</geoname>
+<geoname>
+<toponymName>Brettenham</toponymName>
+<name>Brettenham</name>
+<lat>52.41547</lat>
+<lng>0.79992</lng>
+<geonameId>7296596</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<adminCode4>33UB013</adminCode4>
+<adminName4>Brettenham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.74053</west>
+<north>52.44804</north>
+<east>0.85931</east>
+<south>52.3829</south>
+</bbox>
+<score>80.46937561035156</score>
+</geoname>
+<geoname>
+<toponymName>Brettenham</toponymName>
+<name>Brettenham</name>
+<lat>52.14509</lat>
+<lng>0.86875</lng>
+<geonameId>7299568</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UB</adminCode3>
+<adminName3>Babergh District</adminName3>
+<adminCode4>42UB013</adminCode4>
+<adminName4>Brettenham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.84364</west>
+<north>52.16592</north>
+<east>0.89385</east>
+<south>52.12425</south>
+</bbox>
+<score>80.46937561035156</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Charlton Mackrell</toponymName>
+<name>Charlton Mackrell</name>
+<lat>51.05944</lat>
+<lng>-2.67361</lng>
+<geonameId>2653323</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Charlton Mackrell</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Charlton_Mackrell</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.68792</west>
+<north>51.06844</north>
+<east>-2.6593</east>
+<south>51.05045</south>
+</bbox>
+<score>97.59046173095703</score>
+</geoname>
+<geoname>
+<toponymName>Charlton Mackrell</toponymName>
+<name>Charlton Mackrell</name>
+<lat>51.04323</lat>
+<lng>-2.6685</lng>
+<geonameId>7292401</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD022</adminCode4>
+<adminName4>Charlton Mackrell</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.70776</west>
+<north>51.0721</north>
+<east>-2.62924</east>
+<south>51.01435</south>
+</bbox>
+<score>76.86471557617188</score>
+</geoname>
+</geonames>

@@ -1,0 +1,92 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>103</id>
+<name>BOURNE</name>
+<container>LINCOLNSHIRE</container>
+<lat>52.7726749989359</lat>
+<lon>-0.335432065894118</lon>
+<gazetteerText>Bourn, par., town, and ry. junc., S. Lincolnshire, 9&#189; miles W. of Spalding -- par., 9352 ac., pop. 3760; P.O., T.O., 2 Banks; birthplace of Lord Burleigh (1520-1598). (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LIN/Bourne/</link>
+<link>http://en.wikipedia.org/wiki/Bourne,_Lincolnshire</link>
+<link>http://www.workhouses.org.uk/Bourne</link>
+<link>http://www.geonames.org/2655099</link>
+</links>
+<unit>
+   <id>10002989</id>
+   <status>UD</status>
+   <name>BOURNE</name>
+</unit>
+<unit>
+   <id>10043839</id>
+   <status>RegD/PLU</status>
+   <name>BOURNE</name>
+</unit>
+<unit>
+   <id>10075269</id>
+   <status>RSD</status>
+   <name>BOURNE</name>
+</unit>
+<unit>
+   <id>10216606</id>
+   <status>RD</status>
+   <name>BOURNE</name>
+</unit>
+<unit>
+   <id>10403250</id>
+   <status>CP/AP</status>
+   <name>BOURNE</name>
+</unit>
+<unit>
+   <id>10403261</id>
+   <status>EP</status>
+   <name>BOURNE</name>
+</unit>
+<unit>
+   <id>10547702</id>
+   <status></status>
+   <name>BOURNE</name>
+</unit>
+<nearByPlace>
+   <id>1987</id>
+   <name>CLIPSHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11836</id>
+   <name>CASTLE BYTHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11838</id>
+   <name>LITTLE BYTHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12183</id>
+   <name>EDENHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12483</id>
+   <name>HACCONBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12676</id>
+   <name>IRNHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13013</id>
+   <name>MORTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13910</id>
+   <name>SWINSTEAD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13972</id>
+   <name>THURLBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>14091</id>
+   <name>WITHAM ON THE HILL</name>
+</nearByPlace>
+</place>
+</results>

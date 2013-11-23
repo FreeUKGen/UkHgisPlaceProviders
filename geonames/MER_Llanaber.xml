@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llanaber</toponymName>
+<name>Llanaber</name>
+<lat>52.74079</lat>
+<lng>-4.07382</lng>
+<geonameId>2644197</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC007</adminCode3>
+<adminName3>Barmouth</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanaber</alternateName>
+<alternateName lang="unlc">LAB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.08868</west>
+<north>52.74978</north>
+<east>-4.05897</east>
+<south>52.73179</south>
+</bbox>
+<score>94.22109985351562</score>
+</geoname>
+</geonames>

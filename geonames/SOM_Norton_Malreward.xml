@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Norton Malreward</toponymName>
+<name>Norton Malreward</name>
+<lat>51.38668</lat>
+<lng>-2.57379</lng>
+<geonameId>7296081</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA032</adminCode3>
+<adminName3>Norton Malreward</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Norton_Malreward</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.5969</west>
+<north>51.40077</north>
+<east>-2.55068</east>
+<south>51.37259</south>
+</bbox>
+<score>73.69017791748047</score>
+</geoname>
+</geonames>

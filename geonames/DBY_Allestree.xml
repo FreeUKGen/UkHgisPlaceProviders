@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Allestree</toponymName>
+<name>Allestree</name>
+<lat>52.94471</lat>
+<lng>-1.49533</lng>
+<geonameId>2657479</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D2</adminCode2>
+<adminName2>Derby</adminName2>
+<adminCode3>17UB</adminCode3>
+<adminName3>GB.ENG.D2.17UB</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Allestree</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.51026</west>
+<north>52.9537</north>
+<east>-1.4804</east>
+<south>52.93571</south>
+</bbox>
+<score>91.51898193359375</score>
+</geoname>
+</geonames>

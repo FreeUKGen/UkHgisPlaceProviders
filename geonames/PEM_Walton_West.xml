@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Walton West</toponymName>
+<name>Walton West</name>
+<lat>51.77352</lat>
+<lng>-5.09835</lng>
+<geonameId>2634823</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS073</adminCode3>
+<adminName3>The Havens</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.11288</west>
+<north>51.78252</north>
+<east>-5.08381</east>
+<south>51.76453</south>
+</bbox>
+<score>53.0732536315918</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Warham</toponymName>
+<name>Warham</name>
+<lat>52.93733</lat>
+<lng>0.89744</lng>
+<geonameId>2634771</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Warham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Warham%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.88251</west>
+<north>52.94633</north>
+<east>0.91237</east>
+<south>52.92834</south>
+</bbox>
+<score>94.4761962890625</score>
+</geoname>
+<geoname>
+<toponymName>Warham</toponymName>
+<name>Warham</name>
+<lat>52.95649</lat>
+<lng>0.88693</lng>
+<geonameId>7299010</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF111</adminCode4>
+<adminName4>Warham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.8542</west>
+<north>52.98783</north>
+<east>0.91966</east>
+<south>52.92515</south>
+</bbox>
+<score>75.83113861083984</score>
+</geoname>
+</geonames>

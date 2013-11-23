@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Sedgebrook</toponymName>
+<name>Sedgebrook</name>
+<lat>52.93237</lat>
+<lng>-0.72716</lng>
+<geonameId>2638260</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sedgebrook</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.74208</west>
+<north>52.94137</north>
+<east>-0.71224</east>
+<south>52.92338</south>
+</bbox>
+<score>85.73804473876953</score>
+</geoname>
+<geoname>
+<toponymName>Sedgebrook</toponymName>
+<name>Sedgebrook</name>
+<lat>52.93409</lat>
+<lng>-0.74051</lng>
+<geonameId>7301795</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<adminCode4>32UG065</adminCode4>
+<adminName4>Sedgebrook</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.76617</west>
+<north>52.94574</north>
+<east>-0.71485</east>
+<south>52.92244</south>
+</bbox>
+<score>76.25531768798828</score>
+</geoname>
+</geonames>

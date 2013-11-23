@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Filby</toponymName>
+<name>Filby</name>
+<lat>52.65957</lat>
+<lng>1.64271</lng>
+<geonameId>2649464</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UD</adminCode3>
+<adminName3>Great Yarmouth District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Filby</alternateName>
+<alternateName lang="unlc">FLB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.62788</west>
+<north>52.66856</north>
+<east>1.65754</east>
+<south>52.65058</south>
+</bbox>
+<score>92.40130615234375</score>
+</geoname>
+<geoname>
+<toponymName>Filby</toponymName>
+<name>Filby</name>
+<lat>52.66305</lat>
+<lng>1.66192</lng>
+<geonameId>7296665</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UD</adminCode3>
+<adminName3>Great Yarmouth District</adminName3>
+<adminCode4>33UD006</adminCode4>
+<adminName4>Filby</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.62702</west>
+<north>52.67305</north>
+<east>1.69682</east>
+<south>52.65305</south>
+</bbox>
+<score>82.2243881225586</score>
+</geoname>
+</geonames>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Wolverton</toponymName>
+<name>Wolverton</name>
+<lat>52.06246</lat>
+<lng>-0.81659</lng>
+<geonameId>2633688</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wolverton</alternateName>
+<alternateName lang="unlc">WVT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.83122</west>
+<north>52.07146</north>
+<east>-0.80196</east>
+<south>52.05347</south>
+</bbox>
+<score>68.98252868652344</score>
+</geoname>
+<geoname>
+<toponymName>Wolverton</toponymName>
+<name>Wolverton</name>
+<lat>51.32375</lat>
+<lng>-1.20867</lng>
+<geonameId>2633689</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UB</adminCode3>
+<adminName3>Basingstoke and Deane District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wolverton%2C_Hampshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.22306</west>
+<north>51.33274</north>
+<east>-1.19427</east>
+<south>51.31475</south>
+</bbox>
+<score>64.47994995117188</score>
+</geoname>
+<geoname>
+<toponymName>Wolverton</toponymName>
+<name>Wolverton</name>
+<lat>52.25828</lat>
+<lng>-1.69859</lng>
+<geonameId>2633687</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.71329</west>
+<north>52.26728</north>
+<east>-1.68389</east>
+<south>52.24929</south>
+</bbox>
+<score>48.171852111816406</score>
+</geoname>
+<geoname>
+<toponymName>Wolverton</toponymName>
+<name>Wolverton</name>
+<lat>52.25831</lat>
+<lng>-1.68989</lng>
+<geonameId>7297434</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<adminCode4>44UE111</adminCode4>
+<adminName4>Wolverton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wolverton%2C_Warwickshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.711</west>
+<north>52.26973</north>
+<east>-1.66878</east>
+<south>52.24689</south>
+</bbox>
+<score>42.151878356933594</score>
+</geoname>
+<geoname>
+<toponymName>Wolverton</toponymName>
+<name>Wolverton</name>
+<lat>52.06516</lat>
+<lng>-0.82856</lng>
+<geonameId>6286499</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I6</adminCode2>
+<adminName2>Milton Keynes</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>15.14700698852539</score>
+</geoname>
+</geonames>

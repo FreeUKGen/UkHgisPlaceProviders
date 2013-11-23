@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Withcall</toponymName>
+<name>Withcall</name>
+<lat>53.33575</lat>
+<lng>-0.07526</lng>
+<geonameId>2633747</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Withcall</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Withcall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.09033</west>
+<north>53.34474</north>
+<east>-0.0602</east>
+<south>53.32675</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+<geoname>
+<toponymName>Withcall</toponymName>
+<name>Withcall</name>
+<lat>53.33387</lat>
+<lng>-0.08451</lng>
+<geonameId>7301755</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC185</adminCode4>
+<adminName4>Withcall</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.11204</west>
+<north>53.35133</north>
+<east>-0.05698</east>
+<south>53.3164</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

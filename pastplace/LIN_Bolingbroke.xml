@@ -1,0 +1,86 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>11739</id>
+<name>BOLINGBROKE</name>
+<container>LINCOLNSHIRE</container>
+<lat>53.1642194456889</lat>
+<lon>0.0189340381134992</lon>
+<gazetteerText>BOLINGBROKE, a village, a parish, and a soke or wapentake in Lincoln. The village stands 3&#189; miles W by S of Spilsby r. station, and 7&#189; SE of Horncastle; and has a post office under Spilsby. A weekly market is held at it on Tuesday; and a fair on 10 July. It gives the title of Viscount to the family of St. John. The parish includes an allotment, called New Bolingbroke, in the West Fen, and also an allotment in Wildmore Fen; and is in Spilsby district. Acres, 2,570. Real property, &#163;4,594. Pop., 1,018. Houses, 205. The property is much subdivided. A castle was built here by William de Romara, Earl of Lincoln; was enlarged in the time of Queen Elizabeth; and was the focus of several struggles in the civil wars of Charles I.; but was dismantled by the parliamentarians; and only the SW tower of it remains. Henry IV. was born in this castle; and hence was called Henry of Bolingbroke. The living is a rectory, united with the rectory of Hareby, in the diocese of Lincoln. Value, &#163;373. Patron, Sir John J. Smith, Bart. The church is ancient, and suffered much in the civil war; but is now pretty good. There are two Methodist chapels, an endowed national school, and charities &#163;12.-The soke is in the Parts of Lindsey; contains twenty-seven parishes; and is cut into two sections, East and West. Acres, 26,840 and 29,388. Pop., 12,376. Houses, 2,498. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LIN/Bolingbroke/</link>
+<link>http://www.geonames.org/2641041</link>
+</links>
+<unit>
+   <id>10044200</id>
+   <status>Soke</status>
+   <name>BOLINGBROKE</name>
+</unit>
+<unit>
+   <id>10403042</id>
+   <status>CP/AP</status>
+   <name>BOLINGBROKE</name>
+</unit>
+<unit>
+   <id>10403054</id>
+   <status>EP</status>
+   <name>BOLINGBROKE</name>
+</unit>
+<unit>
+   <id>10403080</id>
+   <status>EP</status>
+   <name>BOLINGBROKE WITH HAREBY</name>
+</unit>
+<unit>
+   <id>10570001</id>
+   <status></status>
+   <name>BOLINGBROKE</name>
+</unit>
+<nearByPlace>
+   <id>11409</id>
+   <name>ASGARBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12200</id>
+   <name>MAVIS ENDERBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12512</id>
+   <name>HAMERINGHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12521</id>
+   <name>HAREBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12954</id>
+   <name>LUSBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13462</id>
+   <name>RAITHBY</name>
+</nearByPlace>
+</place>
+<place>
+<id>24048</id>
+<name>NEW BOLINGBROKE</name>
+<container>LINCOLNSHIRE</container>
+<lat>53.1037442801919</lat>
+<lon>-0.0459914271937645</lon>
+<gazetteerText>BOLINGBROKE (New), a chapelry in Bolingbroke, Mavis-Enderby, Raithby, Asgarby, Miningsby, Revesby, and Frieston parishes, Lincoln; in the fens, 5&#189; miles SW of Bolingbroke, and 5&#189; NE of Langrick r. station. It has a post office under Boston. Pop., 947. Houses, 183. The living is a vicarage in the diocese of Lincoln. Value, &#163;100.* Patrons, Trustees. The church is modern. There are two Methodist chapels. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/New_Bolingbroke</link>
+<link>http://www.geonames.org/2641709</link>
+</links>
+<unit>
+   <id>10403066</id>
+   <status>EP</status>
+   <name>NEW BOLINGBROKE</name>
+</unit>
+<unit>
+   <id>10403078</id>
+   <status>EP</status>
+   <name>NEW BOLINGBROKE WITH CARRRINGTON</name>
+</unit>
+</place>
+</results>

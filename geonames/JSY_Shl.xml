@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Shenfield</toponymName>
+<name>Shenfield</name>
+<lat>51.63171</lat>
+<lng>0.33199</lng>
+<geonameId>2638053</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UD</adminCode3>
+<adminName3>Brentwood District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shenfield</alternateName>
+<alternateName lang="unlc">SHL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.3175</west>
+<north>51.6407</north>
+<east>0.34649</east>
+<south>51.62272</south>
+</bbox>
+<score>56.768680572509766</score>
+</geoname>
+<geoname>
+<toponymName>Shawlands Railway Station</toponymName>
+<name>Shawlands Railway Station</name>
+<lat>55.829</lat>
+<lng>-4.292</lng>
+<geonameId>6953543</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>SHL</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V2</adminCode2>
+<adminName2>Glasgow City</adminName2>
+<alternateName lang="abbr">SHL</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shawlands_railway_station</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>35.41504669189453</score>
+</geoname>
+</geonames>

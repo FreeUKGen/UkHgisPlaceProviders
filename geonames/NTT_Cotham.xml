@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cotham</toponymName>
+<name>Cotham</name>
+<lat>53.01667</lat>
+<lng>-0.81667</lng>
+<geonameId>2652281</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cotham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cotham%2C_Nottinghamshire</alternateName>
+<alternateName lang="unlc">OTA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.83162</west>
+<north>53.02566</north>
+<east>-0.80171</east>
+<south>53.00767</south>
+</bbox>
+<score>82.57359313964844</score>
+</geoname>
+<geoname>
+<toponymName>Cotham</toponymName>
+<name>Cotham</name>
+<lat>53.0093</lat>
+<lng>-0.81466</lng>
+<geonameId>7300892</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG018</adminCode4>
+<adminName4>Cotham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.83911</west>
+<north>53.02573</north>
+<east>-0.79022</east>
+<south>52.99287</south>
+</bbox>
+<score>75.73379516601562</score>
+</geoname>
+</geonames>

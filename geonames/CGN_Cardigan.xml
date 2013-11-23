@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cardigan</toponymName>
+<name>Cardigan</name>
+<lat>52.08425</lat>
+<lng>-4.65469</lng>
+<geonameId>7296014</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ007</adminCode3>
+<adminName3>Cardigan</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.68827</west>
+<north>52.11098</north>
+<east>-4.6211</east>
+<south>52.05752</south>
+</bbox>
+<score>90.1454086303711</score>
+</geoname>
+<geoname>
+<toponymName>Cardigan</toponymName>
+<name>Cardigan</name>
+<lat>52.08473</lat>
+<lng>-4.65906</lng>
+<geonameId>2653818</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Aberteifi,Cardigan,Ceretica,Kardigan,kadigan,Кардиган,カーディガン</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ007</adminCode3>
+<adminName3>Cardigan</adminName3>
+<alternateName lang="bg">Кардиган</alternateName>
+<alternateName lang="br">Aberteifi</alternateName>
+<alternateName lang="ca">Aberteifi</alternateName>
+<alternateName lang="cy">Aberteifi</alternateName>
+<alternateName lang="en">Cardigan</alternateName>
+<alternateName lang="fr">Aberteifi</alternateName>
+<alternateName lang="gd">Aberteifi</alternateName>
+<alternateName lang="ja">カーディガン</alternateName>
+<alternateName lang="kw">Aberteifi</alternateName>
+<alternateName lang="la">Ceretica</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cardigan%2C_Ceredigion</alternateName>
+<alternateName lang="unlc">CAR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.68834</west>
+<north>52.10272</north>
+<east>-4.62978</east>
+<south>52.06674</south>
+</bbox>
+<score>51.13441467285156</score>
+</geoname>
+</geonames>

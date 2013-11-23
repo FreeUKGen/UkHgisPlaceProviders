@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Radwell</toponymName>
+<name>Radwell</name>
+<lat>52.01849</lat>
+<lng>-0.20127</lng>
+<geonameId>2639712</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UF</adminCode3>
+<adminName3>North Hertfordshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Radwell%2C_Hertfordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.21589</west>
+<north>52.02748</north>
+<east>-0.18666</east>
+<south>52.00949</south>
+</bbox>
+<score>84.41984558105469</score>
+</geoname>
+<geoname>
+<toponymName>Radwell</toponymName>
+<name>Radwell</name>
+<lat>52.01442</lat>
+<lng>-0.19903</lng>
+<geonameId>7293715</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UF</adminCode3>
+<adminName3>North Hertfordshire District</adminName3>
+<adminCode4>26UF025</adminCode4>
+<adminName4>Radwell</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.21435</west>
+<north>52.02934</north>
+<east>-0.18372</east>
+<south>51.9995</south>
+</bbox>
+<score>81.29920959472656</score>
+</geoname>
+</geonames>

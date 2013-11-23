@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Swanage</toponymName>
+<name>Swanage</name>
+<lat>50.60923</lat>
+<lng>-1.9626</lng>
+<geonameId>2636445</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11344</population>
+<alternateNames>Suonidzh,Суонидж</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UG</adminCode3>
+<adminName3>Purbeck District</adminName3>
+<alternateName lang="bg">Суонидж</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Swanage</alternateName>
+<alternateName lang="unlc">SWE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.98387</west>
+<north>50.62272</north>
+<east>-1.94134</east>
+<south>50.59573</south>
+</bbox>
+<score>95.19390106201172</score>
+</geoname>
+<geoname>
+<toponymName>Swanage</toponymName>
+<name>Swanage</name>
+<lat>50.61334</lat>
+<lng>-1.968</lng>
+<geonameId>7291591</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UG</adminCode3>
+<adminName3>Purbeck District</adminName3>
+<adminCode4>19UG020</adminCode4>
+<adminName4>Swanage</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.99323</west>
+<north>50.63629</north>
+<east>-1.94277</east>
+<south>50.59039</south>
+</bbox>
+<score>81.69823455810547</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Wilford</toponymName>
+<name>Wilford</name>
+<lat>52.92573</lat>
+<lng>-1.16</lng>
+<geonameId>2633903</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Wilford,Willford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J8</adminCode2>
+<adminName2>Nottingham</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>GB.ENG.J8.37UJ</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wilford</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.17492</west>
+<north>52.93472</north>
+<east>-1.14507</east>
+<south>52.91674</south>
+</bbox>
+<score>89.71187591552734</score>
+</geoname>
+</geonames>

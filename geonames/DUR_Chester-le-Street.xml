@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Chester-le-Street</toponymName>
+<name>Chester-le-Street</name>
+<lat>54.85862</lat>
+<lng>-1.57408</lng>
+<geonameId>2653224</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>36917</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ084</adminCode3>
+<adminName3>North Lodge</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chester-le-Street</alternateName>
+<alternateName lang="unlc">CTE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.6169</west>
+<north>54.88325</north>
+<east>-1.53126</east>
+<south>54.83399</south>
+</bbox>
+<score>112.29388427734375</score>
+</geoname>
+</geonames>

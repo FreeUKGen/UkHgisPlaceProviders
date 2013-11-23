@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Stanway</toponymName>
+<name>Stanway</name>
+<lat>51.98333</lat>
+<lng>-1.91667</lng>
+<geonameId>2637036</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Stanway</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.93127</west>
+<north>51.99233</north>
+<east>-1.90206</east>
+<south>51.97434</south>
+</bbox>
+<score>58.326087951660156</score>
+</geoname>
+<geoname>
+<toponymName>Stanway</toponymName>
+<name>Stanway</name>
+<lat>51.87461</lat>
+<lng>0.83219</lng>
+<geonameId>7293516</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UG</adminCode3>
+<adminName3>Colchester District</adminName3>
+<adminCode4>22UG027</adminCode4>
+<adminName4>Stanway</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stanway%2C_Essex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.79529</west>
+<north>51.8967</north>
+<east>0.86908</east>
+<south>51.85252</south>
+</bbox>
+<score>53.946502685546875</score>
+</geoname>
+<geoname>
+<toponymName>Stanway</toponymName>
+<name>Stanway</name>
+<lat>51.97918</lat>
+<lng>-1.91154</lng>
+<geonameId>7293614</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<adminCode4>23UG035</adminCode4>
+<adminName4>Stanway</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stanway%2C_Gloucestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.9546</west>
+<north>52.00146</north>
+<east>-1.86847</east>
+<south>51.9569</south>
+</bbox>
+<score>53.946502685546875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Warbstow</toponymName>
+<name>Warbstow</name>
+<lat>50.69402</lat>
+<lng>-4.5509</lng>
+<geonameId>7300069</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE206</adminCode3>
+<adminName3>Warbstow</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.58696</west>
+<north>50.72214</north>
+<east>-4.50024</east>
+<south>50.66589</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Warbstow</toponymName>
+<name>Warbstow</name>
+<lat>50.68744</lat>
+<lng>-4.53982</lng>
+<geonameId>2634795</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Warbstow</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE206</adminCode3>
+<adminName3>Warbstow</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Warbstow</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.55401</west>
+<north>50.69643</north>
+<east>-4.52562</east>
+<south>50.67845</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+</geonames>

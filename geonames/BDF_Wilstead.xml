@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Wilshamstead</toponymName>
+<name>Wilshamstead</name>
+<lat>52.08088</lat>
+<lng>-0.44889</lng>
+<geonameId>2633878</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>2013</population>
+<alternateNames>Wilhamstead,Willshamstead,Wilstead</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z5</adminCode2>
+<adminName2>Bedford</adminName2>
+<adminCode3>00KB044</adminCode3>
+<adminName3>Wilshamstead</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wilstead</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.45621</west>
+<north>52.08537</north>
+<east>-0.44158</east>
+<south>52.07638</south>
+</bbox>
+<score>55.36711120605469</score>
+</geoname>
+</geonames>

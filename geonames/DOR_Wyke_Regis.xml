@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Wyke Regis</toponymName>
+<name>Wyke Regis</name>
+<lat>50.59112</lat>
+<lng>-2.47327</lng>
+<geonameId>2633454</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UJ</adminCode3>
+<adminName3>Weymouth and Portland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wyke_Regis</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.48744</west>
+<north>50.60011</north>
+<east>-2.4591</east>
+<south>50.58212</south>
+</bbox>
+<score>86.69939422607422</score>
+</geoname>
+</geonames>

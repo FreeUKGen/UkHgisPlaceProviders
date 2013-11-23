@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Gainford</toponymName>
+<name>Gainford</name>
+<lat>54.55581</lat>
+<lng>-1.74499</lng>
+<geonameId>7294468</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ043</adminCode3>
+<adminName3>Gainford</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gainford%2C_County_Durham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.79879</west>
+<north>54.57563</north>
+<east>-1.6912</east>
+<south>54.53599</south>
+</bbox>
+<score>68.92701721191406</score>
+</geoname>
+<geoname>
+<toponymName>Gainford</toponymName>
+<name>Gainford</name>
+<lat>54.54718</lat>
+<lng>-1.73601</lng>
+<geonameId>2648946</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ043</adminCode3>
+<adminName3>Gainford</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.75152</west>
+<north>54.55617</north>
+<east>-1.7205</east>
+<south>54.53818</south>
+</bbox>
+<score>61.787315368652344</score>
+</geoname>
+</geonames>

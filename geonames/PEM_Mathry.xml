@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Mathry</toponymName>
+<name>Mathry</name>
+<lat>51.94044</lat>
+<lng>-5.07495</lng>
+<geonameId>7296247</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS043</adminCode3>
+<adminName3>Mathry</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.13962</west>
+<north>51.97067</north>
+<east>-5.01028</east>
+<south>51.91021</south>
+</bbox>
+<score>112.2577896118164</score>
+</geoname>
+<geoname>
+<toponymName>Mathry</toponymName>
+<name>Mathry</name>
+<lat>51.94639</lat>
+<lng>-5.08667</lng>
+<geonameId>2642911</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Mathry</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS043</adminCode3>
+<adminName3>Mathry</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mathry</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.11586</west>
+<north>51.96438</north>
+<east>-5.05747</east>
+<south>51.9284</south>
+</bbox>
+<score>85.13545227050781</score>
+</geoname>
+</geonames>

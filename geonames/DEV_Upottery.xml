@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Upottery</toponymName>
+<name>Upottery</name>
+<lat>50.86286</lat>
+<lng>-3.13538</lng>
+<geonameId>2635149</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UB</adminCode3>
+<adminName3>East Devon District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.14964</west>
+<north>50.87186</north>
+<east>-3.12113</east>
+<south>50.85387</south>
+</bbox>
+<score>66.00886535644531</score>
+</geoname>
+<geoname>
+<toponymName>Upottery</toponymName>
+<name>Upottery</name>
+<lat>50.86694</lat>
+<lng>-3.13402</lng>
+<geonameId>7300241</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UB</adminCode3>
+<adminName3>East Devon District</adminName3>
+<adminCode4>18UB062</adminCode4>
+<adminName4>Upottery</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Upottery</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.17585</west>
+<north>50.90265</north>
+<east>-3.09219</east>
+<south>50.83124</south>
+</bbox>
+<score>60.419189453125</score>
+</geoname>
+</geonames>

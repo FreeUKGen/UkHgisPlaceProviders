@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Stanley</toponymName>
+<name>Stanley</name>
+<lat>54.875</lat>
+<lng>-1.71376</lng>
+<geonameId>7294697</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ110</adminCode3>
+<adminName3>Stanley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.77404</west>
+<north>54.90955</north>
+<east>-1.65348</east>
+<south>54.84046</south>
+</bbox>
+<score>74.43029022216797</score>
+</geoname>
+<geoname>
+<toponymName>Stanley</toponymName>
+<name>Stanley</name>
+<lat>54.86796</lat>
+<lng>-1.69846</lng>
+<geonameId>8224783</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>16200</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ110</adminCode3>
+<adminName3>Stanley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stanley%2C_County_Durham</alternateName>
+<alternateName lang="unlc">SNL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.72665</west>
+<north>54.88418</north>
+<east>-1.67027</east>
+<south>54.85175</south>
+</bbox>
+<score>72.13298034667969</score>
+</geoname>
+<geoname>
+<toponymName>Stanley</toponymName>
+<name>Stanley</name>
+<lat>53.7139</lat>
+<lng>-1.47582</lng>
+<geonameId>2637072</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O7</adminCode2>
+<adminName2>Wakefield</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stanley%2C_West_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.49102</west>
+<north>53.7229</north>
+<east>-1.46062</east>
+<south>53.70491</south>
+</bbox>
+<score>59.58219909667969</score>
+</geoname>
+<geoname>
+<toponymName>Stanley</toponymName>
+<name>Stanley</name>
+<lat>52.95867</lat>
+<lng>-1.37956</lng>
+<geonameId>2637073</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UG</adminCode3>
+<adminName3>Erewash District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stanley%2C_Derbyshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.39449</west>
+<north>52.96766</north>
+<east>-1.36462</east>
+<south>52.94968</south>
+</bbox>
+<score>59.58219909667969</score>
+</geoname>
+<geoname>
+<toponymName>Stanley</toponymName>
+<name>Stanley</name>
+<lat>56.46667</lat>
+<lng>-3.45</lng>
+<geonameId>2637071</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1491</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W1</adminCode2>
+<adminName2>Perth and Kinross</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.45814</west>
+<north>56.47116</north>
+<east>-3.44186</east>
+<south>56.46217</south>
+</bbox>
+<score>53.92604064941406</score>
+</geoname>
+</geonames>

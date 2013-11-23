@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Publow</toponymName>
+<name>Publow</name>
+<lat>51.37589</lat>
+<lng>-2.54426</lng>
+<geonameId>7298318</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA037</adminCode3>
+<adminName3>Publow</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.56362</west>
+<north>51.39611</north>
+<east>-2.5249</east>
+<south>51.35568</south>
+</bbox>
+<score>113.58248138427734</score>
+</geoname>
+<geoname>
+<toponymName>Publow</toponymName>
+<name>Publow</name>
+<lat>51.37694</lat>
+<lng>-2.54028</lng>
+<geonameId>2639871</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA037</adminCode3>
+<adminName3>Publow</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Publow</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.56911</west>
+<north>51.39493</north>
+<east>-2.51145</east>
+<south>51.35896</south>
+</bbox>
+<score>77.98541259765625</score>
+</geoname>
+</geonames>

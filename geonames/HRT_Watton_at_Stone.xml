@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Watton at Stone</toponymName>
+<name>Watton at Stone</name>
+<lat>51.85842</lat>
+<lng>-0.11381</lng>
+<geonameId>2634660</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2323</population>
+<alternateNames>Watton,Watton at Stone</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UD</adminCode3>
+<adminName3>East Hertfordshire District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.12109</west>
+<north>51.86292</north>
+<east>-0.10653</east>
+<south>51.85392</south>
+</bbox>
+<score>89.3629379272461</score>
+</geoname>
+<geoname>
+<toponymName>Watton-at-Stone</toponymName>
+<name>Watton-at-Stone</name>
+<lat>51.8587</lat>
+<lng>-0.1192</lng>
+<geonameId>7291308</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UD</adminCode3>
+<adminName3>East Hertfordshire District</adminName3>
+<adminCode4>26UD047</adminCode4>
+<adminName4>Watton-at-Stone</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Watton-at-Stone</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.15643</west>
+<north>51.88183</north>
+<east>-0.08196</east>
+<south>51.83556</south>
+</bbox>
+<score>57.880279541015625</score>
+</geoname>
+</geonames>

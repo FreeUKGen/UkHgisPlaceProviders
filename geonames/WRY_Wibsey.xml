@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Wibsey</toponymName>
+<name>Wibsey</name>
+<lat>53.76778</lat>
+<lng>-1.78114</lng>
+<geonameId>2633990</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B4</adminCode2>
+<adminName2>Bradford</adminName2>
+<adminCode3>00CX018</adminCode3>
+<adminName3>Trident</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wibsey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.79636</west>
+<north>53.77678</north>
+<east>-1.76592</east>
+<south>53.75879</south>
+</bbox>
+<score>92.37678527832031</score>
+</geoname>
+</geonames>

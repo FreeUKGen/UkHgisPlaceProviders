@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Sutton on the Hill</toponymName>
+<name>Sutton on the Hill</name>
+<lat>52.89953</lat>
+<lng>-1.65267</lng>
+<geonameId>2636475</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sutton,Sutton on the Hill</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UK</adminCode3>
+<adminName3>South Derbyshire District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.66758</west>
+<north>52.90853</north>
+<east>-1.63776</east>
+<south>52.89054</south>
+</bbox>
+<score>63.23577880859375</score>
+</geoname>
+<geoname>
+<toponymName>Sutton on the Hill</toponymName>
+<name>Sutton on the Hill</name>
+<lat>52.8974</lat>
+<lng>-1.64757</lng>
+<geonameId>7294878</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UK</adminCode3>
+<adminName3>South Derbyshire District</adminName3>
+<adminCode4>17UK042</adminCode4>
+<adminName4>Sutton on the Hill</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sutton_on_the_Hill</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.66436</west>
+<north>52.90928</north>
+<east>-1.63078</east>
+<south>52.88552</south>
+</bbox>
+<score>52.34563446044922</score>
+</geoname>
+</geonames>

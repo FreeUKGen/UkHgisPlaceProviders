@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Aston Somerville</toponymName>
+<name>Aston Somerville</name>
+<lat>52.04147</lat>
+<lng>-1.93328</lng>
+<geonameId>7297525</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<adminCode4>47UF005</adminCode4>
+<adminName4>Aston Somerville</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aston_Somerville</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.95311</west>
+<north>52.05301</north>
+<east>-1.91345</east>
+<south>52.02993</south>
+</bbox>
+<score>53.72039794921875</score>
+</geoname>
+</geonames>

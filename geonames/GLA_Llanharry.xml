@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanharry</toponymName>
+<name>Llanharry</name>
+<lat>51.51422</lat>
+<lng>-3.4324</lng>
+<geonameId>2643993</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2550</population>
+<alternateNames>Llanharry,Llanhary</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y9</adminCode2>
+<adminName2>County Borough of Rhondda Cynon Taff</adminName2>
+<adminCode3>00PF011</adminCode3>
+<adminName3>Llanharry</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanharry</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.44262</west>
+<north>51.52058</north>
+<east>-3.42218</east>
+<south>51.50786</south>
+</bbox>
+<score>119.44921875</score>
+</geoname>
+<geoname>
+<toponymName>Llanharry</toponymName>
+<name>Llanharry</name>
+<lat>51.51935</lat>
+<lng>-3.42393</lng>
+<geonameId>7298816</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y9</adminCode2>
+<adminName2>County Borough of Rhondda Cynon Taff</adminName2>
+<adminCode3>00PF011</adminCode3>
+<adminName3>Llanharry</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.45499</west>
+<north>51.53344</north>
+<east>-3.39287</east>
+<south>51.50527</south>
+</bbox>
+<score>111.34626007080078</score>
+</geoname>
+</geonames>

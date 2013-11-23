@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Edgefield</toponymName>
+<name>Edgefield</name>
+<lat>52.86535</lat>
+<lng>1.11553</lng>
+<geonameId>2650234</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Edgefield</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Edgefield%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.10063</west>
+<north>52.87435</north>
+<east>1.13044</east>
+<south>52.85636</south>
+</bbox>
+<score>92.72887420654297</score>
+</geoname>
+<geoname>
+<toponymName>Edgefield</toponymName>
+<name>Edgefield</name>
+<lat>52.87064</lat>
+<lng>1.1072</lng>
+<geonameId>7295603</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF027</adminCode4>
+<adminName4>Edgefield</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.08008</west>
+<north>52.89106</north>
+<east>1.13433</east>
+<south>52.85022</south>
+</bbox>
+<score>72.77597045898438</score>
+</geoname>
+</geonames>

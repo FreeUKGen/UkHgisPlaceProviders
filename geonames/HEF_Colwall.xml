@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Colwall</toponymName>
+<name>Colwall</name>
+<lat>52.07633</lat>
+<lng>-2.37469</lng>
+<geonameId>7294501</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA049</adminCode3>
+<adminName3>Colwall</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.41142</west>
+<north>52.0965</north>
+<east>-2.33797</east>
+<south>52.05616</south>
+</bbox>
+<score>110.7213363647461</score>
+</geoname>
+<geoname>
+<toponymName>Colwall</toponymName>
+<name>Colwall</name>
+<lat>52.07871</lat>
+<lng>-2.38182</lng>
+<geonameId>2652518</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Colwall</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA049</adminCode3>
+<adminName3>Colwall</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colwall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.39646</west>
+<north>52.0877</north>
+<east>-2.36718</east>
+<south>52.06972</south>
+</bbox>
+<score>105.39854431152344</score>
+</geoname>
+</geonames>

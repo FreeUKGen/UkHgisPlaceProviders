@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Trewen</toponymName>
+<name>Trewen</name>
+<lat>50.62637</lat>
+<lng>-4.46288</lng>
+<geonameId>7294657</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE201</adminCode3>
+<adminName3>Trewen</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.48112</west>
+<north>50.63809</north>
+<east>-4.44465</east>
+<south>50.61465</south>
+</bbox>
+<score>108.20974731445312</score>
+</geoname>
+<geoname>
+<toponymName>Trewen</toponymName>
+<name>Trewen</name>
+<lat>50.61667</lat>
+<lng>-4.46667</lng>
+<geonameId>2635470</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE201</adminCode3>
+<adminName3>Trewen</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Trewen</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.49503</west>
+<north>50.63465</north>
+<east>-4.43831</east>
+<south>50.59868</south>
+</bbox>
+<score>74.3836669921875</score>
+</geoname>
+</geonames>

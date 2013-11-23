@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Halford</toponymName>
+<name>Halford</name>
+<lat>52.43333</lat>
+<lng>-2.83333</lng>
+<geonameId>2647635</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Halford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Halford%2C_Shropshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.84809</west>
+<north>52.44233</north>
+<east>-2.81858</east>
+<south>52.42434</south>
+</bbox>
+<score>86.07585906982422</score>
+</geoname>
+<geoname>
+<toponymName>Halford</toponymName>
+<name>Halford</name>
+<lat>52.10735</lat>
+<lng>-1.61877</lng>
+<geonameId>2647636</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Halford%2C_Warwickshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.63341</west>
+<north>52.11634</north>
+<east>-1.60412</east>
+<south>52.09836</south>
+</bbox>
+<score>71.97481536865234</score>
+</geoname>
+<geoname>
+<toponymName>Halford</toponymName>
+<name>Halford</name>
+<lat>52.10666</lat>
+<lng>-1.61043</lng>
+<geonameId>7297413</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<adminCode4>44UE040</adminCode4>
+<adminName4>Halford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.62815</west>
+<north>52.12114</north>
+<east>-1.59272</east>
+<south>52.09218</south>
+</bbox>
+<score>68.0022964477539</score>
+</geoname>
+<geoname>
+<toponymName>Helford River</toponymName>
+<name>Helford River</name>
+<lat>50.1</lat>
+<lng>-5.1</lng>
+<geonameId>2647175</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Halford,Helford River</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Helford_River</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>29.9678955078125</score>
+</geoname>
+</geonames>

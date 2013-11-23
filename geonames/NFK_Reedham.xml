@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Reedham</toponymName>
+<name>Reedham</name>
+<lat>52.56054</lat>
+<lng>1.57122</lng>
+<geonameId>2639519</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Reedham%2C_Norfolk</alternateName>
+<alternateName lang="unlc">REM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.55642</west>
+<north>52.56954</north>
+<east>1.58601</east>
+<south>52.55155</south>
+</bbox>
+<score>80.31824493408203</score>
+</geoname>
+<geoname>
+<toponymName>Reedham</toponymName>
+<name>Reedham</name>
+<lat>52.57384</lat>
+<lng>1.59429</lng>
+<geonameId>7295641</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<adminCode4>33UC047</adminCode4>
+<adminName4>Reedham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.5418</west>
+<north>52.59248</north>
+<east>1.64679</east>
+<south>52.55521</south>
+</bbox>
+<score>76.8177719116211</score>
+</geoname>
+</geonames>

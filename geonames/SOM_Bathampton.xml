@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bathampton</toponymName>
+<name>Bathampton</name>
+<lat>51.3923</lat>
+<lng>-2.32627</lng>
+<geonameId>7296167</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA001</adminCode3>
+<adminName3>Bathampton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bathampton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.34304</west>
+<north>51.40501</north>
+<east>-2.3095</east>
+<south>51.37959</south>
+</bbox>
+<score>77.7979736328125</score>
+</geoname>
+<geoname>
+<toponymName>Bathampton</toponymName>
+<name>Bathampton</name>
+<lat>51.39344</lat>
+<lng>-2.32413</lng>
+<geonameId>2656172</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bathampton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA001</adminCode3>
+<adminName3>Bathampton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.33854</west>
+<north>51.40244</north>
+<east>-2.30971</east>
+<south>51.38445</south>
+</bbox>
+<score>60.01322937011719</score>
+</geoname>
+</geonames>

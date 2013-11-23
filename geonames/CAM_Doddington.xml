@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>Doddington</toponymName>
+<name>Doddington</name>
+<lat>55.59852</lat>
+<lng>-2.01828</lng>
+<geonameId>7291381</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM045</adminCode3>
+<adminName3>Doddington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.07114</west>
+<north>55.63263</north>
+<east>-1.96541</east>
+<south>55.56441</south>
+</bbox>
+<score>99.22930908203125</score>
+</geoname>
+<geoname>
+<toponymName>Doddington</toponymName>
+<name>Doddington</name>
+<lat>52.49671</lat>
+<lng>0.06017</lng>
+<geonameId>2651181</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3235</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UD</adminCode3>
+<adminName3>Fenland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Doddington%2C_Cambridgeshire</alternateName>
+<alternateName lang="unlc">DOG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.04972</west>
+<north>52.50307</north>
+<east>0.07061</east>
+<south>52.49035</south>
+</bbox>
+<score>83.63803100585938</score>
+</geoname>
+<geoname>
+<toponymName>Doddington</toponymName>
+<name>Doddington</name>
+<lat>51.28138</lat>
+<lng>0.77226</lng>
+<geonameId>2651182</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UM</adminCode3>
+<adminName3>Swale District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Doddington%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.75788</west>
+<north>51.29037</north>
+<east>0.78664</east>
+<south>51.27239</south>
+</bbox>
+<score>75.29440307617188</score>
+</geoname>
+<geoname>
+<toponymName>Doddington</toponymName>
+<name>Doddington</name>
+<lat>51.27915</lat>
+<lng>0.78161</lng>
+<geonameId>7295899</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UM</adminCode3>
+<adminName3>Swale District</adminName3>
+<adminCode4>29UM008</adminCode4>
+<adminName4>Doddington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.74961</west>
+<north>51.30195</north>
+<east>0.8136</east>
+<south>51.25635</south>
+</bbox>
+<score>71.59234619140625</score>
+</geoname>
+<geoname>
+<toponymName>Doddington</toponymName>
+<name>Doddington</name>
+<lat>52.482</lat>
+<lng>0.03744</lng>
+<geonameId>7298767</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UD</adminCode3>
+<adminName3>Fenland District</adminName3>
+<adminCode4>12UD003</adminCode4>
+<adminName4>Doddington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.01855</west>
+<north>52.52168</north>
+<east>0.09343</east>
+<south>52.44233</south>
+</bbox>
+<score>71.59234619140625</score>
+</geoname>
+<geoname>
+<toponymName>Doddington</toponymName>
+<name>Doddington</name>
+<lat>55.56667</lat>
+<lng>-2</lng>
+<geonameId>2651179</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM045</adminCode3>
+<adminName3>Doddington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Doddington%2C_Northumberland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.03183</west>
+<north>55.58465</north>
+<east>-1.96817</east>
+<south>55.54868</south>
+</bbox>
+<score>63.79670715332031</score>
+</geoname>
+<geoname>
+<toponymName>Doddington</toponymName>
+<name>Doddington</name>
+<lat>53.02187</lat>
+<lng>-2.43094</lng>
+<geonameId>7294563</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z7</adminCode2>
+<adminName2>Cheshire East</adminName2>
+<adminCode3>00EQ049</adminCode3>
+<adminName3>Doddington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Doddington%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.4487</west>
+<north>53.03207</north>
+<east>-2.41317</east>
+<south>53.01167</south>
+</bbox>
+<score>63.79670715332031</score>
+</geoname>
+<geoname>
+<toponymName>Great Doddington</toponymName>
+<name>Great Doddington</name>
+<lat>52.27435</lat>
+<lng>-0.70862</lng>
+<geonameId>2648122</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Doddington,Great Doddington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UH</adminCode3>
+<adminName3>Wellingborough District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Great_Doddington</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.72332</west>
+<north>52.28335</north>
+<east>-0.69392</east>
+<south>52.26536</south>
+</bbox>
+<score>59.79790496826172</score>
+</geoname>
+<geoname>
+<toponymName>Doddington</toponymName>
+<name>Doddington</name>
+<lat>53.21667</lat>
+<lng>-0.65</lng>
+<geonameId>2651180</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.66502</west>
+<north>53.22566</north>
+<east>-0.63498</east>
+<south>53.20767</south>
+</bbox>
+<score>56.9405517578125</score>
+</geoname>
+<geoname>
+<toponymName>Doddington Hall</toponymName>
+<name>Doddington Hall</name>
+<lat>53.01667</lat>
+<lng>-2.43333</lng>
+<geonameId>2651178</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames>Doddington,Doddington Hall</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z7</adminCode2>
+<adminName2>Cheshire East</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>23.540283203125</score>
+</geoname>
+</geonames>

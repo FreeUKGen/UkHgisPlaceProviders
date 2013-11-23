@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Godmanstone</toponymName>
+<name>Godmanstone</name>
+<lat>50.77498</lat>
+<lng>-2.47337</lng>
+<geonameId>2648369</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Godmanstone</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Godmanstone</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.48759</west>
+<north>50.78398</north>
+<east>-2.45914</east>
+<south>50.76599</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+<geoname>
+<toponymName>Godmanstone</toponymName>
+<name>Godmanstone</name>
+<lat>50.77341</lat>
+<lng>-2.49215</lng>
+<geonameId>7298404</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH051</adminCode4>
+<adminName4>Godmanstone</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.51381</west>
+<north>50.78257</north>
+<east>-2.47049</east>
+<south>50.76424</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

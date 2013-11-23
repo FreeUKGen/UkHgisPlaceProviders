@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Burwell</toponymName>
+<name>Burwell</name>
+<lat>53.29305</lat>
+<lng>0.03463</lng>
+<geonameId>2654194</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5963</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burwell%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.01958</west>
+<north>53.30205</north>
+<east>0.04968</east>
+<south>53.28406</south>
+</bbox>
+<score>80.94355773925781</score>
+</geoname>
+<geoname>
+<toponymName>Burwell</toponymName>
+<name>Burwell</name>
+<lat>52.27632</lat>
+<lng>0.32732</lng>
+<geonameId>2654195</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>2650488</adminCode3>
+<adminName3>East Cambridgeshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burwell%2C_Cambridgeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.31261</west>
+<north>52.28532</north>
+<east>0.34202</east>
+<south>52.26733</south>
+</bbox>
+<score>66.75907897949219</score>
+</geoname>
+<geoname>
+<toponymName>Burwell</toponymName>
+<name>Burwell</name>
+<lat>52.27551</lat>
+<lng>0.31113</lng>
+<geonameId>7292886</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>62.255165100097656</score>
+</geoname>
+<geoname>
+<toponymName>Burwell</toponymName>
+<name>Burwell</name>
+<lat>53.30081</lat>
+<lng>0.04127</lng>
+<geonameId>7301568</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC024</adminCode4>
+<adminName4>Burwell</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.00716</west>
+<north>53.31583</north>
+<east>0.07538</east>
+<south>53.28579</south>
+</bbox>
+<score>62.255165100097656</score>
+</geoname>
+</geonames>

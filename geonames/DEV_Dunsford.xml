@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Dunsford</toponymName>
+<name>Dunsford</name>
+<lat>50.68994</lat>
+<lng>-3.68194</lng>
+<geonameId>2650664</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UH</adminCode3>
+<adminName3>Teignbridge District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dunsford</alternateName>
+<alternateName lang="unlc">DNR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.69614</west>
+<north>50.69894</north>
+<east>-3.66774</east>
+<south>50.68095</south>
+</bbox>
+<score>79.88471984863281</score>
+</geoname>
+<geoname>
+<toponymName>Dunsford</toponymName>
+<name>Dunsford</name>
+<lat>50.69811</lat>
+<lng>-3.674</lng>
+<geonameId>7293343</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UH</adminCode3>
+<adminName3>Teignbridge District</adminName3>
+<adminCode4>18UH018</adminCode4>
+<adminName4>Dunsford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.73583</west>
+<north>50.72345</north>
+<east>-3.61216</east>
+<south>50.67278</south>
+</bbox>
+<score>70.92959594726562</score>
+</geoname>
+</geonames>

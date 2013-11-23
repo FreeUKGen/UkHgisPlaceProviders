@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Coston</toponymName>
+<name>Coston</name>
+<lat>52.7901</lat>
+<lng>-0.74141</lng>
+<geonameId>2652287</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UG</adminCode3>
+<adminName3>Melton District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Coston%2C_Leicestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.75628</west>
+<north>52.79909</north>
+<east>-0.72653</east>
+<south>52.7811</south>
+</bbox>
+<score>79.05109405517578</score>
+</geoname>
+</geonames>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Wakes Colne</toponymName>
+<name>Wakes Colne</name>
+<lat>51.93288</lat>
+<lng>0.76069</lng>
+<geonameId>7298002</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UG</adminCode3>
+<adminName3>Colchester District</adminName3>
+<adminCode4>22UG030</adminCode4>
+<adminName4>Wakes Colne</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wakes_Colne</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.73469</west>
+<north>51.95478</north>
+<east>0.78669</east>
+<south>51.91099</south>
+</bbox>
+<score>55.55093765258789</score>
+</geoname>
+</geonames>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Caythorpe</toponymName>
+<name>Caythorpe</name>
+<lat>53.01667</lat>
+<lng>-0.6</lng>
+<geonameId>2653460</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Caythorpe</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Caythorpe%2C_Lincolnshire</alternateName>
+<alternateName lang="unlc">CTP</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.61495</west>
+<north>53.02566</north>
+<east>-0.58505</east>
+<south>53.00767</south>
+</bbox>
+<score>77.3336181640625</score>
+</geoname>
+<geoname>
+<toponymName>Caythorpe</toponymName>
+<name>Caythorpe</name>
+<lat>53.02856</lat>
+<lng>-0.59717</lng>
+<geonameId>7297817</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<adminCode4>32UG020</adminCode4>
+<adminName4>Caythorpe</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.6687</west>
+<north>53.0467</north>
+<east>-0.52565</east>
+<south>53.01041</south>
+</bbox>
+<score>71.77287292480469</score>
+</geoname>
+<geoname>
+<toponymName>Caythorpe</toponymName>
+<name>Caythorpe</name>
+<lat>53.00561</lat>
+<lng>-0.97956</lng>
+<geonameId>7290915</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG014</adminCode4>
+<adminName4>Caythorpe</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Caythorpe%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.99766</west>
+<north>53.01274</north>
+<east>-0.96146</east>
+<south>52.99847</south>
+</bbox>
+<score>48.64704132080078</score>
+</geoname>
+</geonames>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Flitton</toponymName>
+<name>Flitton</name>
+<lat>52.01075</lat>
+<lng>-0.45795</lng>
+<geonameId>2649296</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Flitton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.47256</west>
+<north>52.01974</north>
+<east>-0.44334</east>
+<south>52.00175</south>
+</bbox>
+<score>88.94147491455078</score>
+</geoname>
+</geonames>

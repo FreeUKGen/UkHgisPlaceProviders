@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Cranford</toponymName>
+<name>Cranford</name>
+<lat>52.39209</lat>
+<lng>-0.64823</lng>
+<geonameId>7296113</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UE</adminCode3>
+<adminName3>Kettering District</adminName3>
+<adminCode4>34UE006</adminCode4>
+<adminName4>Cranford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.68268</west>
+<north>52.41972</north>
+<east>-0.61379</east>
+<south>52.36446</south>
+</bbox>
+<score>58.476016998291016</score>
+</geoname>
+<geoname>
+<toponymName>Cranford</toponymName>
+<name>Cranford</name>
+<lat>52.36667</lat>
+<lng>-0.63333</lng>
+<geonameId>2652084</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UE</adminCode3>
+<adminName3>Kettering District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.64807</west>
+<north>52.37566</north>
+<east>-0.6186</east>
+<south>52.35767</south>
+</bbox>
+<score>46.49556350708008</score>
+</geoname>
+<geoname>
+<toponymName>Cranford</toponymName>
+<name>Cranford</name>
+<lat>51.47695</lat>
+<lng>-0.41345</lng>
+<geonameId>2652085</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>G1</adminCode3>
+<adminName3>Hounslow</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.42789</west>
+<north>51.48594</north>
+<east>-0.39901</east>
+<south>51.46795</south>
+</bbox>
+<score>46.49556350708008</score>
+</geoname>
+</geonames>

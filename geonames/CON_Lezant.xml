@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Lezant</toponymName>
+<name>Lezant</name>
+<lat>50.5864</lat>
+<lng>-4.34331</lng>
+<geonameId>7293080</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE072</adminCode3>
+<adminName3>Lezant</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.39709</west>
+<north>50.60473</north>
+<east>-4.28953</east>
+<south>50.56807</south>
+</bbox>
+<score>110.83587646484375</score>
+</geoname>
+<geoname>
+<toponymName>Lezant</toponymName>
+<name>Lezant</name>
+<lat>50.58771</lat>
+<lng>-4.34857</lng>
+<geonameId>2644541</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE072</adminCode3>
+<adminName3>Lezant</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lezant</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.36274</west>
+<north>50.59671</north>
+<east>-4.3344</east>
+<south>50.57872</south>
+</bbox>
+<score>89.51431274414062</score>
+</geoname>
+</geonames>

@@ -1,0 +1,107 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>155</id>
+<name>GODALMING</name>
+<container>SURREY</container>
+<lat>51.1894333449261</lat>
+<lon>-0.61195198372383</lon>
+<gazetteerText>Godalming.-- mun. bor., market town, and par., W. Surrey, on river Wye, 34&#189; miles SW. of London by rail -- par., 9049 ac., pop. 8640; bor., 90 ac., pop. 2505; P.O., T.O., 2 Banks. Market-days, Wednesday and Saturday. The town was first incorporated in 1572, but it is said to be of Saxon origin. Mfrs. of stockings, gloves, flannels, paper, &amp;c., are carried on to a small extent. There are 2 stations -- Godalming Old Station (terminus of London and South-Western Ry.) and Godalming New Station, on direct Portsmouth line. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Godalming</link>
+<link>http://www.geonames.org/2648372</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42920</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42924</link>
+</links>
+<unit>
+   <id>10019035</id>
+   <status>CP</status>
+   <name>GODALMING RURAL</name>
+</unit>
+<unit>
+   <id>10025606</id>
+   <status>MB</status>
+   <name>GODALMING</name>
+</unit>
+<unit>
+   <id>10074861</id>
+   <status>USD</status>
+   <name>GODALMING</name>
+</unit>
+<unit>
+   <id>10128109</id>
+   <status>CP/AP</status>
+   <name>GODALMING</name>
+</unit>
+<unit>
+   <id>10134304</id>
+   <status>Borough</status>
+   <name>GODALMING</name>
+</unit>
+<unit>
+   <id>10163857</id>
+   <status>EP</status>
+   <name>GODALMING</name>
+</unit>
+<unit>
+   <id>10167826</id>
+   <status>Hundred</status>
+   <name>GODALMING</name>
+</unit>
+<unit>
+   <id>10540422</id>
+   <status></status>
+   <name>GODALMING</name>
+</unit>
+<unit>
+   <id>10573956</id>
+   <status></status>
+   <name>GODALMING</name>
+</unit>
+<unit>
+   <id>12829838</id>
+   <status></status>
+   <name>GODALMING</name>
+</unit>
+<nearByPlace>
+   <id>1790</id>
+   <name>ARTINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1974</id>
+   <name>WORPLESDON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2805</id>
+   <name>WANBOROUGH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3081</id>
+   <name>ELSTEAD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3089</id>
+   <name>PEPER HAROW</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3258</id>
+   <name>COMPTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4343</id>
+   <name>PUTTENHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4819</id>
+   <name>HAMBLEDON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5798</id>
+   <name>THURSLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6149</id>
+   <name>WITLEY</name>
+</nearByPlace>
+</place>
+</results>

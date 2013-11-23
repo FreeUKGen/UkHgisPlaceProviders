@@ -1,0 +1,148 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>83</id>
+<name>OUNDLE</name>
+<container>NORTHAMPTONSHIRE</container>
+<lat>52.4811980762602</lat>
+<lon>-0.483625656428365</lon>
+<gazetteerText>Oundle, market town, par., and township with ry. sta., Northamptonshire, on river Nen, 13&#189; miles SW. of Peterborough and 98 miles from London - par., 5300 ac., pop. 3073; township, pop. 2953; town, pop. 2890; P.O., T.O., 1 Bank. Market-day, Thursday. The name is a corruption of Avondale. In the vicinity are several mineral springs impregnated with iron; one of these sends forth a singular noise, which gives it the name of the &quot;Drumming Well.&quot; Quantities of lace are made by the inhabitants. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.kellner.eclipse.co.uk/genuki/NTH/Oundle</link>
+<link>http://en.wikipedia.org/wiki/Oundle</link>
+<link>http://www.workhouses.org.uk/Oundle</link>
+<link>http://www.geonames.org/2640825</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=66265</link>
+</links>
+<unit>
+   <id>10002643</id>
+   <status>UD</status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10004974</id>
+   <status>USD</status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10097447</id>
+   <status>Borough</status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10138772</id>
+   <status>RSD</status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10139491</id>
+   <status>PLU/RegD</status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10153657</id>
+   <status>RD</status>
+   <name>OUNDLE AND THRAPSTON</name>
+</unit>
+<unit>
+   <id>10173553</id>
+   <status>RD</status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10279513</id>
+   <status>CP/AP</status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10279525</id>
+   <status>EP</status>
+   <name>OUNDLE WITH ASHTON</name>
+</unit>
+<unit>
+   <id>10470493</id>
+   <status>RD</status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10553854</id>
+   <status></status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10578218</id>
+   <status></status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10578220</id>
+   <status></status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10578231</id>
+   <status></status>
+   <name>OUNDLE I</name>
+</unit>
+<unit>
+   <id>10578243</id>
+   <status></status>
+   <name>OUNDLE II</name>
+</unit>
+<unit>
+   <id>10578255</id>
+   <status></status>
+   <name>OUNDLE III</name>
+</unit>
+<unit>
+   <id>10578267</id>
+   <status></status>
+   <name>OUNDLE IV</name>
+</unit>
+<unit>
+   <id>12743622</id>
+   <status>PDivCon</status>
+   <name>NORTHAMPTONSHIRE NORTHERN</name>
+</unit>
+<nearByPlace>
+   <id>7179</id>
+   <name>ELTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7562</id>
+   <name>BARNWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7573</id>
+   <name>BENEFIELD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7943</id>
+   <name>GLAPTHORN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8056</id>
+   <name>LILFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8068</id>
+   <name>LUTTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8125</id>
+   <name>POLEBROOK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8169</id>
+   <name>SOUTHWICK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8203</id>
+   <name>TANSOR</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8272</id>
+   <name>WARMINGTON</name>
+</nearByPlace>
+</place>
+</results>

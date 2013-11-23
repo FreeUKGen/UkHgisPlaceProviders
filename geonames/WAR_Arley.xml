@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Upper Arley</toponymName>
+<name>Upper Arley</name>
+<lat>52.41893</lat>
+<lng>-2.34594</lng>
+<geonameId>2635148</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Arley,Upper Arley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UG</adminCode3>
+<adminName3>Wyre Forest District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Upper_Arley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.36069</west>
+<north>52.42792</north>
+<east>-2.33119</east>
+<south>52.40993</south>
+</bbox>
+<score>63.534061431884766</score>
+</geoname>
+<geoname>
+<toponymName>Arley</toponymName>
+<name>Arley</name>
+<lat>52.50413</lat>
+<lng>-1.57289</lng>
+<geonameId>2657072</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UB</adminCode3>
+<adminName3>North Warwickshire District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.58767</west>
+<north>52.51312</north>
+<east>-1.55811</east>
+<south>52.49513</south>
+</bbox>
+<score>60.18996047973633</score>
+</geoname>
+<geoname>
+<toponymName>Arley</toponymName>
+<name>Arley</name>
+<lat>52.50888</lat>
+<lng>-1.58993</lng>
+<geonameId>7297396</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UB</adminCode3>
+<adminName3>North Warwickshire District</adminName3>
+<adminCode4>44UB002</adminCode4>
+<adminName4>Arley</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Arley%2C_Warwickshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.6229</west>
+<north>52.52285</north>
+<east>-1.55696</east>
+<south>52.49491</south>
+</bbox>
+<score>52.42194366455078</score>
+</geoname>
+<geoname>
+<toponymName>Arley Hall</toponymName>
+<name>Arley Hall</name>
+<lat>53.31667</lat>
+<lng>-2.5</lng>
+<geonameId>2657071</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames>Arley,Arley Hall</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z7</adminCode2>
+<adminName2>Cheshire East</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Arley_Hall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>42.41630554199219</score>
+</geoname>
+</geonames>

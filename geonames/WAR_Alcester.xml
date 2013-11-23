@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Alcester</toponymName>
+<name>Alcester</name>
+<lat>52.21667</lat>
+<lng>-1.86667</lng>
+<geonameId>2657566</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7225</population>
+<alternateNames>Alcester</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alcester</alternateName>
+<alternateName lang="unlc">ACS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.88465</west>
+<north>52.22768</north>
+<east>-1.84868</east>
+<south>52.20565</south>
+</bbox>
+<score>98.92842102050781</score>
+</geoname>
+<geoname>
+<toponymName>Alcester</toponymName>
+<name>Alcester</name>
+<lat>52.22217</lat>
+<lng>-1.88512</lng>
+<geonameId>7299620</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<adminCode4>44UE002</adminCode4>
+<adminName4>Alcester</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.93193</west>
+<north>52.25185</north>
+<east>-1.83832</east>
+<south>52.1925</south>
+</bbox>
+<score>73.05265045166016</score>
+</geoname>
+</geonames>

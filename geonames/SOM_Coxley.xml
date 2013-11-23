@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Coxley</toponymName>
+<name>Coxley</name>
+<lat>51.18935</lat>
+<lng>-2.67534</lng>
+<geonameId>8063453</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<adminCode4>40UB043</adminCode4>
+<adminName4>St. Cuthbert Out</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.6897</west>
+<north>51.19834</north>
+<east>-2.66099</east>
+<south>51.18036</south>
+</bbox>
+<score>63.83255386352539</score>
+</geoname>
+</geonames>

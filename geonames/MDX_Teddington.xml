@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Teddington</toponymName>
+<name>Teddington</name>
+<lat>52</lat>
+<lng>-2.05</lng>
+<geonameId>2636146</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>299</population>
+<alternateNames>Teddington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Teddington,_Gloucestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.05146</west>
+<north>52.0009</north>
+<east>-2.04854</east>
+<south>51.9991</south>
+</bbox>
+<score>97.21466064453125</score>
+</geoname>
+<geoname>
+<toponymName>Teddington</toponymName>
+<name>Teddington</name>
+<lat>51.42233</lat>
+<lng>-0.33053</lng>
+<geonameId>2636147</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9615</population>
+<alternateNames>Teddington,tedingatana,टेडिंगटन</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>L1</adminCode3>
+<adminName3>Richmond upon Thames</adminName3>
+<alternateName lang="en">Teddington</alternateName>
+<alternateName lang="hi">टेडिंगटन</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Teddington</alternateName>
+<alternateName lang="unlc">TDD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.35094</west>
+<north>51.43505</north>
+<east>-0.31013</east>
+<south>51.40961</south>
+</bbox>
+<score>94.84307861328125</score>
+</geoname>
+<geoname>
+<toponymName>Teddington</toponymName>
+<name>Teddington</name>
+<lat>51.99655</lat>
+<lng>-2.04281</lng>
+<geonameId>7298616</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<adminCode4>23UG039</adminCode4>
+<adminName4>Teddington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Teddington%2C_Gloucestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.07366</west>
+<north>52.00996</north>
+<east>-2.01197</east>
+<south>51.98313</south>
+</bbox>
+<score>52.85554504394531</score>
+</geoname>
+</geonames>

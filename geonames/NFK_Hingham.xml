@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hingham</toponymName>
+<name>Hingham</name>
+<lat>52.57969</lat>
+<lng>0.98422</lng>
+<geonameId>2646856</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1963</population>
+<alternateNames>Hingham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hingham%2C_Norfolk</alternateName>
+<alternateName lang="unlc">HGM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.97682</west>
+<north>52.58418</north>
+<east>0.99162</east>
+<south>52.57519</south>
+</bbox>
+<score>93.67349243164062</score>
+</geoname>
+<geoname>
+<toponymName>Hingham</toponymName>
+<name>Hingham</name>
+<lat>52.57316</lat>
+<lng>0.98269</lng>
+<geonameId>7301928</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH055</adminCode4>
+<adminName4>Hingham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.94701</west>
+<north>52.59513</north>
+<east>1.01838</east>
+<south>52.55119</south>
+</bbox>
+<score>71.91895294189453</score>
+</geoname>
+</geonames>

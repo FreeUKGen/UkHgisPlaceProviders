@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Alton</toponymName>
+<name>Alton</name>
+<lat>51.14931</lat>
+<lng>-0.97469</lng>
+<geonameId>2657408</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>16584</population>
+<alternateNames>Alton,Alton i Hampshire,Oltun,Алтон,Олтън</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UC</adminCode3>
+<adminName3>East Hampshire</adminName3>
+<alternateName lang="bg">Олтън</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alton%2C_Hampshire</alternateName>
+<alternateName lang="nn">Alton i Hampshire</alternateName>
+<alternateName lang="uk">Алтон</alternateName>
+<alternateName lang="unlc">ALN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.00055</west>
+<north>51.16552</north>
+<east>-0.94884</east>
+<south>51.1331</south>
+</bbox>
+<score>93.93050384521484</score>
+</geoname>
+<geoname>
+<toponymName>Alton</toponymName>
+<name>Alton</name>
+<lat>52.96667</lat>
+<lng>-1.88333</lng>
+<geonameId>2657407</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Alton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UC</adminCode3>
+<adminName3>East Staffordshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alton%2C_Staffordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.89827</west>
+<north>52.97566</north>
+<east>-1.8684</east>
+<south>52.95767</south>
+</bbox>
+<score>84.7442398071289</score>
+</geoname>
+<geoname>
+<toponymName>Alton</toponymName>
+<name>Alton</name>
+<lat>52.97823</lat>
+<lng>-1.90195</lng>
+<geonameId>7291103</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UH</adminCode3>
+<adminName3>Staffordshire Moorlands</adminName3>
+<adminCode4>41UH002</adminCode4>
+<adminName4>Alton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.94399</west>
+<north>52.99394</north>
+<east>-1.85991</east>
+<south>52.96252</south>
+</bbox>
+<score>65.65669250488281</score>
+</geoname>
+<geoname>
+<toponymName>Alton</toponymName>
+<name>Alton</name>
+<lat>51.15319</lat>
+<lng>-0.96878</lng>
+<geonameId>7298640</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UC</adminCode3>
+<adminName3>East Hampshire</adminName3>
+<adminCode4>24UC001</adminCode4>
+<adminName4>Alton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.00677</west>
+<north>51.17463</north>
+<east>-0.93078</east>
+<south>51.13176</south>
+</bbox>
+<score>65.65669250488281</score>
+</geoname>
+<geoname>
+<toponymName>Alton</toponymName>
+<name>Alton</name>
+<lat>51.36613</lat>
+<lng>-1.82507</lng>
+<geonameId>7299305</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY005</adminCode3>
+<adminName3>Alton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alton%2C_Wiltshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.86031</west>
+<north>51.38747</north>
+<east>-1.78983</east>
+<south>51.34478</south>
+</bbox>
+<score>60.331016540527344</score>
+</geoname>
+</geonames>

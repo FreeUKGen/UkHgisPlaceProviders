@@ -1,0 +1,74 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1105</id>
+<name>LLANGOLLEN</name>
+<container>DENBIGHSHIRE</container>
+<lat>52.9691420116445</lat>
+<lon>-3.16784379247299</lon>
+<gazetteerText>Llangollen, market town, par., and township with ry. sta., Denbighshire, on right bank of river Dee, 22 miles SW. of Chester - par., 22,396 ac. (193 water), pop. 6381; township (Llangollen-Traian), 14,566 ac., pop. 5463; town, pop. 3123; P.O., T.O., 2 Banks, 1 newspaper. Market-day, Saturday. The town is situated in the Vale of Llangollen, celebrated for its romantic beauty, and is a busy place, well known for its brewery and its fine hotels. Flannel is manufactured in considerable quantities, and in the vicinity are collieries and limestone quarries. Two splendid examples of engineering skill - the viaduct of the Chester and Shrewsbury Ry., and the aqueduct of the Ellesmere Canal - are within a short distance of the town. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Llangollen</link>
+<link>http://www.genuki.org.uk/big/wal/DEN/Llangollen/index.html</link>
+<link>http://www.geonames.org/2644021</link>
+<link>http://www.genuki.org.uk/big/wal/DEN/Llangollen/Trevor/index.html</link>
+<link>http://www.genuki.org.uk/big/wal/DEN/Llangollen/Froncysyllte/index.html</link>
+</links>
+<unit>
+   <id>10226417</id>
+   <status>CP/AP</status>
+   <name>LLANGOLLEN</name>
+</unit>
+<unit>
+   <id>10226545</id>
+   <status>CP</status>
+   <name>LLANGOLLEN RURAL</name>
+</unit>
+<unit>
+   <id>10226557</id>
+   <status>CP</status>
+   <name>LLANGOLLEN URBAN</name>
+</unit>
+<unit>
+   <id>10226582</id>
+   <status>UD</status>
+   <name>LLANGOLLEN</name>
+</unit>
+<unit>
+   <id>10412225</id>
+   <status>RD</status>
+   <name>LLANGOLLEN RURAL</name>
+</unit>
+<unit>
+   <id>10478236</id>
+   <status>Traean</status>
+   <name>TRAEAN LLANGOLLEN</name>
+</unit>
+<unit>
+   <id>10551675</id>
+   <status></status>
+   <name>LLANGOLLEN</name>
+</unit>
+<unit>
+   <id>12827660</id>
+   <status>USD</status>
+   <name>LLANGOLLEN</name>
+</unit>
+<nearByPlace>
+   <id>1522</id>
+   <name>BRYNEGLWYS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3245</id>
+   <name>LLANTYSILIO</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3850</id>
+   <name>CORWEN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6621</id>
+   <name>LLANSANFFRAID GLYNDYFRDWY</name>
+</nearByPlace>
+</place>
+</results>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Hartington</toponymName>
+<name>Hartington</name>
+<lat>53.14147</lat>
+<lng>-1.81017</lng>
+<geonameId>2647404</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UF</adminCode3>
+<adminName3>Derbyshire Dales District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hartington</alternateName>
+<alternateName lang="unlc">HRG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.82517</west>
+<north>53.15046</north>
+<east>-1.79517</east>
+<south>53.13247</south>
+</bbox>
+<score>64.78367614746094</score>
+</geoname>
+</geonames>

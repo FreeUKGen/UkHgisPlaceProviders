@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Combe Florey</toponymName>
+<name>Combe Florey</name>
+<lat>51.07299</lat>
+<lng>-3.21547</lng>
+<geonameId>2652509</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Combe_Florey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.22979</west>
+<north>51.08198</north>
+<east>-3.20116</east>
+<south>51.064</south>
+</bbox>
+<score>85.1887435913086</score>
+</geoname>
+<geoname>
+<toponymName>Combe Florey</toponymName>
+<name>Combe Florey</name>
+<lat>51.08102</lat>
+<lng>-3.21815</lng>
+<geonameId>7294160</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<adminCode4>40UE012</adminCode4>
+<adminName4>Combe Florey</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.24169</west>
+<north>51.09719</north>
+<east>-3.1946</east>
+<south>51.06485</south>
+</bbox>
+<score>75.1943588256836</score>
+</geoname>
+</geonames>

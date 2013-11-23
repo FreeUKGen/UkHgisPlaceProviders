@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Camrose</toponymName>
+<name>Camrose</name>
+<lat>51.83553</lat>
+<lng>-5.01985</lng>
+<geonameId>7292299</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS008</adminCode3>
+<adminName3>Camrose</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.0712</west>
+<north>51.87984</north>
+<east>-4.9685</east>
+<south>51.79121</south>
+</bbox>
+<score>106.41328430175781</score>
+</geoname>
+<geoname>
+<toponymName>Camrose</toponymName>
+<name>Camrose</name>
+<lat>51.84139</lat>
+<lng>-5.01</lng>
+<geonameId>2653901</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS008</adminCode3>
+<adminName3>Camrose</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Camrose%2C_Pembrokeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.03912</west>
+<north>51.85938</north>
+<east>-4.98088</east>
+<south>51.8234</south>
+</bbox>
+<score>68.46158599853516</score>
+</geoname>
+</geonames>

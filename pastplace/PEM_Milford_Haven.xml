@@ -1,0 +1,86 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>954</id>
+<name>MILFORD HAVEN</name>
+<container>PEMBROKESHIRE</container>
+<lat>51.7143058102351</lat>
+<lon>-5.03340431469381</lon>
+<gazetteerText>Milford.-- (or Milford Haven), parl. bor. and sea-port, Hubberston and Steynton pars., Pembrokeshire, on N. shore of Milford Haven, 8 miles SW. of Haverfordwest and 282 miles W. of London by rail, 369 ac., pop. 3812; P.O., T.O., called Milford Haven, 1 Bank. Milford dates from 1790, when it became the seat of a royal dockyard for the construction of ships of war. A large and populous town quickly arose, but in 1814 the dockyard was removed further up the haven to Pater (Pembroke Dock), and since that time Milford has been in a languishing state. Extensive and convenient docks capable of accommodating the largest vessels are in course of construction, and with their completion Milford will probably become a great seat of trade with America. (For shipping statistics, see Appendix.) Milford forms one of the Pembroke District of Parliamentary Boroughs, which returns 1 member. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/wal/PEM/MilfordHaven/index.html</link>
+<link>http://en.wikipedia.org/wiki/Milford_Haven</link>
+<link>http://www.geonames.org/2642534</link>
+</links>
+<unit>
+   <id>10178605</id>
+   <status>UD</status>
+   <name>MILFORD HAVEN</name>
+</unit>
+<unit>
+   <id>10282380</id>
+   <status>CP/Tn</status>
+   <name>MILFORD</name>
+</unit>
+<unit>
+   <id>10549395</id>
+   <status></status>
+   <name>MILFORD</name>
+</unit>
+<unit>
+   <id>12759769</id>
+   <status>BorCon</status>
+   <name>MILFORD</name>
+</unit>
+<unit>
+   <id>12827763</id>
+   <status>USD</status>
+   <name>MILFORD</name>
+</unit>
+<unit>
+   <id>12831523</id>
+   <status></status>
+   <name>MILFORD HAVEN</name>
+</unit>
+<nearByPlace>
+   <id>884</id>
+   <name>HAVERFORDWEST</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1153</id>
+   <name>FISHGUARD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1324</id>
+   <name>GOODWICK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4345</id>
+   <name>HAKIN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6629</id>
+   <name>LLANSTADWEL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6746</id>
+   <name>MARLOES</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8776</id>
+   <name>ST DAVIDS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8788</id>
+   <name>ST ISHMAELS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8828</id>
+   <name>STEYNTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11015</id>
+   <name>LLANWNDA</name>
+</nearByPlace>
+</place>
+</results>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>North Waltham</toponymName>
+<name>North Waltham</name>
+<lat>51.21248</lat>
+<lng>-1.19605</lng>
+<geonameId>2641232</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UB</adminCode3>
+<adminName3>Basingstoke and Deane District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/North_Waltham%2C_Hampshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.21041</west>
+<north>51.22147</north>
+<east>-1.18169</east>
+<south>51.20348</south>
+</bbox>
+<score>70.80850982666016</score>
+</geoname>
+<geoname>
+<toponymName>North Waltham</toponymName>
+<name>North Waltham</name>
+<lat>51.21526</lat>
+<lng>-1.19444</lng>
+<geonameId>7298636</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UB</adminCode3>
+<adminName3>Basingstoke and Deane District</adminName3>
+<adminCode4>24UB029</adminCode4>
+<adminName4>North Waltham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.22176</west>
+<north>51.23347</north>
+<east>-1.16713</east>
+<south>51.19705</south>
+</bbox>
+<score>60.837738037109375</score>
+</geoname>
+</geonames>

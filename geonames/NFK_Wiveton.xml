@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wiveton</toponymName>
+<name>Wiveton</name>
+<lat>52.94345</lat>
+<lng>1.03885</lng>
+<geonameId>2633716</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wiveton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.02392</west>
+<north>52.95244</north>
+<east>1.05378</east>
+<south>52.93445</south>
+</bbox>
+<score>89.54521942138672</score>
+</geoname>
+<geoname>
+<toponymName>Wiveton</toponymName>
+<name>Wiveton</name>
+<lat>52.9426</lat>
+<lng>1.02824</lng>
+<geonameId>7299280</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF119</adminCode4>
+<adminName4>Wiveton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.01056</west>
+<north>52.96245</north>
+<east>1.04593</east>
+<south>52.92274</south>
+</bbox>
+<score>79.85262298583984</score>
+</geoname>
+</geonames>

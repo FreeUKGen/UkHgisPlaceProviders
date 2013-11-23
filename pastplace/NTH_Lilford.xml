@@ -1,0 +1,32 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>8056</id>
+<name>LILFORD</name>
+<container>NORTHAMPTONSHIRE</container>
+<lat>52.4420360984641</lat>
+<lon>-0.481543132634918</lon>
+<gazetteerText>LILFORD, a parish in Oundle district, Northampton; on the river Nen, near the Northampton and Peterborough railway, 3 miles S by W of Oundle. It contains the hamlet of Wigsthorpe; and its Post town is Oundle..Acres, 1,940. Real property, 2,503. Pop., 179. Houses, 29. The manor, with Lilford Hall, belongs to Lord Lilford, and gives him his title of Baron. The Hall was built in 1635, and stands in a beautifully diversified park. The living is a vicarage, annexed to the rectory of Thorpe-Achurch, in the diocese of Peterborough. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Lilford_Hall</link>
+</links>
+<unit>
+   <id>10277759</id>
+   <status>CP/AP</status>
+   <name>LILFORD CUM WIGSTHORPE</name>
+</unit>
+<unit>
+   <id>10277784</id>
+   <status>EP</status>
+   <name>LILFORD CUM WIGSTHORPE</name>
+</unit>
+<nearByPlace>
+   <id>7560</id>
+   <name>BARNWELL ALL SAINTS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8257</id>
+   <name>WADENHOE</name>
+</nearByPlace>
+</place>
+</results>

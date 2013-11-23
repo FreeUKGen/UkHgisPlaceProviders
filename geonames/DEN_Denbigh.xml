@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Denbigh</toponymName>
+<name>Denbigh</name>
+<lat>53.1876</lat>
+<lng>-3.41528</lng>
+<geonameId>7297742</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG012</adminCode3>
+<adminName3>Denbigh</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.4745</west>
+<north>53.21761</north>
+<east>-3.35606</east>
+<south>53.15759</south>
+</bbox>
+<score>97.16441345214844</score>
+</geoname>
+<geoname>
+<toponymName>Denbigh</toponymName>
+<name>Denbigh</name>
+<lat>53.18333</lat>
+<lng>-3.41667</lng>
+<geonameId>2651386</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>8364</population>
+<alternateNames>Denbigh,Dinbych</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG012</adminCode3>
+<adminName3>Denbigh</adminName3>
+<alternateName lang="cy">Dinbych</alternateName>
+<alternateName lang="en">Denbigh</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Denbigh</alternateName>
+<alternateName lang="unlc">DBI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.43505</west>
+<north>53.19435</north>
+<east>-3.39828</east>
+<south>53.17232</south>
+</bbox>
+<score>76.64849853515625</score>
+</geoname>
+</geonames>

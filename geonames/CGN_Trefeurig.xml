@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Trefeurig</toponymName>
+<name>Trefeurig</name>
+<lat>52.43575</lat>
+<lng>-3.95163</lng>
+<geonameId>7292332</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ044</adminCode3>
+<adminName3>Trefeurig</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.03182</west>
+<north>52.45663</north>
+<east>-3.87144</east>
+<south>52.41486</south>
+</bbox>
+<score>117.85755920410156</score>
+</geoname>
+</geonames>

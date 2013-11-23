@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanelidan</toponymName>
+<name>Llanelidan</name>
+<lat>53.04186</lat>
+<lng>-3.3212</lng>
+<geonameId>7301124</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG023</adminCode3>
+<adminName3>Llanelidan</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.36492</west>
+<north>53.07237</north>
+<east>-3.27747</east>
+<south>53.01136</south>
+</bbox>
+<score>109.92205810546875</score>
+</geoname>
+<geoname>
+<toponymName>Llanelidan</toponymName>
+<name>Llanelidan</name>
+<lat>53.04255</lat>
+<lng>-3.33549</lng>
+<geonameId>2644102</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG023</adminCode3>
+<adminName3>Llanelidan</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanelidan</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.35045</west>
+<north>53.05155</north>
+<east>-3.32052</east>
+<south>53.03356</south>
+</bbox>
+<score>88.77629852294922</score>
+</geoname>
+</geonames>

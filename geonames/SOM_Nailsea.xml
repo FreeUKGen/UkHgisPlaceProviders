@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Nailsea</toponymName>
+<name>Nailsea</name>
+<lat>51.43239</lat>
+<lng>-2.75847</lng>
+<geonameId>2641913</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>16537</population>
+<alternateNames>Nailsea</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC025</adminCode3>
+<adminName3>Nailsea</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nailsea</alternateName>
+<alternateName lang="unlc">NSE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.78449</west>
+<north>51.44861</north>
+<east>-2.73245</east>
+<south>51.41618</south>
+</bbox>
+<score>131.63839721679688</score>
+</geoname>
+<geoname>
+<toponymName>Nailsea</toponymName>
+<name>Nailsea</name>
+<lat>51.424</lat>
+<lng>-2.77756</lng>
+<geonameId>7298888</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC025</adminCode3>
+<adminName3>Nailsea</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.81664</west>
+<north>51.4409</north>
+<east>-2.73847</east>
+<south>51.4071</south>
+</bbox>
+<score>114.15132141113281</score>
+</geoname>
+</geonames>

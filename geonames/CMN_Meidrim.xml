@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Meidrim</toponymName>
+<name>Meidrim</name>
+<lat>51.85978</lat>
+<lng>-4.47085</lng>
+<geonameId>7292361</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU060</adminCode3>
+<adminName3>Meidrim</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.52404</west>
+<north>51.8856</north>
+<east>-4.41765</east>
+<south>51.83396</south>
+</bbox>
+<score>112.1513671875</score>
+</geoname>
+<geoname>
+<toponymName>Meidrim</toponymName>
+<name>Meidrim</name>
+<lat>51.86064</lat>
+<lng>-4.48582</lng>
+<geonameId>2641933</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Meidrim,Mydrim</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU060</adminCode3>
+<adminName3>Meidrim</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Meidrim</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.50039</west>
+<north>51.86963</north>
+<east>-4.47126</east>
+<south>51.85165</south>
+</bbox>
+<score>91.87796020507812</score>
+</geoname>
+</geonames>

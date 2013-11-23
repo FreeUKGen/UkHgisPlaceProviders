@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Caenby</toponymName>
+<name>Caenby</name>
+<lat>53.39393</lat>
+<lng>-0.49615</lng>
+<geonameId>2654100</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Caenby</alternateName>
+<alternateName lang="unlc">ZAJ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.51124</west>
+<north>53.40293</north>
+<east>-0.48106</east>
+<south>53.38494</south>
+</bbox>
+<score>91.51898193359375</score>
+</geoname>
+<geoname>
+<toponymName>Caenby</toponymName>
+<name>Caenby</name>
+<lat>53.39036</lat>
+<lng>-0.50149</lng>
+<geonameId>7296570</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<adminCode4>32UH018</adminCode4>
+<adminName4>Caenby</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.54751</west>
+<north>53.39969</north>
+<east>-0.45547</east>
+<south>53.38103</south>
+</bbox>
+<score>81.53416442871094</score>
+</geoname>
+</geonames>

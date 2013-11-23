@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Luton</toponymName>
+<name>Luton</name>
+<lat>51.87967</lat>
+<lng>-0.41748</lng>
+<geonameId>2643339</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>193669</population>
+<alternateNames>Luton,Lutonas,Lutun,lu dun,luteon,lwtn,lwtwn,ruton,Лутон,Лутън,لوتن,لوتون,ルートン,卢顿,루턴</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I1</adminCode2>
+<adminName2>Luton</adminName2>
+<adminCode3>00KC039</adminCode3>
+<adminName3>GB.ENG.I1.00KC039</adminName3>
+<alternateName lang="ar">لوتن</alternateName>
+<alternateName lang="bg">Лутън</alternateName>
+<alternateName lang="da">Luton</alternateName>
+<alternateName lang="de">Luton</alternateName>
+<alternateName lang="en">Luton</alternateName>
+<alternateName lang="eo">Luton</alternateName>
+<alternateName lang="fa">لوتون</alternateName>
+<alternateName lang="fi">Luton</alternateName>
+<alternateName lang="fr">Luton</alternateName>
+<alternateName lang="ja">ルートン</alternateName>
+<alternateName lang="ko">루턴</alternateName>
+<alternateName lang="lb">Luton</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Luton</alternateName>
+<alternateName lang="lt">Lutonas</alternateName>
+<alternateName lang="nl">Luton</alternateName>
+<alternateName lang="no">Luton</alternateName>
+<alternateName lang="pl">Luton</alternateName>
+<alternateName lang="pt">Luton</alternateName>
+<alternateName lang="ro">Luton</alternateName>
+<alternateName lang="ru">Лутон</alternateName>
+<alternateName lang="sr">Лутон</alternateName>
+<alternateName lang="sv">Luton</alternateName>
+<alternateName lang="zh">卢顿</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.51003</west>
+<north>51.93673</north>
+<east>-0.32493</east>
+<south>51.82261</south>
+</bbox>
+<score>183.24681091308594</score>
+</geoname>
+<geoname>
+<toponymName>Borough of Luton</toponymName>
+<name>Borough of Luton</name>
+<lat>51.8911</lat>
+<lng>-0.42793</lng>
+<geonameId>3333168</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>LUT,Luton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I1</adminCode2>
+<adminName2>Luton</adminName2>
+<alternateName lang="abbr">LUT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.50595</west>
+<north>51.92774</north>
+<east>-0.34992</east>
+<south>51.85447</south>
+</bbox>
+<score>92.91002655029297</score>
+</geoname>
+<geoname>
+<toponymName>Luton</toponymName>
+<name>Luton</name>
+<lat>50.58333</lat>
+<lng>-3.55</lng>
+<geonameId>2643340</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UH</adminCode3>
+<adminName3>Teignbridge District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.56417</west>
+<north>50.59233</north>
+<east>-3.53583</east>
+<south>50.57434</south>
+</bbox>
+<score>58.92360305786133</score>
+</geoname>
+<geoname>
+<toponymName>Luton</toponymName>
+<name>Luton</name>
+<lat>51.36899</lat>
+<lng>0.54726</lng>
+<geonameId>7648207</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I3</adminCode2>
+<adminName2>Medway</adminName2>
+<adminCode3>00LC005</adminCode3>
+<adminName3>Frindsbury Extra</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.53285</west>
+<north>51.37799</north>
+<east>0.56167</east>
+<south>51.36</south>
+</bbox>
+<score>58.92360305786133</score>
+</geoname>
+</geonames>

@@ -1,0 +1,56 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>422</id>
+<name>CAERLEON</name>
+<container>MONMOUTHSHIRE</container>
+<lat>51.6117478925237</lat>
+<lon>-2.95525124671865</lon>
+<gazetteerText>Caerleon, town with ry. sta., Llangattock par., S. Monmouthshire, on river Usk, 2&#189; miles NE. of Newport and 26 miles NW. of Bristol, pop. 1099; P.O., T.O. It was the Isca Silurum of the Romans, and at a later period a celebrated seat of religion and learning. In an adjacent field is an elliptical cavity called Arthur&apos;s Round Table, probably the relic of a Roman amphitheatre. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Caerleon</link>
+<link>http://www.geonames.org/2654093</link>
+</links>
+<unit>
+   <id>10067303</id>
+   <status>UD</status>
+   <name>CAERLEON</name>
+</unit>
+<unit>
+   <id>10367967</id>
+   <status>AP/Tn/CP</status>
+   <name>CAERLEON</name>
+</unit>
+<unit>
+   <id>10549127</id>
+   <status></status>
+   <name>CAERLEON</name>
+</unit>
+<unit>
+   <id>12827179</id>
+   <status>USD</status>
+   <name>CAERLEON</name>
+</unit>
+<nearByPlace>
+   <id>1613</id>
+   <name>CEMAIS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8445</id>
+   <name>PEN HW</name>
+</nearByPlace>
+</place>
+<place>
+<id>23117</id>
+<name>CAERLEON ULTRA PONTEM</name>
+<container>MONMOUTHSHIRE</container>
+<lat>51.6071921038185</lat>
+<lon>-2.953173330796</lon>
+<gazetteerText>CAERLEON-ULTRA-PONTEM, a hamlet in Christ-Church parish, Monmouth; on the river Usk, opposite Caerleon, and suburban to that town. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<unit>
+   <id>10487109</id>
+   <status>Tn</status>
+   <name>CAERLEON ULTRA PONTEM</name>
+</unit>
+</place>
+</results>

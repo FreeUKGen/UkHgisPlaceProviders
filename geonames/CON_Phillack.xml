@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Phillack</toponymName>
+<name>Phillack</name>
+<lat>50.19717</lat>
+<lng>-5.40414</lng>
+<geonameId>2640321</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Phillack</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE047</adminCode3>
+<adminName3>Hayle</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Phillack</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.41819</west>
+<north>50.20616</north>
+<east>-5.39009</east>
+<south>50.18818</south>
+</bbox>
+<score>110.68106079101562</score>
+</geoname>
+</geonames>

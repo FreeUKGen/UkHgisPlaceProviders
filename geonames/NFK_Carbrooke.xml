@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Carbrooke</toponymName>
+<name>Carbrooke</name>
+<lat>52.58112</lat>
+<lng>0.8758</lng>
+<geonameId>2653828</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Carbooke,Carbrooke</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Carbrooke</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.86099</west>
+<north>52.59012</north>
+<east>0.8906</east>
+<south>52.57213</south>
+</bbox>
+<score>98.66996002197266</score>
+</geoname>
+<geoname>
+<toponymName>Carbrooke</toponymName>
+<name>Carbrooke</name>
+<lat>52.57655</lat>
+<lng>0.88222</lng>
+<geonameId>7299269</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<adminCode4>33UB017</adminCode4>
+<adminName4>Carbrooke</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.8497</west>
+<north>52.60123</north>
+<east>0.91474</east>
+<south>52.55187</south>
+</bbox>
+<score>77.92401123046875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Burton Latimer</toponymName>
+<name>Burton Latimer</name>
+<lat>52.36368</lat>
+<lng>-0.67853</lng>
+<geonameId>2654208</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6890</population>
+<alternateNames>Burton Latimer</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UE</adminCode3>
+<adminName3>Kettering District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burton_Latimer</alternateName>
+<alternateName lang="unlc">BUT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.695</west>
+<north>52.37374</north>
+<east>-0.66206</east>
+<south>52.35363</south>
+</bbox>
+<score>100.84574890136719</score>
+</geoname>
+<geoname>
+<toponymName>Burton Latimer</toponymName>
+<name>Burton Latimer</name>
+<lat>52.36403</lat>
+<lng>-0.66629</lng>
+<geonameId>7296112</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UE</adminCode3>
+<adminName3>Kettering District</adminName3>
+<adminCode4>34UE005</adminCode4>
+<adminName4>Burton Latimer</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.7046</west>
+<north>52.3802</north>
+<east>-0.62799</east>
+<south>52.34785</south>
+</bbox>
+<score>72.11700439453125</score>
+</geoname>
+</geonames>

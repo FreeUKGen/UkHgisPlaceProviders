@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Long Itchington</toponymName>
+<name>Long Itchington</name>
+<lat>52.28396</lat>
+<lng>-1.39243</lng>
+<geonameId>2643674</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1777</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Long_Itchington</alternateName>
+<alternateName lang="unlc">LOI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.39978</west>
+<north>52.28846</north>
+<east>-1.38508</east>
+<south>52.27947</south>
+</bbox>
+<score>96.51271057128906</score>
+</geoname>
+<geoname>
+<toponymName>Long Itchington</toponymName>
+<name>Long Itchington</name>
+<lat>52.2732</lat>
+<lng>-1.40542</lng>
+<geonameId>7301498</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<adminCode4>44UE057</adminCode4>
+<adminName4>Long Itchington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.44849</west>
+<north>52.30416</north>
+<east>-1.36234</east>
+<south>52.24223</south>
+</bbox>
+<score>72.82502746582031</score>
+</geoname>
+</geonames>

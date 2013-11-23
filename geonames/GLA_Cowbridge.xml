@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Cowbridge</toponymName>
+<name>Cowbridge</name>
+<lat>51.46028</lat>
+<lng>-3.44167</lng>
+<geonameId>2652209</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3656</population>
+<alternateNames>Cowbridge,Pontfaen,Y Bont-faen</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<alternateName lang="cy">Y Bont-faen</alternateName>
+<alternateName lang="en">Cowbridge</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cowbridge</alternateName>
+<alternateName lang="unlc">CDG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.45417</west>
+<north>51.46807</north>
+<east>-3.42916</east>
+<south>51.45249</south>
+</bbox>
+<score>79.25750732421875</score>
+</geoname>
+</geonames>

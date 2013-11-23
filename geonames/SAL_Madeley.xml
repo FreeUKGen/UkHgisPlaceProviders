@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Madeley</toponymName>
+<name>Madeley</name>
+<lat>53</lat>
+<lng>-2.33333</lng>
+<geonameId>2643234</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Madeley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UE</adminCode3>
+<adminName3>Newcastle-under-Lyme District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Madeley%2C_Staffordshire</alternateName>
+<alternateName lang="unlc">MDY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.34828</west>
+<north>53.00899</north>
+<east>-2.31839</east>
+<south>52.99101</south>
+</bbox>
+<score>80.64439392089844</score>
+</geoname>
+<geoname>
+<toponymName>Madeley</toponymName>
+<name>Madeley</name>
+<lat>53.00231</lat>
+<lng>-2.34241</lng>
+<geonameId>7292469</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UE</adminCode3>
+<adminName3>Newcastle-under-Lyme District</adminName3>
+<adminCode4>41UE008</adminCode4>
+<adminName4>Madeley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.38304</west>
+<north>53.02935</north>
+<east>-2.30177</east>
+<south>52.97526</south>
+</bbox>
+<score>74.24215698242188</score>
+</geoname>
+<geoname>
+<toponymName>Madeley</toponymName>
+<name>Madeley</name>
+<lat>52.63616</lat>
+<lng>-2.45097</lng>
+<geonameId>7292650</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O2</adminCode2>
+<adminName2>Telford and Wrekin</adminName2>
+<adminCode3>00GF016</adminCode3>
+<adminName3>Madeley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Madeley%2C_Shropshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.48548</west>
+<north>52.65447</north>
+<east>-2.41647</east>
+<south>52.61785</south>
+</bbox>
+<score>66.00704193115234</score>
+</geoname>
+<geoname>
+<toponymName>Madeley</toponymName>
+<name>Madeley</name>
+<lat>52.63333</lat>
+<lng>-2.43333</lng>
+<geonameId>2643235</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O2</adminCode2>
+<adminName2>Telford and Wrekin</adminName2>
+<adminCode3>00GF016</adminCode3>
+<adminName3>Madeley</adminName3>
+<alternateName lang="unlc">MAE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.46298</west>
+<north>52.65132</north>
+<east>-2.40368</east>
+<south>52.61535</south>
+</bbox>
+<score>30.335020065307617</score>
+</geoname>
+</geonames>

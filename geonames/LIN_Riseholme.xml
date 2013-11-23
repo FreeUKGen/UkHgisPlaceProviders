@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Riseholme</toponymName>
+<name>Riseholme</name>
+<lat>53.26502</lat>
+<lng>-0.53201</lng>
+<geonameId>2639314</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Riseholme</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Riseholme%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.54705</west>
+<north>53.27402</north>
+<east>-0.51697</east>
+<south>53.25603</south>
+</bbox>
+<score>96.83821105957031</score>
+</geoname>
+<geoname>
+<toponymName>Riseholme</toponymName>
+<name>Riseholme</name>
+<lat>53.26514</lat>
+<lng>-0.52906</lng>
+<geonameId>7299197</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<adminCode4>32UH082</adminCode4>
+<adminName4>Riseholme</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.53995</west>
+<north>53.27691</north>
+<east>-0.51817</east>
+<south>53.25336</south>
+</bbox>
+<score>77.72700500488281</score>
+</geoname>
+</geonames>

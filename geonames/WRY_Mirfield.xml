@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Mirfield</toponymName>
+<name>Mirfield</name>
+<lat>53.6739</lat>
+<lng>-1.69404</lng>
+<geonameId>7293814</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G8</adminCode2>
+<adminName2>Kirklees</adminName2>
+<adminCode3>00CZ005</adminCode3>
+<adminName3>Mirfield</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.72707</west>
+<north>53.69675</north>
+<east>-1.661</east>
+<south>53.65105</south>
+</bbox>
+<score>101.79346466064453</score>
+</geoname>
+<geoname>
+<toponymName>Mirfield</toponymName>
+<name>Mirfield</name>
+<lat>53.67343</lat>
+<lng>-1.69636</lng>
+<geonameId>2642423</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>18800</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G8</adminCode2>
+<adminName2>Kirklees</adminName2>
+<adminCode3>00CZ005</adminCode3>
+<adminName3>Mirfield</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mirfield</alternateName>
+<alternateName lang="unlc">MIR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.72577</west>
+<north>53.69084</north>
+<east>-1.66695</east>
+<south>53.65601</south>
+</bbox>
+<score>91.02693939208984</score>
+</geoname>
+</geonames>

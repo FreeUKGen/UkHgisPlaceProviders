@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bellingham</toponymName>
+<name>Bellingham</name>
+<lat>55.15693</lat>
+<lng>-2.2679</lng>
+<geonameId>7300676</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM018</adminCode3>
+<adminName3>Bellingham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.33902</west>
+<north>55.2111</north>
+<east>-2.19678</east>
+<south>55.10277</south>
+</bbox>
+<score>91.78971099853516</score>
+</geoname>
+<geoname>
+<toponymName>Bellingham</toponymName>
+<name>Bellingham</name>
+<lat>55.14464</lat>
+<lng>-2.25383</lng>
+<geonameId>2655958</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bellingham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM018</adminCode3>
+<adminName3>Bellingham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bellingham%2C_Northumberland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.26957</west>
+<north>55.15364</north>
+<east>-2.23809</east>
+<south>55.13565</south>
+</bbox>
+<score>85.53416442871094</score>
+</geoname>
+</geonames>

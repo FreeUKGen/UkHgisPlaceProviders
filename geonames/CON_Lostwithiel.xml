@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Lostwithiel</toponymName>
+<name>Lostwithiel</name>
+<lat>50.40784</lat>
+<lng>-4.67023</lng>
+<geonameId>2643583</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2660</population>
+<alternateNames>Lostwithiel</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE076</adminCode3>
+<adminName3>Lostwithiel</adminName3>
+<alternateName lang="unlc">LSW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.68021</west>
+<north>50.4142</north>
+<east>-4.66025</east>
+<south>50.40148</south>
+</bbox>
+<score>80.69280242919922</score>
+</geoname>
+<geoname>
+<toponymName>Lostwithiel</toponymName>
+<name>Lostwithiel</name>
+<lat>50.41217</lat>
+<lng>-4.67521</lng>
+<geonameId>7294629</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE076</adminCode3>
+<adminName3>Lostwithiel</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lostwithiel</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.70686</west>
+<north>50.43598</north>
+<east>-4.64356</east>
+<south>50.38836</south>
+</bbox>
+<score>78.5201416015625</score>
+</geoname>
+</geonames>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Chew Magna</toponymName>
+<name>Chew Magna</name>
+<lat>51.36799</lat>
+<lng>-2.61013</lng>
+<geonameId>7296159</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA008</adminCode3>
+<adminName3>Chew Magna</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.64783</west>
+<north>51.39396</north>
+<east>-2.57242</east>
+<south>51.34203</south>
+</bbox>
+<score>94.93185424804688</score>
+</geoname>
+<geoname>
+<toponymName>Chew Magna</toponymName>
+<name>Chew Magna</name>
+<lat>51.36611</lat>
+<lng>-2.61028</lng>
+<geonameId>2653197</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Chew Magna,Great Chew</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA008</adminCode3>
+<adminName3>Chew Magna</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chew_Magna</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.6391</west>
+<north>51.3841</north>
+<east>-2.58146</east>
+<south>51.34812</south>
+</bbox>
+<score>73.3904037475586</score>
+</geoname>
+</geonames>

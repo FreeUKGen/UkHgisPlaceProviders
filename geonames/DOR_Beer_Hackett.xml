@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Beer Hackett</toponymName>
+<name>Beer Hackett</name>
+<lat>50.90109</lat>
+<lng>-2.56504</lng>
+<geonameId>7290898</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH008</adminCode4>
+<adminName4>Beer Hackett</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Beer_Hackett</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.58862</west>
+<north>50.91184</north>
+<east>-2.54147</east>
+<south>50.89034</south>
+</bbox>
+<score>53.62108612060547</score>
+</geoname>
+</geonames>

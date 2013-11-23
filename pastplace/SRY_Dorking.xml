@@ -1,0 +1,108 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>534</id>
+<name>DORKING</name>
+<container>SURREY</container>
+<lat>51.2393231609835</lat>
+<lon>-0.322719507370066</lon>
+<gazetteerText>Dorking, market town and par., W. Surrey, 25 miles SW. of London by rail -- par., 10,049 ac. pop. 9577; town, pop. 6328; P.O., T.O., 2 Banks, 1 newspaper. Market-day, Thursday; is picturesquely situated in the Valley of the Mole, near the base of Box Hill, and consists in great part of elegant villas. The South-Eastern and the London, Brighton, and South Coast Railways cross at D. Lime of superior quality is burned extensively in the neighbourhood, and forms an important article of trade. D. has long been known for a breed of fowl to which it gives name. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Dorking</link>
+<link>http://www.workhouses.org.uk/Dorking</link>
+<link>http://www.geonames.org/2651095</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42946</link>
+</links>
+<unit>
+   <id>10003880</id>
+   <status>RSD</status>
+   <name>DORKING</name>
+</unit>
+<unit>
+   <id>10052294</id>
+   <status>CP</status>
+   <name>DORKING RURAL</name>
+</unit>
+<unit>
+   <id>10101128</id>
+   <status>RegD/PLU</status>
+   <name>DORKING</name>
+</unit>
+<unit>
+   <id>10102406</id>
+   <status>UD</status>
+   <name>DORKING</name>
+</unit>
+<unit>
+   <id>10128444</id>
+   <status>EP</status>
+   <name>DORKING</name>
+</unit>
+<unit>
+   <id>10135382</id>
+   <status>RD</status>
+   <name>DORKING</name>
+</unit>
+<unit>
+   <id>10137664</id>
+   <status>USD</status>
+   <name>DORKING</name>
+</unit>
+<unit>
+   <id>10164023</id>
+   <status>AP/CP</status>
+   <name>DORKING</name>
+</unit>
+<unit>
+   <id>10182992</id>
+   <status>EP</status>
+   <name>DORKING ST PAUL</name>
+</unit>
+<unit>
+   <id>10220828</id>
+   <status>RD</status>
+   <name>DORKING AND HORLEY</name>
+</unit>
+<unit>
+   <id>10540203</id>
+   <status></status>
+   <name>DORKING</name>
+</unit>
+<unit>
+   <id>10567622</id>
+   <status></status>
+   <name>DORKING</name>
+</unit>
+<unit>
+   <id>10572575</id>
+   <status></status>
+   <name>DORKING</name>
+</unit>
+<unit>
+   <id>12748632</id>
+   <status>CCon</status>
+   <name>DORKING</name>
+</unit>
+<unit>
+   <id>12836661</id>
+   <status></status>
+   <name>DORKING</name>
+</unit>
+<nearByPlace>
+   <id>1957</id>
+   <name>LEIGH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1958</id>
+   <name>MICKLEHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2720</id>
+   <name>BETCHWORTH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17207</id>
+   <name>MOLE VALLEY</name>
+</nearByPlace>
+</place>
+</results>

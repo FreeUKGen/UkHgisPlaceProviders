@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Riseley</toponymName>
+<name>Riseley</name>
+<lat>52.25186</lat>
+<lng>-0.48035</lng>
+<geonameId>7299742</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z5</adminCode2>
+<adminName2>Bedford</adminName2>
+<adminCode3>00KB032</adminCode3>
+<adminName3>Riseley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.51335</west>
+<north>52.27332</north>
+<east>-0.44736</east>
+<south>52.2304</south>
+</bbox>
+<score>113.43413543701172</score>
+</geoname>
+<geoname>
+<toponymName>Riseley</toponymName>
+<name>Riseley</name>
+<lat>52.25213</lat>
+<lng>-0.47928</lng>
+<geonameId>2639313</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z5</adminCode2>
+<adminName2>Bedford</adminName2>
+<adminCode3>00KB032</adminCode3>
+<adminName3>Riseley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Riseley%2C_Bedfordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.50867</west>
+<north>52.27012</north>
+<east>-0.44988</east>
+<south>52.23415</south>
+</bbox>
+<score>72.20980834960938</score>
+</geoname>
+</geonames>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Mere</toponymName>
+<name>Mere</name>
+<lat>53.33571</lat>
+<lng>-2.41974</lng>
+<geonameId>7298875</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z7</adminCode2>
+<adminName2>Cheshire East</adminName2>
+<adminCode3>00EQ083</adminCode3>
+<adminName3>Mere</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.4613</west>
+<north>53.35242</north>
+<east>-2.37818</east>
+<south>53.319</south>
+</bbox>
+<score>93.0359878540039</score>
+</geoname>
+<geoname>
+<toponymName>Mere</toponymName>
+<name>Mere</name>
+<lat>51.0875</lat>
+<lng>-2.24869</lng>
+<geonameId>7299339</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY158</adminCode3>
+<adminName3>Mere</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.29526</west>
+<north>51.11981</north>
+<east>-2.20212</east>
+<south>51.05518</south>
+</bbox>
+<score>93.0359878540039</score>
+</geoname>
+<geoname>
+<toponymName>Mere</toponymName>
+<name>Mere</name>
+<lat>53.33333</lat>
+<lng>-2.41667</lng>
+<geonameId>2642729</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z7</adminCode2>
+<adminName2>Cheshire East</adminName2>
+<adminCode3>00EQ083</adminCode3>
+<adminName3>Mere</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mere%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.4468</west>
+<north>53.35132</north>
+<east>-2.38653</east>
+<south>53.31535</south>
+</bbox>
+<score>61.35420227050781</score>
+</geoname>
+<geoname>
+<toponymName>Mere</toponymName>
+<name>Mere</name>
+<lat>51.08889</lat>
+<lng>-2.26694</lng>
+<geonameId>2642730</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY158</adminCode3>
+<adminName3>Mere</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mere%2C_Wiltshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.29559</west>
+<north>51.10688</north>
+<east>-2.2383</east>
+<south>51.0709</south>
+</bbox>
+<score>61.35420227050781</score>
+</geoname>
+</geonames>

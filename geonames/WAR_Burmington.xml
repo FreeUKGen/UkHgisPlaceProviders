@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Burmington</toponymName>
+<name>Burmington</name>
+<lat>52.03583</lat>
+<lng>-1.60665</lng>
+<geonameId>7301492</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<adminCode4>44UE017</adminCode4>
+<adminName4>Burmington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burmington</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.62509</west>
+<north>52.04484</north>
+<east>-1.58821</east>
+<south>52.02682</south>
+</bbox>
+<score>56.927879333496094</score>
+</geoname>
+</geonames>

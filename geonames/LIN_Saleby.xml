@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Saleby</toponymName>
+<name>Saleby</name>
+<lat>53.28561</lat>
+<lng>0.18428</lng>
+<geonameId>2638677</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Saleby</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saleby</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.16923</west>
+<north>53.2946</north>
+<east>0.19932</east>
+<south>53.27661</south>
+</bbox>
+<score>98.11709594726562</score>
+</geoname>
+</geonames>

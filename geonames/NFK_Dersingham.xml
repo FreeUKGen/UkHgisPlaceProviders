@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Dersingham</toponymName>
+<name>Dersingham</name>
+<lat>52.84549</lat>
+<lng>0.50339</lng>
+<geonameId>2651324</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4602</population>
+<alternateNames>Dersingham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dersingham</alternateName>
+<alternateName lang="unlc">DSA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.49049</west>
+<north>52.85328</north>
+<east>0.51628</east>
+<south>52.83771</south>
+</bbox>
+<score>110.68647766113281</score>
+</geoname>
+<geoname>
+<toponymName>Dersingham</toponymName>
+<name>Dersingham</name>
+<lat>52.84413</lat>
+<lng>0.52909</lng>
+<geonameId>7301884</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<adminCode4>33UE020</adminCode4>
+<adminName4>Dersingham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.46144</west>
+<north>52.85786</north>
+<east>0.59673</east>
+<south>52.83039</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

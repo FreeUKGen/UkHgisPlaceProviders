@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kingsbury Episcopi</toponymName>
+<name>Kingsbury Episcopi</name>
+<lat>50.98853</lat>
+<lng>-2.80662</lng>
+<geonameId>2645482</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kingsbury,Kingsbury Episcopi</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kingsbury_Episcopi</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.82091</west>
+<north>50.99752</north>
+<east>-2.79233</east>
+<south>50.97953</south>
+</bbox>
+<score>90.98902893066406</score>
+</geoname>
+<geoname>
+<toponymName>Kingsbury Episcopi</toponymName>
+<name>Kingsbury Episcopi</name>
+<lat>50.98419</lat>
+<lng>-2.82486</lng>
+<geonameId>7294140</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD061</adminCode4>
+<adminName4>Kingsbury Episcopi</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.85723</west>
+<north>51.00891</north>
+<east>-2.79249</east>
+<south>50.95947</south>
+</bbox>
+<score>76.30221557617188</score>
+</geoname>
+</geonames>

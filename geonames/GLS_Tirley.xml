@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Tirley</toponymName>
+<name>Tirley</name>
+<lat>51.95529</lat>
+<lng>-2.23758</lng>
+<geonameId>2635779</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.25218</west>
+<north>51.96428</north>
+<east>-2.22299</east>
+<south>51.94629</south>
+</bbox>
+<score>65.22322082519531</score>
+</geoname>
+<geoname>
+<toponymName>Tirley</toponymName>
+<name>Tirley</name>
+<lat>51.95313</lat>
+<lng>-2.23953</lng>
+<geonameId>7298617</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<adminCode4>23UG041</adminCode4>
+<adminName4>Tirley</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tirley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.27158</west>
+<north>51.96993</north>
+<east>-2.20749</east>
+<south>51.93633</south>
+</bbox>
+<score>59.700069427490234</score>
+</geoname>
+</geonames>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Frampton</toponymName>
+<name>Frampton</name>
+<lat>52.93436</lat>
+<lng>-0.03004</lng>
+<geonameId>2649102</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Frampton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UB</adminCode3>
+<adminName3>Boston District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Frampton%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.04497</west>
+<north>52.94336</north>
+<east>-0.01512</east>
+<south>52.92537</south>
+</bbox>
+<score>90.88932037353516</score>
+</geoname>
+<geoname>
+<toponymName>Frampton</toponymName>
+<name>Frampton</name>
+<lat>50.75</lat>
+<lng>-2.53333</lng>
+<geonameId>2649103</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Frampton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Frampton%2C_Dorset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.54755</west>
+<north>50.75899</north>
+<east>-2.51912</east>
+<south>50.74101</south>
+</bbox>
+<score>90.88932037353516</score>
+</geoname>
+<geoname>
+<toponymName>Frampton</toponymName>
+<name>Frampton</name>
+<lat>50.74334</lat>
+<lng>-2.53742</lng>
+<geonameId>7291286</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH047</adminCode4>
+<adminName4>Frampton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.56267</west>
+<north>50.77055</north>
+<east>-2.51217</east>
+<south>50.71612</south>
+</bbox>
+<score>72.01155090332031</score>
+</geoname>
+<geoname>
+<toponymName>Frampton</toponymName>
+<name>Frampton</name>
+<lat>52.9491</lat>
+<lng>-0.0456</lng>
+<geonameId>7291747</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UB</adminCode3>
+<adminName3>Boston District</adminName3>
+<adminCode4>32UB008</adminCode4>
+<adminName4>Frampton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.12475</west>
+<north>52.98703</north>
+<east>0.03356</east>
+<south>52.91117</south>
+</bbox>
+<score>72.01155090332031</score>
+</geoname>
+<geoname>
+<toponymName>Frampton on Severn</toponymName>
+<name>Frampton on Severn</name>
+<lat>51.77054</lat>
+<lng>-2.36382</lng>
+<geonameId>2649100</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Frampton,Frampton on Severn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UF</adminCode3>
+<adminName3>Stroud</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Frampton-on-Severn</alternateName>
+<alternateName lang="unlc">FRV</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.37836</west>
+<north>51.77954</north>
+<east>-2.34928</east>
+<south>51.76155</south>
+</bbox>
+<score>54.016510009765625</score>
+</geoname>
+</geonames>

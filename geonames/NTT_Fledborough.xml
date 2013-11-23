@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Fledborough</toponymName>
+<name>Fledborough</name>
+<lat>53.23842</lat>
+<lng>-0.82437</lng>
+<geonameId>7296918</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<adminCode4>37UC022</adminCode4>
+<adminName4>Fledborough</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.87129</west>
+<north>53.24555</north>
+<east>-0.77744</east>
+<south>53.2313</south>
+</bbox>
+<score>82.43179321289062</score>
+</geoname>
+<geoname>
+<toponymName>Fledborough</toponymName>
+<name>Fledborough</name>
+<lat>53.23909</lat>
+<lng>-0.80093</lng>
+<geonameId>2649323</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.81596</west>
+<north>53.24809</north>
+<east>-0.7859</east>
+<south>53.2301</south>
+</bbox>
+<score>65.6290283203125</score>
+</geoname>
+</geonames>

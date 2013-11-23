@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ulverston</toponymName>
+<name>Ulverston</name>
+<lat>54.19594</lat>
+<lng>-3.09626</lng>
+<geonameId>2635183</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11460</population>
+<alternateNames>"lvurstun,Ulverston,Ulverstone,Ълвърстън</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UG</adminCode3>
+<adminName3>South Lakeland District</adminName3>
+<alternateName lang="bg">Ълвърстън</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ulverston</alternateName>
+<alternateName lang="unlc">ULV</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.11932</west>
+<north>54.20943</north>
+<east>-3.07319</east>
+<south>54.18245</south>
+</bbox>
+<score>103.61878967285156</score>
+</geoname>
+<geoname>
+<toponymName>Ulverston</toponymName>
+<name>Ulverston</name>
+<lat>54.19046</lat>
+<lng>-3.08503</lng>
+<geonameId>7298117</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UG</adminCode3>
+<adminName3>South Lakeland District</adminName3>
+<adminCode4>16UG072</adminCode4>
+<adminName4>Ulverston</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.11919</west>
+<north>54.21008</north>
+<east>-3.05087</east>
+<south>54.17083</south>
+</bbox>
+<score>73.9024658203125</score>
+</geoname>
+</geonames>

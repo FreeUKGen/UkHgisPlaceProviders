@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>North Hykeham</toponymName>
+<name>North Hykeham</name>
+<lat>53.18306</lat>
+<lng>-0.58766</lng>
+<geonameId>2641332</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hykeham,North Hykeham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hykeham</alternateName>
+<alternateName lang="unlc">NHY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.60267</west>
+<north>53.19205</north>
+<east>-0.57264</east>
+<south>53.17407</south>
+</bbox>
+<score>83.56376647949219</score>
+</geoname>
+<geoname>
+<toponymName>North Hykeham</toponymName>
+<name>North Hykeham</name>
+<lat>53.18858</lat>
+<lng>-0.59383</lng>
+<geonameId>7299121</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<adminCode4>32UE043</adminCode4>
+<adminName4>North Hykeham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/North_Hykeham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.62269</west>
+<north>53.20803</north>
+<east>-0.56497</east>
+<south>53.16912</south>
+</bbox>
+<score>52.61833190917969</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Meifod</toponymName>
+<name>Meifod</name>
+<lat>52.71714</lat>
+<lng>-3.22545</lng>
+<geonameId>7292198</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN083</adminCode3>
+<adminName3>Meifod</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.30681</west>
+<north>52.75911</north>
+<east>-3.14408</east>
+<south>52.67516</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Meifod</toponymName>
+<name>Meifod</name>
+<lat>52.71055</lat>
+<lng>-3.25309</lng>
+<geonameId>2642819</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Meifod</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN083</adminCode3>
+<adminName3>Meifod</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Meifod</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.26793</west>
+<north>52.71954</north>
+<east>-3.23824</east>
+<south>52.70156</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+</geonames>

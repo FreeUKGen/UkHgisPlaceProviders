@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Dorrington</toponymName>
+<name>Dorrington</name>
+<lat>53.06667</lat>
+<lng>-0.38333</lng>
+<geonameId>2651080</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Dorrington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dorrington%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.3983</west>
+<north>53.07566</north>
+<east>-0.36836</east>
+<south>53.05767</south>
+</bbox>
+<score>86.85575866699219</score>
+</geoname>
+<geoname>
+<toponymName>Dorrington</toponymName>
+<name>Dorrington</name>
+<lat>52.61667</lat>
+<lng>-2.78333</lng>
+<geonameId>2651081</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Dorrington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dorrington%2C_Shropshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.79815</west>
+<north>52.62566</north>
+<east>-2.76852</east>
+<south>52.60767</south>
+</bbox>
+<score>86.85575866699219</score>
+</geoname>
+<geoname>
+<toponymName>Dorrington</toponymName>
+<name>Dorrington</name>
+<lat>53.06446</lat>
+<lng>-0.35536</lng>
+<geonameId>7299127</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<adminCode4>32UE025</adminCode4>
+<adminName4>Dorrington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.39669</west>
+<north>53.07706</north>
+<east>-0.31404</east>
+<south>53.05186</south>
+</bbox>
+<score>68.9813232421875</score>
+</geoname>
+</geonames>

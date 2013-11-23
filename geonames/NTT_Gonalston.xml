@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Gonalston</toponymName>
+<name>Gonalston</name>
+<lat>53.02561</lat>
+<lng>-0.99348</lng>
+<geonameId>7296950</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG031</adminCode4>
+<adminName4>Gonalston</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gonalston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.0168</west>
+<north>53.03912</north>
+<east>-0.97016</east>
+<south>53.0121</south>
+</bbox>
+<score>61.74647521972656</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Elstow</toponymName>
+<name>Elstow</name>
+<lat>52.10315</lat>
+<lng>-0.46496</lng>
+<geonameId>7292843</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z5</adminCode2>
+<adminName2>Bedford</adminName2>
+<adminCode3>00KB013</adminCode3>
+<adminName3>Elstow</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.48884</west>
+<north>52.11979</north>
+<east>-0.44109</east>
+<south>52.08651</south>
+</bbox>
+<score>106.9400634765625</score>
+</geoname>
+<geoname>
+<toponymName>Elstow</toponymName>
+<name>Elstow</name>
+<lat>52.10727</lat>
+<lng>-0.4649</lng>
+<geonameId>2650048</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z5</adminCode2>
+<adminName2>Bedford</adminName2>
+<adminCode3>00KB013</adminCode3>
+<adminName3>Elstow</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Elstow</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.4942</west>
+<north>52.12526</north>
+<east>-0.4356</east>
+<south>52.08928</south>
+</bbox>
+<score>73.96751403808594</score>
+</geoname>
+</geonames>

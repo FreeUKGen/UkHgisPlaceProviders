@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Santon</toponymName>
+<name>Santon</name>
+<lat>54.11667</lat>
+<lng>-4.58333</lng>
+<geonameId>3042182</geonameId>
+<countryCode>IM</countryCode>
+<countryName>Isle of Man</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Saint Anne,Santon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Santon_%28parish%29</alternateName>
+<alternateName lang="unlc">SAN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Isle_of_Man</timezone>
+<bbox>
+<west>-4.59868</west>
+<north>54.12566</north>
+<east>-4.56799</east>
+<south>54.10767</south>
+</bbox>
+<score>55.2451171875</score>
+</geoname>
+<geoname>
+<toponymName>Santon</toponymName>
+<name>Santon</name>
+<lat>52.45</lat>
+<lng>0.68333</lng>
+<geonameId>2638519</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UC</adminCode3>
+<adminName3>Forest Heath District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.66857</west>
+<north>52.45899</north>
+<east>0.69809</east>
+<south>52.44101</south>
+</bbox>
+<score>49.97013473510742</score>
+</geoname>
+</geonames>

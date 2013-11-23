@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Bratton</toponymName>
+<name>Bratton</name>
+<lat>51.26237</lat>
+<lng>-2.13821</lng>
+<geonameId>7296257</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY027</adminCode3>
+<adminName3>Bratton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.173</west>
+<north>51.29301</north>
+<east>-2.10341</east>
+<south>51.23174</south>
+</bbox>
+<score>77.85498046875</score>
+</geoname>
+<geoname>
+<toponymName>Bratton</toponymName>
+<name>Bratton</name>
+<lat>51.27056</lat>
+<lng>-2.12444</lng>
+<geonameId>2654866</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY027</adminCode3>
+<adminName3>Bratton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bratton%2C_Wiltshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.15321</west>
+<north>51.28854</north>
+<east>-2.09568</east>
+<south>51.25257</south>
+</bbox>
+<score>50.96399688720703</score>
+</geoname>
+<geoname>
+<toponymName>Bratton</toponymName>
+<name>Bratton</name>
+<lat>51.20417</lat>
+<lng>-3.50944</lng>
+<geonameId>3345357</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UF</adminCode3>
+<adminName3>West Somerset District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.5238</west>
+<north>51.21316</north>
+<east>-3.49509</east>
+<south>51.19517</south>
+</bbox>
+<score>44.68707275390625</score>
+</geoname>
+<geoname>
+<toponymName>Bratton</toponymName>
+<name>Bratton</name>
+<lat>52.72278</lat>
+<lng>-2.5393</lng>
+<geonameId>6640066</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>230</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.54079</west>
+<north>52.72368</north>
+<east>-2.53782</east>
+<south>52.72188</south>
+</bbox>
+<score>44.68707275390625</score>
+</geoname>
+</geonames>

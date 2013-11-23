@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Tregaron</toponymName>
+<name>Tregaron</name>
+<lat>52.20135</lat>
+<lng>-3.86625</lng>
+<geonameId>7292333</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ045</adminCode3>
+<adminName3>Tregaron</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.99046</west>
+<north>52.26688</north>
+<east>-3.74204</east>
+<south>52.13581</south>
+</bbox>
+<score>106.63467407226562</score>
+</geoname>
+<geoname>
+<toponymName>Tregaron</toponymName>
+<name>Tregaron</name>
+<lat>52.2195</lat>
+<lng>-3.93295</lng>
+<geonameId>2635531</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Caron-is-Clawdd,Tregaron</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ045</adminCode3>
+<adminName3>Tregaron</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tregaron</alternateName>
+<alternateName lang="unlc">TRG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.94764</west>
+<north>52.22849</north>
+<east>-3.91827</east>
+<south>52.2105</south>
+</bbox>
+<score>74.10404968261719</score>
+</geoname>
+</geonames>

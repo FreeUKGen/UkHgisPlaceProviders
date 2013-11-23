@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Colsterworth</toponymName>
+<name>Colsterworth</name>
+<lat>52.8066</lat>
+<lng>-0.62056</lng>
+<geonameId>2652528</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Colsterworth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colsterworth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.63544</west>
+<north>52.81559</north>
+<east>-0.60568</east>
+<south>52.79761</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+<geoname>
+<toponymName>Colsterworth</toponymName>
+<name>Colsterworth</name>
+<lat>52.80391</lat>
+<lng>-0.62496</lng>
+<geonameId>7296518</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<adminCode4>32UG022</adminCode4>
+<adminName4>Colsterworth</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.68276</west>
+<north>52.82355</north>
+<east>-0.56715</east>
+<south>52.78426</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

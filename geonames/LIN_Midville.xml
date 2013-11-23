@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Midville</toponymName>
+<name>Midville</name>
+<lat>53.09195</lat>
+<lng>0.06519</lng>
+<geonameId>6957010</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Midville%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.05021</west>
+<north>53.10094</north>
+<east>0.08017</east>
+<south>53.08296</south>
+</bbox>
+<score>75.21612548828125</score>
+</geoname>
+<geoname>
+<toponymName>Midville</toponymName>
+<name>Midville</name>
+<lat>53.09834</lat>
+<lng>0.04825</lng>
+<geonameId>7298034</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC110</adminCode4>
+<adminName4>Midville</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.01733</west>
+<north>53.11473</north>
+<east>0.07917</east>
+<south>53.08195</south>
+</bbox>
+<score>71.08988952636719</score>
+</geoname>
+</geonames>

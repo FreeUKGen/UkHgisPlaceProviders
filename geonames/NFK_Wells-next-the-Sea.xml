@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Wells-next-the-Sea</toponymName>
+<name>Wells-next-the-Sea</name>
+<lat>52.95164</lat>
+<lng>0.8511</lng>
+<geonameId>2634567</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2506</population>
+<alternateNames>Wells,Wells-next-the-Sea,Wells-on-Sea</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<alternateName lang="en">Wells-next-the-Sea</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wells-next-the-Sea</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.84054</west>
+<north>52.958</north>
+<east>0.86165</east>
+<south>52.94528</south>
+</bbox>
+<score>92.12602233886719</score>
+</geoname>
+<geoname>
+<toponymName>Wells-Next-the-Sea</toponymName>
+<name>Wells-Next-the-Sea</name>
+<lat>52.96034</lat>
+<lng>0.85349</lng>
+<geonameId>7299279</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF112</adminCode4>
+<adminName4>Wells-Next-the-Sea</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.83027</west>
+<north>52.9927</north>
+<east>0.87671</east>
+<south>52.92797</south>
+</bbox>
+<score>66.02194213867188</score>
+</geoname>
+<geoname>
+<toponymName>Wells-next-the-Sea</toponymName>
+<name>Wells-next-the-Sea</name>
+<lat>52.94961</lat>
+<lng>0.8644</lng>
+<geonameId>7671152</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>MTRO</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>metro station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF112</adminCode4>
+<adminName4>Wells-Next-the-Sea</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>16.50548553466797</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Aberaman</toponymName>
+<name>Aberaman</name>
+<lat>51.68801</lat>
+<lng>-3.44374</lng>
+<geonameId>7291220</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y9</adminCode2>
+<adminName2>County Borough of Rhondda Cynon Taff</adminName2>
+<adminCode3>00PF001</adminCode3>
+<adminName3>Aberaman</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.48858</west>
+<north>51.70895</north>
+<east>-3.39889</east>
+<south>51.66707</south>
+</bbox>
+<score>107.92274475097656</score>
+</geoname>
+<geoname>
+<toponymName>Aberaman</toponymName>
+<name>Aberaman</name>
+<lat>51.70307</lat>
+<lng>-3.43026</lng>
+<geonameId>2657855</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Aberaman</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y9</adminCode2>
+<adminName2>County Borough of Rhondda Cynon Taff</adminName2>
+<adminCode3>00PF001</adminCode3>
+<adminName3>Aberaman</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aberaman</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.44477</west>
+<north>51.71207</north>
+<east>-3.41574</east>
+<south>51.69408</south>
+</bbox>
+<score>102.27671813964844</score>
+</geoname>
+</geonames>

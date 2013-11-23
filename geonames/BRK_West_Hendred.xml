@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>West Hendred</toponymName>
+<name>West Hendred</name>
+<lat>51.58372</lat>
+<lng>-1.3592</lng>
+<geonameId>7300973</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UE</adminCode3>
+<adminName3>Vale of White Horse District</adminName3>
+<adminCode4>38UE066</adminCode4>
+<adminName4>West Hendred</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/West_Hendred</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.37453</west>
+<north>51.62288</north>
+<east>-1.34388</east>
+<south>51.54457</south>
+</bbox>
+<score>53.62640380859375</score>
+</geoname>
+</geonames>

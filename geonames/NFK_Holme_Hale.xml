@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Holme Hale</toponymName>
+<name>Holme Hale</name>
+<lat>52.63166</lat>
+<lng>0.78736</lng>
+<geonameId>2646726</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Holme_Hale</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.77254</west>
+<north>52.64066</north>
+<east>0.80218</east>
+<south>52.62267</south>
+</bbox>
+<score>82.48284912109375</score>
+</geoname>
+<geoname>
+<toponymName>Holme Hale</toponymName>
+<name>Holme Hale</name>
+<lat>52.62865</lat>
+<lng>0.79439</lng>
+<geonameId>7295615</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<adminCode4>33UB047</adminCode4>
+<adminName4>Holme Hale</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.75945</west>
+<north>52.64261</north>
+<east>0.82934</east>
+<south>52.61469</south>
+</bbox>
+<score>71.71752166748047</score>
+</geoname>
+</geonames>

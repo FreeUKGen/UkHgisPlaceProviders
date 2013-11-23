@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Banwell</toponymName>
+<name>Banwell</name>
+<lat>51.34098</lat>
+<lng>-2.87296</lng>
+<geonameId>7295036</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC003</adminCode3>
+<adminName3>Banwell</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.90864</west>
+<north>51.36821</north>
+<east>-2.83728</east>
+<south>51.31376</south>
+</bbox>
+<score>102.03720092773438</score>
+</geoname>
+<geoname>
+<toponymName>Banwell</toponymName>
+<name>Banwell</name>
+<lat>51.32894</lat>
+<lng>-2.86914</lng>
+<geonameId>2656378</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2043</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC003</adminCode3>
+<adminName3>Banwell</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Banwell</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.87634</west>
+<north>51.33344</north>
+<east>-2.86195</east>
+<south>51.32444</south>
+</bbox>
+<score>98.14259338378906</score>
+</geoname>
+</geonames>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Stainton By Langworth</toponymName>
+<name>Stainton By Langworth</name>
+<lat>53.29276</lat>
+<lng>-0.40301</lng>
+<geonameId>7301574</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<adminCode4>32UH101</adminCode4>
+<adminName4>Stainton By Langworth</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stainton_by_Langworth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.42405</west>
+<north>53.30904</north>
+<east>-0.38196</east>
+<south>53.27647</south>
+</bbox>
+<score>56.64490509033203</score>
+</geoname>
+</geonames>

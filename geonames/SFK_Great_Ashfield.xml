@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Great Ashfield</toponymName>
+<name>Great Ashfield</name>
+<lat>52.27188</lat>
+<lng>0.92403</lng>
+<geonameId>2648173</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Great Ashfield</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Great_Ashfield</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.90933</west>
+<north>52.28088</north>
+<east>0.93873</east>
+<south>52.26289</south>
+</bbox>
+<score>93.81883239746094</score>
+</geoname>
+<geoname>
+<toponymName>Great Ashfield</toponymName>
+<name>Great Ashfield</name>
+<lat>52.26619</lat>
+<lng>0.9345</lng>
+<geonameId>7297295</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<adminCode4>42UE044</adminCode4>
+<adminName4>Great Ashfield</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.90734</west>
+<north>52.27752</north>
+<east>0.96165</east>
+<south>52.25486</south>
+</bbox>
+<score>71.26316833496094</score>
+</geoname>
+</geonames>

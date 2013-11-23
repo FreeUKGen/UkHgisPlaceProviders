@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Strumpshaw</toponymName>
+<name>Strumpshaw</name>
+<lat>52.60599</lat>
+<lng>1.47572</lng>
+<geonameId>7296662</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<adminCode4>33UC056</adminCode4>
+<adminName4>Strumpshaw</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Strumpshaw</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.43905</west>
+<north>52.62716</north>
+<east>1.51238</east>
+<south>52.58483</south>
+</bbox>
+<score>61.74647521972656</score>
+</geoname>
+</geonames>

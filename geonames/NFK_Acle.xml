@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Acle</toponymName>
+<name>Acle</name>
+<lat>52.63681</lat>
+<lng>1.54757</lng>
+<geonameId>2657704</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2280</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Acle</alternateName>
+<alternateName lang="unlc">ACL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.54016</west>
+<north>52.64131</north>
+<east>1.55498</east>
+<south>52.63232</south>
+</bbox>
+<score>96.33267211914062</score>
+</geoname>
+<geoname>
+<toponymName>Acle</toponymName>
+<name>Acle</name>
+<lat>52.63214</lat>
+<lng>1.55252</lng>
+<geonameId>7295634</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<adminCode4>33UC001</adminCode4>
+<adminName4>Acle</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.51138</west>
+<north>52.64894</north>
+<east>1.59366</east>
+<south>52.61533</south>
+</bbox>
+<score>77.47868347167969</score>
+</geoname>
+</geonames>

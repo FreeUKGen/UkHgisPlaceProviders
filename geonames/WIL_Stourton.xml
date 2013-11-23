@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Stourton</toponymName>
+<name>Stourton</name>
+<lat>51.105</lat>
+<lng>-2.31556</lng>
+<geonameId>2636765</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Stourton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stourton%2C_Wiltshire</alternateName>
+<alternateName lang="unlc">SOR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.32988</west>
+<north>51.11399</north>
+<east>-2.30123</east>
+<south>51.09601</south>
+</bbox>
+<score>83.41587829589844</score>
+</geoname>
+<geoname>
+<toponymName>Stourton</toponymName>
+<name>Stourton</name>
+<lat>52.02027</lat>
+<lng>-1.56064</lng>
+<geonameId>7299636</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<adminCode4>44UE088</adminCode4>
+<adminName4>Stourton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.57802</west>
+<north>52.03429</north>
+<east>-1.54325</east>
+<south>52.00625</south>
+</bbox>
+<score>76.71786499023438</score>
+</geoname>
+</geonames>

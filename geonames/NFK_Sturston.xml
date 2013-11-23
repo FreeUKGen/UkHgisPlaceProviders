@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Sturston</toponymName>
+<name>Sturston</name>
+<lat>52.50512</lat>
+<lng>0.76322</lng>
+<geonameId>7295626</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<adminCode4>33UB096</adminCode4>
+<adminName4>Sturston</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sturston%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.73792</west>
+<north>52.52496</north>
+<east>0.78852</east>
+<south>52.48529</south>
+</bbox>
+<score>50.876609802246094</score>
+</geoname>
+</geonames>

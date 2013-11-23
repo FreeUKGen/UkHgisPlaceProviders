@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Baddesley Clinton</toponymName>
+<name>Baddesley Clinton</name>
+<lat>52.34334</lat>
+<lng>-1.70194</lng>
+<geonameId>7292707</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UF</adminCode3>
+<adminName3>Warwick District</adminName3>
+<adminCode4>44UF002</adminCode4>
+<adminName4>Baddesley Clinton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Baddesley_Clinton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.72238</west>
+<north>52.35868</north>
+<east>-1.68149</east>
+<south>52.328</south>
+</bbox>
+<score>54.34703063964844</score>
+</geoname>
+</geonames>

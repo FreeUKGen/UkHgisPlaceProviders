@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Heath</toponymName>
+<name>Heath</name>
+<lat>52.46695</lat>
+<lng>-2.64932</lng>
+<geonameId>7290976</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG085</adminCode3>
+<adminName3>Heath</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.66749</west>
+<north>52.47925</north>
+<east>-2.63114</east>
+<south>52.45465</south>
+</bbox>
+<score>91.51041412353516</score>
+</geoname>
+<geoname>
+<toponymName>Heath</toponymName>
+<name>Heath</name>
+<lat>51.51263</lat>
+<lng>-3.19707</lng>
+<geonameId>7298041</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X5</adminCode2>
+<adminName2>City and County of Cardiff</adminName2>
+<adminCode3>00PT012</adminCode3>
+<adminName3>Heath</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.21681</west>
+<north>51.52178</north>
+<east>-3.17734</east>
+<south>51.50348</south>
+</bbox>
+<score>91.51041412353516</score>
+</geoname>
+<geoname>
+<toponymName>Heath</toponymName>
+<name>Heath</name>
+<lat>53.2</lat>
+<lng>-1.33333</lng>
+<geonameId>2647221</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Heath</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UJ</adminCode3>
+<adminName3>North East Derbyshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Heath%2C_Derbyshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.34835</west>
+<north>53.20899</north>
+<east>-1.31832</east>
+<south>53.19101</south>
+</bbox>
+<score>86.76081085205078</score>
+</geoname>
+<geoname>
+<toponymName>Heath</toponymName>
+<name>Heath</name>
+<lat>53.67576</lat>
+<lng>-1.46281</lng>
+<geonameId>6324500</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O7</adminCode2>
+<adminName2>Wakefield</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.478</west>
+<north>53.68476</north>
+<east>-1.44763</east>
+<south>53.66677</south>
+</bbox>
+<score>52.577735900878906</score>
+</geoname>
+<geoname>
+<toponymName>Heath</toponymName>
+<name>Heath</name>
+<lat>51.51263</lat>
+<lng>-3.19707</lng>
+<geonameId>8504444</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X5</adminCode2>
+<adminName2>City and County of Cardiff</adminName2>
+<adminCode3>00PT012</adminCode3>
+<adminName3>Heath</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.20285</west>
+<north>51.51623</north>
+<east>-3.19129</east>
+<south>51.50903</south>
+</bbox>
+<score>33.11140060424805</score>
+</geoname>
+</geonames>

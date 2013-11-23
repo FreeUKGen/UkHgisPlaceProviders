@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Denby</toponymName>
+<name>Denby</name>
+<lat>53.01394</lat>
+<lng>-1.41004</lng>
+<geonameId>2651383</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Denby,Dinbych</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UB</adminCode3>
+<adminName3>Amber Valley District</adminName3>
+<alternateName lang="cy">Dinbych</alternateName>
+<alternateName lang="en">Denby</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Denby</alternateName>
+<alternateName lang="unlc">DEB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.42499</west>
+<north>53.02293</north>
+<east>-1.39509</east>
+<south>53.00494</south>
+</bbox>
+<score>82.95266723632812</score>
+</geoname>
+<geoname>
+<toponymName>Denby</toponymName>
+<name>Denby</name>
+<lat>53.01663</lat>
+<lng>-1.41465</lng>
+<geonameId>7293228</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UB</adminCode3>
+<adminName3>Amber Valley District</adminName3>
+<adminCode4>17UB008</adminCode4>
+<adminName4>Denby</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.45321</west>
+<north>53.03294</north>
+<east>-1.37608</east>
+<south>53.00033</south>
+</bbox>
+<score>76.03815460205078</score>
+</geoname>
+</geonames>

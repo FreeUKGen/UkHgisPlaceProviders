@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Arnold</toponymName>
+<name>Arnold</name>
+<lat>53</lat>
+<lng>-1.13333</lng>
+<geonameId>2657030</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>37873</population>
+<alternateNames>Arnol'd,Arnold,Арнольд</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UE</adminCode3>
+<adminName3>Gedling District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Arnold%2C_Nottinghamshire</alternateName>
+<alternateName lang="ru">Арнольд</alternateName>
+<alternateName lang="unlc">ARO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.17496</west>
+<north>53.02504</north>
+<east>-1.09171</east>
+<south>52.97496</south>
+</bbox>
+<score>102.17395782470703</score>
+</geoname>
+</geonames>

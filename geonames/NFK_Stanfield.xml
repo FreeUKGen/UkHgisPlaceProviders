@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Stanfield</toponymName>
+<name>Stanfield</name>
+<lat>52.74636</lat>
+<lng>0.86293</lng>
+<geonameId>7301857</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<adminCode4>33UB093</adminCode4>
+<adminName4>Stanfield</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stanfield%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.84304</west>
+<north>52.75984</north>
+<east>0.88282</east>
+<south>52.73288</south>
+</bbox>
+<score>44.39879608154297</score>
+</geoname>
+</geonames>

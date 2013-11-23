@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Oare</toponymName>
+<name>Oare</name>
+<lat>51.36514</lat>
+<lng>-1.77489</lng>
+<geonameId>2641113</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oare%2C_Wiltshire</alternateName>
+<alternateName lang="unlc">OAR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.7893</west>
+<north>51.37413</north>
+<east>-1.76049</east>
+<south>51.35614</south>
+</bbox>
+<score>83.5103988647461</score>
+</geoname>
+<geoname>
+<toponymName>Oare</toponymName>
+<name>Oare</name>
+<lat>51.33042</lat>
+<lng>0.87788</lng>
+<geonameId>2641114</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UM</adminCode3>
+<adminName3>Swale District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.86348</west>
+<north>51.33942</north>
+<east>0.89227</east>
+<south>51.32143</south>
+</bbox>
+<score>63.698978424072266</score>
+</geoname>
+<geoname>
+<toponymName>Oare</toponymName>
+<name>Oare</name>
+<lat>51.34204</lat>
+<lng>0.88092</lng>
+<geonameId>7295904</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UM</adminCode3>
+<adminName3>Swale District</adminName3>
+<adminCode4>29UM026</adminCode4>
+<adminName4>Oare</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oare%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.85766</west>
+<north>51.35902</north>
+<east>0.90419</east>
+<south>51.32506</south>
+</bbox>
+<score>54.46424865722656</score>
+</geoname>
+<geoname>
+<toponymName>Oare</toponymName>
+<name>Oare</name>
+<lat>51.20475</lat>
+<lng>-3.69441</lng>
+<geonameId>7297754</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UF</adminCode3>
+<adminName3>West Somerset District</adminName3>
+<adminCode4>40UF025</adminCode4>
+<adminName4>Oare</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oare%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.73319</west>
+<north>51.23376</north>
+<east>-3.65564</east>
+<south>51.17574</south>
+</bbox>
+<score>54.46424865722656</score>
+</geoname>
+</geonames>

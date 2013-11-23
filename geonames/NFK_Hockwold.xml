@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Hockwold cum Wilton</toponymName>
+<name>Hockwold cum Wilton</name>
+<lat>52.4638</lat>
+<lng>0.54614</lng>
+<geonameId>2646812</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hockwold,Hockwold cum Wilton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hockwold_cum_Wilton</alternateName>
+<alternateName lang="unlc">HKW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.53138</west>
+<north>52.4728</north>
+<east>0.56091</east>
+<south>52.45481</south>
+</bbox>
+<score>58.67726135253906</score>
+</geoname>
+</geonames>

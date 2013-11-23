@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Boyton</toponymName>
+<name>Boyton</name>
+<lat>50.71396</lat>
+<lng>-4.40657</lng>
+<geonameId>7294369</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE008</adminCode3>
+<adminName3>Boyton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.45166</west>
+<north>50.73866</north>
+<east>-4.36147</east>
+<south>50.68925</south>
+</bbox>
+<score>99.41456604003906</score>
+</geoname>
+<geoname>
+<toponymName>Boyton</toponymName>
+<name>Boyton</name>
+<lat>52.07002</lat>
+<lng>1.46343</lng>
+<geonameId>7296354</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UG</adminCode3>
+<adminName3>Suffolk Coastal District</adminName3>
+<adminCode4>42UG010</adminCode4>
+<adminName4>Boyton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.42409</west>
+<north>52.08146</north>
+<east>1.50276</east>
+<south>52.05858</south>
+</bbox>
+<score>71.67259979248047</score>
+</geoname>
+<geoname>
+<toponymName>Boyton</toponymName>
+<name>Boyton</name>
+<lat>50.7</lat>
+<lng>-4.38333</lng>
+<geonameId>2655028</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE008</adminCode3>
+<adminName3>Boyton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boyton%2C_Cornwall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.41174</west>
+<north>50.71799</north>
+<east>-4.35492</east>
+<south>50.68201</south>
+</bbox>
+<score>63.5596923828125</score>
+</geoname>
+<geoname>
+<toponymName>Boyton</toponymName>
+<name>Boyton</name>
+<lat>51.14612</lat>
+<lng>-2.10422</lng>
+<geonameId>7296256</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY025</adminCode3>
+<adminName3>Boyton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boyton%2C_Wiltshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.14575</west>
+<north>51.17092</north>
+<east>-2.06269</east>
+<south>51.12133</south>
+</bbox>
+<score>63.5596923828125</score>
+</geoname>
+<geoname>
+<toponymName>Boyton</toponymName>
+<name>Boyton</name>
+<lat>52.07151</lat>
+<lng>1.46822</lng>
+<geonameId>2655027</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UG</adminCode3>
+<adminName3>Suffolk Coastal District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.45359</west>
+<north>52.08051</north>
+<east>1.48285</east>
+<south>52.06252</south>
+</bbox>
+<score>57.029056549072266</score>
+</geoname>
+<geoname>
+<toponymName>Boyton</toponymName>
+<name>Boyton</name>
+<lat>51.155</lat>
+<lng>-2.07111</lng>
+<geonameId>3345425</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY025</adminCode3>
+<adminName3>Boyton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.0998</west>
+<north>51.17299</north>
+<east>-2.04242</east>
+<south>51.13701</south>
+</bbox>
+<score>35.836299896240234</score>
+</geoname>
+</geonames>

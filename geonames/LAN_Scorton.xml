@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Scorton</toponymName>
+<name>Scorton</name>
+<lat>53.93333</lat>
+<lng>-2.76667</lng>
+<geonameId>2638367</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Scorton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UQ</adminCode3>
+<adminName3>Wyre District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Scorton%2C_Lancashire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.78195</west>
+<north>53.94233</north>
+<east>-2.75139</east>
+<south>53.92434</south>
+</bbox>
+<score>95.91946411132812</score>
+</geoname>
+<geoname>
+<toponymName>Scorton</toponymName>
+<name>Scorton</name>
+<lat>54.39785</lat>
+<lng>-1.61276</lng>
+<geonameId>2638366</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UE</adminCode3>
+<adminName3>Richmondshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Scorton%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.62821</west>
+<north>54.40684</north>
+<east>-1.59731</east>
+<south>54.38886</south>
+</bbox>
+<score>80.08674621582031</score>
+</geoname>
+<geoname>
+<toponymName>Scorton</toponymName>
+<name>Scorton</name>
+<lat>54.40556</lat>
+<lng>-1.6086</lng>
+<geonameId>7298958</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UE</adminCode3>
+<adminName3>Richmondshire District</adminName3>
+<adminCode4>36UE083</adminCode4>
+<adminName4>Scorton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.64801</west>
+<north>54.42691</north>
+<east>-1.56919</east>
+<south>54.38421</south>
+</bbox>
+<score>75.85960388183594</score>
+</geoname>
+</geonames>

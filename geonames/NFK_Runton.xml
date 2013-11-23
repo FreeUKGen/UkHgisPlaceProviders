@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>West Runton</toponymName>
+<name>West Runton</name>
+<lat>52.9376</lat>
+<lng>1.24386</lng>
+<geonameId>2634276</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Runton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/West_Runton</alternateName>
+<alternateName lang="unlc">WUN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.22893</west>
+<north>52.94659</north>
+<east>1.25878</east>
+<south>52.9286</south>
+</bbox>
+<score>60.54374694824219</score>
+</geoname>
+<geoname>
+<toponymName>Runton</toponymName>
+<name>Runton</name>
+<lat>52.93229</lat>
+<lng>1.26015</lng>
+<geonameId>7291086</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF079</adminCode4>
+<adminName4>Runton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Runton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.23682</west>
+<north>52.94375</north>
+<east>1.28348</east>
+<south>52.92083</south>
+</bbox>
+<score>57.17582702636719</score>
+</geoname>
+</geonames>

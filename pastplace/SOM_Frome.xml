@@ -1,0 +1,146 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>146</id>
+<name>FROME</name>
+<container>SOMERSET</container>
+<lat>51.2306701278349</lat>
+<lon>-2.32082443124046</lon>
+<gazetteerText>Frome.-- market town and par. with ry. sta., Somerset, on river Frome (an affluent of the Avon), 11 miles S. of Bath by rail and 107 SW. of London -- par., 7092 ac., pop. 11,181; town, 724 ac., pop. 9377; P.O., T.O., 2 Banks, 2 newspapers. Market-days, Wednesday and Saturday. Frome was formerly called Frome Selwood, from its situation near the forest of Selwood. The river is crossed by a five-arch stone bridge. There are breweries, foundries, wire-card manufactories, and edge-tool works; but the chief industry is the mfr. of broadcloth and other fine woollens. F. returned 1 member to Parliament till 1885. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/SOM/Frome/index.html</link>
+<link>http://en.wikipedia.org/wiki/Frome</link>
+<link>http://www.workhouses.org.uk/Frome</link>
+<link>http://www.geonames.org/2649024</link>
+</links>
+<unit>
+   <id>10025394</id>
+   <status>UD</status>
+   <name>FROME</name>
+</unit>
+<unit>
+   <id>10025539</id>
+   <status>RD</status>
+   <name>FROME</name>
+</unit>
+<unit>
+   <id>10030924</id>
+   <status>Hundred</status>
+   <name>FROME</name>
+</unit>
+<unit>
+   <id>10110129</id>
+   <status>RSD</status>
+   <name>FROME</name>
+</unit>
+<unit>
+   <id>10112163</id>
+   <status>PLU/RegD</status>
+   <name>FROME</name>
+</unit>
+<unit>
+   <id>10187000</id>
+   <status>USD</status>
+   <name>FROME</name>
+</unit>
+<unit>
+   <id>10431980</id>
+   <status>CP/AP</status>
+   <name>FROME</name>
+</unit>
+<unit>
+   <id>10431992</id>
+   <status>EP</status>
+   <name>FROME</name>
+</unit>
+<unit>
+   <id>10432017</id>
+   <status>EP</status>
+   <name>FROME CHRIST CHURCH</name>
+</unit>
+<unit>
+   <id>10432054</id>
+   <status>EP</status>
+   <name>FROME HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10432110</id>
+   <status>EPA/EP</status>
+   <name>FROME SELWOOD</name>
+</unit>
+<unit>
+   <id>10549530</id>
+   <status></status>
+   <name>FROME</name>
+</unit>
+<unit>
+   <id>10573725</id>
+   <status></status>
+   <name>FROME</name>
+</unit>
+<unit>
+   <id>12744444</id>
+   <status>PBCon</status>
+   <name>FROME</name>
+</unit>
+<unit>
+   <id>12752490</id>
+   <status>PDivCon</status>
+   <name>SOMERSETSHIRE FROME</name>
+</unit>
+<unit>
+   <id>12781260</id>
+   <status></status>
+   <name>FROME</name>
+</unit>
+<unit>
+   <id>12833210</id>
+   <status></status>
+   <name>FROME</name>
+</unit>
+<nearByPlace>
+   <id>11634</id>
+   <name>MAIDEN BRADLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12110</id>
+   <name>STOURTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12390</id>
+   <name>BATCOMBE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12454</id>
+   <name>BECKINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12495</id>
+   <name>BRUTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12831</id>
+   <name>EVERCREECH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12874</id>
+   <name>SELWOOD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13099</id>
+   <name>MELLS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13121</id>
+   <name>NUNNEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13165</id>
+   <name>RODDEN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13527</id>
+   <name>BOURTON</name>
+</nearByPlace>
+</place>
+</results>

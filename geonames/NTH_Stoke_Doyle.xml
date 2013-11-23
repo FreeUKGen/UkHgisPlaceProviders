@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Stoke Doyle</toponymName>
+<name>Stoke Doyle</name>
+<lat>52.46496</lat>
+<lng>-0.49369</lng>
+<geonameId>2636859</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stoke_Doyle</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.50846</west>
+<north>52.47396</north>
+<east>-0.47893</east>
+<south>52.45597</south>
+</bbox>
+<score>82.8971176147461</score>
+</geoname>
+<geoname>
+<toponymName>Stoke Doyle</toponymName>
+<name>Stoke Doyle</name>
+<lat>52.46397</lat>
+<lng>-0.50348</lng>
+<geonameId>7295730</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<adminCode4>34UD042</adminCode4>
+<adminName4>Stoke Doyle</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.53658</west>
+<north>52.47562</north>
+<east>-0.47037</east>
+<south>52.45232</south>
+</bbox>
+<score>72.26283264160156</score>
+</geoname>
+</geonames>

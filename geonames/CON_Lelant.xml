@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Uny Lelant</toponymName>
+<name>Uny Lelant</name>
+<lat>50.18333</lat>
+<lng>-5.43333</lng>
+<geonameId>2635163</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Lelant,Uny Lelant</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lelant</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.44738</west>
+<north>50.19233</north>
+<east>-5.41929</east>
+<south>50.17434</south>
+</bbox>
+<score>69.72956848144531</score>
+</geoname>
+</geonames>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>East Barkwith</toponymName>
+<name>East Barkwith</name>
+<lat>53.31667</lat>
+<lng>-0.25</lng>
+<geonameId>2650504</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Barkwith,East Barkwith</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/East_Barkwith</alternateName>
+<alternateName lang="unlc">EBW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.26506</west>
+<north>53.32566</north>
+<east>-0.23494</east>
+<south>53.30767</south>
+</bbox>
+<score>80.05398559570312</score>
+</geoname>
+<geoname>
+<toponymName>East Barkwith</toponymName>
+<name>East Barkwith</name>
+<lat>53.30996</lat>
+<lng>-0.24216</lng>
+<geonameId>7296415</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC040</adminCode4>
+<adminName4>East Barkwith</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.27419</west>
+<north>53.33279</north>
+<east>-0.21014</east>
+<south>53.28713</south>
+</bbox>
+<score>72.8268814086914</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Barrow upon Soar</toponymName>
+<name>Barrow upon Soar</name>
+<lat>52.75178</lat>
+<lng>-1.14601</lng>
+<geonameId>2656239</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5196</population>
+<alternateNames>Barrow,Barrow upon Soar</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>Charnwood District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barrow_upon_Soar</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.16087</west>
+<north>52.76077</north>
+<east>-1.13115</east>
+<south>52.74278</south>
+</bbox>
+<score>103.47541046142578</score>
+</geoname>
+<geoname>
+<toponymName>Barrow upon Soar</toponymName>
+<name>Barrow upon Soar</name>
+<lat>52.75145</lat>
+<lng>-1.13863</lng>
+<geonameId>7295977</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>Charnwood District</adminName3>
+<adminCode4>31UC004</adminCode4>
+<adminName4>Barrow upon Soar</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.16832</west>
+<north>52.77143</north>
+<east>-1.10894</east>
+<south>52.73147</south>
+</bbox>
+<score>74.17375946044922</score>
+</geoname>
+</geonames>

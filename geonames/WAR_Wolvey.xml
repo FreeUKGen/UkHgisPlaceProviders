@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wolvey</toponymName>
+<name>Wolvey</name>
+<lat>52.48626</lat>
+<lng>-1.36935</lng>
+<geonameId>2633685</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UD</adminCode3>
+<adminName3>Rugby District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wolvey</alternateName>
+<alternateName lang="unlc">WVY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.38412</west>
+<north>52.49525</north>
+<east>-1.35458</east>
+<south>52.47726</south>
+</bbox>
+<score>91.7624740600586</score>
+</geoname>
+<geoname>
+<toponymName>Wolvey</toponymName>
+<name>Wolvey</name>
+<lat>52.49036</lat>
+<lng>-1.36593</lng>
+<geonameId>7297402</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UD</adminCode3>
+<adminName3>Rugby District</adminName3>
+<adminCode4>44UD040</adminCode4>
+<adminName4>Wolvey</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.41178</west>
+<north>52.51525</north>
+<east>-1.32007</east>
+<south>52.46547</south>
+</bbox>
+<score>81.82987213134766</score>
+</geoname>
+</geonames>

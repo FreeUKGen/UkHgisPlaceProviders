@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Girton</toponymName>
+<name>Girton</name>
+<lat>52.23333</lat>
+<lng>0.08333</lng>
+<geonameId>2648627</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3836</population>
+<alternateNames>Girton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Girton%2C_Cambridgeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.07061</west>
+<north>52.24112</north>
+<east>0.09605</east>
+<south>52.22554</south>
+</bbox>
+<score>103.79054260253906</score>
+</geoname>
+<geoname>
+<toponymName>Girton</toponymName>
+<name>Girton</name>
+<lat>52.23442</lat>
+<lng>0.07122</lng>
+<geonameId>7298344</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<adminCode4>12UG033</adminCode4>
+<adminName4>Girton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.04129</west>
+<north>52.25112</north>
+<east>0.10115</east>
+<south>52.21772</south>
+</bbox>
+<score>74.05555725097656</score>
+</geoname>
+<geoname>
+<toponymName>Girton</toponymName>
+<name>Girton</name>
+<lat>53.1968</lat>
+<lng>-0.76198</lng>
+<geonameId>7290919</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG030</adminCode4>
+<adminName4>Girton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Girton%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.78164</west>
+<north>53.21232</north>
+<east>-0.74232</east>
+<south>53.18127</south>
+</bbox>
+<score>50.95848083496094</score>
+</geoname>
+</geonames>

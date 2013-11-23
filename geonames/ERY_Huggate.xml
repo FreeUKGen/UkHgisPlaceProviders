@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Huggate</toponymName>
+<name>Huggate</name>
+<lat>53.99385</lat>
+<lng>-0.65541</lng>
+<geonameId>7298006</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB076</adminCode3>
+<adminName3>Huggate</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.72613</west>
+<north>54.01618</north>
+<east>-0.58468</east>
+<south>53.97153</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Huggate</toponymName>
+<name>Huggate</name>
+<lat>53.98554</lat>
+<lng>-0.65673</lng>
+<geonameId>2646456</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB076</adminCode3>
+<adminName3>Huggate</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Huggate</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.67203</west>
+<north>53.99454</north>
+<east>-0.64143</east>
+<south>53.97655</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+</geonames>

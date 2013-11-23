@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Elkesley</toponymName>
+<name>Elkesley</name>
+<lat>53.27282</lat>
+<lng>-0.97076</lng>
+<geonameId>2650113</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Elkesley,Elksley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Elkesley</alternateName>
+<alternateName lang="unlc">ELK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.9858</west>
+<north>53.28181</north>
+<east>-0.95571</east>
+<south>53.26382</south>
+</bbox>
+<score>89.66409301757812</score>
+</geoname>
+<geoname>
+<toponymName>Elkesley</toponymName>
+<name>Elkesley</name>
+<lat>53.27553</lat>
+<lng>-0.99194</lng>
+<geonameId>7300338</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<adminCode4>37UC020</adminCode4>
+<adminName4>Elkesley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.03597</west>
+<north>53.29023</north>
+<east>-0.94791</east>
+<south>53.26083</south>
+</bbox>
+<score>81.29920959472656</score>
+</geoname>
+</geonames>

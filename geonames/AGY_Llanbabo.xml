@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llanbabo</toponymName>
+<name>Llanbabo</name>
+<lat>53.35342</lat>
+<lng>-4.43786</lng>
+<geonameId>2644184</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanabo,Llanbabo</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA038</adminCode3>
+<adminName3>Tref Alaw</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanbabo</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.45293</west>
+<north>53.36241</north>
+<east>-4.42279</east>
+<south>53.34442</south>
+</bbox>
+<score>102.407470703125</score>
+</geoname>
+</geonames>

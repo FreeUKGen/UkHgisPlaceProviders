@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Littleover</toponymName>
+<name>Littleover</name>
+<lat>52.90565</lat>
+<lng>-1.50679</lng>
+<geonameId>2644273</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Littlecover,Littleover</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D2</adminCode2>
+<adminName2>Derby</adminName2>
+<adminCode3>17UK</adminCode3>
+<adminName3>GB.ENG.D2.17UK</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Littleover</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.5217</west>
+<north>52.91464</north>
+<east>-1.49187</east>
+<south>52.89666</south>
+</bbox>
+<score>104.37124633789062</score>
+</geoname>
+</geonames>

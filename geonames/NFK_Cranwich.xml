@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cranwich</toponymName>
+<name>Cranwich</name>
+<lat>52.5221</lat>
+<lng>0.62272</lng>
+<geonameId>2652074</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cranwich</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cranwich</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.60793</west>
+<north>52.5311</north>
+<east>0.6375</east>
+<south>52.51311</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+<geoname>
+<toponymName>Cranwich</toponymName>
+<name>Cranwich</name>
+<lat>52.51494</lat>
+<lng>0.61862</lng>
+<geonameId>7298983</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<adminCode4>33UB021</adminCode4>
+<adminName4>Cranwich</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.59687</west>
+<north>52.53474</north>
+<east>0.64036</east>
+<south>52.49514</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

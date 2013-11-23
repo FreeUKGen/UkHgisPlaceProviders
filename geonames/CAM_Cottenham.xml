@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cottenham</toponymName>
+<name>Cottenham</name>
+<lat>52.28743</lat>
+<lng>0.1254</lng>
+<geonameId>2652269</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5600</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cottenham</alternateName>
+<alternateName lang="unlc">KOT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.11069</west>
+<north>52.29642</north>
+<east>0.1401</east>
+<south>52.27844</south>
+</bbox>
+<score>100.26214599609375</score>
+</geoname>
+<geoname>
+<toponymName>Cottenham</toponymName>
+<name>Cottenham</name>
+<lat>52.29735</lat>
+<lng>0.14076</lng>
+<geonameId>7298830</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<adminCode4>12UG020</adminCode4>
+<adminName4>Cottenham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.08153</west>
+<north>52.32929</north>
+<east>0.19998</east>
+<south>52.26541</south>
+</bbox>
+<score>81.00350952148438</score>
+</geoname>
+</geonames>

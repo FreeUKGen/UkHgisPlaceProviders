@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Boxford</toponymName>
+<name>Boxford</name>
+<lat>51.44879</lat>
+<lng>-1.38204</lng>
+<geonameId>7297443</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P4</adminCode2>
+<adminName2>West Berkshire</adminName2>
+<adminCode3>00MB008</adminCode3>
+<adminName3>Boxford</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.41</west>
+<north>51.47637</north>
+<east>-1.35407</east>
+<south>51.4212</south>
+</bbox>
+<score>106.48406982421875</score>
+</geoname>
+<geoname>
+<toponymName>Boxford</toponymName>
+<name>Boxford</name>
+<lat>51.44162</lat>
+<lng>-1.38406</lng>
+<geonameId>2655045</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P4</adminCode2>
+<adminName2>West Berkshire</adminName2>
+<adminCode3>00MB008</adminCode3>
+<adminName3>Boxford</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boxford%2C_Berkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.39849</west>
+<north>51.45062</north>
+<east>-1.36963</east>
+<south>51.43263</south>
+</bbox>
+<score>81.39202880859375</score>
+</geoname>
+<geoname>
+<toponymName>Boxford</toponymName>
+<name>Boxford</name>
+<lat>52.0286</lat>
+<lng>0.85934</lng>
+<geonameId>2655044</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UB</adminCode3>
+<adminName3>Babergh District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.84472</west>
+<north>52.03759</north>
+<east>0.87396</east>
+<south>52.01961</south>
+</bbox>
+<score>61.093814849853516</score>
+</geoname>
+<geoname>
+<toponymName>Boxford</toponymName>
+<name>Boxford</name>
+<lat>52.02298</lat>
+<lng>0.85761</lng>
+<geonameId>7301319</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UB</adminCode3>
+<adminName3>Babergh District</adminName3>
+<adminCode4>42UB009</adminCode4>
+<adminName4>Boxford</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boxford%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.83364</west>
+<north>52.03543</north>
+<east>0.88158</east>
+<south>52.01054</south>
+</bbox>
+<score>53.192237854003906</score>
+</geoname>
+</geonames>

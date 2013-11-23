@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Gwinear</toponymName>
+<name>Gwinear</name>
+<lat>50.18749</lat>
+<lng>-5.36656</lng>
+<geonameId>2647728</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE046</adminCode3>
+<adminName3>Gwinear-Gwithian</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.38061</west>
+<north>50.19648</north>
+<east>-5.35251</east>
+<south>50.17849</south>
+</bbox>
+<score>64.55471801757812</score>
+</geoname>
+</geonames>

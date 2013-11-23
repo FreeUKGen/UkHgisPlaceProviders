@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Dunstable</toponymName>
+<name>Dunstable</name>
+<lat>51.886</lat>
+<lng>-0.52099</lng>
+<geonameId>2650657</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>51973</population>
+<alternateNames>Danstabl,Dunstable,danstybl,deng si te bu er,Данстабл,دانستیبل,鄧斯特布爾</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC018</adminCode3>
+<adminName3>Dunstable</adminName3>
+<alternateName lang="de">Dunstable</alternateName>
+<alternateName lang="en">Dunstable</alternateName>
+<alternateName lang="es">Dunstable</alternateName>
+<alternateName lang="fa">دانستیبل</alternateName>
+<alternateName lang="fi">Dunstable</alternateName>
+<alternateName lang="fr">Dunstable</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dunstable</alternateName>
+<alternateName lang="nl">Dunstable</alternateName>
+<alternateName lang="no">Dunstable</alternateName>
+<alternateName lang="sr">Данстабл</alternateName>
+<alternateName lang="sv">Dunstable</alternateName>
+<alternateName lang="zh">鄧斯特布爾</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.5688</west>
+<north>51.91549</north>
+<east>-0.47319</east>
+<south>51.85651</south>
+</bbox>
+<score>136.70794677734375</score>
+</geoname>
+<geoname>
+<toponymName>Dunstable</toponymName>
+<name>Dunstable</name>
+<lat>51.88465</lat>
+<lng>-0.5173</lng>
+<geonameId>7296192</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC018</adminCode3>
+<adminName3>Dunstable</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.55063</west>
+<north>51.89972</north>
+<east>-0.48397</east>
+<south>51.86958</south>
+</bbox>
+<score>105.79008483886719</score>
+</geoname>
+</geonames>

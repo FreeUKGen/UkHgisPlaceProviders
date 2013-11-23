@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Shirland</toponymName>
+<name>Shirland</name>
+<lat>53.12155</lat>
+<lng>-1.40464</lng>
+<geonameId>2637936</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3447</population>
+<alternateNames>Shirland</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UJ</adminCode3>
+<adminName3>North East Derbyshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shirland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.41524</west>
+<north>53.12791</north>
+<east>-1.39404</east>
+<south>53.11519</south>
+</bbox>
+<score>95.20692443847656</score>
+</geoname>
+</geonames>

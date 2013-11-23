@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Long Bennington</toponymName>
+<name>Long Bennington</name>
+<lat>52.99314</lat>
+<lng>-0.75803</lng>
+<geonameId>2643720</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1884</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Long_Bennington</alternateName>
+<alternateName lang="unlc">LNI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.7655</west>
+<north>52.99764</north>
+<east>-0.75056</east>
+<south>52.98864</south>
+</bbox>
+<score>93.52322387695312</score>
+</geoname>
+<geoname>
+<toponymName>Long Bennington</toponymName>
+<name>Long Bennington</name>
+<lat>52.98973</lat>
+<lng>-0.76999</lng>
+<geonameId>7296525</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<adminCode4>32UG054</adminCode4>
+<adminName4>Long Bennington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.80432</west>
+<north>53.0285</north>
+<east>-0.73566</east>
+<south>52.95097</south>
+</bbox>
+<score>69.17469024658203</score>
+</geoname>
+</geonames>

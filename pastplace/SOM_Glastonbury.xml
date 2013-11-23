@@ -1,0 +1,81 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>151</id>
+<name>GLASTONBURY</name>
+<container>SOMERSET</container>
+<lat>51.1477975876473</lat>
+<lon>-2.6996614512163</lon>
+<gazetteerText>Glastonbury, mun. bor., market town, and par., mid. Somerset, on river Brue, 5 miles S. of Wells by rail and 132 miles SW. of London -- par., 7083 ac., pop. 3828; mun. bor., pop. 3719; P.O., T.O., 2 Banks, 2 newspapers. Market-day, Saturday. The town is situated upon a peninsula, which anciently was an island. There is very little trade. Glastonbury Abbey, of which there are few vestiges, was one of the oldest and most magnificent ecclesiastical institutions in England. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/SOM/Glastonbury/index.html</link>
+<link>http://en.wikipedia.org/wiki/Glastonbury</link>
+<link>http://www.geonames.org/2648559</link>
+</links>
+<unit>
+   <id>10003830</id>
+   <status>USD</status>
+   <name>GLASTONBURY</name>
+</unit>
+<unit>
+   <id>10025503</id>
+   <status>MB</status>
+   <name>GLASTONBURY</name>
+</unit>
+<unit>
+   <id>10155319</id>
+   <status>Borough</status>
+   <name>GLASTONBURY</name>
+</unit>
+<unit>
+   <id>10432121</id>
+   <status>CP/AP</status>
+   <name>GLASTONBURY</name>
+</unit>
+<unit>
+   <id>10432182</id>
+   <status>EP</status>
+   <name>GLASTONBURY</name>
+</unit>
+<unit>
+   <id>10432194</id>
+   <status>EP</status>
+   <name>GLASTONBURY ST BENEDICT</name>
+</unit>
+<unit>
+   <id>10549577</id>
+   <status></status>
+   <name>GLASTONBURY</name>
+</unit>
+<unit>
+   <id>10573889</id>
+   <status></status>
+   <name>GLASTONBURY JURISDICTION</name>
+</unit>
+<unit>
+   <id>12758571</id>
+   <status>PBCon</status>
+   <name>GLASTONBURY</name>
+</unit>
+<nearByPlace>
+   <id>12363</id>
+   <name>BALTONSBOROUGH</name>
+</nearByPlace>
+</place>
+<place>
+<id>25706</id>
+<name>GLASTON TWELVE HIDES</name>
+<container>SOMERSET</container>
+<lat>51.1697529954991</lat>
+<lon>-2.70716077970061</lon>
+<gazetteerText>GLASTON-TWELVE-HIDES, a hundred in Somerset; in the heart of the county, between the Polden and the Mendip hills. It contains Baltonsborough parish, and five other parishes. Acres, 16, 555. Pop., 3, 834. Houses, 815. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Glaston_Twelve_Hides_(hundred)</link>
+</links>
+<unit>
+   <id>10030936</id>
+   <status>Hundred</status>
+   <name>GLASTONBURY TWELVE HIDES</name>
+</unit>
+</place>
+</results>

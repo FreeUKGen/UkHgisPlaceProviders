@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Bacton</toponymName>
+<name>Bacton</name>
+<lat>51.99208</lat>
+<lng>-2.91853</lng>
+<geonameId>7291411</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA012</adminCode3>
+<adminName3>Bacton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.93775</west>
+<north>52.00831</north>
+<east>-2.89931</east>
+<south>51.97585</south>
+</bbox>
+<score>100.04437255859375</score>
+</geoname>
+<geoname>
+<toponymName>Bacton</toponymName>
+<name>Bacton</name>
+<lat>52.26667</lat>
+<lng>1.01667</lng>
+<geonameId>2656668</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bacton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bacton%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.00197</west>
+<north>52.27566</north>
+<east>1.03137</east>
+<south>52.25767</south>
+</bbox>
+<score>90.08869171142578</score>
+</geoname>
+<geoname>
+<toponymName>Bacton</toponymName>
+<name>Bacton</name>
+<lat>52.85084</lat>
+<lng>1.47706</lng>
+<geonameId>2656667</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bacton%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.46216</west>
+<north>52.85983</north>
+<east>1.49196</east>
+<south>52.84184</south>
+</bbox>
+<score>75.29615783691406</score>
+</geoname>
+<geoname>
+<toponymName>Bacton</toponymName>
+<name>Bacton</name>
+<lat>52.25707</lat>
+<lng>0.99313</lng>
+<geonameId>7297287</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<adminCode4>42UE006</adminCode4>
+<adminName4>Bacton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.96157</west>
+<north>52.27607</north>
+<east>1.02469</east>
+<south>52.23806</south>
+</bbox>
+<score>72.13719177246094</score>
+</geoname>
+<geoname>
+<toponymName>Bacton</toponymName>
+<name>Bacton</name>
+<lat>52.84126</lat>
+<lng>1.45423</lng>
+<geonameId>7299439</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF007</adminCode4>
+<adminName4>Bacton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.41044</west>
+<north>52.86349</north>
+<east>1.49801</east>
+<south>52.81903</south>
+</bbox>
+<score>72.13719177246094</score>
+</geoname>
+<geoname>
+<toponymName>Bacton</toponymName>
+<name>Bacton</name>
+<lat>51.98333</lat>
+<lng>-2.91667</lng>
+<geonameId>2656669</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA012</adminCode3>
+<adminName3>Bacton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bacton%2C_Herefordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.94588</west>
+<north>52.00132</north>
+<east>-2.88745</east>
+<south>51.96535</south>
+</bbox>
+<score>63.84378433227539</score>
+</geoname>
+</geonames>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Seavington st. Michael</toponymName>
+<name>Seavington st. Michael</name>
+<lat>50.93377</lat>
+<lng>-2.84074</lng>
+<geonameId>6691805</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>125</population>
+<alternateNames>Seavington,Seavington saint Michael,Seavington st Michael,Seavington st. Michael</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<alternateName lang="en">Seavington st. Michael</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Seavington_St_Michael</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.84217</west>
+<north>50.93467</north>
+<east>-2.83931</east>
+<south>50.93287</south>
+</bbox>
+<score>95.96709442138672</score>
+</geoname>
+<geoname>
+<toponymName>Seavington St. Michael</toponymName>
+<name>Seavington St. Michael</name>
+<lat>50.934</lat>
+<lng>-2.83475</lng>
+<geonameId>7297216</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD094</adminCode4>
+<adminName4>Seavington St. Michael</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.84448</west>
+<north>50.93976</north>
+<east>-2.82503</east>
+<south>50.92824</south>
+</bbox>
+<score>71.34071350097656</score>
+</geoname>
+</geonames>

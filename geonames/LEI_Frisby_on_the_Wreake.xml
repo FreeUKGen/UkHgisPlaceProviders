@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Frisby on the Wreake</toponymName>
+<name>Frisby on the Wreake</name>
+<lat>52.74309</lat>
+<lng>-0.96737</lng>
+<geonameId>7293881</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UG</adminCode3>
+<adminName3>Melton District</adminName3>
+<adminCode4>31UG026</adminCode4>
+<adminName4>Frisby on the Wreake</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Frisby_on_the_Wreake</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.9878</west>
+<north>52.76073</north>
+<east>-0.94693</east>
+<south>52.72545</south>
+</bbox>
+<score>53.02782440185547</score>
+</geoname>
+</geonames>

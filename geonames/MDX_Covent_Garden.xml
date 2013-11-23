@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Covent Garden</toponymName>
+<name>Covent Garden</name>
+<lat>51.51424</lat>
+<lng>-0.12471</lng>
+<geonameId>2652222</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Barrio de Covent Garden,Covent Garden,Kovent-Garden,Theatre District,kawnt gardn,ke wen te hua yuan,kobeonteu gadeun,kovanta gardana,qwbnt grdn,Ковент-Гарден,קובנט גרדן,کاونت گاردن,کوونٹ گارڈن,कॉवंट गार्डन,კოვენტ-გარდენი,コヴェント・ガーデン,科文特花园,코번트 가든</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>C4</adminCode3>
+<adminName3>Camden</adminName3>
+<alternateName lang="cs">Covent Garden</alternateName>
+<alternateName lang="da">Covent Garden</alternateName>
+<alternateName lang="de">Covent Garden</alternateName>
+<alternateName lang="en">Covent Garden</alternateName>
+<alternateName lang="es">Barrio de Covent Garden</alternateName>
+<alternateName lang="fa">کاونت گاردن</alternateName>
+<alternateName lang="fr">Covent Garden</alternateName>
+<alternateName lang="he">קובנט גרדן</alternateName>
+<alternateName lang="hi">कॉवंट गार्डन</alternateName>
+<alternateName lang="ja">コヴェント・ガーデン</alternateName>
+<alternateName lang="ka">კოვენტ-გარდენი</alternateName>
+<alternateName lang="ko">코번트 가든</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Covent_Garden</alternateName>
+<alternateName lang="no">Covent Garden</alternateName>
+<alternateName lang="pl">Covent Garden</alternateName>
+<alternateName lang="ru">Ковент-Гарден</alternateName>
+<alternateName lang="sk">Covent Garden</alternateName>
+<alternateName lang="sv">Covent Garden</alternateName>
+<alternateName lang="ur">کوونٹ گارڈن</alternateName>
+<alternateName lang="zh">科文特花园</alternateName>
+<alternateName lang="zh-CN">科文特花园</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.13049</west>
+<north>51.51784</north>
+<east>-0.11893</east>
+<south>51.51065</south>
+</bbox>
+<score>87.27664184570312</score>
+</geoname>
+<geoname>
+<toponymName>Royal Opera House</toponymName>
+<name>Royal Opera House</name>
+<lat>51.51274</lat>
+<lng>-0.12209</lng>
+<geonameId>6619896</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>OPRA</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>opera house</fcodeName>
+<population/>
+<alternateNames>Covent Garden,Covent Garden Theatre,Karaleuski tehatr Kovent-Gardehn,Korolevskij teatr Kovent-Garden,Korolivs'kij teatr Kovent-Garden,dar alawbra almlkyt,loyeol opela hauseu,Каралеўскі тэатр Ковент-Гардэн,Королевский театр Ковент-Гарден,Королівський театр Ковент-Гарден,בית האופרה המלכותית,دار الأوبرا الملكية,სამეფო ოპერის თეატრი,ロイヤル・オペラ・ハウス,로열 오페라 하우스</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>P5</adminCode3>
+<adminName3>City of Westminster</adminName3>
+<alternateName lang="ar">دار الأوبرا الملكية</alternateName>
+<alternateName lang="be">Каралеўскі тэатр Ковент-Гардэн</alternateName>
+<alternateName lang="he">בית האופרה המלכותית</alternateName>
+<alternateName lang="ja">ロイヤル・オペラ・ハウス</alternateName>
+<alternateName lang="ka">სამეფო ოპერის თეატრი</alternateName>
+<alternateName lang="ko">로열 오페라 하우스</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Royal_Opera_House</alternateName>
+<alternateName lang="pl">Covent Garden Theatre</alternateName>
+<alternateName lang="ru">Королевский театр Ковент-Гарден</alternateName>
+<alternateName lang="sl">Covent Garden</alternateName>
+<alternateName lang="uk">Королівський театр Ковент-Гарден</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>26.169021606445312</score>
+</geoname>
+</geonames>

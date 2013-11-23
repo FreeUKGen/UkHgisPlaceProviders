@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Fishguard</toponymName>
+<name>Fishguard</name>
+<lat>51.99376</lat>
+<lng>-4.97631</lng>
+<geonameId>2649372</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3228</population>
+<alternateNames>Abergwaun,Fishgard,Fishguard,Фишгард</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<alternateName lang="bg">Фишгард</alternateName>
+<alternateName lang="cy">Abergwaun</alternateName>
+<alternateName lang="en">Fishguard</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Fishguard</alternateName>
+<alternateName lang="unlc">FIS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.98664</west>
+<north>52.00012</north>
+<east>-4.96598</east>
+<south>51.9874</south>
+</bbox>
+<score>94.81451416015625</score>
+</geoname>
+</geonames>

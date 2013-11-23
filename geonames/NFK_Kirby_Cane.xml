@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Kirby Cane</toponymName>
+<name>Kirby Cane</name>
+<lat>52.49041</lat>
+<lng>1.4867</lng>
+<geonameId>7299509</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH062</adminCode4>
+<adminName4>Kirby Cane</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirby_Cane</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.46383</west>
+<north>52.50531</north>
+<east>1.50957</east>
+<south>52.4755</south>
+</bbox>
+<score>49.917640686035156</score>
+</geoname>
+</geonames>

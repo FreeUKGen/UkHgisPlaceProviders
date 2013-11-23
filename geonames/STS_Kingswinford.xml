@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Kingswinford</toponymName>
+<name>Kingswinford</name>
+<lat>52.49755</lat>
+<lng>-2.16889</lng>
+<geonameId>2645420</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>20000</population>
+<alternateNames>Kingswinford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D7</adminCode2>
+<adminName2>Dudley</adminName2>
+<adminCode3>41UF</adminCode3>
+<adminName3>GB.ENG.D7.41UF</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kingswinford</alternateName>
+<alternateName lang="unlc">KGW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.19845</west>
+<north>52.51554</north>
+<east>-2.13934</east>
+<south>52.47956</south>
+</bbox>
+<score>134.26583862304688</score>
+</geoname>
+</geonames>

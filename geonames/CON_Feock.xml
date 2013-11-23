@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Feock</toponymName>
+<name>Feock</name>
+<lat>50.21107</lat>
+<lng>-5.06787</lng>
+<geonameId>7294620</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE036</adminCode3>
+<adminName3>Feock</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.10863</west>
+<north>50.22979</north>
+<east>-5.02711</east>
+<south>50.19236</south>
+</bbox>
+<score>114.15132141113281</score>
+</geoname>
+<geoname>
+<toponymName>Feock</toponymName>
+<name>Feock</name>
+<lat>50.20582</lat>
+<lng>-5.05035</lng>
+<geonameId>2649537</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Feock,Saint Feoch,Saint Feock</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE036</adminCode3>
+<adminName3>Feock</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Feock%2C_Cornwall</alternateName>
+<alternateName lang="unlc">FCK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.06441</west>
+<north>50.21481</north>
+<east>-5.0363</east>
+<south>50.19683</south>
+</bbox>
+<score>79.0178451538086</score>
+</geoname>
+</geonames>

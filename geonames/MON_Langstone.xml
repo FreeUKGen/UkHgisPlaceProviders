@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Langstone</toponymName>
+<name>Langstone</name>
+<lat>51.61531</lat>
+<lng>-2.88596</lng>
+<geonameId>7294311</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y6</adminCode2>
+<adminName2>City of Newport</adminName2>
+<adminCode3>00PR011</adminCode3>
+<adminName3>Langstone</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.92587</west>
+<north>51.64151</north>
+<east>-2.84605</east>
+<south>51.58912</south>
+</bbox>
+<score>106.73231506347656</score>
+</geoname>
+<geoname>
+<toponymName>Langstone</toponymName>
+<name>Langstone</name>
+<lat>50.83966</lat>
+<lng>-0.98276</lng>
+<geonameId>2644910</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Langstone</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UH</adminCode3>
+<adminName3>Havant District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Langstone</alternateName>
+<alternateName lang="unlc">LSH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.99701</west>
+<north>50.84865</north>
+<east>-0.96852</east>
+<south>50.83067</south>
+</bbox>
+<score>87.97702026367188</score>
+</geoname>
+<geoname>
+<toponymName>Langstone</toponymName>
+<name>Langstone</name>
+<lat>51.60554</lat>
+<lng>-2.91206</lng>
+<geonameId>6620345</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y6</adminCode2>
+<adminName2>City of Newport</adminName2>
+<adminCode3>00PR011</adminCode3>
+<adminName3>Langstone</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.94104</west>
+<north>51.62353</north>
+<east>-2.88309</east>
+<south>51.58756</south>
+</bbox>
+<score>38.46429443359375</score>
+</geoname>
+</geonames>

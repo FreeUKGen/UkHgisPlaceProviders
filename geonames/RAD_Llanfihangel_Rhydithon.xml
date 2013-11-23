@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanfihangel Rhydithon</toponymName>
+<name>Llanfihangel Rhydithon</name>
+<lat>52.30149</lat>
+<lng>-3.23393</lng>
+<geonameId>7292191</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN057</adminCode3>
+<adminName3>Llanfihangel Rhydithon</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.28095</west>
+<north>52.33387</north>
+<east>-3.18691</east>
+<south>52.26912</south>
+</bbox>
+<score>98.89132690429688</score>
+</geoname>
+<geoname>
+<toponymName>Llanfihangel Rhydithon</toponymName>
+<name>Llanfihangel Rhydithon</name>
+<lat>52.29175</lat>
+<lng>-3.24666</lng>
+<geonameId>2644063</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN057</adminCode3>
+<adminName3>Llanfihangel Rhydithon</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.26136</west>
+<north>52.30075</north>
+<east>-3.23195</east>
+<south>52.28276</south>
+</bbox>
+<score>59.154327392578125</score>
+</geoname>
+</geonames>

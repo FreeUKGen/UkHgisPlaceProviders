@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Wraxall</toponymName>
+<name>Wraxall</name>
+<lat>51.44417</lat>
+<lng>-2.73139</lng>
+<geonameId>2633498</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Wraxall</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wraxall%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.74582</west>
+<north>51.45316</north>
+<east>-2.71696</east>
+<south>51.43517</south>
+</bbox>
+<score>96.37254333496094</score>
+</geoname>
+<geoname>
+<toponymName>Wraxall</toponymName>
+<name>Wraxall</name>
+<lat>50.80459</lat>
+<lng>-2.61191</lng>
+<geonameId>7295032</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH136</adminCode4>
+<adminName4>Wraxall</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wraxall%2C_Dorset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.63662</west>
+<north>50.81546</north>
+<east>-2.58719</east>
+<south>50.79372</south>
+</bbox>
+<score>52.521484375</score>
+</geoname>
+<geoname>
+<toponymName>Wraxall</toponymName>
+<name>Wraxall</name>
+<lat>51.12528</lat>
+<lng>-2.57</lng>
+<geonameId>3345410</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<alternateName lang="unlc">WXA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.58433</west>
+<north>51.13427</north>
+<east>-2.55567</east>
+<south>51.11628</south>
+</bbox>
+<score>46.85965347290039</score>
+</geoname>
+</geonames>

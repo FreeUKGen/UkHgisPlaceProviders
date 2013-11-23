@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Stoke Ferry</toponymName>
+<name>Stoke Ferry</name>
+<lat>52.57051</lat>
+<lng>0.5132</lng>
+<geonameId>2636857</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stoke_Ferry</alternateName>
+<alternateName lang="unlc">SFE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.4984</west>
+<north>52.5795</north>
+<east>0.528</east>
+<south>52.56151</south>
+</bbox>
+<score>72.31710815429688</score>
+</geoname>
+<geoname>
+<toponymName>Stoke Ferry</toponymName>
+<name>Stoke Ferry</name>
+<lat>52.56606</lat>
+<lng>0.49923</lng>
+<geonameId>7297605</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<adminCode4>33UE073</adminCode4>
+<adminName4>Stoke Ferry</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.46327</west>
+<north>52.58606</north>
+<east>0.53519</east>
+<south>52.54606</south>
+</bbox>
+<score>65.25991821289062</score>
+</geoname>
+</geonames>

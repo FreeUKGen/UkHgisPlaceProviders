@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Tenby</toponymName>
+<name>Tenby</name>
+<lat>51.67043</lat>
+<lng>-4.70867</lng>
+<geonameId>7294031</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS072</adminCode3>
+<adminName3>Tenby</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.72679</west>
+<north>51.69773</north>
+<east>-4.67435</east>
+<south>51.62979</south>
+</bbox>
+<score>108.4282455444336</score>
+</geoname>
+<geoname>
+<toponymName>Tenby</toponymName>
+<name>Tenby</name>
+<lat>51.67268</lat>
+<lng>-4.70263</lng>
+<geonameId>2636104</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4989</population>
+<alternateNames>Dinbych-y-Pysgod,Dinbych-y-pysgod,Tenbi,Tenby,Тенби</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS072</adminCode3>
+<adminName3>Tenby</adminName3>
+<alternateName lang="bg">Тенби</alternateName>
+<alternateName lang="br">Dinbych-y-Pysgod</alternateName>
+<alternateName lang="cy">Dinbych-y-pysgod</alternateName>
+<alternateName lang="en">Tenby</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tenby</alternateName>
+<alternateName lang="ru">Тенби</alternateName>
+<alternateName lang="unlc">TEN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.71714</west>
+<north>51.68167</north>
+<east>-4.68812</east>
+<south>51.66368</south>
+</bbox>
+<score>72.45840454101562</score>
+</geoname>
+</geonames>

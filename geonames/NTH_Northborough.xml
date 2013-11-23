@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Northborough</toponymName>
+<name>Northborough</name>
+<lat>52.65773</lat>
+<lng>-0.28756</lng>
+<geonameId>7294385</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K3</adminCode2>
+<adminName2>Peterborough</adminName2>
+<adminCode3>00JA015</adminCode3>
+<adminName3>Northborough</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.31678</west>
+<north>52.66683</north>
+<east>-0.25834</east>
+<south>52.64863</south>
+</bbox>
+<score>108.04653930664062</score>
+</geoname>
+<geoname>
+<toponymName>Northborough</toponymName>
+<name>Northborough</name>
+<lat>52.65868</lat>
+<lng>-0.29818</lng>
+<geonameId>2641416</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Northborough</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K3</adminCode2>
+<adminName2>Peterborough</adminName2>
+<adminCode3>00JA015</adminCode3>
+<adminName3>Northborough</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Northborough%2C_Cambridgeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.32784</west>
+<north>52.67667</north>
+<east>-0.26851</east>
+<south>52.6407</south>
+</bbox>
+<score>79.45259857177734</score>
+</geoname>
+</geonames>

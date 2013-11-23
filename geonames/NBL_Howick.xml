@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Howick</toponymName>
+<name>Howick</name>
+<lat>55.43333</lat>
+<lng>-1.58333</lng>
+<geonameId>2646490</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Howick</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Howick%2C_Northumberland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.59919</west>
+<north>55.44233</north>
+<east>-1.56748</east>
+<south>55.42434</south>
+</bbox>
+<score>91.82461547851562</score>
+</geoname>
+</geonames>

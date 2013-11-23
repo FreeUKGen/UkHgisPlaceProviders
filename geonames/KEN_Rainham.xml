@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Rainham</toponymName>
+<name>Rainham</name>
+<lat>51.36323</lat>
+<lng>0.60893</lng>
+<geonameId>2639691</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6394</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rainham%2C_Kent</alternateName>
+<alternateName lang="unlc">RNA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.59282</west>
+<north>51.37329</north>
+<east>0.62503</east>
+<south>51.35318</south>
+</bbox>
+<score>88.53907775878906</score>
+</geoname>
+<geoname>
+<toponymName>Rainham</toponymName>
+<name>Rainham</name>
+<lat>51.51686</lat>
+<lng>0.19432</lng>
+<geonameId>2639690</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>F6</adminCode3>
+<adminName3>Havering</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rainham%2C_London</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.12969</west>
+<north>51.50463</north>
+<east>0.17304</east>
+<south>51.47765</south>
+</bbox>
+<score>79.7617416381836</score>
+</geoname>
+<geoname>
+<toponymName>Rainham</toponymName>
+<name>Rainham</name>
+<lat>51.5185</lat>
+<lng>0.1811</lng>
+<geonameId>7116552</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>SWT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>sewage treatment plant</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>F6</adminCode3>
+<adminName3>Havering</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>19.033287048339844</score>
+</geoname>
+</geonames>

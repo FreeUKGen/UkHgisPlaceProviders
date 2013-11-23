@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Luxborough</toponymName>
+<name>Luxborough</name>
+<lat>51.13139</lat>
+<lng>-3.46917</lng>
+<geonameId>2643334</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Luxborough</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UF</adminCode3>
+<adminName3>West Somerset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Luxborough</alternateName>
+<alternateName lang="unlc">LXG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.4835</west>
+<north>51.14038</north>
+<east>-3.45483</east>
+<south>51.1224</south>
+</bbox>
+<score>89.25465393066406</score>
+</geoname>
+<geoname>
+<toponymName>Luxborough</toponymName>
+<name>Luxborough</name>
+<lat>51.13072</lat>
+<lng>-3.46246</lng>
+<geonameId>7297231</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UF</adminCode3>
+<adminName3>West Somerset District</adminName3>
+<adminCode4>40UF020</adminCode4>
+<adminName4>Luxborough</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.49833</west>
+<north>51.15243</north>
+<east>-3.4266</east>
+<south>51.10902</south>
+</bbox>
+<score>78.46627807617188</score>
+</geoname>
+</geonames>

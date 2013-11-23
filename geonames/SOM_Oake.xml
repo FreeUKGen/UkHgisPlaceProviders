@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Oake</toponymName>
+<name>Oake</name>
+<lat>51.02345</lat>
+<lng>-3.2074</lng>
+<geonameId>2641131</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oake</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.2217</west>
+<north>51.03245</north>
+<east>-3.1931</east>
+<south>51.01446</south>
+</bbox>
+<score>91.60906219482422</score>
+</geoname>
+<geoname>
+<toponymName>Oake</toponymName>
+<name>Oake</name>
+<lat>51.02219</lat>
+<lng>-3.19695</lng>
+<geonameId>7301245</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<adminCode4>40UE029</adminCode4>
+<adminName4>Oake</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.22851</west>
+<north>51.03962</north>
+<east>-3.16539</east>
+<south>51.00476</south>
+</bbox>
+<score>81.271484375</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Merthyr Mawr</toponymName>
+<name>Merthyr Mawr</name>
+<lat>51.49077</lat>
+<lng>-3.63016</lng>
+<geonameId>7291606</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X3</adminCode2>
+<adminName2>County Borough of Bridgend</adminName2>
+<adminCode3>00PB013</adminCode3>
+<adminName3>Merthyr Mawr</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Merthyr_Mawr</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.67877</west>
+<north>51.51289</north>
+<east>-3.58155</east>
+<south>51.46865</south>
+</bbox>
+<score>72.31712341308594</score>
+</geoname>
+<geoname>
+<toponymName>Merthyr Mawr</toponymName>
+<name>Merthyr Mawr</name>
+<lat>51.48611</lat>
+<lng>-3.60861</lng>
+<geonameId>3345291</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Merthyr Mawr</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X3</adminCode2>
+<adminName2>County Borough of Bridgend</adminName2>
+<adminCode3>00PB013</adminCode3>
+<adminName3>Merthyr Mawr</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.63751</west>
+<north>51.5041</north>
+<east>-3.57971</east>
+<south>51.46812</south>
+</bbox>
+<score>38.48835372924805</score>
+</geoname>
+</geonames>

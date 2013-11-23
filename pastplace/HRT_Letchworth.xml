@@ -1,0 +1,81 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1205</id>
+<name>LETCHWORTH</name>
+<container>HERTFORDSHIRE</container>
+<lat>51.9784589657822</lat>
+<lon>-0.217738316171861</lon>
+<gazetteerText>LETCHWORTH, a parish in Hitchin district, Herts; adjacent to the Hitchin and Royston railway, and near Icknield-street, 2 miles ENE of Hitchin r. station. Post town, Hitchin. Acres, 1,027. Real property, &#163;1,376. Pop., 68. Houses, 13. All the property, with Letchworth House, belongs to the Rev. Charles-Alington. An ancient camp, 7 acres in area, with steep sides, and with a rampart 5 feet high, is on the Wilbury hills; and a tumulus is &#189; a mile S of it. The living is a rectory in the diocese of Rochester. Value, &#163;240.* Patron, the Rev. J. Alington. The church is ancient and good. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2644597</link>
+<link>http://www.pjoiner.demon.co.uk/genuki/HRT/Letchworth/index.html</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=43589</link>
+</links>
+<unit>
+   <id>10042100</id>
+   <status>UD</status>
+   <name>LETCHWORTH</name>
+</unit>
+<unit>
+   <id>10148480</id>
+   <status>EP</status>
+   <name>LETCHWORTH</name>
+</unit>
+<unit>
+   <id>10191932</id>
+   <status>CP/AP</status>
+   <name>LETCHWORTH</name>
+</unit>
+<unit>
+   <id>10210999</id>
+   <status>EP</status>
+   <name>LETCHWORTH ST PAUL</name>
+</unit>
+<unit>
+   <id>12830695</id>
+   <status></status>
+   <name>LETCHWORTH</name>
+</unit>
+<nearByPlace>
+   <id>30</id>
+   <name>BALDOCK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>34</id>
+   <name>ROYSTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>845</id>
+   <name>BIGGLESWADE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>999</id>
+   <name>HITCHIN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1551</id>
+   <name>BASSINGBOURN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3355</id>
+   <name>STOTFOLD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4507</id>
+   <name>SHEFFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4508</id>
+   <name>SHILLINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5528</id>
+   <name>HENLOW</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5865</id>
+   <name>POTTON</name>
+</nearByPlace>
+</place>
+</results>

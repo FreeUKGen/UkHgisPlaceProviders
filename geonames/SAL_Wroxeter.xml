@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Wroxeter</toponymName>
+<name>Wroxeter</name>
+<lat>52.67042</lat>
+<lng>-2.64759</lng>
+<geonameId>2633473</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Wroxeter</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG202</adminCode3>
+<adminName3>Wroxeter and Uppington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wroxeter</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.66242</west>
+<north>52.67941</north>
+<east>-2.63275</east>
+<south>52.66143</south>
+</bbox>
+<score>107.9564208984375</score>
+</geoname>
+</geonames>

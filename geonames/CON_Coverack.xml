@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Coverack</toponymName>
+<name>Coverack</name>
+<lat>50.02477</lat>
+<lng>-5.09754</lng>
+<geonameId>2652218</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Coverack</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE163</adminCode3>
+<adminName3>St. Keverne</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Coverack</alternateName>
+<alternateName lang="unlc">COV</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.11154</west>
+<north>50.03376</north>
+<east>-5.08354</east>
+<south>50.01577</south>
+</bbox>
+<score>96.39944458007812</score>
+</geoname>
+</geonames>

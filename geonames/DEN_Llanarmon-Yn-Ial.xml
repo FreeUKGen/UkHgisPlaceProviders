@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llanarmon-yn-Ial</toponymName>
+<name>Llanarmon-yn-Ial</name>
+<lat>53.09863</lat>
+<lng>-3.19624</lng>
+<geonameId>7292339</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG018</adminCode3>
+<adminName3>Llanarmon-yn-Ial</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanarmon-yn-I%C3%A2l</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.24657</west>
+<north>53.12901</north>
+<east>-3.14591</east>
+<south>53.06825</south>
+</bbox>
+<score>77.65841674804688</score>
+</geoname>
+</geonames>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Middleton-in-Teesdale</toponymName>
+<name>Middleton-in-Teesdale</name>
+<lat>54.62377</lat>
+<lng>-2.07848</lng>
+<geonameId>7294477</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ075</adminCode3>
+<adminName3>Middleton-in-Teesdale</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Middleton-in-Teesdale</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.11945</west>
+<north>54.69464</north>
+<east>-2.00811</east>
+<south>54.61787</south>
+</bbox>
+<score>73.81170654296875</score>
+</geoname>
+<geoname>
+<toponymName>Middleton in Teesdale</toponymName>
+<name>Middleton in Teesdale</name>
+<lat>54.62507</lat>
+<lng>-2.08234</lng>
+<geonameId>2642586</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.09788</west>
+<north>54.63406</north>
+<east>-2.0668</east>
+<south>54.61607</south>
+</bbox>
+<score>52.83077621459961</score>
+</geoname>
+</geonames>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Selsey</toponymName>
+<name>Selsey</name>
+<lat>50.73501</lat>
+<lng>-0.78979</lng>
+<geonameId>2638219</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9942</population>
+<alternateNames>Selsey</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UD</adminCode3>
+<adminName3>Chichester District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Selsey</alternateName>
+<alternateName lang="unlc">SSY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.8099</west>
+<north>50.74773</north>
+<east>-0.76969</east>
+<south>50.72229</south>
+</bbox>
+<score>105.89285278320312</score>
+</geoname>
+<geoname>
+<toponymName>Selsey</toponymName>
+<name>Selsey</name>
+<lat>50.74416</lat>
+<lng>-0.78385</lng>
+<geonameId>7292748</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UD</adminCode3>
+<adminName3>Chichester District</adminName3>
+<adminCode4>45UD047</adminCode4>
+<adminName4>Selsey</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.81895</west>
+<north>50.76629</north>
+<east>-0.74875</east>
+<south>50.72202</south>
+</bbox>
+<score>79.11460876464844</score>
+</geoname>
+</geonames>

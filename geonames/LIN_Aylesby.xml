@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Aylesby</toponymName>
+<name>Aylesby</name>
+<lat>53.54962</lat>
+<lng>-0.17778</lng>
+<geonameId>7296531</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC002</adminCode3>
+<adminName3>Aylesby</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.21981</west>
+<north>53.56756</north>
+<east>-0.13574</east>
+<south>53.53168</south>
+</bbox>
+<score>113.17670440673828</score>
+</geoname>
+<geoname>
+<toponymName>Aylesby</toponymName>
+<name>Aylesby</name>
+<lat>53.55103</lat>
+<lng>-0.18064</lng>
+<geonameId>2656717</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC002</adminCode3>
+<adminName3>Aylesby</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aylesby</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.19578</west>
+<north>53.56002</north>
+<east>-0.1655</east>
+<south>53.54203</south>
+</bbox>
+<score>91.51898193359375</score>
+</geoname>
+</geonames>

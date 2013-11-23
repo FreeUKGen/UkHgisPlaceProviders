@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Blagdon</toponymName>
+<name>Blagdon</name>
+<lat>51.3333</lat>
+<lng>-2.71367</lng>
+<geonameId>7296938</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC005</adminCode3>
+<adminName3>Blagdon</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.74017</west>
+<north>51.35047</north>
+<east>-2.68718</east>
+<south>51.31614</south>
+</bbox>
+<score>100.02647399902344</score>
+</geoname>
+<geoname>
+<toponymName>Blagdon</toponymName>
+<name>Blagdon</name>
+<lat>51.32688</lat>
+<lng>-2.71731</lng>
+<geonameId>2655407</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC005</adminCode3>
+<adminName3>Blagdon</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Blagdon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.74611</west>
+<north>51.34487</north>
+<east>-2.68852</east>
+<south>51.3089</south>
+</bbox>
+<score>69.06979370117188</score>
+</geoname>
+<geoname>
+<toponymName>Blagdon Hall</toponymName>
+<name>Blagdon Hall</name>
+<lat>55.08333</lat>
+<lng>-1.66667</lng>
+<geonameId>2655406</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames>Blagdon,Blagdon Hall,Blagston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>34.47669982910156</score>
+</geoname>
+</geonames>

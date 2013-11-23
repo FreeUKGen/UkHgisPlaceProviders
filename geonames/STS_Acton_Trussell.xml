@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Acton Trussell</toponymName>
+<name>Acton Trussell</name>
+<lat>52.76083</lat>
+<lng>-2.09672</lng>
+<geonameId>2657689</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Acton Trussell,Aston Trussell</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UF</adminCode3>
+<adminName3>South Staffordshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Acton_Trussell</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.11159</west>
+<north>52.76982</north>
+<east>-2.08186</east>
+<south>52.75183</south>
+</bbox>
+<score>92.297119140625</score>
+</geoname>
+</geonames>

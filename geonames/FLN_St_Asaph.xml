@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>St. Asaph</toponymName>
+<name>St. Asaph</name>
+<lat>53.25928</lat>
+<lng>-3.44849</lng>
+<geonameId>7297866</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG037</adminCode3>
+<adminName3>St. Asaph</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.4754</west>
+<north>53.27868</north>
+<east>-3.42158</east>
+<south>53.23988</south>
+</bbox>
+<score>93.28916931152344</score>
+</geoname>
+<geoname>
+<toponymName>Saint Asaph</toponymName>
+<name>St Asaph</name>
+<lat>53.26667</lat>
+<lng>-3.45</lng>
+<geonameId>2638855</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3530</population>
+<alternateNames>Llanelwy,Saint Asaph,St Asaph</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<alternateName lang="cy">Llanelwy</alternateName>
+<alternateName lang="en">St Asaph</alternateName>
+<alternateName lang="unlc">SPH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.46063</west>
+<north>53.27303</north>
+<east>-3.43937</east>
+<south>53.26031</south>
+</bbox>
+<score>66.20548248291016</score>
+</geoname>
+</geonames>

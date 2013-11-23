@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Kingston Lisle</toponymName>
+<name>Kingston Lisle</name>
+<lat>51.5806</lat>
+<lng>-1.53231</lng>
+<geonameId>7299868</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UE</adminCode3>
+<adminName3>Vale of White Horse District</adminName3>
+<adminCode4>38UE037</adminCode4>
+<adminName4>Kingston Lisle</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kingston_Lisle</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.54909</west>
+<north>51.61269</north>
+<east>-1.51554</east>
+<south>51.54852</south>
+</bbox>
+<score>48.857215881347656</score>
+</geoname>
+</geonames>

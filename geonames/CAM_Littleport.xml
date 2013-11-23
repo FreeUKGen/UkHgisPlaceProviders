@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Littleport</toponymName>
+<name>Littleport</name>
+<lat>52.45784</lat>
+<lng>0.30603</lng>
+<geonameId>2644268</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6877</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>2650488</adminCode3>
+<adminName3>East Cambridgeshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Littleport%2C_Cambridgeshire</alternateName>
+<alternateName lang="unlc">LLP</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.28952</west>
+<north>52.4679</north>
+<east>0.32253</east>
+<south>52.44778</south>
+</bbox>
+<score>87.56327819824219</score>
+</geoname>
+<geoname>
+<toponymName>Littleport</toponymName>
+<name>Littleport</name>
+<lat>52.47186</lat>
+<lng>0.33549</lng>
+<geonameId>7294260</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>74.76866149902344</score>
+</geoname>
+</geonames>

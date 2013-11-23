@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kerry</toponymName>
+<name>Kerry</name>
+<lat>52.48544</lat>
+<lng>-3.24886</lng>
+<geonameId>7292187</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN037</adminCode3>
+<adminName3>Kerry</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.36561</west>
+<north>52.53624</north>
+<east>-3.13212</east>
+<south>52.43463</south>
+</bbox>
+<score>99.52859497070312</score>
+</geoname>
+<geoname>
+<toponymName>Kerry</toponymName>
+<name>Kerry</name>
+<lat>52.50156</lat>
+<lng>-3.25862</lng>
+<geonameId>2645771</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kerry</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN037</adminCode3>
+<adminName3>Kerry</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kerry%2C_Powys</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.2734</west>
+<north>52.51055</north>
+<east>-3.24385</east>
+<south>52.49256</south>
+</bbox>
+<score>91.7716064453125</score>
+</geoname>
+</geonames>

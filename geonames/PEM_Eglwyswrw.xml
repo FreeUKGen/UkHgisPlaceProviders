@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Eglwyswrw</toponymName>
+<name>Eglwyswrw</name>
+<lat>51.98957</lat>
+<lng>-4.74476</lng>
+<geonameId>7297129</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS019</adminCode3>
+<adminName3>Eglwyswrw</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.8239</west>
+<north>52.04055</north>
+<east>-4.66562</east>
+<south>51.93859</south>
+</bbox>
+<score>114.15132141113281</score>
+</geoname>
+<geoname>
+<toponymName>Eglwyswrw</toponymName>
+<name>Eglwyswrw</name>
+<lat>52.01437</lat>
+<lng>-4.70876</lng>
+<geonameId>2650176</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Eglwyswrw</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS019</adminCode3>
+<adminName3>Eglwyswrw</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eglwyswrw</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.72337</west>
+<north>52.02337</north>
+<east>-4.69414</east>
+<south>52.00538</south>
+</bbox>
+<score>108.45050811767578</score>
+</geoname>
+</geonames>

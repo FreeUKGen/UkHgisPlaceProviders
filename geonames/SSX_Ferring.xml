@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ferring</toponymName>
+<name>Ferring</name>
+<lat>50.80333</lat>
+<lng>-0.43817</lng>
+<geonameId>2649519</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ferring,West Ferring</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UC</adminCode3>
+<adminName3>Arun District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ferring</alternateName>
+<alternateName lang="unlc">RRG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.4524</west>
+<north>50.81232</north>
+<east>-0.42393</east>
+<south>50.79434</south>
+</bbox>
+<score>73.61609649658203</score>
+</geoname>
+<geoname>
+<toponymName>Ferring</toponymName>
+<name>Ferring</name>
+<lat>50.81904</lat>
+<lng>-0.4478</lng>
+<geonameId>7298376</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UC</adminCode3>
+<adminName3>Arun District</adminName3>
+<adminCode4>45UC014</adminCode4>
+<adminName4>Ferring</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.46022</west>
+<north>50.83709</north>
+<east>-0.43537</east>
+<south>50.80098</south>
+</bbox>
+<score>73.06430053710938</score>
+</geoname>
+</geonames>

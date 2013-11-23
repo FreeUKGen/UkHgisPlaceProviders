@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kettlethorpe</toponymName>
+<name>Kettlethorpe</name>
+<lat>53.27291</lat>
+<lng>-0.73643</lng>
+<geonameId>7295570</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<adminCode4>32UH052</adminCode4>
+<adminName4>Kettlethorpe</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.77822</west>
+<north>53.29184</north>
+<east>-0.69463</east>
+<south>53.25398</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+<geoname>
+<toponymName>Kettlethorpe</toponymName>
+<name>Kettlethorpe</name>
+<lat>53.26667</lat>
+<lng>-0.73333</lng>
+<geonameId>2645745</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<alternateName lang="unlc">KTE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.74837</west>
+<north>53.27566</north>
+<east>-0.71829</east>
+<south>53.25767</south>
+</bbox>
+<score>50.70005798339844</score>
+</geoname>
+</geonames>

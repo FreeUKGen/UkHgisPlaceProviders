@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bulwell</toponymName>
+<name>Bulwell</name>
+<lat>52.9989</lat>
+<lng>-1.19711</lng>
+<geonameId>2654338</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J8</adminCode2>
+<adminName2>Nottingham</adminName2>
+<adminCode3>37UD</adminCode3>
+<adminName3>GB.ENG.J8.37UD</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bulwell</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.21206</west>
+<north>53.00789</north>
+<east>-1.18216</east>
+<south>52.98991</south>
+</bbox>
+<score>90.08833312988281</score>
+</geoname>
+</geonames>

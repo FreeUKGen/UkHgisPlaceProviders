@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Cilymaenllwyd</toponymName>
+<name>Cilymaenllwyd</name>
+<lat>51.89415</lat>
+<lng>-4.67932</lng>
+<geonameId>7292349</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU010</adminCode3>
+<adminName3>Cilymaenllwyd</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.72308</west>
+<north>51.93409</north>
+<east>-4.63556</east>
+<south>51.8542</south>
+</bbox>
+<score>117.85755920410156</score>
+</geoname>
+</geonames>

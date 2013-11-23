@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Ockley</toponymName>
+<name>Ockley</name>
+<lat>51.15173</lat>
+<lng>-0.35869</lng>
+<geonameId>2641090</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UE</adminCode3>
+<adminName3>Mole Valley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ockley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.37303</west>
+<north>51.16073</north>
+<east>-0.34435</east>
+<south>51.14274</south>
+</bbox>
+<score>88.68077087402344</score>
+</geoname>
+<geoname>
+<toponymName>Ockley</toponymName>
+<name>Ockley</name>
+<lat>51.14686</lat>
+<lng>-0.35579</lng>
+<geonameId>7297352</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UE</adminCode3>
+<adminName3>Mole Valley</adminName3>
+<adminCode4>43UE012</adminCode4>
+<adminName4>Ockley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.38313</west>
+<north>51.17702</north>
+<east>-0.32845</east>
+<south>51.11671</south>
+</bbox>
+<score>78.64186096191406</score>
+</geoname>
+<geoname>
+<toponymName>Ockley</toponymName>
+<name>Ockley</name>
+<lat>51.15563</lat>
+<lng>-0.34438</lng>
+<geonameId>6287664</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UE</adminCode3>
+<adminName3>Mole Valley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>19.660465240478516</score>
+</geoname>
+</geonames>

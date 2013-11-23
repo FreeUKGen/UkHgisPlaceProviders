@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Shapwick</toponymName>
+<name>Shapwick</name>
+<lat>51.14056</lat>
+<lng>-2.8325</lng>
+<geonameId>2638129</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Shapwick</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shapwick%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.84684</west>
+<north>51.14955</north>
+<east>-2.81816</east>
+<south>51.13156</south>
+</bbox>
+<score>96.5452651977539</score>
+</geoname>
+<geoname>
+<toponymName>Shapwick</toponymName>
+<name>Shapwick</name>
+<lat>50.81667</lat>
+<lng>-2.08333</lng>
+<geonameId>2638130</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Shapwick</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UD</adminCode3>
+<adminName3>East Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shapwick%2C_Dorset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.09757</west>
+<north>50.82566</north>
+<east>-2.0691</east>
+<south>50.80767</south>
+</bbox>
+<score>96.5452651977539</score>
+</geoname>
+<geoname>
+<toponymName>Shapwick</toponymName>
+<name>Shapwick</name>
+<lat>51.152</lat>
+<lng>-2.82803</lng>
+<geonameId>7294129</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<adminCode4>40UC042</adminCode4>
+<adminName4>Shapwick</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.86245</west>
+<north>51.17294</north>
+<east>-2.79361</east>
+<south>51.13105</south>
+</bbox>
+<score>77.22877502441406</score>
+</geoname>
+<geoname>
+<toponymName>Shapwick</toponymName>
+<name>Shapwick</name>
+<lat>50.82029</lat>
+<lng>-2.08197</lng>
+<geonameId>7294974</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UD</adminCode3>
+<adminName3>East Dorset District</adminName3>
+<adminCode4>19UD019</adminCode4>
+<adminName4>Shapwick</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.11615</west>
+<north>50.83916</north>
+<east>-2.04779</east>
+<south>50.80142</south>
+</bbox>
+<score>77.22877502441406</score>
+</geoname>
+</geonames>

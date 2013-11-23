@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Stockbridge</toponymName>
+<name>Stockbridge</name>
+<lat>51.11465</lat>
+<lng>-1.47204</lng>
+<geonameId>7301584</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UN</adminCode3>
+<adminName3>Test Valley District</adminName3>
+<adminCode4>24UN050</adminCode4>
+<adminName4>Stockbridge</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.49909</west>
+<north>51.1288</north>
+<east>-1.445</east>
+<south>51.10051</south>
+</bbox>
+<score>60.67752456665039</score>
+</geoname>
+<geoname>
+<toponymName>Stockbridge</toponymName>
+<name>Stockbridge</name>
+<lat>51.11398</lat>
+<lng>-1.48839</lng>
+<geonameId>2636895</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>581</population>
+<alternateNames>Stockbridge</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UN</adminCode3>
+<adminName3>Test Valley District</adminName3>
+<alternateName lang="en">Stockbridge</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stockbridge%2C_Hampshire</alternateName>
+<alternateName lang="post">SO20</alternateName>
+<alternateName lang="unlc">SBD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.48982</west>
+<north>51.11488</north>
+<east>-1.48696</east>
+<south>51.11308</south>
+</bbox>
+<score>56.592803955078125</score>
+</geoname>
+</geonames>

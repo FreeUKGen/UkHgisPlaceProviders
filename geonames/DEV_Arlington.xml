@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Arlington</toponymName>
+<name>Arlington</name>
+<lat>51.15</lat>
+<lng>-3.98333</lng>
+<geonameId>2657069</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Arlington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UE</adminCode3>
+<adminName3>North Devon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Arlington%2C_Devon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.99767</west>
+<north>51.15899</north>
+<east>-3.96899</east>
+<south>51.14101</south>
+</bbox>
+<score>55.57331085205078</score>
+</geoname>
+<geoname>
+<toponymName>Arlington</toponymName>
+<name>Arlington</name>
+<lat>51.75</lat>
+<lng>-1.83333</lng>
+<geonameId>2657068</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Arlington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Arlington%2C_Gloucestershire</alternateName>
+<alternateName lang="unlc">ALI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.84786</west>
+<north>51.75899</north>
+<east>-1.8188</east>
+<south>51.74101</south>
+</bbox>
+<score>48.34688949584961</score>
+</geoname>
+<geoname>
+<toponymName>Arlington</toponymName>
+<name>Arlington</name>
+<lat>51.14833</lat>
+<lng>-3.96773</lng>
+<geonameId>7298209</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UE</adminCode3>
+<adminName3>North Devon District</adminName3>
+<adminCode4>18UE001</adminCode4>
+<adminName4>Arlington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.99828</west>
+<north>51.16503</north>
+<east>-3.93718</east>
+<south>51.13163</south>
+</bbox>
+<score>42.53392028808594</score>
+</geoname>
+<geoname>
+<toponymName>Arlington</toponymName>
+<name>Arlington</name>
+<lat>50.85597</lat>
+<lng>0.20552</lng>
+<geonameId>7298000</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E2</adminCode2>
+<adminName2>East Sussex</adminName2>
+<adminCode3>21UH</adminCode3>
+<adminName3>Wealden District</adminName3>
+<adminCode4>21UH003</adminCode4>
+<adminName4>Arlington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Arlington%2C_East_Sussex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.16777</west>
+<north>50.88221</north>
+<east>0.24328</east>
+<south>50.82972</south>
+</bbox>
+<score>30.825458526611328</score>
+</geoname>
+</geonames>

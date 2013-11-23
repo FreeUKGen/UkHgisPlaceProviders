@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Werrington</toponymName>
+<name>Werrington</name>
+<lat>50.67729</lat>
+<lng>-4.3739</lng>
+<geonameId>7294660</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE210</adminCode3>
+<adminName3>Werrington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.40903</west>
+<north>50.69953</north>
+<east>-4.33876</east>
+<south>50.65505</south>
+</bbox>
+<score>107.15872192382812</score>
+</geoname>
+<geoname>
+<toponymName>Werrington</toponymName>
+<name>Werrington</name>
+<lat>53.01876</lat>
+<lng>-2.09728</lng>
+<geonameId>7292489</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UH</adminCode3>
+<adminName3>Staffordshire Moorlands</adminName3>
+<adminCode4>41UH041</adminCode4>
+<adminName4>Werrington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Werrington%2C_Staffordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.12917</west>
+<north>53.04195</north>
+<east>-2.06538</east>
+<south>52.99556</south>
+</bbox>
+<score>52.913719177246094</score>
+</geoname>
+<geoname>
+<toponymName>Werrington</toponymName>
+<name>Werrington</name>
+<lat>52.61405</lat>
+<lng>-0.27234</lng>
+<geonameId>2634520</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<alternateName lang="unlc">WRG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.28716</west>
+<north>52.62304</north>
+<east>-0.25753</east>
+<south>52.60505</south>
+</bbox>
+<score>47.39051818847656</score>
+</geoname>
+<geoname>
+<toponymName>Werrington</toponymName>
+<name>Werrington</name>
+<lat>50.66667</lat>
+<lng>-4.36667</lng>
+<geonameId>2634521</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE210</adminCode3>
+<adminName3>Werrington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.39506</west>
+<north>50.68465</north>
+<east>-4.33828</east>
+<south>50.64868</south>
+</bbox>
+<score>38.63731384277344</score>
+</geoname>
+</geonames>

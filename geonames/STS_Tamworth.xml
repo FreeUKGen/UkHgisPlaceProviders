@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Tamworth</toponymName>
+<name>Tamworth</name>
+<lat>52.63399</lat>
+<lng>-1.69587</lng>
+<geonameId>2636276</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>74129</population>
+<alternateNames>Tamvertas,Tamvort,Tamworth,Tomtun,ta mu wo si,Тамворт,塔姆沃思</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UK</adminCode3>
+<adminName3>Tamworth District</adminName3>
+<alternateName lang="ang">Tomtun</alternateName>
+<alternateName lang="de">Tamworth</alternateName>
+<alternateName lang="en">Tamworth</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tamworth%2C_Staffordshire</alternateName>
+<alternateName lang="lt">Tamvertas</alternateName>
+<alternateName lang="nl">Tamworth</alternateName>
+<alternateName lang="sr">Тамворт</alternateName>
+<alternateName lang="sv">Tamworth</alternateName>
+<alternateName lang="unlc">TAW</alternateName>
+<alternateName lang="zh">塔姆沃思</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.75379</west>
+<north>52.66911</north>
+<east>-1.63796</east>
+<south>52.59887</south>
+</bbox>
+<score>121.77985382080078</score>
+</geoname>
+</geonames>

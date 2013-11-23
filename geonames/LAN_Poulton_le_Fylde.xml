@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Poulton le Fylde</toponymName>
+<name>Poulton le Fylde</name>
+<lat>53.83333</lat>
+<lng>-2.98333</lng>
+<geonameId>2639958</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>19914</population>
+<alternateNames>Poulton,Poulton le Fylde</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UQ</adminCode3>
+<adminName3>Wyre District</adminName3>
+<alternateName lang="unlc">PLF</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.01383</west>
+<north>53.85132</north>
+<east>-2.95284</east>
+<south>53.81535</south>
+</bbox>
+<score>96.1153564453125</score>
+</geoname>
+</geonames>

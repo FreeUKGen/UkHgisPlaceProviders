@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>South Wingfield</toponymName>
+<name>South Wingfield</name>
+<lat>53.09593</lat>
+<lng>-1.43998</lng>
+<geonameId>2637279</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>South Wingfield,Wingfield</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UB</adminCode3>
+<adminName3>Amber Valley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/South_Wingfield</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.45496</west>
+<north>53.10492</north>
+<east>-1.425</east>
+<south>53.08694</south>
+</bbox>
+<score>86.2527084350586</score>
+</geoname>
+<geoname>
+<toponymName>South Wingfield</toponymName>
+<name>South Wingfield</name>
+<lat>53.0871</lat>
+<lng>-1.43776</lng>
+<geonameId>7297967</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UB</adminCode3>
+<adminName3>Amber Valley District</adminName3>
+<adminCode4>17UB031</adminCode4>
+<adminName4>South Wingfield</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.47158</west>
+<north>53.11083</north>
+<east>-1.40393</east>
+<south>53.06338</south>
+</bbox>
+<score>69.88944244384766</score>
+</geoname>
+</geonames>

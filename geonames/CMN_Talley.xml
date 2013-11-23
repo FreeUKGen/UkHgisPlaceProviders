@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Talley</toponymName>
+<name>Talley</name>
+<lat>51.96972</lat>
+<lng>-3.99367</lng>
+<geonameId>7301156</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU070</adminCode3>
+<adminName3>Talley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Talley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.04838</west>
+<north>52.00513</north>
+<east>-3.93897</east>
+<south>51.9343</south>
+</bbox>
+<score>65.19322204589844</score>
+</geoname>
+<geoname>
+<toponymName>Talley</toponymName>
+<name>Talley</name>
+<lat>51.97561</lat>
+<lng>-3.98739</lng>
+<geonameId>2636298</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Talley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU070</adminCode3>
+<adminName3>Talley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.00199</west>
+<north>51.98461</north>
+<east>-3.97278</east>
+<south>51.96662</south>
+</bbox>
+<score>49.363380432128906</score>
+</geoname>
+</geonames>

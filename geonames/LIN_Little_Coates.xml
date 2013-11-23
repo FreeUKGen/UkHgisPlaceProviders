@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Little Coates</toponymName>
+<name>Little Coates</name>
+<lat>53.56092</lat>
+<lng>-0.11911</lng>
+<geonameId>2644349</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC005</adminCode3>
+<adminName3>Bradley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Little_Coates</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.13425</west>
+<north>53.56992</north>
+<east>-0.10396</east>
+<south>53.55193</south>
+</bbox>
+<score>80.45276641845703</score>
+</geoname>
+</geonames>

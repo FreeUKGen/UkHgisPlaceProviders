@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Sedgehill</toponymName>
+<name>Sedgehill</name>
+<lat>51.05335</lat>
+<lng>-2.1917</lng>
+<geonameId>2638256</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sedgehill,Sedghill</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY193</adminCode3>
+<adminName3>Sedgehill and Semley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sedgehill</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.20601</west>
+<north>51.06234</north>
+<east>-2.17739</east>
+<south>51.04435</south>
+</bbox>
+<score>102.73759460449219</score>
+</geoname>
+</geonames>

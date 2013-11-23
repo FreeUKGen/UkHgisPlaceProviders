@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Winestead</toponymName>
+<name>Winestead</name>
+<lat>53.70202</lat>
+<lng>-0.03268</lng>
+<geonameId>2633836</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB108</adminCode3>
+<adminName3>Patrington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Winestead</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.04787</west>
+<north>53.71102</north>
+<east>-0.01748</east>
+<south>53.69303</south>
+</bbox>
+<score>92.19074249267578</score>
+</geoname>
+</geonames>

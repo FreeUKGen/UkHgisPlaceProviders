@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Cults</toponymName>
+<name>Cults</name>
+<lat>57.11667</lat>
+<lng>-2.16667</lng>
+<geonameId>2651722</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3500</population>
+<alternateNames>Cuits,Cults</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T5</adminCode2>
+<adminName2>Aberdeen City</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cults%2C_Aberdeen</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.17838</west>
+<north>57.12303</north>
+<east>-2.15495</east>
+<south>57.11031</south>
+</bbox>
+<score>103.93022155761719</score>
+</geoname>
+</geonames>

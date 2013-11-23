@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Norwich</toponymName>
+<name>Norwich</name>
+<lat>52.62783</lat>
+<lng>1.29834</lng>
+<geonameId>2641181</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>177636</population>
+<alternateNames>NWI,Nordovicum,Norgouits,Norich,Noridzas,Noridzh,Noridžas,Norvic,Norvich,Norviç,Norwich,narwch,nolichi,noritchi,nuo li qi,nwrwych,nwrwytsh,nx rich,Νόργουιτς,Норвіч,Норидж,Норич,ناروچ,نورويتش,نورویچ,นอริช,ノリッチ,諾里奇,노리치</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UG</adminCode3>
+<adminName3>Norwich District</adminName3>
+<alternateName lang="ar">نورويتش</alternateName>
+<alternateName lang="az">Norviç</alternateName>
+<alternateName lang="bg">Норич</alternateName>
+<alternateName lang="de">Norwich</alternateName>
+<alternateName lang="el">Νόργουιτς</alternateName>
+<alternateName lang="en">Norwich</alternateName>
+<alternateName lang="eo">Norwich</alternateName>
+<alternateName lang="fa">نورویچ</alternateName>
+<alternateName lang="fi">Norwich</alternateName>
+<alternateName lang="fr">Norwich</alternateName>
+<alternateName lang="iata">NWI</alternateName>
+<alternateName lang="id">Norwich</alternateName>
+<alternateName lang="it">Norwich</alternateName>
+<alternateName lang="ja">ノリッチ</alternateName>
+<alternateName lang="kk">Норидж</alternateName>
+<alternateName lang="ko">노리치</alternateName>
+<alternateName lang="la">Nordovicum</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Norwich</alternateName>
+<alternateName lang="lt">Noridžas</alternateName>
+<alternateName lang="mzn">نورویچ</alternateName>
+<alternateName lang="nl">Norwich</alternateName>
+<alternateName lang="no">Norwich</alternateName>
+<alternateName lang="pl">Norwich</alternateName>
+<alternateName lang="pnb">ناروچ</alternateName>
+<alternateName lang="ru">Норидж</alternateName>
+<alternateName lang="sr">Норич</alternateName>
+<alternateName lang="sv">Norwich</alternateName>
+<alternateName lang="th">นอริช</alternateName>
+<alternateName lang="tr">Norwich</alternateName>
+<alternateName lang="uk">Норвіч</alternateName>
+<alternateName lang="unlc">NRW</alternateName>
+<alternateName lang="zh">諾里奇</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.2081</west>
+<north>52.68253</north>
+<east>1.38858</east>
+<south>52.57312</south>
+</bbox>
+<score>164.41729736328125</score>
+</geoname>
+<geoname>
+<toponymName>Norwich</toponymName>
+<name>Norwich</name>
+<lat>52.61781</lat>
+<lng>1.36462</lng>
+<geonameId>7115816</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>SWT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>sewage treatment plant</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>16.699159622192383</score>
+</geoname>
+</geonames>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Llangybi</toponymName>
+<name>Llangybi</name>
+<lat>52.15822</lat>
+<lng>-4.05688</lng>
+<geonameId>7301116</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ028</adminCode3>
+<adminName3>Llangybi</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.1204</west>
+<north>52.19067</north>
+<east>-3.99335</east>
+<south>52.12577</south>
+</bbox>
+<score>109.408447265625</score>
+</geoname>
+<geoname>
+<toponymName>Llangybi</toponymName>
+<name>Llangybi</name>
+<lat>51.66672</lat>
+<lng>-2.94437</lng>
+<geonameId>7301132</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP016</adminCode3>
+<adminName3>Llangybi</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.00349</west>
+<north>51.68886</north>
+<east>-2.88526</east>
+<south>51.64457</south>
+</bbox>
+<score>109.408447265625</score>
+</geoname>
+<geoname>
+<toponymName>Llangybi</toponymName>
+<name>Llangybi</name>
+<lat>52.93333</lat>
+<lng>-4.35</lng>
+<geonameId>2644005</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llangybi</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llangybi%2C_Gwynedd</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.36492</west>
+<north>52.94233</north>
+<east>-4.33508</east>
+<south>52.92434</south>
+</bbox>
+<score>98.43482971191406</score>
+</geoname>
+<geoname>
+<toponymName>Llangybi</toponymName>
+<name>Llangybi</name>
+<lat>51.66583</lat>
+<lng>-2.90806</lng>
+<geonameId>2644025</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Llangibby,Llangybi</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP016</adminCode3>
+<adminName3>Llangybi</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.93707</west>
+<north>51.68382</north>
+<east>-2.87904</east>
+<south>51.64785</south>
+</bbox>
+<score>57.76899719238281</score>
+</geoname>
+<geoname>
+<toponymName>Llangybi</toponymName>
+<name>Llangybi</name>
+<lat>52.15</lat>
+<lng>-4.05</lng>
+<geonameId>2644006</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ028</adminCode3>
+<adminName3>Llangybi</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.07933</west>
+<north>52.16799</north>
+<east>-4.02067</east>
+<south>52.13201</south>
+</bbox>
+<score>39.4332389831543</score>
+</geoname>
+</geonames>

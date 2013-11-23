@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Illogan</toponymName>
+<name>Illogan</name>
+<lat>50.24303</lat>
+<lng>-5.29225</lng>
+<geonameId>7294431</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE050</adminCode3>
+<adminName3>Illogan</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.33101</west>
+<north>50.25796</north>
+<east>-5.25349</east>
+<south>50.22811</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Illogan</toponymName>
+<name>Illogan</name>
+<lat>50.24393</lat>
+<lng>-5.26564</lng>
+<geonameId>2646268</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Illogan</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE050</adminCode3>
+<adminName3>Illogan</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Illogan</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.2797</west>
+<north>50.25293</north>
+<east>-5.25157</east>
+<south>50.23494</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+</geonames>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Stoke-sub-Hamdon</toponymName>
+<name>Stoke-sub-Hamdon</name>
+<lat>50.95397</lat>
+<lng>-2.74971</lng>
+<geonameId>8299847</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2004</population>
+<alternateNames>Stoke-sub-Hamdon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD103</adminCode4>
+<adminName4>Stoke Sub Hamdon</adminName4>
+<alternateName lang="en">Stoke-sub-Hamdon</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stoke-sub-Hamdon</alternateName>
+<alternateName lang="post">TA14</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.75685</west>
+<north>50.95846</north>
+<east>-2.74258</east>
+<south>50.94947</south>
+</bbox>
+<score>108.13025665283203</score>
+</geoname>
+<geoname>
+<toponymName>Stoke Sub Hamdon</toponymName>
+<name>Stoke Sub Hamdon</name>
+<lat>50.95339</lat>
+<lng>-2.75188</lng>
+<geonameId>7301231</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD103</adminCode4>
+<adminName4>Stoke Sub Hamdon</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.78304</west>
+<north>50.96702</north>
+<east>-2.72073</east>
+<south>50.93976</south>
+</bbox>
+<score>73.92062377929688</score>
+</geoname>
+</geonames>

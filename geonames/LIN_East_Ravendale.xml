@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>East Ravendale</toponymName>
+<name>East Ravendale</name>
+<lat>53.47842</lat>
+<lng>-0.13018</lng>
+<geonameId>7298227</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC007</adminCode3>
+<adminName3>East Ravendale</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.14798</west>
+<north>53.48972</north>
+<east>-0.11238</east>
+<south>53.46712</south>
+</bbox>
+<score>90.91323852539062</score>
+</geoname>
+<geoname>
+<toponymName>East Ravendale</toponymName>
+<name>East Ravendale</name>
+<lat>53.47958</lat>
+<lng>-0.13684</lng>
+<geonameId>2650349</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>East Ravendale,Ravendale</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC007</adminCode3>
+<adminName3>East Ravendale</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/East_Ravendale</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.15196</west>
+<north>53.48858</north>
+<east>-0.12173</east>
+<south>53.47059</south>
+</bbox>
+<score>87.00634765625</score>
+</geoname>
+</geonames>

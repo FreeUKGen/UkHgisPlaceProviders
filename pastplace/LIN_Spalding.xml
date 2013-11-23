@@ -1,0 +1,389 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>104</id>
+<name>SPALDING</name>
+<container>LINCOLNSHIRE</container>
+<lat>52.7784752667441</lat>
+<lon>-0.14576247939741</lon>
+<gazetteerText>Spalding, market town and par. with ry. sta., Lincolnshire, on river Welland, 14 m. SW. of Boston, 12,070 ac., pop. 9260; P.O., T.O., 3 Banks, 2 newspapers. Market-day, Tuesday. Spalding is an important railway centre, while the river has been made navigable to the town for vessels of from 50 to 70 tons. It is situated in a rich agricultural district, and has a large trade, by river and by rail, in corn, wool, coal, and timber. It has also flour, bone, and saw mills, breweries, and coach works. There are remains of a priory of 1501, a fine old church (restored 1860), a grammar school, a corn exchange, and a spacious market place. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LIN/Spalding/</link>
+<link>http://en.wikipedia.org/wiki/Spalding,_Lincolnshire</link>
+<link>http://www.workhouses.org.uk/Spalding</link>
+<link>http://www.geonames.org/2637265</link>
+</links>
+<unit>
+   <id>10002990</id>
+   <status>UD</status>
+   <name>SPALDING</name>
+</unit>
+<unit>
+   <id>10004950</id>
+   <status>RSD</status>
+   <name>SPALDING</name>
+</unit>
+<unit>
+   <id>10027093</id>
+   <status>RD</status>
+   <name>SPALDING</name>
+</unit>
+<unit>
+   <id>10073352</id>
+   <status>Borough</status>
+   <name>SPALDING</name>
+</unit>
+<unit>
+   <id>10138747</id>
+   <status>USD</status>
+   <name>SPALDING</name>
+</unit>
+<unit>
+   <id>10174776</id>
+   <status>RegD/PLU</status>
+   <name>SPALDING</name>
+</unit>
+<unit>
+   <id>10452661</id>
+   <status>CP/AP</status>
+   <name>SPALDING</name>
+</unit>
+<unit>
+   <id>10452685</id>
+   <status>EP</status>
+   <name>SPALDING</name>
+</unit>
+<unit>
+   <id>10452697</id>
+   <status>EP</status>
+   <name>SPALDING ST JOHN THE BAPTIST</name>
+</unit>
+<unit>
+   <id>10452727</id>
+   <status>EP</status>
+   <name>SPALDING ST PAUL</name>
+</unit>
+<unit>
+   <id>10470018</id>
+   <status>RD</status>
+   <name>SPALDING</name>
+</unit>
+<unit>
+   <id>10547921</id>
+   <status></status>
+   <name>SPALDING</name>
+</unit>
+<unit>
+   <id>12755880</id>
+   <status>PDivCon</status>
+   <name>LINCOLNSHIRE HOLLAND OR SPALDING</name>
+</unit>
+<unit>
+   <id>12759265</id>
+   <status>PBCon</status>
+   <name>SPALDING</name>
+</unit>
+<unit>
+   <id>12832369</id>
+   <status></status>
+   <name>SPALDING</name>
+</unit>
+<nearByPlace>
+   <id>12005</id>
+   <name>COWBIT</name>
+</nearByPlace>
+<nearByPlace>
+   <id>14057</id>
+   <name>WESTON</name>
+</nearByPlace>
+</place>
+<place>
+<id>864</id>
+<name>STAMFORD</name>
+<container>LINCOLNSHIRE</container>
+<lat>52.6563312694806</lat>
+<lon>-0.487419048796293</lon>
+<gazetteerText>Stamford.-- mun. bor. and market town, partly in Northamptonshire but chiefly in Lincolnshire, on river Welland, 12 miles NW. of Peterborough by rail, 1766 ac., pop. 8773; P.O., T.O., 3 Banks, 2 newspapers. Market-days, Monday and Friday. Stamford is a place of great historic interest; was one of the five chief cities of the Danes; was fortified by Stephen; and during the Middle Ages became the seat of a university and of several religious establishments, and was frequently visited by the English sovereigns. It contains no less than six parish churches. It carries on an extensive trade both by river and rail, is the centre of an agricultural district, and has mfrs. of agricultural implements and a large malting business. Stamford was chartered by Edgar (972) and by Edward IV.; it regularly returned 2 members to Parliament from the time of Henry VIII. until 1867, and 1 member from 1867 until 1885. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LIN/Stamford/</link>
+<link>http://en.wikipedia.org/wiki/Stamford,_Lincolnshire</link>
+<link>http://www.workhouses.org.uk/Stamford</link>
+<link>http://www.geonames.org/2637104</link>
+</links>
+<unit>
+   <id>10454852</id>
+   <status>EP</status>
+   <name>STAMFORD ST STEPHEN</name>
+</unit>
+<unit>
+   <id>10547982</id>
+   <status></status>
+   <name>STAMFORD</name>
+</unit>
+<unit>
+   <id>10154741</id>
+   <status>PLU/RegD</status>
+   <name>STAMFORD</name>
+</unit>
+<unit>
+   <id>10453616</id>
+   <status>CP/AP</status>
+   <name>STAMFORD ST MICHAEL</name>
+</unit>
+<unit>
+   <id>12753731</id>
+   <status>PBCon</status>
+   <name>STAMFORD</name>
+</unit>
+<unit>
+   <id>10111304</id>
+   <status>USD</status>
+   <name>STAMFORD</name>
+</unit>
+<unit>
+   <id>10454785</id>
+   <status>EP</status>
+   <name>STAMFORD ST MICHAEL CORNSTALL</name>
+</unit>
+<unit>
+   <id>10453471</id>
+   <status>EP</status>
+   <name>STAMFORD ST GEORGE WITH ST PAUL</name>
+</unit>
+<unit>
+   <id>10453355</id>
+   <status>AP</status>
+   <name>STAMFORD HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10454736</id>
+   <status>AP</status>
+   <name>STAMFORD ST MICHAEL CORNSTALL</name>
+</unit>
+<unit>
+   <id>10453409</id>
+   <status>EP</status>
+   <name>STAMFORD ST ANDREW</name>
+</unit>
+<unit>
+   <id>10029235</id>
+   <status>RSD</status>
+   <name>STAMFORD</name>
+</unit>
+<unit>
+   <id>10454840</id>
+   <status>AP</status>
+   <name>STAMFORD ST STEPHEN</name>
+</unit>
+<unit>
+   <id>10454839</id>
+   <status>EP</status>
+   <name>STAMFORD ST PETER</name>
+</unit>
+<unit>
+   <id>10580481</id>
+   <status></status>
+   <name>STAMFORD</name>
+</unit>
+<unit>
+   <id>10453367</id>
+   <status>EP</status>
+   <name>STAMFORD HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10454918</id>
+   <status>EP</status>
+   <name>STAMFORD ST THOMAS</name>
+</unit>
+<unit>
+   <id>10280618</id>
+   <status>CP</status>
+   <name>STAMFORD BARON ST MARTINS WITHOUT</name>
+</unit>
+<unit>
+   <id>10041557</id>
+   <status>Borough</status>
+   <name>STAMFORD</name>
+</unit>
+<unit>
+   <id>10453537</id>
+   <status>EP</status>
+   <name>STAMFORD ST JOHN WITH ST CLEMENT</name>
+</unit>
+<unit>
+   <id>10454827</id>
+   <status>AP</status>
+   <name>STAMFORD ST PETER</name>
+</unit>
+<unit>
+   <id>10453483</id>
+   <status>CP/AP</status>
+   <name>STAMFORD ST JOHN</name>
+</unit>
+<unit>
+   <id>10453276</id>
+   <status>CP</status>
+   <name>STAMFORD</name>
+</unit>
+<unit>
+   <id>12750985</id>
+   <status>PDivCon</status>
+   <name>LINCOLNSHIRE SOUTH KESTEVEN OR STAMFORD</name>
+</unit>
+<unit>
+   <id>12739795</id>
+   <status>CCon</status>
+   <name>STAMFORD AND SPALDING</name>
+</unit>
+<unit>
+   <id>10295555</id>
+   <status>AP/CP</status>
+   <name>STAMFORD BARON ST MARTIN</name>
+</unit>
+<unit>
+   <id>10153803</id>
+   <status>MB</status>
+   <name>STAMFORD</name>
+</unit>
+<unit>
+   <id>10453434</id>
+   <status>AP/CP</status>
+   <name>STAMFORD ST GEORGE</name>
+</unit>
+<unit>
+   <id>10453288</id>
+   <status>CP/AP</status>
+   <name>STAMFORD ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10453446</id>
+   <status>EP</status>
+   <name>STAMFORD ST GEORGE</name>
+</unit>
+<unit>
+   <id>10453318</id>
+   <status>EP</status>
+   <name>STAMFORD ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10453550</id>
+   <status>EP</status>
+   <name>STAMFORD ST MARY</name>
+</unit>
+<unit>
+   <id>10453525</id>
+   <status>EP</status>
+   <name>STAMFORD ST JOHN THE BAPTIST</name>
+</unit>
+<unit>
+   <id>10295646</id>
+   <status>EP</status>
+   <name>STAMFORD BARON ST MARTIN</name>
+</unit>
+<unit>
+   <id>10453628</id>
+   <status>EP</status>
+   <name>STAMFORD ST MICHAEL</name>
+</unit>
+<unit>
+   <id>10453549</id>
+   <status>CP/AP</status>
+   <name>STAMFORD ST MARY</name>
+</unit>
+<unit>
+   <id>10454890</id>
+   <status>AP</status>
+   <name>STAMFORD ST THOMAS</name>
+</unit>
+<unit>
+   <id>10453562</id>
+   <status>EP</status>
+   <name>STAMFORD ST MARY AND ST MICHAEL</name>
+</unit>
+<unit>
+   <id>10454797</id>
+   <status>EP</status>
+   <name>STAMFORD ST MICHAEL WITH ST ANDREW AND ST STEPHEN</name>
+</unit>
+<unit>
+   <id>12780874</id>
+   <status></status>
+   <name>STAMFORD</name>
+</unit>
+<unit>
+   <id>10453604</id>
+   <status>EP</status>
+   <name>STAMFORD ST MARY BENIWERK</name>
+</unit>
+<unit>
+   <id>10454815</id>
+   <status>EP</status>
+   <name>STAMFORD ST PAUL</name>
+</unit>
+<unit>
+   <id>10453574</id>
+   <status>AP</status>
+   <name>STAMFORD ST MARY BENNIWERK</name>
+</unit>
+<unit>
+   <id>10454803</id>
+   <status>AP</status>
+   <name>STAMFORD ST PAUL</name>
+</unit>
+<unit>
+   <id>10453379</id>
+   <status>AP</status>
+   <name>STAMFORD ST ANDREW</name>
+</unit>
+<unit>
+   <id>12829486</id>
+   <status></status>
+   <name>STAMFORD</name>
+</unit>
+<unit>
+   <id>10453331</id>
+   <status>EP</status>
+   <name>STAMFORD ALL SAINTS WITH ST PETER</name>
+</unit>
+<nearByPlace>
+   <id>1993</id>
+   <name>TINWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2450</id>
+   <name>GREAT CASTERTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2813</id>
+   <name>PICKWORTH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2816</id>
+   <name>TICKENCOTE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3315</id>
+   <name>RYHALL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4365</id>
+   <name>LITTLE CASTERTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8363</id>
+   <name>WOTHORPE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12022</id>
+   <name>WEST DEEPING</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13777</id>
+   <name>STOWE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>14048</id>
+   <name>UFFINGTON</name>
+</nearByPlace>
+</place>
+</results>

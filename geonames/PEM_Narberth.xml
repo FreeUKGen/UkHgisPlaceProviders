@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Narberth</toponymName>
+<name>Narberth</name>
+<lat>51.80164</lat>
+<lng>-4.74867</lng>
+<geonameId>7301104</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS047</adminCode3>
+<adminName3>Narberth</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.76995</west>
+<north>51.82806</north>
+<east>-4.70453</east>
+<south>51.78351</south>
+</bbox>
+<score>109.5452880859375</score>
+</geoname>
+<geoname>
+<toponymName>Narberth</toponymName>
+<name>Narberth</name>
+<lat>51.79784</lat>
+<lng>-4.74275</lng>
+<geonameId>2641885</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1890</population>
+<alternateNames>Arberth,Narberth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS047</adminCode3>
+<adminName3>Narberth</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Narberth%2C_Pembrokeshire</alternateName>
+<alternateName lang="unlc">NBH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.75002</west>
+<north>51.80233</north>
+<east>-4.73548</east>
+<south>51.79334</south>
+</bbox>
+<score>92.0180435180664</score>
+</geoname>
+</geonames>

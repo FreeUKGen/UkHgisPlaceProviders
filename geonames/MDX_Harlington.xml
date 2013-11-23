@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Harlington</toponymName>
+<name>Harlington</name>
+<lat>51.96442</lat>
+<lng>-0.48233</lng>
+<geonameId>7296355</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC030</adminCode3>
+<adminName3>Harlington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.50886</west>
+<north>51.98173</north>
+<east>-0.4558</east>
+<south>51.94711</south>
+</bbox>
+<score>72.843017578125</score>
+</geoname>
+<geoname>
+<toponymName>Harlington</toponymName>
+<name>Harlington</name>
+<lat>53.51667</lat>
+<lng>-1.26667</lng>
+<geonameId>2647463</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Harlington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D5</adminCode2>
+<adminName2>Doncaster</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harlington%2C_South_Yorkshire</alternateName>
+<alternateName lang="unlc">HGT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.2818</west>
+<north>53.52566</north>
+<east>-1.25154</east>
+<south>53.50767</south>
+</bbox>
+<score>57.57026290893555</score>
+</geoname>
+<geoname>
+<toponymName>Harlington</toponymName>
+<name>Harlington</name>
+<lat>51.48566</lat>
+<lng>-0.43362</lng>
+<geonameId>7522532</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>F9</adminCode3>
+<adminName3>Hillingdon</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harlington%2C_London</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.44806</west>
+<north>51.49465</north>
+<east>-0.41917</east>
+<south>51.47667</south>
+</bbox>
+<score>55.669654846191406</score>
+</geoname>
+<geoname>
+<toponymName>Harlington</toponymName>
+<name>Harlington</name>
+<lat>51.96288</lat>
+<lng>-0.49241</lng>
+<geonameId>2647464</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC030</adminCode3>
+<adminName3>Harlington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harlington%2C_Bedfordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.52161</west>
+<north>51.98087</north>
+<east>-0.46321</east>
+<south>51.9449</south>
+</bbox>
+<score>47.12812423706055</score>
+</geoname>
+</geonames>

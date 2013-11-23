@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Marnhull</toponymName>
+<name>Marnhull</name>
+<lat>50.97045</lat>
+<lng>-2.31327</lng>
+<geonameId>2643001</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Marnhull</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UE</adminCode3>
+<adminName3>North Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marnhull</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.32755</west>
+<north>50.97944</north>
+<east>-2.29898</east>
+<south>50.96145</south>
+</bbox>
+<score>107.3292007446289</score>
+</geoname>
+<geoname>
+<toponymName>Marnhull</toponymName>
+<name>Marnhull</name>
+<lat>50.96825</lat>
+<lng>-2.30288</lng>
+<geonameId>7293398</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UE</adminCode3>
+<adminName3>North Dorset District</adminName3>
+<adminCode4>19UE037</adminCode4>
+<adminName4>Marnhull</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.35008</west>
+<north>50.98697</north>
+<east>-2.25568</east>
+<south>50.94953</south>
+</bbox>
+<score>81.53416442871094</score>
+</geoname>
+</geonames>

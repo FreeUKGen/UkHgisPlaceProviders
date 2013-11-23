@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Upwell</toponymName>
+<name>Upwell</name>
+<lat>52.60249</lat>
+<lng>0.2219</lng>
+<geonameId>2635078</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Upwell</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.20709</west>
+<north>52.61148</north>
+<east>0.23671</east>
+<south>52.59349</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+<geoname>
+<toponymName>Upwell</toponymName>
+<name>Upwell</name>
+<lat>52.56987</lat>
+<lng>0.23368</lng>
+<geonameId>7301895</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<adminCode4>33UE084</adminCode4>
+<adminName4>Upwell</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.19158</west>
+<north>52.60969</north>
+<east>0.27578</east>
+<south>52.53006</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

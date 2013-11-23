@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>West Knoyle</toponymName>
+<name>West Knoyle</name>
+<lat>51.0935</lat>
+<lng>-2.20981</lng>
+<geonameId>7301030</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY234</adminCode3>
+<adminName3>West Knoyle</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.23545</west>
+<north>51.11063</north>
+<east>-2.18417</east>
+<south>51.07637</south>
+</bbox>
+<score>93.33734893798828</score>
+</geoname>
+<geoname>
+<toponymName>West Knoyle</toponymName>
+<name>West Knoyle</name>
+<lat>51.08782</lat>
+<lng>-2.20762</lng>
+<geonameId>2634374</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY234</adminCode3>
+<adminName3>West Knoyle</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.22194</west>
+<north>51.09682</north>
+<east>-2.1933</east>
+<south>51.07883</south>
+</bbox>
+<score>55.35453796386719</score>
+</geoname>
+</geonames>

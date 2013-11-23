@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Faxton</toponymName>
+<name>Faxton</name>
+<lat>52.36667</lat>
+<lng>-0.83333</lng>
+<geonameId>2649612</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Faxton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Faxton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.84807</west>
+<north>52.37566</north>
+<east>-0.8186</east>
+<south>52.35767</south>
+</bbox>
+<score>110.04627990722656</score>
+</geoname>
+</geonames>

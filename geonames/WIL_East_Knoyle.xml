@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>East Knoyle</toponymName>
+<name>East Knoyle</name>
+<lat>51.07906</lat>
+<lng>-2.17357</lng>
+<geonameId>7300342</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY088</adminCode3>
+<adminName3>East Knoyle</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/East_Knoyle</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.21144</west>
+<north>51.10563</north>
+<east>-2.1357</east>
+<south>51.05249</south>
+</bbox>
+<score>70.14551544189453</score>
+</geoname>
+<geoname>
+<toponymName>East Knoyle</toponymName>
+<name>East Knoyle</name>
+<lat>51.07442</lat>
+<lng>-2.17052</lng>
+<geonameId>2650403</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bishop's Knoyle,Bishop’s Knoyle,East Knoyle</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY088</adminCode3>
+<adminName3>East Knoyle</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.18484</west>
+<north>51.08342</north>
+<east>-2.1562</east>
+<south>51.06543</south>
+</bbox>
+<score>61.16773986816406</score>
+</geoname>
+</geonames>

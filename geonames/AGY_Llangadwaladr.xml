@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llangadwaladr</toponymName>
+<name>Llangadwaladr</name>
+<lat>53.19557</lat>
+<lng>-4.42188</lng>
+<geonameId>2644047</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA006</adminCode3>
+<adminName3>Bodorgan</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llangadwaladr</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.4369</west>
+<north>53.20457</north>
+<east>-4.40687</east>
+<south>53.18658</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+<geoname>
+<toponymName>Llangadwaladr</toponymName>
+<name>Llangadwaladr</name>
+<lat>52.86667</lat>
+<lng>-3.21667</lng>
+<geonameId>2644048</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.23157</west>
+<north>52.87566</north>
+<east>-3.20177</east>
+<south>52.85767</south>
+</bbox>
+<score>66.00886535644531</score>
+</geoname>
+</geonames>

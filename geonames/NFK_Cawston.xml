@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Cawston</toponymName>
+<name>Cawston</name>
+<lat>52.76667</lat>
+<lng>1.16667</lng>
+<geonameId>2653465</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cawston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cawston%2C_Norfolk</alternateName>
+<alternateName lang="unlc">CWS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.1518</west>
+<north>52.77566</north>
+<east>1.18153</east>
+<south>52.75767</south>
+</bbox>
+<score>81.43461608886719</score>
+</geoname>
+<geoname>
+<toponymName>Cawston</toponymName>
+<name>Cawston</name>
+<lat>52.3623</lat>
+<lng>-1.30641</lng>
+<geonameId>7292686</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UD</adminCode3>
+<adminName3>Rugby District</adminName3>
+<adminCode4>44UD041</adminCode4>
+<adminName4>Cawston</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.31727</west>
+<north>52.36926</north>
+<east>-1.29556</east>
+<south>52.35534</south>
+</bbox>
+<score>74.51971435546875</score>
+</geoname>
+<geoname>
+<toponymName>Cawston</toponymName>
+<name>Cawston</name>
+<lat>52.77367</lat>
+<lng>1.18338</lng>
+<geonameId>7300116</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<adminCode4>33UC017</adminCode4>
+<adminName4>Cawston</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.14212</west>
+<north>52.79677</north>
+<east>1.22464</east>
+<south>52.75057</south>
+</bbox>
+<score>74.51971435546875</score>
+</geoname>
+</geonames>

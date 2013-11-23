@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bishton</toponymName>
+<name>Bishton</name>
+<lat>51.58686</lat>
+<lng>-2.87309</lng>
+<geonameId>7294308</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y6</adminCode2>
+<adminName2>City of Newport</adminName2>
+<adminCode3>00PR005</adminCode3>
+<adminName3>Bishton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.9002</west>
+<north>51.60075</north>
+<east>-2.84598</east>
+<south>51.57297</south>
+</bbox>
+<score>107.20198059082031</score>
+</geoname>
+<geoname>
+<toponymName>Bishton</toponymName>
+<name>Bishton</name>
+<lat>51.58194</lat>
+<lng>-2.87833</lng>
+<geonameId>2655546</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Bishton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y6</adminCode2>
+<adminName2>City of Newport</adminName2>
+<adminCode3>00PR005</adminCode3>
+<adminName3>Bishton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bishton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.90729</west>
+<north>51.59993</north>
+<east>-2.84938</east>
+<south>51.56396</south>
+</bbox>
+<score>81.5789794921875</score>
+</geoname>
+</geonames>

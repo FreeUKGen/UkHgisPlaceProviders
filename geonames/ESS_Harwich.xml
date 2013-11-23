@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Harwich</toponymName>
+<name>Harwich</name>
+<lat>51.94194</lat>
+<lng>1.28437</lng>
+<geonameId>2647383</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>20578</population>
+<alternateNames>Harwich,Harwick,Kharidzh,Kharvich,QQH,Харвич,Харидж</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UN</adminCode3>
+<adminName3>Tendring District</adminName3>
+<alternateName lang="iata">QQH</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harwich</alternateName>
+<alternateName lang="ru">Харидж</alternateName>
+<alternateName lang="unlc">HRW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.25428</west>
+<north>51.96048</north>
+<east>1.31446</east>
+<south>51.9234</south>
+</bbox>
+<score>85.05972290039062</score>
+</geoname>
+<geoname>
+<toponymName>Harwich</toponymName>
+<name>Harwich</name>
+<lat>51.93242</lat>
+<lng>1.26317</lng>
+<geonameId>7293544</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UN</adminCode3>
+<adminName3>Tendring District</adminName3>
+<adminCode4>22UN012</adminCode4>
+<adminName4>Harwich</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.22976</west>
+<north>51.9497</north>
+<east>1.29659</east>
+<south>51.91513</south>
+</bbox>
+<score>69.51496887207031</score>
+</geoname>
+<geoname>
+<toponymName>Harwich</toponymName>
+<name>Harwich</name>
+<lat>51.9484</lat>
+<lng>1.28707</lng>
+<geonameId>6288064</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UN</adminCode3>
+<adminName3>Tendring District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>17.378742218017578</score>
+</geoname>
+</geonames>

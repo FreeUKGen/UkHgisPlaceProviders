@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Marston on Dove</toponymName>
+<name>Marston on Dove</name>
+<lat>52.86738</lat>
+<lng>-1.64602</lng>
+<geonameId>7300220</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UK</adminCode3>
+<adminName3>South Derbyshire District</adminName3>
+<adminCode4>17UK029</adminCode4>
+<adminName4>Marston on Dove</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marston_on_Dove</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.66518</west>
+<north>52.88179</north>
+<east>-1.62685</east>
+<south>52.85296</south>
+</bbox>
+<score>54.37495422363281</score>
+</geoname>
+</geonames>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Pontypool</toponymName>
+<name>Pontypool</name>
+<lat>51.70111</lat>
+<lng>-3.04444</lng>
+<geonameId>2640106</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>35686</population>
+<alternateNames>Pont-y-pwl,Pont-y-pŵl,Pontipul,Pontupul,pontipul,Понтъпул,Понтіпул,폰티풀</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z2</adminCode2>
+<adminName2>Torfaen</adminName2>
+<alternateName lang="bg">Понтъпул</alternateName>
+<alternateName lang="cy">Pont-y-pŵl</alternateName>
+<alternateName lang="ko">폰티풀</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pontypool</alternateName>
+<alternateName lang="uk">Понтіпул</alternateName>
+<alternateName lang="unlc">PTP</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.08354</west>
+<north>51.72533</north>
+<east>-3.00535</east>
+<south>51.67689</south>
+</bbox>
+<score>69.97416687011719</score>
+</geoname>
+</geonames>

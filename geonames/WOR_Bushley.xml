@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bushley</toponymName>
+<name>Bushley</name>
+<lat>52.00825</lat>
+<lng>-2.18585</lng>
+<geonameId>2654176</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bushley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UC</adminCode3>
+<adminName3>Malvern Hills District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bushley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.20047</west>
+<north>52.01724</north>
+<east>-2.17124</east>
+<south>51.99925</south>
+</bbox>
+<score>100.86778259277344</score>
+</geoname>
+<geoname>
+<toponymName>Bushley</toponymName>
+<name>Bushley</name>
+<lat>52.01044</lat>
+<lng>-2.18823</lng>
+<geonameId>7299667</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UC</adminCode3>
+<adminName3>Malvern Hills District</adminName3>
+<adminCode4>47UC011</adminCode4>
+<adminName4>Bushley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.21291</west>
+<north>52.03033</north>
+<east>-2.16356</east>
+<south>51.99055</south>
+</bbox>
+<score>76.08468627929688</score>
+</geoname>
+</geonames>

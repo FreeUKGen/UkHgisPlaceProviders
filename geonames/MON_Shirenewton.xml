@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Shirenewton</toponymName>
+<name>Shirenewton</name>
+<lat>51.65108</lat>
+<lng>-2.79574</lng>
+<geonameId>7291024</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP030</adminCode3>
+<adminName3>Shirenewton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.86771</west>
+<north>51.67507</north>
+<east>-2.72377</east>
+<south>51.62709</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Shirenewton</toponymName>
+<name>Shirenewton</name>
+<lat>51.63914</lat>
+<lng>-2.75368</lng>
+<geonameId>2637939</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Shirenewton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP030</adminCode3>
+<adminName3>Shirenewton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shirenewton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.76817</west>
+<north>51.64814</north>
+<east>-2.73919</east>
+<south>51.63015</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+</geonames>

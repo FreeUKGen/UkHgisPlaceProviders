@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bodmin</toponymName>
+<name>Bodmin</name>
+<lat>50.46776</lat>
+<lng>-4.71603</lng>
+<geonameId>7299979</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE006</adminCode3>
+<adminName3>Bodmin</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.75914</west>
+<north>50.48616</north>
+<east>-4.67291</east>
+<south>50.44937</south>
+</bbox>
+<score>103.65032958984375</score>
+</geoname>
+<geoname>
+<toponymName>Bodmin</toponymName>
+<name>Bodmin</name>
+<lat>50.47151</lat>
+<lng>-4.7243</lng>
+<geonameId>2655273</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>13063</population>
+<alternateNames>Bodmin,Bosvenegh,bo de ming,Бодмин,博德明</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE006</adminCode3>
+<adminName3>Bodmin</adminName3>
+<alternateName lang="br">Bosvenegh</alternateName>
+<alternateName lang="kw">Bosvenegh</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bodmin</alternateName>
+<alternateName lang="ru">Бодмин</alternateName>
+<alternateName lang="unlc">BDM</alternateName>
+<alternateName lang="zh">博德明</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.74665</west>
+<north>50.48573</north>
+<east>-4.70195</east>
+<south>50.45729</south>
+</bbox>
+<score>99.43559265136719</score>
+</geoname>
+</geonames>

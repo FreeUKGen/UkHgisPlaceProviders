@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Longton</toponymName>
+<name>Longton</name>
+<lat>52.98333</lat>
+<lng>-2.13333</lng>
+<geonameId>2643620</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>12794</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Longton%2C_Staffordshire</alternateName>
+<alternateName lang="unlc">LGT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.15696</west>
+<north>52.99755</north>
+<east>-2.10971</east>
+<south>52.96911</south>
+</bbox>
+<score>90.10881805419922</score>
+</geoname>
+<geoname>
+<toponymName>Longton</toponymName>
+<name>Longton</name>
+<lat>53.71667</lat>
+<lng>-2.8</lng>
+<geonameId>2643619</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Longton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UN</adminCode3>
+<adminName3>South Ribble</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Longton%2C_Lancashire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.8152</west>
+<north>53.72566</north>
+<east>-2.7848</east>
+<south>53.70767</south>
+</bbox>
+<score>82.46223449707031</score>
+</geoname>
+<geoname>
+<toponymName>Longton</toponymName>
+<name>Longton</name>
+<lat>53.72342</lat>
+<lng>-2.79968</lng>
+<geonameId>7295384</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UN</adminCode3>
+<adminName3>South Ribble</adminName3>
+<adminCode4>30UN005</adminCode4>
+<adminName4>Longton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.87092</west>
+<north>53.73783</north>
+<east>-2.72844</east>
+<south>53.70901</south>
+</bbox>
+<score>65.23898315429688</score>
+</geoname>
+</geonames>

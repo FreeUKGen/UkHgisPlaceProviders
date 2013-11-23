@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Falkland</toponymName>
+<name>Falkland</name>
+<lat>56.25053</lat>
+<lng>-3.20552</lng>
+<geonameId>2649722</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1168</population>
+<alternateNames>Falkland</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V1</adminCode2>
+<adminName2>Fife</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Falkland%2C_Fife</alternateName>
+<alternateName lang="unlc">FKL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.20714</west>
+<north>56.25143</north>
+<east>-3.2039</east>
+<south>56.24964</south>
+</bbox>
+<score>82.34130096435547</score>
+</geoname>
+</geonames>

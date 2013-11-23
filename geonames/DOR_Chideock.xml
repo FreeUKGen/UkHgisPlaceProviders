@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Chideock</toponymName>
+<name>Chideock</name>
+<lat>50.73216</lat>
+<lng>-2.8192</lng>
+<geonameId>2653180</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Chideock</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chideock</alternateName>
+<alternateName lang="unlc">CDK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.83341</west>
+<north>50.74115</north>
+<east>-2.80498</east>
+<south>50.72317</south>
+</bbox>
+<score>93.73417663574219</score>
+</geoname>
+<geoname>
+<toponymName>Chideock</toponymName>
+<name>Chideock</name>
+<lat>50.73277</lat>
+<lng>-2.82214</lng>
+<geonameId>7293417</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH034</adminCode4>
+<adminName4>Chideock</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.84569</west>
+<north>50.74836</north>
+<east>-2.79859</east>
+<south>50.71717</south>
+</bbox>
+<score>82.2243881225586</score>
+</geoname>
+</geonames>

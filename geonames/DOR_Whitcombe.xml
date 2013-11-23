@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Whitcombe</toponymName>
+<name>Whitcombe</name>
+<lat>50.68293</lat>
+<lng>-2.41016</lng>
+<geonameId>7295030</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH126</adminCode4>
+<adminName4>Whitcombe</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.42841</west>
+<north>50.69961</north>
+<east>-2.39191</east>
+<south>50.66626</south>
+</bbox>
+<score>72.01506042480469</score>
+</geoname>
+<geoname>
+<toponymName>Whitcombe</toponymName>
+<name>Whitcombe</name>
+<lat>50.68333</lat>
+<lng>-2.4</lng>
+<geonameId>2634122</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<alternateName lang="unlc">WCB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.4142</west>
+<north>50.69233</north>
+<east>-2.3858</east>
+<south>50.67434</south>
+</bbox>
+<score>44.1429443359375</score>
+</geoname>
+</geonames>

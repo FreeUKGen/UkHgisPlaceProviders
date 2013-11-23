@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Steppingley</toponymName>
+<name>Steppingley</name>
+<lat>52.00945</lat>
+<lng>-0.52792</lng>
+<geonameId>7294331</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC063</adminCode3>
+<adminName3>Steppingley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.55176</west>
+<north>52.02223</north>
+<east>-0.50408</east>
+<south>51.99668</south>
+</bbox>
+<score>113.40838623046875</score>
+</geoname>
+<geoname>
+<toponymName>Steppingley</toponymName>
+<name>Steppingley</name>
+<lat>52.00758</lat>
+<lng>-0.52855</lng>
+<geonameId>2636947</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC063</adminCode3>
+<adminName3>Steppingley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Steppingley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.55778</west>
+<north>52.02557</north>
+<east>-0.49931</east>
+<south>51.98959</south>
+</bbox>
+<score>78.12171936035156</score>
+</geoname>
+</geonames>

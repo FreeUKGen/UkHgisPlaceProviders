@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Docking</toponymName>
+<name>Docking</name>
+<lat>52.90103</lat>
+<lng>0.62553</lng>
+<geonameId>2651188</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Docking%2C_Norfolk</alternateName>
+<alternateName lang="unlc">DKQ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.61062</west>
+<north>52.91003</north>
+<east>0.64045</east>
+<south>52.89204</south>
+</bbox>
+<score>82.17095947265625</score>
+</geoname>
+<geoname>
+<toponymName>Docking</toponymName>
+<name>Docking</name>
+<lat>52.9055</lat>
+<lng>0.62491</lng>
+<geonameId>7300541</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<adminCode4>33UE021</adminCode4>
+<adminName4>Docking</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.57328</west>
+<north>52.93747</north>
+<east>0.67654</east>
+<south>52.87354</south>
+</bbox>
+<score>77.73785400390625</score>
+</geoname>
+</geonames>

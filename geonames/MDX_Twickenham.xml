@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Twickenham</toponymName>
+<name>Twickenham</name>
+<lat>51.4454</lat>
+<lng>-0.32968</lng>
+<geonameId>2635308</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Tuikenem,ista tvikanahama,teuwikeuneom,Туикенем,ईस्ट ट्विकनहम,트위크넘</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>L1</adminCode3>
+<adminName3>Richmond upon Thames</adminName3>
+<alternateName lang="hi">ईस्ट ट्विकनहम</alternateName>
+<alternateName lang="ko">트위크넘</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Twickenham</alternateName>
+<alternateName lang="ru">Туикенем</alternateName>
+<alternateName lang="unlc">TWC</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.35855</west>
+<north>51.46338</north>
+<east>-0.3008</east>
+<south>51.42741</south>
+</bbox>
+<score>46.984458923339844</score>
+</geoname>
+</geonames>

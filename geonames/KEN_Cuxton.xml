@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cuxton</toponymName>
+<name>Cuxton</name>
+<lat>51.37945</lat>
+<lng>0.44485</lng>
+<geonameId>7290863</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I3</adminCode2>
+<adminName2>Medway</adminName2>
+<adminCode3>00LC004</adminCode3>
+<adminName3>Cuxton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.41401</west>
+<north>51.39428</north>
+<east>0.47569</east>
+<south>51.36462</south>
+</bbox>
+<score>113.36953735351562</score>
+</geoname>
+<geoname>
+<toponymName>Cuxton</toponymName>
+<name>Cuxton</name>
+<lat>51.3743</lat>
+<lng>0.45688</lng>
+<geonameId>2651662</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>2894</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I3</adminCode2>
+<adminName2>Medway</adminName2>
+<adminCode3>00LC004</adminCode3>
+<adminName3>Cuxton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cuxton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.44669</west>
+<north>51.38066</north>
+<east>0.46707</east>
+<south>51.36794</south>
+</bbox>
+<score>91.76847839355469</score>
+</geoname>
+</geonames>

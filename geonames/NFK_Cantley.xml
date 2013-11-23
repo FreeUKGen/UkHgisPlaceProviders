@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Cantley</toponymName>
+<name>Cantley</name>
+<lat>53.50915</lat>
+<lng>-1.02828</lng>
+<geonameId>7293378</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D5</adminCode2>
+<adminName2>Doncaster</adminName2>
+<adminCode3>00CE014</adminCode3>
+<adminName3>Cantley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.09787</west>
+<north>53.53572</north>
+<east>-0.95869</east>
+<south>53.48257</south>
+</bbox>
+<score>101.07999420166016</score>
+</geoname>
+<geoname>
+<toponymName>Cantley</toponymName>
+<name>Cantley</name>
+<lat>52.57896</lat>
+<lng>1.51354</lng>
+<geonameId>2653874</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cantley%2C_Norfolk</alternateName>
+<alternateName lang="unlc">CTY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.49874</west>
+<north>52.58795</north>
+<east>1.52834</east>
+<south>52.56996</south>
+</bbox>
+<score>77.00861358642578</score>
+</geoname>
+<geoname>
+<toponymName>Cantley</toponymName>
+<name>Cantley</name>
+<lat>52.58091</lat>
+<lng>1.52155</lng>
+<geonameId>7300115</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<adminCode4>33UC016</adminCode4>
+<adminName4>Cantley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.48783</west>
+<north>52.60652</north>
+<east>1.55527</east>
+<south>52.5553</south>
+</bbox>
+<score>72.91876220703125</score>
+</geoname>
+<geoname>
+<toponymName>Cantley</toponymName>
+<name>Cantley</name>
+<lat>53.5</lat>
+<lng>-1.05</lng>
+<geonameId>2653873</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D5</adminCode2>
+<adminName2>Doncaster</adminName2>
+<adminCode3>00CE014</adminCode3>
+<adminName3>Cantley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cantley%2C_South_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.08025</west>
+<north>53.51799</north>
+<east>-1.01975</east>
+<south>53.48201</south>
+</bbox>
+<score>65.21604919433594</score>
+</geoname>
+<geoname>
+<toponymName>Cantley</toponymName>
+<name>Cantley</name>
+<lat>52.57498</lat>
+<lng>1.52197</lng>
+<geonameId>7116270</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>SWT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>sewage treatment plant</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>18.229690551757812</score>
+</geoname>
+</geonames>

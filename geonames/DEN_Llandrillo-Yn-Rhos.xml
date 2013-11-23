@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llandrillo-yn-Rhôs</toponymName>
+<name>Llandrillo-yn-Rhôs</name>
+<lat>53.3</lat>
+<lng>-3.75</lng>
+<geonameId>2644123</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llandrillo,Llandrillo-yn-Rhos,Llandrillo-yn-Rhôs</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.76505</west>
+<north>53.30899</north>
+<east>-3.73495</east>
+<south>53.29101</south>
+</bbox>
+<score>76.57907104492188</score>
+</geoname>
+</geonames>

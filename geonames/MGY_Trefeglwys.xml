@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Trefeglwys</toponymName>
+<name>Trefeglwys</name>
+<lat>52.5081</lat>
+<lng>-3.60419</lng>
+<geonameId>7298774</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN102</adminCode3>
+<adminName3>Trefeglwys</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.74113</west>
+<north>52.54116</north>
+<east>-3.46725</east>
+<south>52.47504</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Trefeglwys</toponymName>
+<name>Trefeglwys</name>
+<lat>52.50352</lat>
+<lng>-3.5191</lng>
+<geonameId>2635539</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Trefeglwys</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN102</adminCode3>
+<adminName3>Trefeglwys</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Trefeglwys</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.53388</west>
+<north>52.51251</north>
+<east>-3.50432</east>
+<south>52.49452</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+</geonames>

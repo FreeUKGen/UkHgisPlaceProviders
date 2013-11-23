@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Holbeach</toponymName>
+<name>Holbeach</name>
+<lat>52.80401</lat>
+<lng>0.01442</lng>
+<geonameId>2646787</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7408</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UF</adminCode3>
+<adminName3>South Holland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Holbeach</alternateName>
+<alternateName lang="unlc">HOL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.00381</west>
+<north>52.81502</north>
+<east>0.03264</east>
+<south>52.79299</south>
+</bbox>
+<score>98.0672607421875</score>
+</geoname>
+<geoname>
+<toponymName>Holbeach</toponymName>
+<name>Holbeach</name>
+<lat>52.82324</lat>
+<lng>0.07902</lng>
+<geonameId>7301776</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UF</adminCode3>
+<adminName3>South Holland District</adminName3>
+<adminCode4>32UF009</adminCode4>
+<adminName4>Holbeach</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.07341</west>
+<north>52.97241</north>
+<east>0.23146</east>
+<south>52.67407</south>
+</bbox>
+<score>79.05203247070312</score>
+</geoname>
+<geoname>
+<toponymName>Holbeach</toponymName>
+<name>Holbeach</name>
+<lat>52.86667</lat>
+<lng>0.15</lng>
+<geonameId>6296678</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>STNM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>meteorological station</fcodeName>
+<population/>
+<alternateNames>EGYH</alternateNames>
+<elevation>3</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UF</adminCode3>
+<adminName3>South Holland District</adminName3>
+<alternateName lang="icao">EGYH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>16.131864547729492</score>
+</geoname>
+</geonames>

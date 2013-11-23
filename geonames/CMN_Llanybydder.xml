@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanybydder</toponymName>
+<name>Llanybydder</name>
+<lat>52.04894</lat>
+<lng>-4.11235</lng>
+<geonameId>7292360</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU057</adminCode3>
+<adminName3>Llanybydder</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.18145</west>
+<north>52.08455</north>
+<east>-4.04325</east>
+<south>52.01334</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Llanybydder</toponymName>
+<name>Llanybydder</name>
+<lat>52.07476</lat>
+<lng>-4.15764</lng>
+<geonameId>2643902</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanybydder</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.17227</west>
+<north>52.08375</north>
+<east>-4.143</east>
+<south>52.06576</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+</geonames>

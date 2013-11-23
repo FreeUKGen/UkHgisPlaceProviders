@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Welton Le Marsh</toponymName>
+<name>Welton Le Marsh</name>
+<lat>53.19802</lat>
+<lng>0.20103</lng>
+<geonameId>7299123</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC175</adminCode4>
+<adminName4>Welton Le Marsh</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Welton_le_Marsh</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.16063</west>
+<north>53.21375</north>
+<east>0.24142</east>
+<south>53.1823</south>
+</bbox>
+<score>53.90093231201172</score>
+</geoname>
+</geonames>

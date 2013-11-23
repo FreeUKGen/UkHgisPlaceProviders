@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Elmbridge</toponymName>
+<name>Elmbridge</name>
+<lat>52.31667</lat>
+<lng>-2.15</lng>
+<geonameId>2650080</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Elmbridge</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Elmbridge%2C_Worcestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.16472</west>
+<north>52.32566</north>
+<east>-2.13528</east>
+<south>52.30767</south>
+</bbox>
+<score>96.14228820800781</score>
+</geoname>
+<geoname>
+<toponymName>Elmbridge</toponymName>
+<name>Elmbridge</name>
+<lat>52.32268</lat>
+<lng>-2.16022</lng>
+<geonameId>7296045</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<adminCode4>47UF035</adminCode4>
+<adminName4>Elmbridge</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Elmbridge</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.1855</west>
+<north>52.34673</north>
+<east>-2.13493</east>
+<south>52.29862</south>
+</bbox>
+<score>56.18492889404297</score>
+</geoname>
+</geonames>

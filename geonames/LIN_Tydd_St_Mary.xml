@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Tydd St. Mary</toponymName>
+<name>Tydd St. Mary</name>
+<lat>52.7405</lat>
+<lng>0.13253</lng>
+<geonameId>7299172</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UF</adminCode3>
+<adminName3>South Holland District</adminName3>
+<adminCode4>32UF020</adminCode4>
+<adminName4>Tydd St. Mary</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.07743</west>
+<north>52.7574</north>
+<east>0.18762</east>
+<south>52.72361</south>
+</bbox>
+<score>72.60374450683594</score>
+</geoname>
+</geonames>

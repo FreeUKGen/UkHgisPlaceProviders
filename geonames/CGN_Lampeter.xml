@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Lampeter</toponymName>
+<name>Lampeter</name>
+<lat>52.11762</lat>
+<lng>-4.08244</lng>
+<geonameId>7291015</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ014</adminCode3>
+<adminName3>Lampeter</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.11909</west>
+<north>52.13939</north>
+<east>-4.04578</east>
+<south>52.09584</south>
+</bbox>
+<score>101.07791900634766</score>
+</geoname>
+<geoname>
+<toponymName>Lampeter</toponymName>
+<name>Lampeter</name>
+<lat>52.11285</lat>
+<lng>-4.08039</lng>
+<geonameId>2644981</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2926</population>
+<alternateNames>Lampeter,Llanbedr Pont Steffan</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ014</adminCode3>
+<adminName3>Lampeter</adminName3>
+<alternateName lang="cy">Llanbedr Pont Steffan</alternateName>
+<alternateName lang="en">Lampeter</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lampeter</alternateName>
+<alternateName lang="unlc">LMP</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.09074</west>
+<north>52.1192</north>
+<east>-4.07003</east>
+<south>52.10649</south>
+</bbox>
+<score>95.87895202636719</score>
+</geoname>
+</geonames>

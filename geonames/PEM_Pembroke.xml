@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Pembroke</toponymName>
+<name>Pembroke</name>
+<lat>51.66662</lat>
+<lng>-4.90943</lng>
+<geonameId>7296026</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS053</adminCode3>
+<adminName3>Pembroke</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.93933</west>
+<north>51.68731</north>
+<east>-4.87953</east>
+<south>51.64594</south>
+</bbox>
+<score>87.52702331542969</score>
+</geoname>
+<geoname>
+<toponymName>Pembroke</toponymName>
+<name>Pembroke</name>
+<lat>51.67464</lat>
+<lng>-4.91286</lng>
+<geonameId>2640503</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7294</population>
+<alternateNames>Pembroke,Penfro</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS053</adminCode3>
+<adminName3>Pembroke</adminName3>
+<alternateName lang="cy">Penfro</alternateName>
+<alternateName lang="en">Pembroke</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pembroke%2C_Pembrokeshire</alternateName>
+<alternateName lang="unlc">PEM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.93062</west>
+<north>51.68565</north>
+<east>-4.89509</east>
+<south>51.66362</south>
+</bbox>
+<score>73.04019165039062</score>
+</geoname>
+</geonames>

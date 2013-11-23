@@ -1,0 +1,55 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>7257</id>
+<name>BILBOROUGH</name>
+<container>NOTTINGHAMSHIRE</container>
+<lat>52.975657551781</lat>
+<lon>-1.22049744815021</lon>
+<gazetteerText>BILBOROUGH, a parish in Basford district, Notts; on the Nottingham canal, 3 miles W of Radford r. station, and 4 NW of Nottingham. It includes the hamlet of Broxtow; and its Post Town is Wollaton, under Nottingham. Acres, 1,090. Real property, &#163;1,788. Pop., 232. Houses, 47. The property is divided between two. Coal was formerly worked. The living is a rectory in the diocese of Lincoln. Value, &#163;273. Patron, T. W. Edge, Esq. The church is tolerable. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/NTT/Bilborough/index.html</link>
+<link>http://en.wikipedia.org/wiki/Bilborough</link>
+</links>
+<unit>
+   <id>10256793</id>
+   <status>CP/AP</status>
+   <name>BILBOROUGH</name>
+</unit>
+<unit>
+   <id>10256811</id>
+   <status>EP</status>
+   <name>BILBOROUGH</name>
+</unit>
+<unit>
+   <id>10256823</id>
+   <status>EP</status>
+   <name>BILBOROUGH WITH STRELLEY</name>
+</unit>
+<unit>
+   <id>10256835</id>
+   <status>EP</status>
+   <name>BILBOROUGH ST JOHN THE BAPTIST</name>
+</unit>
+<nearByPlace>
+   <id>7486</id>
+   <name>KIMBERLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7715</id>
+   <name>NUTHALL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7771</id>
+   <name>STRELLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7821</id>
+   <name>WOLLATON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17364</id>
+   <name>BROXTOWE</name>
+</nearByPlace>
+</place>
+</results>

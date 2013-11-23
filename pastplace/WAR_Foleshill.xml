@@ -1,0 +1,92 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>8980</id>
+<name>FOLESHILL</name>
+<container>WARWICKSHIRE</container>
+<lat>52.4441665644464</lat>
+<lon>-1.48027764610325</lon>
+<gazetteerText>FOLESHILL, a town, a parish, a sub-district, and a district in Warwick. The town stands adjacent to the Oxford canal and the Coventry and Nuneaton railway, 2&#189; miles NNE of Coventry; has a station on the railway, and a post office under Coventry; and participates in the ribbon, silk, and other manufactures of Coventry. The parish comprises 2, 594 acres. Real property, &#163;23, 950; of which &#163;2, 437 are in mines. Pop., 8, 140. Houses, 1, 913. Foleshill Manor House and Foleshill Hall are chief residences. Iron-founding, coal-mining, and brick-making are carried on. Both the head living and another living called St. Paul&apos;s are vicarages in the diocese of Worcester. Value of the former, &#163;353;* of the latter, &#163;180. Patron of the former, the Lord Chancellor; of the latter, the Vicar of F. The head church was enlarged in 1816; and has an ancient font. There are chapels for Independents, Baptists, Wesleyans, and Primitive Methodists, and two national schools. -The sub-district contains also the parish of Exhall and Bedworth, and the hamlet of Keresley. Acres, 7, 799. Pop., 15, 327. Houses, 3, 503. -The district includes likewise the sub-district of Sowe, containing the parishes of Sowe, Anstey, Shilton, Withybrook, Wyken, Stoke, and Binley, and the hamlet of Willenhall. Acres, 19, 389. Poor-rates in 1862, &#163;11, 555. Pop. in 1851, 18, 527; in 1861, 19, 997. Houses, 4, 556. Marriages in 1860, 114; births, 804. -of which 54 were illegitimate; deaths, 407, -of which 185 were at ages under 5 years, and 14 at ages above 85. Marriages in the ten years 1851-60, 1, 535; births, 8, 161; deaths, 4, 880. The places of worship, in 1851, were 12 of the Church of England, with 5, 909 sittings; 6 of Independents, with 2, 008 s.; 8 of Baptists, with 2, 141 s.; 5 of Wesleyan Methodists, with 818 s.; 6 of Primitive Methodists, with 1, 126 s.; and 1 of the Wesleyan Association, with 150 s. The schools were 15 public day schools, with 1, 090 scholars; 8 private day schools, with 268 s.; 26 Sunday schools, with 2, 074 s.; and 1 evening schools for adults, with 12 s. There are two workhouses in Foleshill, and another in Exhall. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/WAR/Foleshill/index.html</link>
+<link>http://en.wikipedia.org/wiki/Foleshill</link>
+<link>http://www.workhouses.org.uk/Foleshill</link>
+<link>http://www.geonames.org/2649259</link>
+</links>
+<unit>
+   <id>10002473</id>
+   <status>RD</status>
+   <name>FOLESHILL</name>
+</unit>
+<unit>
+   <id>10138504</id>
+   <status>RSD</status>
+   <name>FOLESHILL</name>
+</unit>
+<unit>
+   <id>10139909</id>
+   <status>PLU/RegD</status>
+   <name>FOLESHILL</name>
+</unit>
+<unit>
+   <id>10308562</id>
+   <status>AP/CP/Ch</status>
+   <name>FOLESHILL</name>
+</unit>
+<unit>
+   <id>10308604</id>
+   <status>EP</status>
+   <name>FOLESHILL</name>
+</unit>
+<unit>
+   <id>10308630</id>
+   <status>EP</status>
+   <name>FOLESHILL ST PAUL</name>
+</unit>
+<unit>
+   <id>10548329</id>
+   <status></status>
+   <name>FOLESHILL</name>
+</unit>
+<nearByPlace>
+   <id>854</id>
+   <name>BULKINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1248</id>
+   <name>BEDWORTH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8518</id>
+   <name>ALLESLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8581</id>
+   <name>BINLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8911</id>
+   <name>COUNDON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9150</id>
+   <name>KERESLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9340</id>
+   <name>RYTON ON DUNSMORE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9347</id>
+   <name>SHILTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9386</id>
+   <name>WALSGRAVE ON SOWE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9479</id>
+   <name>WYKEN</name>
+</nearByPlace>
+</place>
+</results>

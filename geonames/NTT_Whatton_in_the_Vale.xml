@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Whatton-in-the-Vale</toponymName>
+<name>Whatton-in-the-Vale</name>
+<lat>52.94026</lat>
+<lng>-0.89664</lng>
+<geonameId>7296978</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<adminCode4>37UJ054</adminCode4>
+<adminName4>Whatton-in-the-Vale</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.92333</west>
+<north>52.95549</north>
+<east>-0.86996</east>
+<south>52.92503</south>
+</bbox>
+<score>68.11921691894531</score>
+</geoname>
+</geonames>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Crick</toponymName>
+<name>Crick</name>
+<lat>52.34808</lat>
+<lng>-1.13708</lng>
+<geonameId>2651989</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Crick%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.15181</west>
+<north>52.35708</north>
+<east>-1.12236</east>
+<south>52.33909</south>
+</bbox>
+<score>83.59005737304688</score>
+</geoname>
+<geoname>
+<toponymName>Crick</toponymName>
+<name>Crick</name>
+<lat>52.34725</lat>
+<lng>-1.13606</lng>
+<geonameId>7297700</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<adminCode4>34UC022</adminCode4>
+<adminName4>Crick</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.17482</west>
+<north>52.36972</north>
+<east>-1.0973</east>
+<south>52.32477</south>
+</bbox>
+<score>79.38258361816406</score>
+</geoname>
+<geoname>
+<toponymName>Crick</toponymName>
+<name>Crick</name>
+<lat>51.60889</lat>
+<lng>-2.74028</lng>
+<geonameId>2651990</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Crich,Crick</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Crick%2C_Monmouthshire</alternateName>
+<alternateName lang="unlc">ZAT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.75476</west>
+<north>51.61788</north>
+<east>-2.72579</east>
+<south>51.5999</south>
+</bbox>
+<score>76.48491668701172</score>
+</geoname>
+</geonames>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Hickling</toponymName>
+<name>Hickling</name>
+<lat>52.75546</lat>
+<lng>1.56984</lng>
+<geonameId>2646992</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hickling%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.55498</west>
+<north>52.76446</north>
+<east>1.58471</east>
+<south>52.74647</south>
+</bbox>
+<score>83.5103988647461</score>
+</geoname>
+<geoname>
+<toponymName>Hickling</toponymName>
+<name>Hickling</name>
+<lat>52.75317</lat>
+<lng>1.57878</lng>
+<geonameId>7299278</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF043</adminCode4>
+<adminName4>Hickling</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.53655</west>
+<north>52.77565</north>
+<east>1.621</east>
+<south>52.73069</south>
+</bbox>
+<score>80.03607177734375</score>
+</geoname>
+<geoname>
+<toponymName>Hickling</toponymName>
+<name>Hickling</name>
+<lat>52.84779</lat>
+<lng>-0.98607</lng>
+<geonameId>7296970</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<adminCode4>37UJ022</adminCode4>
+<adminName4>Hickling</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hickling%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.03346</west>
+<north>52.86348</north>
+<east>-0.93868</east>
+<south>52.83211</south>
+</bbox>
+<score>54.46424865722656</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Challacombe</toponymName>
+<name>Challacombe</name>
+<lat>51.14717</lat>
+<lng>-3.88724</lng>
+<geonameId>2653390</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UE</adminCode3>
+<adminName3>North Devon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Challacombe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.90158</west>
+<north>51.15616</north>
+<east>-3.8729</east>
+<south>51.13817</south>
+</bbox>
+<score>90.41847229003906</score>
+</geoname>
+<geoname>
+<toponymName>Challacombe</toponymName>
+<name>Challacombe</name>
+<lat>51.15395</lat>
+<lng>-3.88444</lng>
+<geonameId>7298219</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UE</adminCode3>
+<adminName3>North Devon District</adminName3>
+<adminCode4>18UE014</adminCode4>
+<adminName4>Challacombe</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.93683</west>
+<north>51.18081</north>
+<east>-3.83205</east>
+<south>51.12709</south>
+</bbox>
+<score>80.21141052246094</score>
+</geoname>
+</geonames>

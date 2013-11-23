@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Stromness</toponymName>
+<name>Stromness</name>
+<lat>58.96498</lat>
+<lng>-3.29601</lng>
+<geonameId>2636638</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1564</population>
+<alternateNames>Hamnavoe,Straumnes,Stromnes,Strømnes</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V9</adminCode2>
+<adminName2>Orkney</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stromness</alternateName>
+<alternateName lang="unlc">SNS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.30473</west>
+<north>58.96948</north>
+<east>-3.28728</east>
+<south>58.96048</south>
+</bbox>
+<score>76.01838684082031</score>
+</geoname>
+</geonames>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Easingwold</toponymName>
+<name>Easingwold</name>
+<lat>54.1191</lat>
+<lng>-1.19225</lng>
+<geonameId>2650517</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4064</population>
+<alternateNames>Easingwold</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Easingwold</alternateName>
+<alternateName lang="unlc">ENW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.20554</west>
+<north>54.12689</north>
+<east>-1.17896</east>
+<south>54.11132</south>
+</bbox>
+<score>107.60218811035156</score>
+</geoname>
+<geoname>
+<toponymName>Easingwold</toponymName>
+<name>Easingwold</name>
+<lat>54.09273</lat>
+<lng>-1.20245</lng>
+<geonameId>7291505</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<adminCode4>36UC041</adminCode4>
+<adminName4>Easingwold</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.24775</west>
+<north>54.14511</north>
+<east>-1.15715</east>
+<south>54.04034</south>
+</bbox>
+<score>80.46937561035156</score>
+</geoname>
+</geonames>

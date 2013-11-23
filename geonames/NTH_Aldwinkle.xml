@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Aldwincle Saint Peter</toponymName>
+<name>Aldwincle Saint Peter</name>
+<lat>52.41667</lat>
+<lng>-0.51667</lng>
+<geonameId>2657523</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Aldwincle,Aldwincle Saint Peter,Saint Peter Aldwinkle</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aldwincle</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.53142</west>
+<north>52.42566</north>
+<east>-0.50192</east>
+<south>52.40767</south>
+</bbox>
+<score>40.740882873535156</score>
+</geoname>
+</geonames>

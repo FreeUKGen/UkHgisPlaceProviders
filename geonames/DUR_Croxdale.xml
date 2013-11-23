@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Croxdale</toponymName>
+<name>Croxdale</name>
+<lat>54.72836</lat>
+<lng>-1.58585</lng>
+<geonameId>2651828</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Croxdale</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ026</adminCode3>
+<adminName3>Croxdale and Hett</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Croxdale</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.60143</west>
+<north>54.73735</north>
+<east>-1.57027</east>
+<south>54.71937</south>
+</bbox>
+<score>107.63983154296875</score>
+</geoname>
+</geonames>

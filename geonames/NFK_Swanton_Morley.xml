@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Swanton Morley</toponymName>
+<name>Swanton Morley</name>
+<lat>52.71506</lat>
+<lng>0.98705</lng>
+<geonameId>7296651</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<adminCode4>33UB098</adminCode4>
+<adminName4>Swanton Morley</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Swanton_Morley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.95219</west>
+<north>52.73539</north>
+<east>1.02192</east>
+<south>52.69472</south>
+</bbox>
+<score>53.9781379699707</score>
+</geoname>
+</geonames>

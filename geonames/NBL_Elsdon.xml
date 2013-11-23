@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Elsdon</toponymName>
+<name>Elsdon</name>
+<lat>55.21789</lat>
+<lng>-2.09512</lng>
+<geonameId>7291383</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM055</adminCode3>
+<adminName3>Elsdon</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.16744</west>
+<north>55.26068</north>
+<east>-2.02279</east>
+<south>55.17509</south>
+</bbox>
+<score>107.12007141113281</score>
+</geoname>
+<geoname>
+<toponymName>Elsdon</toponymName>
+<name>Elsdon</name>
+<lat>55.23288</lat>
+<lng>-2.10249</lng>
+<geonameId>2650062</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Elsdon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM055</adminCode3>
+<adminName3>Elsdon</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Elsdon%2C_Northumberland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.11826</west>
+<north>55.24187</north>
+<east>-2.08671</east>
+<south>55.22388</south>
+</bbox>
+<score>97.17708587646484</score>
+</geoname>
+</geonames>

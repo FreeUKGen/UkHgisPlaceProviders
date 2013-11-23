@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Burstow</toponymName>
+<name>Burstow</name>
+<lat>51.15631</lat>
+<lng>-0.12463</lng>
+<geonameId>2654221</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UG</adminCode3>
+<adminName3>Mid Sussex District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.13897</west>
+<north>51.1653</north>
+<east>-0.11028</east>
+<south>51.14731</south>
+</bbox>
+<score>64.72731018066406</score>
+</geoname>
+<geoname>
+<toponymName>Burstow</toponymName>
+<name>Burstow</name>
+<lat>51.165</lat>
+<lng>-0.11863</lng>
+<geonameId>7301439</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UK</adminCode3>
+<adminName3>Tandridge District</adminName3>
+<adminCode4>43UK002</adminCode4>
+<adminName4>Burstow</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burstow</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.14354</west>
+<north>51.19157</north>
+<east>-0.09372</east>
+<south>51.13842</south>
+</bbox>
+<score>59.24615478515625</score>
+</geoname>
+</geonames>

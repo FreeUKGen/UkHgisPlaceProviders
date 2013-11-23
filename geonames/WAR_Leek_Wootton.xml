@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Leek Wootton</toponymName>
+<name>Leek Wootton</name>
+<lat>52.31845</lat>
+<lng>-1.5769</lng>
+<geonameId>2644683</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Leek Wootton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UF</adminCode3>
+<adminName3>Warwick District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Leek_Wootton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.59162</west>
+<north>52.32745</north>
+<east>-1.56219</east>
+<south>52.30946</south>
+</bbox>
+<score>98.15139770507812</score>
+</geoname>
+</geonames>

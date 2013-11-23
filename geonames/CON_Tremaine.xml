@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Tremaine</toponymName>
+<name>Tremaine</name>
+<lat>50.68468</lat>
+<lng>-4.50528</lng>
+<geonameId>7292026</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE196</adminCode3>
+<adminName3>Tremaine</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.52102</west>
+<north>50.69916</north>
+<east>-4.48954</east>
+<south>50.67019</south>
+</bbox>
+<score>106.26014709472656</score>
+</geoname>
+<geoname>
+<toponymName>Tremaine</toponymName>
+<name>Tremaine</name>
+<lat>50.67222</lat>
+<lng>-4.49704</lng>
+<geonameId>2635511</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE196</adminCode3>
+<adminName3>Tremaine</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tremaine%2C_Cornwall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.51124</west>
+<north>50.68121</north>
+<east>-4.48285</east>
+<south>50.66323</south>
+</bbox>
+<score>80.81356811523438</score>
+</geoname>
+</geonames>

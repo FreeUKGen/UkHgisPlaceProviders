@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Stanton by Dale</toponymName>
+<name>Stanton by Dale</name>
+<lat>52.93732</lat>
+<lng>-1.30931</lng>
+<geonameId>2637046</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Stanton,Stanton by Dale</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UG</adminCode3>
+<adminName3>Erewash District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stanton_by_Dale</alternateName>
+<alternateName lang="unlc">AND</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.32423</west>
+<north>52.94631</north>
+<east>-1.29438</east>
+<south>52.92832</south>
+</bbox>
+<score>73.55365753173828</score>
+</geoname>
+<geoname>
+<toponymName>Stanton by Dale</toponymName>
+<name>Stanton by Dale</name>
+<lat>52.94179</lat>
+<lng>-1.31033</lng>
+<geonameId>7294859</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UG</adminCode3>
+<adminName3>Erewash District</adminName3>
+<adminCode4>17UG012</adminCode4>
+<adminName4>Stanton by Dale</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.34184</west>
+<north>52.95273</north>
+<east>-1.27882</east>
+<south>52.93085</south>
+</bbox>
+<score>69.04102325439453</score>
+</geoname>
+</geonames>

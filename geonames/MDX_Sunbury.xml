@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Sunbury-on-Thames</toponymName>
+<name>Lower Sunbury</name>
+<lat>51.40606</lat>
+<lng>-0.4137</lng>
+<geonameId>2636534</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>27784</population>
+<alternateNames>Lower Sunbury,Sunbury,Sunbury on Thames</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UB</adminCode3>
+<adminName3>Elmbridge District</adminName3>
+<alternateName lang="en">Lower Sunbury</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sunbury-On-Thames</alternateName>
+<alternateName lang="unlc">SBY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.44829</west>
+<north>51.42763</north>
+<east>-0.37912</east>
+<south>51.38449</south>
+</bbox>
+<score>73.75558471679688</score>
+</geoname>
+</geonames>

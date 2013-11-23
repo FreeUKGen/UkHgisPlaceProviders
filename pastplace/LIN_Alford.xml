@@ -1,0 +1,76 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>232</id>
+<name>ALFORD</name>
+<container>LINCOLNSHIRE</container>
+<lat>53.2603772167863</lat>
+<lon>0.176607613242444</lon>
+<gazetteerText>ALFORD, a small town, a parish, and a subdistrict in the district of Spilsby, Lincoln. The town stands on a rivulet, adjacent to the East Lincoln railway, 10&#189; miles SSE of Louth, and 23&#188; NNE of Boston; took its name from an old ford on the rivulet; gives the title of Viscount to Earl Brownlow; comprises three main streets and a market-place; is a seat of petty sessions, and a polling place; carries on brewing, tanning, dyeing, rope-making, and other employments; and has a r. station with telegraph, a head post office,&#8225; two banking offices, three chief inns, a police station, a handsome recent corn exchange, a neat mechanics&apos; institute of 1854, with lecture-hall and library, an early English church, five dissenting chapels, a grammar school with &#163;354 a year from endowment, and with a fellowship and three scholarships at Cambridge, an endowed school for girls, a mixed national school, six alms-houses, some other charities, a weekly market on Tuesday, and stock fairs on Whit-Tuesday and 8 Nov.&#151;The parish comprises 1,410 acres. Real property, &#163;7,893. Pop., 2,658. Houses, 592. The property is subdivided. There are a mineral spring and barrows. The living is a vicarage, united to the curacy of Rigsby, in the diocese of Lincoln. Value, &#163;163. Patron, the Bishop of Lincoln.-The subdistrict comprises nineteen parishes. Acres, 32,570. Pop., 7,804. Houses, 1,633. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LIN/Alford/</link>
+<link>http://www.geonames.org/2657510</link>
+<link>http://en.wikipedia.org/wiki/Alford,_Lincolnshire</link>
+</links>
+<unit>
+   <id>10027100</id>
+   <status>UD</status>
+   <name>ALFORD</name>
+</unit>
+<unit>
+   <id>10393772</id>
+   <status>AP/CP</status>
+   <name>ALFORD</name>
+</unit>
+<unit>
+   <id>10393784</id>
+   <status>EP</status>
+   <name>ALFORD WITH RIGSBY AND AILBY</name>
+</unit>
+<unit>
+   <id>10547805</id>
+   <status></status>
+   <name>ALFORD</name>
+</unit>
+<nearByPlace>
+   <id>11572</id>
+   <name>BILSBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12510</id>
+   <name>HALTON HOLEGATE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12650</id>
+   <name>HUNDLEBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12656</id>
+   <name>HUTTOFT</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13327</id>
+   <name>MUMBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13417</id>
+   <name>PARTNEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13650</id>
+   <name>SPILSBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13728</id>
+   <name>GREAT STEEPING</name>
+</nearByPlace>
+<nearByPlace>
+   <id>14066</id>
+   <name>WELTON LE MARSH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>14079</id>
+   <name>WILLOUGHBY</name>
+</nearByPlace>
+</place>
+</results>

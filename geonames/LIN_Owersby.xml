@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>North Owersby</toponymName>
+<name>North Owersby</name>
+<lat>53.43686</lat>
+<lng>-0.40267</lng>
+<geonameId>2641285</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>North Owersby,Owersby</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/North_Owersby</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.41777</west>
+<north>53.44585</north>
+<east>-0.38757</east>
+<south>53.42787</south>
+</bbox>
+<score>68.0942153930664</score>
+</geoname>
+<geoname>
+<toponymName>Owersby</toponymName>
+<name>Owersby</name>
+<lat>53.44305</lat>
+<lng>-0.41141</lng>
+<geonameId>7299195</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<adminCode4>32UH076</adminCode4>
+<adminName4>Owersby</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Owersby</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.4687</west>
+<north>53.46642</north>
+<east>-0.35413</east>
+<south>53.41968</south>
+</bbox>
+<score>59.480499267578125</score>
+</geoname>
+</geonames>

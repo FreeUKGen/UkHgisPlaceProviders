@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Tortworth</toponymName>
+<name>Tortworth</name>
+<lat>51.63844</lat>
+<lng>-2.43357</lng>
+<geonameId>7296011</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M6</adminCode2>
+<adminName2>South Gloucestershire</adminName2>
+<adminCode3>00HD038</adminCode3>
+<adminName3>Tortworth</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.45778</west>
+<north>51.65249</north>
+<east>-2.40936</east>
+<south>51.62438</south>
+</bbox>
+<score>110.529296875</score>
+</geoname>
+<geoname>
+<toponymName>Tortworth</toponymName>
+<name>Tortworth</name>
+<lat>51.6325</lat>
+<lng>-2.43065</lng>
+<geonameId>2635623</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Tortworth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M6</adminCode2>
+<adminName2>South Gloucestershire</adminName2>
+<adminCode3>00HD038</adminCode3>
+<adminName3>Tortworth</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tortworth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.44514</west>
+<north>51.64149</north>
+<east>-2.41616</east>
+<south>51.62351</south>
+</bbox>
+<score>105.00936889648438</score>
+</geoname>
+</geonames>

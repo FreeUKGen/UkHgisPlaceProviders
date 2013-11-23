@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Landewednack</toponymName>
+<name>Landewednack</name>
+<lat>49.978</lat>
+<lng>-5.20733</lng>
+<geonameId>7300013</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE056</adminCode3>
+<adminName3>Landewednack</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.23143</west>
+<north>50.00059</north>
+<east>-5.18322</east>
+<south>49.95541</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Landewednack</toponymName>
+<name>Landewednack</name>
+<lat>49.96991</lat>
+<lng>-5.21035</lng>
+<geonameId>2644967</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Landewednack</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE056</adminCode3>
+<adminName3>Landewednack</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Landewednack</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.23833</west>
+<north>49.9879</north>
+<east>-5.18238</east>
+<south>49.95192</south>
+</bbox>
+<score>87.30439758300781</score>
+</geoname>
+</geonames>

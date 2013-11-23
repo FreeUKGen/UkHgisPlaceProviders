@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Filton</toponymName>
+<name>Filton</name>
+<lat>51.5113</lat>
+<lng>-2.5739</lng>
+<geonameId>7296006</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M6</adminCode2>
+<adminName2>South Gloucestershire</adminName2>
+<adminCode3>00HD015</adminCode3>
+<adminName3>Filton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.59122</west>
+<north>51.52385</north>
+<east>-2.55659</east>
+<south>51.49874</south>
+</bbox>
+<score>107.77098083496094</score>
+</geoname>
+<geoname>
+<toponymName>Filton</toponymName>
+<name>Filton</name>
+<lat>51.50824</lat>
+<lng>-2.57616</lng>
+<geonameId>2649452</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>FZO,Filton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M6</adminCode2>
+<adminName2>South Gloucestershire</adminName2>
+<adminCode3>00HD015</adminCode3>
+<adminName3>Filton</adminName3>
+<alternateName lang="iata">FZO</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Filton</alternateName>
+<alternateName lang="unlc">FZO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.58194</west>
+<north>51.51184</north>
+<east>-2.57038</east>
+<south>51.50465</south>
+</bbox>
+<score>73.34471130371094</score>
+</geoname>
+</geonames>

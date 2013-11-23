@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Burwash</toponymName>
+<name>Burwash</name>
+<lat>50.99755</lat>
+<lng>0.38504</lng>
+<geonameId>2654196</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E2</adminCode2>
+<adminName2>East Sussex</adminName2>
+<adminCode3>21UG</adminCode3>
+<adminName3>Rother District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burwash</alternateName>
+<alternateName lang="unlc">UHS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.37074</west>
+<north>51.00655</north>
+<east>0.39933</east>
+<south>50.98856</south>
+</bbox>
+<score>84.38302612304688</score>
+</geoname>
+<geoname>
+<toponymName>Burwash</toponymName>
+<name>Burwash</name>
+<lat>50.98751</lat>
+<lng>0.38403</lng>
+<geonameId>7298483</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E2</adminCode2>
+<adminName2>East Sussex</adminName2>
+<adminCode3>21UG</adminCode3>
+<adminName3>Rother District</adminName3>
+<adminCode4>21UG007</adminCode4>
+<adminName4>Burwash</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.32156</west>
+<north>51.01931</north>
+<east>0.44651</east>
+<south>50.95571</south>
+</bbox>
+<score>74.03559875488281</score>
+</geoname>
+</geonames>

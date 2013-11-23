@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Presteigne</toponymName>
+<name>Presteigne</name>
+<lat>52.29268</lat>
+<lng>-3.00707</lng>
+<geonameId>7297057</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN094</adminCode3>
+<adminName3>Presteigne</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.06452</west>
+<north>52.32735</north>
+<east>-2.94962</east>
+<south>52.258</south>
+</bbox>
+<score>109.92205810546875</score>
+</geoname>
+<geoname>
+<toponymName>Presteigne</toponymName>
+<name>Presteigne</name>
+<lat>52.27183</lat>
+<lng>-3.00579</lng>
+<geonameId>2639924</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1890</population>
+<alternateNames>Llanandras,Presteigh,Presteign,Presteigne</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN094</adminCode3>
+<adminName3>Presteigne</adminName3>
+<alternateName lang="cy">Llanandras</alternateName>
+<alternateName lang="en">Presteigne</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Presteigne</alternateName>
+<alternateName lang="post">LD8</alternateName>
+<alternateName lang="unlc">PSG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.01314</west>
+<north>52.27633</north>
+<east>-2.99844</east>
+<south>52.26734</south>
+</bbox>
+<score>92.28311157226562</score>
+</geoname>
+</geonames>

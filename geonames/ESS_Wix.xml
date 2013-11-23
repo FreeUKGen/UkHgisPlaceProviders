@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wix</toponymName>
+<name>Wix</name>
+<lat>51.9123</lat>
+<lng>1.14296</lng>
+<geonameId>2633715</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Wix</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UN</adminCode3>
+<adminName3>Tendring District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wix%2C_Essex</alternateName>
+<alternateName lang="unlc">WIX</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.12838</west>
+<north>51.92129</north>
+<east>1.15755</east>
+<south>51.9033</south>
+</bbox>
+<score>96.76543426513672</score>
+</geoname>
+<geoname>
+<toponymName>Wix</toponymName>
+<name>Wix</name>
+<lat>51.91579</lat>
+<lng>1.13422</lng>
+<geonameId>7295137</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UN</adminCode3>
+<adminName3>Tendring District</adminName3>
+<adminCode4>22UN026</adminCode4>
+<adminName4>Wix</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.08628</west>
+<north>51.93439</north>
+<east>1.18217</east>
+<south>51.89719</south>
+</bbox>
+<score>78.39514923095703</score>
+</geoname>
+</geonames>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Gunthorpe</toponymName>
+<name>Gunthorpe</name>
+<lat>52.64145</lat>
+<lng>-0.71198</lng>
+<geonameId>7297074</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L4</adminCode2>
+<adminName2>Rutland</adminName2>
+<adminCode3>00FP023</adminCode3>
+<adminName3>Gunthorpe</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gunthorpe%2C_Rutland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.72925</west>
+<north>52.64847</north>
+<east>-0.6947</east>
+<south>52.63443</south>
+</bbox>
+<score>67.99893188476562</score>
+</geoname>
+<geoname>
+<toponymName>Gunthorpe</toponymName>
+<name>Gunthorpe</name>
+<lat>52.88289</lat>
+<lng>0.98783</lng>
+<geonameId>7296603</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF037</adminCode4>
+<adminName4>Gunthorpe</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gunthorpe%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.96392</west>
+<north>52.90124</north>
+<east>1.01173</east>
+<south>52.86455</south>
+</bbox>
+<score>52.340118408203125</score>
+</geoname>
+<geoname>
+<toponymName>Gunthorpe</toponymName>
+<name>Gunthorpe</name>
+<lat>52.99635</lat>
+<lng>-0.99088</lng>
+<geonameId>7300896</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG033</adminCode4>
+<adminName4>Gunthorpe</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gunthorpe%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.01677</west>
+<north>53.00708</north>
+<east>-0.96499</east>
+<south>52.98561</south>
+</bbox>
+<score>52.340118408203125</score>
+</geoname>
+</geonames>

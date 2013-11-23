@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>West Quantoxhead</toponymName>
+<name>West Quantoxhead</name>
+<lat>51.16787</lat>
+<lng>-3.27313</lng>
+<geonameId>2634289</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Quantoxhead,Saint Audries,West Quantoxhead</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UF</adminCode3>
+<adminName3>West Somerset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/West_Quantoxhead</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.28748</west>
+<north>51.17686</north>
+<east>-3.25879</east>
+<south>51.15887</south>
+</bbox>
+<score>80.48664855957031</score>
+</geoname>
+<geoname>
+<toponymName>West Quantoxhead</toponymName>
+<name>West Quantoxhead</name>
+<lat>51.16829</lat>
+<lng>-3.26936</lng>
+<geonameId>7297235</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UF</adminCode3>
+<adminName3>West Somerset District</adminName3>
+<adminCode4>40UF038</adminCode4>
+<adminName4>West Quantoxhead</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.29162</west>
+<north>51.1861</north>
+<east>-3.2471</east>
+<south>51.15047</south>
+</bbox>
+<score>72.72625732421875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Faccombe</toponymName>
+<name>Faccombe</name>
+<lat>51.32115</lat>
+<lng>-1.44131</lng>
+<geonameId>2649766</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UN</adminCode3>
+<adminName3>Test Valley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Faccombe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.45571</west>
+<north>51.33014</north>
+<east>-1.42692</east>
+<south>51.31215</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+<geoname>
+<toponymName>Faccombe</toponymName>
+<name>Faccombe</name>
+<lat>51.31727</lat>
+<lng>-1.44284</lng>
+<geonameId>7298667</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UN</adminCode3>
+<adminName3>Test Valley District</adminName3>
+<adminCode4>24UN018</adminCode4>
+<adminName4>Faccombe</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.46726</west>
+<north>51.33724</north>
+<east>-1.41842</east>
+<south>51.2973</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

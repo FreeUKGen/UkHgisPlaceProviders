@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Strelley</toponymName>
+<name>Strelley</name>
+<lat>52.97599</lat>
+<lng>-1.25369</lng>
+<geonameId>7299460</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UD</adminCode3>
+<adminName3>Broxtowe District</adminName3>
+<adminCode4>37UD009</adminCode4>
+<adminName4>Strelley</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Strelley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.2754</west>
+<north>52.98895</north>
+<east>-1.23198</east>
+<south>52.96303</south>
+</bbox>
+<score>56.12712860107422</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bishop Middleham</toponymName>
+<name>Bishop Middleham</name>
+<lat>54.67868</lat>
+<lng>-1.4911</lng>
+<geonameId>7300071</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ007</adminCode3>
+<adminName3>Bishop Middleham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.5266</west>
+<north>54.69746</north>
+<east>-1.45559</east>
+<south>54.6599</south>
+</bbox>
+<score>94.49839782714844</score>
+</geoname>
+<geoname>
+<toponymName>Bishop Middleham</toponymName>
+<name>Bishop Middleham</name>
+<lat>54.67778</lat>
+<lng>-1.48826</lng>
+<geonameId>2655578</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Bishop Middleham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ007</adminCode3>
+<adminName3>Bishop Middleham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bishop_Middleham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.51939</west>
+<north>54.69576</north>
+<east>-1.45714</east>
+<south>54.65979</south>
+</bbox>
+<score>79.64027404785156</score>
+</geoname>
+</geonames>

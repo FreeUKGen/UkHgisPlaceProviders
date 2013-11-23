@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Everton</toponymName>
+<name>Everton</name>
+<lat>52.15147</lat>
+<lng>-0.25713</lng>
+<geonameId>7298353</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC024</adminCode3>
+<adminName3>Everton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.29761</west>
+<north>52.17229</north>
+<east>-0.21665</east>
+<south>52.13064</south>
+</bbox>
+<score>94.52348327636719</score>
+</geoname>
+<geoname>
+<toponymName>Everton</toponymName>
+<name>Everton</name>
+<lat>53.4</lat>
+<lng>-0.95</lng>
+<geonameId>2649835</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Everton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Everton%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.96509</west>
+<north>53.40899</north>
+<east>-0.93491</east>
+<south>53.39101</south>
+</bbox>
+<score>86.25518798828125</score>
+</geoname>
+<geoname>
+<toponymName>Everton</toponymName>
+<name>Everton</name>
+<lat>53.42104</lat>
+<lng>-0.96177</lng>
+<geonameId>7296071</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<adminCode4>37UC021</adminCode4>
+<adminName4>Everton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.00275</west>
+<north>53.44566</north>
+<east>-0.92079</east>
+<south>53.39642</south>
+</bbox>
+<score>68.26139831542969</score>
+</geoname>
+<geoname>
+<toponymName>Everton</toponymName>
+<name>Everton</name>
+<lat>52.14581</lat>
+<lng>-0.24616</lng>
+<geonameId>2649836</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC024</adminCode3>
+<adminName3>Everton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Everton%2C_Bedfordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.27549</west>
+<north>52.1638</north>
+<east>-0.21684</east>
+<south>52.12783</south>
+</bbox>
+<score>61.25492858886719</score>
+</geoname>
+</geonames>

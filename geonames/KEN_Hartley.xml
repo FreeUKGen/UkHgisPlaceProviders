@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Hartley</toponymName>
+<name>Hartley</name>
+<lat>55.07645</lat>
+<lng>-1.46659</lng>
+<geonameId>2647397</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hartley%2C_Northumberland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.4823</west>
+<north>55.08544</north>
+<east>-1.45088</east>
+<south>55.06746</south>
+</bbox>
+<score>63.43865203857422</score>
+</geoname>
+<geoname>
+<toponymName>Hartley</toponymName>
+<name>Hartley</name>
+<lat>51.38673</lat>
+<lng>0.30367</lng>
+<geonameId>2647398</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UD</adminCode3>
+<adminName3>Dartford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hartley%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.28925</west>
+<north>51.39572</north>
+<east>0.31808</east>
+<south>51.37773</south>
+</bbox>
+<score>63.43865203857422</score>
+</geoname>
+<geoname>
+<toponymName>Hartley</toponymName>
+<name>Hartley</name>
+<lat>51.38269</lat>
+<lng>0.3153</lng>
+<geonameId>7293781</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>58.37434387207031</score>
+</geoname>
+<geoname>
+<toponymName>Hartley</toponymName>
+<name>Hartley</name>
+<lat>54.46374</lat>
+<lng>-2.30912</lng>
+<geonameId>7298083</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UF</adminCode3>
+<adminName3>Eden District</adminName3>
+<adminCode4>16UF027</adminCode4>
+<adminName4>Hartley</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hartley%2C_Cumbria</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.35287</west>
+<north>54.48906</north>
+<east>-2.26537</east>
+<south>54.43842</south>
+</bbox>
+<score>41.575218200683594</score>
+</geoname>
+</geonames>

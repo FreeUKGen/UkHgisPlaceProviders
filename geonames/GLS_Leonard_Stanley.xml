@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Leonard Stanley</toponymName>
+<name>Leonard Stanley</name>
+<lat>51.72937</lat>
+<lng>-2.29266</lng>
+<geonameId>7300611</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UF</adminCode3>
+<adminName3>Stroud</adminName3>
+<adminCode4>23UF028</adminCode4>
+<adminName4>Leonard Stanley</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Leonard_Stanley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.30912</west>
+<north>51.74325</north>
+<east>-2.2762</east>
+<south>51.7155</south>
+</bbox>
+<score>52.8995246887207</score>
+</geoname>
+</geonames>

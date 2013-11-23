@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Dursley</toponymName>
+<name>Dursley</name>
+<lat>51.68139</lat>
+<lng>-2.35333</lng>
+<geonameId>2650613</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>13652</population>
+<alternateNames>Dursley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UF</adminCode3>
+<adminName3>Stroud</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dursley</alternateName>
+<alternateName lang="unlc">DUR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.3774</west>
+<north>51.6963</north>
+<east>-2.32927</east>
+<south>51.66647</south>
+</bbox>
+<score>126.2972412109375</score>
+</geoname>
+<geoname>
+<toponymName>Dursley</toponymName>
+<name>Dursley</name>
+<lat>51.68136</lat>
+<lng>-2.34404</lng>
+<geonameId>7298599</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UF</adminCode3>
+<adminName3>Stroud</adminName3>
+<adminCode4>23UF012</adminCode4>
+<adminName4>Dursley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.36756</west>
+<north>51.69394</north>
+<east>-2.32051</east>
+<south>51.66877</south>
+</bbox>
+<score>78.86348724365234</score>
+</geoname>
+</geonames>

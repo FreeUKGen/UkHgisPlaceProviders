@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Tremeirchion</toponymName>
+<name>Tremeirchion</name>
+<lat>53.25384</lat>
+<lng>-3.36934</lng>
+<geonameId>7294051</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG039</adminCode3>
+<adminName3>Tremeirchion</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.40907</west>
+<north>53.28175</north>
+<east>-3.32961</east>
+<south>53.22593</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Tremeirchion</toponymName>
+<name>Tremeirchion</name>
+<lat>53.24487</lat>
+<lng>-3.37835</lng>
+<geonameId>2635510</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Tremeirchion</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG039</adminCode3>
+<adminName3>Tremeirchion</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tremeirchion</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.39338</west>
+<north>53.25386</north>
+<east>-3.36331</east>
+<south>53.23588</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+</geonames>

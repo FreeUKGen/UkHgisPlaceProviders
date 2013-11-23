@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ulcombe</toponymName>
+<name>Ulcombe</name>
+<lat>51.21057</lat>
+<lng>0.64455</lng>
+<geonameId>2635204</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ulcombe</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UH</adminCode3>
+<adminName3>Maidstone</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ulcombe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.63019</west>
+<north>51.21956</north>
+<east>0.6589</east>
+<south>51.20157</south>
+</bbox>
+<score>108.39630126953125</score>
+</geoname>
+<geoname>
+<toponymName>Ulcombe</toponymName>
+<name>Ulcombe</name>
+<lat>51.21189</lat>
+<lng>0.64369</lng>
+<geonameId>7293772</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UH</adminCode3>
+<adminName3>Maidstone</adminName3>
+<adminCode4>29UH036</adminCode4>
+<adminName4>Ulcombe</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.61471</west>
+<north>51.24551</north>
+<east>0.67267</east>
+<south>51.17827</south>
+</bbox>
+<score>82.377685546875</score>
+</geoname>
+</geonames>

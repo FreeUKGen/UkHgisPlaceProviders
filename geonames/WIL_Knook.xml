@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Knook</toponymName>
+<name>Knook</name>
+<lat>51.19508</lat>
+<lng>-2.06236</lng>
+<geonameId>7300351</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY131</adminCode3>
+<adminName3>Knook</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.09713</west>
+<north>51.22006</north>
+<east>-2.02759</east>
+<south>51.17011</south>
+</bbox>
+<score>114.15132141113281</score>
+</geoname>
+<geoname>
+<toponymName>Knook</toponymName>
+<name>Knook</name>
+<lat>51.17585</lat>
+<lng>-2.09064</lng>
+<geonameId>2645105</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY131</adminCode3>
+<adminName3>Knook</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Knook%2C_Wiltshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.10499</west>
+<north>51.18484</north>
+<east>-2.07629</east>
+<south>51.16686</south>
+</bbox>
+<score>85.71125793457031</score>
+</geoname>
+</geonames>

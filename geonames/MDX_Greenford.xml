@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Greenford</toponymName>
+<name>Greenford</name>
+<lat>51.52866</lat>
+<lng>-0.35508</lng>
+<geonameId>2647972</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>38000</population>
+<alternateNames>Greenford,grinafarda,گرینفورڈ,ग्रीनफ़र्ड</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>D9</adminCode3>
+<adminName3>Ealing</adminName3>
+<alternateName lang="en">Greenford</alternateName>
+<alternateName lang="hi">ग्रीनफ़र्ड</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Greenford</alternateName>
+<alternateName lang="post">UB6</alternateName>
+<alternateName lang="unlc">GFR</alternateName>
+<alternateName lang="ur">گرینفورڈ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.39535</west>
+<north>51.5537</north>
+<east>-0.31481</east>
+<south>51.50363</south>
+</bbox>
+<score>97.8770523071289</score>
+</geoname>
+</geonames>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bishops Caundle</toponymName>
+<name>Bishops Caundle</name>
+<lat>50.91667</lat>
+<lng>-2.41667</lng>
+<geonameId>2655571</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bishop Caundle,Bishops Caundle</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.43093</west>
+<north>50.92566</north>
+<east>-2.4024</east>
+<south>50.90767</south>
+</bbox>
+<score>70.37979125976562</score>
+</geoname>
+<geoname>
+<toponymName>Bishop's Caundle</toponymName>
+<name>Bishop's Caundle</name>
+<lat>50.91619</lat>
+<lng>-2.43259</lng>
+<geonameId>7295014</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH011</adminCode4>
+<adminName4>Bishop's Caundle</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bishop%27s_Caundle</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.45426</west>
+<north>50.92583</north>
+<east>-2.41092</east>
+<south>50.90654</south>
+</bbox>
+<score>30.044994354248047</score>
+</geoname>
+</geonames>

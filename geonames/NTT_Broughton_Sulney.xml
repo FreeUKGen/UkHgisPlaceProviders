@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Upper Broughton</toponymName>
+<name>Upper Broughton</name>
+<lat>52.82863</lat>
+<lng>-0.9877</lng>
+<geonameId>2635141</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Broughton,Broughton Sulney,Upper Broughton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.00258</west>
+<north>52.83762</north>
+<east>-0.97281</east>
+<south>52.81963</south>
+</bbox>
+<score>59.26469039916992</score>
+</geoname>
+</geonames>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Kingstone</toponymName>
+<name>Kingstone</name>
+<lat>52.01948</lat>
+<lng>-2.83598</lng>
+<geonameId>7291433</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA108</adminCode3>
+<adminName3>Kingstone</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.86143</west>
+<north>52.03842</north>
+<east>-2.81054</east>
+<south>52.00055</south>
+</bbox>
+<score>107.04696655273438</score>
+</geoname>
+<geoname>
+<toponymName>Kingstone</toponymName>
+<name>Kingstone</name>
+<lat>52.01667</lat>
+<lng>-2.83333</lng>
+<geonameId>2645430</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA108</adminCode3>
+<adminName3>Kingstone</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kingstone%2C_Herefordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.86257</west>
+<north>52.03465</north>
+<east>-2.80409</east>
+<south>51.99868</south>
+</bbox>
+<score>68.70217895507812</score>
+</geoname>
+<geoname>
+<toponymName>Kingstone</toponymName>
+<name>Kingstone</name>
+<lat>50.91601</lat>
+<lng>-2.86312</lng>
+<geonameId>7294141</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD063</adminCode4>
+<adminName4>Kingstone</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kingstone%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.88825</west>
+<north>50.92654</north>
+<east>-2.83799</east>
+<south>50.90548</south>
+</bbox>
+<score>52.94134521484375</score>
+</geoname>
+<geoname>
+<toponymName>Kingstone</toponymName>
+<name>Kingstone</name>
+<lat>52.85843</lat>
+<lng>-1.93132</lng>
+<geonameId>7296143</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UC</adminCode3>
+<adminName3>East Staffordshire</adminName3>
+<adminCode4>41UC013</adminCode4>
+<adminName4>Kingstone</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kingstone%2C_Staffordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.97033</west>
+<north>52.88599</north>
+<east>-1.8923</east>
+<south>52.83087</south>
+</bbox>
+<score>52.94134521484375</score>
+</geoname>
+</geonames>

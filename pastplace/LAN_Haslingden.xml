@@ -1,0 +1,95 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>114</id>
+<name>HASLINGDEN</name>
+<container>LANCASHIRE</container>
+<lat>53.7007173195092</lat>
+<lon>-2.3436915902218</lon>
+<gazetteerText>Haslingden, market town and township with ry. sta., Whalley par., NE. Lancashire, 19 miles NW. of Manchester and 205 miles NW. of London - town, pop. 14,333; township, 4342 ac., pop. 14,298; P.O., T.O., 2 Banks, 1 newspaper. Market-days, Tuesday and Saturday; is a nourishing manufacturing town. Cotton, silk, and woollens are the chief fabrics produced. Ironworks, collieries, and quarries are in operation, and through the Haslingden Canal communication is maintained with Bury, Manchester, Liverpool, and Leeds. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LAN/Haslingden/</link>
+<link>http://www.workhouses.org.uk/Haslingden</link>
+<link>http://en.wikipedia.org/wiki/Haslingden</link>
+<link>http://www.geonames.org/2647363</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=53147</link>
+</links>
+<unit>
+   <id>10003180</id>
+   <status>MB</status>
+   <name>HASLINGDEN</name>
+</unit>
+<unit>
+   <id>10062901</id>
+   <status>RSD</status>
+   <name>HASLINGDEN</name>
+</unit>
+<unit>
+   <id>10111110</id>
+   <status>USD</status>
+   <name>HASLINGDEN</name>
+</unit>
+<unit>
+   <id>10187862</id>
+   <status>RegD/PLU</status>
+   <name>HASLINGDEN</name>
+</unit>
+<unit>
+   <id>10354353</id>
+   <status>Ch/CP</status>
+   <name>HASLINGDEN</name>
+</unit>
+<unit>
+   <id>10354365</id>
+   <status>EP</status>
+   <name>HASLINGDEN</name>
+</unit>
+<unit>
+   <id>10354407</id>
+   <status>EP</status>
+   <name>STONEFOLD</name>
+</unit>
+<unit>
+   <id>10546140</id>
+   <status></status>
+   <name>HASLINGDEN</name>
+</unit>
+<unit>
+   <id>10563770</id>
+   <status></status>
+   <name>HASLINGDEN</name>
+</unit>
+<unit>
+   <id>12830622</id>
+   <status></status>
+   <name>HASLINGDEN</name>
+</unit>
+</place>
+<place>
+<id>24998</id>
+<name>LANESIDE</name>
+<container>LANCASHIRE</container>
+<lat>53.7000842794551</lat>
+<lon>-2.31963249052079</lon>
+<unit>
+   <id>10354419</id>
+   <status>EP</status>
+   <name>LANESIDE</name>
+</unit>
+</place>
+<place>
+<id>26075</id>
+<name>HASLINGDEN GRANE</name>
+<container>LANCASHIRE</container>
+<lat>53.7008440428237</lat>
+<lon>-2.36811437565774</lon>
+<links>
+<link>http://en.wikipedia.org/wiki/Haslingden_Grane</link>
+</links>
+<unit>
+   <id>10354390</id>
+   <status>EP</status>
+   <name>HASLINGDEN GRANE</name>
+</unit>
+</place>
+</results>

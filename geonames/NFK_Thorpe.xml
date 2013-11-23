@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>Thorpe</toponymName>
+<name>Thorpe</name>
+<lat>53.05</lat>
+<lng>-1.75</lng>
+<geonameId>2635953</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Thorpe</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UF</adminCode3>
+<adminName3>Derbyshire Dales District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thorpe%2C_Derbyshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.76496</west>
+<north>53.05899</north>
+<east>-1.73504</east>
+<south>53.04101</south>
+</bbox>
+<score>82.87696838378906</score>
+</geoname>
+<geoname>
+<toponymName>Thorpe</toponymName>
+<name>Thorpe</name>
+<lat>51.40595</lat>
+<lng>-0.53567</lng>
+<geonameId>2635954</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UG</adminCode3>
+<adminName3>Runnymede District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thorpe%2C_Surrey</alternateName>
+<alternateName lang="unlc">TRP</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.55009</west>
+<north>51.41495</north>
+<east>-0.52125</east>
+<south>51.39696</south>
+</bbox>
+<score>69.63716125488281</score>
+</geoname>
+<geoname>
+<toponymName>Thorpe</toponymName>
+<name>Thorpe</name>
+<lat>53.04921</lat>
+<lng>-1.76307</lng>
+<geonameId>7293258</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UF</adminCode3>
+<adminName3>Derbyshire Dales District</adminName3>
+<adminCode4>17UF101</adminCode4>
+<adminName4>Thorpe</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.7847</west>
+<north>53.06206</north>
+<east>-1.74143</east>
+<south>53.03635</south>
+</bbox>
+<score>64.24077606201172</score>
+</geoname>
+<geoname>
+<toponymName>Thorpe Hamlet</toponymName>
+<name>Thorpe</name>
+<lat>52.63032</lat>
+<lng>1.31337</lng>
+<geonameId>6615542</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population>8109</population>
+<alternateNames>Thorpe</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UG</adminCode3>
+<adminName3>Norwich District</adminName3>
+<alternateName lang="en">Thorpe</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thorpe_Hamlet</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.29522</west>
+<north>52.64134</north>
+<east>1.33152</east>
+<south>52.61931</south>
+</bbox>
+<score>56.441368103027344</score>
+</geoname>
+<geoname>
+<toponymName>Thorpe Waterville</toponymName>
+<name>Thorpe Waterville</name>
+<lat>52.42203</lat>
+<lng>-0.49498</lng>
+<geonameId>2635941</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Thorpe,Thorpe Waterville</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thorpe_Waterville</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.50973</west>
+<north>52.43102</north>
+<east>-0.48023</east>
+<south>52.41304</south>
+</bbox>
+<score>54.488304138183594</score>
+</geoname>
+<geoname>
+<toponymName>Thorpe</toponymName>
+<name>Thorpe</name>
+<lat>53.03849</lat>
+<lng>-0.85365</lng>
+<geonameId>7290928</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG076</adminCode4>
+<adminName4>Thorpe</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thorpe%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.87631</west>
+<north>53.05075</north>
+<east>-0.83099</east>
+<south>53.02622</south>
+</bbox>
+<score>45.62501525878906</score>
+</geoname>
+<geoname>
+<toponymName>Thorpe</toponymName>
+<name>Thorpe</name>
+<lat>54.04355</lat>
+<lng>-1.98888</lng>
+<geonameId>7299241</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UB</adminCode3>
+<adminName3>Craven District</adminName3>
+<adminCode4>36UB071</adminCode4>
+<adminName4>Thorpe</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thorpe%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.01586</west>
+<north>54.06168</north>
+<east>-1.9619</east>
+<south>54.02542</south>
+</bbox>
+<score>45.62501525878906</score>
+</geoname>
+<geoname>
+<toponymName>Thorpe Saint Andrew</toponymName>
+<name>Thorpe Saint Andrew</name>
+<lat>52.63333</lat>
+<lng>1.35</lng>
+<geonameId>2635946</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Thorpe,Thorpe Episcopi,Thorpe Saint Andrew,Thorpe next Norwich</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<alternateName lang="unlc">TSA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.33518</west>
+<north>52.64233</north>
+<east>1.36482</east>
+<south>52.62434</south>
+</bbox>
+<score>41.853912353515625</score>
+</geoname>
+<geoname>
+<toponymName>Thorpeness</toponymName>
+<name>Thorpeness</name>
+<lat>52.18012</lat>
+<lng>1.61327</lng>
+<geonameId>2635949</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Thorpe,Thorpeness</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UG</adminCode3>
+<adminName3>Suffolk Coastal District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thorpeness</alternateName>
+<alternateName lang="unlc">NSS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.5986</west>
+<north>52.18911</north>
+<east>1.62794</east>
+<south>52.17112</south>
+</bbox>
+<score>41.324974060058594</score>
+</geoname>
+<geoname>
+<toponymName>Thorpe on the Hill</toponymName>
+<name>Thorpe on the Hill</name>
+<lat>53.17918</lat>
+<lng>-0.64138</lng>
+<geonameId>2635947</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Thorpe,Thorpe on the Hill</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.65639</west>
+<north>53.18818</north>
+<east>-0.62637</east>
+<south>53.17019</south>
+</bbox>
+<score>39.44593048095703</score>
+</geoname>
+</geonames>

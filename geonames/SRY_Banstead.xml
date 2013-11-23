@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Banstead</toponymName>
+<name>Banstead</name>
+<lat>51.32503</lat>
+<lng>-0.19569</lng>
+<geonameId>2656379</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>46280</population>
+<alternateNames>Bansted,Банстед</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UF</adminCode3>
+<adminName3>Reigate and Banstead District</adminName3>
+<alternateName lang="bg">Банстед</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Banstead</alternateName>
+<alternateName lang="unlc">BSA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.24008</west>
+<north>51.35275</north>
+<east>-0.15131</east>
+<south>51.29731</south>
+</bbox>
+<score>121.16415405273438</score>
+</geoname>
+</geonames>

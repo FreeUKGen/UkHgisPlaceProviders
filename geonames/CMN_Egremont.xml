@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Egremont</toponymName>
+<name>Egremont</name>
+<lat>54.47941</lat>
+<lng>-3.52756</lng>
+<geonameId>2650174</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6130</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UE</adminCode3>
+<adminName3>Copeland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Egremont%2C_Cumbria</alternateName>
+<alternateName lang="unlc">EGT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.54487</west>
+<north>54.48947</north>
+<east>-3.51024</east>
+<south>54.46936</south>
+</bbox>
+<score>89.32167053222656</score>
+</geoname>
+<geoname>
+<toponymName>Egremont</toponymName>
+<name>Egremont</name>
+<lat>54.49251</lat>
+<lng>-3.54521</lng>
+<geonameId>7300135</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UE</adminCode3>
+<adminName3>Copeland District</adminName3>
+<adminCode4>16UE006</adminCode4>
+<adminName4>Egremont</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.56905</west>
+<north>54.52918</north>
+<east>-3.52137</east>
+<south>54.45583</south>
+</bbox>
+<score>75.58123779296875</score>
+</geoname>
+</geonames>

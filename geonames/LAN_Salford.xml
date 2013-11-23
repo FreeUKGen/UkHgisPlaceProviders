@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Salford</toponymName>
+<name>Salford</name>
+<lat>53.48771</lat>
+<lng>-2.29042</lng>
+<geonameId>2638671</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>72750</population>
+<alternateNames>Gorad Solfard,Salford,Solford,salfwrd,solpeodeu,suo er fu de,Горад Солфард,Солфорд,سالفورد,索爾福德,솔퍼드</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L5</adminCode2>
+<adminName2>Salford</adminName2>
+<alternateName lang="ar">سالفورد</alternateName>
+<alternateName lang="be">Горад Солфард</alternateName>
+<alternateName lang="bg">Солфорд</alternateName>
+<alternateName lang="de">Salford</alternateName>
+<alternateName lang="en">Salford</alternateName>
+<alternateName lang="eo">Salford</alternateName>
+<alternateName lang="fi">Salford</alternateName>
+<alternateName lang="fr">Salford</alternateName>
+<alternateName lang="ko">솔퍼드</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Salford%2C_Greater_Manchester</alternateName>
+<alternateName lang="nl">Salford</alternateName>
+<alternateName lang="no">Salford</alternateName>
+<alternateName lang="pl">Salford</alternateName>
+<alternateName lang="ro">Salford</alternateName>
+<alternateName lang="ru">Солфорд</alternateName>
+<alternateName lang="sr">Солфорд</alternateName>
+<alternateName lang="sv">Salford</alternateName>
+<alternateName lang="tr">Salford</alternateName>
+<alternateName lang="uk">Солфорд</alternateName>
+<alternateName lang="unlc">SFY</alternateName>
+<alternateName lang="zh">索爾福德</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.34901</west>
+<north>53.52254</north>
+<east>-2.23183</east>
+<south>53.45287</south>
+</bbox>
+<score>135.4970703125</score>
+</geoname>
+<geoname>
+<toponymName>Salford</toponymName>
+<name>Salford</name>
+<lat>51.94929</lat>
+<lng>-1.58195</lng>
+<geonameId>2638673</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UF</adminCode3>
+<adminName3>West Oxfordshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Salford%2C_Oxfordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.59654</west>
+<north>51.95828</north>
+<east>-1.56735</east>
+<south>51.9403</south>
+</bbox>
+<score>68.24089050292969</score>
+</geoname>
+<geoname>
+<toponymName>City and Borough of Salford</toponymName>
+<name>City and Borough of Salford</name>
+<lat>53.5</lat>
+<lng>-2.33333</lng>
+<geonameId>3333190</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>229000</population>
+<alternateNames>SLF,Salford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L5</adminCode2>
+<adminName2>Salford</adminName2>
+<alternateName lang="abbr">SLF</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/City_of_Salford</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.48973</west>
+<north>53.54213</north>
+<east>-2.24511</east>
+<south>53.41587</south>
+</bbox>
+<score>66.05951690673828</score>
+</geoname>
+<geoname>
+<toponymName>Salford</toponymName>
+<name>Salford</name>
+<lat>51.95351</lat>
+<lng>-1.58945</lng>
+<geonameId>7292220</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UF</adminCode3>
+<adminName3>West Oxfordshire District</adminName3>
+<adminCode4>38UF063</adminCode4>
+<adminName4>Salford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.61236</west>
+<north>51.97044</north>
+<east>-1.56655</east>
+<south>51.93659</south>
+</bbox>
+<score>63.89757537841797</score>
+</geoname>
+<geoname>
+<toponymName>Salford</toponymName>
+<name>Salford</name>
+<lat>52.04389</lat>
+<lng>-0.63635</lng>
+<geonameId>2638672</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sainford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.65097</west>
+<north>52.05288</north>
+<east>-0.62172</east>
+<south>52.03489</south>
+</bbox>
+<score>38.99740219116211</score>
+</geoname>
+</geonames>

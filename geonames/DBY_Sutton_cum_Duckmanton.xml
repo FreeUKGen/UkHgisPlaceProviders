@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Sutton cum Duckmanton</toponymName>
+<name>Sutton cum Duckmanton</name>
+<lat>53.22394</lat>
+<lng>-1.3455</lng>
+<geonameId>7298169</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UJ</adminCode3>
+<adminName3>North East Derbyshire</adminName3>
+<adminCode4>17UJ019</adminCode4>
+<adminName4>Sutton cum Duckmanton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Duckmanton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.3804</west>
+<north>53.24637</north>
+<east>-1.3106</east>
+<south>53.20152</south>
+</bbox>
+<score>59.844818115234375</score>
+</geoname>
+</geonames>

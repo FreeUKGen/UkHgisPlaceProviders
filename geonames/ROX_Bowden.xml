@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bowden</toponymName>
+<name>Bowden</name>
+<lat>55.55</lat>
+<lng>-2.71667</lng>
+<geonameId>2655070</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bowden</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T9</adminCode2>
+<adminName2>Scottish Borders</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bowden%2C_Scottish_Borders</alternateName>
+<alternateName lang="unlc">BWE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.73257</west>
+<north>55.55899</north>
+<east>-2.70076</east>
+<south>55.54101</south>
+</bbox>
+<score>72.09760284423828</score>
+</geoname>
+<geoname>
+<toponymName>Great Bowden</toponymName>
+<name>Great Bowden</name>
+<lat>52.4924</lat>
+<lng>-0.90475</lng>
+<geonameId>2648153</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bowden,Great Bowden</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UD</adminCode3>
+<adminName3>Harborough District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Great_Bowden</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.91952</west>
+<north>52.50139</north>
+<east>-0.88997</east>
+<south>52.48341</south>
+</bbox>
+<score>54.675025939941406</score>
+</geoname>
+</geonames>

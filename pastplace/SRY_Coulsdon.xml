@@ -1,0 +1,81 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1299</id>
+<name>COULSDON</name>
+<container>SURREY</container>
+<lat>51.3156344904383</lat>
+<lon>-0.134410111044825</lon>
+<gazetteerText>COULSDON, or Cullesden, a parish in Croydon district, Surrey; between the Brighton and Caterham railway, 2&#189; miles SSW of Caterham-Junction r. station, and 5 S by W of Croydon. Post town, Caterham, under Red Hill. Acres, 4, 403. Real property, &#163;4, 451 . Pop., 993. Houses, 140. The property is divided among a few. The living is a rectory in the diocese of Winchester. Value, &#163;636.* Patron, the Archbishop of Canterbury. The church has a curious monument of 1635; and is good. An hospital for incurables, spacious, cheerful, and even elegant, was erected at Coulsdon in 1863. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Coulsdon</link>
+<link>http://www.geonames.org/2652249</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=43052</link>
+</links>
+<unit>
+   <id>10019199</id>
+   <status>EP</status>
+   <name>COULSDON</name>
+</unit>
+<unit>
+   <id>10091160</id>
+   <status>AP/CP</status>
+   <name>COULSDON</name>
+</unit>
+<unit>
+   <id>10128330</id>
+   <status>EP</status>
+   <name>COULSDON ST ANDREW</name>
+</unit>
+<unit>
+   <id>10186304</id>
+   <status>UD</status>
+   <name>COULSDON AND PURLEY</name>
+</unit>
+<unit>
+   <id>10540150</id>
+   <status></status>
+   <name>COULSDON</name>
+</unit>
+<nearByPlace>
+   <id>157</id>
+   <name>CATERHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>279</id>
+   <name>REIGATE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1314</id>
+   <name>BANSTEAD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1971</id>
+   <name>WARLINGHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2974</id>
+   <name>EDENBRIDGE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3380</id>
+   <name>OXTED</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4348</id>
+   <name>SANDERSTEAD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4820</id>
+   <name>HORLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5908</id>
+   <name>LINGFIELD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6129</id>
+   <name>GODSTONE</name>
+</nearByPlace>
+</place>
+</results>

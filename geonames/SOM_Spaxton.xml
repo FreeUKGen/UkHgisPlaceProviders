@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Spaxton</toponymName>
+<name>Spaxton</name>
+<lat>51.12523</lat>
+<lng>-3.10724</lng>
+<geonameId>2637251</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Spaxton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.12157</west>
+<north>51.13423</north>
+<east>-3.09291</east>
+<south>51.11624</south>
+</bbox>
+<score>89.31380462646484</score>
+</geoname>
+<geoname>
+<toponymName>Spaxton</toponymName>
+<name>Spaxton</name>
+<lat>51.12147</lat>
+<lng>-3.12156</lng>
+<geonameId>7292404</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<adminCode4>40UC044</adminCode4>
+<adminName4>Spaxton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.18632</west>
+<north>51.15036</north>
+<east>-3.0568</east>
+<south>51.09258</south>
+</bbox>
+<score>79.43559265136719</score>
+</geoname>
+</geonames>

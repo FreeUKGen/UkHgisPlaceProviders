@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Dunsfold</toponymName>
+<name>Dunsfold</name>
+<lat>51.11705</lat>
+<lng>-0.56202</lng>
+<geonameId>2650665</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UL</adminCode3>
+<adminName3>Waverley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dunsfold</alternateName>
+<alternateName lang="unlc">DSF</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.57635</west>
+<north>51.12604</north>
+<east>-0.54769</east>
+<south>51.10805</south>
+</bbox>
+<score>89.64698028564453</score>
+</geoname>
+<geoname>
+<toponymName>Dunsfold</toponymName>
+<name>Dunsfold</name>
+<lat>51.10639</lat>
+<lng>-0.56726</lng>
+<geonameId>7291957</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UL</adminCode3>
+<adminName3>Waverley District</adminName3>
+<adminCode4>43UL007</adminCode4>
+<adminName4>Dunsfold</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.59781</west>
+<north>51.13305</north>
+<east>-0.5367</east>
+<south>51.07973</south>
+</bbox>
+<score>79.77342224121094</score>
+</geoname>
+</geonames>

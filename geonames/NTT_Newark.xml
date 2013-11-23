@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Newark on Trent</toponymName>
+<name>Newark on Trent</name>
+<lat>53.06667</lat>
+<lng>-0.81667</lng>
+<geonameId>2641731</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>25376</population>
+<alternateNames>Newark,Newark on Trent,Newark upon Trent</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<alternateName lang="en">Newark on Trent</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newark_%28UK_Parliament_constituency%29</alternateName>
+<alternateName lang="unlc">NUT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.85098</west>
+<north>53.08727</north>
+<east>-0.78236</east>
+<south>53.04606</south>
+</bbox>
+<score>69.4947738647461</score>
+</geoname>
+<geoname>
+<toponymName>Newark</toponymName>
+<name>Newark</name>
+<lat>53.0791</lat>
+<lng>-0.80519</lng>
+<geonameId>7299473</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG054</adminCode4>
+<adminName4>Newark</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.84045</west>
+<north>53.1014</north>
+<east>-0.76993</east>
+<south>53.05681</south>
+</bbox>
+<score>62.26520538330078</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Edwalton</toponymName>
+<name>Edwalton</name>
+<lat>52.91573</lat>
+<lng>-1.11151</lng>
+<geonameId>2650203</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Edwalton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Edwalton%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.12643</west>
+<north>52.92473</north>
+<east>-1.09659</east>
+<south>52.90674</south>
+</bbox>
+<score>105.63082122802734</score>
+</geoname>
+</geonames>

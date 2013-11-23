@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Edenbridge</toponymName>
+<name>Edenbridge</name>
+<lat>51.19172</lat>
+<lng>0.06729</lng>
+<geonameId>2650246</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7282</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>43UK</adminCode3>
+<adminName3>GB.ENG.G5.43UK</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Edenbridge%2C_Kent</alternateName>
+<alternateName lang="unlc">EDE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.04971</west>
+<north>51.20273</north>
+<east>0.08487</east>
+<south>51.1807</south>
+</bbox>
+<score>84.36320495605469</score>
+</geoname>
+<geoname>
+<toponymName>Edenbridge</toponymName>
+<name>Edenbridge</name>
+<lat>51.19078</lat>
+<lng>0.06612</lng>
+<geonameId>7295886</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>72.51319885253906</score>
+</geoname>
+</geonames>

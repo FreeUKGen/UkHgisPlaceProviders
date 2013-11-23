@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Saddleworth</toponymName>
+<name>Saddleworth</name>
+<lat>53.5642</lat>
+<lng>-1.99134</lng>
+<geonameId>7300909</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K1</adminCode2>
+<adminName2>Oldham</adminName2>
+<adminCode3>00BP001</adminCode3>
+<adminName3>Saddleworth</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.07305</west>
+<north>53.62423</north>
+<east>-1.90962</east>
+<south>53.50418</south>
+</bbox>
+<score>111.06085205078125</score>
+</geoname>
+<geoname>
+<toponymName>Saddleworth</toponymName>
+<name>Saddleworth</name>
+<lat>53.54846</lat>
+<lng>-2.00455</lng>
+<geonameId>2638879</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Saddleworth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K1</adminCode2>
+<adminName2>Oldham</adminName2>
+<adminCode3>00BP001</adminCode3>
+<adminName3>Saddleworth</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saddleworth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.01969</west>
+<north>53.55745</north>
+<east>-1.98941</east>
+<south>53.53946</south>
+</bbox>
+<score>105.553955078125</score>
+</geoname>
+</geonames>

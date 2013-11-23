@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Codsall</toponymName>
+<name>Codsall</name>
+<lat>52.62989</lat>
+<lng>-2.20148</lng>
+<geonameId>2652653</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11548</population>
+<alternateNames>Codsall</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UF</adminCode3>
+<adminName3>South Staffordshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Codsall</alternateName>
+<alternateName lang="unlc">XCD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.22371</west>
+<north>52.64338</north>
+<east>-2.17925</east>
+<south>52.6164</south>
+</bbox>
+<score>126.70779418945312</score>
+</geoname>
+<geoname>
+<toponymName>Codsall</toponymName>
+<name>Codsall</name>
+<lat>52.62628</lat>
+<lng>-2.20771</lng>
+<geonameId>7291762</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UF</adminCode3>
+<adminName3>South Staffordshire District</adminName3>
+<adminCode4>41UF007</adminCode4>
+<adminName4>Codsall</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.2478</west>
+<north>52.64768</north>
+<east>-2.16762</east>
+<south>52.60488</south>
+</bbox>
+<score>79.14462280273438</score>
+</geoname>
+</geonames>

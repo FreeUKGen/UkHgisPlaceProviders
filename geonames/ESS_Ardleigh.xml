@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ardleigh</toponymName>
+<name>Ardleigh</name>
+<lat>51.92598</lat>
+<lng>0.98547</lng>
+<geonameId>2657168</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UN</adminCode3>
+<adminName3>Tendring District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ardleigh</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.97088</west>
+<north>51.93497</north>
+<east>1.00005</east>
+<south>51.91699</south>
+</bbox>
+<score>89.92652130126953</score>
+</geoname>
+<geoname>
+<toponymName>Ardleigh</toponymName>
+<name>Ardleigh</name>
+<lat>51.91582</lat>
+<lng>0.9783</lng>
+<geonameId>7293540</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UN</adminCode3>
+<adminName3>Tendring District</adminName3>
+<adminCode4>22UN002</adminCode4>
+<adminName4>Ardleigh</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.9311</west>
+<north>51.94024</north>
+<east>1.02551</east>
+<south>51.89139</south>
+</bbox>
+<score>80.19264221191406</score>
+</geoname>
+</geonames>

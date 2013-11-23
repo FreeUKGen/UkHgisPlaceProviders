@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Castle Rising</toponymName>
+<name>Castle Rising</name>
+<lat>52.79456</lat>
+<lng>0.47018</lng>
+<geonameId>2653556</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Castle Rising</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Castle_Rising</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.4553</west>
+<north>52.80356</north>
+<east>0.48506</east>
+<south>52.78557</south>
+</bbox>
+<score>83.3386459350586</score>
+</geoname>
+<geoname>
+<toponymName>Castle Rising</toponymName>
+<name>Castle Rising</name>
+<lat>52.78963</lat>
+<lng>0.48288</lng>
+<geonameId>7295601</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<adminCode4>33UE014</adminCode4>
+<adminName4>Castle Rising</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Castle_Rising_%28castle%29</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.44923</west>
+<north>52.80763</north>
+<east>0.51653</east>
+<south>52.77162</south>
+</bbox>
+<score>46.4661865234375</score>
+</geoname>
+</geonames>

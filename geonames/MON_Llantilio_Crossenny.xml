@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llantilio Crossenny</toponymName>
+<name>Llantilio Crossenny</name>
+<lat>51.83737</lat>
+<lng>-2.85403</lng>
+<geonameId>7301133</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP019</adminCode3>
+<adminName3>Llantilio Crossenny</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.9157</west>
+<north>51.8826</north>
+<east>-2.79235</east>
+<south>51.79215</south>
+</bbox>
+<score>103.32162475585938</score>
+</geoname>
+</geonames>

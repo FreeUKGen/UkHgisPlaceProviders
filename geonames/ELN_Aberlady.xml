@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Aberlady</toponymName>
+<name>Aberlady</name>
+<lat>56.00884</lat>
+<lng>-2.85851</lng>
+<geonameId>2657803</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>876</population>
+<alternateNames>Aberlady</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U6</adminCode2>
+<adminName2>East Lothian</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aberlady</alternateName>
+<alternateName lang="unlc">AED</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.86011</west>
+<north>56.00974</north>
+<east>-2.8569</east>
+<south>56.00794</south>
+</bbox>
+<score>95.02354431152344</score>
+</geoname>
+</geonames>

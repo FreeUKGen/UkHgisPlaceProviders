@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cople</toponymName>
+<name>Cople</name>
+<lat>52.12124</lat>
+<lng>-0.38403</lng>
+<geonameId>7292841</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z5</adminCode2>
+<adminName2>Bedford</adminName2>
+<adminCode3>00KB010</adminCode3>
+<adminName3>Cople</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.41193</west>
+<north>52.14793</north>
+<east>-0.35613</east>
+<south>52.09455</south>
+</bbox>
+<score>111.4800796508789</score>
+</geoname>
+<geoname>
+<toponymName>Cople</toponymName>
+<name>Cople</name>
+<lat>52.12342</lat>
+<lng>-0.38933</lng>
+<geonameId>2652398</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z5</adminCode2>
+<adminName2>Bedford</adminName2>
+<adminCode3>00KB010</adminCode3>
+<adminName3>Cople</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cople</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.41864</west>
+<north>52.14141</north>
+<east>-0.36002</east>
+<south>52.10544</south>
+</bbox>
+<score>77.09112548828125</score>
+</geoname>
+</geonames>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kelvedon</toponymName>
+<name>Kelvedon</name>
+<lat>51.84007</lat>
+<lng>0.7057</lng>
+<geonameId>2645841</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4695</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UC</adminCode3>
+<adminName3>Braintree District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kelvedon</alternateName>
+<alternateName lang="unlc">KVD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.69309</west>
+<north>51.84786</north>
+<east>0.71831</east>
+<south>51.83228</south>
+</bbox>
+<score>97.96282196044922</score>
+</geoname>
+<geoname>
+<toponymName>Kelvedon</toponymName>
+<name>Kelvedon</name>
+<lat>51.83918</lat>
+<lng>0.6774</lng>
+<geonameId>7300493</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UC</adminCode3>
+<adminName3>Braintree District</adminName3>
+<adminCode4>22UC034</adminCode4>
+<adminName4>Kelvedon</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.63349</west>
+<north>51.85947</north>
+<east>0.7213</east>
+<south>51.81889</south>
+</bbox>
+<score>78.41529083251953</score>
+</geoname>
+</geonames>

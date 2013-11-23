@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Oxenton</toponymName>
+<name>Oxenton</name>
+<lat>51.98056</lat>
+<lng>-2.06551</lng>
+<geonameId>7295203</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<adminCode4>23UG028</adminCode4>
+<adminName4>Oxenton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.09607</west>
+<north>51.9939</north>
+<east>-2.03496</east>
+<south>51.96722</south>
+</bbox>
+<score>83.27639770507812</score>
+</geoname>
+</geonames>

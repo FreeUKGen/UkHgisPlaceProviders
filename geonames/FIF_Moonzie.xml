@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Moonzie</toponymName>
+<name>Moonzie</name>
+<lat>56.34502</lat>
+<lng>-3.06272</lng>
+<geonameId>2642288</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V1</adminCode2>
+<adminName2>Fife</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.07896</west>
+<north>56.35401</north>
+<east>-3.04649</east>
+<south>56.33602</south>
+</bbox>
+<score>67.17076110839844</score>
+</geoname>
+</geonames>

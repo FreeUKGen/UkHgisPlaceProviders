@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Gilston</toponymName>
+<name>Gilston</name>
+<lat>51.79758</lat>
+<lng>0.09556</lng>
+<geonameId>7293701</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UD</adminCode3>
+<adminName3>East Hertfordshire District</adminName3>
+<adminCode4>26UD020</adminCode4>
+<adminName4>Gilston</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gilston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.07823</west>
+<north>51.81197</north>
+<east>0.1129</east>
+<south>51.7832</south>
+</bbox>
+<score>56.167179107666016</score>
+</geoname>
+<geoname>
+<toponymName>Backmuir of New Gilston</toponymName>
+<name>Backmuir of New Gilston</name>
+<lat>56.26667</lat>
+<lng>-2.91667</lng>
+<geonameId>2656673</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Backmuir of New Gilston,Gilston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V1</adminCode2>
+<adminName2>Fife</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.93287</west>
+<north>56.27566</north>
+<east>-2.90047</east>
+<south>56.25767</south>
+</bbox>
+<score>45.5230712890625</score>
+</geoname>
+</geonames>

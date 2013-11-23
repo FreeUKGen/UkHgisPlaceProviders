@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Whitburn</toponymName>
+<name>Whitburn</name>
+<lat>55.86667</lat>
+<lng>-3.68333</lng>
+<geonameId>2634137</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>10137</population>
+<alternateNames>Whitburn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W9</adminCode2>
+<adminName2>West Lothian</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Whitburn%2C_West_Lothian</alternateName>
+<alternateName lang="unlc">WBU</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.70601</west>
+<north>55.87939</north>
+<east>-3.66066</east>
+<south>55.85395</south>
+</bbox>
+<score>116.41084289550781</score>
+</geoname>
+<geoname>
+<toponymName>Whitburn</toponymName>
+<name>Whitburn</name>
+<lat>54.95333</lat>
+<lng>-1.36861</lng>
+<geonameId>2634138</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5352</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M7</adminCode2>
+<adminName2>South Tyneside</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.38428</west>
+<north>54.96233</north>
+<east>-1.35295</east>
+<south>54.94434</south>
+</bbox>
+<score>76.52855682373047</score>
+</geoname>
+<geoname>
+<toponymName>Whitburn</toponymName>
+<name>Whitburn</name>
+<lat>54.95477</lat>
+<lng>-1.40038</lng>
+<geonameId>6288442</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M7</adminCode2>
+<adminName2>South Tyneside</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Whitburn%2C_South_Tyneside</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>52.316734313964844</score>
+</geoname>
+</geonames>

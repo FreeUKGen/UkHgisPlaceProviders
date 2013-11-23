@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Kingsthorpe</toponymName>
+<name>Kingsthorpe</name>
+<lat>52.26199</lat>
+<lng>-0.90029</lng>
+<geonameId>2645441</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kingsthorpe</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UF</adminCode3>
+<adminName3>Northampton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kingsthorpe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.91499</west>
+<north>52.27099</north>
+<east>-0.8856</east>
+<south>52.253</south>
+</bbox>
+<score>103.24947357177734</score>
+</geoname>
+</geonames>

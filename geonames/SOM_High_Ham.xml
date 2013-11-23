@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>High Ham</toponymName>
+<name>High Ham</name>
+<lat>51.07309</lat>
+<lng>-2.8175</lng>
+<geonameId>7301221</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD049</adminCode4>
+<adminName4>High Ham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/High_Ham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.85239</west>
+<north>51.10798</north>
+<east>-2.7826</east>
+<south>51.03821</south>
+</bbox>
+<score>49.23558807373047</score>
+</geoname>
+<geoname>
+<toponymName>High Ham</toponymName>
+<name>High Ham</name>
+<lat>51.07583</lat>
+<lng>-2.82083</lng>
+<geonameId>2646952</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>High Ham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.83515</west>
+<north>51.08483</north>
+<east>-2.80652</east>
+<south>51.06684</south>
+</bbox>
+<score>47.20107650756836</score>
+</geoname>
+</geonames>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Carlton-on-Trent</toponymName>
+<name>Carlton-on-Trent</name>
+<lat>53.1662</lat>
+<lng>-0.82351</lng>
+<geonameId>7300890</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG012</adminCode4>
+<adminName4>Carlton-on-Trent</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Carlton-on-Trent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.84934</west>
+<north>53.17445</north>
+<east>-0.79768</east>
+<south>53.15796</south>
+</bbox>
+<score>57.23338317871094</score>
+</geoname>
+<geoname>
+<toponymName>Carlton on Trent</toponymName>
+<name>Carlton on Trent</name>
+<lat>53.16524</lat>
+<lng>-0.80691</lng>
+<geonameId>2653758</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<alternateName lang="unlc">ORN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.82191</west>
+<north>53.17423</north>
+<east>-0.7919</east>
+<south>53.15625</south>
+</bbox>
+<score>44.40773391723633</score>
+</geoname>
+</geonames>

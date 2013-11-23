@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Hinckley</toponymName>
+<name>Hinckley</name>
+<lat>52.5389</lat>
+<lng>-1.37613</lng>
+<geonameId>2646867</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>45130</population>
+<alternateNames>Hinckley,Khinkli,hingkeulli,Хинкли,힝클리</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UE</adminCode3>
+<adminName3>Hinckley and Bosworth District</adminName3>
+<alternateName lang="bg">Хинкли</alternateName>
+<alternateName lang="ko">힝클리</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hinckley</alternateName>
+<alternateName lang="ru">Хинкли</alternateName>
+<alternateName lang="unlc">HIL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.42113</west>
+<north>52.56626</north>
+<east>-1.33113</east>
+<south>52.51155</south>
+</bbox>
+<score>86.93588256835938</score>
+</geoname>
+</geonames>

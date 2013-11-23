@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bodfari</toponymName>
+<name>Bodfari</name>
+<lat>53.22932</lat>
+<lng>-3.36089</lng>
+<geonameId>7297134</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG004</adminCode3>
+<adminName3>Bodfari</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.38907</west>
+<north>53.24507</north>
+<east>-3.3327</east>
+<south>53.21358</south>
+</bbox>
+<score>114.38015747070312</score>
+</geoname>
+<geoname>
+<toponymName>Bodfari</toponymName>
+<name>Bodfari</name>
+<lat>53.2199</lat>
+<lng>-3.36092</lng>
+<geonameId>2655277</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG004</adminCode3>
+<adminName3>Bodfari</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bodfari</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.37594</west>
+<north>53.22889</north>
+<east>-3.34589</east>
+<south>53.21091</south>
+</bbox>
+<score>92.37678527832031</score>
+</geoname>
+</geonames>

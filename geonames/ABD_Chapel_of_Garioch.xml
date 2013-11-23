@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Chapel of Garioch</toponymName>
+<name>Chapel of Garioch</name>
+<lat>57.3071</lat>
+<lng>-2.47064</lng>
+<geonameId>2653363</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Chapel Garioch,Chapel of Garioch</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T6</adminCode2>
+<adminName2>Aberdeenshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.48729</west>
+<north>57.3161</north>
+<east>-2.45398</east>
+<south>57.29811</south>
+</bbox>
+<score>68.24589538574219</score>
+</geoname>
+</geonames>

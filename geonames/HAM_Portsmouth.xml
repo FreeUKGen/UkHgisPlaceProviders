@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Portsmouth</toponymName>
+<name>Portsmouth</name>
+<lat>50.79899</lat>
+<lng>-1.09125</lng>
+<geonameId>2639996</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>194150</population>
+<alternateNames>Gorad Portsmut,Porchemue,Porchémue,Portsmouth,Portsmut,Portsmuta,Portsmutas,Portus Ostium,bwrtsmwth,phxrt smath,pocheumeoseu,portasmatha,potsumasu,pu ci mao si,pwrtsmwt',pwrtsmwth,Πόρτσμουθ,Горад Портсмут,Портсмут,Портсмът,Պորտսմութ,פורטסמות',بورتسموث,پورتسموث,پۆرتسموت,पोर्टस्मथ,পোর্টস্‌মাথ,พอร์ตสมัท,ポーツマス,朴次茅斯,포츠머스</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K6</adminCode2>
+<adminName2>Portsmouth</adminName2>
+<adminCode3>00MR001</adminCode3>
+<adminName3>Southsea</adminName3>
+<alternateName lang="ar">بورتسموث</alternateName>
+<alternateName lang="az">Portsmut</alternateName>
+<alternateName lang="be">Горад Портсмут</alternateName>
+<alternateName lang="bg">Портсмът</alternateName>
+<alternateName lang="bn">পোর্টস্‌মাথ</alternateName>
+<alternateName lang="br">Portsmouth</alternateName>
+<alternateName lang="ckb">پۆرتسموت</alternateName>
+<alternateName lang="cs">Portsmouth</alternateName>
+<alternateName lang="de">Portsmouth</alternateName>
+<alternateName lang="el">Πόρτσμουθ</alternateName>
+<alternateName lang="en">Portsmouth</alternateName>
+<alternateName lang="eo">Portsmouth</alternateName>
+<alternateName lang="es">Portsmouth</alternateName>
+<alternateName lang="fa">پورتسموث</alternateName>
+<alternateName lang="fi">Portsmouth</alternateName>
+<alternateName lang="fr">Portsmouth</alternateName>
+<alternateName lang="he">פורטסמות'</alternateName>
+<alternateName lang="hy">Պորտսմութ</alternateName>
+<alternateName lang="id">Portsmouth</alternateName>
+<alternateName lang="it">Portsmouth</alternateName>
+<alternateName lang="ja">ポーツマス</alternateName>
+<alternateName lang="ko">포츠머스</alternateName>
+<alternateName lang="la">Portus Ostium</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Portsmouth</alternateName>
+<alternateName lang="lt">Portsmutas</alternateName>
+<alternateName lang="lv">Portsmuta</alternateName>
+<alternateName lang="mr">पोर्टस्मथ</alternateName>
+<alternateName lang="mzn">پورتسموث</alternateName>
+<alternateName lang="nl">Portsmouth</alternateName>
+<alternateName lang="no">Portsmouth</alternateName>
+<alternateName lang="nrm">Porchémue</alternateName>
+<alternateName lang="pl">Portsmouth</alternateName>
+<alternateName lang="pt">Portsmouth</alternateName>
+<alternateName lang="ru">Портсмут</alternateName>
+<alternateName lang="sk">Portsmouth</alternateName>
+<alternateName lang="sr">Портсмут</alternateName>
+<alternateName lang="sv">Portsmouth</alternateName>
+<alternateName lang="th">พอร์ตสมัท</alternateName>
+<alternateName lang="tr">Portsmouth</alternateName>
+<alternateName lang="uk">Портсмут</alternateName>
+<alternateName lang="zh">朴次茅斯</alternateName>
+<alternateName lang="zh-CN">朴次茅斯</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.18164</west>
+<north>50.85605</north>
+<east>-1.00086</east>
+<south>50.74193</south>
+</bbox>
+<score>155.44317626953125</score>
+</geoname>
+<geoname>
+<toponymName>Portsmouth</toponymName>
+<name>Portsmouth</name>
+<lat>53.73333</lat>
+<lng>-2.15</lng>
+<geonameId>2639995</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Portsmouth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C2</adminCode2>
+<adminName2>Calderdale</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Portsmouth%2C_West_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.16521</west>
+<north>53.74233</north>
+<east>-2.13479</east>
+<south>53.72434</south>
+</bbox>
+<score>89.22066497802734</score>
+</geoname>
+<geoname>
+<toponymName>City of Portsmouth</toponymName>
+<name>City of Portsmouth</name>
+<lat>50.8</lat>
+<lng>-1.06667</lng>
+<geonameId>3333183</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>POR,Portsmouth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K6</adminCode2>
+<adminName2>Portsmouth</adminName2>
+<alternateName lang="abbr">POR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.17497</west>
+<north>50.85931</north>
+<east>-1.01849</east>
+<south>50.75016</south>
+</bbox>
+<score>86.74478912353516</score>
+</geoname>
+</geonames>

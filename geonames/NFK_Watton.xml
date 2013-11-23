@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Watton</toponymName>
+<name>Watton</name>
+<lat>53.93174</lat>
+<lng>-0.43839</lng>
+<geonameId>7298468</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB154</adminCode3>
+<adminName3>Watton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.52045</west>
+<north>53.95377</north>
+<east>-0.35634</east>
+<south>53.90971</south>
+</bbox>
+<score>101.65220642089844</score>
+</geoname>
+<geoname>
+<toponymName>Watton</toponymName>
+<name>Watton</name>
+<lat>52.56667</lat>
+<lng>0.83333</lng>
+<geonameId>2634662</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Watton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Watton%2C_Norfolk</alternateName>
+<alternateName lang="unlc">WTT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.81853</west>
+<north>52.57566</north>
+<east>0.84813</east>
+<south>52.55767</south>
+</bbox>
+<score>80.12775421142578</score>
+</geoname>
+<geoname>
+<toponymName>Watton</toponymName>
+<name>Watton</name>
+<lat>53.93333</lat>
+<lng>-0.45</lng>
+<geonameId>2634661</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>7601</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB154</adminCode3>
+<adminName3>Watton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Watton%2C_East_Riding_of_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.46871</west>
+<north>53.94435</north>
+<east>-0.43129</east>
+<south>53.92232</south>
+</bbox>
+<score>77.45782470703125</score>
+</geoname>
+<geoname>
+<toponymName>Watton</toponymName>
+<name>Watton</name>
+<lat>52.56877</lat>
+<lng>0.83184</lng>
+<geonameId>7295631</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<adminCode4>33UB104</adminCode4>
+<adminName4>Watton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.8028</west>
+<north>52.58211</north>
+<east>0.86088</east>
+<south>52.55542</south>
+</bbox>
+<score>73.32373046875</score>
+</geoname>
+<geoname>
+<toponymName>Watton at Stone</toponymName>
+<name>Watton at Stone</name>
+<lat>51.85842</lat>
+<lng>-0.11381</lng>
+<geonameId>2634660</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2323</population>
+<alternateNames>Watton,Watton at Stone</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UD</adminCode3>
+<adminName3>East Hertfordshire District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.12109</west>
+<north>51.86292</north>
+<east>-0.10653</east>
+<south>51.85392</south>
+</bbox>
+<score>59.901676177978516</score>
+</geoname>
+<geoname>
+<toponymName>Watton</toponymName>
+<name>Watton</name>
+<lat>51.85496</lat>
+<lng>-0.1395</lng>
+<geonameId>6286569</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UD</adminCode3>
+<adminName3>East Hertfordshire District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>18.3309326171875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llandygwydd</toponymName>
+<name>Llandygwydd</name>
+<lat>52.06349</lat>
+<lng>-4.56772</lng>
+<geonameId>2644113</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llandygwydd</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ004</adminCode3>
+<adminName3>Beulah</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llandygwydd</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.58235</west>
+<north>52.07248</north>
+<east>-4.55309</east>
+<south>52.05449</south>
+</bbox>
+<score>111.59024810791016</score>
+</geoname>
+</geonames>

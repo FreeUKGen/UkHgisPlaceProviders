@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Great Oxendon</toponymName>
+<name>Great Oxendon</name>
+<lat>52.44289</lat>
+<lng>-0.91851</lng>
+<geonameId>2648042</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Great Oxendon,Oxendon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Great_Oxendon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.93327</west>
+<north>52.45188</north>
+<east>-0.90375</east>
+<south>52.4339</south>
+</bbox>
+<score>67.08074951171875</score>
+</geoname>
+</geonames>

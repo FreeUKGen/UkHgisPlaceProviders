@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Deeping St. James</toponymName>
+<name>Deeping St. James</name>
+<lat>52.67347</lat>
+<lng>-0.26293</lng>
+<geonameId>7301784</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<adminCode4>32UG025</adminCode4>
+<adminName4>Deeping St. James</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.31336</west>
+<north>52.69554</north>
+<east>-0.21251</east>
+<south>52.65139</south>
+</bbox>
+<score>72.04534149169922</score>
+</geoname>
+</geonames>

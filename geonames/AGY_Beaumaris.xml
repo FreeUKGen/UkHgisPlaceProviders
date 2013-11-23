@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Beaumaris</toponymName>
+<name>Beaumaris</name>
+<lat>53.27219</lat>
+<lng>-4.1093</lng>
+<geonameId>7301159</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA003</adminCode3>
+<adminName3>Beaumaris</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.14143</west>
+<north>53.292</north>
+<east>-4.07717</east>
+<south>53.25238</south>
+</bbox>
+<score>97.48904418945312</score>
+</geoname>
+<geoname>
+<toponymName>Beaumaris</toponymName>
+<name>Beaumaris</name>
+<lat>53.26315</lat>
+<lng>-4.09233</lng>
+<geonameId>2656073</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1530</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA003</adminCode3>
+<adminName3>Beaumaris</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Beaumaris</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.09985</west>
+<north>53.26765</north>
+<east>-4.08481</east>
+<south>53.25865</south>
+</bbox>
+<score>94.21112060546875</score>
+</geoname>
+</geonames>

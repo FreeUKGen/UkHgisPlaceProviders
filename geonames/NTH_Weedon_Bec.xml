@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Weedon Bec</toponymName>
+<name>Weedon Bec</name>
+<lat>52.22216</lat>
+<lng>-1.09285</lng>
+<geonameId>7296707</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<adminCode4>34UC067</adminCode4>
+<adminName4>Weedon Bec</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Weedon_Bec</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.12375</west>
+<north>52.23942</north>
+<east>-1.06194</east>
+<south>52.20489</south>
+</bbox>
+<score>51.602760314941406</score>
+</geoname>
+</geonames>

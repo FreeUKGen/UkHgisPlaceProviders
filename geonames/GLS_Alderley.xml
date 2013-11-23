@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Alderley</toponymName>
+<name>Alderley</name>
+<lat>51.61647</lat>
+<lng>-2.3358</lng>
+<geonameId>2657547</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Alderley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UF</adminCode3>
+<adminName3>Stroud</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alderley%2C_Gloucestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.35028</west>
+<north>51.62547</north>
+<east>-2.32131</east>
+<south>51.60748</south>
+</bbox>
+<score>86.77684783935547</score>
+</geoname>
+<geoname>
+<toponymName>Alderley</toponymName>
+<name>Alderley</name>
+<lat>51.61615</lat>
+<lng>-2.32843</lng>
+<geonameId>7298596</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UF</adminCode3>
+<adminName3>Stroud</adminName3>
+<adminCode4>23UF001</adminCode4>
+<adminName4>Alderley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.35324</west>
+<north>51.62485</north>
+<east>-2.30361</east>
+<south>51.60746</south>
+</bbox>
+<score>68.86449432373047</score>
+</geoname>
+<geoname>
+<toponymName>Nether Alderley</toponymName>
+<name>Nether Alderley</name>
+<lat>53.28415</lat>
+<lng>-2.2377</lng>
+<geonameId>2641793</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Alderley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z7</adminCode2>
+<adminName2>Cheshire East</adminName2>
+<adminCode3>00EQ092</adminCode3>
+<adminName3>Nether Alderley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nether_Alderley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.25274</west>
+<north>53.29315</north>
+<east>-2.22265</east>
+<south>53.27516</south>
+</bbox>
+<score>59.18215560913086</score>
+</geoname>
+</geonames>

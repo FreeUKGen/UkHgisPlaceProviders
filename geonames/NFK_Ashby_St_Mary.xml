@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Ashby St. Mary</toponymName>
+<name>Ashby St. Mary</name>
+<lat>52.56577</lat>
+<lng>1.43624</lng>
+<geonameId>7295695</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH004</adminCode4>
+<adminName4>Ashby St. Mary</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ashby_St_Mary</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.42062</west>
+<north>52.57195</north>
+<east>1.45185</east>
+<south>52.5596</south>
+</bbox>
+<score>53.769081115722656</score>
+</geoname>
+</geonames>

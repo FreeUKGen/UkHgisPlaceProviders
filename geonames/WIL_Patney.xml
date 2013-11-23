@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Patney</toponymName>
+<name>Patney</name>
+<lat>51.33256</lat>
+<lng>-1.89301</lng>
+<geonameId>7296291</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY178</adminCode3>
+<adminName3>Patney</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.91258</west>
+<north>51.34286</north>
+<east>-1.87344</east>
+<south>51.32225</south>
+</bbox>
+<score>112.29788970947266</score>
+</geoname>
+<geoname>
+<toponymName>Patney</toponymName>
+<name>Patney</name>
+<lat>51.32787</lat>
+<lng>-1.89782</lng>
+<geonameId>2640573</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY178</adminCode3>
+<adminName3>Patney</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Patney</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.91222</west>
+<north>51.33686</north>
+<east>-1.88342</east>
+<south>51.31887</south>
+</bbox>
+<score>90.6950912475586</score>
+</geoname>
+</geonames>

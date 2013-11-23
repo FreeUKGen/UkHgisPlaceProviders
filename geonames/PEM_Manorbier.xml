@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Manorbier</toponymName>
+<name>Manorbier</name>
+<lat>51.65338</lat>
+<lng>-4.80041</lng>
+<geonameId>7292308</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS039</adminCode3>
+<adminName3>Manorbier</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Manorbier</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.84512</west>
+<north>51.67185</north>
+<east>-4.75571</east>
+<south>51.63491</south>
+</bbox>
+<score>78.12171936035156</score>
+</geoname>
+<geoname>
+<toponymName>Manorbier</toponymName>
+<name>Manorbier</name>
+<lat>51.64583</lat>
+<lng>-4.79583</lng>
+<geonameId>2643104</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Manorbier</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS039</adminCode3>
+<adminName3>Manorbier</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.82483</west>
+<north>51.66382</north>
+<east>-4.76683</east>
+<south>51.62785</south>
+</bbox>
+<score>40.08906555175781</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Brigg</toponymName>
+<name>Brigg</name>
+<lat>53.55358</lat>
+<lng>-0.48494</lng>
+<geonameId>7298236</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD010</adminCode3>
+<adminName3>Brigg</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.50317</west>
+<north>53.56504</north>
+<east>-0.46671</east>
+<south>53.54211</south>
+</bbox>
+<score>111.4800796508789</score>
+</geoname>
+<geoname>
+<toponymName>Brigg</toponymName>
+<name>Brigg</name>
+<lat>53.55201</lat>
+<lng>-0.49214</lng>
+<geonameId>2654721</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5988</population>
+<alternateNames>Brigg i North Lincolnshire</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD010</adminCode3>
+<adminName3>Brigg</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brigg</alternateName>
+<alternateName lang="nn">Brigg i North Lincolnshire</alternateName>
+<alternateName lang="unlc">BGG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.50728</west>
+<north>53.561</north>
+<east>-0.47699</east>
+<south>53.54301</south>
+</bbox>
+<score>92.82290649414062</score>
+</geoname>
+</geonames>

@@ -1,0 +1,96 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>221</id>
+<name>BILSTON</name>
+<container>STAFFORDSHIRE</container>
+<lat>52.5655204295415</lat>
+<lon>-2.07288924793257</lon>
+<gazetteerText>Bilston, market town, W. Staffordshire, 2&#189; miles SE. of Wolverhampton and within its parl. bor., 139 miles from London by rail, 1845 ac., pop. 22,730; 2 Banks, 2 newspapers. Market-days, Monday and Saturday. It is a great centre of hardware trade -- iron and brass castings, tin and japanned wares, &amp;c., with extensive iron foundries and smelting works, and potteries. In vicinity are productive coal and ironstone mines, also an abundance of fine sand for casting, and a very hard stone suitable for grindstones. It contains eccl. dists. of B. St Leonard, pop. 7181; B. St Luke, 4300; and B. St Mary, 4010. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/STS/Bilston/StLeonard/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/STS/Bilston/index.html</link>
+<link>http://www.geonames.org/2655654</link>
+<link>http://en.wikipedia.org/wiki/Bilston</link>
+</links>
+<unit>
+   <id>10026908</id>
+   <status>UD/MB</status>
+   <name>BILSTON</name>
+</unit>
+<unit>
+   <id>10028905</id>
+   <status>USD</status>
+   <name>BILSTON</name>
+</unit>
+<unit>
+   <id>10273171</id>
+   <status>CP/Tn/Ch</status>
+   <name>BILSTON</name>
+</unit>
+<unit>
+   <id>10273213</id>
+   <status>EP</status>
+   <name>BILSTON</name>
+</unit>
+<unit>
+   <id>10273225</id>
+   <status>EP</status>
+   <name>BILSTON ST LUKE</name>
+</unit>
+<unit>
+   <id>10273237</id>
+   <status>EP</status>
+   <name>BILSTON ST MARY</name>
+</unit>
+<unit>
+   <id>10550385</id>
+   <status></status>
+   <name>BILSTON</name>
+</unit>
+<unit>
+   <id>12736757</id>
+   <status>PBDivCon</status>
+   <name>WOLVERHAMPTON BILSTON</name>
+</unit>
+<unit>
+   <id>12755934</id>
+   <status>BCon</status>
+   <name>BILSTON</name>
+</unit>
+<unit>
+   <id>12781295</id>
+   <status></status>
+   <name>BILSTON</name>
+</unit>
+<unit>
+   <id>12834470</id>
+   <status></status>
+   <name>BILSTON</name>
+</unit>
+<nearByPlace>
+   <id>222</id>
+   <name>WEDNESFIELD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>266</id>
+   <name>DARLASTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>633</id>
+   <name>COSELEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>635</id>
+   <name>TIPTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>683</id>
+   <name>WILLENHALL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>983</id>
+   <name>HEATHTOWN</name>
+</nearByPlace>
+</place>
+</results>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Kilbride</toponymName>
+<name>Kilbride</name>
+<lat>57.2</lat>
+<lng>-5.96667</lng>
+<geonameId>2645707</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V3</adminCode2>
+<adminName2>Highland</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.98327</west>
+<north>57.20899</north>
+<east>-5.95006</east>
+<south>57.19101</south>
+</bbox>
+<score>56.136207580566406</score>
+</geoname>
+<geoname>
+<toponymName>Kilbride</toponymName>
+<name>Kilbride</name>
+<lat>56.1</lat>
+<lng>-5.45</lng>
+<geonameId>2645708</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T8</adminCode2>
+<adminName2>Argyll and Bute</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.46613</west>
+<north>56.10899</north>
+<east>-5.43387</east>
+<south>56.09101</south>
+</bbox>
+<score>56.136207580566406</score>
+</geoname>
+<geoname>
+<toponymName>Kilbryde Castle</toponymName>
+<name>Kilbryde Castle</name>
+<lat>56.2</lat>
+<lng>-4</lng>
+<geonameId>2645705</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>BLDG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>building(s)</fcodeName>
+<population/>
+<alternateNames>Kilbride,Kilbryde Castle</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W6</adminCode2>
+<adminName2>Stirling</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>17.82184600830078</score>
+</geoname>
+</geonames>

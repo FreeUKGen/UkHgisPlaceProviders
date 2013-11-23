@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Zeals</toponymName>
+<name>Zeals</name>
+<lat>51.08842</lat>
+<lng>-2.30676</lng>
+<geonameId>7300379</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY259</adminCode3>
+<adminName3>Zeals</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.33238</west>
+<north>51.1017</north>
+<east>-2.28115</east>
+<south>51.07515</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Zeals</toponymName>
+<name>Zeals</name>
+<lat>51.08558</lat>
+<lng>-2.3123</lng>
+<geonameId>2633326</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Zeal,Zeals</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY259</adminCode3>
+<adminName3>Zeals</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Zeals</alternateName>
+<alternateName lang="unlc">ZLS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.32662</west>
+<north>51.09457</north>
+<east>-2.29798</east>
+<south>51.07658</south>
+</bbox>
+<score>84.93339538574219</score>
+</geoname>
+</geonames>

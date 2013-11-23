@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Warndon</toponymName>
+<name>Warndon</name>
+<lat>52.20123</lat>
+<lng>-2.17653</lng>
+<geonameId>7291719</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UE</adminCode3>
+<adminName3>Worcester District</adminName3>
+<adminCode4>47UE002</adminCode4>
+<adminName4>Warndon</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Warndon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.19575</west>
+<north>52.21843</north>
+<east>-2.1573</east>
+<south>52.18403</south>
+</bbox>
+<score>61.34955596923828</score>
+</geoname>
+</geonames>

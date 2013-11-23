@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Brinkhill</toponymName>
+<name>Brinkhill</name>
+<lat>53.24181</lat>
+<lng>0.05492</lng>
+<geonameId>2654685</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.03989</west>
+<north>53.25081</north>
+<east>0.06995</east>
+<south>53.23282</south>
+</bbox>
+<score>60.420562744140625</score>
+</geoname>
+<geoname>
+<toponymName>Brinkhill</toponymName>
+<name>Brinkhill</name>
+<lat>53.24145</lat>
+<lng>0.05392</lng>
+<geonameId>7297668</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC020</adminCode4>
+<adminName4>Brinkhill</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brinkhill</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.03441</west>
+<north>53.25154</north>
+<east>0.07343</east>
+<south>53.23135</south>
+</bbox>
+<score>55.304107666015625</score>
+</geoname>
+</geonames>

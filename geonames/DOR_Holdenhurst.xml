@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Holdenhurst</toponymName>
+<name>Holdenhurst</name>
+<lat>50.75677</lat>
+<lng>-1.81935</lng>
+<geonameId>2646770</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Holdenhurst</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B2</adminCode2>
+<adminName2>Bournemouth</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Holdenhurst</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.82504</west>
+<north>50.76036</north>
+<east>-1.81367</east>
+<south>50.75317</south>
+</bbox>
+<score>89.12744140625</score>
+</geoname>
+</geonames>

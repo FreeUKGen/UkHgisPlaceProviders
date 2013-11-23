@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Winthorpe</toponymName>
+<name>Winthorpe</name>
+<lat>53.16667</lat>
+<lng>0.33333</lng>
+<geonameId>2633780</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Winthorpe</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Winthorpe%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.31833</west>
+<north>53.17566</north>
+<east>0.34834</east>
+<south>53.15767</south>
+</bbox>
+<score>100.36051940917969</score>
+</geoname>
+<geoname>
+<toponymName>Winthorpe</toponymName>
+<name>Winthorpe</name>
+<lat>53.1</lat>
+<lng>-0.78333</lng>
+<geonameId>2633781</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Winthorpe</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Winthorpe%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.79832</west>
+<north>53.10899</north>
+<east>-0.76835</east>
+<south>53.09101</south>
+</bbox>
+<score>100.36051940917969</score>
+</geoname>
+<geoname>
+<toponymName>Winthorpe</toponymName>
+<name>Winthorpe</name>
+<lat>53.09665</lat>
+<lng>-0.78036</lng>
+<geonameId>7300911</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG084</adminCode4>
+<adminName4>Winthorpe</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.7989</west>
+<north>53.10679</north>
+<east>-0.76183</east>
+<south>53.08651</south>
+</bbox>
+<score>80.46937561035156</score>
+</geoname>
+</geonames>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Garstang</toponymName>
+<name>Garstang</name>
+<lat>53.90081</lat>
+<lng>-2.77417</lng>
+<geonameId>2648829</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6433</population>
+<alternateNames/>
+<elevation>19</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UQ</adminCode3>
+<adminName3>Wyre District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Garstang</alternateName>
+<alternateName lang="unlc">GTA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.79124</west>
+<north>53.91087</north>
+<east>-2.7571</east>
+<south>53.89076</south>
+</bbox>
+<score>93.87977600097656</score>
+</geoname>
+<geoname>
+<toponymName>Garstang</toponymName>
+<name>Garstang</name>
+<lat>53.90322</lat>
+<lng>-2.77919</lng>
+<geonameId>7301454</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UQ</adminCode3>
+<adminName3>Wyre District</adminName3>
+<adminCode4>30UQ008</adminCode4>
+<adminName4>Garstang</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.79394</west>
+<north>53.91381</north>
+<east>-2.76443</east>
+<south>53.89262</south>
+</bbox>
+<score>76.14570617675781</score>
+</geoname>
+</geonames>

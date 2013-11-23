@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Drighlington</toponymName>
+<name>Drighlington</name>
+<lat>53.75645</lat>
+<lng>-1.65819</lng>
+<geonameId>7295970</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H3</adminCode2>
+<adminName2>Leeds</adminName2>
+<adminCode3>00DA035</adminCode3>
+<adminName3>Drighlington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.68168</west>
+<north>53.76743</north>
+<east>-1.6347</east>
+<south>53.74547</south>
+</bbox>
+<score>100.4849853515625</score>
+</geoname>
+<geoname>
+<toponymName>Drighlington</toponymName>
+<name>Drighlington</name>
+<lat>53.75592</lat>
+<lng>-1.66443</lng>
+<geonameId>2650987</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Drighlington,Drightlington,Driglington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H3</adminCode2>
+<adminName2>Leeds</adminName2>
+<adminCode3>00DA035</adminCode3>
+<adminName3>Drighlington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Drighlington</alternateName>
+<alternateName lang="unlc">DRG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.69487</west>
+<north>53.7739</north>
+<east>-1.63399</east>
+<south>53.73793</south>
+</bbox>
+<score>78.83976745605469</score>
+</geoname>
+</geonames>

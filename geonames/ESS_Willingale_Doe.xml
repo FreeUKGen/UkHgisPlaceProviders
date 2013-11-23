@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Willingale Doe</toponymName>
+<name>Willingale Doe</name>
+<lat>51.75</lat>
+<lng>0.31667</lng>
+<geonameId>2633902</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Willingale,Willingale Doe</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UH</adminCode3>
+<adminName3>Epping Forest District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Willingale%2C_Essex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.30214</west>
+<north>51.75899</north>
+<east>0.3312</east>
+<south>51.74101</south>
+</bbox>
+<score>91.18110656738281</score>
+</geoname>
+<geoname>
+<toponymName>Willingale Doe</toponymName>
+<name>Willingale Doe</name>
+<lat>51.74956</lat>
+<lng>0.31687</lng>
+<geonameId>6286432</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UH</adminCode3>
+<adminName3>Epping Forest District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>18.851316452026367</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Foleshill</toponymName>
+<name>Foleshill</name>
+<lat>52.4393</lat>
+<lng>-1.48303</lng>
+<geonameId>2649259</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C7</adminCode2>
+<adminName2>Coventry</adminName2>
+<adminCode3>44UC</adminCode3>
+<adminName3>GB.ENG.C7.44UC</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Foleshill</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.49778</west>
+<north>52.4483</north>
+<east>-1.46827</east>
+<south>52.43031</south>
+</bbox>
+<score>95.02735900878906</score>
+</geoname>
+</geonames>

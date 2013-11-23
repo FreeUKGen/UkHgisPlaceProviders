@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Rhayader</toponymName>
+<name>Rhayader</name>
+<lat>52.31301</lat>
+<lng>-3.62051</lng>
+<geonameId>7295463</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN095</adminCode3>
+<adminName3>Rhayader</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.74496</west>
+<north>52.3854</north>
+<east>-3.49605</east>
+<south>52.24061</south>
+</bbox>
+<score>110.14189147949219</score>
+</geoname>
+<geoname>
+<toponymName>Rhayader</toponymName>
+<name>Rhayader</name>
+<lat>52.30154</lat>
+<lng>-3.51146</lng>
+<geonameId>2639470</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1803</population>
+<alternateNames>Rhayader</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN095</adminCode3>
+<adminName3>Rhayader</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rhayader</alternateName>
+<alternateName lang="unlc">RYA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.51881</west>
+<north>52.30604</north>
+<east>-3.50411</east>
+<south>52.29705</south>
+</bbox>
+<score>106.25411987304688</score>
+</geoname>
+<geoname>
+<toponymName>Rhayader</toponymName>
+<name>Rhayader</name>
+<lat>52.29872</lat>
+<lng>-3.51343</lng>
+<geonameId>6288527</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>STDM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>stadium</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>19.839218139648438</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Urchfont</toponymName>
+<name>Urchfont</name>
+<lat>51.29865</lat>
+<lng>-1.9418</lng>
+<geonameId>7296300</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY230</adminCode3>
+<adminName3>Urchfont</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.98516</west>
+<north>51.33206</north>
+<east>-1.89843</east>
+<south>51.26524</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Urchfont</toponymName>
+<name>Urchfont</name>
+<lat>51.31217</lat>
+<lng>-1.94292</lng>
+<geonameId>2635072</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Urchfont</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY230</adminCode3>
+<adminName3>Urchfont</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Urchfont</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.95731</west>
+<north>51.32117</north>
+<east>-1.92853</east>
+<south>51.30318</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+</geonames>

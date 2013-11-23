@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Guist</toponymName>
+<name>Guist</name>
+<lat>52.79523</lat>
+<lng>0.96688</lng>
+<geonameId>7300057</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<adminCode4>33UB040</adminCode4>
+<adminName4>Guist</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Guist</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.93683</west>
+<north>52.80774</north>
+<east>0.99693</east>
+<south>52.78271</south>
+</bbox>
+<score>60.68334197998047</score>
+</geoname>
+</geonames>

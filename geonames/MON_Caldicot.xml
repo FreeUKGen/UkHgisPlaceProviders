@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Caldicot</toponymName>
+<name>Caldicot</name>
+<lat>51.58661</lat>
+<lng>-2.75736</lng>
+<geonameId>2654014</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11373</population>
+<alternateNames>Caldicot</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP003</adminCode3>
+<adminName3>Caldicot</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Caldicot%2C_Monmouthshire</alternateName>
+<alternateName lang="unlc">CDT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.77907</west>
+<north>51.6001</north>
+<east>-2.73564</east>
+<south>51.57312</south>
+</bbox>
+<score>123.70668029785156</score>
+</geoname>
+<geoname>
+<toponymName>Caldicot</toponymName>
+<name>Caldicot</name>
+<lat>51.58153</lat>
+<lng>-2.74583</lng>
+<geonameId>7297743</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP003</adminCode3>
+<adminName3>Caldicot</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.768</west>
+<north>51.60427</north>
+<east>-2.72367</east>
+<south>51.55878</south>
+</bbox>
+<score>112.80574798583984</score>
+</geoname>
+</geonames>

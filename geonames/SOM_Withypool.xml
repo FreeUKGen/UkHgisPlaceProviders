@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Withypool</toponymName>
+<name>Withypool</name>
+<lat>51.1075</lat>
+<lng>-3.64944</lng>
+<geonameId>2633732</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Withypool,Withypoole</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UF</adminCode3>
+<adminName3>West Somerset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Withypool</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.66377</west>
+<north>51.11649</north>
+<east>-3.63512</east>
+<south>51.09851</south>
+</bbox>
+<score>102.80323791503906</score>
+</geoname>
+</geonames>

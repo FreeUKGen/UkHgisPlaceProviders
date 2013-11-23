@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Aston Subedge</toponymName>
+<name>Aston Subedge</name>
+<lat>52.07271</lat>
+<lng>-1.80137</lng>
+<geonameId>7292052</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<adminCode4>23UC008</adminCode4>
+<adminName4>Aston Subedge</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aston_Subedge</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.81313</west>
+<north>52.08556</north>
+<east>-1.78961</east>
+<south>52.05986</south>
+</bbox>
+<score>55.022369384765625</score>
+</geoname>
+</geonames>

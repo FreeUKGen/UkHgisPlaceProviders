@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Middlezoy</toponymName>
+<name>Middlezoy</name>
+<lat>51.09083</lat>
+<lng>-2.89278</lng>
+<geonameId>2642571</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Middlezoy</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Middlezoy</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.9071</west>
+<north>51.09983</north>
+<east>-2.87846</east>
+<south>51.08184</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+<geoname>
+<toponymName>Middlezoy</toponymName>
+<name>Middlezoy</name>
+<lat>51.09437</lat>
+<lng>-2.89137</lng>
+<geonameId>7294007</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<adminCode4>40UC033</adminCode4>
+<adminName4>Middlezoy</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.92896</west>
+<north>51.11201</north>
+<east>-2.85378</east>
+<south>51.07673</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Great Somerford</toponymName>
+<name>Great Somerford</name>
+<lat>51.5424</lat>
+<lng>-2.06508</lng>
+<geonameId>7297654</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY109</adminCode3>
+<adminName3>Great Somerford</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.09666</west>
+<north>51.55318</north>
+<east>-2.03349</east>
+<south>51.53162</south>
+</bbox>
+<score>91.87167358398438</score>
+</geoname>
+<geoname>
+<toponymName>Great Somerford</toponymName>
+<name>Great Somerford</name>
+<lat>51.54354</lat>
+<lng>-2.05209</lng>
+<geonameId>2648017</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Great Somerford,Somerford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY109</adminCode3>
+<adminName3>Great Somerford</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Great_Somerford</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.06656</west>
+<north>51.55254</north>
+<east>-2.03763</east>
+<south>51.53455</south>
+</bbox>
+<score>87.67398834228516</score>
+</geoname>
+<geoname>
+<toponymName>Great Somerford</toponymName>
+<name>Great Somerford</name>
+<lat>51.54678</lat>
+<lng>-2.05359</lng>
+<geonameId>6286313</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>17.901756286621094</score>
+</geoname>
+</geonames>

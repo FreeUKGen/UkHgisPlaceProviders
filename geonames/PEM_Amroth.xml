@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Amroth</toponymName>
+<name>Amroth</name>
+<lat>51.74961</lat>
+<lng>-4.66249</lng>
+<geonameId>7294004</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS002</adminCode3>
+<adminName3>Amroth</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.70238</west>
+<north>51.77844</north>
+<east>-4.62259</east>
+<south>51.72077</south>
+</bbox>
+<score>113.36953735351562</score>
+</geoname>
+<geoname>
+<toponymName>Amroth</toponymName>
+<name>Amroth</name>
+<lat>51.73161</lat>
+<lng>-4.66226</lng>
+<geonameId>2657336</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS002</adminCode3>
+<adminName3>Amroth</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.67679</west>
+<north>51.7406</north>
+<east>-4.64774</east>
+<south>51.72261</south>
+</bbox>
+<score>65.01026153564453</score>
+</geoname>
+</geonames>

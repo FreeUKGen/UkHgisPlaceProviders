@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ashby cum Fenby</toponymName>
+<name>Ashby cum Fenby</name>
+<lat>53.48768</lat>
+<lng>-0.11511</lng>
+<geonameId>7290727</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC001</adminCode3>
+<adminName3>Ashby cum Fenby</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.14753</west>
+<north>53.5055</north>
+<east>-0.08269</east>
+<south>53.46986</south>
+</bbox>
+<score>95.54051208496094</score>
+</geoname>
+<geoname>
+<toponymName>Ashby cum Fenby</toponymName>
+<name>Ashby cum Fenby</name>
+<lat>53.4904</lat>
+<lng>-0.11216</lng>
+<geonameId>2656972</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ashby,Ashby cum Fenby</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC001</adminCode3>
+<adminName3>Ashby cum Fenby</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ashby_cum_Fenby</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.12728</west>
+<north>53.49939</north>
+<east>-0.09704</east>
+<south>53.4814</south>
+</bbox>
+<score>87.36714935302734</score>
+</geoname>
+</geonames>

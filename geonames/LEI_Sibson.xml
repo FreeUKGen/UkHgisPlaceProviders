@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Sibson</toponymName>
+<name>Sibson</name>
+<lat>52.60492</lat>
+<lng>-1.47843</lng>
+<geonameId>2637869</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sibson</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UE</adminCode3>
+<adminName3>Hinckley and Bosworth District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sibson%2C_Leicestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.49325</west>
+<north>52.61392</north>
+<east>-1.46362</east>
+<south>52.59593</south>
+</bbox>
+<score>100.26959228515625</score>
+</geoname>
+</geonames>

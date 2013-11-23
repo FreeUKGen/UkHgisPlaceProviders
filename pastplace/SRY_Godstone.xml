@@ -1,0 +1,64 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>6129</id>
+<name>GODSTONE</name>
+<container>SURREY</container>
+<lat>51.2227264702118</lat>
+<lon>-0.0534866773849332</lon>
+<gazetteerText>Godstone.-- par. and vil., with ry. sta. (2 miles S. of vil.), E. Surrey, 6&#189; miles NE. of Reigate, 6830 ac., pop. 25548; P.O., T.O., and P.O. at sta. called Godstone Station. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Godstone</link>
+<link>http://www.workhouses.org.uk/Godstone</link>
+<link>http://www.geonames.org/2648363</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=43066</link>
+</links>
+<unit>
+   <id>10025667</id>
+   <status>RD</status>
+   <name>GODSTONE</name>
+</unit>
+<unit>
+   <id>10030407</id>
+   <status>PLU/RegD</status>
+   <name>GODSTONE</name>
+</unit>
+<unit>
+   <id>10109619</id>
+   <status>RSD</status>
+   <name>GODSTONE</name>
+</unit>
+<unit>
+   <id>10182840</id>
+   <status>EP</status>
+   <name>GODSTONE</name>
+</unit>
+<unit>
+   <id>10218410</id>
+   <status>CP/AP</status>
+   <name>GODSTONE</name>
+</unit>
+<unit>
+   <id>10540318</id>
+   <status></status>
+   <name>GODSTONE</name>
+</unit>
+<unit>
+   <id>10573968</id>
+   <status></status>
+   <name>GODSTONE</name>
+</unit>
+<nearByPlace>
+   <id>2949</id>
+   <name>BLETCHINGLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4085</id>
+   <name>CROWHURST</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5611</id>
+   <name>TANDRIDGE</name>
+</nearByPlace>
+</place>
+</results>

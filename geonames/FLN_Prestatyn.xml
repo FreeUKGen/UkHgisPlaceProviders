@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Prestatyn</toponymName>
+<name>Prestatyn</name>
+<lat>53.33464</lat>
+<lng>-3.40514</lng>
+<geonameId>7294048</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG033</adminCode3>
+<adminName3>Prestatyn</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.4496</west>
+<north>53.35733</north>
+<east>-3.36067</east>
+<south>53.31194</south>
+</bbox>
+<score>107.51793670654297</score>
+</geoname>
+<geoname>
+<toponymName>Prestatyn</toponymName>
+<name>Prestatyn</name>
+<lat>53.33748</lat>
+<lng>-3.40776</lng>
+<geonameId>2639926</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>18701</population>
+<alternateNames>Prestatin,Prestatinas,Престатин,Престатін</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG033</adminCode3>
+<adminName3>Prestatyn</adminName3>
+<alternateName lang="bg">Престатин</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Prestatyn</alternateName>
+<alternateName lang="lt">Prestatinas</alternateName>
+<alternateName lang="uk">Престатін</alternateName>
+<alternateName lang="unlc">PRS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.43694</west>
+<north>53.35489</north>
+<east>-3.37859</east>
+<south>53.32006</south>
+</bbox>
+<score>104.27789306640625</score>
+</geoname>
+</geonames>

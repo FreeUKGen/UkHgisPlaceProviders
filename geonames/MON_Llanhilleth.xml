@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llanhilleth</toponymName>
+<name>Llanhilleth</name>
+<lat>51.70135</lat>
+<lng>-3.13168</lng>
+<geonameId>7299755</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X2</adminCode2>
+<adminName2>County Borough of Blaenau Gwent</adminName2>
+<adminCode3>00PL006</adminCode3>
+<adminName3>Llanhilleth</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanhilleth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.15548</west>
+<north>51.72142</north>
+<east>-3.10788</east>
+<south>51.68128</south>
+</bbox>
+<score>80.0615234375</score>
+</geoname>
+</geonames>

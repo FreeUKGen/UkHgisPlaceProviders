@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bitterley</toponymName>
+<name>Bitterley</name>
+<lat>52.39026</lat>
+<lng>-2.63303</lng>
+<geonameId>7292252</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG028</adminCode3>
+<adminName3>Bitterley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.6999</west>
+<north>52.4201</north>
+<east>-2.56616</east>
+<south>52.36043</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Bitterley</toponymName>
+<name>Bitterley</name>
+<lat>52.39296</lat>
+<lng>-2.6449</lng>
+<geonameId>2655539</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bitterley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG028</adminCode3>
+<adminName3>Bitterley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bitterley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.65964</west>
+<north>52.40195</north>
+<east>-2.63016</east>
+<south>52.38396</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+</geonames>

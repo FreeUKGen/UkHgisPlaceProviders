@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Prestwich</toponymName>
+<name>Prestwich</name>
+<lat>53.53333</lat>
+<lng>-2.28333</lng>
+<geonameId>2639897</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>32125</population>
+<alternateNames>Prestwich</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C1</adminCode2>
+<adminName2>Bury</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Prestwich</alternateName>
+<alternateName lang="unlc">PRW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.32193</west>
+<north>53.55626</north>
+<east>-2.24473</east>
+<south>53.5104</south>
+</bbox>
+<score>136.23641967773438</score>
+</geoname>
+<geoname>
+<toponymName>Prestwich</toponymName>
+<name>Prestwich</name>
+<lat>53.53337</lat>
+<lng>-2.28198</lng>
+<geonameId>7676845</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>MTRO</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>metro station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C1</adminCode2>
+<adminName2>Bury</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>19.90667724609375</score>
+</geoname>
+</geonames>

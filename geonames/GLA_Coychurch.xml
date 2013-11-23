@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Coychurch</toponymName>
+<name>Coychurch</name>
+<lat>51.50532</lat>
+<lng>-3.53348</lng>
+<geonameId>2652178</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Coychurch,Llangrallo</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<alternateName lang="cy">Llangrallo</alternateName>
+<alternateName lang="en">Coychurch</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Coychurch</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.54793</west>
+<north>51.51432</north>
+<east>-3.51903</east>
+<south>51.49633</south>
+</bbox>
+<score>90.7641372680664</score>
+</geoname>
+</geonames>

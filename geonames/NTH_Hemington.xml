@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Hemington</toponymName>
+<name>Hemington</name>
+<lat>52.45</lat>
+<lng>-0.4</lng>
+<geonameId>2647131</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hemington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hemington%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.41476</west>
+<north>52.45899</north>
+<east>-0.38524</east>
+<south>52.44101</south>
+</bbox>
+<score>92.33033752441406</score>
+</geoname>
+<geoname>
+<toponymName>Hemington</toponymName>
+<name>Hemington</name>
+<lat>52.45356</lat>
+<lng>-0.38454</lng>
+<geonameId>7295723</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<adminCode4>34UD023</adminCode4>
+<adminName4>Hemington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.4127</west>
+<north>52.46666</north>
+<east>-0.35639</east>
+<south>52.44046</south>
+</bbox>
+<score>73.85589599609375</score>
+</geoname>
+<geoname>
+<toponymName>Hemington</toponymName>
+<name>Hemington</name>
+<lat>51.28355</lat>
+<lng>-2.372</lng>
+<geonameId>7292383</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<adminCode4>40UB024</adminCode4>
+<adminName4>Hemington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hemington%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.42026</west>
+<north>51.30489</north>
+<east>-2.32374</east>
+<south>51.26221</south>
+</bbox>
+<score>50.2331428527832</score>
+</geoname>
+</geonames>

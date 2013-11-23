@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Foxley</toponymName>
+<name>Foxley</name>
+<lat>51.57222</lat>
+<lng>-2.155</lng>
+<geonameId>2649117</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Foxley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.16947</west>
+<north>51.58122</north>
+<east>-2.14053</east>
+<south>51.56323</south>
+</bbox>
+<score>58.90788269042969</score>
+</geoname>
+<geoname>
+<toponymName>Foxley</toponymName>
+<name>Foxley</name>
+<lat>52.75723</lat>
+<lng>1.02418</lng>
+<geonameId>7298224</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<adminCode4>33UB029</adminCode4>
+<adminName4>Foxley</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Foxley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.99502</west>
+<north>52.77021</north>
+<east>1.05334</east>
+<south>52.74426</south>
+</bbox>
+<score>58.866180419921875</score>
+</geoname>
+</geonames>

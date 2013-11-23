@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Woodford</toponymName>
+<name>Woodford</name>
+<lat>51.12353</lat>
+<lng>-1.83628</lng>
+<geonameId>7296301</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY253</adminCode3>
+<adminName3>Woodford</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.86148</west>
+<north>51.1563</north>
+<east>-1.81109</east>
+<south>51.09076</south>
+</bbox>
+<score>77.79682922363281</score>
+</geoname>
+<geoname>
+<toponymName>Woodford</toponymName>
+<name>Woodford</name>
+<lat>53.33333</lat>
+<lng>-2.16667</lng>
+<geonameId>2633656</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Woodford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N2</adminCode2>
+<adminName2>Stockport</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Woodford%2C_Greater_Manchester</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.18173</west>
+<north>53.34233</north>
+<east>-2.1516</east>
+<south>53.32434</south>
+</bbox>
+<score>71.73036193847656</score>
+</geoname>
+<geoname>
+<toponymName>Woodford</toponymName>
+<name>Woodford</name>
+<lat>51.6</lat>
+<lng>0.01667</lng>
+<geonameId>2633658</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Woodford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>K8</adminCode3>
+<adminName3>Redbridge</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Woodford_tube_station</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.00218</west>
+<north>51.60899</north>
+<east>0.03115</east>
+<south>51.59101</south>
+</bbox>
+<score>71.73036193847656</score>
+</geoname>
+<geoname>
+<toponymName>Woodford</toponymName>
+<name>Woodford</name>
+<lat>52.38231</lat>
+<lng>-0.58099</lng>
+<geonameId>2633657</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Woodford%2C_Northamptonshire</alternateName>
+<alternateName lang="unlc">WOF</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.59573</west>
+<north>52.3913</north>
+<east>-0.56625</east>
+<south>52.37331</south>
+</bbox>
+<score>60.31650161743164</score>
+</geoname>
+<geoname>
+<toponymName>Woodford</toponymName>
+<name>Woodford</name>
+<lat>52.37821</lat>
+<lng>-0.58408</lng>
+<geonameId>7291336</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<adminCode4>34UD053</adminCode4>
+<adminName4>Woodford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.62883</west>
+<north>52.39267</north>
+<east>-0.53934</east>
+<south>52.36374</south>
+</bbox>
+<score>56.24992370605469</score>
+</geoname>
+<geoname>
+<toponymName>Woodford</toponymName>
+<name>Woodford</name>
+<lat>51.11667</lat>
+<lng>-1.83333</lng>
+<geonameId>2633659</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY253</adminCode3>
+<adminName3>Woodford</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.862</west>
+<north>51.13465</north>
+<east>-1.80467</east>
+<south>51.09868</south>
+</bbox>
+<score>28.124961853027344</score>
+</geoname>
+</geonames>

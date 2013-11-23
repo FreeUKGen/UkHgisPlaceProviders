@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Charlton Kings</toponymName>
+<name>Charlton Kings</name>
+<lat>51.88374</lat>
+<lng>-2.04239</lng>
+<geonameId>2653324</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11700</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UB</adminCode3>
+<adminName3>Cheltenham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Charlton_Kings</alternateName>
+<alternateName lang="unlc">CHN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.06425</west>
+<north>51.89723</north>
+<east>-2.02053</east>
+<south>51.87025</south>
+</bbox>
+<score>104.11248016357422</score>
+</geoname>
+<geoname>
+<toponymName>Charlton Kings</toponymName>
+<name>Charlton Kings</name>
+<lat>51.88059</lat>
+<lng>-2.03908</lng>
+<geonameId>7293564</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UB</adminCode3>
+<adminName3>Cheltenham</adminName3>
+<adminCode4>23UB005</adminCode4>
+<adminName4>Charlton Kings</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.06793</west>
+<north>51.90292</north>
+<east>-2.01022</east>
+<south>51.85826</south>
+</bbox>
+<score>70.64879608154297</score>
+</geoname>
+</geonames>

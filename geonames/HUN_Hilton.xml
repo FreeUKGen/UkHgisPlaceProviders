@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>14</totalResultsCount>
+<geoname>
+<toponymName>Hilton</toponymName>
+<name>Hilton</name>
+<lat>54.49686</lat>
+<lng>-1.28642</lng>
+<geonameId>7299557</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N3</adminCode2>
+<adminName2>Stockton-on-Tees</adminName2>
+<adminCode3>00EF007</adminCode3>
+<adminName3>Hilton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.3196</west>
+<north>54.5069</north>
+<east>-1.25325</east>
+<south>54.48682</south>
+</bbox>
+<score>79.73674011230469</score>
+</geoname>
+<geoname>
+<toponymName>Hilton</toponymName>
+<name>Hilton</name>
+<lat>50.83333</lat>
+<lng>-2.31667</lng>
+<geonameId>2646876</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hilton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UE</adminCode3>
+<adminName3>North Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hilton%2C_Dorset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.33091</west>
+<north>50.84233</north>
+<east>-2.30242</east>
+<south>50.82434</south>
+</bbox>
+<score>76.08799743652344</score>
+</geoname>
+<geoname>
+<toponymName>Hilton</toponymName>
+<name>Hilton</name>
+<lat>52.56667</lat>
+<lng>-2.31667</lng>
+<geonameId>2646874</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hilton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hilton%2C_Shropshire</alternateName>
+<alternateName lang="unlc">ZBL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.33147</west>
+<north>52.57566</north>
+<east>-2.30187</east>
+<south>52.55767</south>
+</bbox>
+<score>66.14362335205078</score>
+</geoname>
+<geoname>
+<toponymName>Hilton</toponymName>
+<name>Hilton</name>
+<lat>52.27908</lat>
+<lng>-0.11222</lng>
+<geonameId>2646875</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hilton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hilton%2C_Cambridgeshire</alternateName>
+<alternateName lang="unlc">TNN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.12693</west>
+<north>52.28807</north>
+<east>-0.09752</east>
+<south>52.27009</south>
+</bbox>
+<score>66.14362335205078</score>
+</geoname>
+<geoname>
+<toponymName>Hilton</toponymName>
+<name>Hilton</name>
+<lat>50.83064</lat>
+<lng>-2.32606</lng>
+<geonameId>7294985</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UE</adminCode3>
+<adminName3>North Dorset District</adminName3>
+<adminCode4>19UE025</adminCode4>
+<adminName4>Hilton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.3607</west>
+<north>50.8516</north>
+<east>-2.29143</east>
+<south>50.80968</south>
+</bbox>
+<score>57.80265808105469</score>
+</geoname>
+<geoname>
+<toponymName>Hilton</toponymName>
+<name>Hilton</name>
+<lat>52.27341</lat>
+<lng>-0.11556</lng>
+<geonameId>7298785</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<adminCode4>12UE042</adminCode4>
+<adminName4>Hilton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.13813</west>
+<north>52.28974</north>
+<east>-0.09299</east>
+<south>52.25708</south>
+</bbox>
+<score>57.80265808105469</score>
+</geoname>
+<geoname>
+<toponymName>Hilton</toponymName>
+<name>Hilton</name>
+<lat>54.59416</lat>
+<lng>-1.73671</lng>
+<geonameId>7294472</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ055</adminCode3>
+<adminName3>Hilton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hilton%2C_County_Durham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.75776</west>
+<north>54.60593</north>
+<east>-1.71566</east>
+<south>54.5824</south>
+</bbox>
+<score>54.20589065551758</score>
+</geoname>
+<geoname>
+<toponymName>Hilton</toponymName>
+<name>Hilton</name>
+<lat>54.59226</lat>
+<lng>-1.74417</lng>
+<geonameId>2646872</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ055</adminCode3>
+<adminName3>Hilton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.75969</west>
+<north>54.60125</north>
+<east>-1.72864</east>
+<south>54.58326</south>
+</bbox>
+<score>45.846466064453125</score>
+</geoname>
+<geoname>
+<toponymName>Hilton</toponymName>
+<name>Hilton</name>
+<lat>54.56667</lat>
+<lng>-2.41667</lng>
+<geonameId>2646873</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UF</adminCode3>
+<adminName3>Eden District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.43218</west>
+<north>54.57566</north>
+<east>-2.40115</east>
+<south>54.55767</south>
+</bbox>
+<score>45.846466064453125</score>
+</geoname>
+<geoname>
+<toponymName>Hilton</toponymName>
+<name>Hilton</name>
+<lat>52.87619</lat>
+<lng>-1.62814</lng>
+<geonameId>7300219</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UK</adminCode3>
+<adminName3>South Derbyshire District</adminName3>
+<adminCode4>17UK024</adminCode4>
+<adminName4>Hilton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hilton%2C_Derbyshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.64903</west>
+<north>52.89284</north>
+<east>-1.60726</east>
+<south>52.85954</south>
+</bbox>
+<score>42.24970245361328</score>
+</geoname>
+</geonames>

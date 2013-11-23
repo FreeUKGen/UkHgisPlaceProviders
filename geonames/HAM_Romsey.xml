@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Romsey</toponymName>
+<name>Romsey</name>
+<lat>50.98906</lat>
+<lng>-1.49989</lng>
+<geonameId>2639189</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>17773</population>
+<alternateNames>Romsey</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UN</adminCode3>
+<adminName3>Test Valley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Romsey</alternateName>
+<alternateName lang="unlc">RMS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.52663</west>
+<north>51.00588</north>
+<east>-1.47315</east>
+<south>50.97223</south>
+</bbox>
+<score>121.68217468261719</score>
+</geoname>
+<geoname>
+<toponymName>Romsey</toponymName>
+<name>Romsey</name>
+<lat>50.99329</lat>
+<lng>-1.48689</lng>
+<geonameId>2639188</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UN</adminCode3>
+<adminName3>Test Valley District</adminName3>
+<adminCode4>24UN044</adminCode4>
+<adminName4>Romsey</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.51106</west>
+<north>51.00323</north>
+<east>-1.46273</east>
+<south>50.98334</south>
+</bbox>
+<score>58.4676399230957</score>
+</geoname>
+</geonames>

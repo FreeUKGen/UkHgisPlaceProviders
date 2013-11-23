@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Horton Kirby</toponymName>
+<name>Horton Kirby</name>
+<lat>51.39481</lat>
+<lng>0.24483</lng>
+<geonameId>2646543</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UD</adminCode3>
+<adminName3>Dartford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Horton_Kirby</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.23042</west>
+<north>51.40381</north>
+<east>0.25925</east>
+<south>51.38582</south>
+</bbox>
+<score>83.42338562011719</score>
+</geoname>
+</geonames>

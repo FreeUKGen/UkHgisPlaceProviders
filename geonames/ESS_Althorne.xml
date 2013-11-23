@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Althorne</toponymName>
+<name>Althorne</name>
+<lat>51.65722</lat>
+<lng>0.76085</lng>
+<geonameId>2657417</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UK</adminCode3>
+<adminName3>Maldon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Althorne</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.74635</west>
+<north>51.66622</north>
+<east>0.77535</east>
+<south>51.64823</south>
+</bbox>
+<score>87.978759765625</score>
+</geoname>
+<geoname>
+<toponymName>Althorne</toponymName>
+<name>Althorne</name>
+<lat>51.65252</lat>
+<lng>0.76716</lng>
+<geonameId>7300532</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UK</adminCode3>
+<adminName3>Maldon District</adminName3>
+<adminCode4>22UK001</adminCode4>
+<adminName4>Althorne</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.74293</west>
+<north>51.67228</north>
+<east>0.79138</east>
+<south>51.63277</south>
+</bbox>
+<score>78.28892517089844</score>
+</geoname>
+</geonames>

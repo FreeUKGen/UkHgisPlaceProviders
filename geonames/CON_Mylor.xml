@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Mylor</toponymName>
+<name>Mylor</name>
+<lat>50.18489</lat>
+<lng>-5.08387</lng>
+<geonameId>7293088</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE096</adminCode3>
+<adminName3>Mylor</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.12464</west>
+<north>50.20916</north>
+<east>-5.0431</east>
+<south>50.16062</south>
+</bbox>
+<score>108.14241027832031</score>
+</geoname>
+<geoname>
+<toponymName>Mylor Bridge</toponymName>
+<name>Mylor Bridge</name>
+<lat>50.18637</lat>
+<lng>-5.07599</lng>
+<geonameId>2641931</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Mylor,Mylor Bridge</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE096</adminCode3>
+<adminName3>Mylor</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mylor_Bridge</alternateName>
+<alternateName lang="unlc">MYL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.09004</west>
+<north>50.19536</north>
+<east>-5.06194</east>
+<south>50.17738</south>
+</bbox>
+<score>60.03557586669922</score>
+</geoname>
+</geonames>

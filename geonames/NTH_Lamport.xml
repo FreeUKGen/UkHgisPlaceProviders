@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Lamport</toponymName>
+<name>Lamport</name>
+<lat>52.3635</lat>
+<lng>-0.89144</lng>
+<geonameId>2644977</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Lamport</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lamport%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.90618</west>
+<north>52.3725</north>
+<east>-0.87671</east>
+<south>52.35451</south>
+</bbox>
+<score>93.66517639160156</score>
+</geoname>
+<geoname>
+<toponymName>Lamport</toponymName>
+<name>Lamport</name>
+<lat>52.36693</lat>
+<lng>-0.88771</lng>
+<geonameId>7296701</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<adminCode4>34UC043</adminCode4>
+<adminName4>Lamport</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.94251</west>
+<north>52.39499</north>
+<east>-0.83291</east>
+<south>52.33887</south>
+</bbox>
+<score>75.13643646240234</score>
+</geoname>
+</geonames>

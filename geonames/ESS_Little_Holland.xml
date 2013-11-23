@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Holland-on-Sea</toponymName>
+<name>Holland-on-Sea</name>
+<lat>51.80628</lat>
+<lng>1.19382</lng>
+<geonameId>2644312</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Holland-on-Sea,Little Holland</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UN</adminCode3>
+<adminName3>Tendring District</adminName3>
+<alternateName lang="en">Holland-on-Sea</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Holland-on-Sea</alternateName>
+<alternateName lang="unlc">HDS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.17927</west>
+<north>51.81527</north>
+<east>1.20837</east>
+<south>51.79729</south>
+</bbox>
+<score>51.390525817871094</score>
+</geoname>
+</geonames>

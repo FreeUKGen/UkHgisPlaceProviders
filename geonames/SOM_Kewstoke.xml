@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kewstoke</toponymName>
+<name>Kewstoke</name>
+<lat>51.38119</lat>
+<lng>-2.95433</lng>
+<geonameId>7298887</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC020</adminCode3>
+<adminName3>Kewstoke</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.99053</west>
+<north>51.39928</north>
+<east>-2.91813</east>
+<south>51.36309</south>
+</bbox>
+<score>112.42731475830078</score>
+</geoname>
+<geoname>
+<toponymName>Kewstoke</toponymName>
+<name>Kewstoke</name>
+<lat>51.3653</lat>
+<lng>-2.95901</lng>
+<geonameId>3345387</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC020</adminCode3>
+<adminName3>Kewstoke</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kewstoke</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.98783</west>
+<north>51.38328</north>
+<east>-2.93019</east>
+<south>51.34731</south>
+</bbox>
+<score>77.395751953125</score>
+</geoname>
+</geonames>

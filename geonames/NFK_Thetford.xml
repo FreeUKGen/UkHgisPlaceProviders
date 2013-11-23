@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Thetford</toponymName>
+<name>Thetford</name>
+<lat>52.41667</lat>
+<lng>0.75</lng>
+<geonameId>2636032</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>21588</population>
+<alternateNames>Tetford,Thetford,Тетфорд,ጤትፎርድ</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<alternateName lang="am">ጤትፎርድ</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thetford</alternateName>
+<alternateName lang="ru">Тетфорд</alternateName>
+<alternateName lang="unlc">TFD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.71959</west>
+<north>52.43521</north>
+<east>0.78041</east>
+<south>52.39813</south>
+</bbox>
+<score>87.38536071777344</score>
+</geoname>
+<geoname>
+<toponymName>Thetford</toponymName>
+<name>Thetford</name>
+<lat>52.35946</lat>
+<lng>0.24071</lng>
+<geonameId>7298764</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>69.26820373535156</score>
+</geoname>
+<geoname>
+<toponymName>Thetford</toponymName>
+<name>Thetford</name>
+<lat>52.42939</lat>
+<lng>0.72297</lng>
+<geonameId>7299381</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<adminCode4>33UB099</adminCode4>
+<adminName4>Thetford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.66844</west>
+<north>52.46657</north>
+<east>0.7775</east>
+<south>52.39221</south>
+</bbox>
+<score>69.26820373535156</score>
+</geoname>
+</geonames>

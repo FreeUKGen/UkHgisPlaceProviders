@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Cheadle</toponymName>
+<name>Cheadle</name>
+<lat>52.98333</lat>
+<lng>-1.98333</lng>
+<geonameId>2653292</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>12158</population>
+<alternateNames>Cheadle</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UH</adminCode3>
+<adminName3>Staffordshire Moorlands</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cheadle,_Staffordshire</alternateName>
+<alternateName lang="unlc">CDL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.00696</west>
+<north>52.99755</north>
+<east>-1.95971</east>
+<south>52.96911</south>
+</bbox>
+<score>98.20916748046875</score>
+</geoname>
+<geoname>
+<toponymName>Cheadle</toponymName>
+<name>Cheadle</name>
+<lat>52.99004</lat>
+<lng>-1.99396</lng>
+<geonameId>7301299</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UH</adminCode3>
+<adminName3>Staffordshire Moorlands</adminName3>
+<adminCode4>41UH010</adminCode4>
+<adminName4>Cheadle</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.04789</west>
+<north>53.02145</north>
+<east>-1.94002</east>
+<south>52.95864</south>
+</bbox>
+<score>74.13905334472656</score>
+</geoname>
+<geoname>
+<toponymName>Cheadle</toponymName>
+<name>Cheadle</name>
+<lat>53.4</lat>
+<lng>-2.21667</lng>
+<geonameId>2653291</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N2</adminCode2>
+<adminName2>Stockport</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.19843</west>
+<north>53.40636</north>
+<east>-2.18334</east>
+<south>53.39737</south>
+</bbox>
+<score>58.966087341308594</score>
+</geoname>
+<geoname>
+<toponymName>Cheadle</toponymName>
+<name>Cheadle</name>
+<lat>52.96908</lat>
+<lng>-1.99192</lng>
+<geonameId>6287893</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UH</adminCode3>
+<adminName3>Staffordshire Moorlands</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>18.53476333618164</score>
+</geoname>
+</geonames>

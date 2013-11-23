@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Colne</toponymName>
+<name>Colne</name>
+<lat>53.85713</lat>
+<lng>-2.16851</lng>
+<geonameId>2652544</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>20118</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UJ</adminCode3>
+<adminName3>Pendle District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colne</alternateName>
+<alternateName lang="unlc">CLN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.19902</west>
+<north>53.87512</north>
+<east>-2.138</east>
+<south>53.83915</south>
+</bbox>
+<score>113.9509048461914</score>
+</geoname>
+<geoname>
+<toponymName>Colne</toponymName>
+<name>Colne</name>
+<lat>52.36667</lat>
+<lng>0.01667</lng>
+<geonameId>2652545</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Colne</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colne%2C_Cambridgeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.00193</west>
+<north>52.37566</north>
+<east>0.0314</east>
+<south>52.35767</south>
+</bbox>
+<score>97.61917877197266</score>
+</geoname>
+<geoname>
+<toponymName>Colne</toponymName>
+<name>Colne</name>
+<lat>52.37292</lat>
+<lng>0.00481</lng>
+<geonameId>7292905</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<adminCode4>12UE017</adminCode4>
+<adminName4>Colne</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.0323</west>
+<north>52.39047</north>
+<east>0.04192</east>
+<south>52.35537</south>
+</bbox>
+<score>77.16798400878906</score>
+</geoname>
+<geoname>
+<toponymName>Colne</toponymName>
+<name>Colne</name>
+<lat>53.85788</lat>
+<lng>-2.16599</lng>
+<geonameId>7295366</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UJ</adminCode3>
+<adminName3>Pendle District</adminName3>
+<adminCode4>30UJ018</adminCode4>
+<adminName4>Colne</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.20491</west>
+<north>53.87446</north>
+<east>-2.12707</east>
+<south>53.84131</south>
+</bbox>
+<score>77.16798400878906</score>
+</geoname>
+</geonames>

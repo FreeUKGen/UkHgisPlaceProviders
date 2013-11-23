@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Mentmore</toponymName>
+<name>Mentmore</name>
+<lat>51.86897</lat>
+<lng>-0.68485</lng>
+<geonameId>2642740</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Mentmore</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UB</adminCode3>
+<adminName3>Aylesbury Vale</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mentmore</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.69941</west>
+<north>51.87796</north>
+<east>-0.67028</east>
+<south>51.85998</south>
+</bbox>
+<score>102.71295166015625</score>
+</geoname>
+<geoname>
+<toponymName>Mentmore</toponymName>
+<name>Mentmore</name>
+<lat>51.87242</lat>
+<lng>-0.6967</lng>
+<geonameId>7296369</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UB</adminCode3>
+<adminName3>Aylesbury Vale</adminName3>
+<adminCode4>11UB061</adminCode4>
+<adminName4>Mentmore</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.72917</west>
+<north>51.8956</north>
+<east>-0.66424</east>
+<south>51.84923</south>
+</bbox>
+<score>77.5967788696289</score>
+</geoname>
+</geonames>

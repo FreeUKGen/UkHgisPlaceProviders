@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Eastwood</toponymName>
+<name>Eastwood</name>
+<lat>53</lat>
+<lng>-1.3</lng>
+<geonameId>2650309</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>18612</population>
+<alternateNames>Eastwood,Eastwood i Nottinghamshire</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UD</adminCode3>
+<adminName3>Broxtowe District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eastwood%2C_Nottinghamshire</alternateName>
+<alternateName lang="nn">Eastwood i Nottinghamshire</alternateName>
+<alternateName lang="unlc">EWD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.32895</west>
+<north>53.01742</north>
+<east>-1.27105</east>
+<south>52.98258</south>
+</bbox>
+<score>84.54254150390625</score>
+</geoname>
+<geoname>
+<toponymName>Eastwood</toponymName>
+<name>Eastwood</name>
+<lat>53.71667</lat>
+<lng>-2.05</lng>
+<geonameId>2650308</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Eastwood</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C2</adminCode2>
+<adminName2>Calderdale</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eastwood%2C_West_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.0652</west>
+<north>53.72566</north>
+<east>-2.0348</east>
+<south>53.70767</south>
+</bbox>
+<score>77.451904296875</score>
+</geoname>
+<geoname>
+<toponymName>Eastwood</toponymName>
+<name>Eastwood</name>
+<lat>53.0172</lat>
+<lng>-1.30815</lng>
+<geonameId>7299028</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UD</adminCode3>
+<adminName3>Broxtowe District</adminName3>
+<adminCode4>37UD004</adminCode4>
+<adminName4>Eastwood</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.32845</west>
+<north>53.03102</north>
+<east>-1.28785</east>
+<south>53.00338</south>
+</bbox>
+<score>60.180572509765625</score>
+</geoname>
+</geonames>

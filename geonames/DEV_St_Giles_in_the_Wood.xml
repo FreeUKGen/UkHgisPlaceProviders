@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>St. Giles in the Wood</toponymName>
+<name>St. Giles in the Wood</name>
+<lat>50.95514</lat>
+<lng>-4.09033</lng>
+<geonameId>7294950</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UK</adminCode3>
+<adminName3>Torridge District</adminName3>
+<adminCode4>18UK050</adminCode4>
+<adminName4>St. Giles in the Wood</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St_Giles_in_the_Wood</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.14191</west>
+<north>50.9792</north>
+<east>-4.03876</east>
+<south>50.93109</south>
+</bbox>
+<score>52.49617004394531</score>
+</geoname>
+</geonames>

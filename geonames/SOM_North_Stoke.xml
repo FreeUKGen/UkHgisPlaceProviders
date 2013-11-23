@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>North Stoke</toponymName>
+<name>North Stoke</name>
+<lat>51.57184</lat>
+<lng>-1.12232</lng>
+<geonameId>2641255</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UD</adminCode3>
+<adminName3>South Oxfordshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/North_Stoke%2C_Oxfordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.1368</west>
+<north>51.58084</north>
+<east>-1.10785</east>
+<south>51.56285</south>
+</bbox>
+<score>79.97383117675781</score>
+</geoname>
+<geoname>
+<toponymName>North Stoke</toponymName>
+<name>North Stoke</name>
+<lat>51.41994</lat>
+<lng>-2.42477</lng>
+<geonameId>7296554</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA031</adminCode3>
+<adminName3>North Stoke</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/North_Stoke%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.44591</west>
+<north>51.42865</north>
+<east>-2.40362</east>
+<south>51.41122</south>
+</bbox>
+<score>67.15603637695312</score>
+</geoname>
+</geonames>

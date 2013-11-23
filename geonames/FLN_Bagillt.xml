@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bagillt</toponymName>
+<name>Bagillt</name>
+<lat>53.27586</lat>
+<lng>-3.16265</lng>
+<geonameId>7297171</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ001</adminCode3>
+<adminName3>Bagillt</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.21185</west>
+<north>53.30612</north>
+<east>-3.11345</east>
+<south>53.24559</south>
+</bbox>
+<score>112.25630187988281</score>
+</geoname>
+<geoname>
+<toponymName>Bagillt</toponymName>
+<name>Bagillt</name>
+<lat>53.2654</lat>
+<lng>-3.16551</lng>
+<geonameId>2656636</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2749</population>
+<alternateNames>Bagillt,Bagilt</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ001</adminCode3>
+<adminName3>Bagillt</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bagillt</alternateName>
+<alternateName lang="unlc">BGL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.17615</west>
+<north>53.27176</north>
+<east>-3.15488</east>
+<south>53.25904</south>
+</bbox>
+<score>103.4195556640625</score>
+</geoname>
+</geonames>

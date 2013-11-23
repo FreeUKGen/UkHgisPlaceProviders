@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Saint David’s</toponymName>
+<name>St David's</name>
+<lat>51.88094</lat>
+<lng>-5.26554</lng>
+<geonameId>2638822</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1800</population>
+<alternateNames>Saint David's,Saint David’s,Sent-Dehvidz,St David's,Tyddewi,Сент-Дэвидз</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS060</adminCode3>
+<adminName3>St. David's and the Cathedral Close</adminName3>
+<alternateName lang="cy">Tyddewi</alternateName>
+<alternateName lang="en">St David's</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St_Davids</alternateName>
+<alternateName lang="ru">Сент-Дэвидз</alternateName>
+<alternateName lang="unlc">TYD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.27283</west>
+<north>51.88544</north>
+<east>-5.25826</east>
+<south>51.87644</south>
+</bbox>
+<score>50.41688537597656</score>
+</geoname>
+</geonames>

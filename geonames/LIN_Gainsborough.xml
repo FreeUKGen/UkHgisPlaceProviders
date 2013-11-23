@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Gainsborough</toponymName>
+<name>Gainsborough</name>
+<lat>53.38333</lat>
+<lng>-0.76667</lng>
+<geonameId>2648945</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>19871</population>
+<alternateNames>Gainesborough,Gainsborough,Gainsborough i Lincolnshire</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gainsborough%2C_Lincolnshire</alternateName>
+<alternateName lang="nn">Gainsborough i Lincolnshire</alternateName>
+<alternateName lang="unlc">GAI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.79684</west>
+<north>53.40132</north>
+<east>-0.7365</east>
+<south>53.36535</south>
+</bbox>
+<score>116.02899169921875</score>
+</geoname>
+<geoname>
+<toponymName>Gainsborough</toponymName>
+<name>Gainsborough</name>
+<lat>53.39558</lat>
+<lng>-0.76262</lng>
+<geonameId>7299208</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<adminCode4>32UH126</adminCode4>
+<adminName4>Gainsborough</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.79142</west>
+<north>53.41433</north>
+<east>-0.73382</east>
+<south>53.37683</south>
+</bbox>
+<score>70.38174438476562</score>
+</geoname>
+<geoname>
+<toponymName>Gainsborough</toponymName>
+<name>Gainsborough</name>
+<lat>52.03782</lat>
+<lng>1.18309</lng>
+<geonameId>6301917</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UD</adminCode3>
+<adminName3>Ipswich District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gainsborough%2C_Ipswich</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.17724</west>
+<north>52.04141</north>
+<east>1.18894</east>
+<south>52.03422</south>
+</bbox>
+<score>62.70777893066406</score>
+</geoname>
+<geoname>
+<toponymName>Gainsborough</toponymName>
+<name>Gainsborough</name>
+<lat>51.4951</lat>
+<lng>-0.1772</lng>
+<geonameId>6466905</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>G4</adminCode3>
+<adminName3>Royal Kensington and Chelsea</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>17.595436096191406</score>
+</geoname>
+</geonames>

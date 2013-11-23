@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Roxby cum Risby</toponymName>
+<name>Roxby cum Risby</name>
+<lat>53.62552</lat>
+<lng>-0.58527</lng>
+<geonameId>7298247</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD042</adminCode3>
+<adminName3>Roxby cum Risby</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Roxby%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.64271</west>
+<north>53.65067</north>
+<east>-0.52783</east>
+<south>53.60038</south>
+</bbox>
+<score>71.71656036376953</score>
+</geoname>
+</geonames>

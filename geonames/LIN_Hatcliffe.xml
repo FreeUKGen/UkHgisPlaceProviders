@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hatcliffe</toponymName>
+<name>Hatcliffe</name>
+<lat>53.48582</lat>
+<lng>-0.16311</lng>
+<geonameId>7298228</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC009</adminCode3>
+<adminName3>Hatcliffe</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.18894</west>
+<north>53.50483</north>
+<east>-0.13728</east>
+<south>53.46682</south>
+</bbox>
+<score>112.42731475830078</score>
+</geoname>
+<geoname>
+<toponymName>Hatcliffe</toponymName>
+<name>Hatcliffe</name>
+<lat>53.49012</lat>
+<lng>-0.17194</lng>
+<geonameId>2647350</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hatcliffe</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC004</adminCode3>
+<adminName3>Beelsby</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hatcliffe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.18706</west>
+<north>53.49912</north>
+<east>-0.15682</east>
+<south>53.48113</south>
+</bbox>
+<score>106.82952880859375</score>
+</geoname>
+</geonames>

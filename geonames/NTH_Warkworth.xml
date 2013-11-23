@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Warkworth</toponymName>
+<name>Warkworth</name>
+<lat>55.34547</lat>
+<lng>-1.63259</lng>
+<geonameId>7291808</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM154</adminCode3>
+<adminName3>Warkworth</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.68289</west>
+<north>55.3741</north>
+<east>-1.58229</east>
+<south>55.31684</south>
+</bbox>
+<score>105.60955047607422</score>
+</geoname>
+<geoname>
+<toponymName>Warkworth</toponymName>
+<name>Warkworth</name>
+<lat>55.35</lat>
+<lng>-1.61667</lng>
+<geonameId>2634762</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Warkworth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM154</adminCode3>
+<adminName3>Warkworth</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Warkworth%2C_Northumberland</alternateName>
+<alternateName lang="unlc">WKO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.64832</west>
+<north>55.36799</north>
+<east>-1.58502</east>
+<south>55.33201</south>
+</bbox>
+<score>68.40764617919922</score>
+</geoname>
+<geoname>
+<toponymName>Warkworth</toponymName>
+<name>Warkworth</name>
+<lat>52.05959</lat>
+<lng>-1.28982</lng>
+<geonameId>2634763</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Warkworth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.30445</west>
+<north>52.06858</north>
+<east>-1.27519</east>
+<south>52.0506</south>
+</bbox>
+<score>56.08492660522461</score>
+</geoname>
+<geoname>
+<toponymName>Warkworth</toponymName>
+<name>Warkworth</name>
+<lat>52.05306</lat>
+<lng>-1.28991</lng>
+<geonameId>7295759</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<adminCode4>34UG069</adminCode4>
+<adminName4>Warkworth</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Warkworth%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.31294</west>
+<north>52.06641</north>
+<east>-1.26688</east>
+<south>52.03972</south>
+</bbox>
+<score>52.401878356933594</score>
+</geoname>
+</geonames>

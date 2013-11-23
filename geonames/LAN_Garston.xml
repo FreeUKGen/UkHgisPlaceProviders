@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Garston</toponymName>
+<name>Garston</name>
+<lat>51.68333</lat>
+<lng>-0.38333</lng>
+<geonameId>2648828</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Garston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UK</adminCode3>
+<adminName3>Watford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Garston%2C_Hertfordshire</alternateName>
+<alternateName lang="unlc">GTN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.39784</west>
+<north>51.69233</north>
+<east>-0.36882</east>
+<south>51.67434</south>
+</bbox>
+<score>72.09970092773438</score>
+</geoname>
+<geoname>
+<toponymName>Garston</toponymName>
+<name>Garston</name>
+<lat>53.33333</lat>
+<lng>-2.9</lng>
+<geonameId>2648827</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Carston,Garston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H8</adminCode2>
+<adminName2>Liverpool</adminName2>
+<alternateName lang="unlc">CSN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.91506</west>
+<north>53.34233</north>
+<east>-2.88494</east>
+<south>53.32434</south>
+</bbox>
+<score>57.20439910888672</score>
+</geoname>
+<geoname>
+<toponymName>Garston</toponymName>
+<name>Garston</name>
+<lat>51.687</lat>
+<lng>-0.382</lng>
+<geonameId>6952633</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>GSN</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UK</adminCode3>
+<adminName3>Watford District</adminName3>
+<alternateName lang="abbr">GSN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>13.596275329589844</score>
+</geoname>
+</geonames>

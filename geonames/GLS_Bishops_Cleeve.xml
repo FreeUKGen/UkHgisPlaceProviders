@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bishops Cleeve</toponymName>
+<name>Bishops Cleeve</name>
+<lat>51.94749</lat>
+<lng>-2.06277</lng>
+<geonameId>2655570</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.07736</west>
+<north>51.95649</north>
+<east>-2.04818</east>
+<south>51.9385</south>
+</bbox>
+<score>53.712371826171875</score>
+</geoname>
+</geonames>

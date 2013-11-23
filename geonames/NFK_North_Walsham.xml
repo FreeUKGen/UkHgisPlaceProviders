@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>North Walsham</toponymName>
+<name>North Walsham</name>
+<lat>52.82121</lat>
+<lng>1.38746</lng>
+<geonameId>2641233</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>12109</population>
+<alternateNames>North Walsham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/North_Walsham</alternateName>
+<alternateName lang="unlc">NRM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.36392</west>
+<north>52.83543</north>
+<east>1.411</east>
+<south>52.80699</south>
+</bbox>
+<score>104.33753204345703</score>
+</geoname>
+<geoname>
+<toponymName>North Walsham</toponymName>
+<name>North Walsham</name>
+<lat>52.82057</lat>
+<lng>1.3863</lng>
+<geonameId>7299450</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF071</adminCode4>
+<adminName4>North Walsham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.34107</west>
+<north>52.84148</north>
+<east>1.43153</east>
+<south>52.79967</south>
+</bbox>
+<score>64.5025405883789</score>
+</geoname>
+<geoname>
+<toponymName>North Walsham</toponymName>
+<name>North Walsham</name>
+<lat>52.82531</lat>
+<lng>1.40764</lng>
+<geonameId>7115814</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>SWT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>sewage treatment plant</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>16.125635147094727</score>
+</geoname>
+</geonames>

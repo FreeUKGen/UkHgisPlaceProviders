@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanfair Clydogau</toponymName>
+<name>Llanfair Clydogau</name>
+<lat>52.13277</lat>
+<lng>-3.99994</lng>
+<geonameId>7291018</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ021</adminCode3>
+<adminName3>Llanfair Clydogau</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.0594</west>
+<north>52.16854</north>
+<east>-3.94047</east>
+<south>52.097</south>
+</bbox>
+<score>99.0675277709961</score>
+</geoname>
+<geoname>
+<toponymName>Llanfair Clydogau</toponymName>
+<name>Llanfair Clydogau</name>
+<lat>52.14238</lat>
+<lng>-4.01088</lng>
+<geonameId>2644083</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ021</adminCode3>
+<adminName3>Llanfair Clydogau</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.02554</west>
+<north>52.15137</north>
+<east>-3.99622</east>
+<south>52.13338</south>
+</bbox>
+<score>59.273193359375</score>
+</geoname>
+</geonames>

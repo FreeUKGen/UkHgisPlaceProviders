@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hempnall</toponymName>
+<name>Hempnall</name>
+<lat>52.50115</lat>
+<lng>1.3003</lng>
+<geonameId>2647129</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hempnall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.28552</west>
+<north>52.51015</north>
+<east>1.31507</east>
+<south>52.49216</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+<geoname>
+<toponymName>Hempnall</toponymName>
+<name>Hempnall</name>
+<lat>52.48824</lat>
+<lng>1.29841</lng>
+<geonameId>7295704</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH053</adminCode4>
+<adminName4>Hempnall</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.25807</west>
+<north>52.51612</north>
+<east>1.33875</east>
+<south>52.46036</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

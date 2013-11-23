@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Babworth</toponymName>
+<name>Babworth</name>
+<lat>53.31799</lat>
+<lng>-0.97583</lng>
+<geonameId>6697497</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1329</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Babworth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.98336</west>
+<north>53.32249</north>
+<east>-0.9683</east>
+<south>53.3135</south>
+</bbox>
+<score>106.27286529541016</score>
+</geoname>
+<geoname>
+<toponymName>Babworth</toponymName>
+<name>Babworth</name>
+<lat>53.31802</lat>
+<lng>-1.00068</lng>
+<geonameId>7299318</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<adminCode4>37UC002</adminCode4>
+<adminName4>Babworth</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.03668</west>
+<north>53.35223</north>
+<east>-0.96468</east>
+<south>53.28381</south>
+</bbox>
+<score>80.19264221191406</score>
+</geoname>
+</geonames>

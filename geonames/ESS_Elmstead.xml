@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Elmstead</toponymName>
+<name>Elmstead</name>
+<lat>51.87712</lat>
+<lng>0.98647</lng>
+<geonameId>7298546</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UN</adminCode3>
+<adminName3>Tendring District</adminName3>
+<adminCode4>22UN006</adminCode4>
+<adminName4>Elmstead</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Elmstead%2C_Essex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.95282</west>
+<north>51.90559</north>
+<east>1.02011</east>
+<south>51.84864</south>
+</bbox>
+<score>53.521732330322266</score>
+</geoname>
+</geonames>

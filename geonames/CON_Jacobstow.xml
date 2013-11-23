@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Jacobstow</toponymName>
+<name>Jacobstow</name>
+<lat>50.73297</lat>
+<lng>-4.5478</lng>
+<geonameId>7300012</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE051</adminCode3>
+<adminName3>Jacobstow</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.58289</west>
+<north>50.76896</north>
+<east>-4.51271</east>
+<south>50.69698</south>
+</bbox>
+<score>105.58277130126953</score>
+</geoname>
+<geoname>
+<toponymName>Jacobstow</toponymName>
+<name>Jacobstow</name>
+<lat>50.73333</lat>
+<lng>-4.55</lng>
+<geonameId>2645979</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Jacobstow</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE051</adminCode3>
+<adminName3>Jacobstow</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Jacobstow</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.57843</west>
+<north>50.75132</north>
+<east>-4.52157</east>
+<south>50.71535</south>
+</bbox>
+<score>80.07318115234375</score>
+</geoname>
+</geonames>

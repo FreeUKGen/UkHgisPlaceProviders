@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Haveringland</toponymName>
+<name>Haveringland</name>
+<lat>52.73873</lat>
+<lng>1.19746</lng>
+<geonameId>7301837</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<adminCode4>33UC030</adminCode4>
+<adminName4>Haveringland</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Haveringland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.17627</west>
+<north>52.75911</north>
+<east>1.21866</east>
+<south>52.71835</south>
+</bbox>
+<score>61.74647521972656</score>
+</geoname>
+</geonames>

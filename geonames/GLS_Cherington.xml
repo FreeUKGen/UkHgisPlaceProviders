@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Cherington</toponymName>
+<name>Cherington</name>
+<lat>52.02456</lat>
+<lng>-1.57808</lng>
+<geonameId>2653251</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cherington</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.5927</west>
+<north>52.03355</north>
+<east>-1.56346</east>
+<south>52.01557</south>
+</bbox>
+<score>77.26421356201172</score>
+</geoname>
+<geoname>
+<toponymName>Cherington</toponymName>
+<name>Cherington</name>
+<lat>51.68667</lat>
+<lng>-2.13889</lng>
+<geonameId>2653252</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cherington,Cherrington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.1534</west>
+<north>51.69566</north>
+<east>-2.12438</east>
+<south>51.67767</south>
+</bbox>
+<score>76.04893493652344</score>
+</geoname>
+<geoname>
+<toponymName>Cherington</toponymName>
+<name>Cherington</name>
+<lat>51.68163</lat>
+<lng>-2.12323</lng>
+<geonameId>7296239</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<adminCode4>23UC025</adminCode4>
+<adminName4>Cherington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.15899</west>
+<north>51.70617</north>
+<east>-2.08748</east>
+<south>51.65708</south>
+</bbox>
+<score>68.78093719482422</score>
+</geoname>
+<geoname>
+<toponymName>Cherington</toponymName>
+<name>Cherington</name>
+<lat>52.02999</lat>
+<lng>-1.58081</lng>
+<geonameId>7297407</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<adminCode4>44UE023</adminCode4>
+<adminName4>Cherington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.59159</west>
+<north>52.05138</north>
+<east>-1.57002</east>
+<south>52.0086</south>
+</bbox>
+<score>68.78093719482422</score>
+</geoname>
+</geonames>

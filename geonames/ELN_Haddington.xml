@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Haddington</toponymName>
+<name>Haddington</name>
+<lat>55.95612</lat>
+<lng>-2.78332</lng>
+<geonameId>2647686</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>8779</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U6</adminCode2>
+<adminName2>East Lothian</adminName2>
+<alternateName lang="unlc">HAD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.80458</west>
+<north>55.96802</north>
+<east>-2.76206</east>
+<south>55.94422</south>
+</bbox>
+<score>43.910213470458984</score>
+</geoname>
+<geoname>
+<toponymName>East Lothian</toponymName>
+<name>East Lothian</name>
+<lat>55.91667</lat>
+<lng>-2.75</lng>
+<geonameId>2650386</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>96100</population>
+<alternateNames>ELN,East Lothian,Haddington,Haddingtonshire,Rytu Lotianas,Rytų Lotianas,Vostochnyj Lotian,Vychodni Lothian,Východní Lothian,Восточный Лотиан</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U6</adminCode2>
+<adminName2>East Lothian</adminName2>
+<alternateName lang="abbr">ELN</alternateName>
+<alternateName lang="cs">Východní Lothian</alternateName>
+<alternateName lang="da">East Lothian</alternateName>
+<alternateName lang="de">East Lothian</alternateName>
+<alternateName lang="en">East Lothian</alternateName>
+<alternateName lang="fr">East Lothian</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Haddington%2C_East_Lothian</alternateName>
+<alternateName lang="lt">Rytų Lotianas</alternateName>
+<alternateName lang="no">East Lothian</alternateName>
+<alternateName lang="pl">East Lothian</alternateName>
+<alternateName lang="ro">East Lothian</alternateName>
+<alternateName lang="ru">Восточный Лотиан</alternateName>
+<alternateName lang="sv">East Lothian</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.08928</west>
+<north>56.07932</north>
+<east>-2.36328</east>
+<south>55.81732</south>
+</bbox>
+<score>34.73860168457031</score>
+</geoname>
+</geonames>

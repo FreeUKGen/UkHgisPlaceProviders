@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Houghton Regis</toponymName>
+<name>Houghton Regis</name>
+<lat>51.90681</lat>
+<lng>-0.53135</lng>
+<geonameId>7296194</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC036</adminCode3>
+<adminName3>Houghton Regis</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.57116</west>
+<north>51.92621</north>
+<east>-0.49155</east>
+<south>51.88741</south>
+</bbox>
+<score>92.77831268310547</score>
+</geoname>
+<geoname>
+<toponymName>Houghton Regis</toponymName>
+<name>Houghton Regis</name>
+<lat>51.90441</lat>
+<lng>-0.52125</lng>
+<geonameId>2646523</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC036</adminCode3>
+<adminName3>Houghton Regis</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Houghton_Regis</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.55042</west>
+<north>51.92239</north>
+<east>-0.49208</east>
+<south>51.88642</south>
+</bbox>
+<score>69.6579818725586</score>
+</geoname>
+</geonames>

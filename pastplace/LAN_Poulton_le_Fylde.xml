@@ -1,0 +1,62 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>942</id>
+<name>POULTON LE FYLDE</name>
+<container>LANCASHIRE</container>
+<lat>53.8442979771248</lat>
+<lon>-2.98987908898088</lon>
+<gazetteerText>POULTON-LE-FYLDE, a small town, a township, a parish, and a sub-district, in Fylde district, Lancashire. The town stands on the Preston and Wyre railway, at the junction of the branch to Blackpool, near the river Wyre, 5 miles S by E of Fleetwood; conducted commerceas a port on the Wyre, previous to the founding of Fleet-wood; is a seat of petty sessions and county courts, and a polling-place; and has a post-office&#8225; under Preston, a railway station with telegraph, a police station, a church, two dissenting chapels, a Roman Catholic chapel, a freeschool, a weekly corn-market on Monday, and fairs on 3 Feb., 13 April, and 3 Nov. The church was rebuilt in 1751; retains a tower of the time of Charles I.; and contains tablets to the families of Brockholes, Hesketh, and Fleetwood. The township comprises 900 acres. Real property, &#163;3, 798. Pop., 1, 141. Houses, 246. The manor belonged to Roger de Poictiers, and was given to Shrewsbury abbey. The parish contains also the townships of Hardhorn-with-Newton, Great and Little Carleton, and Thornton-with-Fleetwood-on-Wyre, and the hamlets of Great Marton and Little Marton; and includesa great extent of coast and foreshore. Acres, 20, 666. Real property, &#163;39, 367; of which &#163;200 are in gas-works. Pop. in 1851, 7, 690; in 1861, 8, 665. Houses, 1, 418. The living is a vicarage in the diocese of Manchester. Value, &#163;257. Patron, the Rev.Hesketh. The p.curacies of Thornton, Fleetwood, and Marton are separate benefices. The sub-district excludes Little Martonhamlet, but includes Bispham parish and Singleton township. Acres, 29, 391. Pop. in 1851, 10, 415; in 1861, 12, 914. Houses, 2, 256. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LAN/PoultonleFylde/</link>
+<link>http://en.wikipedia.org/wiki/Poulton-le-Fylde</link>
+<link>http://www.geonames.org/2639958</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=53224</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=53223</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=53225</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=53227</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=53222</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=53226</link>
+</links>
+<unit>
+   <id>10173632</id>
+   <status>UD</status>
+   <name>POULTON LE FYLDE</name>
+</unit>
+<unit>
+   <id>10376208</id>
+   <status>CP/AP</status>
+   <name>POULTON LE FYLDE</name>
+</unit>
+<unit>
+   <id>10376221</id>
+   <status>EP</status>
+   <name>POULTON LE FYLDE</name>
+</unit>
+<unit>
+   <id>10561528</id>
+   <status></status>
+   <name>POULTON LE FYLDE</name>
+</unit>
+<nearByPlace>
+   <id>869</id>
+   <name>BISPHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10037</id>
+   <name>CARLETON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10305</id>
+   <name>STAINING</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10903</id>
+   <name>SINGLETON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11019</id>
+   <name>WEETON</name>
+</nearByPlace>
+</place>
+</results>

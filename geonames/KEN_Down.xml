@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Down District</toponymName>
+<name>Down</name>
+<lat>54.33333</lat>
+<lng>-5.66667</lng>
+<geonameId>2651038</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>DOW,Down</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="NIR">NIR</adminCode1>
+<adminName1>N Ireland</adminName1>
+<adminCode2>R9</adminCode2>
+<adminName2>Down</adminName2>
+<alternateName lang="abbr">DOW</alternateName>
+<alternateName lang="en">Down</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>106.2545394897461</score>
+</geoname>
+<geoname>
+<toponymName>County Down</toponymName>
+<name>Co. Down</name>
+<lat>54.33333</lat>
+<lng>-5.75</lng>
+<geonameId>2651037</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>516000</population>
+<alternateNames>An Dun,An Dún,Co. Down,County Down,County of Down,Down</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="NIR">NIR</adminCode1>
+<adminName1>N Ireland</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Co. Down</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>46.48722457885742</score>
+</geoname>
+</geonames>

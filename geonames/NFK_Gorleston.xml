@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Gorleston-on-Sea</toponymName>
+<name>Gorleston-on-Sea</name>
+<lat>52.57301</lat>
+<lng>1.73069</lng>
+<geonameId>2648299</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5882</population>
+<alternateNames>Gorleston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UD</adminCode3>
+<adminName3>Great Yarmouth District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gorleston</alternateName>
+<alternateName lang="unlc">GRL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.71589</west>
+<north>52.58201</north>
+<east>1.74549</east>
+<south>52.56402</south>
+</bbox>
+<score>82.19698333740234</score>
+</geoname>
+</geonames>

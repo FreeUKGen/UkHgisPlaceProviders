@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Crimplesham</toponymName>
+<name>Crimplesham</name>
+<lat>52.60994</lat>
+<lng>0.43601</lng>
+<geonameId>7301883</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<adminCode4>33UE018</adminCode4>
+<adminName4>Crimplesham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Crimplesham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.41672</west>
+<north>52.63253</north>
+<east>0.45529</east>
+<south>52.58735</south>
+</bbox>
+<score>61.74647521972656</score>
+</geoname>
+</geonames>

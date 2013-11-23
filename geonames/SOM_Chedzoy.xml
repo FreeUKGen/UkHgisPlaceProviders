@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Chedzoy</toponymName>
+<name>Chedzoy</name>
+<lat>51.13306</lat>
+<lng>-2.94556</lng>
+<geonameId>2653275</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Chedzow,Chedzoy</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chedzoy</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.95989</west>
+<north>51.14205</north>
+<east>-2.93122</east>
+<south>51.12406</south>
+</bbox>
+<score>99.91627502441406</score>
+</geoname>
+<geoname>
+<toponymName>Chedzoy</toponymName>
+<name>Chedzoy</name>
+<lat>51.12851</lat>
+<lng>-2.94106</lng>
+<geonameId>7294122</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<adminCode4>40UC017</adminCode4>
+<adminName4>Chedzoy</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.96301</west>
+<north>51.14216</north>
+<east>-2.9191</east>
+<south>51.11485</south>
+</bbox>
+<score>81.29920959472656</score>
+</geoname>
+</geonames>

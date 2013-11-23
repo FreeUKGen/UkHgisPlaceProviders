@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Mackworth</toponymName>
+<name>Mackworth</name>
+<lat>52.93597</lat>
+<lng>-1.53709</lng>
+<geonameId>2643249</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Mackworth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UB</adminCode3>
+<adminName3>Amber Valley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mackworth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.55202</west>
+<north>52.94496</north>
+<east>-1.52217</east>
+<south>52.92697</south>
+</bbox>
+<score>103.53904724121094</score>
+</geoname>
+<geoname>
+<toponymName>Mackworth</toponymName>
+<name>Mackworth</name>
+<lat>52.94053</lat>
+<lng>-1.53328</lng>
+<geonameId>7298125</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UB</adminCode3>
+<adminName3>Amber Valley District</adminName3>
+<adminCode4>17UB021</adminCode4>
+<adminName4>Mackworth</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.55995</west>
+<north>52.95687</north>
+<east>-1.50661</east>
+<south>52.92418</south>
+</bbox>
+<score>78.13402557373047</score>
+</geoname>
+</geonames>

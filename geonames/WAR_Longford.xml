@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Longford</toponymName>
+<name>Longford</name>
+<lat>52.93436</lat>
+<lng>-1.67576</lng>
+<geonameId>2643692</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UF</adminCode3>
+<adminName3>Derbyshire Dales District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Longford%2C_Derbyshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.69068</west>
+<north>52.94336</north>
+<east>-1.66083</east>
+<south>52.92537</south>
+</bbox>
+<score>65.56271362304688</score>
+</geoname>
+<geoname>
+<toponymName>Longford</toponymName>
+<name>Longford</name>
+<lat>52.92835</lat>
+<lng>-1.67995</lng>
+<geonameId>7293249</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UF</adminCode3>
+<adminName3>Derbyshire Dales District</adminName3>
+<adminCode4>17UF069</adminCode4>
+<adminName4>Longford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.71124</west>
+<north>52.95465</north>
+<east>-1.64866</east>
+<south>52.90205</south>
+</bbox>
+<score>61.581199645996094</score>
+</geoname>
+<geoname>
+<toponymName>Longford</toponymName>
+<name>Longford</name>
+<lat>51.884</lat>
+<lng>-2.24395</lng>
+<geonameId>7295201</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<adminCode4>23UG024</adminCode4>
+<adminName4>Longford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.26178</west>
+<north>51.89246</north>
+<east>-2.22611</east>
+<south>51.87555</south>
+</bbox>
+<score>61.581199645996094</score>
+</geoname>
+<geoname>
+<toponymName>Longford</toponymName>
+<name>Longford</name>
+<lat>52.9</lat>
+<lng>-2.53333</lng>
+<geonameId>2643693</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.54825</west>
+<north>52.90899</north>
+<east>-2.51842</east>
+<south>52.89101</south>
+</bbox>
+<score>48.93110656738281</score>
+</geoname>
+<geoname>
+<toponymName>Longford</toponymName>
+<name>Longford</name>
+<lat>52.7592</lat>
+<lng>-2.41193</lng>
+<geonameId>2643694</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.42679</west>
+<north>52.7682</north>
+<east>-2.39706</east>
+<south>52.75021</south>
+</bbox>
+<score>48.93110656738281</score>
+</geoname>
+<geoname>
+<toponymName>Steeple Langford</toponymName>
+<name>Steeple Langford</name>
+<lat>51.13649</lat>
+<lng>-1.94807</lng>
+<geonameId>2636966</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Longford,Steeple Langford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY210</adminCode3>
+<adminName3>Steeple Langford</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Steeple_Langford</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.9624</west>
+<north>51.14548</north>
+<east>-1.93373</east>
+<south>51.1275</south>
+</bbox>
+<score>41.52867889404297</score>
+</geoname>
+<geoname>
+<toponymName>Longford</toponymName>
+<name>Longford</name>
+<lat>52.43333</lat>
+<lng>-1.48333</lng>
+<geonameId>2643695</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C7</adminCode2>
+<adminName2>Coventry</adminName2>
+<alternateName lang="unlc">LOF</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.49809</west>
+<north>52.44233</north>
+<east>-1.46858</east>
+<south>52.42434</south>
+</bbox>
+<score>37.95026397705078</score>
+</geoname>
+</geonames>

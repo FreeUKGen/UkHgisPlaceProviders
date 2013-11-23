@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Apethorpe</toponymName>
+<name>Apethorpe</name>
+<lat>52.5446</lat>
+<lng>-0.49584</lng>
+<geonameId>7301957</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<adminCode4>34UD002</adminCode4>
+<adminName4>Apethorpe</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Apethorpe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.52425</west>
+<north>52.56446</north>
+<east>-0.46742</east>
+<south>52.52474</south>
+</bbox>
+<score>59.81231689453125</score>
+</geoname>
+</geonames>

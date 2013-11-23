@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Efenechtyd</toponymName>
+<name>Efenechtyd</name>
+<lat>53.09017</lat>
+<lng>-3.33603</lng>
+<geonameId>7301120</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG015</adminCode3>
+<adminName3>Efenechtyd</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.36894</west>
+<north>53.11627</north>
+<east>-3.30312</east>
+<south>53.06407</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Efenechtyd</toponymName>
+<name>Efenechtyd</name>
+<lat>53.09106</lat>
+<lng>-3.3222</lng>
+<geonameId>2650196</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG015</adminCode3>
+<adminName3>Efenechtyd</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Efenechtyd</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.33718</west>
+<north>53.10006</north>
+<east>-3.30723</east>
+<south>53.08207</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+</geonames>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Aldershot</toponymName>
+<name>Aldershot</name>
+<lat>51.24827</lat>
+<lng>-0.76389</lng>
+<geonameId>2657540</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>61339</population>
+<alternateNames>Aldershot,Oldershot,Oldersotas,Olderšotas,aldrshat,ao er de xiao te,oldeosyos,Олдершот,الدرشات,奧爾德肖特,올더숏</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UL</adminCode3>
+<adminName3>Rushmoor District</adminName3>
+<alternateName lang="de">Aldershot</alternateName>
+<alternateName lang="en">Aldershot</alternateName>
+<alternateName lang="eo">Aldershot</alternateName>
+<alternateName lang="fa">الدرشات</alternateName>
+<alternateName lang="ko">올더숏</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aldershot</alternateName>
+<alternateName lang="lt">Olderšotas</alternateName>
+<alternateName lang="ru">Олдершот</alternateName>
+<alternateName lang="sr">Олдершот</alternateName>
+<alternateName lang="sv">Aldershot</alternateName>
+<alternateName lang="unlc">ALD</alternateName>
+<alternateName lang="zh">奧爾德肖特</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.81523</west>
+<north>51.28038</north>
+<east>-0.71255</east>
+<south>51.21615</south>
+</bbox>
+<score>122.12287902832031</score>
+</geoname>
+</geonames>

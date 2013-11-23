@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Saffron Walden</toponymName>
+<name>Saffron Walden</name>
+<lat>52.02337</lat>
+<lng>0.24234</lng>
+<geonameId>2638878</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>14632</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UQ</adminCode3>
+<adminName3>Uttlesford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saffron_Walden</alternateName>
+<alternateName lang="unlc">SAW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.21702</west>
+<north>52.03895</north>
+<east>0.26767</east>
+<south>52.0078</south>
+</bbox>
+<score>105.39425659179688</score>
+</geoname>
+<geoname>
+<toponymName>Saffron Walden</toponymName>
+<name>Saffron Walden</name>
+<lat>52.03378</lat>
+<lng>0.25021</lng>
+<geonameId>7292043</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UQ</adminCode3>
+<adminName3>Uttlesford District</adminName3>
+<adminCode4>22UQ045</adminCode4>
+<adminName4>Saffron Walden</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.21488</west>
+<north>52.07128</north>
+<east>0.28553</east>
+<south>51.99628</south>
+</bbox>
+<score>73.84970092773438</score>
+</geoname>
+</geonames>

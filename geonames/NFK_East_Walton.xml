@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>East Walton</toponymName>
+<name>East Walton</name>
+<lat>52.71896</lat>
+<lng>0.58082</lng>
+<geonameId>2650318</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/East_Walton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.56597</west>
+<north>52.72795</north>
+<east>0.59567</east>
+<south>52.70996</south>
+</bbox>
+<score>62.08458709716797</score>
+</geoname>
+<geoname>
+<toponymName>East Walton</toponymName>
+<name>East Walton</name>
+<lat>52.71419</lat>
+<lng>0.58143</lng>
+<geonameId>7299417</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<adminCode4>33UE025</adminCode4>
+<adminName4>East Walton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.54724</west>
+<north>52.73131</north>
+<east>0.61563</east>
+<south>52.69707</south>
+</bbox>
+<score>52.90556716918945</score>
+</geoname>
+<geoname>
+<toponymName>Walton East</toponymName>
+<name>Walton East</name>
+<lat>51.875</lat>
+<lng>-4.8775</lng>
+<geonameId>2634832</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>East Walton,Walton East</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Walton_East</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.89207</west>
+<north>51.88399</north>
+<east>-4.86293</east>
+<south>51.86601</south>
+</bbox>
+<score>49.21728515625</score>
+</geoname>
+</geonames>

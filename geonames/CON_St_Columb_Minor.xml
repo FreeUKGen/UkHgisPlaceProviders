@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Saint Columb Minor</toponymName>
+<name>St. Columb Minor</name>
+<lat>50.41667</lat>
+<lng>-5.05</lng>
+<geonameId>2638827</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Saint Columb Minor,Sen Kolomm Vyghan,St Columb Minor,St. Columb Minor</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<alternateName lang="en">St. Columb Minor</alternateName>
+<alternateName lang="kw">Sen Kolomm Vyghan</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St_Columb_Minor</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.06412</west>
+<north>50.42566</north>
+<east>-5.03588</east>
+<south>50.40767</south>
+</bbox>
+<score>66.15849304199219</score>
+</geoname>
+</geonames>

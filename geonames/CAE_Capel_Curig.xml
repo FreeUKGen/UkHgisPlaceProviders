@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Capel Curig</toponymName>
+<name>Capel Curig</name>
+<lat>53.11332</lat>
+<lng>-3.92778</lng>
+<geonameId>7299983</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<adminCode3>00NE007</adminCode3>
+<adminName3>Capel Curig</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Capel_Curig</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.03133</west>
+<north>53.16017</north>
+<east>-3.82423</east>
+<south>53.06647</south>
+</bbox>
+<score>73.41484069824219</score>
+</geoname>
+<geoname>
+<toponymName>Capel-Curig</toponymName>
+<name>Capel-Curig</name>
+<lat>53.1</lat>
+<lng>-3.91667</lng>
+<geonameId>2653850</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.93165</west>
+<north>53.10899</north>
+<east>-3.90168</east>
+<south>53.09101</south>
+</bbox>
+<score>63.850425720214844</score>
+</geoname>
+</geonames>

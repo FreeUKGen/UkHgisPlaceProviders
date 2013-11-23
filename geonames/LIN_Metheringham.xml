@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Metheringham</toponymName>
+<name>Metheringham</name>
+<lat>53.14015</lat>
+<lng>-0.40368</lng>
+<geonameId>2642695</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3459</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Metheringham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.41428</west>
+<north>53.14651</north>
+<east>-0.39308</east>
+<south>53.13379</south>
+</bbox>
+<score>109.44459533691406</score>
+</geoname>
+<geoname>
+<toponymName>Metheringham</toponymName>
+<name>Metheringham</name>
+<lat>53.15114</lat>
+<lng>-0.38432</lng>
+<geonameId>7299119</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<adminCode4>32UE039</adminCode4>
+<adminName4>Metheringham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.49425</west>
+<north>53.17977</north>
+<east>-0.27439</east>
+<south>53.12252</south>
+</bbox>
+<score>82.2243881225586</score>
+</geoname>
+</geonames>

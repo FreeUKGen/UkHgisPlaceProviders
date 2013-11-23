@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hapton</toponymName>
+<name>Hapton</name>
+<lat>53.78333</lat>
+<lng>-2.31667</lng>
+<geonameId>2647511</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hapton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UD</adminCode3>
+<adminName3>Burnley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hapton%2C_Lancashire</alternateName>
+<alternateName lang="unlc">HAP</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.33189</west>
+<north>53.79233</north>
+<east>-2.30144</east>
+<south>53.77434</south>
+</bbox>
+<score>82.54873657226562</score>
+</geoname>
+<geoname>
+<toponymName>Hapton</toponymName>
+<name>Hapton</name>
+<lat>53.77124</lat>
+<lng>-2.30355</lng>
+<geonameId>7297622</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UD</adminCode3>
+<adminName3>Burnley District</adminName3>
+<adminCode4>30UD005</adminCode4>
+<adminName4>Hapton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.33876</west>
+<north>53.79546</north>
+<east>-2.26834</east>
+<south>53.74702</south>
+</bbox>
+<score>75.92036437988281</score>
+</geoname>
+</geonames>

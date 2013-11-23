@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Tewkesbury</toponymName>
+<name>Tewkesbury</name>
+<lat>51.99453</lat>
+<lng>-2.15681</lng>
+<geonameId>2636071</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>10200</population>
+<alternateNames>T'juksberi,Tewkesbury,Theoci Curia,Tjuksburi,Тьюксбери,Тюксбъри</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<alternateName lang="bg">Тюксбъри</alternateName>
+<alternateName lang="la">Theoci Curia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tewkesbury</alternateName>
+<alternateName lang="ru">Тьюксбери</alternateName>
+<alternateName lang="unlc">TEB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.17747</west>
+<north>52.00725</north>
+<east>-2.13615</east>
+<south>51.98181</south>
+</bbox>
+<score>74.13775634765625</score>
+</geoname>
+<geoname>
+<toponymName>Tewkesbury</toponymName>
+<name>Tewkesbury</name>
+<lat>51.9925</lat>
+<lng>-2.15654</lng>
+<geonameId>7300631</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<adminCode4>23UG040</adminCode4>
+<adminName4>Tewkesbury</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.19195</west>
+<north>52.01974</north>
+<east>-2.12112</east>
+<south>51.96526</south>
+</bbox>
+<score>68.99285888671875</score>
+</geoname>
+<geoname>
+<toponymName>Tewkesbury District</toponymName>
+<name>Tewkesbury</name>
+<lat>51.9345</lat>
+<lng>-2.07582</lng>
+<geonameId>7290552</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Tewkesbury</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<alternateName lang="en">Tewkesbury</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tewkesbury_Borough</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.35275</west>
+<north>52.05056</north>
+<east>-1.80169</east>
+<south>51.8193</south>
+</bbox>
+<score>49.265201568603516</score>
+</geoname>
+</geonames>

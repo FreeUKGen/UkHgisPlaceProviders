@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bamburgh</toponymName>
+<name>Bamburgh</name>
+<lat>55.59674</lat>
+<lng>-1.72005</lng>
+<geonameId>7290890</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM013</adminCode3>
+<adminName3>Bamburgh</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.76496</west>
+<north>55.6204</north>
+<east>-1.67514</east>
+<south>55.57309</south>
+</bbox>
+<score>103.63741302490234</score>
+</geoname>
+<geoname>
+<toponymName>Bamburgh</toponymName>
+<name>Bamburgh</name>
+<lat>55.60652</lat>
+<lng>-1.71704</lng>
+<geonameId>2656425</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Bamburgh</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM013</adminCode3>
+<adminName3>Bamburgh</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bamburgh</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.7489</west>
+<north>55.62451</north>
+<east>-1.68519</east>
+<south>55.58854</south>
+</bbox>
+<score>79.19904327392578</score>
+</geoname>
+</geonames>

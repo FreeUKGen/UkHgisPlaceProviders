@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Thurnby</toponymName>
+<name>Thurnby</name>
+<lat>52.63307</lat>
+<lng>-1.04417</lng>
+<geonameId>2635889</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Thurnby</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UD</adminCode3>
+<adminName3>Harborough District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thurnby</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.05899</west>
+<north>52.64207</north>
+<east>-1.02935</east>
+<south>52.62408</south>
+</bbox>
+<score>105.2115707397461</score>
+</geoname>
+</geonames>

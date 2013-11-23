@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Carmarthen</toponymName>
+<name>Carmarthen</name>
+<lat>51.85605</lat>
+<lng>-4.33155</lng>
+<geonameId>7295999</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU006</adminCode3>
+<adminName3>Carmarthen</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.38689</west>
+<north>51.88253</north>
+<east>-4.2762</east>
+<south>51.82956</south>
+</bbox>
+<score>98.19308471679688</score>
+</geoname>
+<geoname>
+<toponymName>Carmarthen</toponymName>
+<name>Carmarthen</name>
+<lat>51.85552</lat>
+<lng>-4.30535</lng>
+<geonameId>2653755</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>15244</population>
+<alternateNames>Caerfyrddin,Caermarthen,Carmarthen,Karmardenas,Karmarten,Karmartun,Karvyrdhin,ka ma sen,kamadeon,kamazen,Кармартен,Кармартън,カーマーゼン,卡马森,카마던</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU006</adminCode3>
+<adminName3>Carmarthen</adminName3>
+<alternateName lang="bg">Кармартън</alternateName>
+<alternateName lang="br">Caerfyrddin</alternateName>
+<alternateName lang="cy">Caerfyrddin</alternateName>
+<alternateName lang="en">Carmarthen</alternateName>
+<alternateName lang="gd">Caerfyrddin</alternateName>
+<alternateName lang="ja">カーマーゼン</alternateName>
+<alternateName lang="ko">카마던</alternateName>
+<alternateName lang="kw">Karvyrdhin</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Carmarthen</alternateName>
+<alternateName lang="lt">Karmardenas</alternateName>
+<alternateName lang="ru">Кармартен</alternateName>
+<alternateName lang="uk">Кармартен</alternateName>
+<alternateName lang="unlc">CMR</alternateName>
+<alternateName lang="zh">卡马森</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.33058</west>
+<north>51.8711</north>
+<east>-4.28012</east>
+<south>51.83994</south>
+</bbox>
+<score>76.36410522460938</score>
+</geoname>
+<geoname>
+<toponymName>Carmarthenshire</toponymName>
+<name>Carmarthenshire</name>
+<lat>51.83333</lat>
+<lng>-4.16667</lng>
+<geonameId>2653753</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>180000</population>
+<alternateNames>CMN,Caerfyrddin,Carmarthen,Carmarthenshire,County of Carmarthenshire,Karmartenshir,Karmartunshur,Sir Gaerfyrddin,Sir Gar,Sir Gâr,ka ma sen jun,kamadeonsyeo ju,kamazensha,Кармартеншир,Кармартъншър,カーマーゼンシャー,卡马森郡,카마던셔 주</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<alternateName lang="abbr">CMN</alternateName>
+<alternateName lang="bg">Кармартъншър</alternateName>
+<alternateName lang="br">Sir Gaerfyrddin</alternateName>
+<alternateName lang="ca">Sir Gaerfyrddin</alternateName>
+<alternateName lang="cy">Sir Gaerfyrddin</alternateName>
+<alternateName lang="en">Carmarthenshire</alternateName>
+<alternateName lang="gv">Sir Gaerfyrddin</alternateName>
+<alternateName lang="ja">カーマーゼンシャー</alternateName>
+<alternateName lang="ko">카마던셔 주</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Carmarthenshire</alternateName>
+<alternateName lang="ru">Кармартеншир</alternateName>
+<alternateName lang="uk">Кармартеншир</alternateName>
+<alternateName lang="zh">卡马森郡</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.72308</west>
+<north>52.1424</north>
+<east>-3.64713</east>
+<south>51.64495</south>
+</bbox>
+<score>33.602088928222656</score>
+</geoname>
+</geonames>

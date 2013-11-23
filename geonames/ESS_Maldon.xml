@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Maldon</toponymName>
+<name>Maldon</name>
+<lat>51.7311</lat>
+<lng>0.67463</lng>
+<geonameId>2643160</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>21193</population>
+<alternateNames>Maeldun,Malden,Maldon,Maldon i Essex,Meldona,Moldon,Mældūn,Мелдона,Молдон</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UK</adminCode3>
+<adminName3>Maldon District</adminName3>
+<alternateName lang="ang">Mældūn</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Maldon%2C_Essex</alternateName>
+<alternateName lang="nn">Maldon i Essex</alternateName>
+<alternateName lang="ru">Мелдона</alternateName>
+<alternateName lang="unlc">MAL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.64468</west>
+<north>51.74964</north>
+<east>0.70458</east>
+<south>51.71255</south>
+</bbox>
+<score>75.48452758789062</score>
+</geoname>
+<geoname>
+<toponymName>Maldon</toponymName>
+<name>Maldon</name>
+<lat>51.71555</lat>
+<lng>0.72415</lng>
+<geonameId>7293529</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UK</adminCode3>
+<adminName3>Maldon District</adminName3>
+<adminCode4>22UK016</adminCode4>
+<adminName4>Maldon</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Maldon_%28district%29</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.64472</west>
+<north>51.74604</north>
+<east>0.80359</east>
+<south>51.68506</south>
+</bbox>
+<score>46.495384216308594</score>
+</geoname>
+</geonames>

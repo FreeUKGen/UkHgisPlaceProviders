@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Heighington</toponymName>
+<name>Heighington</name>
+<lat>54.59797</lat>
+<lng>-1.63309</lng>
+<geonameId>7294805</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D1</adminCode2>
+<adminName2>Darlington</adminName2>
+<adminCode3>00EH010</adminCode3>
+<adminName3>Heighington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.68241</west>
+<north>54.61935</north>
+<east>-1.58376</east>
+<south>54.57659</south>
+</bbox>
+<score>109.48241424560547</score>
+</geoname>
+<geoname>
+<toponymName>Heighington</toponymName>
+<name>Heighington</name>
+<lat>53.21241</lat>
+<lng>-0.45902</lng>
+<geonameId>2647187</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6414</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Heighington%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.47582</west>
+<north>53.22246</north>
+<east>-0.44223</east>
+<south>53.20235</south>
+</bbox>
+<score>98.93684387207031</score>
+</geoname>
+<geoname>
+<toponymName>Heighington</toponymName>
+<name>Heighington</name>
+<lat>53.21124</lat>
+<lng>-0.41892</lng>
+<geonameId>7296441</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<adminCode4>32UE032</adminCode4>
+<adminName4>Heighington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.47119</west>
+<north>53.22874</north>
+<east>-0.36666</east>
+<south>53.19373</south>
+</bbox>
+<score>78.9188232421875</score>
+</geoname>
+<geoname>
+<toponymName>Heighington</toponymName>
+<name>Heighington</name>
+<lat>54.6</lat>
+<lng>-1.6</lng>
+<geonameId>2647186</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D1</adminCode2>
+<adminName2>Darlington</adminName2>
+<adminCode3>00EH010</adminCode3>
+<adminName3>Heighington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Heighington%2C_County_Durham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.63106</west>
+<north>54.61799</north>
+<east>-1.56894</east>
+<south>54.58201</south>
+</bbox>
+<score>69.96560668945312</score>
+</geoname>
+</geonames>

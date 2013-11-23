@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Coaley</toponymName>
+<name>Coaley</name>
+<lat>51.71311</lat>
+<lng>-2.3327</lng>
+<geonameId>2652705</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Coaley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UF</adminCode3>
+<adminName3>Stroud</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Coaley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.34722</west>
+<north>51.7221</north>
+<east>-2.31819</east>
+<south>51.70412</south>
+</bbox>
+<score>101.6590576171875</score>
+</geoname>
+<geoname>
+<toponymName>Coaley</toponymName>
+<name>Coaley</name>
+<lat>51.71633</lat>
+<lng>-2.33144</lng>
+<geonameId>7300606</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UF</adminCode3>
+<adminName3>Stroud</adminName3>
+<adminCode4>23UF010</adminCode4>
+<adminName4>Coaley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.36423</west>
+<north>51.74152</north>
+<east>-2.29865</east>
+<south>51.69113</south>
+</bbox>
+<score>77.25759887695312</score>
+</geoname>
+</geonames>

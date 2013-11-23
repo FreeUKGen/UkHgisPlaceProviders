@@ -1,0 +1,117 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>292</id>
+<name>DUNSTABLE</name>
+<container>BEDFORDSHIRE</container>
+<lat>51.8855478420753</lat>
+<lon>-0.517780572167381</lon>
+<gazetteerText>Dunstable, mun. bor., market town, and par., with ry. sta., at the foot of the Chiltern Hills, in co. and 18 miles S. of Bedford, and 33 miles NW. of London -- par. and bor., 453 ac., pop. 4627; P.O., T.O., 2 Banks, 2 newspapers. Market-days, Wednesday and Saturday. Dunstable was probably a Roman station. It had a palace and an Augustinian priory built by Henry I. The church of the priory is now used as the parish church (restored in 1865). Straw-plaiting and the making of straw hats and bonnets are the principal industries. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Dunstable</link>
+<link>http://www.geonames.org/2650657</link>
+<link>http://www.genuki.org.uk/big/eng/BDF/Dunstable/index.html</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42447</link>
+</links>
+<unit>
+   <id>10004214</id>
+   <status>USD</status>
+   <name>DUNSTABLE</name>
+</unit>
+<unit>
+   <id>10042290</id>
+   <status>MB</status>
+   <name>DUNSTABLE</name>
+</unit>
+<unit>
+   <id>10152422</id>
+   <status>CP/AP</status>
+   <name>DUNSTABLE</name>
+</unit>
+<unit>
+   <id>10172615</id>
+   <status>EP</status>
+   <name>DUNSTABLE</name>
+</unit>
+<unit>
+   <id>10206170</id>
+   <status>Borough</status>
+   <name>DUNSTABLE</name>
+</unit>
+<unit>
+   <id>10547313</id>
+   <status></status>
+   <name>DUNSTABLE</name>
+</unit>
+<unit>
+   <id>10572691</id>
+   <status></status>
+   <name>DUNSTABLE</name>
+</unit>
+<unit>
+   <id>10572708</id>
+   <status></status>
+   <name>DUNSTABLE</name>
+</unit>
+<unit>
+   <id>10572710</id>
+   <status></status>
+   <name>DUNSTABLE FIRST DIVISION</name>
+</unit>
+<unit>
+   <id>10572721</id>
+   <status></status>
+   <name>DUNSTABLE SECOND DIVISION</name>
+</unit>
+<unit>
+   <id>12758388</id>
+   <status>PBCon</status>
+   <name>DUNSTABLE</name>
+</unit>
+<unit>
+   <id>12832709</id>
+   <status></status>
+   <name>DUNSTABLE</name>
+</unit>
+<nearByPlace>
+   <id>1155</id>
+   <name>LEIGHTON BUZZARD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1264</id>
+   <name>BLETCHLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2091</id>
+   <name>BARTON LE CLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2508</id>
+   <name>STREATLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3398</id>
+   <name>MARKYATE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3576</id>
+   <name>SUNDON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4978</id>
+   <name>FLITWICK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6184</id>
+   <name>TODDINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6245</id>
+   <name>HOUGHTON REGIS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>14573</id>
+   <name>CADDINGTON</name>
+</nearByPlace>
+</place>
+</results>

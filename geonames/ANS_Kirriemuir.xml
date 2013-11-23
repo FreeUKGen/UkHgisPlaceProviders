@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Kirriemuir</toponymName>
+<name>Kirriemuir</name>
+<lat>56.67398</lat>
+<lng>-3.00343</lng>
+<geonameId>2645191</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6108</population>
+<alternateNames>Kirriemuir</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T7</adminCode2>
+<adminName2>Angus</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirriemuir</alternateName>
+<alternateName lang="unlc">KRR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.02174</west>
+<north>56.68404</north>
+<east>-2.98512</east>
+<south>56.66393</south>
+</bbox>
+<score>108.94773864746094</score>
+</geoname>
+</geonames>

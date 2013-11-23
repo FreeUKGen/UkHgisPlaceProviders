@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Lydiard Millicent</toponymName>
+<name>Lydiard Millicent</name>
+<lat>51.57316</lat>
+<lng>-1.89297</lng>
+<geonameId>7296283</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY145</adminCode3>
+<adminName3>Lydiard Millicent</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.94836</west>
+<north>51.58105</north>
+<east>-1.83758</east>
+<south>51.56527</south>
+</bbox>
+<score>98.08126831054688</score>
+</geoname>
+<geoname>
+<toponymName>Lydiard Millicent</toponymName>
+<name>Lydiard Millicent</name>
+<lat>51.57117</lat>
+<lng>-1.86346</lng>
+<geonameId>2643322</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY145</adminCode3>
+<adminName3>Lydiard Millicent</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lydiard_Millicent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.87793</west>
+<north>51.58016</north>
+<east>-1.84898</east>
+<south>51.56218</south>
+</bbox>
+<score>87.25086212158203</score>
+</geoname>
+</geonames>

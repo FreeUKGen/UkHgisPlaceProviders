@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Lound</toponymName>
+<name>Lound</name>
+<lat>53.36667</lat>
+<lng>-0.95</lng>
+<geonameId>2643554</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Lound</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lound%2C_Nottinghamshire</alternateName>
+<alternateName lang="unlc">LOD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.96508</west>
+<north>53.37566</north>
+<east>-0.93492</east>
+<south>53.35767</south>
+</bbox>
+<score>85.75938415527344</score>
+</geoname>
+<geoname>
+<toponymName>Lound</toponymName>
+<name>Lound</name>
+<lat>53.37278</lat>
+<lng>-0.96129</lng>
+<geonameId>7299020</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<adminCode4>37UC033</adminCode4>
+<adminName4>Lound</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.99594</west>
+<north>53.38688</north>
+<east>-0.92665</east>
+<south>53.35868</south>
+</bbox>
+<score>78.83746337890625</score>
+</geoname>
+<geoname>
+<toponymName>Lound</toponymName>
+<name>Lound</name>
+<lat>52.75105</lat>
+<lng>-0.41679</lng>
+<geonameId>2643555</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.43166</west>
+<north>52.76004</north>
+<east>-0.40193</east>
+<south>52.74205</south>
+</bbox>
+<score>62.734962463378906</score>
+</geoname>
+<geoname>
+<toponymName>Lound</toponymName>
+<name>Lound</name>
+<lat>52.53534</lat>
+<lng>1.70315</lng>
+<geonameId>7301421</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UH</adminCode3>
+<adminName3>Waveney District</adminName3>
+<adminCode4>42UH022</adminCode4>
+<adminName4>Lound</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lound%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.67983</west>
+<north>52.54992</north>
+<east>1.72647</east>
+<south>52.52077</south>
+</bbox>
+<score>54.088958740234375</score>
+</geoname>
+</geonames>

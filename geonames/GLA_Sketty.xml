@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Sketty</toponymName>
+<name>Sketty</name>
+<lat>51.61415</lat>
+<lng>-3.98985</lng>
+<geonameId>7299733</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z1</adminCode2>
+<adminName2>Swansea</adminName2>
+<adminCode3>00NX035</adminCode3>
+<adminName3>Sketty</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sketty</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.01326</west>
+<north>51.63406</north>
+<east>-3.96644</east>
+<south>51.59425</south>
+</bbox>
+<score>79.54898071289062</score>
+</geoname>
+</geonames>

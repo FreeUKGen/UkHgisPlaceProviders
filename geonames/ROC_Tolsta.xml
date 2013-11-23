@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>North Tolsta</toponymName>
+<name>North Tolsta</name>
+<lat>58.33333</lat>
+<lng>-6.21667</lng>
+<geonameId>2641242</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>North Tolsta,Tolsta</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W8</adminCode2>
+<adminName2>Western Isles</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/North_Tolsta</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-6.2338</west>
+<north>58.34233</north>
+<east>-6.19953</east>
+<south>58.32434</south>
+</bbox>
+<score>61.34662628173828</score>
+</geoname>
+</geonames>

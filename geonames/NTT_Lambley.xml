@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Lambley</toponymName>
+<name>Lambley</name>
+<lat>52.98333</lat>
+<lng>-1.06667</lng>
+<geonameId>2644996</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Lambley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UE</adminCode3>
+<adminName3>Gedling District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lambley%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.08161</west>
+<north>52.99233</north>
+<east>-1.05173</east>
+<south>52.97434</south>
+</bbox>
+<score>97.46371459960938</score>
+</geoname>
+<geoname>
+<toponymName>Lambley</toponymName>
+<name>Lambley</name>
+<lat>53.00714</lat>
+<lng>-1.06825</lng>
+<geonameId>7300883</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UE</adminCode3>
+<adminName3>Gedling District</adminName3>
+<adminCode4>37UE005</adminCode4>
+<adminName4>Lambley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.10242</west>
+<north>53.02098</north>
+<east>-1.03409</east>
+<south>52.9933</south>
+</bbox>
+<score>77.96347045898438</score>
+</geoname>
+</geonames>

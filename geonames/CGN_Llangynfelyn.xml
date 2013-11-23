@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llangynfelyn</toponymName>
+<name>Llangynfelyn</name>
+<lat>52.51887</lat>
+<lng>-3.97513</lng>
+<geonameId>7292325</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ029</adminCode3>
+<adminName3>Llangynfelyn</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llangynfelyn</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.0478</west>
+<north>52.5458</north>
+<east>-3.90246</east>
+<south>52.49194</south>
+</bbox>
+<score>74.6305923461914</score>
+</geoname>
+</geonames>

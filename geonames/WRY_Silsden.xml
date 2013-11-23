@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Silsden</toponymName>
+<name>Silsden</name>
+<lat>53.9211</lat>
+<lng>-1.91898</lng>
+<geonameId>7300549</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B4</adminCode2>
+<adminName2>Bradford</adminName2>
+<adminCode3>00CX006</adminCode3>
+<adminName3>Silsden</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.97686</west>
+<north>53.95673</north>
+<east>-1.86109</east>
+<south>53.88547</south>
+</bbox>
+<score>111.19767761230469</score>
+</geoname>
+<geoname>
+<toponymName>Silsden</toponymName>
+<name>Silsden</name>
+<lat>53.91443</lat>
+<lng>-1.93802</lng>
+<geonameId>2637833</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7616</population>
+<alternateNames>Silsden</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B4</adminCode2>
+<adminName2>Bradford</adminName2>
+<adminCode3>00CX006</adminCode3>
+<adminName3>Silsden</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Silsden</alternateName>
+<alternateName lang="unlc">SSD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.95672</west>
+<north>53.92544</north>
+<east>-1.91931</east>
+<south>53.90341</south>
+</bbox>
+<score>107.20755004882812</score>
+</geoname>
+</geonames>

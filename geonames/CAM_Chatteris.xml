@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Chatteris</toponymName>
+<name>Chatteris</name>
+<lat>52.45405</lat>
+<lng>0.05006</lng>
+<geonameId>2653298</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8655</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UD</adminCode3>
+<adminName3>Fenland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chatteris</alternateName>
+<alternateName lang="unlc">CCS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.03053</west>
+<north>52.46595</north>
+<east>0.06959</east>
+<south>52.44215</south>
+</bbox>
+<score>97.60462951660156</score>
+</geoname>
+<geoname>
+<toponymName>Chatteris</toponymName>
+<name>Chatteris</name>
+<lat>52.4383</lat>
+<lng>0.08916</lng>
+<geonameId>7292896</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UD</adminCode3>
+<adminName3>Fenland District</adminName3>
+<adminCode4>12UD002</adminCode4>
+<adminName4>Chatteris</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.01194</west>
+<north>52.49087</north>
+<east>0.16638</east>
+<south>52.38573</south>
+</bbox>
+<score>79.16693115234375</score>
+</geoname>
+</geonames>

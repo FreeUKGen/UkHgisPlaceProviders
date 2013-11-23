@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Compton Pauncefoot</toponymName>
+<name>Compton Pauncefoot</name>
+<lat>51.03382</lat>
+<lng>-2.50018</lng>
+<geonameId>7294135</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD031</adminCode4>
+<adminName4>Compton Pauncefoot</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Compton_Pauncefoot</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.52413</west>
+<north>51.04691</north>
+<east>-2.47622</east>
+<south>51.02073</south>
+</bbox>
+<score>54.945343017578125</score>
+</geoname>
+</geonames>

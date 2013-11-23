@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Kirby Bedon</toponymName>
+<name>Kirby Bedon</name>
+<lat>52.6061</lat>
+<lng>1.36358</lng>
+<geonameId>7301929</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH061</adminCode4>
+<adminName4>Kirby Bedon</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirby_Bedon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.34323</west>
+<north>52.62402</north>
+<east>1.38392</east>
+<south>52.58819</south>
+</bbox>
+<score>54.184181213378906</score>
+</geoname>
+</geonames>

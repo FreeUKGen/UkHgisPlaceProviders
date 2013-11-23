@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Chesil</toponymName>
+<name>Chesil</name>
+<lat>50.55895</lat>
+<lng>-2.44761</lng>
+<geonameId>2653231</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Chesil,Chesilton,Chiswell</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UJ</adminCode3>
+<adminName3>Weymouth and Portland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Villages_of_Portland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.46177</west>
+<north>50.56795</north>
+<east>-2.43345</east>
+<south>50.54996</south>
+</bbox>
+<score>46.359291076660156</score>
+</geoname>
+</geonames>

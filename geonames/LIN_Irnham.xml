@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Irnham</toponymName>
+<name>Irnham</name>
+<lat>52.82808</lat>
+<lng>-0.48254</lng>
+<geonameId>2646041</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Irnham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Irnham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.49743</west>
+<north>52.83707</north>
+<east>-0.46765</east>
+<south>52.81908</south>
+</bbox>
+<score>106.99272155761719</score>
+</geoname>
+<geoname>
+<toponymName>Irnham</toponymName>
+<name>Irnham</name>
+<lat>52.82407</lat>
+<lng>-0.471</lng>
+<geonameId>7299183</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<adminCode4>32UG047</adminCode4>
+<adminName4>Irnham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.51859</west>
+<north>52.84446</north>
+<east>-0.4234</east>
+<south>52.80367</south>
+</bbox>
+<score>81.3110122680664</score>
+</geoname>
+</geonames>

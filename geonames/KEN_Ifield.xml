@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Ifield</toponymName>
+<name>Ifield</name>
+<lat>51.11645</lat>
+<lng>-0.22513</lng>
+<geonameId>2646286</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UE</adminCode3>
+<adminName3>Crawley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ifield%2C_West_Sussex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.23946</west>
+<north>51.12545</north>
+<east>-0.2108</east>
+<south>51.10746</south>
+</bbox>
+<score>87.42144775390625</score>
+</geoname>
+</geonames>

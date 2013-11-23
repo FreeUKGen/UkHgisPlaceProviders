@@ -1,0 +1,77 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1197</id>
+<name>HALESOWEN</name>
+<container>WORCESTERSHIRE</container>
+<lat>52.4521995641218</lat>
+<lon>-2.05048871521668</lon>
+<gazetteerText>Halesowen, market town, par., and township, with ry. sta., E. Worcestershire, in fertile valley, on river Stour, 7&#189; miles SW. of Birmingham -- par., 12,245 ac., pop. 37,854; township, pop. 3338; P.O., T.O., 1 Bank. Market-day, Monday. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/WOR/Halesowen/index.html</link>
+<link>http://en.wikipedia.org/wiki/Halesowen</link>
+<link>http://www.geonames.org/2647639</link>
+<link>http://www.genuki.org.uk/big/eng/SAL/Halesowen/index.html</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=43101</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=43100</link>
+</links>
+<unit>
+   <id>10026581</id>
+   <status>UD/MB</status>
+   <name>HALESOWEN</name>
+</unit>
+<unit>
+   <id>10073650</id>
+   <status>Borough</status>
+   <name>HALESOWEN</name>
+</unit>
+<unit>
+   <id>10108767</id>
+   <status>RD</status>
+   <name>HALESOWEN</name>
+</unit>
+<unit>
+   <id>10364656</id>
+   <status>CP/Tn/AP</status>
+   <name>HALESOWEN</name>
+</unit>
+<unit>
+   <id>10364668</id>
+   <status>EP</status>
+   <name>HALESOWEN</name>
+</unit>
+<unit>
+   <id>10552229</id>
+   <status></status>
+   <name>HALESOWEN</name>
+</unit>
+<unit>
+   <id>12742824</id>
+   <status>BCon</status>
+   <name>HALESOWEN AND STOURBRIDGE</name>
+</unit>
+<unit>
+   <id>12755909</id>
+   <status>BCon</status>
+   <name>HALESOWEN AND ROWLEY REGIS</name>
+</unit>
+<unit>
+   <id>12781209</id>
+   <status></status>
+   <name>HALESOWEN AND OLDBURY</name>
+</unit>
+<unit>
+   <id>12836077</id>
+   <status></status>
+   <name>HALESOWEN</name>
+</unit>
+<nearByPlace>
+   <id>9904</id>
+   <name>HAWNE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9906</id>
+   <name>HILL</name>
+</nearByPlace>
+</place>
+</results>

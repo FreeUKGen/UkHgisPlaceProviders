@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Fingringhoe</toponymName>
+<name>Fingringhoe</name>
+<lat>51.84469</lat>
+<lng>0.94422</lng>
+<geonameId>2649418</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UG</adminCode3>
+<adminName3>Colchester District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Fingringhoe</alternateName>
+<alternateName lang="unlc">FRH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.92966</west>
+<north>51.85368</north>
+<east>0.95878</east>
+<south>51.83569</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+<geoname>
+<toponymName>Fingringhoe</toponymName>
+<name>Fingringhoe</name>
+<lat>51.83209</lat>
+<lng>0.9539</lng>
+<geonameId>7300516</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UG</adminCode3>
+<adminName3>Colchester District</adminName3>
+<adminCode4>22UG011</adminCode4>
+<adminName4>Fingringhoe</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.91432</west>
+<north>51.85454</north>
+<east>0.99348</east>
+<south>51.80964</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

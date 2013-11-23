@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Eckington</toponymName>
+<name>Eckington</name>
+<lat>53.3</lat>
+<lng>-1.36667</lng>
+<geonameId>2650264</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Eckington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UJ</adminCode3>
+<adminName3>North East Derbyshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eckington%2C_Derbyshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.38172</west>
+<north>53.30899</north>
+<east>-1.35161</east>
+<south>53.29101</south>
+</bbox>
+<score>98.17430114746094</score>
+</geoname>
+<geoname>
+<toponymName>Eckington</toponymName>
+<name>Eckington</name>
+<lat>52.06667</lat>
+<lng>-2.11667</lng>
+<geonameId>2650265</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Eckington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eckington%2C_Worcestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.1313</west>
+<north>52.07566</north>
+<east>-2.10203</east>
+<south>52.05767</south>
+</bbox>
+<score>98.17430114746094</score>
+</geoname>
+<geoname>
+<toponymName>Eckington</toponymName>
+<name>Eckington</name>
+<lat>52.06827</lat>
+<lng>-2.0969</lng>
+<geonameId>7292797</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<adminCode4>47UF034</adminCode4>
+<adminName4>Eckington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.13432</west>
+<north>52.08097</north>
+<east>-2.05949</east>
+<south>52.05557</south>
+</bbox>
+<score>77.9705810546875</score>
+</geoname>
+<geoname>
+<toponymName>Eckington</toponymName>
+<name>Eckington</name>
+<lat>53.31167</lat>
+<lng>-1.38619</lng>
+<geonameId>7293279</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UJ</adminCode3>
+<adminName3>North East Derbyshire</adminName3>
+<adminCode4>17UJ008</adminCode4>
+<adminName4>Eckington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.4617</west>
+<north>53.342</north>
+<east>-1.31067</east>
+<south>53.28135</south>
+</bbox>
+<score>77.9705810546875</score>
+</geoname>
+</geonames>

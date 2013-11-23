@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Mynachlog-Ddu</toponymName>
+<name>Mynachlog-Ddu</name>
+<lat>51.92896</lat>
+<lng>-4.71349</lng>
+<geonameId>7292309</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS046</adminCode3>
+<adminName3>Mynachlog-Ddu</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mynachlog-ddu</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.76823</west>
+<north>51.96717</north>
+<east>-4.65875</east>
+<south>51.89075</south>
+</bbox>
+<score>80.29847717285156</score>
+</geoname>
+</geonames>

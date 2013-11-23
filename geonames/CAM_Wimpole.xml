@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wimpole</toponymName>
+<name>Wimpole</name>
+<lat>52.14085</lat>
+<lng>-0.04861</lng>
+<geonameId>7297804</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<adminCode4>12UG100</adminCode4>
+<adminName4>Wimpole</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wimpole</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.0733</west>
+<north>52.16433</north>
+<east>-0.02392</east>
+<south>52.11737</south>
+</bbox>
+<score>60.419189453125</score>
+</geoname>
+<geoname>
+<toponymName>Wimpole</toponymName>
+<name>Wimpole</name>
+<lat>52.1436</lat>
+<lng>-0.05544</lng>
+<geonameId>6287770</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>20.72722053527832</score>
+</geoname>
+</geonames>

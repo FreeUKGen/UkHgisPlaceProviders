@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Aberaeron</toponymName>
+<name>Aberaeron</name>
+<lat>52.24247</lat>
+<lng>-4.25871</lng>
+<geonameId>2657850</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>1537</population>
+<alternateNames>Aberaeron,Aberayron</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ001</adminCode3>
+<adminName3>Aberaeron</adminName3>
+<alternateName lang="cy">Aberaeron</alternateName>
+<alternateName lang="en">Aberaeron</alternateName>
+<alternateName lang="no">Aberaeron</alternateName>
+<alternateName lang="unlc">ABA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.26605</west>
+<north>52.24696</north>
+<east>-4.25136</east>
+<south>52.23797</south>
+</bbox>
+<score>89.60433959960938</score>
+</geoname>
+<geoname>
+<toponymName>Aberaeron</toponymName>
+<name>Aberaeron</name>
+<lat>52.23969</lat>
+<lng>-4.25846</lng>
+<geonameId>7294032</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Aberajron,Aberaron,Аберайрон,Аберарон</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ001</adminCode3>
+<adminName3>Aberaeron</adminName3>
+<alternateName lang="bg">Аберайрон</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aberaeron</alternateName>
+<alternateName lang="ru">Аберайрон</alternateName>
+<alternateName lang="uk">Аберарон</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.27106</west>
+<north>52.24949</north>
+<east>-4.24586</east>
+<south>52.22988</south>
+</bbox>
+<score>74.58578491210938</score>
+</geoname>
+</geonames>

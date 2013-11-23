@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Carno</toponymName>
+<name>Carno</name>
+<lat>52.57272</lat>
+<lng>-3.53818</lng>
+<geonameId>7293999</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN014</adminCode3>
+<adminName3>Carno</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.59889</west>
+<north>52.61432</north>
+<east>-3.47746</east>
+<south>52.53112</south>
+</bbox>
+<score>111.81939697265625</score>
+</geoname>
+<geoname>
+<toponymName>Carno</toponymName>
+<name>Carno</name>
+<lat>52.5599</lat>
+<lng>-3.53545</lng>
+<geonameId>2653707</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN014</adminCode3>
+<adminName3>Carno</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Carno</alternateName>
+<alternateName lang="unlc">CRQ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.55025</west>
+<north>52.5689</north>
+<east>-3.52065</east>
+<south>52.55091</south>
+</bbox>
+<score>90.71871948242188</score>
+</geoname>
+</geonames>

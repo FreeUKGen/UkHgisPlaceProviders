@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Chilthorne Domer</toponymName>
+<name>Chilthorne Domer</name>
+<lat>50.97078</lat>
+<lng>-2.679</lng>
+<geonameId>6640031</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chilthorne_Domer</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.69329</west>
+<north>50.97977</north>
+<east>-2.66472</east>
+<south>50.96179</south>
+</bbox>
+<score>89.26254272460938</score>
+</geoname>
+<geoname>
+<toponymName>Chilthorne Domer</toponymName>
+<name>Chilthorne Domer</name>
+<lat>50.97556</lat>
+<lng>-2.67637</lng>
+<geonameId>7301208</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD025</adminCode4>
+<adminName4>Chilthorne Domer</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.70177</west>
+<north>50.98929</north>
+<east>-2.65097</east>
+<south>50.96183</south>
+</bbox>
+<score>80.15994262695312</score>
+</geoname>
+</geonames>

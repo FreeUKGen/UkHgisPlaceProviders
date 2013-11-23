@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Heston</toponymName>
+<name>Heston</name>
+<lat>51.48363</lat>
+<lng>-0.37577</lng>
+<geonameId>2647027</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>G1</adminCode3>
+<adminName3>Hounslow</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Heston</alternateName>
+<alternateName lang="unlc">HES</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.39021</west>
+<north>51.49262</north>
+<east>-0.36132</east>
+<south>51.47463</south>
+</bbox>
+<score>80.80990600585938</score>
+</geoname>
+</geonames>

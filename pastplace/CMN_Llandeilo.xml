@@ -1,0 +1,221 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>263</id>
+<name>LLANDEILO</name>
+<container>CARMARTHENSHIRE</container>
+<lat>51.8843746130516</lat>
+<lon>-3.99156924298273</lon>
+<gazetteerText>Llandilo.-- market town with ry. sta., Llandilofawr par., in E. of Carmarthenshire, on river Towy, 15 miles NE. of Carmarthen and 215 miles NW. of London by rail, pop. 1533; P.O., T.O., 2 Banks. Market-day, Saturday. Llandilo occupies a picturesque situation on the precipitous side of a hill rising from the N. bank of the river. The principal trade of the town is in corn and flour; the other industries include woollen cloth mills, timber and saw mills, and tanneries. A fine bridge stretches across the Towy; it was built in 1848 at a cost of &#163;22,000. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.workhouses.org.uk/LlandiloFawr</link>
+<link>http://www.geonames.org/2644135</link>
+<link>http://www.genuki.org.uk/big/wal/CMN/LlandeiloFawr/index.html</link>
+</links>
+<unit>
+   <id>10039393</id>
+   <status>UD</status>
+   <name>LLANDEILO</name>
+</unit>
+<unit>
+   <id>10039411</id>
+   <status>AP/CP</status>
+   <name>LLANDEILO FAWR URBAN</name>
+</unit>
+<unit>
+   <id>10087776</id>
+   <status>CP</status>
+   <name>LLANDEILO FAWR RURAL</name>
+</unit>
+<unit>
+   <id>10139399</id>
+   <status>RegD/PLU</status>
+   <name>LLANDILO FAWR</name>
+</unit>
+<unit>
+   <id>10192791</id>
+   <status>AP/CP</status>
+   <name>LLANDEILO FAWR</name>
+</unit>
+<unit>
+   <id>10221079</id>
+   <status>RD</status>
+   <name>LLANDEILO</name>
+</unit>
+<unit>
+   <id>10492087</id>
+   <status>RD</status>
+   <name>LLANDILOFAWR</name>
+</unit>
+<unit>
+   <id>10552734</id>
+   <status></status>
+   <name>LLANDILO</name>
+</unit>
+<unit>
+   <id>12750468</id>
+   <status>PDivCon</status>
+   <name>CARMARTHENSHIRE EASTERN</name>
+</unit>
+<unit>
+   <id>12827532</id>
+   <status>USD</status>
+   <name>LLANDILO</name>
+</unit>
+<unit>
+   <id>12827544</id>
+   <status>RSD</status>
+   <name>LLANDILOFAWR</name>
+</unit>
+<nearByPlace>
+   <id>5618</id>
+   <name>LLANDYFEISANT</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8946</id>
+   <name>TALYLLYCHAU</name>
+</nearByPlace>
+</place>
+<place>
+<id>6104</id>
+<name>BRECHFA</name>
+<container>CARMARTHENSHIRE</container>
+<lat>51.9484333453079</lat>
+<lon>-4.16122551600539</lon>
+<gazetteerText>BRECHFA, a parish in the district and county of Carmarthen; on the river Cotley, 8 miles NW by W of Llandilo r. station, and 11 NE of Carmarthen. Post Town, Llandilo, under Carmarthen. Acres, 530. Real property, &#163;340. Pop., 122. Houses, 26. The property is subdivided. The living is a rectory in the diocese of St. David&apos;s. Value, &#163;72. Patrons, the families of Tregib and Aberothy alternately. The church is good. Fairs are held on the Tuesday after 13 May, and on 3 and 28 Oct. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/wal/CMN/Brechfa/index.html</link>
+<link>http://www.geonames.org/2654825</link>
+</links>
+<unit>
+   <id>10217945</id>
+   <status>CP/AP/Grng</status>
+   <name>BRECHFA</name>
+</unit>
+<unit>
+   <id>10421366</id>
+   <status>EP</status>
+   <name>BRECHFA</name>
+</unit>
+</place>
+<place>
+<id>10950</id>
+<name>LLANDILO ABERCOWIN</name>
+<container>CARMARTHENSHIRE</container>
+<lat>51.7968222171122</lat>
+<lon>-4.44203989334066</lon>
+<gazetteerText>LLANDILO-ABERCOWIN, a parish in the district and county of Carmarthen; at the influx of the river Cywyn to the Taff, 4 miles SE by S of St. Clears r. station, and 8 SW of Carmarthen. Post town, St. Clears, Acres, 922; of which 40 are water. Real property, &#163;690. Pop., 77. Houses, 16. The property is divided among a few. An hospital for pilgrims stood near the church, and has left some remains. The living is a p. curacy in the diocese of St. David&apos;s. Value, &#163;70. Patron, J. G. Hughes, Esq. The church was reported in 1859 as not good. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/6288020</link>
+</links>
+<unit>
+   <id>10171751</id>
+   <status>EP</status>
+   <name>LLANDEILO ABERCYWYN</name>
+</unit>
+<unit>
+   <id>10382269</id>
+   <status>CP/AP</status>
+   <name>LLANDILO ABERCOWIN</name>
+</unit>
+</place>
+<place>
+<id>2483</id>
+<name>LLANDDOWROR</name>
+<container>CARMARTHENSHIRE</container>
+<lat>51.7713151538909</lat>
+<lon>-4.51527229977064</lon>
+<gazetteerText>LLANDOWROR, a parish in the district and county of Carmarthen; near the river Taff, 3 miles SW of St. Clears r. station, and 3&#189; NW by N of Laugharne. Posttown, St. Clears. Acres, 1,783. Real property, &#163;1,264. Pop. in 1851,403; in 1861,339. Houses, 75. The decrease of pop. was caused partly by the discontinuance of a large hotel. The property is all in one estate. The living is a rectory in the diocese of St. David&apos;s. Value, &#163;132.* Patron, Lord Milford. The church contains a monument to a former rector, G. Jones, by Mrs. Bevan, the foundress of the Welsh circulating schools; and it was reported in 1859 as bad. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/wal/CMN/Llanddowror/index.html</link>
+<link>http://www.geonames.org/2644125</link>
+</links>
+<unit>
+   <id>10060400</id>
+   <status>CP/AP</status>
+   <name>LLANDDOWROR</name>
+</unit>
+<nearByPlace>
+   <id>4069</id>
+   <name>EGLWYS GYMYN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8435</id>
+   <name>PENDINE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10948</id>
+   <name>LLANDAWKE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11004</id>
+   <name>CYFFIC</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11008</id>
+   <name>MARROS</name>
+</nearByPlace>
+</place>
+<place>
+<id>6597</id>
+<name>LLANPUMSAINT</name>
+<container>CARMARTHENSHIRE</container>
+<lat>51.9333683041775</lat>
+<lon>-4.29831073421213</lon>
+<gazetteerText>LLANPUMPSAINT, a parish in the district and county of Carmarthen; on the Carmarthen and Cardigan railway, 6&#189; miles N of Carmarthen. It has a station on the railway; and its Post town is Carmarthen. Acres, 4,079. Real property, &#163;2,464. Pop., 543. Houses, 120. The property is much subdivided. The living is a vicarage, annexed to the vicarage of Llanllawddog, in the diocese of St. David&apos;s. The church is dedicated to five saints, and was recently in disrepair. The name Llanpumpsaint signifies &apos; &apos; a church of five saints. &apos;&apos; (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/wal/CMN/Llanpumsaint/index.html</link>
+<link>http://www.geonames.org/2643969</link>
+</links>
+<unit>
+   <id>10236654</id>
+   <status>CP/AP</status>
+   <name>LLANPUMSAINT</name>
+</unit>
+</place>
+<place>
+<id>8435</id>
+<name>PENDINE</name>
+<container>CARMARTHENSHIRE</container>
+<lat>51.744707022473</lat>
+<lon>-4.55272407883022</lon>
+<gazetteerText>PENDINE, a parish in the district of Narberth and county of Carmarthen; on Carmarthen bay, 5 miles W S W of Laugharne, and 7 S S W of St. Clears r. station. It has a post-office under St. Clears. Acres, 1, 578; of which 615 are water. Real property, &#163;600. Pop., 175. Houses, 38. The property is divided among four. The living is a rectory, annexed to the rectory of Llandawke, in the diocese of St. Davids. The church is not very good. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/wal/CMN/Pendine/index.html</link>
+<link>http://en.wikipedia.org/wiki/Pendine</link>
+<link>http://www.geonames.org/2640477</link>
+</links>
+<unit>
+   <id>10289750</id>
+   <status>AP/CP</status>
+   <name>PENDINE</name>
+</unit>
+</place>
+<place>
+<id>4643</id>
+<name>CILRHEDYN</name>
+<container>CARMARTHENSHIRE</container>
+<lat>51.9811847376151</lat>
+<lon>-4.46744222656655</lon>
+<gazetteerText>KILRHEDIN, or CILRHEDYN, a parish in the district of Newcastle-in-Emlyn, and counties of Pembroke and Carmarthen; on the river Cuch, 5&#188; miles SSW of Newcastle-Emlyn r. station. It contains the villages of Capel-Evan, Pentych, Cwmcych, Cwmforgan, and Blananllyn; and its post town is Newcastle-Emlyn, under Carmarthen. Acres of the Pembroke portion, 2, 183. Real property, &#163;946. Pop., 249. Houses, 47. Acres, of the Carmarthen portion, 5, 673. Real property, &#163;2, 243. Pop., 825. Houses, 184. Kilrhedin Castle is now a ruin. The living is a rectory in the diocese of St. Davids. Valne, &#163;378.* Patron, the Lord Chancellor. The church was rebuilt in 1863, at a cost of about &#163;1, 100; and is in the decorated English style, of local stone, with Bath stone dressings. The churchyard contains a monumental stone with Ogham inscription. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/wal/CMN/Cilrhedyn/index.html</link>
+<link>http://www.geonames.org/2634470</link>
+</links>
+<unit>
+   <id>10066645</id>
+   <status>EP</status>
+   <name>CARNHEDRYN</name>
+</unit>
+<unit>
+   <id>10121036</id>
+   <status>AP/CP</status>
+   <name>WEST CILRHEDYN</name>
+</unit>
+<unit>
+   <id>10159842</id>
+   <status>CP/AP/Ch</status>
+   <name>CILRHEDYN</name>
+</unit>
+</place>
+</results>

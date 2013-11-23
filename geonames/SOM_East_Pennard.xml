@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>East Pennard</toponymName>
+<name>East Pennard</name>
+<lat>51.13517</lat>
+<lng>-2.57622</lng>
+<geonameId>2650356</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/East_Pennard</alternateName>
+<alternateName lang="unlc">EPN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.59055</west>
+<north>51.14416</north>
+<east>-2.56188</east>
+<south>51.12618</south>
+</bbox>
+<score>77.81611633300781</score>
+</geoname>
+<geoname>
+<toponymName>East Pennard</toponymName>
+<name>East Pennard</name>
+<lat>51.12536</lat>
+<lng>-2.57331</lng>
+<geonameId>7294102</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<adminCode4>40UB017</adminCode4>
+<adminName4>East Pennard</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.62678</west>
+<north>51.14715</north>
+<east>-2.51984</east>
+<south>51.10358</south>
+</bbox>
+<score>71.32994079589844</score>
+</geoname>
+</geonames>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>East Carleton</toponymName>
+<name>East Carleton</name>
+<lat>52.57177</lat>
+<lng>1.21187</lng>
+<geonameId>2650486</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>East Carleton,East Carlton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/East_Carleton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.19707</west>
+<north>52.58076</north>
+<east>1.22667</east>
+<south>52.56277</south>
+</bbox>
+<score>76.22026062011719</score>
+</geoname>
+<geoname>
+<toponymName>East Carlton</toponymName>
+<name>East Carlton</name>
+<lat>52.49318</lat>
+<lng>-0.78209</lng>
+<geonameId>7299047</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UB</adminCode3>
+<adminName3>Corby District</adminName3>
+<adminCode4>34UB002</adminCode4>
+<adminName4>East Carlton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/East_Carlton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.80795</west>
+<north>52.51635</north>
+<east>-0.75623</east>
+<south>52.47002</south>
+</bbox>
+<score>46.03247833251953</score>
+</geoname>
+</geonames>

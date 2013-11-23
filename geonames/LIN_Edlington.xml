@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Edlington</toponymName>
+<name>Edlington</name>
+<lat>53.22567</lat>
+<lng>-0.15407</lng>
+<geonameId>2650214</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Edlington%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.16909</west>
+<north>53.23466</north>
+<east>-0.13904</east>
+<south>53.21667</south>
+</bbox>
+<score>76.97712707519531</score>
+</geoname>
+<geoname>
+<toponymName>Edlington</toponymName>
+<name>Edlington</name>
+<lat>53.47339</lat>
+<lng>-1.18293</lng>
+<geonameId>7291078</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D5</adminCode2>
+<adminName2>Doncaster</adminName2>
+<adminCode3>00CE019</adminCode3>
+<adminName3>Edlington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Edlington</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.20781</west>
+<north>53.49097</north>
+<east>-1.15806</east>
+<south>53.45582</south>
+</bbox>
+<score>70.518798828125</score>
+</geoname>
+</geonames>

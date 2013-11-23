@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Mears Ashby</toponymName>
+<name>Mears Ashby</name>
+<lat>52.2956</lat>
+<lng>-0.76496</lng>
+<geonameId>7291367</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UH</adminCode3>
+<adminName3>Wellingborough District</adminName3>
+<adminCode4>34UH013</adminCode4>
+<adminName4>Mears Ashby</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mears_Ashby</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.78465</west>
+<north>52.31628</north>
+<east>-0.74527</east>
+<south>52.27492</south>
+</bbox>
+<score>53.94986343383789</score>
+</geoname>
+</geonames>

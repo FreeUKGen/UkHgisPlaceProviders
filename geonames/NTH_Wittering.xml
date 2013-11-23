@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Wittering</toponymName>
+<name>Wittering</name>
+<lat>52.60563</lat>
+<lng>-0.45169</lng>
+<geonameId>7299977</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K3</adminCode2>
+<adminName2>Peterborough</adminName2>
+<adminCode3>00JA028</adminCode3>
+<adminName3>Wittering</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.49456</west>
+<north>52.62261</north>
+<east>-0.40882</east>
+<south>52.58865</south>
+</bbox>
+<score>107.14924621582031</score>
+</geoname>
+<geoname>
+<toponymName>Wittering</toponymName>
+<name>RAF Wittering</name>
+<lat>52.61256</lat>
+<lng>-0.47645</lng>
+<geonameId>6296672</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>EGXT,RAF Wittering</alternateNames>
+<elevation>83</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K3</adminCode2>
+<adminName2>Peterborough</adminName2>
+<alternateName lang="en">RAF Wittering</alternateName>
+<alternateName lang="icao">EGXT</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/RAF_Wittering</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>97.73493957519531</score>
+</geoname>
+<geoname>
+<toponymName>Wittering</toponymName>
+<name>Wittering</name>
+<lat>52.60972</lat>
+<lng>-0.44151</lng>
+<geonameId>2633727</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>2348</population>
+<alternateNames>Wittering</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K3</adminCode2>
+<adminName2>Peterborough</adminName2>
+<adminCode3>00JA028</adminCode3>
+<adminName3>Wittering</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wittering%2C_Cambridgeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.44892</west>
+<north>52.61422</north>
+<east>-0.43411</east>
+<south>52.60522</south>
+</bbox>
+<score>97.1218032836914</score>
+</geoname>
+</geonames>

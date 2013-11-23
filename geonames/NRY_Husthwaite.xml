@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Husthwaite</toponymName>
+<name>Husthwaite</name>
+<lat>54.16907</lat>
+<lng>-1.20545</lng>
+<geonameId>2646345</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Husthwaite</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Husthwaite</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.22081</west>
+<north>54.17807</north>
+<east>-1.19008</east>
+<south>54.16008</south>
+</bbox>
+<score>103.47808837890625</score>
+</geoname>
+<geoname>
+<toponymName>Husthwaite</toponymName>
+<name>Husthwaite</name>
+<lat>54.15668</lat>
+<lng>-1.21094</lng>
+<geonameId>7297794</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<adminCode4>36UC071</adminCode4>
+<adminName4>Husthwaite</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.23784</west>
+<north>54.17753</north>
+<east>-1.18404</east>
+<south>54.13583</south>
+</bbox>
+<score>78.45442199707031</score>
+</geoname>
+</geonames>

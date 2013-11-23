@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cooling</toponymName>
+<name>Cooling</name>
+<lat>51.45806</lat>
+<lng>0.5371</lng>
+<geonameId>7290862</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I3</adminCode2>
+<adminName2>Medway</adminName2>
+<adminCode3>00LC003</adminCode3>
+<adminName3>Cooling</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.51532</west>
+<north>51.4796</north>
+<east>0.55887</east>
+<south>51.43652</south>
+</bbox>
+<score>93.8701171875</score>
+</geoname>
+<geoname>
+<toponymName>Cooling</toponymName>
+<name>Cooling</name>
+<lat>51.45474</lat>
+<lng>0.52395</lng>
+<geonameId>2652414</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I3</adminCode2>
+<adminName2>Medway</adminName2>
+<adminCode3>00LC003</adminCode3>
+<adminName3>Cooling</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cooling%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.49508</west>
+<north>51.47273</north>
+<east>0.55283</east>
+<south>51.43676</south>
+</bbox>
+<score>61.519737243652344</score>
+</geoname>
+</geonames>

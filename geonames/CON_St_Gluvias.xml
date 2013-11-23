@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>St. Gluvias</toponymName>
+<name>St. Gluvias</name>
+<lat>50.18666</lat>
+<lng>-5.11853</lng>
+<geonameId>7300041</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE153</adminCode3>
+<adminName3>St. Gluvias</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St_Gluvias</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.15194</west>
+<north>50.20021</north>
+<east>-5.08512</east>
+<south>50.17311</south>
+</bbox>
+<score>72.70968627929688</score>
+</geoname>
+</geonames>

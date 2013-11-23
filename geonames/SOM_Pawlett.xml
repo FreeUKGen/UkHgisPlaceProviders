@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Pawlett</toponymName>
+<name>Pawlett</name>
+<lat>51.18022</lat>
+<lng>-3.0024</lng>
+<geonameId>2640554</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pawlett%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.01675</west>
+<north>51.18922</north>
+<east>-2.98805</east>
+<south>51.17123</south>
+</bbox>
+<score>83.87290954589844</score>
+</geoname>
+<geoname>
+<toponymName>Pawlett</toponymName>
+<name>Pawlett</name>
+<lat>51.18188</lat>
+<lng>-3.01874</lng>
+<geonameId>7294127</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<adminCode4>40UC040</adminCode4>
+<adminName4>Pawlett</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.05904</west>
+<north>51.20088</north>
+<east>-2.97843</east>
+<south>51.16289</south>
+</bbox>
+<score>80.77249908447266</score>
+</geoname>
+</geonames>

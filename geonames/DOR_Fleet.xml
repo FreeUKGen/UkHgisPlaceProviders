@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Fleet</toponymName>
+<name>Fleet</name>
+<lat>51.28333</lat>
+<lng>-0.83333</lng>
+<geonameId>2649322</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>34218</population>
+<alternateNames>Fleet</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UG</adminCode3>
+<adminName3>Hart District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Fleet%2C_Hampshire</alternateName>
+<alternateName lang="unlc">FET</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.8714</west>
+<north>51.30713</north>
+<east>-0.79527</east>
+<south>51.25954</south>
+</bbox>
+<score>120.86287689208984</score>
+</geoname>
+<geoname>
+<toponymName>Fleet</toponymName>
+<name>Fleet</name>
+<lat>52.79321</lat>
+<lng>0.05854</lng>
+<geonameId>2649321</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Fleet</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UF</adminCode3>
+<adminName3>South Holland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Fleet%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.04366</west>
+<north>52.80221</north>
+<east>0.07341</east>
+<south>52.78422</south>
+</bbox>
+<score>92.27163696289062</score>
+</geoname>
+<geoname>
+<toponymName>Fleet</toponymName>
+<name>Fleet</name>
+<lat>51.28279</lat>
+<lng>-0.83312</lng>
+<geonameId>7297828</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UG</adminCode3>
+<adminName3>Hart District</adminName3>
+<adminCode4>24UG021</adminCode4>
+<adminName4>Fleet</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.87593</west>
+<north>51.30238</north>
+<east>-0.79031</east>
+<south>51.26321</south>
+</bbox>
+<score>71.47270202636719</score>
+</geoname>
+<geoname>
+<toponymName>Fleet</toponymName>
+<name>Fleet</name>
+<lat>52.74439</lat>
+<lng>0.01984</lng>
+<geonameId>7301775</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UF</adminCode3>
+<adminName3>South Holland District</adminName3>
+<adminCode4>32UF005</adminCode4>
+<adminName4>Fleet</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.05804</west>
+<north>52.81962</north>
+<east>0.09771</east>
+<south>52.66917</south>
+</bbox>
+<score>71.47270202636719</score>
+</geoname>
+<geoname>
+<toponymName>Fleet</toponymName>
+<name>Fleet</name>
+<lat>50.61992</lat>
+<lng>-2.52738</lng>
+<geonameId>7295017</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH045</adminCode4>
+<adminName4>Fleet</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Fleet%2C_Dorset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.54964</west>
+<north>50.63566</north>
+<east>-2.50513</east>
+<south>50.60418</south>
+</bbox>
+<score>50.70119094848633</score>
+</geoname>
+<geoname>
+<toponymName>Water of Fleet</toponymName>
+<name>Water of Fleet</name>
+<lat>54.81667</lat>
+<lng>-4.25</lng>
+<geonameId>2649315</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>H</fcl>
+<fcode>STM</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>stream</fcodeName>
+<population/>
+<alternateNames>Fleet,Water of Fleet</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Water_of_Fleet</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>38.257667541503906</score>
+</geoname>
+</geonames>

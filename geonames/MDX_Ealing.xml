@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ealing</toponymName>
+<name>London Borough of Ealing</name>
+<lat>51.51216</lat>
+<lng>-0.30204</lng>
+<geonameId>2650567</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Ealing,Ealing keruelet,Ealing kerület,London Borough of Ealing,ilinga,yi ling,אילינג,ईलिंग,イーリング・ロンドン特別区,伊灵</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>D9</adminCode3>
+<adminName3>Ealing</adminName3>
+<alternateName lang="cs">Ealing</alternateName>
+<alternateName lang="de">London Borough of Ealing</alternateName>
+<alternateName lang="en">London Borough of Ealing</alternateName>
+<alternateName lang="fi">Ealing</alternateName>
+<alternateName lang="fr">Ealing</alternateName>
+<alternateName lang="he">אילינג</alternateName>
+<alternateName lang="hi">ईलिंग</alternateName>
+<alternateName lang="hu">Ealing kerület</alternateName>
+<alternateName lang="ja">イーリング・ロンドン特別区</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ealing</alternateName>
+<alternateName lang="nl">Ealing</alternateName>
+<alternateName lang="no">Ealing</alternateName>
+<alternateName lang="ro">Ealing</alternateName>
+<alternateName lang="unlc">ELN</alternateName>
+<alternateName lang="zh">伊灵</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.33095</west>
+<north>51.53015</north>
+<east>-0.27312</east>
+<south>51.49417</south>
+</bbox>
+<score>86.19113159179688</score>
+</geoname>
+<geoname>
+<toponymName>Ealing</toponymName>
+<name>Ealing</name>
+<lat>51.51282</lat>
+<lng>-0.3023</lng>
+<geonameId>3333145</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>318500</population>
+<alternateNames>EAL,Ealing</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>D9</adminCode3>
+<adminName3>Ealing</adminName3>
+<alternateName lang="abbr">EAL</alternateName>
+<alternateName lang="en">Ealing</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ealing_(London_Borough)</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.41962</west>
+<north>51.55968</north>
+<east>-0.24509</east>
+<south>51.49047</south>
+</bbox>
+<score>68.28118896484375</score>
+</geoname>
+</geonames>

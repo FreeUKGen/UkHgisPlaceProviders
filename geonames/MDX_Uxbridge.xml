@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Uxbridge</toponymName>
+<name>Uxbridge</name>
+<lat>51.54639</lat>
+<lng>-0.47473</lng>
+<geonameId>7645989</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>F9</adminCode3>
+<adminName3>Hillingdon</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Uxbridge_%28UK_Parliament_constituency%29</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.48919</west>
+<north>51.55538</north>
+<east>-0.46026</east>
+<south>51.53739</south>
+</bbox>
+<score>79.02733612060547</score>
+</geoname>
+<geoname>
+<toponymName>Uxbridge</toponymName>
+<name>Uxbridge</name>
+<lat>51.54619</lat>
+<lng>-0.47961</lng>
+<geonameId>2635042</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>"ksbridzh,aksabrija,Ъксбридж,अक्सब्रिज</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>F9</adminCode3>
+<adminName3>Hillingdon</adminName3>
+<alternateName lang="bg">Ъксбридж</alternateName>
+<alternateName lang="hi">अक्सब्रिज</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Uxbridge</alternateName>
+<alternateName lang="unlc">UXB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.50855</west>
+<north>51.56418</north>
+<east>-0.45068</east>
+<south>51.5282</south>
+</bbox>
+<score>53.36437225341797</score>
+</geoname>
+</geonames>

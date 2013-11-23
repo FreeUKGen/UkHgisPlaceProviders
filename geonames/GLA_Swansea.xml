@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Swansea</toponymName>
+<name>Swansea</name>
+<lat>51.62079</lat>
+<lng>-3.94323</lng>
+<geonameId>2636432</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>170883</population>
+<alternateNames>Abertawe,SWS,Souonsi,Suonsi,Suonzi,Svonsi,Svonsis,Svonzi,Swansea,s wxn si,seuwanji,si wang xi,suuae~onji,suu~onji,svanzi,svonjhi,swansy,swanzy,swwnsy,Σουόνσι,Свонзи,Свонсі,Суонзи,Суонси,Սուոնսի,סוונסי,سوانزي,سوانزی,سوانسی,स्वान्ज़ी,स्वॉन्झी,สวอนซี,スウæォンジ,スウォンジ,斯旺西,스완지</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z1</adminCode2>
+<adminName2>Swansea</adminName2>
+<alternateName lang="an">Abertawe</alternateName>
+<alternateName lang="ar">سوانزي</alternateName>
+<alternateName lang="az">Suonsi</alternateName>
+<alternateName lang="bg">Суонзи</alternateName>
+<alternateName lang="br">Abertawe</alternateName>
+<alternateName lang="cy">Abertawe</alternateName>
+<alternateName lang="da">Swansea</alternateName>
+<alternateName lang="de">Swansea</alternateName>
+<alternateName lang="el">Σουόνσι</alternateName>
+<alternateName lang="en">Swansea</alternateName>
+<alternateName lang="es">Swansea</alternateName>
+<alternateName lang="et">Swansea</alternateName>
+<alternateName lang="eu">Swansea</alternateName>
+<alternateName lang="fa">سوانزی</alternateName>
+<alternateName lang="fi">Swansea</alternateName>
+<alternateName lang="fr">Swansea</alternateName>
+<alternateName lang="ga">Abertawe</alternateName>
+<alternateName lang="gv">Abertawe</alternateName>
+<alternateName lang="he">סוונסי</alternateName>
+<alternateName lang="hi">स्वान्ज़ी</alternateName>
+<alternateName lang="hy">Սուոնսի</alternateName>
+<alternateName lang="iata">SWS</alternateName>
+<alternateName lang="id">Swansea</alternateName>
+<alternateName lang="it">Swansea</alternateName>
+<alternateName lang="ja">スウォンジ</alternateName>
+<alternateName lang="ko">스완지</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Swansea</alternateName>
+<alternateName lang="lt">Svonsis</alternateName>
+<alternateName lang="mr">स्वॉन्झी</alternateName>
+<alternateName lang="nl">Swansea</alternateName>
+<alternateName lang="no">Swansea</alternateName>
+<alternateName lang="pl">Swansea</alternateName>
+<alternateName lang="pnb">سوانسی</alternateName>
+<alternateName lang="ro">Swansea</alternateName>
+<alternateName lang="ru">Суонси</alternateName>
+<alternateName lang="sr">Свонзи</alternateName>
+<alternateName lang="sv">Swansea</alternateName>
+<alternateName lang="th">สวอนซี</alternateName>
+<alternateName lang="uk">Свонсі</alternateName>
+<alternateName lang="unlc">SWA</alternateName>
+<alternateName lang="zh">斯旺西</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.02964</west>
+<north>51.67437</north>
+<east>-3.85682</east>
+<south>51.5672</south>
+</bbox>
+<score>144.786865234375</score>
+</geoname>
+<geoname>
+<toponymName>Swansea Airport</toponymName>
+<name>Swansea Airport</name>
+<lat>51.60533</lat>
+<lng>-4.06783</lng>
+<geonameId>6296586</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>EGFH,SWS,Swansea,Swansea Airport</alternateNames>
+<elevation>91</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z1</adminCode2>
+<adminName2>Swansea</adminName2>
+<alternateName lang="iata">SWS</alternateName>
+<alternateName lang="icao">EGFH</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Swansea_Airport</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>74.59986114501953</score>
+</geoname>
+<geoname>
+<toponymName>City and County of Swansea</toponymName>
+<name>City and County of Swansea</name>
+<lat>51.58333</lat>
+<lng>-4</lng>
+<geonameId>3333248</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Dinas a Sir Abertawe,SWA,Swansea</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z1</adminCode2>
+<adminName2>Swansea</adminName2>
+<alternateName lang="abbr">SWA</alternateName>
+<alternateName lang="cy">Dinas a Sir Abertawe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.33397</west>
+<north>51.77423</north>
+<east>-3.84273</east>
+<south>51.53499</south>
+</bbox>
+<score>70.31071472167969</score>
+</geoname>
+</geonames>

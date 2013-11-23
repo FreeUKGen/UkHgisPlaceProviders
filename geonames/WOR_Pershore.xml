@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Pershore</toponymName>
+<name>Pershore</name>
+<lat>52.11163</lat>
+<lng>-2.07586</lng>
+<geonameId>2640360</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7262</population>
+<alternateNames>Pershore</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pershore</alternateName>
+<alternateName lang="unlc">PSH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.0938</west>
+<north>52.12264</north>
+<east>-2.05792</east>
+<south>52.10061</south>
+</bbox>
+<score>109.57164764404297</score>
+</geoname>
+<geoname>
+<toponymName>Pershore</toponymName>
+<name>Pershore</name>
+<lat>52.11002</lat>
+<lng>-2.08412</lng>
+<geonameId>7292809</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<adminCode4>47UF072</adminCode4>
+<adminName4>Pershore</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.11137</west>
+<north>52.13224</north>
+<east>-2.05688</east>
+<south>52.0878</south>
+</bbox>
+<score>81.69823455810547</score>
+</geoname>
+</geonames>

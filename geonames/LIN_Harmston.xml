@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Harmston</toponymName>
+<name>Harmston</name>
+<lat>53.14808</lat>
+<lng>-0.54752</lng>
+<geonameId>2647459</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harmston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.56252</west>
+<north>53.15707</north>
+<east>-0.53252</east>
+<south>53.13908</south>
+</bbox>
+<score>86.40020751953125</score>
+</geoname>
+<geoname>
+<toponymName>Harmston</toponymName>
+<name>Harmston</name>
+<lat>53.15132</lat>
+<lng>-0.53942</lng>
+<geonameId>7301767</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<adminCode4>32UE030</adminCode4>
+<adminName4>Harmston</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.58597</west>
+<north>53.1636</north>
+<east>-0.49286</east>
+<south>53.13903</south>
+</bbox>
+<score>76.48249053955078</score>
+</geoname>
+</geonames>

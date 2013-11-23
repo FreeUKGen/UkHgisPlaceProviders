@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Swarkestone</toponymName>
+<name>Swarkestone</name>
+<lat>52.8541</lat>
+<lng>-1.45427</lng>
+<geonameId>2636422</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UK</adminCode3>
+<adminName3>South Derbyshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Swarkestone</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.46917</west>
+<north>52.8631</north>
+<east>-1.43938</east>
+<south>52.84511</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+<geoname>
+<toponymName>Swarkestone</toponymName>
+<name>Swarkestone</name>
+<lat>52.85531</lat>
+<lng>-1.44597</lng>
+<geonameId>7293290</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UK</adminCode3>
+<adminName3>South Derbyshire District</adminName3>
+<adminCode4>17UK043</adminCode4>
+<adminName4>Swarkestone</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.46818</west>
+<north>52.86849</north>
+<east>-1.42376</east>
+<south>52.84212</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

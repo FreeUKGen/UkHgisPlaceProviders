@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llangadog</toponymName>
+<name>Llangadog</name>
+<lat>51.89712</lat>
+<lng>-3.87578</lng>
+<geonameId>7294064</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU039</adminCode3>
+<adminName3>Llangadog</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llangadog</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.95867</west>
+<north>51.95456</north>
+<east>-3.79289</east>
+<south>51.83968</south>
+</bbox>
+<score>74.9200210571289</score>
+</geoname>
+<geoname>
+<toponymName>Llangadog</toponymName>
+<name>Llangadog</name>
+<lat>51.93807</lat>
+<lng>-3.88289</lng>
+<geonameId>8299837</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population>1</population>
+<alternateNames>Llangadog</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU039</adminCode3>
+<adminName3>Llangadog</adminName3>
+<alternateName lang="en">Llangadog</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llangadog</alternateName>
+<alternateName lang="post">SA19</alternateName>
+<alternateName lang="unlc">LNG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.88435</west>
+<north>51.93897</north>
+<east>-3.88144</east>
+<south>51.93717</south>
+</bbox>
+<score>73.86377716064453</score>
+</geoname>
+</geonames>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Llangattock</toponymName>
+<name>Llangattock</name>
+<lat>51.84228</lat>
+<lng>-3.17128</lng>
+<geonameId>7297047</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN061</adminCode3>
+<adminName3>Llangattock</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.22459</west>
+<north>51.87179</north>
+<east>-3.11797</east>
+<south>51.81277</south>
+</bbox>
+<score>111.81939697265625</score>
+</geoname>
+<geoname>
+<toponymName>Llangattock</toponymName>
+<name>Llangattock</name>
+<lat>51.85184</lat>
+<lng>-3.14778</lng>
+<geonameId>2644041</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llangattock,Llangattwg</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN061</adminCode3>
+<adminName3>Llangattock</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llangattock_%28Crickhowell%29</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.16234</west>
+<north>51.86083</north>
+<east>-3.13322</east>
+<south>51.84284</south>
+</bbox>
+<score>87.24543762207031</score>
+</geoname>
+<geoname>
+<toponymName>Llangattock nigh Usk</toponymName>
+<name>Llangattock nigh Usk</name>
+<lat>51.78333</lat>
+<lng>-2.96667</lng>
+<geonameId>2644039</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llangattock,Llangattock nigh Usk</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X2</adminCode2>
+<adminName2>County Borough of Blaenau Gwent</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.98121</west>
+<north>51.79233</north>
+<east>-2.95213</east>
+<south>51.77434</south>
+</bbox>
+<score>47.664127349853516</score>
+</geoname>
+</geonames>

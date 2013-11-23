@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Theale</toponymName>
+<name>Theale</name>
+<lat>51.43611</lat>
+<lng>-1.07377</lng>
+<geonameId>7301526</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P4</adminCode2>
+<adminName2>West Berkshire</adminName2>
+<adminCode3>00MB050</adminCode3>
+<adminName3>Theale</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.09388</west>
+<north>51.44736</north>
+<east>-1.05366</east>
+<south>51.42487</south>
+</bbox>
+<score>110.13284301757812</score>
+</geoname>
+<geoname>
+<toponymName>Theale</toponymName>
+<name>Theale</name>
+<lat>51.43694</lat>
+<lng>-1.077</lng>
+<geonameId>2636045</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2833</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P4</adminCode2>
+<adminName2>West Berkshire</adminName2>
+<adminCode3>00MB050</adminCode3>
+<adminName3>Theale</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Theale%2C_Berkshire</alternateName>
+<alternateName lang="unlc">TAL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.08721</west>
+<north>51.4433</north>
+<east>-1.0668</east>
+<south>51.43058</south>
+</bbox>
+<score>91.75111389160156</score>
+</geoname>
+<geoname>
+<toponymName>Theale</toponymName>
+<name>Theale</name>
+<lat>51.21389</lat>
+<lng>-2.76917</lng>
+<geonameId>2636046</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.78353</west>
+<north>51.22288</north>
+<east>-2.75481</east>
+<south>51.2049</south>
+</bbox>
+<score>63.161067962646484</score>
+</geoname>
+</geonames>

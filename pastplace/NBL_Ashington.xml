@@ -1,0 +1,85 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>496</id>
+<name>ASHINGTON</name>
+<container>NORTHUMBERLAND</container>
+<lat>55.1855930191846</lat>
+<lon>-1.57974817675175</lon>
+<gazetteerText>ASHINGTON and SHEEPWASH, a township in Bothal parish, Northumberland; on the river Wansbeck, 3&#188; miles E of Morpeth. Acres, 688. Pop., 76. Houses, 13. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Ashington</link>
+<link>http://www.geonames.org/2656946</link>
+</links>
+<unit>
+   <id>10087831</id>
+   <status>UD</status>
+   <name>ASHINGTON</name>
+</unit>
+<unit>
+   <id>10299792</id>
+   <status>CP/Tn</status>
+   <name>ASHINGTON</name>
+</unit>
+<unit>
+   <id>10299846</id>
+   <status>EP</status>
+   <name>ASHINGTON</name>
+</unit>
+<unit>
+   <id>10299883</id>
+   <status>CP/Tn</status>
+   <name>ASHINGTON AND SHEEPWASH</name>
+</unit>
+<unit>
+   <id>10551845</id>
+   <status></status>
+   <name>ASHINGTON</name>
+</unit>
+<unit>
+   <id>12832655</id>
+   <status></status>
+   <name>ASHINGTON</name>
+</unit>
+<nearByPlace>
+   <id>1091</id>
+   <name>NEWBIGGIN BY THE SEA</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8949</id>
+   <name>CRESSWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9451</id>
+   <name>LONGHIRST</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8754</id>
+   <name>BOTHAL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9790</id>
+   <name>WIDDRINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9737</id>
+   <name>ULGHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9100</id>
+   <name>ELLINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9470</id>
+   <name>LYNEMOUTH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17285</id>
+   <name>WANSBECK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9303</id>
+   <name>HIRST</name>
+</nearByPlace>
+</place>
+</results>

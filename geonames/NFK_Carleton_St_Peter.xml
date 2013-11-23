@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Carleton St. Peter</toponymName>
+<name>Carleton St. Peter</name>
+<lat>52.57003</lat>
+<lng>1.45754</lng>
+<geonameId>7301925</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH024</adminCode4>
+<adminName4>Carleton St. Peter</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Carleton_St_Peter</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.44481</west>
+<north>52.58719</north>
+<east>1.47028</east>
+<south>52.55286</south>
+</bbox>
+<score>54.03078842163086</score>
+</geoname>
+</geonames>

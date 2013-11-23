@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanddewi Velfrey</toponymName>
+<name>Llanddewi Velfrey</name>
+<lat>51.82148</lat>
+<lng>-4.68514</lng>
+<geonameId>7292306</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS032</adminCode3>
+<adminName3>Llanddewi Velfrey</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.73698</west>
+<north>51.83822</north>
+<east>-4.63329</east>
+<south>51.80473</south>
+</bbox>
+<score>99.59144592285156</score>
+</geoname>
+<geoname>
+<toponymName>Llanddewi Velfrey</toponymName>
+<name>Llanddewi Velfrey</name>
+<lat>51.81976</lat>
+<lng>-4.68921</lng>
+<geonameId>3345141</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS032</adminCode3>
+<adminName3>Llanddewi Velfrey</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanddewi_Velfrey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.70376</west>
+<north>51.82875</north>
+<east>-4.67466</east>
+<south>51.81076</south>
+</bbox>
+<score>88.53218841552734</score>
+</geoname>
+</geonames>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Kirkoswald</toponymName>
+<name>Kirkoswald</name>
+<lat>54.76667</lat>
+<lng>-2.7</lng>
+<geonameId>2645237</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kirkoswald</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UF</adminCode3>
+<adminName3>Eden District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirkoswald%2C_Cumbria</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.71559</west>
+<north>54.77566</north>
+<east>-2.68441</east>
+<south>54.75767</south>
+</bbox>
+<score>99.57904052734375</score>
+</geoname>
+<geoname>
+<toponymName>Kirkoswald</toponymName>
+<name>Kirkoswald</name>
+<lat>54.78743</lat>
+<lng>-2.63435</lng>
+<geonameId>7294779</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UF</adminCode3>
+<adminName3>Eden District</adminName3>
+<adminCode4>16UF037</adminCode4>
+<adminName4>Kirkoswald</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.72432</west>
+<north>54.82693</north>
+<east>-2.54439</east>
+<south>54.74794</south>
+</bbox>
+<score>79.35822296142578</score>
+</geoname>
+<geoname>
+<toponymName>Kirkoswald</toponymName>
+<name>Kirkoswald</name>
+<lat>55.31667</lat>
+<lng>-4.76667</lng>
+<geonameId>2645236</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W4</adminCode2>
+<adminName2>South Ayrshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.78248</west>
+<north>55.32566</north>
+<east>-4.75086</east>
+<south>55.30767</south>
+</bbox>
+<score>63.1538200378418</score>
+</geoname>
+</geonames>

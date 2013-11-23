@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Thorpe on the Hill</toponymName>
+<name>Thorpe on the Hill</name>
+<lat>53.17918</lat>
+<lng>-0.64138</lng>
+<geonameId>2635947</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Thorpe,Thorpe on the Hill</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.65639</west>
+<north>53.18818</north>
+<east>-0.62637</east>
+<south>53.17019</south>
+</bbox>
+<score>63.93516159057617</score>
+</geoname>
+<geoname>
+<toponymName>Thorpe on the Hill</toponymName>
+<name>Thorpe on the Hill</name>
+<lat>53.17315</lat>
+<lng>-0.65017</lng>
+<geonameId>7295523</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<adminCode4>32UE064</adminCode4>
+<adminName4>Thorpe on the Hill</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thorpe_on_the_Hill%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.6818</west>
+<north>53.18901</north>
+<east>-0.61853</east>
+<south>53.1573</south>
+</bbox>
+<score>52.05263900756836</score>
+</geoname>
+<geoname>
+<toponymName>Thorpe on the Hill</toponymName>
+<name>Thorpe on the Hill</name>
+<lat>53.73724</lat>
+<lng>-1.52435</lng>
+<geonameId>6693730</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H3</adminCode2>
+<adminName2>Leeds</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.53956</west>
+<north>53.74623</north>
+<east>-1.50914</east>
+<south>53.72825</south>
+</bbox>
+<score>50.495147705078125</score>
+</geoname>
+</geonames>

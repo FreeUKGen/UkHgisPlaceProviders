@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Belaugh</toponymName>
+<name>Belaugh</name>
+<lat>52.71697</lat>
+<lng>1.3923</lng>
+<geonameId>7291910</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<adminCode4>33UC007</adminCode4>
+<adminName4>Belaugh</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Belaugh</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.37491</west>
+<north>52.73249</north>
+<east>1.40968</east>
+<south>52.70145</south>
+</bbox>
+<score>60.601318359375</score>
+</geoname>
+</geonames>

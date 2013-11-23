@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Rushock</toponymName>
+<name>Rushock</name>
+<lat>52.33333</lat>
+<lng>-2.18333</lng>
+<geonameId>2638943</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Rushock</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UG</adminCode3>
+<adminName3>Wyre Forest District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rushock</alternateName>
+<alternateName lang="unlc">RUK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.19805</west>
+<north>52.34233</north>
+<east>-2.16861</east>
+<south>52.32434</south>
+</bbox>
+<score>92.6257553100586</score>
+</geoname>
+<geoname>
+<toponymName>Rushock</toponymName>
+<name>Rushock</name>
+<lat>52.33267</lat>
+<lng>-2.17119</lng>
+<geonameId>7292816</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UG</adminCode3>
+<adminName3>Wyre Forest District</adminName3>
+<adminCode4>47UG008</adminCode4>
+<adminName4>Rushock</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.19376</west>
+<north>52.34871</north>
+<east>-2.14861</east>
+<south>52.31663</south>
+</bbox>
+<score>81.42989349365234</score>
+</geoname>
+</geonames>

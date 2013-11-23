@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Morvah</toponymName>
+<name>Morvah</name>
+<lat>50.15993</lat>
+<lng>-5.62875</lng>
+<geonameId>7294634</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE092</adminCode3>
+<adminName3>Morvah</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.65732</west>
+<north>50.17458</north>
+<east>-5.60017</east>
+<south>50.14528</south>
+</bbox>
+<score>110.33341979980469</score>
+</geoname>
+<geoname>
+<toponymName>Morvah</toponymName>
+<name>Morvah</name>
+<lat>50.16139</lat>
+<lng>-5.6394</lng>
+<geonameId>2642161</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Morvah</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE092</adminCode3>
+<adminName3>Morvah</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Morvah</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.65344</west>
+<north>50.17038</north>
+<east>-5.62536</east>
+<south>50.1524</south>
+</bbox>
+<score>104.56127166748047</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Boxley</toponymName>
+<name>Boxley</name>
+<lat>51.30248</lat>
+<lng>0.54318</lng>
+<geonameId>2655040</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UH</adminCode3>
+<adminName3>Maidstone</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boxley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.52879</west>
+<north>51.31148</north>
+<east>0.55757</east>
+<south>51.29349</south>
+</bbox>
+<score>83.3157958984375</score>
+</geoname>
+<geoname>
+<toponymName>Boxley</toponymName>
+<name>Boxley</name>
+<lat>51.30468</lat>
+<lng>0.53714</lng>
+<geonameId>7294738</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UH</adminCode3>
+<adminName3>Maidstone</adminName3>
+<adminCode4>29UH006</adminCode4>
+<adminName4>Boxley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.49248</west>
+<north>51.33874</north>
+<east>0.58179</east>
+<south>51.27061</south>
+</bbox>
+<score>73.54476928710938</score>
+</geoname>
+</geonames>

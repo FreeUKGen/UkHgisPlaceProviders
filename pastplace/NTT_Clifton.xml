@@ -1,0 +1,85 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>7329</id>
+<name>CLIFTON</name>
+<container>NOTTINGHAMSHIRE</container>
+<lat>52.9084354462548</lat>
+<lon>-1.18804563304462</lon>
+<gazetteerText>CLIFTON-WITH-GLAPTON, a parish in Basford district, Notts; on the river Trent, 1&#189; mile ESE of Beeston r. station, and 4 SW of Nottingham. It in-Cludes the hamlet of Garbythorpe; and its post town is Beeston, under Nottingham. Acres, 1, 980. Real property, &#163;3, 565. Pop., 382. Houses, 88. The property is divided between two. Clifton Hall is the seat of Sir J. Clifton, Bart. Gypsum and spar are found. The living is a rectory in the diocese of Lincoln. Value, &#163;405.* Patron, Sir J. Clifton, Bart. The church is ancient, cruciform, and good; and has monuments and four brasses of the Cliftons. A small college for priests was founded here, in the time of Edward IV., by Sir Robert Clifton. There are alms-houses with &#163;38 a year. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Clifton,_Nottingham</link>
+<link>http://www.geonames.org/2652841</link>
+</links>
+<unit>
+   <id>10258935</id>
+   <status>EP</status>
+   <name>CLIFTON</name>
+</unit>
+<unit>
+   <id>10259034</id>
+   <status>EP</status>
+   <name>CLIFTON ST FRANCIS</name>
+</unit>
+<unit>
+   <id>10259046</id>
+   <status>CP/AP</status>
+   <name>CLIFTON WITH GLAPTON</name>
+</unit>
+<unit>
+   <id>10259125</id>
+   <status>EP</status>
+   <name>CLIFTON WITH GLAPTON</name>
+</unit>
+</place>
+<place>
+<id>7326</id>
+<name>NORTH CLIFTON</name>
+<container>NOTTINGHAMSHIRE</container>
+<lat>53.2327858479159</lat>
+<lon>-0.74572344616976</lon>
+<gazetteerText>CLIFTON (North), a township and a parish in Newark district, Notts. The township lies on the river Trent, 5 miles E of Tuxford r. station, and 12 N of Newark; and has a ferry on the Trent, and a post office, of the name of Clifton, under Newark. Real property, &#163;1, 941. Pop., 369. Houses, 57. The parish contains also the townships of South Clifton, Harby, and Spalford. Acres, 5, 050. Real property, &#163;7, 520. Pop., 1, 110. Houses, 244. The property is much subdivided. Gypsum is found. A red cliff on Clifton Hill, about a mile long, looks to be natural, but has yielded great numbers of sepulchral remains. Queen Eleanor died, in 1291, at Harby. The living is a vicarage, united with the p. curacy of Harby, in the diocese of Lincoln. Value, &#163;176.* Patron, the Bishop of Lincoln The church is good; and there are a chapel of ease, two Wesleyan chapels, an endowed school, and charities &#163;27. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/NTT/NorthClifton/index.html</link>
+<link>http://www.geonames.org/2641392</link>
+</links>
+<unit>
+   <id>10258947</id>
+   <status>AP/CP</status>
+   <name>NORTH CLIFTON</name>
+</unit>
+<unit>
+   <id>10259009</id>
+   <status>EP</status>
+   <name>NORTH CLIFTON</name>
+</unit>
+</place>
+<place>
+<id>7327</id>
+<name>SOUTH CLIFTON</name>
+<container>NOTTINGHAMSHIRE</container>
+<lat>53.2237595854604</lat>
+<lon>-0.757939247826475</lon>
+<gazetteerText>CLIFTON (South), a township in North Clifton parish, Notts; on the river Ouse, 10&#189; miles N of Newark. Real property, &#163;2, 595. Pop., 319. Houses, 68. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2637453</link>
+</links>
+<unit>
+   <id>10259010</id>
+   <status>CP/Tn</status>
+   <name>SOUTH CLIFTON</name>
+</unit>
+<nearByPlace>
+   <id>7326</id>
+   <name>NORTH CLIFTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7414</id>
+   <name>GIRTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7760</id>
+   <name>SPALFORD</name>
+</nearByPlace>
+</place>
+</results>

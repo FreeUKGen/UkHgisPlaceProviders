@@ -1,0 +1,101 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>575</id>
+<name>RAMSGATE</name>
+<container>KENT</container>
+<lat>51.337044759305</lat>
+<lon>1.39944426594424</lon>
+<gazetteerText>Ramsgate, watering-place and seaport, market town and par., and member of the Cinque Port of Sandwich, Kent - par. and Cinque Port, 308 ac., pop. 16,234; town (including also the greater part of St Lawrence Thanet par.), 4 miles SE. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Ramsgate</link>
+<link>http://www.geonames.org/2639660</link>
+</links>
+<unit>
+   <id>10043098</id>
+   <status>USD</status>
+   <name>RAMSGATE</name>
+</unit>
+<unit>
+   <id>10107969</id>
+   <status>MB</status>
+   <name>RAMSGATE</name>
+</unit>
+<unit>
+   <id>10224287</id>
+   <status>EP</status>
+   <name>RAMSGATE CHRIST CHURCH</name>
+</unit>
+<unit>
+   <id>10224299</id>
+   <status>EP</status>
+   <name>RAMSGATE HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10224317</id>
+   <status>EP</status>
+   <name>RAMSGATE ST LUKE</name>
+</unit>
+<unit>
+   <id>10224329</id>
+   <status>EP</status>
+   <name>RAMSGATE ST PAUL</name>
+</unit>
+<unit>
+   <id>10229856</id>
+   <status>ExP/CP</status>
+   <name>RAMSGATE</name>
+</unit>
+<unit>
+   <id>10229868</id>
+   <status>EP</status>
+   <name>RAMSGATE</name>
+</unit>
+<unit>
+   <id>10536777</id>
+   <status></status>
+   <name>RAMSGATE</name>
+</unit>
+<unit>
+   <id>12829383</id>
+   <status></status>
+   <name>RAMSGATE</name>
+</unit>
+<nearByPlace>
+   <id>3217</id>
+   <name>ACOL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4410</id>
+   <name>ASH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4480</id>
+   <name>GARLINGE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5373</id>
+   <name>BIRCHINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6286</id>
+   <name>MONKTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6341</id>
+   <name>ST LAWRENCE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6418</id>
+   <name>STONAR</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6477</id>
+   <name>WESTGATE ON SEA</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17319</id>
+   <name>THANET</name>
+</nearByPlace>
+</place>
+</results>

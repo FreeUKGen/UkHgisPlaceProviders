@@ -1,0 +1,48 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>8179</id>
+<name>ANGMERING</name>
+<container>SUSSEX</container>
+<lat>50.8440617024157</lat>
+<lon>-0.481335944600614</lon>
+<gazetteerText>ANGMERING, a parish in Worthing district, Sussex; on the South Coast railway, 4 miles SE of Arundel. It has a station on the railway, a post office&#8225; under Arundel, and a fair on 3 July. Acres, 3,150. Real pro perty, &#163;6,352. Pop., 953. Houses, 193. Angmering Park belongs to the Duke of Norfolk. Ham House is the seat of W. K. Gratwicke, Esq. New Place, now inhabited by work-people, was the seat of Sir Edward Palmer in the time of Henry VIII., and the birthplace of his three sons, who all were knighted. The living is a rectory and a vicarage-rectory of East Angmering, vicarage of West Angmering-in the diocese of Chichester. Value, &#163;258.* Patron, Sir G. R. Pechell, Bart. East Angmering church has disappeared. West Angmering church, excepting the tower and small part of the chancel, was rebuilt in 1852. There are an Independent chapel and a free school. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://homepages.gold.ac.uk/genuki/SSX/Angmering/index.php</link>
+<link>http://en.wikipedia.org/wiki/Angmering</link>
+<link>http://www.geonames.org/2657308</link>
+</links>
+<unit>
+   <id>10281192</id>
+   <status>CP/AP</status>
+   <name>ANGMERING</name>
+</unit>
+<unit>
+   <id>10281349</id>
+   <status>EP</status>
+   <name>ANGMERING</name>
+</unit>
+<unit>
+   <id>10287431</id>
+   <status>EP</status>
+   <name>EAST ANGMERING</name>
+</unit>
+<unit>
+   <id>10287443</id>
+   <status>EP</status>
+   <name>WEST ANGMERING</name>
+</unit>
+<nearByPlace>
+   <id>8289</id>
+   <name>BURPHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8309</id>
+   <name>CLAPHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8888</id>
+   <name>PATCHING</name>
+</nearByPlace>
+</place>
+</results>

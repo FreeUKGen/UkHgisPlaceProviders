@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llangoedmor</toponymName>
+<name>Llangoedmor</name>
+<lat>52.07997</lat>
+<lng>-4.6009</lng>
+<geonameId>7294037</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ025</adminCode3>
+<adminName3>Llangoedmor</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llangoedmor</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.647</west>
+<north>52.10546</north>
+<east>-4.55479</east>
+<south>52.05448</south>
+</bbox>
+<score>80.7945556640625</score>
+</geoname>
+</geonames>

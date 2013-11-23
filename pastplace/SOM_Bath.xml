@@ -1,0 +1,549 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1008</id>
+<name>BATH</name>
+<container>SOMERSET</container>
+<lat>51.37801872164</lat>
+<lon>-2.36710992540704</lon>
+<gazetteerText>Bath, city, mun. and parl. bor., E. Somerset, on river Avon, 11&#190; miles SE. of Bristol, 107 W. of London, and 135 S. of Birmingham by rail -- par. bor., 3611 ac., pop. 53,785; mun. bor., 3539 ac., pop. 51,814; 5 Banks, 6 newspapers. Market-days, Wed. and Sat. The town consists of two parts -- Old Bath, on a bend of the river, and New Bath, on a range of lofty hills. B. owes its importance to its hot springs, known to the Romans in the 1st century; and is much resorted to for its medicinal waters, baths, &amp;c. The springs, four in number, yield about 7750 gallons per hour, the temperature ranging from 110o to 117o Fahrenheit. Bath and Wells have formed one diocese since 1135. The bor. returns 2 members to Parliament. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2656173</link>
+<link>http://www.genuki.org.uk/big/eng/SOM/Bath/index.html</link>
+<link>http://en.wikipedia.org/wiki/Bath,_Somerset</link>
+<link>http://www.workhouses.org.uk/Bath</link>
+</links>
+<unit>
+   <id>10438834</id>
+   <status>AP</status>
+   <name>BATH ST MARY DE STALLS</name>
+</unit>
+<unit>
+   <id>10419852</id>
+   <status>AP</status>
+   <name>BATH ST MICHEAL WITHIN THE WALLS</name>
+</unit>
+<unit>
+   <id>10133890</id>
+   <status>Hundred</status>
+   <name>BATH FORUM</name>
+</unit>
+<unit>
+   <id>10419694</id>
+   <status>EP</status>
+   <name>BATH ABBEY WITH ST JAMES</name>
+</unit>
+<unit>
+   <id>10419827</id>
+   <status>EP</status>
+   <name>BATH ST MICHAEL WITH ST PAUL</name>
+</unit>
+<unit>
+   <id>10566757</id>
+   <status></status>
+   <name>BATH AND WELLS</name>
+</unit>
+<unit>
+   <id>10137615</id>
+   <status>USD</status>
+   <name>BATH</name>
+</unit>
+<unit>
+   <id>10419931</id>
+   <status>EP</status>
+   <name>BATH ABBEY</name>
+</unit>
+<unit>
+   <id>10419839</id>
+   <status>AP</status>
+   <name>BATH ST MARY WITHIN THE WALLS</name>
+</unit>
+<unit>
+   <id>12836170</id>
+   <status></status>
+   <name>BATH</name>
+</unit>
+<unit>
+   <id>10567210</id>
+   <status></status>
+   <name>BATH</name>
+</unit>
+<unit>
+   <id>10419864</id>
+   <status>EP</status>
+   <name>BATH ST PAUL</name>
+</unit>
+<unit>
+   <id>10001237</id>
+   <status>Borough</status>
+   <name>BATH</name>
+</unit>
+<unit>
+   <id>10438810</id>
+   <status>AP/CP/Ch</status>
+   <name>BATH ST JAMES</name>
+</unit>
+<unit>
+   <id>10419803</id>
+   <status>CP/AP</status>
+   <name>BATH ST MICHAEL</name>
+</unit>
+<unit>
+   <id>10135278</id>
+   <status>RD</status>
+   <name>BATH</name>
+</unit>
+<unit>
+   <id>10196930</id>
+   <status>CB/MB</status>
+   <name>BATH</name>
+</unit>
+<unit>
+   <id>12750055</id>
+   <status>PBCon/CCon/BCon</status>
+   <name>BATH</name>
+</unit>
+<unit>
+   <id>10419967</id>
+   <status>EP</status>
+   <name>BATH ST SAVIOUR</name>
+</unit>
+<unit>
+   <id>10168442</id>
+   <status>UA</status>
+   <name>BATH AND NORTH EAST SOMERSET</name>
+</unit>
+<unit>
+   <id>10419670</id>
+   <status>CP</status>
+   <name>BATH</name>
+</unit>
+<unit>
+   <id>10419888</id>
+   <status>AP/CP</status>
+   <name>BATH ST PETER AND ST PAUL</name>
+</unit>
+<unit>
+   <id>10167607</id>
+   <status>RegD/PLU</status>
+   <name>BATH</name>
+</unit>
+<unit>
+   <id>10562375</id>
+   <status></status>
+   <name>LANSDOWN</name>
+</unit>
+<unit>
+   <id>10043141</id>
+   <status>RSD</status>
+   <name>BATH</name>
+</unit>
+<unit>
+   <id>10419815</id>
+   <status>EP</status>
+   <name>BATH ST MICHAEL</name>
+</unit>
+<unit>
+   <id>10419840</id>
+   <status>AP</status>
+   <name>BATH ST MARY WITHOUT THE WALLS</name>
+</unit>
+<unit>
+   <id>10438822</id>
+   <status>EP/EP</status>
+   <name>BATH ST JAMES</name>
+</unit>
+<unit>
+   <id>10173176</id>
+   <status>RD</status>
+   <name>BATHAVON</name>
+</unit>
+<unit>
+   <id>10420003</id>
+   <status>EP</status>
+   <name>BATH ST STEPHEN</name>
+</unit>
+<unit>
+   <id>10569370</id>
+   <status></status>
+   <name>BATH</name>
+</unit>
+<unit>
+   <id>10419712</id>
+   <status>EP</status>
+   <name>BATH THE ASCENSION</name>
+</unit>
+<unit>
+   <id>10419750</id>
+   <status>EP</status>
+   <name>BATH ST BARTHOLOMEW</name>
+</unit>
+<unit>
+   <id>10419748</id>
+   <status>EP</status>
+   <name>BATH ST BARNABAS</name>
+</unit>
+<unit>
+   <id>12781246</id>
+   <status></status>
+   <name>BATH</name>
+</unit>
+<unit>
+   <id>10419797</id>
+   <status>EP</status>
+   <name>BATH ST LUKE</name>
+</unit>
+<unit>
+   <id>10419724</id>
+   <status>EP</status>
+   <name>BATH HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10420015</id>
+   <status>AP</status>
+   <name>BATH ST WERBURGH</name>
+</unit>
+<nearByPlace>
+   <id>146</id>
+   <name>FROME</name>
+</nearByPlace>
+<nearByPlace>
+   <id>382</id>
+   <name>MIDSOMER NORTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>446</id>
+   <name>KINGSWOOD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>528</id>
+   <name>TROWBRIDGE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>689</id>
+   <name>CHIPPENHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>691</id>
+   <name>WARMINSTER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>831</id>
+   <name>YEOVIL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1275</id>
+   <name>KEYNSHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10661</id>
+   <name>FILTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13488</id>
+   <name>TWERTON</name>
+</nearByPlace>
+</place>
+<place>
+<id>20131</id>
+<name>BATHWICK</name>
+<container>SOMERSET</container>
+<lat>51.3833461354963</lat>
+<lon>-2.34333792912206</lon>
+<gazetteerText>BATHWICK, a parish and a subdistrict in Somerset The parish lies on the left bank of the Avon, within the borough of Bath; and is intersected by the Kennet and Avon canal, and by the Great Western railway. Acres, 573. Real property, &#163;43,868. Pop., 5,266. Houses, 836. At the beginning of last century, the parish contained only a few scattered houses, and was marshy; but now it contains some of the finest streets and decorations of Bath, including Great Pulteney-street, Laura place, and the Sydney gardens. The living is a rectory, united with the curacy of Woolley, in the diocese of Bath and Wells. Value, &#163;209. Patron, Lord W. Powlett. The church is in the decorated English style, with a tower 120 feet high; was built in 1829; and contains a monument to Mackinnon, who figured at Culloden. Laura chapel is a separate charge. There is a proprietary college, with about 100 pupils.-The subdistrict includes also other parishes beyond the borough. Acres, 3,452. Pop., 7,132. Houses, 1,201. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/SOM/Bathwick/index.html</link>
+</links>
+<unit>
+   <id>10420040</id>
+   <status>EP</status>
+   <name>BATH BATHWICK ST JOHN</name>
+</unit>
+<unit>
+   <id>10420106</id>
+   <status>EP</status>
+   <name>BATH BATHWICK ST MARY WITH WOOLLEY</name>
+</unit>
+<unit>
+   <id>10420428</id>
+   <status>AP/CP</status>
+   <name>BATHWICK</name>
+</unit>
+<unit>
+   <id>10420489</id>
+   <status>EP</status>
+   <name>BATHWICK</name>
+</unit>
+<unit>
+   <id>10549450</id>
+   <status></status>
+   <name>BATHWICK</name>
+</unit>
+</place>
+<place>
+<id>12411</id>
+<name>BATHEASTON</name>
+<container>SOMERSET</container>
+<lat>51.4156152714476</lat>
+<lon>-2.32523664525723</lon>
+<gazetteerText>BATHEASTON, a parish and a subdistrict in Bath district, Somerset. The parish lies on the river Avon, near the Foss&amp; way, 1 &#189; mile N by E of Bathampton r. station, and 2 &#189; NE of Bath. It has a ferry to Bathampton, and a post office under Bath. Acres, 1,863. Real property, &#163;11,106. Pop., 1,698. Houses, 353. The property is much subdivided. Lines of houses and numerous villas make the south-western part suburban to Bath. The manor belonged to the Saxon kings, and the church was early appropriated to Bath abbey. Solsbury hill, 600 feet high has traces of a circular camp sup posed to have been used by the Saxons in their siege of Bath. The living is a vicarage, united with the p. curacy of St. Catherine, in the diocese of Bath and Wells. Value, &#163;298.* Patron, Christ Church college, Oxford. The church is perpendicular English; was partly rebuilt in 1860; and contains a tablet to the Rev. J. Conybeare, the Anglo-Saxon scholar, who was several years vicar. There are a church at St. Catherines, Wesleyan and Moravian chapels, a national school, and charities &#163;35.-The subdistrict comprises Soper&apos;s farm and eight parishes. Acres, exclusive of Soper&apos;s farm, 9,819. Pop., 6,989. Houses, 1,374. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2656171</link>
+<link>http://en.wikipedia.org/wiki/Batheaston</link>
+<link>http://www.genuki.org.uk/big/eng/SOM/Batheaston/index.html</link>
+</links>
+<unit>
+   <id>10420283</id>
+   <status>CP/AP</status>
+   <name>BATHEASTON</name>
+</unit>
+<unit>
+   <id>10420313</id>
+   <status>EP</status>
+   <name>BATHEASTON</name>
+</unit>
+<unit>
+   <id>10549474</id>
+   <status></status>
+   <name>BATHEASTON</name>
+</unit>
+<nearByPlace>
+   <id>13169</id>
+   <name>ST CATHERINE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13291</id>
+   <name>SWAINSWICK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13424</id>
+   <name>WOOLLEY</name>
+</nearByPlace>
+</place>
+<place>
+<id>12414</id>
+<name>BATHFORD</name>
+<container>SOMERSET</container>
+<lat>51.3967503703659</lat>
+<lon>-2.29609636230449</lon>
+<gazetteerText>BATHFORD, a village and a parish in Bath district, Somerset. The village stands adjacent to the river Avon and to the Great Western railway, 2 miles E by N of Bathampton station, and 3e ENE of Bath; and it has a post office under Bath. The parish includes also the hamlets of Shockerwick and Warley. Acres, 1,820. Real property, &#163;5,329. Pop., 892. Houses, 186. The property is divided among a few. An old ford on the Avon at the village gave rise to the name Bathford; and an elegant viaduct, of one flat arch, takes across the railway a little below. Hampton cliffs, in the vicinity, are picturesque, and command remarkably fine views. Some interesting Roman remains have been found in the parish. Bathford House is a chief residence. The living is a vicarage in the diocese of Bath and Wells. Value, &#163;395.* Patrons, the Dean and Chapter of Bristol. The church is very good. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2656170</link>
+<link>http://www.genuki.org.uk/big/eng/SOM/Bathford/index.html</link>
+<link>http://en.wikipedia.org/wiki/Bathford</link>
+</links>
+<unit>
+   <id>10420350</id>
+   <status>CP/AP</status>
+   <name>BATHFORD</name>
+</unit>
+<unit>
+   <id>10420416</id>
+   <status>EP</status>
+   <name>BATHFORD</name>
+</unit>
+<nearByPlace>
+   <id>12409</id>
+   <name>BATHAMPTON</name>
+</nearByPlace>
+</place>
+<place>
+<id>12410</id>
+<name>BATHEALTON</name>
+<container>SOMERSET</container>
+<lat>51.0135700025412</lat>
+<lon>-3.31907099499551</lon>
+<gazetteerText>BATHEALTON, a parish in Wellington district, Somerset; near the Western canal, 4&#189; miles WNW of Wellington r. station, and 5&#189; from Wellington. It has a post office under Wellington, Somerset. Acres, 941. Real property, &#163;1,481. Pop., 135. Houses, 26. The property is divided among a few. The living is a rectory in the diocese of Bath and Wells. Value, &#163;226.* Patron, the Rev. E. Webber. The church is good. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Bathealton</link>
+<link>http://www.genuki.org.uk/big/eng/SOM/Bathealton/index.html</link>
+<link>http://www.geonames.org/7292429</link>
+</links>
+<unit>
+   <id>10420260</id>
+   <status>AP/CP</status>
+   <name>BATHEALTON</name>
+</unit>
+<unit>
+   <id>10420271</id>
+   <status>EP</status>
+   <name>BATHEALTON</name>
+</unit>
+</place>
+<place>
+<id>12409</id>
+<name>BATHAMPTON</name>
+<container>SOMERSET</container>
+<lat>51.3918047373638</lat>
+<lon>-2.32349855074696</lon>
+<gazetteerText>BATHAMPTON, a parish in Bath district, Somerset; on the river Avon and the Great Western railway, 1&#189; mile NE of Bath. It has a station on the railway, and a post office under Bath. Acres, 931. Real property, &#163;3,526. Pop., 382. Houses, 71. The property is not much divided. A series of suburban villas extends onwards to Bath. The living is a vicarage in the diocese of Bath and Wells. Value and patron, not reported. The church is perpendicular English; has a fine west door; contains effigies of a knight and his lady of the time of Edward III.; and was repaired in 1858. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2656172</link>
+<link>http://en.wikipedia.org/wiki/Bathampton</link>
+<link>http://www.genuki.org.uk/big/eng/SOM/Bathampton/index.html</link>
+</links>
+<unit>
+   <id>10420246</id>
+   <status>CP/AP</status>
+   <name>BATHAMPTON</name>
+</unit>
+<unit>
+   <id>10420258</id>
+   <status>EP</status>
+   <name>BATHAMPTON</name>
+</unit>
+</place>
+<place>
+<id>12407</id>
+<name>WESTON</name>
+<container>SOMERSET</container>
+<lat>51.4039669240148</lat>
+<lon>-2.39478105148926</lon>
+<gazetteerText>WESTON, a village and a parish in Bath district, Somerset. The village stands 2 miles NW of Bath r. station; and has a post-office under Bath, a courthouse, a police station, and a fair on 10 Aug. The parish comprises 2,650 acres. Real property, &#163;20,862; of which &#163;4,473 are in gasworks. Pop., 3,127. Houses, 610. The property is much subdivided. There are numerous villas. Lansdown hill, noticed in our article on Bath, is here. Building-stone and blue lias abound; and the latter is calcined into lime. The living is a vicarage in the diocese of Bath and Wells. Value, &#163;468.* Patron, the Lord Chancellor. The church was built in 1832, and is in the later English style. A chapel of ease, called St. John&apos;s, was built in 1838. There are three dissenting chapels, a national school, and charities &#163;24. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/SOM/Weston/index.html</link>
+</links>
+<unit>
+   <id>10420192</id>
+   <status>AP/CP</status>
+   <name>WESTON</name>
+</unit>
+<unit>
+   <id>10420210</id>
+   <status>EP</status>
+   <name>BATH WESTON ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10420234</id>
+   <status>EP</status>
+   <name>BATH WESTON ST JOHN</name>
+</unit>
+<nearByPlace>
+   <id>12536</id>
+   <name>CHARLCOMBE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12978</id>
+   <name>KELSTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13036</id>
+   <name>LANGRIDGE</name>
+</nearByPlace>
+</place>
+<place>
+<id>20820</id>
+<name>WALCOT</name>
+<container>SOMERSET</container>
+<lat>51.3965364575777</lat>
+<lon>-2.36181465406384</lon>
+<gazetteerText>WALCOT, a parish in Bath district, Somerset; nearly all within Bath city. Post town, Bath. Acres, 1,023. Real property, &#163;147,967; of which &#163;5,514 are in canals. Pop. in 1851, 27,471; in 1861, 26,281. Houses, 4,079. The living and the places of worship are noticed in the article Bath. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/SOM/Walcot/index.html</link>
+</links>
+<unit>
+   <id>10420131</id>
+   <status>AP/CP</status>
+   <name>WALCOT</name>
+</unit>
+<unit>
+   <id>10420180</id>
+   <status>EP</status>
+   <name>BATH WALCOT</name>
+</unit>
+<unit>
+   <id>10445255</id>
+   <status>EP</status>
+   <name>WALCOT HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10549437</id>
+   <status></status>
+   <name>WALCOT</name>
+</unit>
+</place>
+<place>
+<id>24124</id>
+<name>WIDCOMBE</name>
+<container>SOMERSET</container>
+<lat>51.3776307627835</lat>
+<lon>-2.35061665174722</lon>
+<gazetteerText>Widcombe.-- eccl. dist., Lyncombe and Widcombe par., Somerset, within the bor. of Bath, pop. 4998. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Widcombe</link>
+</links>
+<unit>
+   <id>10586331</id>
+   <status>EP</status>
+   <name>BATH WIDCOMBE</name>
+</unit>
+</place>
+<place>
+<id>13488</id>
+<name>TWERTON</name>
+<container>SOMERSET</container>
+<lat>51.3744029514982</lat>
+<lon>-2.39301774405742</lon>
+<gazetteerText>TWERTON, or Twiverton, a village, a parish, and a sub-district, in Bath district, Somerset. The village stands on the river Avon, and on the Great Western railway, 2 miles W of Bath; carries on woollen-cloth manufacture, carpet-making, and tanning; and has a post-office&#8225; under Bath, a r. station, two suspension bridges, a modern church with old tower and Norman doorway, a school church, four dissenting chapels, and a parochial school.&#151;The parish comprises 971 acres. Real property, &#163;8,659; of which &#163;30 are in quarries. Pop., 3,012. Houses, 649. The property is much subdivided. The railway here traverses a tunnel 227 yards long. The living is a vicarage in the diocese of Bath and Wells. Value, &#163;400.* Patron, Oriel College, Oxford. Bath jail is here.&#151;The sub-district contains 7 parishes. Acres, 14,192. Pop., 6,953. Houses, 1,472. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/SOM/Twerton/index.html</link>
+<link>http://en.wikipedia.org/wiki/Twerton</link>
+<link>http://www.geonames.org/2635310</link>
+</links>
+<unit>
+   <id>10420120</id>
+   <status>EP</status>
+   <name>BATH TWERTON ON AVON</name>
+</unit>
+<unit>
+   <id>10448542</id>
+   <status>AP/CP</status>
+   <name>TWERTON</name>
+</unit>
+<unit>
+   <id>10549449</id>
+   <status></status>
+   <name>TWERTON</name>
+</unit>
+<nearByPlace>
+   <id>10990</id>
+   <name>MARSHFIELD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12017</id>
+   <name>MONKTON FARLEIGH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12407</id>
+   <name>WESTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12411</id>
+   <name>BATHEASTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12414</id>
+   <name>BATHFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12638</id>
+   <name>ENGLISH COMBE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12642</id>
+   <name>MONKTON COMBE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12801</id>
+   <name>DUNKERTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12958</id>
+   <name>HINTON CHARTERHOUSE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13256</id>
+   <name>SOUTH STOKE</name>
+</nearByPlace>
+</place>
+</results>

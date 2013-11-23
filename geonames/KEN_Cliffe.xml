@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Cliffe</toponymName>
+<name>Cliffe</name>
+<lat>51.46224</lat>
+<lng>0.49833</lng>
+<geonameId>2652849</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1989</population>
+<alternateNames>Cliffe,Cliffe-at-Hoo</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cliffe%2C_Kent</alternateName>
+<alternateName lang="unlc">CLF</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.49111</west>
+<north>51.46674</north>
+<east>0.50555</east>
+<south>51.45775</south>
+</bbox>
+<score>90.80300903320312</score>
+</geoname>
+<geoname>
+<toponymName>Cliffe</toponymName>
+<name>Cliffe</name>
+<lat>53.79084</lat>
+<lng>-0.98535</lng>
+<geonameId>7290996</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UH</adminCode3>
+<adminName3>Selby District</adminName3>
+<adminCode4>36UH027</adminCode4>
+<adminName4>Cliffe</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cliffe%2C_Selby</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.03653</west>
+<north>53.82188</north>
+<east>-0.93416</east>
+<south>53.7598</south>
+</bbox>
+<score>53.738067626953125</score>
+</geoname>
+<geoname>
+<toponymName>Cliffe</toponymName>
+<name>Cliffe</name>
+<lat>54.52857</lat>
+<lng>-1.68994</lng>
+<geonameId>7296857</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UE</adminCode3>
+<adminName3>Richmondshire District</adminName3>
+<adminCode4>36UE026</adminCode4>
+<adminName4>Cliffe</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cliffe%2C_Richmondshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.70832</west>
+<north>54.53608</north>
+<east>-1.67156</east>
+<south>54.52106</south>
+</bbox>
+<score>53.738067626953125</score>
+</geoname>
+</geonames>

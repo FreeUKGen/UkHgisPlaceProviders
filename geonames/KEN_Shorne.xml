@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Shorne</toponymName>
+<name>Shorne</name>
+<lat>51.41363</lat>
+<lng>0.43044</lng>
+<geonameId>2637913</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UG</adminCode3>
+<adminName3>Gravesham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shorne</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.41602</west>
+<north>51.42263</north>
+<east>0.44486</east>
+<south>51.40464</south>
+</bbox>
+<score>90.54096984863281</score>
+</geoname>
+<geoname>
+<toponymName>Shorne</toponymName>
+<name>Shorne</name>
+<lat>51.42686</lat>
+<lng>0.42247</lng>
+<geonameId>7295871</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UG</adminCode3>
+<adminName3>Gravesham</adminName3>
+<adminCode4>29UG005</adminCode4>
+<adminName4>Shorne</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.38786</west>
+<north>51.45465</north>
+<east>0.45709</east>
+<south>51.39906</south>
+</bbox>
+<score>80.74058532714844</score>
+</geoname>
+</geonames>

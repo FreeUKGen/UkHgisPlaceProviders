@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ambleston</toponymName>
+<name>Ambleston</name>
+<lat>51.8911</lat>
+<lng>-4.89593</lng>
+<geonameId>7297123</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS001</adminCode3>
+<adminName3>Ambleston</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ambleston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.94367</west>
+<north>51.90781</north>
+<east>-4.8482</east>
+<south>51.87439</south>
+</bbox>
+<score>76.45002746582031</score>
+</geoname>
+<geoname>
+<toponymName>Ambleston</toponymName>
+<name>Ambleston</name>
+<lat>51.89583</lat>
+<lng>-4.90722</lng>
+<geonameId>3345250</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Ambleston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS001</adminCode3>
+<adminName3>Ambleston</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.93638</west>
+<north>51.91382</north>
+<east>-4.87806</east>
+<south>51.87785</south>
+</bbox>
+<score>39.34840393066406</score>
+</geoname>
+</geonames>

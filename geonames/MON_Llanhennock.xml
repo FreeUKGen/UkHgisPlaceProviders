@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llanhennock</toponymName>
+<name>Llanhennock</name>
+<lat>51.63693</lat>
+<lng>-2.93253</lng>
+<geonameId>7297142</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP017</adminCode3>
+<adminName3>Llanhennock</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanhennock</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.97928</west>
+<north>51.65675</north>
+<east>-2.88577</east>
+<south>51.61712</south>
+</bbox>
+<score>80.63899230957031</score>
+</geoname>
+</geonames>

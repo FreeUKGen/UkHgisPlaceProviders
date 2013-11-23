@@ -1,0 +1,769 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>668</id>
+<name>DERBY</name>
+<container>DERBYSHIRE</container>
+<lat>52.913608466633</lat>
+<lon>-1.4676095540912</lon>
+<gazetteerText>Derby.-- cap. of co., parl. and mun. bor., and market town, Derbyshire, on river Derwent, 42 miles NE. of Birmingham, 60 SE. of Manchester, and 127 NW. of London by rail, 3450 ac., pop. 81,168 (the parl. bor. was extended in 1885); 5 Banks, 6 newspapers. Market-days, Tuesday and Friday. D. occupies a position nearly in the middle of England, and is the centre of the Midland By. system, containing its head offices and principal workshops. It has a grammar-school on an old foundation, schools of science and art, and a town and county infirmary; it also possesses a recreation ground, free public swimming baths, a free library, and museum buildings, all presented by Mr M. T. Bass. D. has silk-mills -- the first silk-mill in England was ejected at D. in 1717 -- elastic web-works, sparworks, and ironworks, and it has been long celebrated for its porcelain. D. is a place of great antiquity. It was the most southern town occupied by the Highlanders in 1745. It gives the title of earl to the Stanley family. Richardson (1689-1761), the novelist, was a native. The bor. returns 2 members to Parliament. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/DBY/Derby/StAlkmund/index.html</link>
+<link>http://en.wikipedia.org/wiki/Derby</link>
+<link>http://www.genuki.org.uk/big/eng/DBY/Derby/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/DBY/Derby/StMichael/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/DBY/Derby/StPeter/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/DBY/Derby/StWerburgh/index.html</link>
+<link>http://www.geonames.org/2651347</link>
+<link>http://www.workhouses.org.uk/Derby</link>
+</links>
+<unit>
+   <id>10127051</id>
+   <status>EP</status>
+   <name>DERBY CHRIST CHURCH AND HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10094926</id>
+   <status>EP</status>
+   <name>DERBY ST JOHN</name>
+</unit>
+<unit>
+   <id>10070247</id>
+   <status>CP/AP</status>
+   <name>DERBY ST WERBURGH</name>
+</unit>
+<unit>
+   <id>12744286</id>
+   <status>PBCon</status>
+   <name>DERBY</name>
+</unit>
+<unit>
+   <id>12780138</id>
+   <status></status>
+   <name>DERBY</name>
+</unit>
+<unit>
+   <id>10070235</id>
+   <status>EP</status>
+   <name>DERBY ST MICHAEL</name>
+</unit>
+<unit>
+   <id>10127063</id>
+   <status>EP</status>
+   <name>DERBY ST ANDREW</name>
+</unit>
+<unit>
+   <id>10070181</id>
+   <status>EP</status>
+   <name>DERBY ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10163389</id>
+   <status>EP</status>
+   <name>DERBY ST PETER</name>
+</unit>
+<unit>
+   <id>12833209</id>
+   <status></status>
+   <name>DERBY</name>
+</unit>
+<unit>
+   <id>12823526</id>
+   <status></status>
+   <name>ST PETER</name>
+</unit>
+<unit>
+   <id>10210008</id>
+   <status>EP</status>
+   <name>DERBY ST PAUL</name>
+</unit>
+<unit>
+   <id>10127087</id>
+   <status>EP</status>
+   <name>DERBY ST AUGUSTINE</name>
+</unit>
+<unit>
+   <id>10030298</id>
+   <status>RegD/PLU</status>
+   <name>DERBY</name>
+</unit>
+<unit>
+   <id>10005073</id>
+   <status>RSD</status>
+   <name>DERBY</name>
+</unit>
+<unit>
+   <id>10018158</id>
+   <status>EP</status>
+   <name>DERBY ST ANDREW WITH ST OSMUND</name>
+</unit>
+<unit>
+   <id>10070223</id>
+   <status>EP</status>
+   <name>DERBY ST CHAD MILL HILL</name>
+</unit>
+<unit>
+   <id>10018213</id>
+   <status>EP</status>
+   <name>DERBY ST WERBURGH</name>
+</unit>
+<unit>
+   <id>10152770</id>
+   <status>Borough</status>
+   <name>DERBY</name>
+</unit>
+<unit>
+   <id>10076717</id>
+   <status>CP/Tn/AP</status>
+   <name>DERBY ST MICHAEL</name>
+</unit>
+<unit>
+   <id>10163365</id>
+   <status>CP/AP</status>
+   <name>DERBY ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10109700</id>
+   <status>MB/CB</status>
+   <name>DERBY</name>
+</unit>
+<unit>
+   <id>10018134</id>
+   <status>CP</status>
+   <name>DERBY</name>
+</unit>
+<unit>
+   <id>10182311</id>
+   <status>CP/AP/Tn</status>
+   <name>DERBY ST ALKMUND</name>
+</unit>
+<unit>
+   <id>12752076</id>
+   <status>BCon</status>
+   <name>DERBY SOUTH</name>
+</unit>
+<unit>
+   <id>12747949</id>
+   <status>BCon</status>
+   <name>DERBY NORTH</name>
+</unit>
+<unit>
+   <id>10033032</id>
+   <status>UA</status>
+   <name>DERBY</name>
+</unit>
+<unit>
+   <id>10182347</id>
+   <status>CP/AP</status>
+   <name>DERBY ST PETER</name>
+</unit>
+<unit>
+   <id>10029338</id>
+   <status>USD</status>
+   <name>DERBY</name>
+</unit>
+<unit>
+   <id>10544592</id>
+   <status></status>
+   <name>DERBY</name>
+</unit>
+<unit>
+   <id>12823514</id>
+   <status></status>
+   <name>ST ALKMUND</name>
+</unit>
+<unit>
+   <id>10142039</id>
+   <status>EP</status>
+   <name>DERBY ST ALKMUND</name>
+</unit>
+<unit>
+   <id>10127105</id>
+   <status>EP</status>
+   <name>DERBY ST MARK</name>
+</unit>
+<unit>
+   <id>10163377</id>
+   <status>EP</status>
+   <name>DERBY ST JAMES THE GREATER</name>
+</unit>
+<unit>
+   <id>10018160</id>
+   <status>EP</status>
+   <name>DERBY ST ANNE AND ST JOHN</name>
+</unit>
+<unit>
+   <id>10018146</id>
+   <status>EP</status>
+   <name>DERBY HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10182335</id>
+   <status>EP</status>
+   <name>DERBY ST LUKE</name>
+</unit>
+<unit>
+   <id>10566873</id>
+   <status></status>
+   <name>DERBY</name>
+</unit>
+<unit>
+   <id>10018201</id>
+   <status>EP</status>
+   <name>DERBY ST THOMAS</name>
+</unit>
+<unit>
+   <id>10127075</id>
+   <status>EP</status>
+   <name>DERBY ST ANNE</name>
+</unit>
+<unit>
+   <id>10567671</id>
+   <status></status>
+   <name>DERBY</name>
+</unit>
+<unit>
+   <id>10188910</id>
+   <status>EP</status>
+   <name>DERBY ST BARTHOLOMEW</name>
+</unit>
+<unit>
+   <id>10051642</id>
+   <status>EP</status>
+   <name>DERBY CHRIST CHURCH</name>
+</unit>
+<unit>
+   <id>10182323</id>
+   <status>EP</status>
+   <name>DERBY ST BARNABAS</name>
+</unit>
+<unit>
+   <id>10572496</id>
+   <status></status>
+   <name>DERBY</name>
+</unit>
+<nearByPlace>
+   <id>257</id>
+   <name>ALVASTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>324</id>
+   <name>WIRKSWORTH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>650</id>
+   <name>RIPLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>875</id>
+   <name>ASHBOURNE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2357</id>
+   <name>DUFFIELD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2362</id>
+   <name>WEST HALLAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4025</id>
+   <name>BREASTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4030</id>
+   <name>CHADDESDEN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5708</id>
+   <name>LITTLEOVER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7993</id>
+   <name>CHEADLE</name>
+</nearByPlace>
+</place>
+<place>
+<id>4136</id>
+<name>SHARDLOW</name>
+<container>DERBYSHIRE</container>
+<lat>52.8711785822846</lat>
+<lon>-1.34428918267126</lon>
+<gazetteerText>SHARDLOW, a village, a parish, a sub-district, and a district, in Derbyshire. The village stands near the river Trent, 2 miles S of Draycott r. station, and 6&#189; E S E of Derby; and has a post-office under Derby. The parish contains also the village of Great Wilne, and comprises 1, 580 acres. Real property, &#163;3, 848. Pop. in 1851, 1, 121; in 1861, 945, of whom 136 were in the workhouse. Houses, 191. The property is subdivided. S. Hall is the seat of J. Sutton, Esq. Cavendish Bridgeover the Trent, near the village, was built in 1771, at a cost of &#163;3, 333. The Trent and Mersey canal joins the Trent about &#189; a mile below the village, and has here timber and coal wharves. The living is a rectory in the diocese of Lichfield. Value, &#163;300.* Patron, J. Sutton, Esq. The church is good, and has a pinnacled tower. There are chapels for Wesleyans and New Connexion Methodists, and a parochial school.&#151;The sub-district contains six parishes and parts of three others. Acres, 11, 586. Pop., 4, 454. Houses, 959. The district comprehends also the sub-districts of Spondon, Stapleford, Melbourne, and Castle-Donington. Acres, 73, 290. Poor-rates in 1863, &#163;13, 221. Pop. in 1851, 32, 322; in 1861, 31, 113. Houses, 7,006. Marriages in 1863, 191; births, 1,030, of which 91 were illegitimate; deaths, 612, of which 197 were at ages under 5 years, and 24 at ages above 85. Marriages in the ten years 1851-60, 2,060; births, 10, 118; deaths, 6, 443. The places of worship, in 1851, were 44 of the Church of England, with 10, 966 sittings; 6 of Independents, with 1, 173 s.; 10 of Baptists, with 2, 371 s.; 1 of Quakers, with 200 s.; 31 of Wesleyans, with 4, 997 s.; 6 of New Connexion Methodists, with 1, 421 s.; 15 of Primitive Methodists, with 1, 289s.; 4 of Wesleyan Reformers, with 435 s.; 1 of Moravians, with 227 s.; and 1 of the New Church, with 110s. The schools were 43 public day schools, with 3, 132 scholars; 70 private day schools, with 1, 595 s.; 84 Sunday schools, with 6, 580 s.; and 5 evening schools for adults, with 95 s. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Shardlow</link>
+<link>http://www.workhouses.org.uk/Shardlow</link>
+<link>http://www.geonames.org/2638127</link>
+<link>http://www.genuki.org.uk/big/eng/DBY/Shardlow/index.html</link>
+</links>
+<unit>
+   <id>10005097</id>
+   <status>RSD</status>
+   <name>SHARDLOW</name>
+</unit>
+<unit>
+   <id>10022113</id>
+   <status>EP</status>
+   <name>SHARDLOW</name>
+</unit>
+<unit>
+   <id>10042823</id>
+   <status>RD</status>
+   <name>SHARDLOW</name>
+</unit>
+<unit>
+   <id>10131674</id>
+   <status>CP/Tn</status>
+   <name>SHARDLOW AND GREAT WILNE</name>
+</unit>
+<unit>
+   <id>10220786</id>
+   <status>RegD/PLU</status>
+   <name>SHARDLOW</name>
+</unit>
+<unit>
+   <id>10544737</id>
+   <status></status>
+   <name>SHARDLOW</name>
+</unit>
+<unit>
+   <id>12751631</id>
+   <status>PDivCon</status>
+   <name>DERBYSHIRE SOUTHERN</name>
+</unit>
+<unit>
+   <id>12757815</id>
+   <status>PDivCon</status>
+   <name>DERBYSHIRE SOUTHERN</name>
+</unit>
+</place>
+<place>
+<id>258</id>
+<name>BOLSOVER</name>
+<container>DERBYSHIRE</container>
+<lat>53.2425615448936</lat>
+<lon>-1.28296516872203</lon>
+<gazetteerText>Bolsover.-- par., township, and town, E. Derbyshire, 6 miles E. of Chesterfield ry. sta.-- par., 6060 ac., pop. 2375; township, 5340 ac., pop. 2281; P.O., T.O. In the par. are quarries of magnesian limestone, from which the Houses of Parliament were built. Bolsover Castle is a seat of the Duke of Portland. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Bolsover</link>
+<link>http://www.genuki.org.uk/big/eng/DBY/Bolsover/index.html</link>
+<link>http://www.geonames.org/2655242</link>
+</links>
+<unit>
+   <id>10027627</id>
+   <status>UD</status>
+   <name>BOLSOVER</name>
+</unit>
+<unit>
+   <id>10032880</id>
+   <status></status>
+   <name>BOLSOVER</name>
+</unit>
+<unit>
+   <id>10126678</id>
+   <status>EP</status>
+   <name>BOLSOVER</name>
+</unit>
+<unit>
+   <id>10144188</id>
+   <status>USD</status>
+   <name>BOLSOVER</name>
+</unit>
+<unit>
+   <id>10217611</id>
+   <status>CP/AP</status>
+   <name>BOLSOVER</name>
+</unit>
+<unit>
+   <id>10544804</id>
+   <status></status>
+   <name>BOLSOVER</name>
+</unit>
+<unit>
+   <id>10570025</id>
+   <status></status>
+   <name>BOLSOVER</name>
+</unit>
+<unit>
+   <id>10570037</id>
+   <status></status>
+   <name>BOLSOVER</name>
+</unit>
+<unit>
+   <id>12744973</id>
+   <status>CCon</status>
+   <name>BOLSOVER</name>
+</unit>
+<unit>
+   <id>12751047</id>
+   <status>PDivCon</status>
+   <name>DERBYSHIRE NORTH EASTERN</name>
+</unit>
+<unit>
+   <id>12832199</id>
+   <status></status>
+   <name>BOLSOVER</name>
+</unit>
+<nearByPlace>
+   <id>1826</id>
+   <name>SCARCLIFFE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4147</id>
+   <name>SUTTON SCARSDALE</name>
+</nearByPlace>
+</place>
+<place>
+<id>4039</id>
+<name>DERBY HILLS</name>
+<container>DERBYSHIRE</container>
+<lat>52.8101312250546</lat>
+<lon>-1.4525790646795</lon>
+<gazetteerText>DERBY-HILLS, an extra-parochial liberty in Shardlow district, Derbyshire; 9 miles S of Derby. Acres, 270. Real property, &#163;483. Pop., 37. Houses, 9. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/DBY/DerbyHills/index.html</link>
+</links>
+<unit>
+   <id>10127130</id>
+   <status>ParLib/CP/ExP</status>
+   <name>DERBY HILLS</name>
+</unit>
+</place>
+<place>
+<id>132</id>
+<name>BELPER</name>
+<container>DERBYSHIRE</container>
+<lat>53.0255510614516</lat>
+<lon>-1.47770036435242</lon>
+<gazetteerText>Belper, township and market town with ry. sta., Duffield par., on river Derwent, in S. of co. and 7 miles N. of Derby -- township, 3185 ac., pop. 9875; P.O., T.O., 2 Banks. Market-day, Saturday. Has cotton and hosiery mfrs. chiefly; also nails and earthenware; numerous collieries are in the vicinity. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.workhouses.org.uk/Belper</link>
+<link>http://www.geonames.org/2655942</link>
+<link>http://en.wikipedia.org/wiki/Belper</link>
+<link>http://www.genuki.org.uk/big/eng/DBY/Belper/index.html</link>
+</links>
+<unit>
+   <id>10023749</id>
+   <status>UD</status>
+   <name>BELPER</name>
+</unit>
+<unit>
+   <id>10048114</id>
+   <status>EP</status>
+   <name>BELPER</name>
+</unit>
+<unit>
+   <id>10074680</id>
+   <status>RD</status>
+   <name>BELPER</name>
+</unit>
+<unit>
+   <id>10075452</id>
+   <status>RegD/PLU</status>
+   <name>BELPER</name>
+</unit>
+<unit>
+   <id>10109840</id>
+   <status>USD</status>
+   <name>BELPER</name>
+</unit>
+<unit>
+   <id>10178678</id>
+   <status>CP/Ch</status>
+   <name>BELPER</name>
+</unit>
+<unit>
+   <id>10187461</id>
+   <status>RSD</status>
+   <name>BELPER</name>
+</unit>
+<unit>
+   <id>10544610</id>
+   <status></status>
+   <name>BELPER</name>
+</unit>
+<unit>
+   <id>12736666</id>
+   <status>PDivCon</status>
+   <name>DERBYSHIRE BELPER</name>
+</unit>
+<unit>
+   <id>12745539</id>
+   <status>PDivCon</status>
+   <name>DERBYSHIRE MID</name>
+</unit>
+<unit>
+   <id>12752921</id>
+   <status>CCon</status>
+   <name>BELPER</name>
+</unit>
+<unit>
+   <id>12833921</id>
+   <status></status>
+   <name>BELPER</name>
+</unit>
+<nearByPlace>
+   <id>17344</id>
+   <name>AMBER VALLEY</name>
+</nearByPlace>
+</place>
+<place>
+<id>17217</id>
+<name>HIGH PEAK</name>
+<container>DERBYSHIRE</container>
+<lat>53.3723125915975</lat>
+<lon>-1.87261545158194</lon>
+<gazetteerText>HIGH PEAK, a hundred in Derbyshire; bounded by Cheshire, Yorkshire, Scarsdale, and Wirksworth; containing six parishes; and cut into the two divisions of High Peak and Bakewell. Acres of the H. P. div., 128, 371; of the B. div., 81, 146. Pop. in 1851, of the H. P. div., 41, 066; of the B. div., 00, 547. Pop., in 1861, of both, 66, 397. Houses, 13, 154. The surface is partly mountainous, and includes a vast aggregate of picturesque and romantic scenery. See Castleton, Chapel-en-le-Frith, Bakewell, &apos; (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/8299617</link>
+</links>
+<unit>
+   <id>10031000</id>
+   <status>Hundred</status>
+   <name>HIGH PEAK</name>
+</unit>
+<unit>
+   <id>10168612</id>
+   <status></status>
+   <name>HIGH PEAK</name>
+</unit>
+<unit>
+   <id>10574973</id>
+   <status></status>
+   <name>HIGH PEAK</name>
+</unit>
+<unit>
+   <id>12737464</id>
+   <status>CCon</status>
+   <name>HIGH PEAK</name>
+</unit>
+<unit>
+   <id>12739023</id>
+   <status>PDivCon</status>
+   <name>DERBYSHIRE HIGH PEAK</name>
+</unit>
+</place>
+<place>
+<id>17280</id>
+<name>NORTH EAST DERBYSHIRE</name>
+<container>DERBYSHIRE</container>
+<lat>53.2261332235399</lat>
+<lon>-1.44751733962184</lon>
+<links>
+<link>http://www.geonames.org/2641373</link>
+</links>
+<unit>
+   <id>10084775</id>
+   <status></status>
+   <name>NORTH EAST DERBYSHIRE</name>
+</unit>
+<unit>
+   <id>12737476</id>
+   <status>CCon</status>
+   <name>NORTH EAST DERBYSHIRE</name>
+</unit>
+</place>
+<place>
+<id>324</id>
+<name>WIRKSWORTH</name>
+<container>DERBYSHIRE</container>
+<lat>53.0848266958706</lat>
+<lon>-1.5681028147195</lon>
+<gazetteerText>WIRKSWORTH, a town, a township, a parish, a sub-district, and a hundred, in Derbyshire. The town stands in a valley, nearly surrounded by hills, at the terminus of a branch of the Midland railway, and at the southern extremity of a mining region, 13&#190; miles NNW of Derby; was known to the Saxous as Werchesvorde; belonged, before the Norman conquest, to Repton abbey; passed, through the Ferrerses and other s, to the Duchy of Lancaster; is a seat of petty-sessions and county courts, and a polling place; carries on malting, and the manufacture of silk, gingham, and tape; engages largely in the working of neighbouring lead mines; publishes a weekly newspaper; and has a head post-office,&#8225; a r. station, a banking office, two hotels, a police station, a moot-hall of 1814, a temperance hall, a church of the 13th century, with chancel restored in 1855, and with a tower and spire, four dis senting chapels, a mechanics&apos; institution, an endowed grammar-school rebuilt in 1828, with &#163;180 a year, alms houses with &#163;55 a year, other charities &#163;186, a weekly market on Tuesday, and five annual fairs. Pop. in 1861, 2,592. houses, 637.-The township comprises 8,497 acres. Real property, &#163;18,615; of which &#163;5,142 are in mines, &#163;1,346 in quarries, and &#163;148 in gasworks. Pop. in 1851, 3,923; in 1861, 3,717. Houses, 900.&#151;The parish contains four townships in Belper district, five in Ashborne district, and two in Bakewell district; and comprises 14,154 acres. Pop. in 1851, 7,498: in 1861, 7,098. Houses, 1,623. The living is a vicarage in the diocese of Lichfield. Value, &#163;300.* Patron, the Bishop of L. The vicarages of Middleton and Idridgehay, and the p. curacy of Cromford, are separate benefices.&#151;The sub-district contains the four W. townships of Belper district, and two townships and a chapelry of other parishes. Acres, 14,348. Pop., 6,072. Houses, 1,388.-The hundred contains 13 parishes and 6 parts. Acres, 72,177. Pop. in 1851, 22,503; in 1861, 23,901. Houses, 5,242. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Wirksworth</link>
+<link>http://www.genuki.org.uk/big/eng/DBY/Wirksworth/index.html</link>
+<link>http://www.geonames.org/2633774</link>
+</links>
+<unit>
+   <id>10029351</id>
+   <status>USD</status>
+   <name>WIRKSWORTH</name>
+</unit>
+<unit>
+   <id>10042835</id>
+   <status>UD</status>
+   <name>WIRKSWORTH</name>
+</unit>
+<unit>
+   <id>10053810</id>
+   <status>EP</status>
+   <name>WIRKSWORTH</name>
+</unit>
+<unit>
+   <id>10112230</id>
+   <status>Hundred</status>
+   <name>WIRKSWORTH</name>
+</unit>
+<unit>
+   <id>10185622</id>
+   <status>Borough</status>
+   <name>WIRKSWORTH</name>
+</unit>
+<unit>
+   <id>10218500</id>
+   <status>CP/AP</status>
+   <name>WIRKSWORTH</name>
+</unit>
+<unit>
+   <id>10544660</id>
+   <status></status>
+   <name>WIRKSWORTH</name>
+</unit>
+<unit>
+   <id>10582751</id>
+   <status></status>
+   <name>WIRKSWORTH</name>
+</unit>
+<unit>
+   <id>12742204</id>
+   <status>PDivCon</status>
+   <name>DERBYSHIRE WESTERN</name>
+</unit>
+<nearByPlace>
+   <id>5877</id>
+   <name>ASHLEYHAY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4068</id>
+   <name>KIRK IRETON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5199</id>
+   <name>BRASSINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2998</id>
+   <name>CARSINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1758</id>
+   <name>CROMFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3429</id>
+   <name>MIDDLETON BY WIRKSWORTH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>669</id>
+   <name>BONSALL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2365</id>
+   <name>HOGNASTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1588</id>
+   <name>ALDERWASLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1776</id>
+   <name>IDRIDGEHAY</name>
+</nearByPlace>
+</place>
+<place>
+<id>809</id>
+<name>ILKESTON</name>
+<container>DERBYSHIRE</container>
+<lat>52.9719399837736</lat>
+<lon>-1.30685288583975</lon>
+<gazetteerText>ILKESTON, a town and a parish in Derbyshire, a sub-district partly also in Notts, and all in the district of Basford. The town stands on a hill, at the terminus of a short branch of the Erewash Valley railway, near the Erewash canal, the Erewash river, and the boundary with Notts, 9 miles NE by E of Derby. It was anciently called Elchestane; it obtained a grant for a market and a fair in 1251; it was once, in the time of a plague, the place of the Notts assizes; it possesses freedom from toll in Derby and Nottingham, on the strange condition of keeping a gallows; and it has lately risen into note as a watering place, in connexion with the discovery of a mineral spring. The water of this spring is said to differ from that of every other spa in England, and to resemble that of Seltzer in Germany; and it is used as well for bathing as for drinking. Baths were erected in 1830, and enlarged in 1832; and they stand contiguous to a well appointed hotel. The town has a post office&#8225; under Nottingham, a railway station, gas works, water works, a church, five dissenting chapels, a Roman Catholic chapel, a town hall of 1 866, and several public schools; and publishes a newspaper. The church comprises nave, aisles, chancel, and chantry-chapel, with lofty pinnac1ed tower; and contains a stone screen in the decorated style, and an interesting ancient monument. A weekly market is held on Thursday; fairs are held on 5 March, WhitThursday, the last Thursday of Oct., and the Thursday after Christmas; and the manufacture of hosiery and lace is extensively carried on. Pop. in 1861, 3, 330. Houses, 709. The parish contains also the hamlets of Cotmanhay and Little Hallam. Acres, 2, 290. Real property, &#163;16, 195; of which &#163;1, 500 are in mines. Pop. in 1851, 6, 122; in 1861, 8, 374. Houses, 1, 749. The increase of pop. arose chiefly from the extension of mining, and the operations of a building society. The property is much subdivided. The manor belongs to the Duke of Rutland. Coal and iron stone abound; and lime is calcined. The Erewash canal goes across the parish, and has here, on its banks, manufactories of varions kinds of bricks, stoneware, and common earthen ware. The Nutbrook canal also passes on the W; and the Ilkeston Junction r. station is on the E. The living is a vicarage in the diocese of Lichfield. Value, &#163;290.* Patron, the Duke of Rutland. The vicarage of Cotmanhay is a separate benefice.&#151;The sub-district contains a1so Heanor and Shipley townships in Derbyshire, and two parishes in Notts. Pop. in 1851, 10, 909; in 1861, 13, 745. Houses, 2, 834. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Ilkeston</link>
+<link>http://www.genuki.org.uk/big/eng/DBY/Ilkeston/index.html</link>
+<link>http://www.geonames.org/2646274</link>
+</links>
+<unit>
+   <id>10052014</id>
+   <status>EP</status>
+   <name>ILKESTON HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10111444</id>
+   <status>USD</status>
+   <name>ILKESTON</name>
+</unit>
+<unit>
+   <id>10137202</id>
+   <status>MB</status>
+   <name>ILKESTON</name>
+</unit>
+<unit>
+   <id>10163730</id>
+   <status>AP/CP</status>
+   <name>ILKESTON</name>
+</unit>
+<unit>
+   <id>10163742</id>
+   <status>EP</status>
+   <name>ILKESTON ST JOHN</name>
+</unit>
+<unit>
+   <id>10182657</id>
+   <status>EP</status>
+   <name>ILKESTON</name>
+</unit>
+<unit>
+   <id>10553611</id>
+   <status></status>
+   <name>ILKESTON</name>
+</unit>
+<unit>
+   <id>10575461</id>
+   <status></status>
+   <name>ILKESTON</name>
+</unit>
+<unit>
+   <id>12742915</id>
+   <status>CCon</status>
+   <name>ILKESTON</name>
+</unit>
+<unit>
+   <id>12750833</id>
+   <status>PDivCon</status>
+   <name>DERBYSHIRE ILKESTON</name>
+</unit>
+<unit>
+   <id>12829243</id>
+   <status></status>
+   <name>ILKESTON</name>
+</unit>
+<nearByPlace>
+   <id>3393</id>
+   <name>STANTON BY DALE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4138</id>
+   <name>SHIPLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7234</id>
+   <name>AWSWORTH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7347</id>
+   <name>COSSALL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7801</id>
+   <name>TROWELL</name>
+</nearByPlace>
+</place>
+<place>
+<id>17226</id>
+<name>SOUTH DERBYSHIRE</name>
+<container>DERBYSHIRE</container>
+<lat>52.8314287848515</lat>
+<lon>-1.55868703805682</lon>
+<unit>
+   <id>10217702</id>
+   <status></status>
+   <name>SOUTH DERBYSHIRE</name>
+</unit>
+<unit>
+   <id>12755168</id>
+   <status>PDivCon</status>
+   <name>DERBYSHIRE SOUTH DERBYSHIRE</name>
+</unit>
+</place>
+</results>

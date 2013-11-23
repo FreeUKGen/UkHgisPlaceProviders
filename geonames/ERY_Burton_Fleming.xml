@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Burton Fleming</toponymName>
+<name>Burton Fleming</name>
+<lat>54.13304</lat>
+<lng>-0.34015</lng>
+<geonameId>7298433</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB028</adminCode3>
+<adminName3>Burton Fleming</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.37646</west>
+<north>54.15417</north>
+<east>-0.30384</east>
+<south>54.11192</south>
+</bbox>
+<score>91.56491088867188</score>
+</geoname>
+<geoname>
+<toponymName>North Burton</toponymName>
+<name>North Burton</name>
+<lat>54.13559</lat>
+<lng>-0.34092</lng>
+<geonameId>2641410</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Burton Fleming,North Burton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burton_Fleming</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.35627</west>
+<north>54.14458</north>
+<east>-0.32557</east>
+<south>54.1266</south>
+</bbox>
+<score>59.898582458496094</score>
+</geoname>
+</geonames>

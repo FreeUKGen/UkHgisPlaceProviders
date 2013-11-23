@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Foremark</toponymName>
+<name>Foremark</name>
+<lat>52.82708</lat>
+<lng>-1.50564</lng>
+<geonameId>7300217</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UK</adminCode3>
+<adminName3>South Derbyshire District</adminName3>
+<adminCode4>17UK020</adminCode4>
+<adminName4>Foremark</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Foremark</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.51609</west>
+<north>52.84916</north>
+<east>-1.49519</east>
+<south>52.80499</south>
+</bbox>
+<score>59.90331268310547</score>
+</geoname>
+</geonames>

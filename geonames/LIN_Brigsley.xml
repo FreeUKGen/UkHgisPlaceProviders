@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Brigsley</toponymName>
+<name>Brigsley</name>
+<lat>53.4984</lat>
+<lng>-0.10008</lng>
+<geonameId>7298804</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC006</adminCode3>
+<adminName3>Brigsley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.12682</west>
+<north>53.50906</north>
+<east>-0.07334</east>
+<south>53.48774</south>
+</bbox>
+<score>109.79190063476562</score>
+</geoname>
+<geoname>
+<toponymName>Brigsley</toponymName>
+<name>Brigsley</name>
+<lat>53.5009</lat>
+<lng>-0.11026</lng>
+<geonameId>2654704</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Brigsley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC006</adminCode3>
+<adminName3>Brigsley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brigsley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.12538</west>
+<north>53.50989</north>
+<east>-0.09514</east>
+<south>53.4919</south>
+</bbox>
+<score>104.04808044433594</score>
+</geoname>
+</geonames>

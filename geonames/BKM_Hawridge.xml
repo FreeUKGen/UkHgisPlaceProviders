@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Hawridge</toponymName>
+<name>Hawridge</name>
+<lat>51.74635</lat>
+<lng>-0.62818</lng>
+<geonameId>2647277</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UC</adminCode3>
+<adminName3>Chiltern District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hawridge</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.64271</west>
+<north>51.75535</north>
+<east>-0.61365</east>
+<south>51.73736</south>
+</bbox>
+<score>88.67794799804688</score>
+</geoname>
+</geonames>

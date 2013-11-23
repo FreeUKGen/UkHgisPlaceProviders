@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Trentishoe</toponymName>
+<name>Trentishoe</name>
+<lat>51.22006</lat>
+<lng>-3.93937</lng>
+<geonameId>2635499</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Trentishoe</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UE</adminCode3>
+<adminName3>North Devon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Trentishoe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.95373</west>
+<north>51.22905</north>
+<east>-3.92501</east>
+<south>51.21106</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+<geoname>
+<toponymName>Trentishoe</toponymName>
+<name>Trentishoe</name>
+<lat>51.20793</lat>
+<lng>-3.94958</lng>
+<geonameId>7298358</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UE</adminCode3>
+<adminName3>North Devon District</adminName3>
+<adminCode4>18UE057</adminCode4>
+<adminName4>Trentishoe</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.97194</west>
+<north>51.23018</north>
+<east>-3.92723</east>
+<south>51.18567</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

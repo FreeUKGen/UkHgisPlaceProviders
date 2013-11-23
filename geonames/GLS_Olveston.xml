@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Olveston</toponymName>
+<name>Olveston</name>
+<lat>51.57708</lat>
+<lng>-2.58432</lng>
+<geonameId>7299110</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M6</adminCode2>
+<adminName2>South Gloucestershire</adminName2>
+<adminCode3>00HD027</adminCode3>
+<adminName3>Olveston</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.63817</west>
+<north>51.59394</north>
+<east>-2.53047</east>
+<south>51.56023</south>
+</bbox>
+<score>107.79660034179688</score>
+</geoname>
+<geoname>
+<toponymName>Olveston</toponymName>
+<name>Olveston</name>
+<lat>51.58032</lat>
+<lng>-2.5775</lng>
+<geonameId>2640969</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Olveston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M6</adminCode2>
+<adminName2>South Gloucestershire</adminName2>
+<adminCode3>00HD027</adminCode3>
+<adminName3>Olveston</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Olveston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.59198</west>
+<north>51.58931</north>
+<east>-2.56303</east>
+<south>51.57133</south>
+</bbox>
+<score>102.28375244140625</score>
+</geoname>
+</geonames>

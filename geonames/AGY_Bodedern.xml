@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bodedern</toponymName>
+<name>Bodedern</name>
+<lat>53.29232</lat>
+<lng>-4.50303</lng>
+<geonameId>2655284</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bodedera,Bodedern</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA004</adminCode3>
+<adminName3>Bodedern</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.51808</west>
+<north>53.30131</north>
+<east>-4.48798</east>
+<south>53.28333</south>
+</bbox>
+<score>86.95616149902344</score>
+</geoname>
+<geoname>
+<toponymName>Bodedern</toponymName>
+<name>Bodedern</name>
+<lat>53.29325</lat>
+<lng>-4.49044</lng>
+<geonameId>7292365</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA004</adminCode3>
+<adminName3>Bodedern</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bodedern</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.52942</west>
+<north>53.31961</north>
+<east>-4.45145</east>
+<south>53.26688</south>
+</bbox>
+<score>76.45002746582031</score>
+</geoname>
+</geonames>

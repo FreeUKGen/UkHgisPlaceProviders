@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ketteringham</toponymName>
+<name>Ketteringham</name>
+<lat>52.56667</lat>
+<lng>-1.18333</lng>
+<geonameId>2645752</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UB</adminCode3>
+<adminName3>Blaby</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.19813</west>
+<north>52.57566</north>
+<east>-1.16853</east>
+<south>52.55767</south>
+</bbox>
+<score>66.00886535644531</score>
+</geoname>
+<geoname>
+<toponymName>Ketteringham</toponymName>
+<name>Ketteringham</name>
+<lat>52.58348</lat>
+<lng>1.19522</lng>
+<geonameId>7299033</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH059</adminCode4>
+<adminName4>Ketteringham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ketteringham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.15702</west>
+<north>52.60325</north>
+<east>1.23343</east>
+<south>52.56372</south>
+</bbox>
+<score>60.419189453125</score>
+</geoname>
+</geonames>

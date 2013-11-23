@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Sneinton</toponymName>
+<name>Sneinton</name>
+<lat>52.95159</lat>
+<lng>-1.1315</lng>
+<geonameId>2637585</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Sneinton,Sneinton Elements,Snenton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J8</adminCode2>
+<adminName2>Nottingham</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>GB.ENG.J8.37UJ</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sneinton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.13747</west>
+<north>52.95518</north>
+<east>-1.12553</east>
+<south>52.94799</south>
+</bbox>
+<score>79.81065368652344</score>
+</geoname>
+</geonames>

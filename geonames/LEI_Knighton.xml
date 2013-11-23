@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Knighton</toponymName>
+<name>Knighton</name>
+<lat>52.33759</lat>
+<lng>-3.02922</lng>
+<geonameId>7292188</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN038</adminCode3>
+<adminName3>Knighton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.10386</west>
+<north>52.36</north>
+<east>-2.95459</east>
+<south>52.31517</south>
+</bbox>
+<score>105.41062927246094</score>
+</geoname>
+<geoname>
+<toponymName>Knighton</toponymName>
+<name>Knighton</name>
+<lat>52.35</lat>
+<lng>-3.05</lng>
+<geonameId>2645155</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2773</population>
+<alternateNames>Knighton,Trefyclo</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<alternateName lang="cy">Trefyclo</alternateName>
+<alternateName lang="en">Knighton</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Knighton,_Powys</alternateName>
+<alternateName lang="post">LD7</alternateName>
+<alternateName lang="unlc">KON</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.06041</west>
+<north>52.35636</north>
+<east>-3.03959</east>
+<south>52.34364</south>
+</bbox>
+<score>75.80560302734375</score>
+</geoname>
+</geonames>

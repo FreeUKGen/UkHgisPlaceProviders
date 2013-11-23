@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Warmington</toponymName>
+<name>Warmington</name>
+<lat>52.50684</lat>
+<lng>-0.41083</lng>
+<geonameId>2634756</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Warmington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Warmington%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.42561</west>
+<north>52.51584</north>
+<east>-0.39605</east>
+<south>52.49785</south>
+</bbox>
+<score>86.75494384765625</score>
+</geoname>
+<geoname>
+<toponymName>Warmington</toponymName>
+<name>Warmington</name>
+<lat>52.12537</lat>
+<lng>-1.40372</lng>
+<geonameId>2634757</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Warmington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Warmington%2C_Warwickshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.41837</west>
+<north>52.13437</north>
+<east>-1.38907</east>
+<south>52.11638</south>
+</bbox>
+<score>86.75494384765625</score>
+</geoname>
+<geoname>
+<toponymName>Warmington</toponymName>
+<name>Warmington</name>
+<lat>52.50286</lat>
+<lng>-0.40399</lng>
+<geonameId>7295731</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<adminCode4>34UD052</adminCode4>
+<adminName4>Warmington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.45578</west>
+<north>52.52473</north>
+<east>-0.35219</east>
+<south>52.48099</south>
+</bbox>
+<score>69.39726257324219</score>
+</geoname>
+<geoname>
+<toponymName>Warmington</toponymName>
+<name>Warmington</name>
+<lat>52.12735</lat>
+<lng>-1.41542</lng>
+<geonameId>7297431</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<adminCode4>44UE101</adminCode4>
+<adminName4>Warmington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.446</west>
+<north>52.14417</north>
+<east>-1.38484</east>
+<south>52.11053</south>
+</bbox>
+<score>69.39726257324219</score>
+</geoname>
+</geonames>

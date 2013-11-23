@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Godstone</toponymName>
+<name>Godstone</name>
+<lat>51.24843</lat>
+<lng>-0.06781</lng>
+<geonameId>2648363</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2498</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UK</adminCode3>
+<adminName3>Tandridge District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Godstone</alternateName>
+<alternateName lang="unlc">GDS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.07797</west>
+<north>51.25479</north>
+<east>-0.05765</east>
+<south>51.24207</south>
+</bbox>
+<score>98.28959655761719</score>
+</geoname>
+<geoname>
+<toponymName>Godstone</toponymName>
+<name>Godstone</name>
+<lat>51.22189</lat>
+<lng>-0.05446</lng>
+<geonameId>7292634</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UK</adminCode3>
+<adminName3>Tandridge District</adminName3>
+<adminCode4>43UK006</adminCode4>
+<adminName4>Godstone</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.07477</west>
+<north>51.2664</north>
+<east>-0.03414</east>
+<south>51.17737</south>
+</bbox>
+<score>79.2323226928711</score>
+</geoname>
+</geonames>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Stoke St. Gregory</toponymName>
+<name>Stoke St. Gregory</name>
+<lat>51.03962</lat>
+<lng>-2.92167</lng>
+<geonameId>7301253</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<adminCode4>40UE038</adminCode4>
+<adminName4>Stoke St. Gregory</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.9595</west>
+<north>51.0543</north>
+<east>-2.88384</east>
+<south>51.02494</south>
+</bbox>
+<score>71.02571105957031</score>
+</geoname>
+</geonames>

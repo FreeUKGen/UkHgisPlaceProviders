@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Llanfihangel</toponymName>
+<name>Llanfihangel</name>
+<lat>52.72481</lat>
+<lng>-3.37941</lng>
+<geonameId>7301013</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN055</adminCode3>
+<adminName3>Llanfihangel</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.46042</west>
+<north>52.77189</north>
+<east>-3.2984</east>
+<south>52.67773</south>
+</bbox>
+<score>95.34981536865234</score>
+</geoname>
+<geoname>
+<toponymName>Llanfihangel-nant-Melan</toponymName>
+<name>Llanfihangel-nant-Melan</name>
+<lat>52.21545</lat>
+<lng>-3.20017</lng>
+<geonameId>2644065</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanfihangel,Llanfihangel-nant-Melan</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN088</adminCode3>
+<adminName3>New Radnor</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanfihangel_Nant_Melan</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.21485</west>
+<north>52.22445</north>
+<east>-3.18549</east>
+<south>52.20646</south>
+</bbox>
+<score>57.66565704345703</score>
+</geoname>
+<geoname>
+<toponymName>Llanfihangel Bachellaeth</toponymName>
+<name>Llanfihangel Bachellaeth</name>
+<lat>52.88333</lat>
+<lng>-4.51667</lng>
+<geonameId>2644070</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanfihangel,Llanfihangel Bachellaeth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanfihangel_Bachellaeth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.53157</west>
+<north>52.89233</north>
+<east>-4.50176</east>
+<south>52.87434</south>
+</bbox>
+<score>57.117225646972656</score>
+</geoname>
+<geoname>
+<toponymName>Llanfihangel-yng-Ngwynfa</toponymName>
+<name>Llanfihangel-yng-Ngwynfa</name>
+<lat>52.73333</lat>
+<lng>-3.36667</lng>
+<geonameId>2644060</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanfihangel,Llanfihangel-yng-Ngwynfa</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.38152</west>
+<north>52.74233</north>
+<east>-3.35181</east>
+<south>52.72434</south>
+</bbox>
+<score>44.90226745605469</score>
+</geoname>
+<geoname>
+<toponymName>Llanfihangel Rogiet</toponymName>
+<name>Llanfihangel Rogiet</name>
+<lat>51.58306</lat>
+<lng>-2.81</lng>
+<geonameId>2643922</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanfihangel Rogiet,Llanvihangel,Llanvihangel near Roggiett</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.82448</west>
+<north>51.59205</north>
+<east>-2.79552</east>
+<south>51.57406</south>
+</bbox>
+<score>41.795318603515625</score>
+</geoname>
+<geoname>
+<toponymName>Llanfihangel-ty’n-Sylwy</toponymName>
+<name>Llanfihangel-ty’n-Sylwy</name>
+<lat>53.3</lat>
+<lng>-4.13333</lng>
+<geonameId>2644062</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanfihangel,Llanfihangel-ty'n-Sylwy,Llanfihangel-ty’n-Sylwy</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.14839</west>
+<north>53.30899</north>
+<east>-4.11828</east>
+<south>53.29101</south>
+</bbox>
+<score>37.95313262939453</score>
+</geoname>
+<geoname>
+<toponymName>Llanfihangel-geneu’r-glyn</toponymName>
+<name>Llanfihangel-geneu’r-glyn</name>
+<lat>52.46667</lat>
+<lng>-4.01667</lng>
+<geonameId>2644068</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanfihangel,Llanfihangel-geneu'r-glyn,Llanfihangel-geneu’r-glyn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.03143</west>
+<north>52.47566</north>
+<east>-4.0019</east>
+<south>52.45767</south>
+</bbox>
+<score>37.95313262939453</score>
+</geoname>
+</geonames>

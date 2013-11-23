@@ -1,0 +1,94 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>11851</id>
+<name>CAISTOR</name>
+<container>LINCOLNSHIRE</container>
+<lat>53.5027322838084</lat>
+<lon>-0.334325434758401</lon>
+<gazetteerText>Caistor.-- town, par., and township, N. Lincolnshire, 3 miles E. of Moortown ry. sta. and 7&#189; miles SE. of Brigg -- par., 6490 ac., pop. 2090; town, pop. 1867; P.O., T.O., 2 Banks. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LIN/Caistor/</link>
+<link>http://en.wikipedia.org/wiki/Caistor</link>
+<link>http://www.geonames.org/2654043</link>
+<link>http://www.workhouses.org.uk/Caistor</link>
+</links>
+<unit>
+   <id>10027111</id>
+   <status>RD</status>
+   <name>CAISTOR</name>
+</unit>
+<unit>
+   <id>10134134</id>
+   <status>Borough</status>
+   <name>CAISTOR</name>
+</unit>
+<unit>
+   <id>10138700</id>
+   <status>RSD</status>
+   <name>CAISTOR</name>
+</unit>
+<unit>
+   <id>10220798</id>
+   <status>RegD/PLU</status>
+   <name>CAISTOR</name>
+</unit>
+<unit>
+   <id>10405919</id>
+   <status>Tn/AP/CP</status>
+   <name>CAISTOR</name>
+</unit>
+<unit>
+   <id>10405993</id>
+   <status>EP</status>
+   <name>CAISTOR WITH HOLTON LE MOOR AND CLIXBY</name>
+</unit>
+<unit>
+   <id>10547738</id>
+   <status></status>
+   <name>CAISTOR</name>
+</unit>
+<unit>
+   <id>10560342</id>
+   <status>PLU/RegD</status>
+   <name>CAISTOR</name>
+</unit>
+<unit>
+   <id>10570827</id>
+   <status></status>
+   <name>CAISTOR</name>
+</unit>
+<nearByPlace>
+   <id>11839</id>
+   <name>CABOURNE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11942</id>
+   <name>CLIXBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12344</id>
+   <name>GRASBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12625</id>
+   <name>HOLTON LE MOOR</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12673</id>
+   <name>IRBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12766</id>
+   <name>KIRMINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12804</id>
+   <name>GREAT LIMBER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13331</id>
+   <name>NETTLETON</name>
+</nearByPlace>
+</place>
+</results>

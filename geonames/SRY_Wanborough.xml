@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Wanborough</toponymName>
+<name>Wanborough</name>
+<lat>51.54369</lat>
+<lng>-1.68174</lng>
+<geonameId>7301449</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N9</adminCode2>
+<adminName2>Swindon</adminName2>
+<adminCode3>00HX014</adminCode3>
+<adminName3>Wanborough</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.72989</west>
+<north>51.58009</north>
+<east>-1.63358</east>
+<south>51.50729</south>
+</bbox>
+<score>98.04093170166016</score>
+</geoname>
+<geoname>
+<toponymName>Wanborough</toponymName>
+<name>Wanborough</name>
+<lat>51.54263</lat>
+<lng>-1.69837</lng>
+<geonameId>2634815</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>1631</population>
+<alternateNames>Wanborough</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N9</adminCode2>
+<adminName2>Swindon</adminName2>
+<adminCode3>00HX014</adminCode3>
+<adminName3>Wanborough</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wanborough%2C_Wiltshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.70561</west>
+<north>51.54712</north>
+<east>-1.69114</east>
+<south>51.53813</south>
+</bbox>
+<score>88.66970825195312</score>
+</geoname>
+<geoname>
+<toponymName>Wanborough</toponymName>
+<name>Wanborough</name>
+<lat>51.22778</lat>
+<lng>-0.67387</lng>
+<geonameId>7297349</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UD</adminCode3>
+<adminName3>Guildford District</adminName3>
+<adminCode4>43UD020</adminCode4>
+<adminName4>Wanborough</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.70857</west>
+<north>51.24344</north>
+<east>-0.63916</east>
+<south>51.21212</south>
+</bbox>
+<score>70.66416931152344</score>
+</geoname>
+<geoname>
+<toponymName>Wanborough</toponymName>
+<name>Wanborough</name>
+<lat>51.23183</lat>
+<lng>-0.66459</lng>
+<geonameId>7116381</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UD</adminCode3>
+<adminName3>Guildford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wanborough%2C_Surrey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.67033</west>
+<north>51.23543</north>
+<east>-0.65884</east>
+<south>51.22823</south>
+</bbox>
+<score>62.73683547973633</score>
+</geoname>
+</geonames>

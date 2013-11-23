@@ -1,0 +1,978 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>634</id>
+<name>STAFFORD</name>
+<container>STAFFORDSHIRE</container>
+<lat>52.8042337204941</lat>
+<lon>-2.11235841803915</lon>
+<gazetteerText>Stafford, parl. and mun. bor., par. and township, and county town of Staffordshire, on river Sow, 27 miles NW. of Birmingham and 134 NW. of London by rail - par. (Stafford Saints Mary and Chad), 8441 ac., pop. 17,032; township, 3653 ac., pop. 14,399; bor. (comprising Stafford township, part of Hopton and Coton township, Stafford par., and part of Castle Church par.), 1012ac., pop. 19,977; 3 Banks, 2 newspapers. Market-day, Saturday. Stafford grew up around a Saxon stronghold, which was replaced after the Conquest by a Norman castle. Fragments of the old walls still remain. The town is pleasantly situated, and is in general well built. Among the principal objects of interest are the two old churches of St Mary and St Chad, both recently restored; Edward&apos;s VI.&apos;s grammar school; the &quot;William Salt&quot; library; the county and town buildings, &amp;c. Stafford is an important rail-way centre. Its chief industrial establishments are breweries, tanneries, and several extensive factories for the mfr. of boots and shoes. Izaak Walton (1593-1683), the angler, was a native. Stafford gives the title of marquis to the Gowers, and of baron to the Jeninghams. It returns 1 member to Parliament; it returned 2 members from Edward I. until 1885, when its parliamentary limits were extended. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/STS/Stafford/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/STS/Stafford/StChad/index.html</link>
+<link>http://en.wikipedia.org/wiki/Stafford</link>
+<link>http://www.workhouses.org.uk/Stafford</link>
+<link>http://www.genuki.org.uk/big/eng/STS/Stafford/StMary/index.html</link>
+<link>http://www.geonames.org/2637142</link>
+</links>
+<unit>
+   <id>10023877</id>
+   <status>Borough</status>
+   <name>STAFFORD</name>
+</unit>
+<unit>
+   <id>10026933</id>
+   <status>RD</status>
+   <name>STAFFORD</name>
+</unit>
+<unit>
+   <id>10109073</id>
+   <status>MB</status>
+   <name>STAFFORD</name>
+</unit>
+<unit>
+   <id>10154534</id>
+   <status>USD</status>
+   <name>STAFFORD</name>
+</unit>
+<unit>
+   <id>10168648</id>
+   <status></status>
+   <name>STAFFORD</name>
+</unit>
+<unit>
+   <id>10174624</id>
+   <status>RegD/PLU</status>
+   <name>STAFFORD</name>
+</unit>
+<unit>
+   <id>10179129</id>
+   <status>RSD</status>
+   <name>STAFFORD</name>
+</unit>
+<unit>
+   <id>10276081</id>
+   <status>EP</status>
+   <name>STAFFORD ST THOMAS</name>
+</unit>
+<unit>
+   <id>10278119</id>
+   <status>EP</status>
+   <name>STAFFORD ST PAUL</name>
+</unit>
+<unit>
+   <id>10293388</id>
+   <status>CP</status>
+   <name>STAFFORD</name>
+</unit>
+<unit>
+   <id>10293455</id>
+   <status>EP</status>
+   <name>STAFFORD CHRIST CHURCH</name>
+</unit>
+<unit>
+   <id>10293480</id>
+   <status>EP</status>
+   <name>STAFFORD ST JOHN</name>
+</unit>
+<unit>
+   <id>10293492</id>
+   <status>AP</status>
+   <name>STAFFORD ST CHAD</name>
+</unit>
+<unit>
+   <id>10293546</id>
+   <status>EP</status>
+   <name>STAFFORD ST CHAD</name>
+</unit>
+<unit>
+   <id>10293558</id>
+   <status>AP/Tn/Ch</status>
+   <name>STAFFORD ST MARY</name>
+</unit>
+<unit>
+   <id>10293571</id>
+   <status>EP</status>
+   <name>STAFFORD ST MARY</name>
+</unit>
+<unit>
+   <id>10550221</id>
+   <status></status>
+   <name>STAFFORD</name>
+</unit>
+<unit>
+   <id>10567695</id>
+   <status></status>
+   <name>STAFFORD</name>
+</unit>
+<unit>
+   <id>10580444</id>
+   <status></status>
+   <name>STAFFORD</name>
+</unit>
+<unit>
+   <id>12741418</id>
+   <status>PDivCon</status>
+   <name>STAFFORDSHIRE STAFFORD</name>
+</unit>
+<unit>
+   <id>12741467</id>
+   <status>CCon</status>
+   <name>STAFFORD AND STONE</name>
+</unit>
+<unit>
+   <id>12744092</id>
+   <status>PBCon</status>
+   <name>STAFFORD</name>
+</unit>
+<unit>
+   <id>12756975</id>
+   <status>CCon</status>
+   <name>STAFFORD</name>
+</unit>
+<unit>
+   <id>12781349</id>
+   <status></status>
+   <name>STAFFORD</name>
+</unit>
+<unit>
+   <id>12832618</id>
+   <status></status>
+   <name>STAFFORD</name>
+</unit>
+<nearByPlace>
+   <id>630</id>
+   <name>NEWPORT</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7880</id>
+   <name>BASWICH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7914</id>
+   <name>BROCTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7989</id>
+   <name>CASTLE CHURCH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8001</id>
+   <name>CHURCH EATON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8094</id>
+   <name>GNOSALL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8183</id>
+   <name>HOPTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8383</id>
+   <name>LAPLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8506</id>
+   <name>SEIGHFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8571</id>
+   <name>TILLINGTON</name>
+</nearByPlace>
+</place>
+<place>
+<id>1016</id>
+<name>LEEK</name>
+<container>STAFFORDSHIRE</container>
+<lat>53.1027236513797</lat>
+<lon>-2.02610357526218</lon>
+<gazetteerText>Leek, market town and par., Staffordshire, 13&#189; miles SE. of Macclesfield and 152 milss from London by rail - par.,33,258 ac., pop. 17,210; town, 1460ac., pop. 12,863; 2 Banks, 1 newspaper. Market-day, Wednesday. Leek is a well-built town, beautifully situated on a height overlooking the river Churnet, and possessing a number of spacious streets. Its principal mfrs. are connected with the silk trade, and comprise sewing silk, buttons, twist, ribbons, handkerchiefs, &amp;c. There are also dye-works and agricultural implement works. A branch of the Trent and Mersey Canal is connected with the town. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Leek,_Staffordshire</link>
+<link>http://www.genuki.org.uk/big/eng/STS/LeekandLowe/index.html</link>
+<link>http://www.workhouses.org.uk/Leek</link>
+<link>http://www.geonames.org/2644684</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22911</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22914</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22910</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22915</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22912</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22916</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22917</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22919</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22920</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22922</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22913</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22918</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22921</link>
+</links>
+<unit>
+   <id>10028930</id>
+   <status>USD</status>
+   <name>LEEK</name>
+</unit>
+<unit>
+   <id>10042689</id>
+   <status>RD</status>
+   <name>LEEK</name>
+</unit>
+<unit>
+   <id>10043505</id>
+   <status>RSD</status>
+   <name>LEEK</name>
+</unit>
+<unit>
+   <id>10111845</id>
+   <status>RegD/PLU</status>
+   <name>LEEK</name>
+</unit>
+<unit>
+   <id>10134407</id>
+   <status>Borough</status>
+   <name>LEEK</name>
+</unit>
+<unit>
+   <id>10199360</id>
+   <status>UD</status>
+   <name>LEEK</name>
+</unit>
+<unit>
+   <id>10287870</id>
+   <status>CP/AP</status>
+   <name>LEEK</name>
+</unit>
+<unit>
+   <id>10287893</id>
+   <status>EP</status>
+   <name>LEEK</name>
+</unit>
+<unit>
+   <id>10287900</id>
+   <status>EP</status>
+   <name>LEEK ALL SAINTS COMPTON</name>
+</unit>
+<unit>
+   <id>10287972</id>
+   <status>EP</status>
+   <name>LEEK ST LUKE</name>
+</unit>
+<unit>
+   <id>10550014</id>
+   <status></status>
+   <name>LEEK</name>
+</unit>
+<unit>
+   <id>10576192</id>
+   <status></status>
+   <name>LEEK</name>
+</unit>
+<unit>
+   <id>10576209</id>
+   <status></status>
+   <name>LEEK AND ALTON</name>
+</unit>
+<unit>
+   <id>12752507</id>
+   <status>PDivCon</status>
+   <name>STAFFORDSHIRE LEEK</name>
+</unit>
+<unit>
+   <id>12754980</id>
+   <status>CCon</status>
+   <name>LEEK</name>
+</unit>
+<unit>
+   <id>12836284</id>
+   <status></status>
+   <name>LEEK</name>
+</unit>
+<nearByPlace>
+   <id>7901</id>
+   <name>BRADNOP</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8387</id>
+   <name>LOWE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8389</id>
+   <name>LEEKFRITH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8401</id>
+   <name>LONGSDON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8492</id>
+   <name>RUDYARD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8578</id>
+   <name>TITTESWORTH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17284</id>
+   <name>STAFFORDSHIRE MOORLANDS</name>
+</nearByPlace>
+</place>
+<place>
+<id>457</id>
+<name>LICHFIELD</name>
+<container>STAFFORDSHIRE</container>
+<lat>52.6794438208225</lat>
+<lon>-1.82790136744646</lon>
+<gazetteerText>Lichfield, mun. bor., city, and co. in itself, Staffordshire, 17 miles SE. of Stafford and 116 miles from London by rail, 3416 ac. pop. 8349; 2 Banks, 2 news-papers. Market-day, Friday. A great share of the interest attaching to the history of this ancient city is connected with its cathedral, which, according to Fuller, was completed during Bishop Heyworth&apos;s episcopate (1420-1447). The building is described as being excellently proportioned, but as a whole more attractive from its picturesque appearance rather than its architectural beauty. A charter of incorporation was granted to the city by Edward VI. Samuel Johnson (1709-1784), the great lexicographer and moralist, was born here, and was educated at the grammar school, which also had the honour of having upon its roll the names of Addison, Ashmole, and Garrick. The purity of the water makes brewing a successful industry. Carriage and harness work are largely carried on. In connection with an extension of the London and North-Western Ry. a new station was built here in 1834. Lichfield returned 1 member to Parliament until 1885. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Lichfield</link>
+<link>http://www.genuki.org.uk/big/eng/STS/Lichfield/StChad/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/STS/Lichfield/StMary/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/STS/Lichfield/StMichael/index.html</link>
+<link>http://www.workhouses.org.uk/Lichfield</link>
+<link>http://www.geonames.org/2644531</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42363</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42335</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42336</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42338</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42339</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42342</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42343</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42345</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42346</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42348</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42349</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42337</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42341</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42344</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42347</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42350</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42353</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42340</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42364</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42351</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42352</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42354</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42355</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42357</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42358</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42360</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42361</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42362</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42356</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42359</link>
+</links>
+<unit>
+   <id>10026921</id>
+   <status>RD</status>
+   <name>LICHFIELD</name>
+</unit>
+<unit>
+   <id>10074459</id>
+   <status>MB</status>
+   <name>LICHFIELD</name>
+</unit>
+<unit>
+   <id>10089694</id>
+   <status>USD</status>
+   <name>LICHFIELD</name>
+</unit>
+<unit>
+   <id>10111018</id>
+   <status>RSD</status>
+   <name>LICHFIELD</name>
+</unit>
+<unit>
+   <id>10134419</id>
+   <status>Borough</status>
+   <name>LICHFIELD</name>
+</unit>
+<unit>
+   <id>10142763</id>
+   <status></status>
+   <name>LICHFIELD</name>
+</unit>
+<unit>
+   <id>10187655</id>
+   <status>RegD/PLU</status>
+   <name>LICHFIELD</name>
+</unit>
+<unit>
+   <id>10288150</id>
+   <status>EP</status>
+   <name>LICHFIELD CHRIST CHURCH</name>
+</unit>
+<unit>
+   <id>10288162</id>
+   <status>ExP/CP</status>
+   <name>LICHFIELD THE CLOSE</name>
+</unit>
+<unit>
+   <id>10288186</id>
+   <status>ExP/CP</status>
+   <name>LICHFIELD THE FRIARY</name>
+</unit>
+<unit>
+   <id>10288216</id>
+   <status>AP/CP</status>
+   <name>LICHFIELD ST CHAD</name>
+</unit>
+<unit>
+   <id>10288241</id>
+   <status>AP/CP</status>
+   <name>LICHFIELD ST MARY</name>
+</unit>
+<unit>
+   <id>10288277</id>
+   <status>Ch/CP</status>
+   <name>LICHFIELD ST MICHAEL</name>
+</unit>
+<unit>
+   <id>10288307</id>
+   <status>EP</status>
+   <name>LICHFIELD ST MICHAEL</name>
+</unit>
+<unit>
+   <id>10516419</id>
+   <status>CntyOfIt</status>
+   <name>LICHFIELD</name>
+</unit>
+<unit>
+   <id>10550257</id>
+   <status></status>
+   <name>LICHFIELD</name>
+</unit>
+<unit>
+   <id>10566976</id>
+   <status></status>
+   <name>LICHFIELD</name>
+</unit>
+<unit>
+   <id>10566988</id>
+   <status></status>
+   <name>LICHFIELD AND COVENTRY</name>
+</unit>
+<unit>
+   <id>10576398</id>
+   <status></status>
+   <name>LICHFIELD</name>
+</unit>
+<unit>
+   <id>12739760</id>
+   <status>PDivCon</status>
+   <name>STAFFORDSHIRE LICHFIELD</name>
+</unit>
+<unit>
+   <id>12743877</id>
+   <status>PBCon</status>
+   <name>LICHFIELD</name>
+</unit>
+<unit>
+   <id>12748395</id>
+   <status>CCon</status>
+   <name>LICHFIELD AND TAMWORTH</name>
+</unit>
+<unit>
+   <id>12756860</id>
+   <status>CCon</status>
+   <name>LICHFIELD</name>
+</unit>
+<unit>
+   <id>12829978</id>
+   <status></status>
+   <name>LICHFIELD</name>
+</unit>
+<nearByPlace>
+   <id>7854</id>
+   <name>ALREWAS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7921</id>
+   <name>KINGS BROMLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8022</id>
+   <name>CURBOROUGH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8044</id>
+   <name>ELFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8069</id>
+   <name>FISHERWICK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8086</id>
+   <name>FULFEN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8152</id>
+   <name>HASELOUR</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8541</id>
+   <name>STREETHAY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8557</id>
+   <name>TAMHORN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8613</id>
+   <name>WHITTINGTON</name>
+</nearByPlace>
+</place>
+<place>
+<id>770</id>
+<name>CANNOCK</name>
+<container>STAFFORDSHIRE</container>
+<lat>52.6935554788692</lat>
+<lon>-1.99227665621669</lon>
+<gazetteerText>CANNOCK, a village, a parish, a subdistrict, ancient forest, and two railways in Staffordshire. The village stands adjacent to the Walsall and Stafford railway, near Watling-street, 7&#190; miles NNW of Walsall; and has a station on the railway, a post office&#8225; under Stafford, public rooms, a banking office, and fairs on 8 May, 24 Aug., and 18 Oct. The public rooms were erected in 1862; and include a large hall for lectures or concerts, a room for magistrates&apos; meetings, and a reading room. The making of edge tools is carried on. The parish includes also the townships of Cannock-Wood, Hednesford, Leacroft, Huntington, and Great Wyrley. Acres, 10,775. Real property, &#163;12,158. Pop., 3,964. Houses, 749. The property is much subdivided. Much of the surface is part of the ancient forest; and partakes its character of moor and mineral. The living is a vicarage in the diocese of Lichfield. Value, &#163;185.* Patrons, the Dean and Chapter of Lichfield. The church was repaired in 1859. Dr. Sacheverell was for some time incumbent. The vicarage of Great Wyrley is a separate benefice. There are an Independent chapel, a Wesleyan chapel, and charities &#163;30.-The subdistrict contains also two other parishes, parts of two more, and an extra-parochial tract; and is in the district of Penkridge. Acres, 22,583. Pop., 8,773. Houses, 1,674.-The ancient forest bears the name of Cannock Chase; extends to the vicinity of Bednal, Lichfield, and the Trent, with an area of about 25,000 acres; and was anciently a hunting-ground of the Mercian and the Norman kings. It long was covered with wood; but is now bleak, moorish, and wild; yet is so rich in coal and ironstone as to have been much encroached upon both for mining and for cultivation. Large portions of it present the attractions of a hill country; and some spots have ancient standing-stones, supposed to be Druidical. Castle Hill in it is crowned by an ancient, British, double-trenched camp of 8 or 10 acres; and commands a good view. A place, called the Old Nunnery, at Radmore, near Castle Hill, was the site of a Cistertian Abbey, founded in the time of Stephen, and soon transferred to Stoneleigh in Warwickshire.-The two railways are called the Cannock Mineral and the Cannock Chase railways. The former was opened in 1859, and goes from the Walsall and Stafford at Cannock to the Trent Valley at Rugeley. The latter is in four parts, authorised in 1860, 1862, 1864, and 1866; is aggregately 21&#189; miles long; and goes to Wolverhampton and Hednesford. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Cannock</link>
+<link>http://www.genuki.org.uk/big/eng/STS/Cannock/index.html</link>
+<link>http://www.geonames.org/2653883</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=53397</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=53398</link>
+</links>
+<unit>
+   <id>10062846</id>
+   <status>USD</status>
+   <name>CANNOCK</name>
+</unit>
+<unit>
+   <id>10086772</id>
+   <status>RD</status>
+   <name>CANNOCK</name>
+</unit>
+<unit>
+   <id>10089864</id>
+   <status></status>
+   <name>CANNOCK CHASE</name>
+</unit>
+<unit>
+   <id>10136556</id>
+   <status>UD</status>
+   <name>CANNOCK</name>
+</unit>
+<unit>
+   <id>10139764</id>
+   <status>RegD/PLU</status>
+   <name>CANNOCK</name>
+</unit>
+<unit>
+   <id>10214816</id>
+   <status>RSD</status>
+   <name>CANNOCK</name>
+</unit>
+<unit>
+   <id>10276020</id>
+   <status>AP/CP</status>
+   <name>CANNOCK</name>
+</unit>
+<unit>
+   <id>10485897</id>
+   <status>EP</status>
+   <name>CANNOCK</name>
+</unit>
+<unit>
+   <id>10550130</id>
+   <status></status>
+   <name>CANNOCK</name>
+</unit>
+<unit>
+   <id>12737026</id>
+   <status>PDivCon</status>
+   <name>STAFFORDSHIRE CANNOCK</name>
+</unit>
+<unit>
+   <id>12748528</id>
+   <status>CCon</status>
+   <name>CANNOCK CHASE</name>
+</unit>
+<unit>
+   <id>12753380</id>
+   <status>CCon</status>
+   <name>CANNOCK</name>
+</unit>
+<unit>
+   <id>12753860</id>
+   <status>CCon</status>
+   <name>CANNOCK AND BURNTWOOD</name>
+</unit>
+<unit>
+   <id>12834536</id>
+   <status></status>
+   <name>CANNOCK</name>
+</unit>
+<nearByPlace>
+   <id>7910</id>
+   <name>BRERETON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7998</id>
+   <name>CHESLYN HAY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8156</id>
+   <name>HATHERTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8195</id>
+   <name>HUNTINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8214</id>
+   <name>KINVASTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8476</id>
+   <name>PENKRIDGE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8505</id>
+   <name>SAREDON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8507</id>
+   <name>SHARESHILL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8545</id>
+   <name>STRETTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8566</id>
+   <name>TEDDESLEY HAY</name>
+</nearByPlace>
+</place>
+<place>
+<id>17284</id>
+<name>STAFFORDSHIRE MOORLANDS</name>
+<container>STAFFORDSHIRE</container>
+<lat>53.0787919995469</lat>
+<lon>-1.98027763773993</lon>
+<links>
+<link>http://www.geonames.org/2637139</link>
+</links>
+<unit>
+   <id>10064004</id>
+   <status></status>
+   <name>STAFFORDSHIRE MOORLANDS</name>
+</unit>
+<unit>
+   <id>12756082</id>
+   <status>CCon</status>
+   <name>STAFFORDSHIRE MOORLANDS</name>
+</unit>
+</place>
+<place>
+<id>367</id>
+<name>BURTON UPON TRENT</name>
+<container>STAFFORDSHIRE</container>
+<lat>52.8050981494268</lat>
+<lon>-1.62965890860859</lon>
+<gazetteerText>Burton-upon-Trent, mun. bor. and par., in E. of Staffordshire, and extending into Derbyshire, on river Trent, 11 miles SW. of Derby, 30 NE. of Birmingham, and 122 miles NW. of London by rail -- par., 7730 ac., pop. 37,253; mun. bor., 4025 ac., pop. 39,288; 2 Banks, 4 newspapers. Market-day, Thursday; is an old town, formerly the seat of a Saxon abbey. In 1801 the pop. of B. was not much over 6000. Its rapid growth dates from the opening of the Midland Ry. in 1839. Brewing of ale, the staple industry, commenced in 1708; but its great development has taken place only since 1828, and especially since 1862. The average brewing business done in the town, in one year, is calculated at #7,000,000. The principal firms are those of Bass and Allsopp. The town possesses a free grammar-school and two public libraries. The old bridge over the Trent, consisting of 36 arches, stood for about 700 years; the new bridge, of 29 arches, was opened for traffic in 1864. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/STS/BurtonuponTrent/index.html</link>
+<link>http://en.wikipedia.org/wiki/Burton_upon_Trent</link>
+<link>http://www.geonames.org/2654200</link>
+<link>http://www.workhouses.org.uk/BurtonUponTrent</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12359</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12328</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12354</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12342</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12348</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12344</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12351</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12358</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12374</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12332</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12339</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12365</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12366</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12368</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12370</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12369</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12372</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12375</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12376</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12329</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12330</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12331</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12334</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12335</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12337</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12338</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12340</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12343</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12346</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12356</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12360</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12361</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12362</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12364</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12347</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12349</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12350</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12353</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12355</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12373</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12377</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12327</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12333</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12336</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12341</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12345</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12352</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12357</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12363</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12367</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12371</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=12378</link>
+</links>
+<unit>
+   <id>10004664</id>
+   <status>USD</status>
+   <name>BURTON UPON TRENT</name>
+</unit>
+<unit>
+   <id>10005656</id>
+   <status>RegD/PLU</status>
+   <name>BURTON UPON TRENT</name>
+</unit>
+<unit>
+   <id>10058004</id>
+   <status>MB/CB</status>
+   <name>BURTON UPON TRENT</name>
+</unit>
+<unit>
+   <id>10185750</id>
+   <status>Borough</status>
+   <name>BURTON UPON TRENT</name>
+</unit>
+<unit>
+   <id>10187310</id>
+   <status>RSD</status>
+   <name>BURTON UPON TRENT</name>
+</unit>
+<unit>
+   <id>10275064</id>
+   <status>CP/Tn</status>
+   <name>BURTON EXTRA</name>
+</unit>
+<unit>
+   <id>10275131</id>
+   <status>CP/AP</status>
+   <name>BURTON UPON TRENT</name>
+</unit>
+<unit>
+   <id>10275180</id>
+   <status>EP</status>
+   <name>BURTON UPON TRENT</name>
+</unit>
+<unit>
+   <id>10275209</id>
+   <status>EP</status>
+   <name>BURTON UPON TRENT ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10275210</id>
+   <status>EP</status>
+   <name>BURTON UPON TRENT CHRIST CHURCH</name>
+</unit>
+<unit>
+   <id>10275222</id>
+   <status>EP</status>
+   <name>BURTON UPON TRENT HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10275234</id>
+   <status>EP</status>
+   <name>BURTON UPON TRENT ST AIDAN</name>
+</unit>
+<unit>
+   <id>10275246</id>
+   <status>EP</status>
+   <name>BURTON UPON TRENT ST CHAD</name>
+</unit>
+<unit>
+   <id>10275258</id>
+   <status>EP</status>
+   <name>BURTON UPON TRENT ST PAUL</name>
+</unit>
+<unit>
+   <id>10550520</id>
+   <status></status>
+   <name>BURTON UPON TRENT</name>
+</unit>
+<unit>
+   <id>12736940</id>
+   <status>PDivCon</status>
+   <name>STAFFORDSHIRE BURTON</name>
+</unit>
+<unit>
+   <id>12741431</id>
+   <status>CCon</status>
+   <name>BURTON</name>
+</unit>
+<unit>
+   <id>12831924</id>
+   <status></status>
+   <name>BURTON UPON TRENT</name>
+</unit>
+<nearByPlace>
+   <id>101</id>
+   <name>ASHBY DE LA ZOUCH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>374</id>
+   <name>SWADLINCOTE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>457</id>
+   <name>LICHFIELD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>460</id>
+   <name>UTTOXETER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1071</id>
+   <name>RUGELEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1784</id>
+   <name>MELBOURNE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5203</id>
+   <name>CHELLASTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7904</id>
+   <name>BRANSTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8089</id>
+   <name>FULFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9273</id>
+   <name>POLESWORTH</name>
+</nearByPlace>
+</place>
+<place>
+<id>8498</id>
+<name>SALT</name>
+<container>STAFFORDSHIRE</container>
+<lat>52.8467662045189</lat>
+<lon>-2.07502712615785</lon>
+<gazetteerText>SALT, a village, a township, and a chapelry, in St. Mary and St. Chad parish, Staffordshire. The village stands on the river Trent and the Grand Trunk canal, near Sandon r. station, and 3&#189; miles N N E of Stafford. The township includes also the hamlet of Enson. Real property, &#163;2, 795. Pop., 509. Houses, 108. The chapelrywas constituted in 1844. Post-town, Sandon, under Stone. Pop., 808. Houses, 165. The living is a p.curacy in the diocese of Lichfield. Value, &#163;110.* Patron, the Earl of Shrewsbury. The church was built in 1842; and a national school was built in 1857. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Salt,_Staffordshire</link>
+<link>http://www.geonames.org/2638653</link>
+</links>
+<unit>
+   <id>10292384</id>
+   <status>CP/Tn</status>
+   <name>SALT AND ENSON</name>
+</unit>
+<unit>
+   <id>10292499</id>
+   <status>EP</status>
+   <name>STAFFORD ST JAMES</name>
+</unit>
+</place>
+<place>
+<id>8476</id>
+<name>PENKRIDGE</name>
+<container>STAFFORDSHIRE</container>
+<lat>52.7194823656599</lat>
+<lon>-2.12183837697111</lon>
+<gazetteerText>PENKRIDGE, a small town, a township, a parish, a sub-district, and a district, in Staffordshire. The town stands on the river Penk, the Worcester and Staffordcanal, and the Stour Valley railway, 2&#189; miles N of Watling-street, and 6 S of Stafford; dates from ancient times; contains some respectable houses; is a seat of petty sessions and a polling-place; had formerly a weeklymarket; and has now a post-office&#8225; under Stafford, a railway station, a banking office, and fairs on 30 April, 2 Sept., and 10 Oct. The township includes the town. Pop. in 1851, 2, 663; in 1861, 2, 510. Houses, 539. The parish contains also the townships of Coppenhall and Dunston, and the chapelry of Stretton. Acres, 19, 605. Rated property, &#163;20,080. Pop. in 1851, 3, 316; in 1861, 3, 146. Houses, 669. The property is not much divided. The living is a p. curacy in the diocese of Lichfield. Value, &#163;280.* Patron, Lord Hatherton. The church is later English, in good condition; was made collegiate by King John, for 13 prebendaries; and was given to the Archbishop of Dublin. The p. curacies of Coppenhall, Dunston, and Stretton are separate benefices. There are chapels for Wesleyans, Primitive Methodists, and Plymouth Brethren, an endowed school with &#163;36 a year, and charities &#163;16. The sub-district excludes Stretton chapelry, and includes Church-Eaton parish, Kinvaston, and Acton-Trussell-with-Bednell townships, and Teddesley-Hay extra-parochial tract. Acres, 27, 434. Pop., 4, 260. Houses, 905. The district comprehends also the sub-district of Brewood, containing the parishes of Brewood and Lapley, the chapelry of Stretton, the township of Featherston, and part of the parish of Bushbury; and the sub-district of Cannock, containing the parishes of Cannock, Shareshill, Cheslyn-Hay, and Norton-under-Cannock, and the townships of Hilton, Hatherton, and Essington. Acres of the district, 70, 799. Poor-rates in 1863, &#163;6, 286. Pop. in 1851, 16, 850; in 1861, 18, 662. Houses, 3, 756. Marriages in 1863, 107; births, 681, of which 39 were illegitimate; deaths, 385, of which148 were at ages under 5 years, and 6 at ages above 85. Marriages in the ten years 1851-60, 1, 113; births, 5, 626; deaths, 3, 543. The places of worship, in 1851, were 19of the Church of England, with 6, 654 sittings; 6 of Independents, with 1, 180 s.; 7 of Wesleyans, with 899 s.; 2 of New Connexion Methodists, with 343 s.; 7 of Primitive Methodists, with 385 s.; 1 of Brethren, with 40s.; 1 undefined, with 120 s.; and 2 of Roman Catholics, with 430 s. The schools were 15 public day-schools, with 1,071 scholars; 33 private day-schools, with 568 s.; 32 Sunday schools, with 2, 175 s.; and 1 evening school for adults, with 20 s. The workhouse is in Brewood; and, at the census of 1861, had 86 inmates. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Penkridge</link>
+<link>http://www.geonames.org/2640460</link>
+<link>http://www.genuki.org.uk/big/eng/STS/Penkridge/index.html</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=53403</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=53404</link>
+</links>
+<unit>
+   <id>10134584</id>
+   <status>Borough</status>
+   <name>PENKRIDGE</name>
+</unit>
+<unit>
+   <id>10291343</id>
+   <status>Tn/CP/AP/Ch</status>
+   <name>PENKRIDGE</name>
+</unit>
+<unit>
+   <id>10291355</id>
+   <status>EP</status>
+   <name>PENKRIDGE</name>
+</unit>
+<unit>
+   <id>10562417</id>
+   <status></status>
+   <name>PENKRIDGE</name>
+</unit>
+<unit>
+   <id>10578334</id>
+   <status></status>
+   <name>PENKRIDGE</name>
+</unit>
+<unit>
+   <id>12747159</id>
+   <status>PDivCon</status>
+   <name>STAFFORDSHIRE WESTERN</name>
+</unit>
+</place>
+<place>
+<id>8611</id>
+<name>WHITGREAVE</name>
+<container>STAFFORDSHIRE</container>
+<lat>52.8508795334434</lat>
+<lon>-2.14999663681301</lon>
+<gazetteerText>WHITGREAVE, a township-chapelry in St. Mary and St. Chad parish, Staffordshire; 2 miles SE of Norton-Bridge r. station, and 3&#189; NNW of Stafford. Post town, Stafford. Real property, &#163;4,043. Pop., 182. Houses, 33. The property is divided among a few. The living is a vicarage, annexed to Marston. The church is good. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Whitgreave</link>
+<link>http://www.geonames.org/2634044</link>
+</links>
+<unit>
+   <id>10297059</id>
+   <status>CP/Tn</status>
+   <name>WHITGREAVE</name>
+</unit>
+<unit>
+   <id>10297060</id>
+   <status>EP</status>
+   <name>WHITGREAVE</name>
+</unit>
+</place>
+<place>
+<id>20094</id>
+<name>PIREHILL</name>
+<container>STAFFORDSHIRE</container>
+<lat>52.9405389464662</lat>
+<lon>-2.28614592909963</lon>
+<gazetteerText>PIREHILL, a hundred in the N W and centre of Stafford; cut into two divisions, N and S. The N div.contains Adbaston parish, eighteen other parishes, and parts of three others. Acres, 91, 148. Pop. in 1851, 126, 957. Houses, 23, 692. The S div. contains Barlaston parish, eighteen other parishes, and parts of twoothers. Acres, 110, 345. Pop. in 1851, 22, 916. Houses, 4, 508. Pop. of the whole in 1861, 149, 734. Houses, 29, 637. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<unit>
+   <id>10056135</id>
+   <status>Hundred</status>
+   <name>SOUTH PIREHILL</name>
+</unit>
+<unit>
+   <id>10092723</id>
+   <status>Hundred</status>
+   <name>NORTH PIREHILL</name>
+</unit>
+<unit>
+   <id>12751928</id>
+   <status>PDivCon</status>
+   <name>STAFFORDSHIRE NORTH WESTERN</name>
+</unit>
+</place>
+</results>

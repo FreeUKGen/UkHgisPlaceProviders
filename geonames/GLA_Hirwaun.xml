@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hirwaun</toponymName>
+<name>Hirwaun</name>
+<lat>51.77303</lat>
+<lng>-3.4983</lng>
+<geonameId>7297062</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y9</adminCode2>
+<adminName2>County Borough of Rhondda Cynon Taff</adminName2>
+<adminCode3>00PF009</adminCode3>
+<adminName3>Hirwaun</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.5799</west>
+<north>51.83012</north>
+<east>-3.4167</east>
+<south>51.71593</south>
+</bbox>
+<score>111.89846801757812</score>
+</geoname>
+<geoname>
+<toponymName>Hirwaun</toponymName>
+<name>Hirwaun</name>
+<lat>51.73917</lat>
+<lng>-3.51028</lng>
+<geonameId>2646830</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Hirwain,Hirwaun</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y9</adminCode2>
+<adminName2>County Borough of Rhondda Cynon Taff</adminName2>
+<adminCode3>00PF009</adminCode3>
+<adminName3>Hirwaun</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hirwaun</alternateName>
+<alternateName lang="unlc">HWU</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.53934</west>
+<north>51.75715</north>
+<east>-3.48122</east>
+<south>51.72118</south>
+</bbox>
+<score>82.23794555664062</score>
+</geoname>
+</geonames>

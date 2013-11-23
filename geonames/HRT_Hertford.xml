@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hertford</toponymName>
+<name>Hertford</name>
+<lat>51.79588</lat>
+<lng>-0.07854</lng>
+<geonameId>2647044</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>25847</population>
+<alternateNames>Heortford,Khertford,hateupeodeu,hatofodo,Хертфорд,ハートフォード,하트퍼드</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UD</adminCode3>
+<adminName3>East Hertfordshire District</adminName3>
+<alternateName lang="ang">Heortford</alternateName>
+<alternateName lang="ja">ハートフォード</alternateName>
+<alternateName lang="ko">하트퍼드</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hertford</alternateName>
+<alternateName lang="ru">Хертфорд</alternateName>
+<alternateName lang="unlc">HEF</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.11187</west>
+<north>51.81648</north>
+<east>-0.0452</east>
+<south>51.77527</south>
+</bbox>
+<score>74.57130432128906</score>
+</geoname>
+<geoname>
+<toponymName>Hertford</toponymName>
+<name>Hertford</name>
+<lat>51.80412</lat>
+<lng>-0.08029</lng>
+<geonameId>7297613</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UD</adminCode3>
+<adminName3>East Hertfordshire District</adminName3>
+<adminCode4>26UD023</adminCode4>
+<adminName4>Hertford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.11786</west>
+<north>51.82967</north>
+<east>-0.04273</east>
+<south>51.77856</south>
+</bbox>
+<score>67.44886779785156</score>
+</geoname>
+</geonames>

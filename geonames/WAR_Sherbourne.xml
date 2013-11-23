@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Sherborne</toponymName>
+<name>Sherborne</name>
+<lat>50.94599</lat>
+<lng>-2.51776</lng>
+<geonameId>2638033</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9558</population>
+<alternateNames>Scirburna,Scireburna,Scīrburna,Sherborn,Sherborne,Sherbourne,Шерборн</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<alternateName lang="ang">Scīrburna</alternateName>
+<alternateName lang="la">Scireburna</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sherborne</alternateName>
+<alternateName lang="uk">Шерборн</alternateName>
+<alternateName lang="unlc">SHR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.53665</west>
+<north>50.95789</north>
+<east>-2.49887</east>
+<south>50.93409</south>
+</bbox>
+<score>57.300621032714844</score>
+</geoname>
+<geoname>
+<toponymName>Sherbourne</toponymName>
+<name>Sherbourne</name>
+<lat>51.81667</lat>
+<lng>-1.75</lng>
+<geonameId>2638031</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.76455</west>
+<north>51.82566</north>
+<east>-1.73545</east>
+<south>51.80767</south>
+</bbox>
+<score>54.013221740722656</score>
+</geoname>
+<geoname>
+<toponymName>Sherbourne</toponymName>
+<name>Sherbourne</name>
+<lat>52.2574</lat>
+<lng>-1.62185</lng>
+<geonameId>7297441</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UF</adminCode3>
+<adminName3>Warwick District</adminName3>
+<adminCode4>44UF025</adminCode4>
+<adminName4>Sherbourne</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sherbourne%2C_Warwickshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.64776</west>
+<north>52.27039</north>
+<east>-1.59594</east>
+<south>52.2444</south>
+</bbox>
+<score>46.55730056762695</score>
+</geoname>
+</geonames>

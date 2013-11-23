@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>Castleton</toponymName>
+<name>Castleton</name>
+<lat>55.2</lat>
+<lng>-2.76667</lng>
+<geonameId>2653540</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Castleton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T9</adminCode2>
+<adminName2>Scottish Borders</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Castleton%2C_Scottish_Borders</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.78243</west>
+<north>55.20899</north>
+<east>-2.7509</east>
+<south>55.19101</south>
+</bbox>
+<score>76.89012145996094</score>
+</geoname>
+<geoname>
+<toponymName>Castleton</toponymName>
+<name>Castleton</name>
+<lat>54.45</lat>
+<lng>-0.93333</lng>
+<geonameId>2653541</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Castleton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UG</adminCode3>
+<adminName3>Scarborough District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Castleton%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.94881</west>
+<north>54.45899</north>
+<east>-0.91786</east>
+<south>54.44101</south>
+</bbox>
+<score>76.89012145996094</score>
+</geoname>
+<geoname>
+<toponymName>Castleton</toponymName>
+<name>Castleton</name>
+<lat>51.54222</lat>
+<lng>-3.07583</lng>
+<geonameId>2653544</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Castleton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y6</adminCode2>
+<adminName2>City of Newport</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Castleton%2C_Newport</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.0903</west>
+<north>51.55122</north>
+<east>-3.06137</east>
+<south>51.53323</south>
+</bbox>
+<score>76.89012145996094</score>
+</geoname>
+<geoname>
+<toponymName>Castleton</toponymName>
+<name>Castleton</name>
+<lat>53.34312</lat>
+<lng>-1.77506</lng>
+<geonameId>2653543</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UH</adminCode3>
+<adminName3>High Peak District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Castleton%2C_Derbyshire</alternateName>
+<alternateName lang="unlc">CAS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.79013</west>
+<north>53.35212</north>
+<east>-1.76</east>
+<south>53.33413</south>
+</bbox>
+<score>64.54658508300781</score>
+</geoname>
+<geoname>
+<toponymName>Castleton</toponymName>
+<name>Castleton</name>
+<lat>53.34073</lat>
+<lng>-1.7885</lng>
+<geonameId>7293268</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UH</adminCode3>
+<adminName3>High Peak District</adminName3>
+<adminCode4>17UH004</adminCode4>
+<adminName4>Castleton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.81804</west>
+<north>53.36444</north>
+<east>-1.75896</east>
+<south>53.31701</south>
+</bbox>
+<score>60.32093048095703</score>
+</geoname>
+<geoname>
+<toponymName>Castleton</toponymName>
+<name>Castleton</name>
+<lat>56.01028</lat>
+<lng>-5.39978</lng>
+<geonameId>2653539</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T8</adminCode2>
+<adminName2>Argyll and Bute</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.41587</west>
+<north>56.01928</north>
+<east>-5.38369</east>
+<south>56.00129</south>
+</bbox>
+<score>47.93593978881836</score>
+</geoname>
+<geoname>
+<toponymName>Castleton</toponymName>
+<name>Castleton</name>
+<lat>53.58333</lat>
+<lng>-2.18333</lng>
+<geonameId>2653542</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L2</adminCode2>
+<adminName2>Rochdale</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.25576</west>
+<north>53.61402</north>
+<east>-2.18306</east>
+<south>53.57089</south>
+</bbox>
+<score>47.93593978881836</score>
+</geoname>
+<geoname>
+<toponymName>Castleton</toponymName>
+<name>Castleton</name>
+<lat>50.94846</lat>
+<lng>-2.52424</lng>
+<geonameId>7291598</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH023</adminCode4>
+<adminName4>Castleton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Castleton%2C_Dorset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.58504</west>
+<north>50.97504</north>
+<east>-2.46345</east>
+<south>50.92188</south>
+</bbox>
+<score>42.217445373535156</score>
+</geoname>
+<geoname>
+<toponymName>Castleton</toponymName>
+<name>Castleton</name>
+<lat>51.40593</lat>
+<lng>-3.40459</lng>
+<geonameId>6286646</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>15.080232620239258</score>
+</geoname>
+</geonames>

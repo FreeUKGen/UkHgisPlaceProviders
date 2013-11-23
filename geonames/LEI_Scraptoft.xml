@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Scraptoft</toponymName>
+<name>Scraptoft</name>
+<lat>52.64665</lat>
+<lng>-1.03206</lng>
+<geonameId>7290832</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UD</adminCode3>
+<adminName3>Harborough District</adminName3>
+<adminCode4>31UD067</adminCode4>
+<adminName4>Scraptoft</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.0518</west>
+<north>52.65899</north>
+<east>-1.01231</east>
+<south>52.63431</south>
+</bbox>
+<score>81.53416442871094</score>
+</geoname>
+<geoname>
+<toponymName>Scraptoft</toponymName>
+<name>Scraptoft</name>
+<lat>52.64666</lat>
+<lng>-1.03539</lng>
+<geonameId>6287425</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UD</adminCode3>
+<adminName3>Harborough District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>20.383541107177734</score>
+</geoname>
+</geonames>

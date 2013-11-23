@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Amlwch</toponymName>
+<name>Amlwch</name>
+<lat>53.40293</lat>
+<lng>-4.36263</lng>
+<geonameId>7301158</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA002</adminCode3>
+<adminName3>Amlwch</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.40781</west>
+<north>53.42604</north>
+<east>-4.31745</east>
+<south>53.37982</south>
+</bbox>
+<score>112.66688537597656</score>
+</geoname>
+<geoname>
+<toponymName>Amlwch</toponymName>
+<name>Amlwch</name>
+<lat>53.40986</lat>
+<lng>-4.34712</lng>
+<geonameId>2657347</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2115</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA002</adminCode3>
+<adminName3>Amlwch</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Amlwch</alternateName>
+<alternateName lang="unlc">AMW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.35466</west>
+<north>53.41435</north>
+<east>-4.33958</east>
+<south>53.40536</south>
+</bbox>
+<score>100.40245056152344</score>
+</geoname>
+</geonames>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Waverton</toponymName>
+<name>Waverton</name>
+<lat>53.16588</lat>
+<lng>-2.80505</lng>
+<geonameId>7293051</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW153</adminCode3>
+<adminName3>Waverton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.8273</west>
+<north>53.17615</north>
+<east>-2.78279</east>
+<south>53.15561</south>
+</bbox>
+<score>106.74392700195312</score>
+</geoname>
+<geoname>
+<toponymName>Waverton</toponymName>
+<name>Waverton</name>
+<lat>54.81602</lat>
+<lng>-3.20887</lng>
+<geonameId>2634647</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UB</adminCode3>
+<adminName3>Allerdale District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Waverton%2C_Cumbria</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.22448</west>
+<north>54.82501</north>
+<east>-3.19325</east>
+<south>54.80703</south>
+</bbox>
+<score>80.3194580078125</score>
+</geoname>
+<geoname>
+<toponymName>Waverton</toponymName>
+<name>Waverton</name>
+<lat>54.82215</lat>
+<lng>-3.21087</lng>
+<geonameId>7300122</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UB</adminCode3>
+<adminName3>Allerdale District</adminName3>
+<adminCode4>16UB055</adminCode4>
+<adminName4>Waverton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.24645</west>
+<north>54.86005</north>
+<east>-3.17529</east>
+<south>54.78424</south>
+</bbox>
+<score>76.93916320800781</score>
+</geoname>
+<geoname>
+<toponymName>Waverton</toponymName>
+<name>Waverton</name>
+<lat>53.16667</lat>
+<lng>-2.8</lng>
+<geonameId>2634648</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW153</adminCode3>
+<adminName3>Waverton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Waverton%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.83002</west>
+<north>53.18465</north>
+<east>-2.76998</east>
+<south>53.14868</south>
+</bbox>
+<score>68.09532165527344</score>
+</geoname>
+</geonames>

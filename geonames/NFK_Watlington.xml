@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Watlington</toponymName>
+<name>Watlington</name>
+<lat>51.64327</lat>
+<lng>-1.00448</lng>
+<geonameId>2634671</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2187</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UD</adminCode3>
+<adminName3>South Oxfordshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Watlington%2C_Oxfordshire</alternateName>
+<alternateName lang="unlc">WXF</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.01172</west>
+<north>51.64777</north>
+<east>-0.99723</east>
+<south>51.63877</south>
+</bbox>
+<score>86.79017639160156</score>
+</geoname>
+<geoname>
+<toponymName>Watlington</toponymName>
+<name>Watlington</name>
+<lat>52.6744</lat>
+<lng>0.39117</lng>
+<geonameId>2634670</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Watlington%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.37634</west>
+<north>52.6834</north>
+<east>0.40601</east>
+<south>52.66541</south>
+</bbox>
+<score>78.22819519042969</score>
+</geoname>
+<geoname>
+<toponymName>Watlington</toponymName>
+<name>Watlington</name>
+<lat>52.67521</lat>
+<lng>0.39082</lng>
+<geonameId>7295670</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<adminCode4>33UE089</adminCode4>
+<adminName4>Watlington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.36216</west>
+<north>52.68883</north>
+<east>0.41948</east>
+<south>52.66158</south>
+</bbox>
+<score>74.79450225830078</score>
+</geoname>
+<geoname>
+<toponymName>Watlington</toponymName>
+<name>Watlington</name>
+<lat>51.63056</lat>
+<lng>-0.9909</lng>
+<geonameId>7299654</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UD</adminCode3>
+<adminName3>South Oxfordshire District</adminName3>
+<adminCode4>38UD081</adminCode4>
+<adminName4>Watlington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.03291</west>
+<north>51.65727</north>
+<east>-0.94889</east>
+<south>51.60384</south>
+</bbox>
+<score>74.79450225830078</score>
+</geoname>
+</geonames>

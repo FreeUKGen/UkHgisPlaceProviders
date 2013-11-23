@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Nottingham</toponymName>
+<name>Nottingham</name>
+<lat>52.9536</lat>
+<lng>-1.15047</lng>
+<geonameId>2641170</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>246654</population>
+<alternateNames>NQT,Nottigham,Nottingem,Nottingham,nottingamu,nuo ding han,nuo ding xian,nwtnghham,Ноттингем,Ноттингҳам,נוטינגהאם,نوتنغهام,ノッティンガム,諾定咸,诺丁汉</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J8</adminCode2>
+<adminName2>Nottingham</adminName2>
+<alternateName lang="ar">نوتنغهام</alternateName>
+<alternateName lang="ca">Nottingham</alternateName>
+<alternateName lang="cs">Nottingham</alternateName>
+<alternateName lang="cy">Nottingham</alternateName>
+<alternateName lang="de">Nottingham</alternateName>
+<alternateName lang="en">Nottingham</alternateName>
+<alternateName lang="eo">Nottingham</alternateName>
+<alternateName lang="es">Nottingham</alternateName>
+<alternateName lang="eu">Nottingham</alternateName>
+<alternateName lang="fi">Nottingham</alternateName>
+<alternateName lang="fr">Nottingham</alternateName>
+<alternateName lang="he">נוטינגהאם</alternateName>
+<alternateName lang="iata">NQT</alternateName>
+<alternateName lang="id">Nottingham</alternateName>
+<alternateName lang="it">Nottingham</alternateName>
+<alternateName lang="ja">ノッティンガム</alternateName>
+<alternateName lang="lb">Nottingham</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nottingham</alternateName>
+<alternateName lang="nl">Nottingham</alternateName>
+<alternateName lang="no">Nottingham</alternateName>
+<alternateName lang="pl">Nottingham</alternateName>
+<alternateName lang="pt">Nottingham</alternateName>
+<alternateName lang="ro">Nottingham</alternateName>
+<alternateName lang="ru">Ноттингем</alternateName>
+<alternateName lang="sk">Nottingham</alternateName>
+<alternateName lang="sl">Nottingham</alternateName>
+<alternateName lang="sv">Nottingham</alternateName>
+<alternateName lang="tg">Ноттингҳам</alternateName>
+<alternateName lang="tr">Nottingham</alternateName>
+<alternateName lang="zh">諾定咸</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.2575</west>
+<north>53.01799</north>
+<east>-1.04345</east>
+<south>52.88922</south>
+</bbox>
+<score>184.691650390625</score>
+</geoname>
+<geoname>
+<toponymName>City of Nottingham</toponymName>
+<name>City of Nottingham</name>
+<lat>52.96667</lat>
+<lng>-1.15</lng>
+<geonameId>3333178</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>NGM,Nottingham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J8</adminCode2>
+<adminName2>Nottingham</adminName2>
+<alternateName lang="abbr">NGM</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nottingham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.24696</west>
+<north>53.01867</north>
+<east>-1.08612</east>
+<south>52.88901</south>
+</bbox>
+<score>68.51486206054688</score>
+</geoname>
+</geonames>

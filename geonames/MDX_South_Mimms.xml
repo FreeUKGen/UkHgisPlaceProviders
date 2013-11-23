@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>South Mimms</toponymName>
+<name>South Mimms</name>
+<lat>51.69586</lat>
+<lng>-0.23273</lng>
+<geonameId>2637375</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UE</adminCode3>
+<adminName3>Hertsmere District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/South_Mimms</alternateName>
+<alternateName lang="unlc">SMI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.24724</west>
+<north>51.70486</north>
+<east>-0.21822</east>
+<south>51.68687</south>
+</bbox>
+<score>78.19493103027344</score>
+</geoname>
+<geoname>
+<toponymName>South Mimms</toponymName>
+<name>South Mimms</name>
+<lat>51.68418</lat>
+<lng>-0.22454</lng>
+<geonameId>7290812</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UE</adminCode3>
+<adminName3>Hertsmere District</adminName3>
+<adminCode4>26UE005</adminCode4>
+<adminName4>South Mimms</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.24937</west>
+<north>51.71312</north>
+<east>-0.19972</east>
+<south>51.65524</south>
+</bbox>
+<score>71.2957763671875</score>
+</geoname>
+</geonames>

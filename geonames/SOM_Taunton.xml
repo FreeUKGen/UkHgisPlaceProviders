@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Taunton</toponymName>
+<name>Taunton</name>
+<lat>51.01494</lat>
+<lng>-3.10293</lng>
+<geonameId>2636177</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>60433</population>
+<alternateNames>Tantonia,Taunton,Tonton,Tountun,tang dun,tawntwn,tonteon,Тонтон,Тоунтън,تاونتون,湯頓,톤턴</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<alternateName lang="bg">Тоунтън</alternateName>
+<alternateName lang="de">Taunton</alternateName>
+<alternateName lang="en">Taunton</alternateName>
+<alternateName lang="fa">تاونتون</alternateName>
+<alternateName lang="fr">Taunton</alternateName>
+<alternateName lang="ko">톤턴</alternateName>
+<alternateName lang="la">Tantonia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Taunton</alternateName>
+<alternateName lang="no">Taunton</alternateName>
+<alternateName lang="ru">Тонтон</alternateName>
+<alternateName lang="sr">Тонтон</alternateName>
+<alternateName lang="unlc">TAU</alternateName>
+<alternateName lang="zh">湯頓</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.15351</west>
+<north>51.04673</north>
+<east>-3.05236</east>
+<south>50.98314</south>
+</bbox>
+<score>100.00206756591797</score>
+</geoname>
+</geonames>

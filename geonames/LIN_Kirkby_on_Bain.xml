@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kirkby on Bain</toponymName>
+<name>Kirkby on Bain</name>
+<lat>53.14492</lat>
+<lng>-0.1454</lng>
+<geonameId>2645303</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kirkby,Kirkby on Bain</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirkby_on_Bain</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.16039</west>
+<north>53.15391</north>
+<east>-0.1304</east>
+<south>53.13592</south>
+</bbox>
+<score>84.37349700927734</score>
+</geoname>
+<geoname>
+<toponymName>Kirkby on Bain</toponymName>
+<name>Kirkby on Bain</name>
+<lat>53.14762</lat>
+<lng>-0.16514</lng>
+<geonameId>7299087</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC086</adminCode4>
+<adminName4>Kirkby on Bain</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.19253</west>
+<north>53.16222</north>
+<east>-0.13775</east>
+<south>53.13301</south>
+</bbox>
+<score>70.82605743408203</score>
+</geoname>
+</geonames>

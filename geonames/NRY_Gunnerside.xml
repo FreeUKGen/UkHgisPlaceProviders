@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Gunnerside</toponymName>
+<name>Gunnerside</name>
+<lat>54.37866</lat>
+<lng>-2.07916</lng>
+<geonameId>2647763</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Gunnerside</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UE</adminCode3>
+<adminName3>Richmondshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gunnerside</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.09461</west>
+<north>54.38765</north>
+<east>-2.06372</east>
+<south>54.36966</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+</geonames>

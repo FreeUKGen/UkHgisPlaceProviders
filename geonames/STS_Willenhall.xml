@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Willenhall</toponymName>
+<name>Willenhall</name>
+<lat>52.6</lat>
+<lng>-2.03333</lng>
+<geonameId>2633912</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>27500</population>
+<alternateNames>Willenhall</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O8</adminCode2>
+<adminName2>Walsall</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Willenhall</alternateName>
+<alternateName lang="unlc">WLL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.06808</west>
+<north>52.62109</north>
+<east>-1.99859</east>
+<south>52.57891</south>
+</bbox>
+<score>145.08018493652344</score>
+</geoname>
+</geonames>

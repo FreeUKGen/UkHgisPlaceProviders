@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ratlinghope</toponymName>
+<name>Ratlinghope</name>
+<lat>52.57459</lat>
+<lng>-2.89452</lng>
+<geonameId>7292917</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG148</adminCode3>
+<adminName3>Ratlinghope</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.94692</west>
+<north>52.6035</north>
+<east>-2.84211</east>
+<south>52.54568</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Ratlinghope</toponymName>
+<name>Ratlinghope</name>
+<lat>52.56496</lat>
+<lng>-2.88301</lng>
+<geonameId>2639610</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ratlinghope</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG148</adminCode3>
+<adminName3>Ratlinghope</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ratlinghope</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.89781</west>
+<north>52.57395</north>
+<east>-2.86821</east>
+<south>52.55596</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+</geonames>

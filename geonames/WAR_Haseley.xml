@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Haseley</toponymName>
+<name>Haseley</name>
+<lat>52.30944</lat>
+<lng>-1.65806</lng>
+<geonameId>6693238</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>242</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UF</adminCode3>
+<adminName3>Warwick District</adminName3>
+<alternateName lang="unlc">HSY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.65953</west>
+<north>52.31034</north>
+<east>-1.65659</east>
+<south>52.30854</south>
+</bbox>
+<score>48.68784713745117</score>
+</geoname>
+</geonames>

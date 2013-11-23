@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cerne Abbas</toponymName>
+<name>Cerne Abbas</name>
+<lat>50.80893</lat>
+<lng>-2.47583</lng>
+<geonameId>2653423</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cerne Abbas</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cerne_Abbas</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.49006</west>
+<north>50.81792</north>
+<east>-2.46159</east>
+<south>50.79994</south>
+</bbox>
+<score>94.59874725341797</score>
+</geoname>
+<geoname>
+<toponymName>Cerne Abbas</toponymName>
+<name>Cerne Abbas</name>
+<lat>50.8077</lat>
+<lng>-2.48027</lng>
+<geonameId>7295015</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH027</adminCode4>
+<adminName4>Cerne Abbas</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.50926</west>
+<north>50.82761</north>
+<east>-2.45128</east>
+<south>50.78779</south>
+</bbox>
+<score>72.50685119628906</score>
+</geoname>
+</geonames>

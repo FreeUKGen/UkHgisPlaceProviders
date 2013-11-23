@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Heydon</toponymName>
+<name>Heydon</name>
+<lat>52.8</lat>
+<lng>1.13333</lng>
+<geonameId>2647003</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Heydon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Heydon%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.11845</west>
+<north>52.80899</north>
+<east>1.14821</east>
+<south>52.79101</south>
+</bbox>
+<score>92.76235961914062</score>
+</geoname>
+<geoname>
+<toponymName>Heydon</toponymName>
+<name>Heydon</name>
+<lat>52.04035</lat>
+<lng>0.08686</lng>
+<geonameId>2647004</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Heydon%2C_Cambridgeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.07224</west>
+<north>52.04934</north>
+<east>0.10148</east>
+<south>52.03136</south>
+</bbox>
+<score>77.55207824707031</score>
+</geoname>
+<geoname>
+<toponymName>Heydon</toponymName>
+<name>Heydon</name>
+<lat>52.80632</lat>
+<lng>1.13589</lng>
+<geonameId>7296658</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<adminCode4>33UC034</adminCode4>
+<adminName4>Heydon</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.09536</west>
+<north>52.82932</north>
+<east>1.17642</east>
+<south>52.78333</south>
+</bbox>
+<score>73.44709777832031</score>
+</geoname>
+<geoname>
+<toponymName>Heydon</toponymName>
+<name>Heydon</name>
+<lat>52.04978</lat>
+<lng>0.08184</lng>
+<geonameId>7298851</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<adminCode4>12UG048</adminCode4>
+<adminName4>Heydon</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.05774</west>
+<north>52.06935</north>
+<east>0.10595</east>
+<south>52.03021</south>
+</bbox>
+<score>73.44709777832031</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Mucklestone</toponymName>
+<name>Mucklestone</name>
+<lat>52.93265</lat>
+<lng>-2.40962</lng>
+<geonameId>2642030</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UE</adminCode3>
+<adminName3>Newcastle-under-Lyme District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mucklestone</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.42454</west>
+<north>52.94164</north>
+<east>-2.3947</east>
+<south>52.92365</south>
+</bbox>
+<score>95.02735900878906</score>
+</geoname>
+</geonames>

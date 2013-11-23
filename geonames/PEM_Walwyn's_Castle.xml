@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Walwyn's Castle</toponymName>
+<name>Walwyn's Castle</name>
+<lat>51.75577</lat>
+<lng>-5.08839</lng>
+<geonameId>7301110</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS077</adminCode3>
+<adminName3>Walwyn's Castle</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.14079</west>
+<north>51.77996</north>
+<east>-5.03599</east>
+<south>51.73158</south>
+</bbox>
+<score>84.569091796875</score>
+</geoname>
+<geoname>
+<toponymName>Walwyn’s Castle</toponymName>
+<name>Walwyn’s Castle</name>
+<lat>51.76111</lat>
+<lng>-5.0825</lng>
+<geonameId>3345117</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.09703</west>
+<north>51.7701</north>
+<east>-5.06797</east>
+<south>51.75212</south>
+</bbox>
+<score>44.14177703857422</score>
+</geoname>
+</geonames>

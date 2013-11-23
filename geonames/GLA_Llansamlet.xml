@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llansamlet</toponymName>
+<name>Llansamlet</name>
+<lat>51.66301</lat>
+<lng>-3.89769</lng>
+<geonameId>7300396</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z1</adminCode2>
+<adminName2>Swansea</adminName2>
+<adminCode3>00NX019</adminCode3>
+<adminName3>Llansamlet</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llansamlet</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.92432</west>
+<north>51.67638</north>
+<east>-3.87105</east>
+<south>51.64964</south>
+</bbox>
+<score>80.0615234375</score>
+</geoname>
+</geonames>

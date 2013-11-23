@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hillingdon</toponymName>
+<name>Hillingdon</name>
+<lat>51.5</lat>
+<lng>-0.45</lng>
+<geonameId>3333154</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>266100</population>
+<alternateNames>HIL,Hillingdon,London Borough of Hillingdon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>F9</adminCode3>
+<adminName3>Hillingdon</adminName3>
+<alternateName lang="abbr">HIL</alternateName>
+<alternateName lang="en">Hillingdon</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hillingdon_(London_Borough)</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.51038</west>
+<north>51.63176</north>
+<east>-0.37593</east>
+<south>51.45327</south>
+</bbox>
+<score>66.128662109375</score>
+</geoname>
+<geoname>
+<toponymName>Hillingdon</toponymName>
+<name>Hillingdon</name>
+<lat>51.53291</lat>
+<lng>-0.45293</lng>
+<geonameId>2646895</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>F9</adminCode3>
+<adminName3>Hillingdon</adminName3>
+<alternateName lang="unlc">HLL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.46739</west>
+<north>51.5419</north>
+<east>-0.43847</east>
+<south>51.52392</south>
+</bbox>
+<score>43.820289611816406</score>
+</geoname>
+</geonames>

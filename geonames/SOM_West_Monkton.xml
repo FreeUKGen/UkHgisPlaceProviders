@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>West Monkton</toponymName>
+<name>West Monkton</name>
+<lat>51.04944</lat>
+<lng>-3.05417</lng>
+<geonameId>2634339</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>West Monkton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/West_Monkton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.06848</west>
+<north>51.05844</north>
+<east>-3.03986</east>
+<south>51.04045</south>
+</bbox>
+<score>91.96641540527344</score>
+</geoname>
+<geoname>
+<toponymName>West Monkton</toponymName>
+<name>West Monkton</name>
+<lat>51.04314</lat>
+<lng>-3.06429</lng>
+<geonameId>7294161</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<adminCode4>40UE048</adminCode4>
+<adminName4>West Monkton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.09071</west>
+<north>51.07151</north>
+<east>-3.03786</east>
+<south>51.01476</south>
+</bbox>
+<score>69.47654724121094</score>
+</geoname>
+</geonames>

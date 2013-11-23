@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Closworth</toponymName>
+<name>Closworth</name>
+<lat>50.8921</lat>
+<lng>-2.65184</lng>
+<geonameId>7301209</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD028</adminCode4>
+<adminName4>Closworth</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Closworth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.69425</west>
+<north>50.90777</north>
+<east>-2.60943</east>
+<south>50.87643</south>
+</bbox>
+<score>61.74647521972656</score>
+</geoname>
+</geonames>

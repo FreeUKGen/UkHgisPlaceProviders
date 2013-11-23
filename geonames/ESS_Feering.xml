@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Feering</toponymName>
+<name>Feering</name>
+<lat>51.8495</lat>
+<lng>0.72615</lng>
+<geonameId>2649588</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UC</adminCode3>
+<adminName3>Braintree District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Feering</alternateName>
+<alternateName lang="unlc">FEG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.71158</west>
+<north>51.85849</north>
+<east>0.74071</east>
+<south>51.8405</south>
+</bbox>
+<score>86.1904525756836</score>
+</geoname>
+<geoname>
+<toponymName>Feering</toponymName>
+<name>Feering</name>
+<lat>51.85309</lat>
+<lng>0.72162</lng>
+<geonameId>7300498</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UC</adminCode3>
+<adminName3>Braintree District</adminName3>
+<adminCode4>22UC020</adminCode4>
+<adminName4>Feering</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.69033</west>
+<north>51.87167</north>
+<east>0.7529</east>
+<south>51.83451</south>
+</bbox>
+<score>76.86097717285156</score>
+</geoname>
+</geonames>

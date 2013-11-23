@@ -1,0 +1,37 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>11238</id>
+<name>REDMILE</name>
+<container>LEICESTERSHIRE</container>
+<lat>52.90574392512</lat>
+<lon>-0.824459091261148</lon>
+<gazetteerText>REDMILE, a parish, with a village, in the district of Grantham and county of Leicester; on the Granthamcanal, 2&#190; miles S of Bottesford r. station, and 9 W of Grantham. Post-town, Bottesford, under Nottingham. Acres, 1, 170. Real property, &#163;3,090. Pop., 521. Houses, 116. The property is divided among a few. The manor belongs to the Duke of Rutland. The living is a rectory in the diocese of Peterborough. Value, &#163;450.* Patron, the Duke of Rutland. The church is early English, and has a tower and spire. There are a Primitive Methodist chapel and a national school. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Redmile</link>
+<link>http://www.geonames.org/2639533</link>
+</links>
+<unit>
+   <id>10390011</id>
+   <status>CP/AP</status>
+   <name>REDMILE</name>
+</unit>
+<unit>
+   <id>10390023</id>
+   <status>EP</status>
+   <name>REDMILE</name>
+</unit>
+<nearByPlace>
+   <id>7378</id>
+   <name>ELTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10601</id>
+   <name>BARKESTONE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11215</id>
+   <name>PLUNGAR</name>
+</nearByPlace>
+</place>
+</results>

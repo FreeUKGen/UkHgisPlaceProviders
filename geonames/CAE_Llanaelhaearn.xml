@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llanaelhaearn</toponymName>
+<name>Llanaelhaearn</name>
+<lat>52.98117</lat>
+<lng>-4.38319</lng>
+<geonameId>7300642</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC026</adminCode3>
+<adminName3>Llanaelhaearn</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanaelhaearn</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.45391</west>
+<north>53.00534</north>
+<east>-4.31247</east>
+<south>52.957</south>
+</bbox>
+<score>74.47273254394531</score>
+</geoname>
+</geonames>

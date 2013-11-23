@@ -1,0 +1,141 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>639</id>
+<name>LEIGH</name>
+<container>LANCASHIRE</container>
+<lat>53.491291933642</lat>
+<lon>-2.50975431693623</lon>
+<gazetteerText>Leigh.-- market town and par. (ry. stations West Leigh, and Leigh and Bedford), SW. Lancashire, 21 miles NE. of Liverpool, 16 miles NW. of Manchester, and 193 miles NW. of London by rail - par., 13,792 ac., pop. 46,959; town, pop. 21,734; 2 Banks, 2 newspapers. Market-day, Saturday. The town is situated on the Wigan and Leigh branch of the Leeds and Liverpool and Bridgwater Canals, and has an extensive trade in its mfrs. of cotton and silk; the minor industries being glass-working, ironfounding, malting, and brewing. Coal mines are in the vicinity. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.workhouses.org.uk/Leigh</link>
+<link>http://www.genuki.org.uk/big/eng/LAN/Leigh/</link>
+<link>http://en.wikipedia.org/wiki/Leigh_(Greater_Manchester)</link>
+<link>http://www.geonames.org/2644660</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41360</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41363</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41359</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41364</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41365</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41362</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41361</link>
+</links>
+<unit>
+   <id>10005449</id>
+   <status>RegD/PLU</status>
+   <name>LEIGH</name>
+</unit>
+<unit>
+   <id>10042719</id>
+   <status>RD</status>
+   <name>LEIGH</name>
+</unit>
+<unit>
+   <id>10043542</id>
+   <status>USD</status>
+   <name>LEIGH</name>
+</unit>
+<unit>
+   <id>10074733</id>
+   <status>RSD</status>
+   <name>LEIGH</name>
+</unit>
+<unit>
+   <id>10109127</id>
+   <status>UD/MB</status>
+   <name>LEIGH</name>
+</unit>
+<unit>
+   <id>10369745</id>
+   <status>AP/CP</status>
+   <name>LEIGH</name>
+</unit>
+<unit>
+   <id>10369770</id>
+   <status>EP</status>
+   <name>LEIGH</name>
+</unit>
+<unit>
+   <id>10369782</id>
+   <status>CP</status>
+   <name>LEIGH</name>
+</unit>
+<unit>
+   <id>10369812</id>
+   <status>EP</status>
+   <name>LEIGH ST JOHN THE EVANGELIST</name>
+</unit>
+<unit>
+   <id>10545020</id>
+   <status></status>
+   <name>LEIGH</name>
+</unit>
+<unit>
+   <id>10576210</id>
+   <status></status>
+   <name>LEIGH</name>
+</unit>
+<unit>
+   <id>12750043</id>
+   <status>PBCon/CCon/BCon</status>
+   <name>LEIGH</name>
+</unit>
+<unit>
+   <id>12750950</id>
+   <status>PDivCon</status>
+   <name>SOUTH WEST LANCASHIRE LEIGH</name>
+</unit>
+<unit>
+   <id>12833775</id>
+   <status></status>
+   <name>LEIGH</name>
+</unit>
+<nearByPlace>
+   <id>116</id>
+   <name>ATHERTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>993</id>
+   <name>GOLBORNE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9845</id>
+   <name>ASTLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10564</id>
+   <name>KENYON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10650</id>
+   <name>LOWTON</name>
+</nearByPlace>
+</place>
+<place>
+<id>22596</id>
+<name>WEST LEIGH</name>
+<container>LANCASHIRE</container>
+<lat>53.5123745767039</lat>
+<lon>-2.52634348443776</lon>
+<gazetteerText>Leigh, West (or Westleigh), township and ry. sta., Leigh par., SW. Lancashire, wholly in town of Leigh, 1883 ac., pop. 7848; P.O.; the station is 7 miles SW. of Bolton. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LAN/WestLeigh/</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41360</link>
+</links>
+<unit>
+   <id>10369794</id>
+   <status>CP/Tn</status>
+   <name>WEST LEIGH</name>
+</unit>
+<unit>
+   <id>10369800</id>
+   <status>EP</status>
+   <name>WESTLEIGH ST PAUL</name>
+</unit>
+<unit>
+   <id>10384746</id>
+   <status>EP</status>
+   <name>WESTLEIGH ST PETER</name>
+</unit>
+</place>
+</results>

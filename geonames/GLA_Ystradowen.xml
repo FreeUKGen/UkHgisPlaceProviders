@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Ystradowen</toponymName>
+<name>Ystradowen</name>
+<lat>51.49056</lat>
+<lng>-3.42194</lng>
+<geonameId>2633331</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ystradowen</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ystradowen</alternateName>
+<alternateName lang="unlc">YSD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.43639</west>
+<north>51.49955</north>
+<east>-3.4075</east>
+<south>51.48156</south>
+</bbox>
+<score>95.58937072753906</score>
+</geoname>
+</geonames>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Beccles</toponymName>
+<name>Beccles</name>
+<lat>52.4535</lat>
+<lng>1.56401</lng>
+<geonameId>2656067</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>13205</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UH</adminCode3>
+<adminName3>Waveney District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Beccles</alternateName>
+<alternateName lang="unlc">BCC</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.53953</west>
+<north>52.46841</north>
+<east>1.58849</east>
+<south>52.43858</south>
+</bbox>
+<score>117.66203308105469</score>
+</geoname>
+<geoname>
+<toponymName>Beccles</toponymName>
+<name>Beccles</name>
+<lat>52.45741</lat>
+<lng>1.5763</lng>
+<geonameId>7301416</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UH</adminCode3>
+<adminName3>Waveney District</adminName3>
+<adminCode4>42UH004</adminCode4>
+<adminName4>Beccles</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.55204</west>
+<north>52.47867</north>
+<east>1.60057</east>
+<south>52.43615</south>
+</bbox>
+<score>80.21141052246094</score>
+</geoname>
+</geonames>

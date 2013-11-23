@@ -1,0 +1,43 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>14092</id>
+<name>WOOLSTHORPE</name>
+<container>LINCOLNSHIRE</container>
+<lat>52.9013890107375</lat>
+<lon>-0.754769262764128</lon>
+<gazetteerText>WOOLSTHORPE, a parish, with a village, in Grantham district, Lincoln; 3&#189; miles SSW of Sedgebrook r. station, and 5&#189; WSW of Grantham. It has a post-office under Grantham. Acres, 2,600. Real property, &#163;3,388. Pop., 615. Houses, 118. The manor belongs to the Duke of Rutland . The limits include part of the grounds of the Duke&apos;s seat of Belvoir Castle. The living is a rectory in the diocese of Lincoln. Value, &#163;191.* Patron, the Duke of Rutland. The old church is in ruins; and the new one was built in 1846. There is a free school for girls. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LIN/Woolsthorpe/</link>
+<link>http://en.wikipedia.org/wiki/Woolsthorpe-by-Belvoir</link>
+<link>http://en.wikipedia.org/wiki/Woolsthorpe-by-Colsterworth</link>
+<link>http://www.geonames.org/2633592</link>
+</links>
+<unit>
+   <id>10463889</id>
+   <status>AP/CP</status>
+   <name>WOOLSTHORPE</name>
+</unit>
+<unit>
+   <id>10463890</id>
+   <status>EP</status>
+   <name>WOOLSTHORPE WITH STAINWORTH</name>
+</unit>
+<nearByPlace>
+   <id>10612</id>
+   <name>BELVOIR</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11161</id>
+   <name>MUSTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11564</id>
+   <name>BENNINGTON GRANGE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13561</id>
+   <name>SEDGEBROOK</name>
+</nearByPlace>
+</place>
+</results>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Epworth</toponymName>
+<name>Epworth</name>
+<lat>53.53893</lat>
+<lng>-0.83465</lng>
+<geonameId>7298240</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD021</adminCode3>
+<adminName3>Epworth</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.90126</west>
+<north>53.56448</north>
+<east>-0.76804</east>
+<south>53.51339</south>
+</bbox>
+<score>95.27482604980469</score>
+</geoname>
+<geoname>
+<toponymName>Epworth</toponymName>
+<name>Epworth</name>
+<lat>53.52602</lat>
+<lng>-0.82399</lng>
+<geonameId>2649955</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3817</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD021</adminCode3>
+<adminName3>Epworth</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Epworth%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.8371</west>
+<north>53.53381</north>
+<east>-0.81089</east>
+<south>53.51823</south>
+</bbox>
+<score>90.89359283447266</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>West Camel</toponymName>
+<name>West Camel</name>
+<lat>51.01973</lat>
+<lng>-2.60175</lng>
+<geonameId>6693235</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/West_Camel</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.61605</west>
+<north>51.02873</north>
+<east>-2.58745</east>
+<south>51.01074</south>
+</bbox>
+<score>80.1854248046875</score>
+</geoname>
+<geoname>
+<toponymName>West Camel</toponymName>
+<name>West Camel</name>
+<lat>51.01841</lat>
+<lng>-2.61467</lng>
+<geonameId>7301233</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD109</adminCode4>
+<adminName4>West Camel</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.63913</west>
+<north>51.04239</north>
+<east>-2.5902</east>
+<south>50.99444</south>
+</bbox>
+<score>68.56957244873047</score>
+</geoname>
+</geonames>

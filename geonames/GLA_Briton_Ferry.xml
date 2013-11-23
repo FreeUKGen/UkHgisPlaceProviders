@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Briton Ferry</toponymName>
+<name>Briton Ferry</name>
+<lat>51.63106</lat>
+<lng>-3.81898</lng>
+<geonameId>2654668</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>35179</population>
+<alternateNames>Briton Ferry,Llansawel</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y5</adminCode2>
+<adminName2>County Borough of Neath Port Talbot</adminName2>
+<adminCode3>00NZ006</adminCode3>
+<adminName3>Briton Ferry</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Briton_Ferry</alternateName>
+<alternateName lang="unlc">BFY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.85801</west>
+<north>51.65528</north>
+<east>-3.77995</east>
+<south>51.60685</south>
+</bbox>
+<score>115.6522216796875</score>
+</geoname>
+<geoname>
+<toponymName>Briton Ferry</toponymName>
+<name>Briton Ferry</name>
+<lat>51.63498</lat>
+<lng>-3.80663</lng>
+<geonameId>7299858</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y5</adminCode2>
+<adminName2>County Borough of Neath Port Talbot</adminName2>
+<adminCode3>00NZ006</adminCode3>
+<adminName3>Briton Ferry</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.83858</west>
+<north>51.6517</north>
+<east>-3.77468</east>
+<south>51.61825</south>
+</bbox>
+<score>92.08177947998047</score>
+</geoname>
+<geoname>
+<toponymName>Briton Ferry Road Station</toponymName>
+<name>Briton Ferry Road Station</name>
+<lat>51.638</lat>
+<lng>-3.819</lng>
+<geonameId>2654667</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>BNF,Briton Ferry,Briton Ferry Road Station</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y5</adminCode2>
+<adminName2>County Borough of Neath Port Talbot</adminName2>
+<alternateName lang="abbr">BNF</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Briton_Ferry_railway_station</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>39.59246063232422</score>
+</geoname>
+</geonames>

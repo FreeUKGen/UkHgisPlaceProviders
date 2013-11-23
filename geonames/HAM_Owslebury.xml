@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Owslebury</toponymName>
+<name>Owslebury</name>
+<lat>51.00857</lat>
+<lng>-1.26738</lng>
+<geonameId>2640742</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Owslebury</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UP</adminCode3>
+<adminName3>Winchester District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Owslebury</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.28167</west>
+<north>51.01756</north>
+<east>-1.25308</east>
+<south>50.99958</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+<geoname>
+<toponymName>Owslebury</toponymName>
+<name>Owslebury</name>
+<lat>51.01107</lat>
+<lng>-1.2611</lng>
+<geonameId>7298692</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UP</adminCode3>
+<adminName3>Winchester District</adminName3>
+<adminCode4>24UP033</adminCode4>
+<adminName4>Owslebury</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.29798</west>
+<north>51.04861</north>
+<east>-1.22422</east>
+<south>50.97353</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

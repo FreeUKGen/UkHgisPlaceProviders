@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llangattock Lingoed</toponymName>
+<name>Llangattock Lingoed</name>
+<lat>51.87561</lat>
+<lng>-2.92933</lng>
+<geonameId>2644040</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP008</adminCode3>
+<adminName3>Grosmont</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llangattock_Lingoed</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.9439</west>
+<north>51.88461</north>
+<east>-2.91476</east>
+<south>51.86662</south>
+</bbox>
+<score>91.03369140625</score>
+</geoname>
+</geonames>

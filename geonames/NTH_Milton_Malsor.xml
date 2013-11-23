@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Milton Malsor</toponymName>
+<name>Milton Malsor</name>
+<lat>52.19202</lat>
+<lng>-0.92013</lng>
+<geonameId>7291357</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<adminCode4>34UG045</adminCode4>
+<adminName4>Milton Malsor</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Milton_Malsor</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.94483</west>
+<north>52.20811</north>
+<east>-0.89543</east>
+<south>52.17593</south>
+</bbox>
+<score>54.079063415527344</score>
+</geoname>
+</geonames>

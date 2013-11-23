@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Padiham</toponymName>
+<name>Padiham</name>
+<lat>53.80187</lat>
+<lng>-2.31511</lng>
+<geonameId>2640687</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11338</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UD</adminCode3>
+<adminName3>Burnley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Padiham</alternateName>
+<alternateName lang="unlc">PDH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.33796</west>
+<north>53.81536</north>
+<east>-2.29226</east>
+<south>53.78838</south>
+</bbox>
+<score>118.60462951660156</score>
+</geoname>
+<geoname>
+<toponymName>Padiham</toponymName>
+<name>Padiham</name>
+<lat>53.80114</lat>
+<lng>-2.3191</lng>
+<geonameId>7295339</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UD</adminCode3>
+<adminName3>Burnley District</adminName3>
+<adminCode4>30UD008</adminCode4>
+<adminName4>Padiham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.34231</west>
+<north>53.81291</north>
+<east>-2.29589</east>
+<south>53.78936</south>
+</bbox>
+<score>81.37628173828125</score>
+</geoname>
+</geonames>

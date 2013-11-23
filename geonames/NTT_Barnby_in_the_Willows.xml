@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Barnby in the Willows</toponymName>
+<name>Barnby in the Willows</name>
+<lat>53.06234</lat>
+<lng>-0.71929</lng>
+<geonameId>2656298</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Barnby,Barnby in the Willows</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barnby_in_the_Willows</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.73426</west>
+<north>53.07133</north>
+<east>-0.70432</east>
+<south>53.05334</south>
+</bbox>
+<score>86.86873626708984</score>
+</geoname>
+<geoname>
+<toponymName>Barnby in the Willows</toponymName>
+<name>Barnby in the Willows</name>
+<lat>53.07193</lat>
+<lng>-0.72491</lng>
+<geonameId>7300887</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG004</adminCode4>
+<adminName4>Barnby in the Willows</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.75468</west>
+<north>53.09031</north>
+<east>-0.69514</east>
+<south>53.05356</south>
+</bbox>
+<score>67.55589294433594</score>
+</geoname>
+</geonames>

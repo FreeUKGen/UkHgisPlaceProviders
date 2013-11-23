@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Orleton</toponymName>
+<name>Orleton</name>
+<lat>52.30328</lat>
+<lng>-2.75636</lng>
+<geonameId>7290788</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA166</adminCode3>
+<adminName3>Orleton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Orleton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.79859</west>
+<north>52.32402</north>
+<east>-2.71412</east>
+<south>52.28255</south>
+</bbox>
+<score>77.481201171875</score>
+</geoname>
+<geoname>
+<toponymName>Orleton</toponymName>
+<name>Orleton</name>
+<lat>52.3</lat>
+<lng>-2.75</lng>
+<geonameId>2640920</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Orleton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA166</adminCode3>
+<adminName3>Orleton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.77943</west>
+<north>52.31799</north>
+<east>-2.72057</east>
+<south>52.28201</south>
+</bbox>
+<score>39.81255340576172</score>
+</geoname>
+</geonames>

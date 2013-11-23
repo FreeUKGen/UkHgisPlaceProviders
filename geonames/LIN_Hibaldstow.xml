@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hibaldstow</toponymName>
+<name>Hibaldstow</name>
+<lat>53.5103</lat>
+<lng>-0.53224</lng>
+<geonameId>7298243</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD028</adminCode3>
+<adminName3>Hibaldstow</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.58379</west>
+<north>53.52762</north>
+<east>-0.48068</east>
+<south>53.49298</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Hibaldstow</toponymName>
+<name>Hibaldstow</name>
+<lat>53.51133</lat>
+<lng>-0.52082</lng>
+<geonameId>2646994</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>1809</population>
+<alternateNames>Hibaldstow</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD028</adminCode3>
+<adminName3>Hibaldstow</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hibaldstow</alternateName>
+<alternateName lang="unlc">DSX</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.52838</west>
+<north>53.51582</north>
+<east>-0.51326</east>
+<south>53.50683</south>
+</bbox>
+<score>94.30809020996094</score>
+</geoname>
+</geonames>

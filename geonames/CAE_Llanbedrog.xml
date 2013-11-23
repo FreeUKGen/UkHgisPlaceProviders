@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Llanbedrog</toponymName>
+<name>Llanbedrog</name>
+<lat>52.8626</lat>
+<lng>-4.48723</lng>
+<geonameId>7293625</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC028</adminCode3>
+<adminName3>Llanbedrog</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.51805</west>
+<north>52.88189</north>
+<east>-4.45641</east>
+<south>52.84332</south>
+</bbox>
+<score>112.42731475830078</score>
+</geoname>
+<geoname>
+<toponymName>Llanbedrog</toponymName>
+<name>Llanbedrog</name>
+<lat>52.85796</lat>
+<lng>-4.48658</lng>
+<geonameId>2644175</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanbedrog</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC028</adminCode3>
+<adminName3>Llanbedrog</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanbedrog</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.50148</west>
+<north>52.86695</north>
+<east>-4.47168</east>
+<south>52.84896</south>
+</bbox>
+<score>106.82952880859375</score>
+</geoname>
+<geoname>
+<toponymName>Llanbadrig</toponymName>
+<name>Llanbadrig</name>
+<lat>53.41895</lat>
+<lng>-4.44281</lng>
+<geonameId>2644179</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanbadrig,Llanbedrog</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA011</adminCode3>
+<adminName3>Llanbadrig</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.45791</west>
+<north>53.42794</north>
+<east>-4.42772</east>
+<south>53.40996</south>
+</bbox>
+<score>48.653099060058594</score>
+</geoname>
+</geonames>

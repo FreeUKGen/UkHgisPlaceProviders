@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Harwell</toponymName>
+<name>Harwell</name>
+<lat>51.59947</lat>
+<lng>-1.29175</lng>
+<geonameId>2647385</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2400</population>
+<alternateNames>Harwell,Kharvel,Харвел</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UE</adminCode3>
+<adminName3>Vale of White Horse District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harwell%2C_Oxfordshire</alternateName>
+<alternateName lang="ru">Харвел</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.30199</west>
+<north>51.60583</north>
+<east>-1.28151</east>
+<south>51.59311</south>
+</bbox>
+<score>75.29174041748047</score>
+</geoname>
+<geoname>
+<toponymName>Harwell</toponymName>
+<name>Harwell</name>
+<lat>51.5985</lat>
+<lng>-1.29153</lng>
+<geonameId>7292144</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UE</adminCode3>
+<adminName3>Vale of White Horse District</adminName3>
+<adminCode4>38UE032</adminCode4>
+<adminName4>Harwell</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.31813</west>
+<north>51.6227</north>
+<east>-1.26494</east>
+<south>51.5743</south>
+</bbox>
+<score>63.95925521850586</score>
+</geoname>
+<geoname>
+<toponymName>Harwell</toponymName>
+<name>Harwell</name>
+<lat>53.41667</lat>
+<lng>-0.96667</lng>
+<geonameId>2647384</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.98176</west>
+<north>53.42566</north>
+<east>-0.95157</east>
+<south>53.40767</south>
+</bbox>
+<score>50.87377166748047</score>
+</geoname>
+</geonames>

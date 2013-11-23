@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Lakenheath</toponymName>
+<name>Lakenheath</name>
+<lat>52.41755</lat>
+<lng>0.52211</lng>
+<geonameId>2645020</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8590</population>
+<alternateNames>Lake Heath,Lakenheath</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UC</adminCode3>
+<adminName3>Forest Heath District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lakenheath</alternateName>
+<alternateName lang="unlc">LAK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.5026</west>
+<north>52.42945</north>
+<east>0.54162</east>
+<south>52.40565</south>
+</bbox>
+<score>106.31939697265625</score>
+</geoname>
+<geoname>
+<toponymName>Lakenheath</toponymName>
+<name>Lakenheath</name>
+<lat>52.41964</lat>
+<lng>0.52946</lng>
+<geonameId>7292513</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UC</adminCode3>
+<adminName3>Forest Heath District</adminName3>
+<adminCode4>42UC013</adminCode4>
+<adminName4>Lakenheath</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.42318</west>
+<north>52.45359</north>
+<east>0.63574</east>
+<south>52.38569</south>
+</bbox>
+<score>76.01834869384766</score>
+</geoname>
+</geonames>

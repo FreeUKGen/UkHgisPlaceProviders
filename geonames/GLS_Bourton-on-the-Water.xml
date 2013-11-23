@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bourton on the Water</toponymName>
+<name>Bourton on the Water</name>
+<lat>51.86667</lat>
+<lng>-1.75</lng>
+<geonameId>2655087</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3162</population>
+<alternateNames>Bourton on the Water</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<alternateName lang="unlc">BOU</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.7603</west>
+<north>51.87303</north>
+<east>-1.7397</east>
+<south>51.86031</south>
+</bbox>
+<score>64.49540710449219</score>
+</geoname>
+<geoname>
+<toponymName>Bourton-on-the-Water</toponymName>
+<name>Bourton-on-the-Water</name>
+<lat>51.89283</lat>
+<lng>-1.75438</lng>
+<geonameId>7295154</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<adminCode4>23UC020</adminCode4>
+<adminName4>Bourton-on-the-Water</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bourton-on-the-Water</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.80322</west>
+<north>51.89848</north>
+<east>-1.73854</east>
+<south>51.85381</south>
+</bbox>
+<score>55.156471252441406</score>
+</geoname>
+</geonames>

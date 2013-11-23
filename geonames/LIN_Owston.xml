@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Owston</toponymName>
+<name>Owston</name>
+<lat>53.59381</lat>
+<lng>-1.15218</lng>
+<geonameId>7291240</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D5</adminCode2>
+<adminName2>Doncaster</adminName2>
+<adminCode3>00CE033</adminCode3>
+<adminName3>Owston</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.19118</west>
+<north>53.60998</north>
+<east>-1.11318</east>
+<south>53.57763</south>
+</bbox>
+<score>110.50712585449219</score>
+</geoname>
+<geoname>
+<toponymName>Owston Ferry</toponymName>
+<name>Owston Ferry</name>
+<lat>53.49407</lat>
+<lng>-0.78045</lng>
+<geonameId>2640740</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Owston,Owston Ferry</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD040</adminCode3>
+<adminName3>Owston Ferry</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Owston_Ferry</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.79557</west>
+<north>53.50306</north>
+<east>-0.76533</east>
+<south>53.48508</south>
+</bbox>
+<score>66.47145080566406</score>
+</geoname>
+<geoname>
+<toponymName>Owston</toponymName>
+<name>Owston</name>
+<lat>52.66379</lat>
+<lng>-0.85453</lng>
+<geonameId>2640741</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UD</adminCode3>
+<adminName3>Harborough District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.86936</west>
+<north>52.67278</north>
+<east>-0.8397</east>
+<south>52.65479</south>
+</bbox>
+<score>63.380340576171875</score>
+</geoname>
+</geonames>

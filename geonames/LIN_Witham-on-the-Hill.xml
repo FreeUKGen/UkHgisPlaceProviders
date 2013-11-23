@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Witham on the Hill</toponymName>
+<name>Witham on the Hill</name>
+<lat>52.74149</lat>
+<lng>-0.44878</lng>
+<geonameId>7301613</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<adminCode4>32UG081</adminCode4>
+<adminName4>Witham on the Hill</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Witham_on_the_Hill</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.47285</west>
+<north>52.76283</north>
+<east>-0.42471</east>
+<south>52.72015</south>
+</bbox>
+<score>54.16166305541992</score>
+</geoname>
+</geonames>

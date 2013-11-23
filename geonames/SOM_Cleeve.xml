@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Cleeve</toponymName>
+<name>Cleeve</name>
+<lat>51.39027</lat>
+<lng>-2.7768</lng>
+<geonameId>7291920</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC012</adminCode3>
+<adminName3>Cleeve</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cleeve%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.79484</west>
+<north>51.402</north>
+<east>-2.75875</east>
+<south>51.37855</south>
+</bbox>
+<score>68.93534851074219</score>
+</geoname>
+</geonames>

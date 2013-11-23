@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Helpston</toponymName>
+<name>Helpston</name>
+<lat>52.63075</lat>
+<lng>-0.34189</lng>
+<geonameId>7299973</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K3</adminCode2>
+<adminName2>Peterborough</adminName2>
+<adminCode3>00JA011</adminCode3>
+<adminName3>Helpston</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.3595</west>
+<north>52.65387</north>
+<east>-0.32429</east>
+<south>52.60763</south>
+</bbox>
+<score>109.5364990234375</score>
+</geoname>
+<geoname>
+<toponymName>Helpston</toponymName>
+<name>Helpston</name>
+<lat>52.63233</lat>
+<lng>-0.34676</lng>
+<geonameId>2647146</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Helpston,Helpstone</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K3</adminCode2>
+<adminName2>Peterborough</adminName2>
+<adminCode3>00JA011</adminCode3>
+<adminName3>Helpston</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Helpston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.3764</west>
+<north>52.65032</north>
+<east>-0.31711</east>
+<south>52.61435</south>
+</bbox>
+<score>82.27656555175781</score>
+</geoname>
+</geonames>

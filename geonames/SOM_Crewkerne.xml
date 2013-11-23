@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Crewkerne</toponymName>
+<name>Crewkerne</name>
+<lat>50.88298</lat>
+<lng>-2.79588</lng>
+<geonameId>2652000</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7687</population>
+<alternateNames>Crewkerne</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Crewkerne</alternateName>
+<alternateName lang="unlc">CRK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.81335</west>
+<north>50.89399</north>
+<east>-2.77842</east>
+<south>50.87196</south>
+</bbox>
+<score>106.58152770996094</score>
+</geoname>
+<geoname>
+<toponymName>Crewkerne</toponymName>
+<name>Crewkerne</name>
+<lat>50.88529</lat>
+<lng>-2.7957</lng>
+<geonameId>7301211</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD033</adminCode4>
+<adminName4>Crewkerne</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.81701</west>
+<north>50.89947</north>
+<east>-2.77439</east>
+<south>50.87112</south>
+</bbox>
+<score>79.35822296142578</score>
+</geoname>
+</geonames>

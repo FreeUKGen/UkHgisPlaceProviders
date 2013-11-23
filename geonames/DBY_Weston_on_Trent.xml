@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Weston upon Trent</toponymName>
+<name>Weston upon Trent</name>
+<lat>52.84835</lat>
+<lng>-1.40119</lng>
+<geonameId>2634302</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Weston upon Trent,Weston-on-Trent</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UK</adminCode3>
+<adminName3>South Derbyshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Weston-on-Trent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.41608</west>
+<north>52.85734</north>
+<east>-1.38629</east>
+<south>52.83936</south>
+</bbox>
+<score>80.48081970214844</score>
+</geoname>
+</geonames>

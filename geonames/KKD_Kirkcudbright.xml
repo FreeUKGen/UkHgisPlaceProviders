@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kirkcudbright</toponymName>
+<name>Kirkcudbright</name>
+<lat>54.8383</lat>
+<lng>-4.04908</lng>
+<geonameId>2645287</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3367</population>
+<alternateNames>Kircudbright,Kirkcudbright</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U2</adminCode2>
+<adminName2>Dumfries and Galloway</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirkcudbright</alternateName>
+<alternateName lang="unlc">KBT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.06013</west>
+<north>54.84466</north>
+<east>-4.03804</east>
+<south>54.83194</south>
+</bbox>
+<score>108.00169372558594</score>
+</geoname>
+<geoname>
+<toponymName>Kirkcudbrightshire</toponymName>
+<name>Kirkcudbrightshire</name>
+<lat>55</lat>
+<lng>-4</lng>
+<geonameId>2645285</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Kirkcudbright,Kirkcudbright County</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U2</adminCode2>
+<adminName2>Dumfries and Galloway</adminName2>
+<adminCode3>2645285</adminCode3>
+<adminName3>Kirkcudbrightshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirkcudbrightshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>47.85691833496094</score>
+</geoname>
+</geonames>

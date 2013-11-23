@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Aldington</toponymName>
+<name>Aldington</name>
+<lat>51.09164</lat>
+<lng>0.94461</lng>
+<geonameId>2657531</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aldington%2C_Kent</alternateName>
+<alternateName lang="unlc">ADT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.93029</west>
+<north>51.10063</north>
+<east>0.95893</east>
+<south>51.08264</south>
+</bbox>
+<score>68.9083251953125</score>
+</geoname>
+<geoname>
+<toponymName>Aldington</toponymName>
+<name>Aldington</name>
+<lat>51.08272</lat>
+<lng>0.94936</lng>
+<geonameId>7295846</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<adminCode4>29UB001</adminCode4>
+<adminName4>Aldington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.91333</west>
+<north>51.10718</north>
+<east>0.98538</east>
+<south>51.05825</south>
+</bbox>
+<score>66.208984375</score>
+</geoname>
+<geoname>
+<toponymName>Aldington</toponymName>
+<name>Aldington</name>
+<lat>52.09641</lat>
+<lng>-1.91753</lng>
+<geonameId>7299688</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<adminCode4>47UF003</adminCode4>
+<adminName4>Aldington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aldington%2C_Worcestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.93375</west>
+<north>52.10745</north>
+<east>-1.90131</east>
+<south>52.08538</south>
+</bbox>
+<score>44.925376892089844</score>
+</geoname>
+</geonames>

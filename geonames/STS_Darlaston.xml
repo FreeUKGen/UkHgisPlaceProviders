@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Darlaston</toponymName>
+<name>Darlaston</name>
+<lat>52.56667</lat>
+<lng>-2.03333</lng>
+<geonameId>2651518</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1001</population>
+<alternateNames>Darlaston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O8</adminCode2>
+<adminName2>Walsall</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Darlaston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.03481</west>
+<north>52.56757</north>
+<east>-2.03185</east>
+<south>52.56577</south>
+</bbox>
+<score>113.0195083618164</score>
+</geoname>
+</geonames>

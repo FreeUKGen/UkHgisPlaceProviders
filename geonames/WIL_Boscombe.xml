@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Boscombe</toponymName>
+<name>Boscombe</name>
+<lat>50.72521</lat>
+<lng>-1.84193</lng>
+<geonameId>2655147</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boscombe</alternateName>
+<alternateName lang="unlc">BOD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.85614</west>
+<north>50.7342</north>
+<east>-1.82772</east>
+<south>50.71622</south>
+</bbox>
+<score>81.20574951171875</score>
+</geoname>
+<geoname>
+<toponymName>Boscombe</toponymName>
+<name>Boscombe</name>
+<lat>51.15</lat>
+<lng>-1.71667</lng>
+<geonameId>2655146</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.73101</west>
+<north>51.15899</north>
+<east>-1.70233</east>
+<south>51.14101</south>
+</bbox>
+<score>57.23963165283203</score>
+</geoname>
+</geonames>

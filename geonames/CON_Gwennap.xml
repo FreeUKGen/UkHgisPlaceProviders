@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Gwennap</toponymName>
+<name>Gwennap</name>
+<lat>50.22306</lat>
+<lng>-5.16069</lng>
+<geonameId>7294624</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE045</adminCode3>
+<adminName3>Gwennap</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.19926</west>
+<north>50.24891</north>
+<east>-5.12212</east>
+<south>50.19721</south>
+</bbox>
+<score>114.15132141113281</score>
+</geoname>
+<geoname>
+<toponymName>Gwennap</toponymName>
+<name>Gwennap</name>
+<lat>50.21798</lat>
+<lng>-5.1704</lng>
+<geonameId>2647731</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Gwennap</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE045</adminCode3>
+<adminName3>Gwennap</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gwennap</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.18446</west>
+<north>50.22697</north>
+<east>-5.15634</east>
+<south>50.20898</south>
+</bbox>
+<score>108.45050811767578</score>
+</geoname>
+</geonames>

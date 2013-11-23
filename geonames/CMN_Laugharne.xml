@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Laugharne</toponymName>
+<name>Laugharne</name>
+<lat>51.7714</lat>
+<lng>-4.46253</lng>
+<geonameId>2644816</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Laugharne</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU020</adminCode3>
+<adminName3>Laugharne Township</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Laugharne</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.47707</west>
+<north>51.78039</north>
+<east>-4.448</east>
+<south>51.7624</south>
+</bbox>
+<score>109.55989837646484</score>
+</geoname>
+</geonames>

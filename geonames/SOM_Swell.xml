@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Swell</toponymName>
+<name>Swell</name>
+<lat>51.93472</lat>
+<lng>-1.76962</lng>
+<geonameId>7293589</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<adminCode4>23UC096</adminCode4>
+<adminName4>Swell</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Swell%2C_Gloucestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.81719</west>
+<north>51.95326</north>
+<east>-1.72206</east>
+<south>51.91619</south>
+</bbox>
+<score>55.06352233886719</score>
+</geoname>
+</geonames>

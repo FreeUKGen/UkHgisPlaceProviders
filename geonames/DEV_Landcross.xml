@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Landcross</toponymName>
+<name>Landcross</name>
+<lat>50.993</lat>
+<lng>-4.19303</lng>
+<geonameId>7291213</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UK</adminCode3>
+<adminName3>Torridge District</adminName3>
+<adminCode4>18UK033</adminCode4>
+<adminName4>Landcross</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.20894</west>
+<north>51.00078</north>
+<east>-4.17712</east>
+<south>50.98521</south>
+</bbox>
+<score>84.85003662109375</score>
+</geoname>
+</geonames>

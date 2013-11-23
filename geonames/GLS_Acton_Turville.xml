@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Acton Turville</toponymName>
+<name>Acton Turville</name>
+<lat>51.52524</lat>
+<lng>-2.27742</lng>
+<geonameId>2657688</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Acton Turville</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M6</adminCode2>
+<adminName2>South Gloucestershire</adminName2>
+<adminCode3>00HD001</adminCode3>
+<adminName3>Acton Turville</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Acton_Turville</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.29188</west>
+<north>51.53424</north>
+<east>-2.26297</east>
+<south>51.51625</south>
+</bbox>
+<score>96.55670166015625</score>
+</geoname>
+<geoname>
+<toponymName>Acton Turville</toponymName>
+<name>Acton Turville</name>
+<lat>51.523</lat>
+<lng>-2.2752</lng>
+<geonameId>7297376</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M6</adminCode2>
+<adminName2>South Gloucestershire</adminName2>
+<adminCode3>00HD001</adminCode3>
+<adminName3>Acton Turville</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.29829</west>
+<north>51.53626</north>
+<east>-2.25211</east>
+<south>51.50974</south>
+</bbox>
+<score>95.85139465332031</score>
+</geoname>
+</geonames>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Mochdre</toponymName>
+<name>Mochdre</name>
+<lat>52.47783</lat>
+<lng>-3.37892</lng>
+<geonameId>7292199</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN085</adminCode3>
+<adminName3>Mochdre</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.41335</west>
+<north>52.52589</north>
+<east>-3.34449</east>
+<south>52.42977</south>
+</bbox>
+<score>104.50144958496094</score>
+</geoname>
+<geoname>
+<toponymName>Mochdre</toponymName>
+<name>Mochdre</name>
+<lat>53.28475</lat>
+<lng>-3.76117</lng>
+<geonameId>7293065</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<adminCode3>00NE029</adminCode3>
+<adminName3>Mochdre</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.77597</west>
+<north>53.29914</north>
+<east>-3.74637</east>
+<south>53.27036</south>
+</bbox>
+<score>104.50144958496094</score>
+</geoname>
+<geoname>
+<toponymName>Mochdre</toponymName>
+<name>Mochdre</name>
+<lat>53.28333</lat>
+<lng>-3.75</lng>
+<geonameId>2642401</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<adminCode3>00NE029</adminCode3>
+<adminName3>Mochdre</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.7801</west>
+<north>53.30132</north>
+<east>-3.7199</east>
+<south>53.26535</south>
+</bbox>
+<score>37.65087890625</score>
+</geoname>
+<geoname>
+<toponymName>Mochdre</toponymName>
+<name>Mochdre</name>
+<lat>52.48333</lat>
+<lng>-3.36667</lng>
+<geonameId>2642402</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN085</adminCode3>
+<adminName3>Mochdre</adminName3>
+<alternateName lang="unlc">MHE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.39621</west>
+<north>52.50132</north>
+<east>-3.33712</east>
+<south>52.46535</south>
+</bbox>
+<score>30.73471450805664</score>
+</geoname>
+</geonames>

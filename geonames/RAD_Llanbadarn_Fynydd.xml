@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanbadarn Fynydd</toponymName>
+<name>Llanbadarn Fynydd</name>
+<lat>52.3959</lat>
+<lng>-3.35274</lng>
+<geonameId>7301009</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN041</adminCode3>
+<adminName3>Llanbadarn Fynydd</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.42819</west>
+<north>52.44444</north>
+<east>-3.27729</east>
+<south>52.34735</south>
+</bbox>
+<score>100.17646789550781</score>
+</geoname>
+<geoname>
+<toponymName>Llanbadarn-fynydd</toponymName>
+<name>Llanbadarn-fynydd</name>
+<lat>52.38333</lat>
+<lng>-3.31667</lng>
+<geonameId>2644181</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.3314</west>
+<north>52.39233</north>
+<east>-3.30193</east>
+<south>52.37434</south>
+</bbox>
+<score>66.048583984375</score>
+</geoname>
+</geonames>

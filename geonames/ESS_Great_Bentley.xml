@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Great Bentley</toponymName>
+<name>Great Bentley</name>
+<lat>51.85333</lat>
+<lng>1.06379</lng>
+<geonameId>2648162</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1649</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UN</adminCode3>
+<adminName3>Tendring District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Great_Bentley</alternateName>
+<alternateName lang="unlc">GBY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.0565</west>
+<north>51.85783</north>
+<east>1.07107</east>
+<south>51.84883</south>
+</bbox>
+<score>94.18182373046875</score>
+</geoname>
+<geoname>
+<toponymName>Great Bentley</toponymName>
+<name>Great Bentley</name>
+<lat>51.8474</lat>
+<lng>1.0699</lng>
+<geonameId>7296678</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UN</adminCode3>
+<adminName3>Tendring District</adminName3>
+<adminCode4>22UN009</adminCode4>
+<adminName4>Great Bentley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.03856</west>
+<north>51.87567</north>
+<east>1.10125</east>
+<south>51.81913</south>
+</bbox>
+<score>70.00881958007812</score>
+</geoname>
+</geonames>

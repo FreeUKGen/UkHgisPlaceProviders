@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Salton</toponymName>
+<name>Salton</name>
+<lat>54.21136</lat>
+<lng>-0.90345</lng>
+<geonameId>2638630</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UF</adminCode3>
+<adminName3>Ryedale District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Salton%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.91884</west>
+<north>54.22035</north>
+<east>-0.88807</east>
+<south>54.20236</south>
+</bbox>
+<score>68.76390075683594</score>
+</geoname>
+<geoname>
+<toponymName>Salton</toponymName>
+<name>Salton</name>
+<lat>54.2119</lat>
+<lng>-0.89634</lng>
+<geonameId>7296891</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UF</adminCode3>
+<adminName3>Ryedale District</adminName3>
+<adminCode4>36UF091</adminCode4>
+<adminName4>Salton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.92366</west>
+<north>54.22963</north>
+<east>-0.86902</east>
+<south>54.19416</south>
+</bbox>
+<score>64.53005981445312</score>
+</geoname>
+<geoname>
+<toponymName>East Saltoun</toponymName>
+<name>East Saltoun</name>
+<lat>55.89991</lat>
+<lng>-2.83957</lng>
+<geonameId>2650340</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>East Saltoun,Salton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U6</adminCode2>
+<adminName2>East Lothian</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.85562</west>
+<north>55.90891</north>
+<east>-2.82353</east>
+<south>55.89092</south>
+</bbox>
+<score>33.57916259765625</score>
+</geoname>
+</geonames>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Derby</toponymName>
+<name>Derby</name>
+<lat>52.92277</lat>
+<lng>-1.47663</lng>
+<geonameId>2651347</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>235029</population>
+<alternateNames>Darbi,Deoraby,Derbi,Derbia,Derbis,Derby,Derby i Derbyshire,Dérbi,Dārbi,Dēoraby,Gorad Dehrbi,Ntermpi,dabi,dar bi,darbi,darby, anglstan,de bi,deobi,drby,dyrby,Ντέρμπι,Горад Дэрбі,Дарби,Дерби,Дербі,Դերբի,דארבי,דרבי,داربی، انگلستان,ديربي,ڈربی,डर्बी,ডার্বি,ดาร์บี,ደርቢ,ダービー,德比,더비</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D2</adminCode2>
+<adminName2>Derby</adminName2>
+<alternateName lang="am">ደርቢ</alternateName>
+<alternateName lang="ang">Dēoraby</alternateName>
+<alternateName lang="ar">ديربي</alternateName>
+<alternateName lang="az">Derbi</alternateName>
+<alternateName lang="be">Горад Дэрбі</alternateName>
+<alternateName lang="bg">Дарби</alternateName>
+<alternateName lang="bn">ডার্বি</alternateName>
+<alternateName lang="de">Derby</alternateName>
+<alternateName lang="el">Ντέρμπι</alternateName>
+<alternateName lang="en">Derby</alternateName>
+<alternateName lang="eo">Derby</alternateName>
+<alternateName lang="fa">داربی، انگلستان</alternateName>
+<alternateName lang="fi">Derby</alternateName>
+<alternateName lang="fr">Derby</alternateName>
+<alternateName lang="he">דרבי</alternateName>
+<alternateName lang="hi">डर्बी</alternateName>
+<alternateName lang="hy">Դերբի</alternateName>
+<alternateName lang="id">Derby</alternateName>
+<alternateName lang="it">Derby</alternateName>
+<alternateName lang="ja">ダービー</alternateName>
+<alternateName lang="ko">더비</alternateName>
+<alternateName lang="la">Derbia</alternateName>
+<alternateName lang="lb">Derby</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Derby</alternateName>
+<alternateName lang="lt">Derbis</alternateName>
+<alternateName lang="lv">Dārbi</alternateName>
+<alternateName lang="mr">डर्बी</alternateName>
+<alternateName lang="mzn">داربی، انگلستان</alternateName>
+<alternateName lang="nl">Derby</alternateName>
+<alternateName lang="nn">Derby i Derbyshire</alternateName>
+<alternateName lang="no">Derby</alternateName>
+<alternateName lang="pl">Derby</alternateName>
+<alternateName lang="pnb">ڈربی</alternateName>
+<alternateName lang="ro">Derby</alternateName>
+<alternateName lang="ru">Дерби</alternateName>
+<alternateName lang="sk">Derby</alternateName>
+<alternateName lang="sr">Дарби</alternateName>
+<alternateName lang="sv">Derby</alternateName>
+<alternateName lang="th">ดาร์บี</alternateName>
+<alternateName lang="tr">Derby</alternateName>
+<alternateName lang="ug">Dérbi</alternateName>
+<alternateName lang="uk">Дербі</alternateName>
+<alternateName lang="yi">דארבי</alternateName>
+<alternateName lang="zh">德比</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.58094</west>
+<north>52.98557</north>
+<east>-1.37232</east>
+<south>52.85998</south>
+</bbox>
+<score>142.30337524414062</score>
+</geoname>
+<geoname>
+<toponymName>City of Derby</toponymName>
+<name>City of Derby</name>
+<lat>52.9207</lat>
+<lng>-1.47217</lng>
+<geonameId>3333142</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>DER,Derby</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D2</adminCode2>
+<adminName2>Derby</adminName2>
+<alternateName lang="abbr">DER</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.55686</west>
+<north>52.96814</north>
+<east>-1.38308</east>
+<south>52.86103</south>
+</bbox>
+<score>84.2561264038086</score>
+</geoname>
+<geoname>
+<toponymName>Derbyshire</toponymName>
+<name>Derbyshire</name>
+<lat>53.16667</lat>
+<lng>-1.58333</lng>
+<geonameId>2651346</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>990400</population>
+<alternateNames>County of Derbyshire,DBY,Darbishir,Darbishur,Darbisira,Deorabyscir,Derbiensis comitatus,Derbishir,Derby,Derbyshire,Dārbišīra,Dēorabyscīr,Ntermpisair,Swydd Derby,dabisha,dar bi chex r,darbisayara,darbyshyr,de bi jun,deobisyeo ju,drbysyyr,Ντέρμπισαϊρ,Дарбишир,Дарбишър,Дербишир,Дербішир,דארבישיר,דרבישייר,داربيشير,دربی‌شایر,ڈربیشائر,डर्बीशायर,ডার্বিশায়ার,ดาร์บีเชอร์,ダービーシャー,德比郡,더비셔 주</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<alternateName lang="abbr">DBY</alternateName>
+<alternateName lang="ang">Dēorabyscīr</alternateName>
+<alternateName lang="ar">داربيشير</alternateName>
+<alternateName lang="bg">Дарбишър</alternateName>
+<alternateName lang="bn">ডার্বিশায়ার</alternateName>
+<alternateName lang="cy">Swydd Derby</alternateName>
+<alternateName lang="el">Ντέρμπισαϊρ</alternateName>
+<alternateName lang="en">Derbyshire</alternateName>
+<alternateName lang="fa">دربی‌شایر</alternateName>
+<alternateName lang="he">דרבישייר</alternateName>
+<alternateName lang="hi">डर्बीशायर</alternateName>
+<alternateName lang="ja">ダービーシャー</alternateName>
+<alternateName lang="ko">더비셔 주</alternateName>
+<alternateName lang="la">Derbiensis comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Derbyshire</alternateName>
+<alternateName lang="lv">Dārbišīra</alternateName>
+<alternateName lang="mr">डर्बीशायर</alternateName>
+<alternateName lang="pnb">ڈربیشائر</alternateName>
+<alternateName lang="ru">Дербишир</alternateName>
+<alternateName lang="sr">Дарбишир</alternateName>
+<alternateName lang="th">ดาร์บีเชอร์</alternateName>
+<alternateName lang="uk">Дербішир</alternateName>
+<alternateName lang="yi">דארבישיר</alternateName>
+<alternateName lang="zh">德比郡</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.0341</west>
+<north>53.54045</north>
+<east>-1.16649</east>
+<south>52.69651</south>
+</bbox>
+<score>33.50452423095703</score>
+</geoname>
+</geonames>

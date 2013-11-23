@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Long Newnton</toponymName>
+<name>Long Newnton</name>
+<lat>51.62639</lat>
+<lng>-2.13333</lng>
+<geonameId>2643656</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Long Newnton,Long Newton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.14782</west>
+<north>51.63538</north>
+<east>-2.11884</east>
+<south>51.6174</south>
+</bbox>
+<score>75.26392364501953</score>
+</geoname>
+<geoname>
+<toponymName>Long Newnton</toponymName>
+<name>Long Newnton</name>
+<lat>51.63274</lat>
+<lng>-2.13149</lng>
+<geonameId>7300581</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<adminCode4>23UC066</adminCode4>
+<adminName4>Long Newnton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Long_Newnton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.15659</west>
+<north>51.65442</north>
+<east>-2.10638</east>
+<south>51.61105</south>
+</bbox>
+<score>49.72629165649414</score>
+</geoname>
+</geonames>

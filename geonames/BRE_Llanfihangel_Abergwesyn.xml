@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Abergwesyn</toponymName>
+<name>Abergwesyn</name>
+<lat>52.16101</lat>
+<lng>-3.67574</lng>
+<geonameId>2657809</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Abergwesyn,Llanfihangel Abergwessin,Llanfihangel Abergwesyn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN077</adminCode3>
+<adminName3>Llanwrtyd Wells</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Abergwesyn</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.69041</west>
+<north>52.17001</north>
+<east>-3.66108</east>
+<south>52.15202</south>
+</bbox>
+<score>80.5532455444336</score>
+</geoname>
+</geonames>

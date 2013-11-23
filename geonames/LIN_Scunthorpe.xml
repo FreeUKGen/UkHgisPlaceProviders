@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Scunthorpe</toponymName>
+<name>Scunthorpe</name>
+<lat>53.57905</lat>
+<lng>-0.65437</lng>
+<geonameId>2638324</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>72514</population>
+<alternateNames>Scunthorpe,Skantorp,Skantorpas,Skantorpe,si ken suo pu,Сканторп,Сканторпе,اسکان‌ثورپ,斯肯索普</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<alternateName lang="de">Scunthorpe</alternateName>
+<alternateName lang="en">Scunthorpe</alternateName>
+<alternateName lang="eo">Scunthorpe</alternateName>
+<alternateName lang="fa">اسکان‌ثورپ</alternateName>
+<alternateName lang="fr">Scunthorpe</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Scunthorpe</alternateName>
+<alternateName lang="lt">Skantorpas</alternateName>
+<alternateName lang="ru">Сканторп</alternateName>
+<alternateName lang="sr">Сканторп</alternateName>
+<alternateName lang="unlc">SCP</alternateName>
+<alternateName lang="zh">斯肯索普</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.71309</west>
+<north>53.61389</north>
+<east>-0.59566</east>
+<south>53.54422</south>
+</bbox>
+<score>118.91123962402344</score>
+</geoname>
+</geonames>

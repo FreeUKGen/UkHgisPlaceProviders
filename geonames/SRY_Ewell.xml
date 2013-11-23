@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ewell</toponymName>
+<name>Ewell</name>
+<lat>51.34948</lat>
+<lng>-0.2494</lng>
+<geonameId>6690867</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population>39994</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UC</adminCode3>
+<adminName3>Epsom and Ewell District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ewell</alternateName>
+<alternateName lang="unlc">EWE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.29078</west>
+<north>51.37531</north>
+<east>-0.20801</east>
+<south>51.32365</south>
+</bbox>
+<score>108.8703384399414</score>
+</geoname>
+<geoname>
+<toponymName>Temple Ewell</toponymName>
+<name>Temple Ewell</name>
+<lat>51.15254</lat>
+<lng>1.26926</lng>
+<geonameId>2636119</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ewell,Temple Ewell</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UE</adminCode3>
+<adminName3>Dover District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Temple_Ewell</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.25492</west>
+<north>51.16153</north>
+<east>1.28361</east>
+<south>51.14355</south>
+</bbox>
+<score>60.90214538574219</score>
+</geoname>
+</geonames>

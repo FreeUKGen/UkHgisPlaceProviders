@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Lamesley</toponymName>
+<name>Lamesley</name>
+<lat>54.90718</lat>
+<lng>-1.6191</lng>
+<geonameId>7298561</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E5</adminCode2>
+<adminName2>Gateshead</adminName2>
+<adminCode3>00CH002</adminCode3>
+<adminName3>Lamesley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.67812</west>
+<north>54.9356</north>
+<east>-1.56008</east>
+<south>54.87876</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Lamesley</toponymName>
+<name>Lamesley</name>
+<lat>54.91567</lat>
+<lng>-1.60945</lng>
+<geonameId>6269326</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>3928</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E5</adminCode2>
+<adminName2>Gateshead</adminName2>
+<adminCode3>00CH002</adminCode3>
+<adminName3>Lamesley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lamesley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.62301</west>
+<north>54.92346</north>
+<east>-1.5959</east>
+<south>54.90788</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+</geonames>

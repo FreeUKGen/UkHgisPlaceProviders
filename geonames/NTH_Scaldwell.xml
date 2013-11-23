@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Scaldwell</toponymName>
+<name>Scaldwell</name>
+<lat>52.34749</lat>
+<lng>-0.87715</lng>
+<geonameId>7296704</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<adminCode4>34UC057</adminCode4>
+<adminName4>Scaldwell</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Scaldwell</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.89572</west>
+<north>52.36281</north>
+<east>-0.85858</east>
+<south>52.33217</south>
+</bbox>
+<score>61.74647521972656</score>
+</geoname>
+</geonames>

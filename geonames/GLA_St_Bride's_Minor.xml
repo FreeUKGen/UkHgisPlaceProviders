@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>St. Bride's Minor</toponymName>
+<name>St. Bride's Minor</name>
+<lat>51.54786</lat>
+<lng>-3.56201</lng>
+<geonameId>7292180</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X3</adminCode2>
+<adminName2>County Borough of Bridgend</adminName2>
+<adminCode3>00PB018</adminCode3>
+<adminName3>St. Bride's Minor</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.59537</west>
+<north>51.56586</north>
+<east>-3.52865</east>
+<south>51.52987</south>
+</bbox>
+<score>85.82562255859375</score>
+</geoname>
+</geonames>

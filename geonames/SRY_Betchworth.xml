@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Betchworth</toponymName>
+<name>Betchworth</name>
+<lat>51.23374</lat>
+<lng>-0.26655</lng>
+<geonameId>2655807</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UE</adminCode3>
+<adminName3>Mole Valley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Betchworth</alternateName>
+<alternateName lang="unlc">BTW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.28091</west>
+<north>51.24273</north>
+<east>-0.25218</east>
+<south>51.22474</south>
+</bbox>
+<score>86.8979263305664</score>
+</geoname>
+<geoname>
+<toponymName>Betchworth</toponymName>
+<name>Betchworth</name>
+<lat>51.23042</lat>
+<lng>-0.2733</lng>
+<geonameId>7301437</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UE</adminCode3>
+<adminName3>Mole Valley</adminName3>
+<adminCode4>43UE002</adminCode4>
+<adminName4>Betchworth</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.3011</west>
+<north>51.26054</north>
+<east>-0.24551</east>
+<south>51.20029</south>
+</bbox>
+<score>77.19815063476562</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kidwelly</toponymName>
+<name>Kidwelly</name>
+<lat>51.74344</lat>
+<lng>-4.29614</lng>
+<geonameId>7292352</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU019</adminCode3>
+<adminName3>Kidwelly</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.33556</west>
+<north>51.76434</north>
+<east>-4.25671</east>
+<south>51.72254</south>
+</bbox>
+<score>111.25003051757812</score>
+</geoname>
+<geoname>
+<toponymName>Kidwelly</toponymName>
+<name>Kidwelly</name>
+<lat>51.73639</lat>
+<lng>-4.30333</lng>
+<geonameId>2645720</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>2721</population>
+<alternateNames>Cydweli,Kidwelly</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU019</adminCode3>
+<adminName3>Kidwelly</adminName3>
+<alternateName lang="cy">Cydweli</alternateName>
+<alternateName lang="en">Kidwelly</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kidwelly</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.3136</west>
+<north>51.74275</north>
+<east>-4.29306</east>
+<south>51.73003</south>
+</bbox>
+<score>86.48717498779297</score>
+</geoname>
+</geonames>

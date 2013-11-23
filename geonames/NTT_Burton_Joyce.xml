@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Burton Joyce</toponymName>
+<name>Burton Joyce</name>
+<lat>52.98825</lat>
+<lng>-1.03407</lng>
+<geonameId>2654209</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3814</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UE</adminCode3>
+<adminName3>Gedling District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burton_Joyce</alternateName>
+<alternateName lang="unlc">BUJ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.04701</west>
+<north>52.99604</north>
+<east>-1.02113</east>
+<south>52.98046</south>
+</bbox>
+<score>94.22541809082031</score>
+</geoname>
+<geoname>
+<toponymName>Burton Joyce</toponymName>
+<name>Burton Joyce</name>
+<lat>52.98852</lat>
+<lng>-1.03945</lng>
+<geonameId>7290911</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UE</adminCode3>
+<adminName3>Gedling District</adminName3>
+<adminCode4>37UE002</adminCode4>
+<adminName4>Burton Joyce</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.07181</west>
+<north>53.00029</north>
+<east>-1.00709</east>
+<south>52.97674</south>
+</bbox>
+<score>70.67253875732422</score>
+</geoname>
+</geonames>

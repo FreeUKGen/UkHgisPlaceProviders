@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Monkleigh</toponymName>
+<name>Monkleigh</name>
+<lat>50.97407</lat>
+<lng>-4.20045</lng>
+<geonameId>7300381</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UK</adminCode3>
+<adminName3>Torridge District</adminName3>
+<adminCode4>18UK040</adminCode4>
+<adminName4>Monkleigh</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.23156</west>
+<north>50.98764</north>
+<east>-4.16933</east>
+<south>50.9605</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+<geoname>
+<toponymName>Monkleigh</toponymName>
+<name>Monkleigh</name>
+<lat>50.9653</lat>
+<lng>-4.20291</lng>
+<geonameId>2642333</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UK</adminCode3>
+<adminName3>Torridge District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.2172</west>
+<north>50.97429</north>
+<east>-4.18863</east>
+<south>50.95631</south>
+</bbox>
+<score>66.00886535644531</score>
+</geoname>
+</geonames>

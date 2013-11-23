@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llangors</toponymName>
+<name>Llangors</name>
+<lat>51.93587</lat>
+<lng>-3.27465</lng>
+<geonameId>7295458</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN063</adminCode3>
+<adminName3>Llangors</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llangors</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.33943</west>
+<north>51.9713</north>
+<east>-3.20987</east>
+<south>51.90044</south>
+</bbox>
+<score>78.26373291015625</score>
+</geoname>
+</geonames>

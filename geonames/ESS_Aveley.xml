@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Aveley</toponymName>
+<name>Aveley</name>
+<lat>51.49987</lat>
+<lng>0.25174</lng>
+<geonameId>2656759</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7653</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aveley</alternateName>
+<alternateName lang="unlc">AVE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.23404</west>
+<north>51.51089</north>
+<east>0.26944</east>
+<south>51.48886</south>
+</bbox>
+<score>99.28923034667969</score>
+</geoname>
+</geonames>

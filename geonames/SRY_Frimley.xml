@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Frimley</toponymName>
+<name>Frimley</name>
+<lat>51.30288</lat>
+<lng>-0.72527</lng>
+<geonameId>2649052</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>12739</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UJ</adminCode3>
+<adminName3>Surrey Heath</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Frimley</alternateName>
+<alternateName lang="unlc">FMY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.74802</west>
+<north>51.3171</north>
+<east>-0.70252</east>
+<south>51.28866</south>
+</bbox>
+<score>115.66590118408203</score>
+</geoname>
+</geonames>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Blackwood</toponymName>
+<name>Blackwood</name>
+<lat>51.67665</lat>
+<lng>-3.19897</lng>
+<geonameId>7294257</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X4</adminCode2>
+<adminName2>Caerphilly</adminName2>
+<adminCode3>00PK006</adminCode3>
+<adminName3>Blackwood</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.21191</west>
+<north>51.69394</north>
+<east>-3.18604</east>
+<south>51.65936</south>
+</bbox>
+<score>85.02900695800781</score>
+</geoname>
+<geoname>
+<toponymName>Blackwood</toponymName>
+<name>Blackwood</name>
+<lat>51.66778</lat>
+<lng>-3.2075</lng>
+<geonameId>3345317</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>15476</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X4</adminCode2>
+<adminName2>Caerphilly</adminName2>
+<adminCode3>00PK006</adminCode3>
+<adminName3>Blackwood</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Blackwood%2C_Caerphilly</alternateName>
+<alternateName lang="unlc">BLW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.23262</west>
+<north>51.68336</north>
+<east>-3.18238</east>
+<south>51.6522</south>
+</bbox>
+<score>74.218994140625</score>
+</geoname>
+<geoname>
+<toponymName>Blackwood</toponymName>
+<name>Blackwood</name>
+<lat>55.66667</lat>
+<lng>-3.91667</lng>
+<geonameId>2655418</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1901</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W5</adminCode2>
+<adminName2>South Lanarkshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.92464</west>
+<north>55.67116</north>
+<east>-3.90869</east>
+<south>55.66217</south>
+</bbox>
+<score>61.468597412109375</score>
+</geoname>
+<geoname>
+<toponymName>Blackwood</toponymName>
+<name>Blackwood</name>
+<lat>55.16667</lat>
+<lng>-3.71667</lng>
+<geonameId>2655419</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U2</adminCode2>
+<adminName2>Dumfries and Galloway</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.73242</west>
+<north>55.17566</north>
+<east>-3.70092</east>
+<south>55.15767</south>
+</bbox>
+<score>48.83253479003906</score>
+</geoname>
+</geonames>

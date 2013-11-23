@@ -1,0 +1,138 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>10003</id>
+<name>PERSHORE</name>
+<container>WORCESTERSHIRE</container>
+<lat>52.1295956495166</lat>
+<lon>-2.11289351644846</lon>
+<gazetteerText>Pershore.-- market town with ry. sta., Pershore St Andrew and Pershore Holy Cross pars., Worcestershire, on river Avon, 8 miles SE. of Worcester and 112 miles NW. of London, pop. 2885; P.O., T.O. 2 Banks. Market-day, Tuesday. Pershore is a well built town, and occupies a beautiful situation amidst picturesque scenery. It dates from a remote period - a monastery was founded here in 689. Its principal feature is the church of Holy Cross, which consists of the transept and chancel of the old abbey. The mfr. of stockings is the chief industry; engineering and machine making are carried on. Large quantities of fruit and vegetables are cultivated in the neighbourhood for Birmingham and other towns. In addition to the weekly market Pershore has several fairs for cattle, horses, sheep, &amp;c., and a market for fat stock is held four times a year. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.workhouses.org.uk/Pershore</link>
+<link>http://www.genuki.org.uk/big/eng/WOR/PershoreHolyCross/index.html</link>
+<link>http://en.wikipedia.org/wiki/Pershore</link>
+<link>http://www.genuki.org.uk/big/eng/WOR/Pershore/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/WOR/PershoreStAndrew/index.html</link>
+<link>http://www.geonames.org/2640360</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42873</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42874</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42872</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42844</link>
+</links>
+<unit>
+   <id>10026600</id>
+   <status>RD</status>
+   <name>PERSHORE</name>
+</unit>
+<unit>
+   <id>10044327</id>
+   <status>Hundred</status>
+   <name>PERSHORE</name>
+</unit>
+<unit>
+   <id>10088690</id>
+   <status>RSD</status>
+   <name>PERSHORE</name>
+</unit>
+<unit>
+   <id>10187692</id>
+   <status>PLU/RegD</status>
+   <name>PERSHORE</name>
+</unit>
+<unit>
+   <id>10215468</id>
+   <status>Borough</status>
+   <name>PERSHORE</name>
+</unit>
+<unit>
+   <id>10342934</id>
+   <status>CP</status>
+   <name>PERSHORE</name>
+</unit>
+<unit>
+   <id>10342946</id>
+   <status>AP/CP</status>
+   <name>PERSHORE HOLY CROSS</name>
+</unit>
+<unit>
+   <id>10342958</id>
+   <status>EP</status>
+   <name>PERSHORE HOLY CROSS</name>
+</unit>
+<unit>
+   <id>10342960</id>
+   <status>CP/AP</status>
+   <name>PERSHORE ST ANDREW</name>
+</unit>
+<unit>
+   <id>10342971</id>
+   <status>EP</status>
+   <name>PERSHORE ST ANDREW</name>
+</unit>
+<unit>
+   <id>10342983</id>
+   <status>EP</status>
+   <name>PERSHORE ST ANDREW WITHE PERSHORE HOLY CROSS</name>
+</unit>
+<unit>
+   <id>10552140</id>
+   <status></status>
+   <name>PERSHORE</name>
+</unit>
+<unit>
+   <id>10578395</id>
+   <status></status>
+   <name>PERSHORE</name>
+</unit>
+<unit>
+   <id>10578401</id>
+   <status></status>
+   <name>PERSHORE</name>
+</unit>
+<unit>
+   <id>12759101</id>
+   <status>PBCon</status>
+   <name>PERSHORE</name>
+</unit>
+<nearByPlace>
+   <id>9624</id>
+   <name>BESFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9628</id>
+   <name>BIRLINGHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9634</id>
+   <name>BISHAMPTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9879</id>
+   <name>FLADBURY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9907</id>
+   <name>HILL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10002</id>
+   <name>PEOPLETON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10006</id>
+   <name>PINVIN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10105</id>
+   <name>THROCKMORTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10141</id>
+   <name>WICK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10158</id>
+   <name>WYRE PIDDLE</name>
+</nearByPlace>
+</place>
+</results>

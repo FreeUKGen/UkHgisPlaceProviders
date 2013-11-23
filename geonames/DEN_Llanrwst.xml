@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanrwst</toponymName>
+<name>Llanrwst</name>
+<lat>53.13308</lat>
+<lng>-3.79097</lng>
+<geonameId>7293064</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<adminCode3>00NE025</adminCode3>
+<adminName3>Llanrwst</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.80762</west>
+<north>53.15119</north>
+<east>-3.77432</east>
+<south>53.11496</south>
+</bbox>
+<score>112.80574798583984</score>
+</geoname>
+<geoname>
+<toponymName>Llanrwst</toponymName>
+<name>Llanrwst</name>
+<lat>53.14021</lat>
+<lng>-3.79527</lng>
+<geonameId>2643957</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3071</population>
+<alternateNames>Llanrwst,Llanwrst</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<adminCode3>00NE025</adminCode3>
+<adminName3>Llanrwst</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanrwst</alternateName>
+<alternateName lang="unlc">LRW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.80587</west>
+<north>53.14657</north>
+<east>-3.78466</east>
+<south>53.13385</south>
+</bbox>
+<score>99.61343383789062</score>
+</geoname>
+</geonames>

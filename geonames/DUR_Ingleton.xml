@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Ingleton</toponymName>
+<name>Ingleton</name>
+<lat>54.15392</lat>
+<lng>-2.46849</lng>
+<geonameId>6941089</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2050</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UB</adminCode3>
+<adminName3>Craven District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ingleton%2C_North_Yorkshire</alternateName>
+<alternateName lang="unlc">INL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.47617</west>
+<north>54.15841</north>
+<east>-2.46081</east>
+<south>54.14942</south>
+</bbox>
+<score>90.84768676757812</score>
+</geoname>
+<geoname>
+<toponymName>Ingleton</toponymName>
+<name>Ingleton</name>
+<lat>54.57952</lat>
+<lng>-1.73532</lng>
+<geonameId>2646207</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1678</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ063</adminCode3>
+<adminName3>Ingleton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.74308</west>
+<north>54.58402</north>
+<east>-1.72757</east>
+<south>54.57503</south>
+</bbox>
+<score>78.27125549316406</score>
+</geoname>
+<geoname>
+<toponymName>Ingleton</toponymName>
+<name>Ingleton</name>
+<lat>54.19022</lat>
+<lng>-2.39759</lng>
+<geonameId>7291492</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UB</adminCode3>
+<adminName3>Craven District</adminName3>
+<adminCode4>36UB045</adminCode4>
+<adminName4>Ingleton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.50878</west>
+<north>54.25714</north>
+<east>-2.2864</east>
+<south>54.1233</south>
+</bbox>
+<score>78.27125549316406</score>
+</geoname>
+<geoname>
+<toponymName>Ingleton</toponymName>
+<name>Ingleton</name>
+<lat>54.58106</lat>
+<lng>-1.73437</lng>
+<geonameId>7300085</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ063</adminCode3>
+<adminName3>Ingleton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ingleton%2C_County_Durham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.75762</west>
+<north>54.5916</north>
+<east>-1.71111</east>
+<south>54.57052</south>
+</bbox>
+<score>69.41142272949219</score>
+</geoname>
+<geoname>
+<toponymName>Ingleton</toponymName>
+<name>Ingleton</name>
+<lat>54.14841</lat>
+<lng>-2.44594</lng>
+<geonameId>6287042</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UB</adminCode3>
+<adminName3>Craven District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>19.567813873291016</score>
+</geoname>
+</geonames>

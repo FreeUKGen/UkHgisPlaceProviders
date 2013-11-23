@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Yardley Hastings</toponymName>
+<name>Yardley Hastings</name>
+<lat>52.2055</lat>
+<lng>-0.73488</lng>
+<geonameId>2633418</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Yardley Hastings</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Yardley_Hastings</alternateName>
+<alternateName lang="unlc">YRD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.74956</west>
+<north>52.2145</north>
+<east>-0.7202</east>
+<south>52.19651</south>
+</bbox>
+<score>86.46920776367188</score>
+</geoname>
+<geoname>
+<toponymName>Yardley Hastings</toponymName>
+<name>Yardley Hastings</name>
+<lat>52.1941</lat>
+<lng>-0.74418</lng>
+<geonameId>7290987</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<adminCode4>34UG076</adminCode4>
+<adminName4>Yardley Hastings</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.7833</west>
+<north>52.22477</north>
+<east>-0.70506</east>
+<south>52.16343</south>
+</bbox>
+<score>73.70613861083984</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llawhaden</toponymName>
+<name>Llawhaden</name>
+<lat>51.81499</lat>
+<lng>-4.78797</lng>
+<geonameId>7296246</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS037</adminCode3>
+<adminName3>Llawhaden</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llawhaden</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.83496</west>
+<north>51.84651</north>
+<east>-4.74097</east>
+<south>51.78348</south>
+</bbox>
+<score>78.5201416015625</score>
+</geoname>
+<geoname>
+<toponymName>Llawhaden</toponymName>
+<name>Llawhaden</name>
+<lat>51.82102</lat>
+<lng>-4.80438</lng>
+<geonameId>2643892</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llawhaden</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS037</adminCode3>
+<adminName3>Llawhaden</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.81894</west>
+<north>51.83002</north>
+<east>-4.78983</east>
+<south>51.81203</south>
+</bbox>
+<score>60.51960372924805</score>
+</geoname>
+</geonames>

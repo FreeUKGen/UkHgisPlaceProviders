@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Henllys</toponymName>
+<name>Henllys</name>
+<lat>51.6334</lat>
+<lng>-3.06966</lng>
+<geonameId>7299626</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z2</adminCode2>
+<adminName2>Torfaen</adminName2>
+<adminCode3>00PM006</adminCode3>
+<adminName3>Henllys</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.10261</west>
+<north>51.66014</north>
+<east>-3.0367</east>
+<south>51.60667</south>
+</bbox>
+<score>112.85165405273438</score>
+</geoname>
+</geonames>

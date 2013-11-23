@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Dolbenmaen</toponymName>
+<name>Dolbenmaen</name>
+<lat>52.97943</lat>
+<lng>-4.20142</lng>
+<geonameId>7298622</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC020</adminCode3>
+<adminName3>Dolbenmaen</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.31521</west>
+<north>53.04002</north>
+<east>-4.08763</east>
+<south>52.91884</south>
+</bbox>
+<score>114.15132141113281</score>
+</geoname>
+<geoname>
+<toponymName>Dolbenmaen</toponymName>
+<name>Dolbenmaen</name>
+<lat>52.96436</lat>
+<lng>-4.22753</lng>
+<geonameId>2651158</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC020</adminCode3>
+<adminName3>Dolbenmaen</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dolbenmaen</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.24246</west>
+<north>52.97336</north>
+<east>-4.21259</east>
+<south>52.95537</south>
+</bbox>
+<score>92.40130615234375</score>
+</geoname>
+</geonames>

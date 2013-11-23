@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>St Ives</toponymName>
+<name>St Ives</name>
+<lat>50.20861</lat>
+<lng>-5.4875</lng>
+<geonameId>2638778</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11165</population>
+<alternateNames>Porth Ia,Saint Ives,Sent-Ajvs,St. Ives,St. Ives i Cornwall,sheng ai fu si,Сент-Айвс,စိန့်အိုက်ဗ်မြို့,セント・アイヴス,圣艾夫斯</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<alternateName lang="br">Porth Ia</alternateName>
+<alternateName lang="ca">Saint Ives</alternateName>
+<alternateName lang="cy">Porth Ia</alternateName>
+<alternateName lang="eu">Saint Ives</alternateName>
+<alternateName lang="it">Saint Ives</alternateName>
+<alternateName lang="ja">セント・アイヴス</alternateName>
+<alternateName lang="kw">Porth Ia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St_Ives%2C_Cornwall</alternateName>
+<alternateName lang="my">စိန့်အိုက်ဗ်မြို့</alternateName>
+<alternateName lang="nn">St. Ives i Cornwall</alternateName>
+<alternateName lang="no">St. Ives</alternateName>
+<alternateName lang="os">Сент-Айвс</alternateName>
+<alternateName lang="ru">Сент-Айвс</alternateName>
+<alternateName lang="zh">圣艾夫斯</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.50859</west>
+<north>50.2221</north>
+<east>-5.46641</east>
+<south>50.19512</south>
+</bbox>
+<score>88.2453842163086</score>
+</geoname>
+<geoname>
+<toponymName>St. Ives</toponymName>
+<name>St. Ives</name>
+<lat>50.19681</lat>
+<lng>-5.47874</lng>
+<geonameId>7300042</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE158</adminCode3>
+<adminName3>St. Ives</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.52748</west>
+<north>50.22047</north>
+<east>-5.43</east>
+<south>50.17315</south>
+</bbox>
+<score>86.93428802490234</score>
+</geoname>
+</geonames>

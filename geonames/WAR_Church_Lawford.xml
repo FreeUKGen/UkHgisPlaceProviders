@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Church Lawford</toponymName>
+<name>Church Lawford</name>
+<lat>52.36939</lat>
+<lng>-1.34304</lng>
+<geonameId>7293960</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UD</adminCode3>
+<adminName3>Rugby District</adminName3>
+<adminCode4>44UD008</adminCode4>
+<adminName4>Church Lawford</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Church_Lawford</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.36225</west>
+<north>52.38948</north>
+<east>-1.32382</east>
+<south>52.34929</south>
+</bbox>
+<score>52.91014862060547</score>
+</geoname>
+</geonames>

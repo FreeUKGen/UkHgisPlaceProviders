@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Garrabost</toponymName>
+<name>Garrabost</name>
+<lat>58.21667</lat>
+<lng>-6.21667</lng>
+<geonameId>2648857</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Garabost,Garrabost</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W8</adminCode2>
+<adminName2>Western Isles</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Garrabost</alternateName>
+<alternateName lang="unlc">RRB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-6.23375</west>
+<north>58.22566</north>
+<east>-6.19959</east>
+<south>58.20767</south>
+</bbox>
+<score>61.861122131347656</score>
+</geoname>
+</geonames>

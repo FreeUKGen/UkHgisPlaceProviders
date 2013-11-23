@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Long Stratton</toponymName>
+<name>Long Stratton</name>
+<lat>52.48803</lat>
+<lng>1.23478</lng>
+<geonameId>2643628</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3722</population>
+<alternateNames>Long Stratton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Long_Stratton</alternateName>
+<alternateName lang="unlc">LRT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.22199</west>
+<north>52.49582</north>
+<east>1.24758</east>
+<south>52.48024</south>
+</bbox>
+<score>95.66602325439453</score>
+</geoname>
+<geoname>
+<toponymName>Long Stratton</toponymName>
+<name>Long Stratton</name>
+<lat>52.48698</lat>
+<lng>1.23802</lng>
+<geonameId>7299510</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH067</adminCode4>
+<adminName4>Long Stratton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.21948</west>
+<north>52.5148</north>
+<east>1.25657</east>
+<south>52.45915</south>
+</bbox>
+<score>67.27055358886719</score>
+</geoname>
+</geonames>

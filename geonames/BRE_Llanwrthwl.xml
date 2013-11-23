@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanwrthwl</toponymName>
+<name>Llanwrthwl</name>
+<lat>52.2498</lat>
+<lng>-3.59672</lng>
+<geonameId>7297052</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN076</adminCode3>
+<adminName3>Llanwrthwl</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.74628</west>
+<north>52.28994</north>
+<east>-3.44715</east>
+<south>52.20966</south>
+</bbox>
+<score>108.65621948242188</score>
+</geoname>
+<geoname>
+<toponymName>Llanwrthwl</toponymName>
+<name>Llanwrthwl</name>
+<lat>52.26252</lat>
+<lng>-3.50256</lng>
+<geonameId>2643907</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanwrthwl,Llanwrthyl</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN076</adminCode3>
+<adminName3>Llanwrthwl</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanwrthwl</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.51725</west>
+<north>52.27151</north>
+<east>-3.48786</east>
+<south>52.25353</south>
+</bbox>
+<score>102.44763946533203</score>
+</geoname>
+</geonames>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Easton Neston</toponymName>
+<name>Easton Neston</name>
+<lat>52.14499</lat>
+<lng>-0.96399</lng>
+<geonameId>7295749</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<adminCode4>34UG024</adminCode4>
+<adminName4>Easton Neston</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.989</west>
+<north>52.16108</north>
+<east>-0.93898</east>
+<south>52.12891</south>
+</bbox>
+<score>75.27359008789062</score>
+</geoname>
+<geoname>
+<toponymName>Easton Neston House</toponymName>
+<name>Easton Neston House</name>
+<lat>52.11667</lat>
+<lng>-0.96667</lng>
+<geonameId>2650362</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames>Easton Neston,Easton Neston House</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Easton_Neston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>46.786865234375</score>
+</geoname>
+</geonames>

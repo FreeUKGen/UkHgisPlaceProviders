@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wootton Fitzpaine</toponymName>
+<name>Wootton Fitzpaine</name>
+<lat>50.75697</lat>
+<lng>-2.89919</lng>
+<geonameId>2633568</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Wootton,Wootton Fitzpaine</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wootton_Fitzpaine</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.91341</west>
+<north>50.76597</north>
+<east>-2.88497</east>
+<south>50.74798</south>
+</bbox>
+<score>91.75616455078125</score>
+</geoname>
+<geoname>
+<toponymName>Wootton Fitzpaine</toponymName>
+<name>Wootton Fitzpaine</name>
+<lat>50.76257</lat>
+<lng>-2.91746</lng>
+<geonameId>7298428</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH135</adminCode4>
+<adminName4>Wootton Fitzpaine</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.95603</west>
+<north>50.78506</north>
+<east>-2.87889</east>
+<south>50.74008</south>
+</bbox>
+<score>76.76910400390625</score>
+</geoname>
+</geonames>

@@ -1,0 +1,87 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>2301</id>
+<name>AYLSHAM</name>
+<container>NORFOLK</container>
+<lat>52.7907838805451</lat>
+<lon>1.25175160833497</lon>
+<gazetteerText>Aylsham, par. and market town with ry. sta., Norfolk, on river Bure, 12 miles NW. of Norwich, 4308 ac., pop. 2674; P.O., T.O., 1 Bank. Market-day, Tues. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.workhouses.org.uk/Aylsham</link>
+<link>http://www.geonames.org/2656713</link>
+<link>http://www.origins.org.uk/genuki/NFK/places/a/aylsham/</link>
+<link>http://en.wikipedia.org/wiki/Aylsham</link>
+</links>
+<unit>
+   <id>10050250</id>
+   <status>CP/AP</status>
+   <name>AYLSHAM</name>
+</unit>
+<unit>
+   <id>10074721</id>
+   <status>RSD</status>
+   <name>AYLSHAM</name>
+</unit>
+<unit>
+   <id>10112023</id>
+   <status>RegD/PLU</status>
+   <name>AYLSHAM</name>
+</unit>
+<unit>
+   <id>10193886</id>
+   <status>RD</status>
+   <name>AYLSHAM</name>
+</unit>
+<unit>
+   <id>10500126</id>
+   <status></status>
+   <name>AYLSHAM</name>
+</unit>
+<unit>
+   <id>12750699</id>
+   <status>PDivCon</status>
+   <name>NORFOLK NORTHERN</name>
+</unit>
+<nearByPlace>
+   <id>1705</id>
+   <name>MARSHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2312</id>
+   <name>BRISTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2316</id>
+   <name>CORPUSTY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3201</id>
+   <name>HORSTEAD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3465</id>
+   <name>HORSFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3963</id>
+   <name>HEVINGHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4730</id>
+   <name>HORSHAM ST FAITH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5124</id>
+   <name>TAVERHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5646</id>
+   <name>CAWSTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6061</id>
+   <name>HACKFORD</name>
+</nearByPlace>
+</place>
+</results>

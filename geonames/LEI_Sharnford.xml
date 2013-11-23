@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Sharnford</toponymName>
+<name>Sharnford</name>
+<lat>52.52122</lat>
+<lng>-1.29474</lng>
+<geonameId>2638121</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sharnford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UB</adminCode3>
+<adminName3>Blaby</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.30953</west>
+<north>52.53021</north>
+<east>-1.27996</east>
+<south>52.51223</south>
+</bbox>
+<score>61.02178955078125</score>
+</geoname>
+<geoname>
+<toponymName>Sharnford</toponymName>
+<name>Sharnford</name>
+<lat>52.5124</lat>
+<lng>-1.29315</lng>
+<geonameId>7295406</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UB</adminCode3>
+<adminName3>Blaby</adminName3>
+<adminCode4>31UB020</adminCode4>
+<adminName4>Sharnford</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sharnford</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.3108</west>
+<north>52.53161</north>
+<east>-1.2755</east>
+<south>52.49319</south>
+</bbox>
+<score>60.419189453125</score>
+</geoname>
+</geonames>

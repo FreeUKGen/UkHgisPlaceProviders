@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanystumdwy</toponymName>
+<name>Llanystumdwy</name>
+<lat>52.93871</lat>
+<lng>-4.3125</lng>
+<geonameId>7293628</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC049</adminCode3>
+<adminName3>Llanystumdwy</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.39639</west>
+<north>52.97899</north>
+<east>-4.2286</east>
+<south>52.89843</south>
+</bbox>
+<score>106.576904296875</score>
+</geoname>
+<geoname>
+<toponymName>Llanystumdwy</toponymName>
+<name>Llanystumdwy</name>
+<lat>52.92078</lat>
+<lng>-4.27157</lng>
+<geonameId>2643893</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanystumdwy,Llanystymdwy</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC049</adminCode3>
+<adminName3>Llanystumdwy</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanystumdwy</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.28649</west>
+<north>52.92978</north>
+<east>-4.25665</east>
+<south>52.91179</south>
+</bbox>
+<score>102.68313598632812</score>
+</geoname>
+</geonames>

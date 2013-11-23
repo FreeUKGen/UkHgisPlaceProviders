@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Andover</toponymName>
+<name>Andover</name>
+<lat>51.20828</lat>
+<lng>-1.48246</lng>
+<geonameId>2657324</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>39951</population>
+<alternateNames>Andover,Andover i Hampshire,Ehndover,andovu~a,Эндовер,แอนโดเวอร์,アンドーヴァー</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UN</adminCode3>
+<adminName3>Test Valley District</adminName3>
+<alternateName lang="ja">アンドーヴァー</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Andover%2C_Hampshire</alternateName>
+<alternateName lang="nn">Andover i Hampshire</alternateName>
+<alternateName lang="ru">Эндовер</alternateName>
+<alternateName lang="th">แอนโดเวอร์</alternateName>
+<alternateName lang="unlc">AVR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.52372</west>
+<north>51.23412</north>
+<east>-1.44121</east>
+<south>51.18245</south>
+</bbox>
+<score>86.57120513916016</score>
+</geoname>
+<geoname>
+<toponymName>Andover</toponymName>
+<name>Andover</name>
+<lat>51.21267</lat>
+<lng>-1.47775</lng>
+<geonameId>7295784</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UN</adminCode3>
+<adminName3>Test Valley District</adminName3>
+<adminCode4>24UN060</adminCode4>
+<adminName4>Andover</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.5344</west>
+<north>51.23198</north>
+<east>-1.42111</east>
+<south>51.19337</south>
+</bbox>
+<score>67.66226196289062</score>
+</geoname>
+</geonames>

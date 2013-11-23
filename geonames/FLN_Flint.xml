@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Flint</toponymName>
+<name>Flint</name>
+<lat>53.24521</lat>
+<lng>-3.11924</lng>
+<geonameId>7301167</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ008</adminCode3>
+<adminName3>Flint</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.17736</west>
+<north>53.27746</north>
+<east>-3.06112</east>
+<south>53.21296</south>
+</bbox>
+<score>90.60204315185547</score>
+</geoname>
+<geoname>
+<toponymName>Flint</toponymName>
+<name>Flint</name>
+<lat>53.24488</lat>
+<lng>-3.13231</lng>
+<geonameId>2649301</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>12068</population>
+<alternateNames>Flint,Y Fflint</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ008</adminCode3>
+<adminName3>Flint</adminName3>
+<alternateName lang="cy">Y Fflint</alternateName>
+<alternateName lang="en">Flint</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Flint%2C_Flintshire</alternateName>
+<alternateName lang="unlc">FLI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.15608</west>
+<north>53.2591</north>
+<east>-3.10853</east>
+<south>53.23066</south>
+</bbox>
+<score>86.47502136230469</score>
+</geoname>
+</geonames>

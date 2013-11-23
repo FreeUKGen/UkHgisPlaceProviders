@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Amber Hill</toponymName>
+<name>Amber Hill</name>
+<lat>53.01517</lat>
+<lng>-0.17307</lng>
+<geonameId>7291745</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UB</adminCode3>
+<adminName3>Boston District</adminName3>
+<adminCode4>32UB002</adminCode4>
+<adminName4>Amber Hill</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Amber_Hill</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.22495</west>
+<north>53.05898</north>
+<east>-0.12118</east>
+<south>52.97137</south>
+</bbox>
+<score>48.27206039428711</score>
+</geoname>
+<geoname>
+<toponymName>Amber Hill</toponymName>
+<name>Amber Hill</name>
+<lat>53.00683</lat>
+<lng>-0.16531</lng>
+<geonameId>2657365</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Amber Hill</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UB</adminCode3>
+<adminName3>Boston District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.18026</west>
+<north>53.01582</north>
+<east>-0.15036</east>
+<south>52.99784</south>
+</bbox>
+<score>46.728965759277344</score>
+</geoname>
+</geonames>

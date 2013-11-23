@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Hinton Blewett</toponymName>
+<name>Hinton Blewett</name>
+<lat>51.30713</lat>
+<lng>-2.58223</lng>
+<geonameId>7298315</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA023</adminCode3>
+<adminName3>Hinton Blewett</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hinton_Blewett</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.60722</west>
+<north>51.32234</north>
+<east>-2.55724</east>
+<south>51.29193</south>
+</bbox>
+<score>72.51053619384766</score>
+</geoname>
+</geonames>

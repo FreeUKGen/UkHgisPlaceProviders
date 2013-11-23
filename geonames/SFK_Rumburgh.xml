@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Rumburgh</toponymName>
+<name>Rumburgh</name>
+<lat>52.37974</lat>
+<lng>1.4459</lng>
+<geonameId>2638968</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UH</adminCode3>
+<adminName3>Waveney District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rumburgh</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.43117</west>
+<north>52.38873</north>
+<east>1.46064</east>
+<south>52.37074</south>
+</bbox>
+<score>91.25382232666016</score>
+</geoname>
+<geoname>
+<toponymName>Rumburgh</toponymName>
+<name>Rumburgh</name>
+<lat>52.38336</lat>
+<lng>1.45572</lng>
+<geonameId>7291928</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UH</adminCode3>
+<adminName3>Waveney District</adminName3>
+<adminCode4>42UH030</adminCode4>
+<adminName4>Rumburgh</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.42767</west>
+<north>52.39882</north>
+<east>1.48377</east>
+<south>52.36789</south>
+</bbox>
+<score>81.37628173828125</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Skirbeck</toponymName>
+<name>Skirbeck</name>
+<lat>52.96667</lat>
+<lng>0</lng>
+<geonameId>2637700</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Skirbeck</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UB</adminCode3>
+<adminName3>Boston District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Skirbeck</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.01494</west>
+<north>52.97566</north>
+<east>0.01494</east>
+<south>52.95767</south>
+</bbox>
+<score>107.30289459228516</score>
+</geoname>
+</geonames>

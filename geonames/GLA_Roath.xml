@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Roath</toponymName>
+<name>Roath</name>
+<lat>51.49326</lat>
+<lng>-3.16593</lng>
+<geonameId>7297938</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X5</adminCode2>
+<adminName2>City and County of Cardiff</adminName2>
+<adminCode3>00PT020</adminCode3>
+<adminName3>Roath</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.17734</west>
+<north>51.50348</north>
+<east>-3.15452</east>
+<south>51.48304</south>
+</bbox>
+<score>111.4800796508789</score>
+</geoname>
+<geoname>
+<toponymName>Roath</toponymName>
+<name>Roath</name>
+<lat>51.48715</lat>
+<lng>-3.16519</lng>
+<geonameId>2639286</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X5</adminCode2>
+<adminName2>City and County of Cardiff</adminName2>
+<adminCode3>00PT020</adminCode3>
+<adminName3>Roath</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Roath</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.17096</west>
+<north>51.49075</north>
+<east>-3.15941</east>
+<south>51.48356</south>
+</bbox>
+<score>77.09112548828125</score>
+</geoname>
+</geonames>

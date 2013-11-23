@@ -1,0 +1,71 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>972</id>
+<name>MARLOW</name>
+<container>BUCKINGHAMSHIRE</container>
+<lat>51.5701596496782</lat>
+<lon>-0.773780428694934</lon>
+<gazetteerText>Marlow (or Great Marlow), market town and par., Bucks, on river Thames, 5 miles NW. of Maidenhead and 32&#189; miles W. of London by rail, 6245 ac., pop. 4763; P.O., T.O., 1 Bank. Market-day, Saturday. The river is here spanned by an iron suspension bridge (1835) 225 ft. in span. Great Marlow. has mfrs. of lace, paper, &amp;c. It returned 2 members to Parliament continuously from James I. until 1867, and 1 member from 1867 until 1885. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Marlow,_Buckinghamshire</link>
+<link>http://en.wikipedia.org/wiki/Great_Marlow</link>
+<link>http://www.geonames.org/2643003</link>
+<link>http://met.open.ac.uk/genuki/big/eng/BKM/GreatMarlow/Index.html</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42531</link>
+</links>
+<unit>
+   <id>10009753</id>
+   <status>CP/AP</status>
+   <name>GREAT MARLOW</name>
+</unit>
+<unit>
+   <id>10157663</id>
+   <status>CP</status>
+   <name>MARLOW URBAN</name>
+</unit>
+<unit>
+   <id>10172901</id>
+   <status>Borough</status>
+   <name>GREAT MARLOW</name>
+</unit>
+<unit>
+   <id>10177121</id>
+   <status>EP</status>
+   <name>GREAT MARLOW</name>
+</unit>
+<unit>
+   <id>10186444</id>
+   <status>UD</status>
+   <name>MARLOW</name>
+</unit>
+<unit>
+   <id>10552400</id>
+   <status></status>
+   <name>MARLOW</name>
+</unit>
+<unit>
+   <id>10563239</id>
+   <status></status>
+   <name>GREAT MARLOW</name>
+</unit>
+<unit>
+   <id>10576908</id>
+   <status></status>
+   <name>MARLOW</name>
+</unit>
+<unit>
+   <id>12753676</id>
+   <status>PBCon</status>
+   <name>GREAT MARLOW</name>
+</unit>
+<nearByPlace>
+   <id>2509</id>
+   <name>BISHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4566</id>
+   <name>MEDMENHAM</name>
+</nearByPlace>
+</place>
+</results>

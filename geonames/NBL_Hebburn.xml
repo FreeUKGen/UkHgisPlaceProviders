@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hebburn</toponymName>
+<name>Hebburn</name>
+<lat>54.97302</lat>
+<lng>-1.51546</lng>
+<geonameId>2647209</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>18808</population>
+<alternateNames>Hebburn,Hebburn-on-Tyne</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M7</adminCode2>
+<adminName2>South Tyneside</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hebburn</alternateName>
+<alternateName lang="unlc">HEB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.54582</west>
+<north>54.99044</north>
+<east>-1.4851</east>
+<south>54.95561</south>
+</bbox>
+<score>109.24695587158203</score>
+</geoname>
+<geoname>
+<toponymName>Hebburn</toponymName>
+<name>Hebburn</name>
+<lat>54.97563</lat>
+<lng>-1.52048</lng>
+<geonameId>7676998</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>MTRO</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>metro station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M7</adminCode2>
+<adminName2>South Tyneside</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hebburn_Metro_station</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>52.468994140625</score>
+</geoname>
+</geonames>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cranwell</toponymName>
+<name>Cranwell</name>
+<lat>53.03681</lat>
+<lng>-0.46176</lng>
+<geonameId>2652075</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cranwell</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cranwell</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.47672</west>
+<north>53.0458</north>
+<east>-0.4468</east>
+<south>53.02782</south>
+</bbox>
+<score>100.73416137695312</score>
+</geoname>
+<geoname>
+<toponymName>Cranwell</toponymName>
+<name>RAF Cranwell</name>
+<lat>53.03035</lat>
+<lng>-0.48324</lng>
+<geonameId>6296677</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>EGYD,RAF Cranwell</alternateNames>
+<elevation>66</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<alternateName lang="en">RAF Cranwell</alternateName>
+<alternateName lang="icao">EGYD</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/RAF_Cranwell</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>96.38340759277344</score>
+</geoname>
+</geonames>

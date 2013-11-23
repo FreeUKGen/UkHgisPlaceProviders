@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Pitstone</toponymName>
+<name>Pitstone</name>
+<lat>51.8283</lat>
+<lng>-0.63987</lng>
+<geonameId>2640244</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UB</adminCode3>
+<adminName3>Aylesbury Vale</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pitstone</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.65442</west>
+<north>51.83729</north>
+<east>-0.62531</east>
+<south>51.81931</south>
+</bbox>
+<score>91.16739654541016</score>
+</geoname>
+<geoname>
+<toponymName>Pitstone</toponymName>
+<name>Pitstone</name>
+<lat>51.82567</lat>
+<lng>-0.61615</lng>
+<geonameId>7299787</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UB</adminCode3>
+<adminName3>Aylesbury Vale</adminName3>
+<adminCode4>11UB071</adminCode4>
+<adminName4>Pitstone</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.65507</west>
+<north>51.84445</north>
+<east>-0.57724</east>
+<south>51.80689</south>
+</bbox>
+<score>81.29920959472656</score>
+</geoname>
+</geonames>

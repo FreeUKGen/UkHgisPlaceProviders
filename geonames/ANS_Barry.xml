@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Barry</toponymName>
+<name>Barry</name>
+<lat>51.40812</lat>
+<lng>-3.27468</lng>
+<geonameId>7300565</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<adminCode3>00PD001</adminCode3>
+<adminName3>Barry</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.31847</west>
+<north>51.43142</north>
+<east>-3.23089</east>
+<south>51.38482</south>
+</bbox>
+<score>93.77342224121094</score>
+</geoname>
+<geoname>
+<toponymName>Barry</toponymName>
+<name>Barry</name>
+<lat>56.48333</lat>
+<lng>-2.75</lng>
+<geonameId>2656234</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Barry</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T7</adminCode2>
+<adminName2>Angus</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barry%2C_Angus</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.76629</west>
+<north>56.49233</north>
+<east>-2.73371</east>
+<south>56.47434</south>
+</bbox>
+<score>88.11823272705078</score>
+</geoname>
+<geoname>
+<toponymName>Barry</toponymName>
+<name>Barry</name>
+<lat>51.40667</lat>
+<lng>-3.26944</lng>
+<geonameId>2656235</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>51681</population>
+<alternateNames>Bari,Baris,Barri,Barry,Barry i Wales,Beri,Y Barri,ba li,Бари,Барри,Баррі,Бери,巴里</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<alternateName lang="bg">Бари</alternateName>
+<alternateName lang="br">Y Barri</alternateName>
+<alternateName lang="cy">Y Barri</alternateName>
+<alternateName lang="en">Barry</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barry%2C_Vale_of_Glamorgan</alternateName>
+<alternateName lang="lt">Baris</alternateName>
+<alternateName lang="nn">Barry i Wales</alternateName>
+<alternateName lang="ru">Барри</alternateName>
+<alternateName lang="sr">Бери</alternateName>
+<alternateName lang="uk">Баррі</alternateName>
+<alternateName lang="unlc">BYG</alternateName>
+<alternateName lang="zh">巴里</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.31675</west>
+<north>51.43615</north>
+<east>-3.22214</east>
+<south>51.37718</south>
+</bbox>
+<score>78.5750732421875</score>
+</geoname>
+<geoname>
+<toponymName>Barry</toponymName>
+<name>Barry</name>
+<lat>56.49993</lat>
+<lng>-2.7565</lng>
+<geonameId>6269316</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T7</adminCode2>
+<adminName2>Angus</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.77279</west>
+<north>56.50893</north>
+<east>-2.7402</east>
+<south>56.49094</south>
+</bbox>
+<score>53.86397171020508</score>
+</geoname>
+</geonames>

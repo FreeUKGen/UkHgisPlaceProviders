@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Habrough</toponymName>
+<name>Habrough</name>
+<lat>53.60809</lat>
+<lng>-0.26655</lng>
+<geonameId>7298805</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC008</adminCode3>
+<adminName3>Habrough</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.29211</west>
+<north>53.62377</north>
+<east>-0.24099</east>
+<south>53.59241</south>
+</bbox>
+<score>110.35100555419922</score>
+</geoname>
+<geoname>
+<toponymName>Habrough</toponymName>
+<name>Habrough</name>
+<lat>53.60796</lat>
+<lng>-0.26647</lng>
+<geonameId>2647706</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Habrough</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC008</adminCode3>
+<adminName3>Habrough</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Habrough</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.28163</west>
+<north>53.61696</north>
+<east>-0.25131</east>
+<south>53.59897</south>
+</bbox>
+<score>104.83998107910156</score>
+</geoname>
+</geonames>

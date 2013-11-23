@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kempston</toponymName>
+<name>Kempston</name>
+<lat>52.11679</lat>
+<lng>-0.49955</lng>
+<geonameId>7301693</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z5</adminCode2>
+<adminName2>Bedford</adminName2>
+<adminCode3>00KB018</adminCode3>
+<adminName3>Kempston</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.52187</west>
+<north>52.13084</north>
+<east>-0.47724</east>
+<south>52.10274</south>
+</bbox>
+<score>105.38803100585938</score>
+</geoname>
+<geoname>
+<toponymName>Kempston</toponymName>
+<name>Kempston</name>
+<lat>52.11599</lat>
+<lng>-0.50044</lng>
+<geonameId>2645831</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>19873</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z5</adminCode2>
+<adminName2>Bedford</adminName2>
+<adminCode3>00KB018</adminCode3>
+<adminName3>Kempston</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kempston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.52974</west>
+<north>52.13398</north>
+<east>-0.47113</east>
+<south>52.09801</south>
+</bbox>
+<score>101.84161376953125</score>
+</geoname>
+</geonames>

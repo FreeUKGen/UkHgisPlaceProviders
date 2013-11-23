@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Foulden</toponymName>
+<name>Foulden</name>
+<lat>55.78333</lat>
+<lng>-2.11667</lng>
+<geonameId>2649148</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Foulden</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T9</adminCode2>
+<adminName2>Scottish Borders</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Foulden%2C_Scottish_Borders</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.13266</west>
+<north>55.79233</north>
+<east>-2.10067</east>
+<south>55.77434</south>
+</bbox>
+<score>99.31004333496094</score>
+</geoname>
+<geoname>
+<toponymName>Foulden</toponymName>
+<name>Foulden</name>
+<lat>52.56073</lat>
+<lng>0.60386</lng>
+<geonameId>2649149</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Foulden%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.58906</west>
+<north>52.56972</north>
+<east>0.61866</east>
+<south>52.55173</south>
+</bbox>
+<score>82.87312316894531</score>
+</geoname>
+<geoname>
+<toponymName>Foulden</toponymName>
+<name>Foulden</name>
+<lat>52.55981</lat>
+<lng>0.61543</lng>
+<geonameId>7298223</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<adminCode4>33UB028</adminCode4>
+<adminName4>Foulden</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.5631</west>
+<north>52.57648</north>
+<east>0.66777</east>
+<south>52.54314</south>
+</bbox>
+<score>79.09623718261719</score>
+</geoname>
+</geonames>

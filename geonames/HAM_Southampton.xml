@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Southampton</toponymName>
+<name>Southampton</name>
+<lat>50.90395</lat>
+<lng>-1.40428</lng>
+<geonameId>2637487</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>246201</population>
+<alternateNames>Gorad Sautgemptan,Hantonia,Hantonne,SOU,Saouthampton,Sautamptonas,Sautgempton,Sauthempton,Sauthemptona,Sautkhamptun,Sautkhempton,Southampton,nan an pu dui,sausaempeuteon,sausanputon,sawthhambtwn,Σαουθάμπτον,Горад Саўтгемптан,Саутгемптон,Саутхамптън,Саутхемптон,סאות'המפטון,ساؤتھمپٹن,ساوت‌همپتون,ساوثهامبتون,เซาแทมป์ตัน,ဆောက်သမ္ပတန်မြို့,サウサンプトン,南安普敦,사우샘프턴</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M4</adminCode2>
+<adminName2>Southampton</adminName2>
+<adminCode3>24UJ</adminCode3>
+<adminName3>GB.ENG.M4.24UJ</adminName3>
+<alternateName lang="ar">ساوثهامبتون</alternateName>
+<alternateName lang="ast">Southampton</alternateName>
+<alternateName lang="az">Sauthempton</alternateName>
+<alternateName lang="be">Горад Саўтгемптан</alternateName>
+<alternateName lang="bg">Саутхамптън</alternateName>
+<alternateName lang="cs">Southampton</alternateName>
+<alternateName lang="de">Southampton</alternateName>
+<alternateName lang="el">Σαουθάμπτον</alternateName>
+<alternateName lang="en">Southampton</alternateName>
+<alternateName lang="eo">Southampton</alternateName>
+<alternateName lang="es">Southampton</alternateName>
+<alternateName lang="fa">ساوت‌همپتون</alternateName>
+<alternateName lang="fi">Southampton</alternateName>
+<alternateName lang="fr">Southampton</alternateName>
+<alternateName lang="he">סאות'המפטון</alternateName>
+<alternateName lang="iata">SOU</alternateName>
+<alternateName lang="id">Southampton</alternateName>
+<alternateName lang="it">Southampton</alternateName>
+<alternateName lang="ja">サウサンプトン</alternateName>
+<alternateName lang="kk">Саутгемптон</alternateName>
+<alternateName lang="ko">사우샘프턴</alternateName>
+<alternateName lang="la">Hantonia</alternateName>
+<alternateName lang="lb">Southampton</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Southampton</alternateName>
+<alternateName lang="lt">Sautamptonas</alternateName>
+<alternateName lang="lv">Sauthemptona</alternateName>
+<alternateName lang="my">ဆောက်သမ္ပတန်မြို့</alternateName>
+<alternateName lang="mzn">ساوت‌همپتون</alternateName>
+<alternateName lang="nl">Southampton</alternateName>
+<alternateName lang="no">Southampton</alternateName>
+<alternateName lang="nrm">Hantonne</alternateName>
+<alternateName lang="pl">Southampton</alternateName>
+<alternateName lang="pnb">ساؤتھمپٹن</alternateName>
+<alternateName lang="pt">Southampton</alternateName>
+<alternateName lang="ro">Southampton</alternateName>
+<alternateName lang="ru">Саутгемптон</alternateName>
+<alternateName lang="sk">Southampton</alternateName>
+<alternateName lang="sr">Саутхемптон</alternateName>
+<alternateName lang="sv">Southampton</alternateName>
+<alternateName lang="th">เซาแทมป์ตัน</alternateName>
+<alternateName lang="tr">Southampton</alternateName>
+<alternateName lang="uk">Саутгемптон</alternateName>
+<alternateName lang="zh">南安普敦</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.50652</west>
+<north>50.96833</north>
+<east>-1.30204</east>
+<south>50.83956</south>
+</bbox>
+<score>163.9423828125</score>
+</geoname>
+<geoname>
+<toponymName>City of Southampton</toponymName>
+<name>City of Southampton</name>
+<lat>50.91667</lat>
+<lng>-1.38333</lng>
+<geonameId>3333196</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>STH,Southampton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M4</adminCode2>
+<adminName2>Southampton</adminName2>
+<alternateName lang="abbr">STH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.479</west>
+<north>50.95614</north>
+<east>-1.32199</east>
+<south>50.87151</south>
+</bbox>
+<score>79.97785949707031</score>
+</geoname>
+</geonames>

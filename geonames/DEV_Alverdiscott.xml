@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Alverdiscott</toponymName>
+<name>Alverdiscott</name>
+<lat>51.00194</lat>
+<lng>-4.1208</lng>
+<geonameId>7300321</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UK</adminCode3>
+<adminName3>Torridge District</adminName3>
+<adminCode4>18UK003</adminCode4>
+<adminName4>Alverdiscott</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alverdiscott</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.16425</west>
+<north>51.02068</north>
+<east>-4.07736</east>
+<south>50.98321</south>
+</bbox>
+<score>61.74647521972656</score>
+</geoname>
+</geonames>

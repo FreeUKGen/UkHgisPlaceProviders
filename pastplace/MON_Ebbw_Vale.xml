@@ -1,0 +1,90 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>952</id>
+<name>EBBW VALE</name>
+<container>MONMOUTHSHIRE</container>
+<lat>51.7663358802984</lat>
+<lon>-3.19747986627889</lon>
+<gazetteerText>EBBW VALE, a seat of iron-works in the NW of Monmouth; in the vale of the western headstream of the Ebbw river, at the terminus of the branch railway of that vale, 21&#190; miles NNW of Newport. It has a station on the railway with telegraph, and a post office&#8225; under Tredegar. The forges and the mills of its iron-works are admirably conducted; and these works, together with those of Victoria, 2&#188; miles farther down the vale, employ about 9, 000 persons. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2650285</link>
+<link>http://en.wikipedia.org/wiki/Ebbw_Vale</link>
+</links>
+<unit>
+   <id>10163493</id>
+   <status>EP</status>
+   <name>EBBW VALE</name>
+</unit>
+<unit>
+   <id>10176153</id>
+   <status>UD</status>
+   <name>EBBW VALE</name>
+</unit>
+<unit>
+   <id>10214403</id>
+   <status>CP</status>
+   <name>EBBW VALE</name>
+</unit>
+<unit>
+   <id>12748280</id>
+   <status>CCon</status>
+   <name>EBBW VALE</name>
+</unit>
+<unit>
+   <id>12750560</id>
+   <status>PDivCon</status>
+   <name>MONMOUTHSHIRE EBBW VALE</name>
+</unit>
+<unit>
+   <id>12827374</id>
+   <status>USD</status>
+   <name>EBBW VALE</name>
+</unit>
+<unit>
+   <id>12829796</id>
+   <status></status>
+   <name>EBBW VALE</name>
+</unit>
+<nearByPlace>
+   <id>126</id>
+   <name>BRECON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>679</id>
+   <name>TREDEGAR</name>
+</nearByPlace>
+<nearByPlace>
+   <id>953</id>
+   <name>BRYN MAWR</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1152</id>
+   <name>RHYMNEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1355</id>
+   <name>LLANDRINDOD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1362</id>
+   <name>CEFNLLYS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1763</id>
+   <name>DUKESTOWN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6100</id>
+   <name>BEAUFORT</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6376</id>
+   <name>LLANGATWG</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6454</id>
+   <name>LLANGYNIDR</name>
+</nearByPlace>
+</place>
+</results>

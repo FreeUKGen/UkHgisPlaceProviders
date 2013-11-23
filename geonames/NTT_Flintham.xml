@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Flintham</toponymName>
+<name>Flintham</name>
+<lat>53.00631</lat>
+<lng>-0.89815</lng>
+<geonameId>2649300</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Flintham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Flintham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.9131</west>
+<north>53.01531</north>
+<east>-0.8832</east>
+<south>52.99732</south>
+</bbox>
+<score>106.42523193359375</score>
+</geoname>
+<geoname>
+<toponymName>Flintham</toponymName>
+<name>Flintham</name>
+<lat>53.01226</lat>
+<lng>-0.90047</lng>
+<geonameId>7296966</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<adminCode4>37UJ017</adminCode4>
+<adminName4>Flintham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.93153</west>
+<north>53.03591</north>
+<east>-0.86941</east>
+<south>52.98861</south>
+</bbox>
+<score>80.57308959960938</score>
+</geoname>
+</geonames>

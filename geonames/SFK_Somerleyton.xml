@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Somerleyton</toponymName>
+<name>Somerleyton</name>
+<lat>52.51502</lat>
+<lng>1.65267</lng>
+<geonameId>2637535</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UH</adminCode3>
+<adminName3>Waveney District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Somerleyton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.63789</west>
+<north>52.52401</north>
+<east>1.66745</east>
+<south>52.50603</south>
+</bbox>
+<score>93.6578598022461</score>
+</geoname>
+</geonames>

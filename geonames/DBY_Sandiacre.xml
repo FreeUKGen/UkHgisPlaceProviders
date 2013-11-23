@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Sandiacre</toponymName>
+<name>Sandiacre</name>
+<lat>52.92331</lat>
+<lng>-1.29013</lng>
+<geonameId>2638576</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UG</adminCode3>
+<adminName3>Erewash District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sandiacre</alternateName>
+<alternateName lang="unlc">SDI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.30506</west>
+<north>52.9323</north>
+<east>-1.27521</east>
+<south>52.91431</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+<geoname>
+<toponymName>Sandiacre</toponymName>
+<name>Sandiacre</name>
+<lat>52.92344</lat>
+<lng>-1.30053</lng>
+<geonameId>7293264</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UG</adminCode3>
+<adminName3>Erewash District</adminName3>
+<adminCode4>17UG010</adminCode4>
+<adminName4>Sandiacre</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.32323</west>
+<north>52.93681</north>
+<east>-1.27784</east>
+<south>52.91006</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

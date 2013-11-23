@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Everdon</toponymName>
+<name>Everdon</name>
+<lat>52.21082</lat>
+<lng>-1.13704</lng>
+<geonameId>7295649</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<adminCode4>34UC028</adminCode4>
+<adminName4>Everdon</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Everdon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.1629</west>
+<north>52.22857</north>
+<east>-1.11118</east>
+<south>52.19308</south>
+</bbox>
+<score>56.89469528198242</score>
+</geoname>
+</geonames>

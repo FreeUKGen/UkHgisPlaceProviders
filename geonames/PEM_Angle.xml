@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Angle</toponymName>
+<name>Angle</name>
+<lat>51.6754</lat>
+<lng>-5.0759</lng>
+<geonameId>7297124</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS003</adminCode3>
+<adminName3>Angle</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.12605</west>
+<north>51.69502</north>
+<east>-5.02575</east>
+<south>51.65578</south>
+</bbox>
+<score>99.52268981933594</score>
+</geoname>
+<geoname>
+<toponymName>Angle</toponymName>
+<name>Angle</name>
+<lat>51.684</lat>
+<lng>-5.08919</lng>
+<geonameId>2657312</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS003</adminCode3>
+<adminName3>Angle</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.1037</west>
+<north>51.693</north>
+<east>-5.07468</east>
+<south>51.67501</south>
+</bbox>
+<score>57.13310241699219</score>
+</geoname>
+</geonames>

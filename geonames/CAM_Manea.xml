@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Manea</toponymName>
+<name>Manea</name>
+<lat>52.48304</lat>
+<lng>0.17857</lng>
+<geonameId>2643121</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1614</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UD</adminCode3>
+<adminName3>Fenland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Manea%2C_Cambridgeshire</alternateName>
+<alternateName lang="unlc">MEA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.17119</west>
+<north>52.48754</north>
+<east>0.18596</east>
+<south>52.47854</south>
+</bbox>
+<score>92.64456939697266</score>
+</geoname>
+<geoname>
+<toponymName>Manea</toponymName>
+<name>Manea</name>
+<lat>52.4888</lat>
+<lng>0.17982</lng>
+<geonameId>7292898</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UD</adminCode3>
+<adminName3>Fenland District</adminName3>
+<adminCode4>12UD006</adminCode4>
+<adminName4>Manea</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.12334</west>
+<north>52.52889</north>
+<east>0.2363</east>
+<south>52.44872</south>
+</bbox>
+<score>78.61123657226562</score>
+</geoname>
+</geonames>

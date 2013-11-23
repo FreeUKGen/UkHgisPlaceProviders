@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Holm</toponymName>
+<name>Holm</name>
+<lat>55.26667</lat>
+<lng>-3.18333</lng>
+<geonameId>2646735</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U2</adminCode2>
+<adminName2>Dumfries and Galloway</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.19912</west>
+<north>55.27566</north>
+<east>-3.16754</east>
+<south>55.25767</south>
+</bbox>
+<score>51.53295135498047</score>
+</geoname>
+<geoname>
+<toponymName>Holm Sand</toponymName>
+<name>Holm Sand</name>
+<lat>52.48333</lat>
+<lng>1.76667</lng>
+<geonameId>2646734</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>H</fcl>
+<fcode>SHOL</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>shoal(s)</fcodeName>
+<population/>
+<alternateNames>Holm,Holm Sand</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>21.464874267578125</score>
+</geoname>
+</geonames>

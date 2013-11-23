@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Stratton</toponymName>
+<name>Stratton</name>
+<lat>50.73333</lat>
+<lng>-2.5</lng>
+<geonameId>2636682</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Stratton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stratton%2C_Dorset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.51421</west>
+<north>50.74233</north>
+<east>-2.48579</east>
+<south>50.72434</south>
+</bbox>
+<score>81.23597717285156</score>
+</geoname>
+<geoname>
+<toponymName>Stratton</toponymName>
+<name>Stratton</name>
+<lat>50.83333</lat>
+<lng>-4.51667</lng>
+<geonameId>2636681</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Stratton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stratton%2C_Cornwall</alternateName>
+<alternateName lang="unlc">SAO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.53091</west>
+<north>50.84233</north>
+<east>-4.50242</east>
+<south>50.82434</south>
+</bbox>
+<score>70.4188461303711</score>
+</geoname>
+<geoname>
+<toponymName>Stratton</toponymName>
+<name>Stratton</name>
+<lat>50.74924</lat>
+<lng>-2.49248</lng>
+<geonameId>7293438</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH109</adminCode4>
+<adminName4>Stratton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.51806</west>
+<north>50.76623</north>
+<east>-2.46689</east>
+<south>50.73225</south>
+</bbox>
+<score>62.685829162597656</score>
+</geoname>
+<geoname>
+<toponymName>Stratton-on-the-Fosse</toponymName>
+<name>Stratton-on-the-Fosse</name>
+<lat>51.25333</lat>
+<lng>-2.49222</lng>
+<geonameId>2636679</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Stratton,Stratton-on-the-Fosse</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stratton-on-the-Fosse</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.50659</west>
+<north>51.26233</north>
+<east>-2.47785</east>
+<south>51.24434</south>
+</bbox>
+<score>51.2991943359375</score>
+</geoname>
+<geoname>
+<toponymName>Stratton Saint Margaret</toponymName>
+<name>Stratton Saint Margaret</name>
+<lat>51.58333</lat>
+<lng>-1.75</lng>
+<geonameId>2636678</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Stratton,Stratton Saint Margaret</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.76448</west>
+<north>51.59233</north>
+<east>-1.73552</east>
+<south>51.57434</south>
+</bbox>
+<score>37.74677658081055</score>
+</geoname>
+</geonames>

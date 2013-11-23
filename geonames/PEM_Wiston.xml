@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Wiston</toponymName>
+<name>Wiston</name>
+<lat>51.8465</lat>
+<lng>-4.87087</lng>
+<geonameId>7292316</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS078</adminCode3>
+<adminName3>Wiston</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.94133</west>
+<north>51.88778</north>
+<east>-4.80042</east>
+<south>51.80522</south>
+</bbox>
+<score>103.56224060058594</score>
+</geoname>
+<geoname>
+<toponymName>Wiston</toponymName>
+<name>Wiston</name>
+<lat>51.82583</lat>
+<lng>-4.87</lng>
+<geonameId>2633757</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Wiston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS078</adminCode3>
+<adminName3>Wiston</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wiston%2C_Pembrokeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.89911</west>
+<north>51.84382</north>
+<east>-4.84089</east>
+<south>51.80785</south>
+</bbox>
+<score>75.00556945800781</score>
+</geoname>
+<geoname>
+<toponymName>Wiston</toponymName>
+<name>Wiston</name>
+<lat>55.56667</lat>
+<lng>-3.63333</lng>
+<geonameId>2633756</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W5</adminCode2>
+<adminName2>South Lanarkshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.64924</west>
+<north>55.57566</north>
+<east>-3.61742</east>
+<south>55.55767</south>
+</bbox>
+<score>59.4026985168457</score>
+</geoname>
+<geoname>
+<toponymName>Wiston</toponymName>
+<name>Wiston</name>
+<lat>50.91862</lat>
+<lng>-0.36684</lng>
+<geonameId>7297910</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UF</adminCode3>
+<adminName3>Horsham District</adminName3>
+<adminCode4>45UF032</adminCode4>
+<adminName4>Wiston</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wiston%2C_West_Sussex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.38874</west>
+<north>50.95164</north>
+<east>-0.34493</east>
+<south>50.88559</south>
+</bbox>
+<score>50.82246780395508</score>
+</geoname>
+</geonames>

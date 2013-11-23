@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Angmering</toponymName>
+<name>Angmering</name>
+<lat>50.82936</lat>
+<lng>-0.48357</lng>
+<geonameId>2657308</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UC</adminCode3>
+<adminName3>Arun District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Angmering</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.49781</west>
+<north>50.83835</north>
+<east>-0.46933</east>
+<south>50.82037</south>
+</bbox>
+<score>89.46940612792969</score>
+</geoname>
+<geoname>
+<toponymName>Angmering</toponymName>
+<name>Angmering</name>
+<lat>50.85466</lat>
+<lng>-0.48542</lng>
+<geonameId>7292728</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UC</adminCode3>
+<adminName3>Arun District</adminName3>
+<adminCode4>45UC003</adminCode4>
+<adminName4>Angmering</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.51551</west>
+<north>50.89675</north>
+<east>-0.45533</east>
+<south>50.81258</south>
+</bbox>
+<score>79.61540222167969</score>
+</geoname>
+</geonames>

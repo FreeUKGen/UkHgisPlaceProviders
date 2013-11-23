@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Kensington</toponymName>
+<name>Kensington</name>
+<lat>51.50094</lat>
+<lng>-0.19175</lng>
+<geonameId>2645801</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Kensington,Kensingtun,Kensinqton,ken xin dun,kenjingteon,kenjinton,kensingtana,knzyngtwn,qnzyngtwn,Кенсингтон,Кенсингтън,Кенсінгтон,קנזינגטון,کنزینگتون,केंसिंग्टन,ケンジントン,肯辛顿,켄징턴</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>G4</adminCode3>
+<adminName3>Royal Kensington and Chelsea</adminName3>
+<alternateName lang="az">Kensinqton</alternateName>
+<alternateName lang="be">Кенсінгтон</alternateName>
+<alternateName lang="bg">Кенсингтън</alternateName>
+<alternateName lang="fa">کنزینگتون</alternateName>
+<alternateName lang="he">קנזינגטון</alternateName>
+<alternateName lang="hi">केंसिंग्टन</alternateName>
+<alternateName lang="ja">ケンジントン</alternateName>
+<alternateName lang="ko">켄징턴</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kensington</alternateName>
+<alternateName lang="ru">Кенсингтон</alternateName>
+<alternateName lang="zh">肯辛顿</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.22065</west>
+<north>51.51893</north>
+<east>-0.16284</east>
+<south>51.48296</south>
+</bbox>
+<score>60.886932373046875</score>
+</geoname>
+</geonames>

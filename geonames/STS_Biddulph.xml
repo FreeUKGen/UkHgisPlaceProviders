@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Biddulph</toponymName>
+<name>Biddulph</name>
+<lat>53.11724</lat>
+<lng>-2.17584</lng>
+<geonameId>2655708</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>17625</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UH</adminCode3>
+<adminName3>Staffordshire Moorlands</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Biddulph</alternateName>
+<alternateName lang="unlc">BDU</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.20389</west>
+<north>53.13407</north>
+<east>-2.1478</east>
+<south>53.10041</south>
+</bbox>
+<score>116.14912414550781</score>
+</geoname>
+<geoname>
+<toponymName>Biddulph</toponymName>
+<name>Biddulph</name>
+<lat>53.12475</lat>
+<lng>-2.16704</lng>
+<geonameId>7291777</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UH</adminCode3>
+<adminName3>Staffordshire Moorlands</adminName3>
+<adminCode4>41UH004</adminCode4>
+<adminName4>Biddulph</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.21132</west>
+<north>53.15975</north>
+<east>-2.12277</east>
+<south>53.08975</south>
+</bbox>
+<score>79.08279418945312</score>
+</geoname>
+</geonames>

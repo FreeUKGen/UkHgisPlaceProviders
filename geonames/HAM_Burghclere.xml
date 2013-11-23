@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Burghclere</toponymName>
+<name>Burghclere</name>
+<lat>51.34874</lat>
+<lng>-1.32351</lng>
+<geonameId>2654304</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Burghclere</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UB</adminCode3>
+<adminName3>Basingstoke and Deane District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burghclere</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.33791</west>
+<north>51.35773</north>
+<east>-1.30911</east>
+<south>51.33974</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+<geoname>
+<toponymName>Burghclere</toponymName>
+<name>Burghclere</name>
+<lat>51.332</lat>
+<lng>-1.32157</lng>
+<geonameId>7296536</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UB</adminCode3>
+<adminName3>Basingstoke and Deane District</adminName3>
+<adminCode4>24UB006</adminCode4>
+<adminName4>Burghclere</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.35554</west>
+<north>51.37112</north>
+<east>-1.2876</east>
+<south>51.29288</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

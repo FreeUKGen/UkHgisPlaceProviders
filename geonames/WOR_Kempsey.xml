@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kempsey</toponymName>
+<name>Kempsey</name>
+<lat>52.13936</lat>
+<lng>-2.21751</lng>
+<geonameId>2645833</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2570</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UC</adminCode3>
+<adminName3>Malvern Hills District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kempsey%2C_Worcestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.22787</west>
+<north>52.14572</north>
+<east>-2.20714</east>
+<south>52.133</south>
+</bbox>
+<score>97.30244445800781</score>
+</geoname>
+<geoname>
+<toponymName>Kempsey</toponymName>
+<name>Kempsey</name>
+<lat>52.14139</lat>
+<lng>-2.19928</lng>
+<geonameId>7297788</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UC</adminCode3>
+<adminName3>Malvern Hills District</adminName3>
+<adminCode4>47UC030</adminCode4>
+<adminName4>Kempsey</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.23363</west>
+<north>52.16738</north>
+<east>-2.16493</east>
+<south>52.11541</south>
+</bbox>
+<score>76.43499755859375</score>
+</geoname>
+</geonames>

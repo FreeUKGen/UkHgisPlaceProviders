@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Aberedw</toponymName>
+<name>Aberedw</name>
+<lat>52.12859</lat>
+<lng>-3.2977</lng>
+<geonameId>7297038</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN002</adminCode3>
+<adminName3>Aberedw</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.36664</west>
+<north>52.16319</north>
+<east>-3.22876</east>
+<south>52.09399</south>
+</bbox>
+<score>113.40838623046875</score>
+</geoname>
+<geoname>
+<toponymName>Aberedw</toponymName>
+<name>Aberedw</name>
+<lat>52.11654</lat>
+<lng>-3.34305</lng>
+<geonameId>2657824</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Aberedw</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN002</adminCode3>
+<adminName3>Aberedw</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aberedw</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.3577</west>
+<north>52.12553</north>
+<east>-3.3284</east>
+<south>52.10755</south>
+</bbox>
+<score>107.9564208984375</score>
+</geoname>
+</geonames>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Southminster</toponymName>
+<name>Southminster</name>
+<lat>51.66228</lat>
+<lng>0.82968</lng>
+<geonameId>2637374</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3860</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UK</adminCode3>
+<adminName3>Maldon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Southminster</alternateName>
+<alternateName lang="unlc">SSR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.81712</west>
+<north>51.67007</north>
+<east>0.84224</east>
+<south>51.65449</south>
+</bbox>
+<score>97.7225341796875</score>
+</geoname>
+<geoname>
+<toponymName>Southminster</toponymName>
+<name>Southminster</name>
+<lat>51.65535</lat>
+<lng>0.88124</lng>
+<geonameId>7295130</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UK</adminCode3>
+<adminName3>Maldon District</adminName3>
+<adminCode4>22UK022</adminCode4>
+<adminName4>Southminster</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.79072</west>
+<north>51.67611</north>
+<east>0.97177</east>
+<south>51.63459</south>
+</bbox>
+<score>77.39768981933594</score>
+</geoname>
+</geonames>

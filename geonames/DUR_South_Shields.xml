@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>South Shields</toponymName>
+<name>South Shields</name>
+<lat>54.99859</lat>
+<lng>-1.4323</lng>
+<geonameId>2637329</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>83655</population>
+<alternateNames>Saut Shijlds,Saut Shilds,Shields,South Shields,nan xi er ci,sauseusiljeu,sawt shyldz,Саут Шийлдс,Саут Шилдс,ساوت شیلدز,南希尔兹,사우스실즈</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M7</adminCode2>
+<adminName2>South Tyneside</adminName2>
+<adminCode3>00EM167</adminCode3>
+<adminName3>GB.ENG.M7.00EM167</adminName3>
+<alternateName lang="bg">Саут Шийлдс</alternateName>
+<alternateName lang="de">South Shields</alternateName>
+<alternateName lang="en">South Shields</alternateName>
+<alternateName lang="fa">ساوت شیلدز</alternateName>
+<alternateName lang="ko">사우스실즈</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/South_Shields</alternateName>
+<alternateName lang="sr">Саут Шилдс</alternateName>
+<alternateName lang="unlc">SSH</alternateName>
+<alternateName lang="zh">南希尔兹</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.49748</west>
+<north>55.03594</north>
+<east>-1.36712</east>
+<south>54.96124</south>
+</bbox>
+<score>106.8600082397461</score>
+</geoname>
+<geoname>
+<toponymName>South Shields</toponymName>
+<name>South Shields</name>
+<lat>54.99833</lat>
+<lng>-1.43301</lng>
+<geonameId>7701306</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>MTRO</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>metro station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M7</adminCode2>
+<adminName2>South Tyneside</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/South_Shields_Metro_station</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>51.47373580932617</score>
+</geoname>
+</geonames>

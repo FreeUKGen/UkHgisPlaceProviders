@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Tottenham</toponymName>
+<name>Tottenham</name>
+<lat>51.60373</lat>
+<lng>-0.06794</lng>
+<geonameId>2635608</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>TTK,Totenamas,Tottenham,Tottenkhehm,tatnham,toteuneom,tuo te na mu,twtnham,Тоттенхэм,تاتنهام,توتنهام,托特納姆,토트넘</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>F3</adminCode3>
+<adminName3>Haringey</adminName3>
+<alternateName lang="ar">توتنهام</alternateName>
+<alternateName lang="fa">تاتنهام</alternateName>
+<alternateName lang="iata">TTK</alternateName>
+<alternateName lang="ko">토트넘</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tottenham</alternateName>
+<alternateName lang="lt">Totenamas</alternateName>
+<alternateName lang="ru">Тоттенхэм</alternateName>
+<alternateName lang="unlc">TTT</alternateName>
+<alternateName lang="zh">托特納姆</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.08242</west>
+<north>51.61272</north>
+<east>-0.05345</east>
+<south>51.59473</south>
+</bbox>
+<score>62.21617126464844</score>
+</geoname>
+</geonames>

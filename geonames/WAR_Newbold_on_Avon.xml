@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Newbold on Avon</toponymName>
+<name>Newbold on Avon</name>
+<lat>52.39126</lat>
+<lng>-1.2866</lng>
+<geonameId>2641712</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Newbold,Newbold on Avon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UD</adminCode3>
+<adminName3>Rugby District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.30134</west>
+<north>52.40026</north>
+<east>-1.27186</east>
+<south>52.38227</south>
+</bbox>
+<score>66.89218139648438</score>
+</geoname>
+</geonames>

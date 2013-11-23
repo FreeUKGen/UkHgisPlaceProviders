@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Lamphey</toponymName>
+<name>Lamphey</name>
+<lat>51.66018</lat>
+<lng>-4.86113</lng>
+<geonameId>7296245</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS030</adminCode3>
+<adminName3>Lamphey</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.88932</west>
+<north>51.67974</north>
+<east>-4.83294</east>
+<south>51.64061</south>
+</bbox>
+<score>110.52755737304688</score>
+</geoname>
+<geoname>
+<toponymName>Lamphey</toponymName>
+<name>Lamphey</name>
+<lat>51.6664</lat>
+<lng>-4.87205</lng>
+<geonameId>2644979</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Lamphey</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS030</adminCode3>
+<adminName3>Lamphey</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lamphey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.88655</west>
+<north>51.6754</north>
+<east>-4.85755</east>
+<south>51.65741</south>
+</bbox>
+<score>105.38447570800781</score>
+</geoname>
+</geonames>

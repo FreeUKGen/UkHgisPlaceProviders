@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Peterston-super-Ely</toponymName>
+<name>Peterston-super-Ely</name>
+<lat>51.47965</lat>
+<lng>-3.32115</lng>
+<geonameId>2640343</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Peterston,Peterston-super-Ely</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<adminCode3>00PD017</adminCode3>
+<adminName3>Peterston-super-Ely</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.3356</west>
+<north>51.48864</north>
+<east>-3.30671</east>
+<south>51.47065</south>
+</bbox>
+<score>76.80717468261719</score>
+</geoname>
+<geoname>
+<toponymName>Peterston-super-Ely</toponymName>
+<name>Peterston-super-Ely</name>
+<lat>51.48847</lat>
+<lng>-3.32736</lng>
+<geonameId>7301709</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<adminCode3>00PD017</adminCode3>
+<adminName3>Peterston-super-Ely</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Peterston-super-Ely</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.35112</west>
+<north>51.50952</north>
+<east>-3.3036</east>
+<south>51.46742</south>
+</bbox>
+<score>75.85057067871094</score>
+</geoname>
+</geonames>

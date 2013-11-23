@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kelloe</toponymName>
+<name>Kelloe</name>
+<lat>54.71748</lat>
+<lng>-1.46131</lng>
+<geonameId>7294475</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ064</adminCode3>
+<adminName3>Kelloe</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.4938</west>
+<north>54.73746</north>
+<east>-1.42882</east>
+<south>54.69751</south>
+</bbox>
+<score>107.97335815429688</score>
+</geoname>
+<geoname>
+<toponymName>Kelloe</toponymName>
+<name>Kelloe</name>
+<lat>54.71894</lat>
+<lng>-1.47495</lng>
+<geonameId>7280524</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ064</adminCode3>
+<adminName3>Kelloe</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kelloe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.49052</west>
+<north>54.72794</north>
+<east>-1.45937</east>
+<south>54.70995</south>
+</bbox>
+<score>87.46858215332031</score>
+</geoname>
+</geonames>

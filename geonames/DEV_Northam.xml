@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Northam</toponymName>
+<name>Northam</name>
+<lat>51.03333</lat>
+<lng>-4.21667</lng>
+<geonameId>2641434</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7668</population>
+<alternateNames>Northam</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UK</adminCode3>
+<adminName3>Torridge District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Northam%2C_Devon</alternateName>
+<alternateName lang="unlc">NOM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.23419</west>
+<north>51.04435</north>
+<east>-4.19915</east>
+<south>51.02232</south>
+</bbox>
+<score>91.82321166992188</score>
+</geoname>
+<geoname>
+<toponymName>Northam</toponymName>
+<name>Northam</name>
+<lat>51.05067</lat>
+<lng>-4.22084</lng>
+<geonameId>7294946</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UK</adminCode3>
+<adminName3>Torridge District</adminName3>
+<adminCode4>18UK042</adminCode4>
+<adminName4>Northam</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.25834</west>
+<north>51.07881</north>
+<east>-4.18334</east>
+<south>51.02253</south>
+</bbox>
+<score>70.94158172607422</score>
+</geoname>
+<geoname>
+<toponymName>Northam</toponymName>
+<name>Northam</name>
+<lat>50.91104</lat>
+<lng>-1.392</lng>
+<geonameId>2641433</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.39771</west>
+<north>50.91464</north>
+<east>-1.3863</east>
+<south>50.90745</south>
+</bbox>
+<score>35.47079086303711</score>
+</geoname>
+</geonames>

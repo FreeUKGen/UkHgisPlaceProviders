@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Witton-le-Wear</toponymName>
+<name>Witton-le-Wear</name>
+<lat>54.68605</lat>
+<lng>-1.76605</lng>
+<geonameId>7293148</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ129</adminCode3>
+<adminName3>Witton-le-Wear</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Witton-le-Wear</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.79385</west>
+<north>54.70119</north>
+<east>-1.73825</east>
+<south>54.67091</south>
+</bbox>
+<score>74.98880004882812</score>
+</geoname>
+<geoname>
+<toponymName>Witton le Wear</toponymName>
+<name>Witton le Wear</name>
+<lat>54.67565</lat>
+<lng>-1.77387</lng>
+<geonameId>2633721</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Witton le Wear</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ129</adminCode3>
+<adminName3>Witton-le-Wear</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.78943</west>
+<north>54.68465</north>
+<east>-1.75831</east>
+<south>54.66666</south>
+</bbox>
+<score>52.95664978027344</score>
+</geoname>
+</geonames>

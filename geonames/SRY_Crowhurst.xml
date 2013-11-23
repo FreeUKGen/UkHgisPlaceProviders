@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Crowhurst</toponymName>
+<name>Crowhurst</name>
+<lat>50.88544</lat>
+<lng>0.49507</lng>
+<geonameId>2651845</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E2</adminCode2>
+<adminName2>East Sussex</adminName2>
+<adminCode3>21UG</adminCode3>
+<adminName3>Rother District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Crowhurst%2C_East_Sussex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.48081</west>
+<north>50.89443</north>
+<east>0.50933</east>
+<south>50.87644</south>
+</bbox>
+<score>83.1378173828125</score>
+</geoname>
+<geoname>
+<toponymName>Crowhurst</toponymName>
+<name>Crowhurst</name>
+<lat>50.8806</lat>
+<lng>0.49655</lng>
+<geonameId>7293470</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E2</adminCode2>
+<adminName2>East Sussex</adminName2>
+<adminCode3>21UG</adminCode3>
+<adminName3>Rother District</adminName3>
+<adminCode4>21UG010</adminCode4>
+<adminName4>Crowhurst</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.46387</west>
+<north>50.89895</north>
+<east>0.52923</east>
+<south>50.86226</south>
+</bbox>
+<score>79.35822296142578</score>
+</geoname>
+<geoname>
+<toponymName>Crowhurst</toponymName>
+<name>Crowhurst</name>
+<lat>51.20477</lat>
+<lng>-0.00146</lng>
+<geonameId>7297356</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UK</adminCode3>
+<adminName3>Tandridge District</adminName3>
+<adminCode4>43UK004</adminCode4>
+<adminName4>Crowhurst</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.03155</west>
+<north>51.22272</north>
+<east>0.02863</east>
+<south>51.18681</south>
+</bbox>
+<score>79.35822296142578</score>
+</geoname>
+<geoname>
+<toponymName>Crowhurst</toponymName>
+<name>Crowhurst</name>
+<lat>51.20957</lat>
+<lng>-0.01013</lng>
+<geonameId>2651844</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UK</adminCode3>
+<adminName3>Tandridge District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.02449</west>
+<north>51.21857</north>
+<east>0.00423</east>
+<south>51.20058</south>
+</bbox>
+<score>63.1538200378418</score>
+</geoname>
+</geonames>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Gateshead</toponymName>
+<name>Gateshead</name>
+<lat>54.96209</lat>
+<lng>-1.60168</lng>
+<geonameId>2648773</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>77649</population>
+<alternateNames>Gateshead,Gateshead-on-Tyne,Geitshedas,Gejtskhed,gai ci hei de,geicheuhedeu,gyytshd,jytshyd,Гейтсхед,Гејтсхед,גייטסהד,גייטסהעד,جيتشيد,گیتس‌هد,蓋茨黑德,게이츠헤드</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E5</adminCode2>
+<adminName2>Gateshead</adminName2>
+<adminCode3>00CH002</adminCode3>
+<adminName3>Lamesley</adminName3>
+<alternateName lang="ar">جيتشيد</alternateName>
+<alternateName lang="de">Gateshead</alternateName>
+<alternateName lang="en">Gateshead</alternateName>
+<alternateName lang="es">Gateshead</alternateName>
+<alternateName lang="fa">گیتس‌هد</alternateName>
+<alternateName lang="fi">Gateshead</alternateName>
+<alternateName lang="fr">Gateshead</alternateName>
+<alternateName lang="he">גייטסהד</alternateName>
+<alternateName lang="ko">게이츠헤드</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gateshead</alternateName>
+<alternateName lang="lt">Geitshedas</alternateName>
+<alternateName lang="nl">Gateshead</alternateName>
+<alternateName lang="no">Gateshead</alternateName>
+<alternateName lang="ro">Gateshead</alternateName>
+<alternateName lang="ru">Гейтсхед</alternateName>
+<alternateName lang="sr">Гејтсхед</alternateName>
+<alternateName lang="sv">Gateshead</alternateName>
+<alternateName lang="unlc">GAT</alternateName>
+<alternateName lang="yi">גייטסהעד</alternateName>
+<alternateName lang="zh">蓋茨黑德</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.66439</west>
+<north>54.99806</north>
+<east>-1.53896</east>
+<south>54.92611</south>
+</bbox>
+<score>149.95480346679688</score>
+</geoname>
+<geoname>
+<toponymName>Gateshead</toponymName>
+<name>Gateshead</name>
+<lat>54.93333</lat>
+<lng>-1.66667</lng>
+<geonameId>2648772</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>190600</population>
+<alternateNames>District metropolitain de Gateshead,District métropolitain de Gateshead,GAT,Gateshead,Gateshead District,Metropolitan Borough of Gateshead,Municipio de Gateshead</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E5</adminCode2>
+<adminName2>Gateshead</adminName2>
+<alternateName lang="abbr">GAT</alternateName>
+<alternateName lang="de">Metropolitan Borough of Gateshead</alternateName>
+<alternateName lang="en">Gateshead</alternateName>
+<alternateName lang="es">Municipio de Gateshead</alternateName>
+<alternateName lang="fr">District métropolitain de Gateshead</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Metropolitan_Borough_of_Gateshead</alternateName>
+<alternateName lang="pl">Metropolitan Borough of Gateshead</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.85266</west>
+<north>54.98453</north>
+<east>-1.51035</east>
+<south>54.87776</south>
+</bbox>
+<score>93.33755493164062</score>
+</geoname>
+<geoname>
+<toponymName>Gateshead</toponymName>
+<name>Gateshead</name>
+<lat>54.96133</lat>
+<lng>-1.60397</lng>
+<geonameId>7676995</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>MTRO</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>metro station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E5</adminCode2>
+<adminName2>Gateshead</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>19.3637752532959</score>
+</geoname>
+</geonames>

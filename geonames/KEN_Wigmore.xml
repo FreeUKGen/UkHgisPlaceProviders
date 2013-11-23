@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wigmore</toponymName>
+<name>Wigmore</name>
+<lat>52.30741</lat>
+<lng>-2.87959</lng>
+<geonameId>7294751</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA229</adminCode3>
+<adminName3>Wigmore</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.9207</west>
+<north>52.32821</north>
+<east>-2.83849</east>
+<south>52.28661</south>
+</bbox>
+<score>107.59122467041016</score>
+</geoname>
+<geoname>
+<toponymName>Wigmore</toponymName>
+<name>Wigmore</name>
+<lat>52.31667</lat>
+<lng>-2.85</lng>
+<geonameId>2633937</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA229</adminCode3>
+<adminName3>Wigmore</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wigmore%2C_Herefordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.87944</west>
+<north>52.33465</north>
+<east>-2.82056</east>
+<south>52.29868</south>
+</bbox>
+<score>69.72705078125</score>
+</geoname>
+</geonames>

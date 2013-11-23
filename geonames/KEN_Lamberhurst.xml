@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Lamberhurst</toponymName>
+<name>Lamberhurst</name>
+<lat>51.10196</lat>
+<lng>0.39328</lng>
+<geonameId>2645005</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E2</adminCode2>
+<adminName2>East Sussex</adminName2>
+<adminCode3>21UH</adminCode3>
+<adminName3>Wealden District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lamberhurst</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.37895</west>
+<north>51.11095</north>
+<east>0.4076</east>
+<south>51.09297</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+<geoname>
+<toponymName>Lamberhurst</toponymName>
+<name>Lamberhurst</name>
+<lat>51.10639</lat>
+<lng>0.37399</lng>
+<geonameId>7295921</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UQ</adminCode3>
+<adminName3>Tunbridge Wells District</adminName3>
+<adminCode4>29UQ010</adminCode4>
+<adminName4>Lamberhurst</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.32443</west>
+<north>51.13256</north>
+<east>0.42355</east>
+<south>51.08021</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

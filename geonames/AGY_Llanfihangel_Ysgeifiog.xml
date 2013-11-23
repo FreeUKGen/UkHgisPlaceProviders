@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llanfihangel Ysgeifiog</toponymName>
+<name>Llanfihangel Ysgeifiog</name>
+<lat>53.22243</lat>
+<lng>-4.30009</lng>
+<geonameId>7297745</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA023</adminCode3>
+<adminName3>Llanfihangel Ysgeifiog</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.35651</west>
+<north>53.24934</north>
+<east>-4.24368</east>
+<south>53.19552</south>
+</bbox>
+<score>100.85846710205078</score>
+</geoname>
+</geonames>

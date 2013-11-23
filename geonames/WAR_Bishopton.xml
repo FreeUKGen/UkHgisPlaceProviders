@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Bishopton</toponymName>
+<name>Bishopton</name>
+<lat>55.90969</lat>
+<lng>-4.5056</lng>
+<geonameId>2655548</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5029</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W2</adminCode2>
+<adminName2>Renfrewshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.52165</west>
+<north>55.91868</north>
+<east>-4.48955</east>
+<south>55.9007</south>
+</bbox>
+<score>74.8981704711914</score>
+</geoname>
+<geoname>
+<toponymName>Bishopton</toponymName>
+<name>Bishopton</name>
+<lat>54.58322</lat>
+<lng>-1.43919</lng>
+<geonameId>7298118</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D1</adminCode2>
+<adminName2>Darlington</adminName2>
+<adminCode3>00EH003</adminCode3>
+<adminName3>Bishopton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bishopton%2C_County_Durham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.47104</west>
+<north>54.60312</north>
+<east>-1.40734</east>
+<south>54.56332</south>
+</bbox>
+<score>66.50067138671875</score>
+</geoname>
+<geoname>
+<toponymName>Bishopton</toponymName>
+<name>Bishopton</name>
+<lat>54.58333</lat>
+<lng>-1.43333</lng>
+<geonameId>2655549</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D1</adminCode2>
+<adminName2>Darlington</adminName2>
+<adminCode3>00EH003</adminCode3>
+<adminName3>Bishopton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.46439</west>
+<north>54.60132</north>
+<east>-1.40228</east>
+<south>54.56535</south>
+</bbox>
+<score>37.4490852355957</score>
+</geoname>
+</geonames>

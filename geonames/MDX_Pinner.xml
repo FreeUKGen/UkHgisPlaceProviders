@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Pinner</toponymName>
+<name>Pinner</name>
+<lat>51.59384</lat>
+<lng>-0.38216</lng>
+<geonameId>2640275</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>19158</population>
+<alternateNames>Pinner</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>F4</adminCode3>
+<adminName3>Harrow</adminName3>
+<alternateName lang="en">Pinner</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pinner</alternateName>
+<alternateName lang="unlc">PIN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.4102</west>
+<north>51.61125</north>
+<east>-0.35411</east>
+<south>51.57642</south>
+</bbox>
+<score>125.10861206054688</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Thorpe-le-Soken</toponymName>
+<name>Thorpe-le-Soken</name>
+<lat>51.86038</lat>
+<lng>1.19789</lng>
+<geonameId>7293546</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UN</adminCode3>
+<adminName3>Tendring District</adminName3>
+<adminCode4>22UN023</adminCode4>
+<adminName4>Thorpe-le-Soken</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thorpe-le-Soken</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.12591</west>
+<north>51.88886</north>
+<east>1.26987</east>
+<south>51.83191</south>
+</bbox>
+<score>59.70869445800781</score>
+</geoname>
+<geoname>
+<toponymName>Thorpe le Soken</toponymName>
+<name>Thorpe le Soken</name>
+<lat>51.85603</lat>
+<lng>1.1658</lng>
+<geonameId>2635950</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UN</adminCode3>
+<adminName3>Tendring District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.15123</west>
+<north>51.86503</north>
+<east>1.18036</east>
+<south>51.84704</south>
+</bbox>
+<score>53.27538299560547</score>
+</geoname>
+</geonames>

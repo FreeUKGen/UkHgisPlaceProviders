@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Whaddon</toponymName>
+<name>Whaddon</name>
+<lat>52.10213</lat>
+<lng>-0.02699</lng>
+<geonameId>2634199</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Whaddon%2C_Cambridgeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.04164</west>
+<north>52.11112</north>
+<east>-0.01235</east>
+<south>52.09314</south>
+</bbox>
+<score>81.55997467041016</score>
+</geoname>
+<geoname>
+<toponymName>Whaddon</toponymName>
+<name>Whaddon</name>
+<lat>52.00042</lat>
+<lng>-0.82801</lng>
+<geonameId>2634200</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UB</adminCode3>
+<adminName3>Aylesbury Vale</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Whaddon%2C_Buckinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.84262</west>
+<north>52.00941</north>
+<east>-0.8134</east>
+<south>51.99142</south>
+</bbox>
+<score>81.55997467041016</score>
+</geoname>
+<geoname>
+<toponymName>Whaddon</toponymName>
+<name>Whaddon</name>
+<lat>52.10233</lat>
+<lng>-0.03301</lng>
+<geonameId>7292957</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<adminCode4>12UG097</adminCode4>
+<adminName4>Whaddon</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.054</west>
+<north>52.11953</north>
+<east>-0.01202</east>
+<south>52.08512</south>
+</bbox>
+<score>77.99845886230469</score>
+</geoname>
+<geoname>
+<toponymName>Whaddon</toponymName>
+<name>Whaddon</name>
+<lat>51.99785</lat>
+<lng>-0.82868</lng>
+<geonameId>7299791</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UB</adminCode3>
+<adminName3>Aylesbury Vale</adminName3>
+<adminCode4>11UB101</adminCode4>
+<adminName4>Whaddon</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.85384</west>
+<north>52.02236</north>
+<east>-0.80353</east>
+<south>51.97334</south>
+</bbox>
+<score>77.99845886230469</score>
+</geoname>
+</geonames>

@@ -1,0 +1,76 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>821</id>
+<name>LLANFYLLIN</name>
+<container>MONTGOMERYSHIRE</container>
+<lat>52.7666070422814</lat>
+<lon>-3.3052520222068</lon>
+<gazetteerText>Llanfyllin.-- parl. bor., market town, and par. with ry. sta., Montgomeryshire, in N. of co., on river Cain, 14 miles SW. of Oswestry - par., 7923 ac., pop. 1774; bor., 377 ac., pop. 1080; P.O., T.O., 1 Bank. Market-day, Thursday. Llanfyllin is an ancient chartered incorporation, and is prettily situated. Brewing, malting, and tanning are the chief employments. Llanfyllin is one of the Montgomery District of Parliamentary Boroughs, which returns 1 member. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/wal/MGY/Llanfyllin/index.html</link>
+<link>http://en.wikipedia.org/wiki/Llanfyllin</link>
+<link>http://www.workhouses.org.uk/Llanfyllin</link>
+<link>http://www.geonames.org/2644053</link>
+</links>
+<unit>
+   <id>10029880</id>
+   <status>RegD/PLU</status>
+   <name>LLANFYLLIN</name>
+</unit>
+<unit>
+   <id>10038601</id>
+   <status>Hundred</status>
+   <name>LLANFYLLIN</name>
+</unit>
+<unit>
+   <id>10048370</id>
+   <status>AP/CP</status>
+   <name>LLANFYLLIN</name>
+</unit>
+<unit>
+   <id>10114822</id>
+   <status>RD</status>
+   <name>LLANFYLLIN</name>
+</unit>
+<unit>
+   <id>10151892</id>
+   <status>MB</status>
+   <name>LLANFYLLIN</name>
+</unit>
+<unit>
+   <id>12827635</id>
+   <status>USD</status>
+   <name>LLANFYLLIN</name>
+</unit>
+<unit>
+   <id>12827647</id>
+   <status>RSD</status>
+   <name>LLANFYLLIN</name>
+</unit>
+<nearByPlace>
+   <id>2829</id>
+   <name>HIRNANT</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3053</id>
+   <name>LLANFECHAIN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3543</id>
+   <name>LLANZHANGEL YNG NGWYNFA</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6461</id>
+   <name>LLANGYNOG</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6648</id>
+   <name>LLANWDDYN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8229</id>
+   <name>MINFFRWD</name>
+</nearByPlace>
+</place>
+</results>

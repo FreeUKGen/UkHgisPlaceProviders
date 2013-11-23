@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cholderton</toponymName>
+<name>Cholderton</name>
+<lat>51.18699</lat>
+<lng>-1.69044</lng>
+<geonameId>7296261</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY060</adminCode3>
+<adminName3>Cholderton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.71298</west>
+<north>51.20305</north>
+<east>-1.6679</east>
+<south>51.17093</south>
+</bbox>
+<score>108.94921875</score>
+</geoname>
+<geoname>
+<toponymName>Cholderton</toponymName>
+<name>Cholderton</name>
+<lat>51.17929</lat>
+<lng>-1.6785</lng>
+<geonameId>2653100</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cholderton,West Cholderton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY060</adminCode3>
+<adminName3>Cholderton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cholderton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.69285</west>
+<north>51.18828</north>
+<east>-1.66416</east>
+<south>51.1703</south>
+</bbox>
+<score>92.97027587890625</score>
+</geoname>
+</geonames>

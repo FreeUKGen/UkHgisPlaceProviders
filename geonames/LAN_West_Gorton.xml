@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>West Gorton</toponymName>
+<name>West Gorton</name>
+<lat>53.46825</lat>
+<lng>-2.20165</lng>
+<geonameId>2634410</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I2</adminCode2>
+<adminName2>Manchester</adminName2>
+<adminCode3>00BS001</adminCode3>
+<adminName3>GB.ENG.I2.00BS001</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.2077</west>
+<north>53.47185</north>
+<east>-2.19561</east>
+<south>53.46466</south>
+</bbox>
+<score>32.900848388671875</score>
+</geoname>
+</geonames>

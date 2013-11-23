@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Edington</toponymName>
+<name>Edington</name>
+<lat>51.26586</lat>
+<lng>-2.10796</lng>
+<geonameId>7299340</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY093</adminCode3>
+<adminName3>Edington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.13993</west>
+<north>51.31036</north>
+<east>-2.07598</east>
+<south>51.22135</south>
+</bbox>
+<score>98.24551391601562</score>
+</geoname>
+<geoname>
+<toponymName>Edington</toponymName>
+<name>Edington</name>
+<lat>51.15472</lat>
+<lng>-2.87722</lng>
+<geonameId>2650219</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Edington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Edington%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.89156</west>
+<north>51.16372</north>
+<east>-2.86288</east>
+<south>51.14573</south>
+</bbox>
+<score>89.54168701171875</score>
+</geoname>
+<geoname>
+<toponymName>Edington</toponymName>
+<name>Edington</name>
+<lat>51.15755</lat>
+<lng>-2.87618</lng>
+<geonameId>7298267</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<adminCode4>40UC025</adminCode4>
+<adminName4>Edington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.89085</west>
+<north>51.17345</north>
+<east>-2.86151</east>
+<south>51.14165</south>
+</bbox>
+<score>70.83336639404297</score>
+</geoname>
+<geoname>
+<toponymName>Edington</toponymName>
+<name>Edington</name>
+<lat>51.27583</lat>
+<lng>-2.10639</lng>
+<geonameId>2650218</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY093</adminCode3>
+<adminName3>Edington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Edington%2C_Wiltshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.13515</west>
+<north>51.29382</north>
+<east>-2.07762</east>
+<south>51.25785</south>
+</bbox>
+<score>63.337562561035156</score>
+</geoname>
+</geonames>

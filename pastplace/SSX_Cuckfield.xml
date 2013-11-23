@@ -1,0 +1,158 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1015</id>
+<name>CUCKFIELD</name>
+<container>SUSSEX</container>
+<lat>51.0032580413927</lat>
+<lon>-0.11360278600718</lon>
+<gazetteerText>CUCKFIELD, a small town, a parish, a sub-district, and a district, in Sussex. The town stands on an eminence, 2 miles W by N of Haywards-Heath r. station, and 12 NNW of Lewes; commands a fine view over the Weald; is a seat of petty sessions and a polling-place; and has a head post office, &#8225; two chief inns, a parish church, two dissenting chapels, two public schools, and a work-house. The church ranges from early English to perpendicular; has an early English tower; and contains monuments by Flaxman and Westmacott. Markets used to be held on Fridays; but were recently transferred to Haywards-Heath. -The parish comprises 11, 167 acres. Real property, &#163;16, 636. Pop., 3, 539. Houses, 573. The property is subdivided. The manor belonged to Earl Fitzwairne, and passed to the Duke of Norfolk. Cuckfield Place is the seat of W. Sergison, Esq.; dates from the end of the 16th century; and was the original of Ainsworth&apos;s &quot;Rookwood Hall. &quot; Ockenden House was the residence of Timothy Burrell and Sir William Burrell, the antiquaries. Leigh Pond covers about 50 acres, and is a resort of wild fowl. Freestone has been largely quarried. The living is a vicarage in the diocese of Chichester. Value, &#163;613.* Patron, the Bishop ofThe chapelries of Staplefield-Common and Haywards-Heath are separate -The sub-district contains also the parishes of Slaugham, Bolney, and Cowfold. Acres, 24, 534. Pop., 6, 792. Houses, 1, 186. The district comprehends likewise the sub-district of Lindfield, containing the parishes of Lindfield, Ardingly, Balcombe, and Horsted-Keynes; and the sub-district of Hurstper-point, containing the parishes of Hurstperpoint, Clayton, Keymer, Albourne, Newtimber, Pyecombe, and Twineham. Acres, 61, 793. Poor-rates in 1862, &#163;9, 393. Pop. in 1841, 17, 132; in 1861, 17, 163. Houses, 3, 065. Marriages in 1860, 116; births, 559, -of which 35 were illegitimate; deaths, 301, -of which 110 were at ages under 5 years, and 9 at ages above 85. Marriages in the ten years 1851-60, 1, 028; births, 5, 422; deaths, 2, 876. The places of worship in 1851 were 11 of the Church of England, with 3, 709 sittings; 7 of Independents, with 1, 610 s.; 7 of Baptists, with 700 s.; and 1 of Wesleyan Methodists, with 131 s. The schools were 19 public day schools, with 1, 423 scholars; 33 private day schools, with 840 s.; 14 Sunday schools, with 1, 187 s.; and 1 evening school for adults, with 7 s. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://homepages.gold.ac.uk/genuki/SSX/Cuckfield/index.php</link>
+<link>http://en.wikipedia.org/wiki/Cuckfield</link>
+<link>http://www.workhouses.org.uk/Cuckfield</link>
+<link>http://www.geonames.org/2651788</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=56940</link>
+</links>
+<unit>
+   <id>10005693</id>
+   <status>PLU/RegD</status>
+   <name>CUCKFIELD</name>
+</unit>
+<unit>
+   <id>10109772</id>
+   <status>USD</status>
+   <name>CUCKFIELD</name>
+</unit>
+<unit>
+   <id>10167127</id>
+   <status>RSD</status>
+   <name>CUCKFIELD</name>
+</unit>
+<unit>
+   <id>10173085</id>
+   <status>RD</status>
+   <name>CUCKFIELD</name>
+</unit>
+<unit>
+   <id>10199347</id>
+   <status>UD</status>
+   <name>CUCKFIELD</name>
+</unit>
+<unit>
+   <id>10285938</id>
+   <status>CP/AP</status>
+   <name>CUCKFIELD</name>
+</unit>
+<unit>
+   <id>10285940</id>
+   <status>EP</status>
+   <name>CUCKFIELD</name>
+</unit>
+<unit>
+   <id>10285951</id>
+   <status>CP</status>
+   <name>CUCKFIELD RURAL</name>
+</unit>
+<unit>
+   <id>10540770</id>
+   <status></status>
+   <name>CUCKFIELD</name>
+</unit>
+<unit>
+   <id>10572204</id>
+   <status></status>
+   <name>CUCKFIELD</name>
+</unit>
+<nearByPlace>
+   <id>473</id>
+   <name>HAYWARDS HEATH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>557</id>
+   <name>UCKFIELD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1028</id>
+   <name>BURGESS HILL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8427</id>
+   <name>FLETCHING</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8443</id>
+   <name>FOREST ROW</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8697</id>
+   <name>HURSTPIERPOINT</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8808</id>
+   <name>LINDFIELD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8834</id>
+   <name>MARESFIELD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8905</id>
+   <name>RINGMER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9341</id>
+   <name>WIVELSFIELD</name>
+</nearByPlace>
+</place>
+<place>
+<id>473</id>
+<name>HAYWARDS HEATH</name>
+<container>SUSSEX</container>
+<lat>51.0000612713759</lat>
+<lon>-0.10517473352269</lon>
+<gazetteerText>HAYWARDS-HEATH, a small new town in Cuckfield parish, Sussex; on a recently-enclosed heath, and on the London and Brighton railway, 2 miles E by S of Cuckfield, and 12&#189; N of Brighton. It has a post-office under Cuckfield, a railway station with telegraph, a hotel, corn stores, a church built in 1864, an Independent chapel, a large school, and numerous new villas. A weekly market is held on Wednesday; and fairs on 23 April and 18 Nov. A chapelry of H.-H. was constituted in 1864. Pop., about 1,000. The living is a vicarage. Value, &#163;145. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Haywards_Heath</link>
+<link>http://www.geonames.org/2647248</link>
+</links>
+<unit>
+   <id>10027639</id>
+   <status>USD</status>
+   <name>HAYWARDS HEATH</name>
+</unit>
+<unit>
+   <id>10081476</id>
+   <status>UD</status>
+   <name>HAYWARDS HEATH</name>
+</unit>
+<unit>
+   <id>10295087</id>
+   <status>EP</status>
+   <name>HAYWARDS HEATH ST WILFRID</name>
+</unit>
+<unit>
+   <id>10296201</id>
+   <status>CP</status>
+   <name>HAYWARDS HEATH</name>
+</unit>
+<unit>
+   <id>10296225</id>
+   <status>EP</status>
+   <name>HAYWARDS HEATH ST RICHARD</name>
+</unit>
+<unit>
+   <id>12831699</id>
+   <status></status>
+   <name>HAYWARDS HEATH</name>
+</unit>
+<nearByPlace>
+   <id>8224</id>
+   <name>BALCOMBE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17210</id>
+   <name>MID SUSSEX</name>
+</nearByPlace>
+</place>
+</results>

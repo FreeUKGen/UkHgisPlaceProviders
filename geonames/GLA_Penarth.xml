@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Penarth</toponymName>
+<name>Penarth</name>
+<lat>51.43095</lat>
+<lng>-3.18138</lng>
+<geonameId>7301708</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<adminCode3>00PD014</adminCode3>
+<adminName3>Penarth</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.2029</west>
+<north>51.4488</north>
+<east>-3.15985</east>
+<south>51.41309</south>
+</bbox>
+<score>107.85957336425781</score>
+</geoname>
+<geoname>
+<toponymName>Penarth</toponymName>
+<name>Penarth</name>
+<lat>51.4386</lat>
+<lng>-3.17342</lng>
+<geonameId>2640496</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>23437</population>
+<alternateNames>Penart,bynarth,Пенарт,بينارث</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<adminCode3>00PD014</adminCode3>
+<adminName3>Penarth</adminName3>
+<alternateName lang="arz">بينارث</alternateName>
+<alternateName lang="bg">Пенарт</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Penarth</alternateName>
+<alternateName lang="uk">Пенарт</alternateName>
+<alternateName lang="unlc">PNH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.20488</west>
+<north>51.4582</north>
+<east>-3.14196</east>
+<south>51.419</south>
+</bbox>
+<score>91.0820083618164</score>
+</geoname>
+</geonames>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Sutton-cum-Lound</toponymName>
+<name>Sutton</name>
+<lat>53.35475</lat>
+<lng>-0.97848</lng>
+<geonameId>2636494</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sutton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<alternateName lang="en">Sutton</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sutton_cum_Lound</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.99355</west>
+<north>53.36375</north>
+<east>-0.96341</east>
+<south>53.34576</south>
+</bbox>
+<score>81.07861328125</score>
+</geoname>
+</geonames>

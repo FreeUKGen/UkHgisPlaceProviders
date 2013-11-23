@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Rousay</toponymName>
+<name>Rousay</name>
+<lat>59.16667</lat>
+<lng>-3.03333</lng>
+<geonameId>2639058</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Rousay</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V9</adminCode2>
+<adminName2>Orkney</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rousay</alternateName>
+<alternateName lang="unlc">ROU</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.12158</west>
+<north>59.20264</north>
+<east>-2.95297</east>
+<south>59.12791</south>
+</bbox>
+<score>90.7001953125</score>
+</geoname>
+</geonames>

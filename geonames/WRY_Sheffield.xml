@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Sheffield</toponymName>
+<name>Sheffield</name>
+<lat>53.38297</lat>
+<lng>-1.4659</lng>
+<geonameId>2638077</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>447047</population>
+<alternateNames>DSA,Gorad Shehfild,Seffild,Sefild,Sefilda,Sefildas,Sefilnt,Sheffield,Sheffild,Shefild,chef fi ld,sefilda,sephild,sephilda,shefirudo,shepildi,shfyld,shyfyld,spyld,syepildeu,xie fei er de,Şeffild,Šefildas,Šefīlda,Σέφιλντ,Горад Шэфілд,Шефилд,Шеффилд,Шеффілд,Շեֆիլդ,שעפילד,שפילד,شفيلد,شفیلد,شيفيلد,شیفیلڈ,شێفیڵد,शेफ़ील्ड,शेफील्ड,షెఫీల్డ్,เชฟฟีลด์,შეფილდი,シェフィールド,谢菲尔德,셰필드</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L9</adminCode2>
+<adminName2>Sheffield</adminName2>
+<alternateName lang="ar">شفيلد</alternateName>
+<alternateName lang="arz">شيفيلد</alternateName>
+<alternateName lang="az">Şeffild</alternateName>
+<alternateName lang="be">Горад Шэфілд</alternateName>
+<alternateName lang="bg">Шефилд</alternateName>
+<alternateName lang="ckb">شێفیڵد</alternateName>
+<alternateName lang="cs">Sheffield</alternateName>
+<alternateName lang="cy">Sheffield</alternateName>
+<alternateName lang="da">Sheffield</alternateName>
+<alternateName lang="de">Sheffield</alternateName>
+<alternateName lang="el">Σέφιλντ</alternateName>
+<alternateName lang="en">Sheffield</alternateName>
+<alternateName lang="eo">Sheffield</alternateName>
+<alternateName lang="es">Sheffield</alternateName>
+<alternateName lang="eu">Sheffield</alternateName>
+<alternateName lang="fa">شفیلد</alternateName>
+<alternateName lang="fi">Sheffield</alternateName>
+<alternateName lang="fr">Sheffield</alternateName>
+<alternateName lang="hbs">Sheffield</alternateName>
+<alternateName lang="he">שפילד</alternateName>
+<alternateName lang="hi">शेफ़ील्ड</alternateName>
+<alternateName lang="hy">Շեֆիլդ</alternateName>
+<alternateName lang="iata">DSA</alternateName>
+<alternateName lang="id">Sheffield</alternateName>
+<alternateName lang="it">Sheffield</alternateName>
+<alternateName lang="ja">シェフィールド</alternateName>
+<alternateName lang="ka">შეფილდი</alternateName>
+<alternateName lang="ko">셰필드</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sheffield</alternateName>
+<alternateName lang="lt">Šefildas</alternateName>
+<alternateName lang="lv">Šefīlda</alternateName>
+<alternateName lang="mk">Шефилд</alternateName>
+<alternateName lang="mr">शेफील्ड</alternateName>
+<alternateName lang="mzn">شفیلد</alternateName>
+<alternateName lang="nl">Sheffield</alternateName>
+<alternateName lang="no">Sheffield</alternateName>
+<alternateName lang="os">Шеффилд</alternateName>
+<alternateName lang="pl">Sheffield</alternateName>
+<alternateName lang="pnb">شیفیلڈ</alternateName>
+<alternateName lang="pt">Sheffield</alternateName>
+<alternateName lang="ro">Sheffield</alternateName>
+<alternateName lang="ru">Шеффилд</alternateName>
+<alternateName lang="sr">Шефилд</alternateName>
+<alternateName lang="sv">Sheffield</alternateName>
+<alternateName lang="te">షెఫీల్డ్</alternateName>
+<alternateName lang="th">เชฟฟีลด์</alternateName>
+<alternateName lang="tr">Sheffield</alternateName>
+<alternateName lang="uk">Шеффілд</alternateName>
+<alternateName lang="unlc">SHE</alternateName>
+<alternateName lang="yi">שעפילד</alternateName>
+<alternateName lang="zh">谢菲尔德</alternateName>
+<alternateName lang="zh-CN">谢菲尔德</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.61161</west>
+<north>53.4697</north>
+<east>-1.3202</east>
+<south>53.29624</south>
+</bbox>
+<score>189.68157958984375</score>
+</geoname>
+<geoname>
+<toponymName>City and Borough of Sheffield</toponymName>
+<name>City and Borough of Sheffield</name>
+<lat>53.41667</lat>
+<lng>-1.5</lng>
+<geonameId>3333193</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>SHF,Sheffield</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L9</adminCode2>
+<adminName2>Sheffield</adminName2>
+<alternateName lang="abbr">SHF</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.80147</west>
+<north>53.50313</north>
+<east>-1.32461</east>
+<south>53.30451</south>
+</bbox>
+<score>60.89599609375</score>
+</geoname>
+</geonames>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Rothesay</toponymName>
+<name>Rothesay</name>
+<lat>55.83648</lat>
+<lng>-5.05508</lng>
+<geonameId>2639083</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4912</population>
+<alternateNames>Baile Bhoid,Baile Bhòid,Rothesay,Rothesay, Bute</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T8</adminCode2>
+<adminName2>Argyll and Bute</adminName2>
+<alternateName lang="en">Rothesay</alternateName>
+<alternateName lang="gd">Baile Bhòid</alternateName>
+<alternateName lang="hbs">Rothesay, Bute</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rothesay%2C_Bute</alternateName>
+<alternateName lang="post">PA20</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.0711</west>
+<north>55.84548</north>
+<east>-5.03906</east>
+<south>55.82749</south>
+</bbox>
+<score>78.04804992675781</score>
+</geoname>
+</geonames>

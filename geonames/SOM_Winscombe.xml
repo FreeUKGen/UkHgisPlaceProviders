@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Winscombe</toponymName>
+<name>Winscombe</name>
+<lat>51.31321</lat>
+<lng>-2.83177</lng>
+<geonameId>6695949</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4500</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Winscombe</alternateName>
+<alternateName lang="unlc">WNO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.84423</west>
+<north>51.32099</north>
+<east>-2.81931</east>
+<south>51.30542</south>
+</bbox>
+<score>99.11448669433594</score>
+</geoname>
+<geoname>
+<toponymName>Winscombe</toponymName>
+<name>Winscombe</name>
+<lat>51.30598</lat>
+<lng>-2.84583</lng>
+<geonameId>6619759</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>church</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>20.009017944335938</score>
+</geoname>
+</geonames>

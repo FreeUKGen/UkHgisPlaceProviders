@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Stoke Prior</toponymName>
+<name>Stoke Prior</name>
+<lat>52.3</lat>
+<lng>-2.06667</lng>
+<geonameId>2636837</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Stoke Prior</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UB</adminCode3>
+<adminName3>Bromsgrove District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stoke_Prior%2C_Worcestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.08138</west>
+<north>52.30899</north>
+<east>-2.05196</east>
+<south>52.29101</south>
+</bbox>
+<score>95.02520751953125</score>
+</geoname>
+<geoname>
+<toponymName>Stoke Prior</toponymName>
+<name>Stoke Prior</name>
+<lat>52.2</lat>
+<lng>-2.7</lng>
+<geonameId>2636838</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.71468</west>
+<north>52.20899</north>
+<east>-2.68532</east>
+<south>52.19101</south>
+</bbox>
+<score>55.634429931640625</score>
+</geoname>
+</geonames>

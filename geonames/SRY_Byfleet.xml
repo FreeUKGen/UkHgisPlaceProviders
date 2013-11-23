@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Byfleet</toponymName>
+<name>Byfleet</name>
+<lat>51.33884</lat>
+<lng>-0.47396</lng>
+<geonameId>2654136</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Byfleet</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UM</adminCode3>
+<adminName3>Woking District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Byfleet</alternateName>
+<alternateName lang="unlc">BYF</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.48836</west>
+<north>51.34784</north>
+<east>-0.45956</east>
+<south>51.32985</south>
+</bbox>
+<score>91.7228775024414</score>
+</geoname>
+<geoname>
+<toponymName>Byfleet</toponymName>
+<name>Byfleet</name>
+<lat>51.3383</lat>
+<lng>-0.47619</lng>
+<geonameId>7292640</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UM</adminCode3>
+<adminName3>Woking District</adminName3>
+<adminCode4>43UM001</adminCode4>
+<adminName4>Byfleet</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.49135</west>
+<north>51.34961</north>
+<east>-0.46102</east>
+<south>51.327</south>
+</bbox>
+<score>80.21141052246094</score>
+</geoname>
+</geonames>

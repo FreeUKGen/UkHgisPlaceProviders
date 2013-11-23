@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hawkhurst</toponymName>
+<name>Hawkhurst</name>
+<lat>51.0479</lat>
+<lng>0.51095</lng>
+<geonameId>2647291</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3197</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UQ</adminCode3>
+<adminName3>Tunbridge Wells District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hawkhurst</alternateName>
+<alternateName lang="unlc">HWK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.50083</west>
+<north>51.05426</north>
+<east>0.52107</east>
+<south>51.04154</south>
+</bbox>
+<score>97.74732971191406</score>
+</geoname>
+<geoname>
+<toponymName>Hawkhurst</toponymName>
+<name>Hawkhurst</name>
+<lat>51.05281</lat>
+<lng>0.50047</lng>
+<geonameId>7298030</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UQ</adminCode3>
+<adminName3>Tunbridge Wells District</adminName3>
+<adminCode4>29UQ008</adminCode4>
+<adminName4>Hawkhurst</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.45368</west>
+<north>51.08324</north>
+<east>0.54726</east>
+<south>51.02238</south>
+</bbox>
+<score>78.64186096191406</score>
+</geoname>
+</geonames>

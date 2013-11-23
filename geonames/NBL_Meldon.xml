@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Meldon</toponymName>
+<name>Meldon</name>
+<lat>55.17095</lat>
+<lng>-1.78915</lng>
+<geonameId>7296758</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM105</adminCode3>
+<adminName3>Meldon</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.83693</west>
+<north>55.20467</north>
+<east>-1.74137</east>
+<south>55.13722</south>
+</bbox>
+<score>101.86686706542969</score>
+</geoname>
+<geoname>
+<toponymName>Meldon</toponymName>
+<name>Meldon</name>
+<lat>50.71315</lat>
+<lng>-4.04112</lng>
+<geonameId>6955245</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UL</adminCode3>
+<adminName3>West Devon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Meldon%2C_Devon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.05533</west>
+<north>50.72214</north>
+<east>-4.02692</east>
+<south>50.70415</south>
+</bbox>
+<score>77.3128662109375</score>
+</geoname>
+<geoname>
+<toponymName>Meldon</toponymName>
+<name>Meldon</name>
+<lat>55.13333</lat>
+<lng>-1.8</lng>
+<geonameId>2642793</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM105</adminCode3>
+<adminName3>Meldon</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Meldon%2C_Northumberland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.83148</west>
+<north>55.15132</north>
+<east>-1.76852</east>
+<south>55.11535</south>
+</bbox>
+<score>65.48062133789062</score>
+</geoname>
+</geonames>

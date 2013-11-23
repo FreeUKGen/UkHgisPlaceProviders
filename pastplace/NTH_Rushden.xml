@@ -1,0 +1,70 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1055</id>
+<name>RUSHDEN</name>
+<container>NORTHAMPTONSHIRE</container>
+<lat>52.2859661288568</lat>
+<lon>-0.590175645000733</lon>
+<gazetteerText>RUSHDEN, a parish, with a village, in Welling-borough district, Northampton; 1 mile S by W of Higham-Ferrers, and 2&#188; S E of Ditchford r. station. It has a post-office under Higham-Ferrers. Acres, 2, 770. Real property, &#163;7,047. Pop. in 1851, 1, 460; in 1861, 1, 748. Houses, 381. The manor belonged formerly to the Dukes of Lancaster, and belongs now to the Queen. Boot and shoe making is largely carried on. The living is a rectory in the diocese of Peterborough. Value, &#163;350.* Patron, the Lord Chancellor. The church was formerly collegiate; is decorated English and cruciform; has a fine tower, with crocketted spire nearly 200 feethigh; and contains some carved screen-work, threesedilia, and monuments of the Pembertons, the Ekinses, the Fletchers, and the Williamses. There are three Baptist chapels, a Wesleyan chapel, a village school, and charities &#163;26. Dr. Whitby, the theologian, was a native. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Rushden</link>
+<link>http://www.geonames.org/2638946</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=66312</link>
+</links>
+<unit>
+   <id>10111328</id>
+   <status>USD</status>
+   <name>RUSHDEN</name>
+</unit>
+<unit>
+   <id>10216400</id>
+   <status>UD</status>
+   <name>RUSHDEN</name>
+</unit>
+<unit>
+   <id>10280400</id>
+   <status>AP/CP</status>
+   <name>RUSHDEN</name>
+</unit>
+<unit>
+   <id>10280412</id>
+   <status>EP</status>
+   <name>RUSHDEN</name>
+</unit>
+<unit>
+   <id>10280424</id>
+   <status>EP</status>
+   <name>RUSHDEN ST PETER</name>
+</unit>
+<unit>
+   <id>12828706</id>
+   <status></status>
+   <name>RUSHDEN</name>
+</unit>
+<nearByPlace>
+   <id>236</id>
+   <name>HIGHAM FERRERS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>462</id>
+   <name>IRTHLINGBOROUGH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1390</id>
+   <name>PODINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7905</id>
+   <name>EASTON MAUDIT</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8035</id>
+   <name>IRCHESTER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8184</id>
+   <name>STRIXTON</name>
+</nearByPlace>
+</place>
+</results>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Chilfrome</toponymName>
+<name>Chilfrome</name>
+<lat>50.79</lat>
+<lng>-2.5999</lng>
+<geonameId>7300413</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH036</adminCode4>
+<adminName4>Chilfrome</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chilfrome</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.62253</west>
+<north>50.79851</north>
+<east>-2.57728</east>
+<south>50.78149</south>
+</bbox>
+<score>60.419189453125</score>
+</geoname>
+</geonames>

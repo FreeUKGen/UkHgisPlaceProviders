@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Withybrook</toponymName>
+<name>Withybrook</name>
+<lat>52.45292</lat>
+<lng>-1.3611</lng>
+<geonameId>2633735</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Withybrook</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UD</adminCode3>
+<adminName3>Rugby District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Withybrook</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.37586</west>
+<north>52.46192</north>
+<east>-1.34634</east>
+<south>52.44393</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+<geoname>
+<toponymName>Withybrook</toponymName>
+<name>Withybrook</name>
+<lat>52.4579</lat>
+<lng>-1.35501</lng>
+<geonameId>7297401</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UD</adminCode3>
+<adminName3>Rugby District</adminName3>
+<adminCode4>44UD037</adminCode4>
+<adminName4>Withybrook</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.39102</west>
+<north>52.47352</north>
+<east>-1.31901</east>
+<south>52.44227</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

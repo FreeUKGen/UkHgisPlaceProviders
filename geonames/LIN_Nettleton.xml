@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Nettleton</toponymName>
+<name>Nettleton</name>
+<lat>51.50014</lat>
+<lng>-2.27929</lng>
+<geonameId>7297662</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY166</adminCode3>
+<adminName3>Nettleton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.32433</west>
+<north>51.52213</north>
+<east>-2.23426</east>
+<south>51.47815</south>
+</bbox>
+<score>96.08023071289062</score>
+</geoname>
+<geoname>
+<toponymName>Nettleton</toponymName>
+<name>Nettleton</name>
+<lat>53.48333</lat>
+<lng>-0.31667</lng>
+<geonameId>2641757</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Nettleton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nettleton%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.33178</west>
+<north>53.49233</north>
+<east>-0.30155</east>
+<south>53.47434</south>
+</bbox>
+<score>88.3399658203125</score>
+</geoname>
+<geoname>
+<toponymName>Nettleton</toponymName>
+<name>Nettleton</name>
+<lat>53.4758</lat>
+<lng>-0.33022</lng>
+<geonameId>7301807</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<adminCode4>32UH066</adminCode4>
+<adminName4>Nettleton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.36686</west>
+<north>53.49525</north>
+<east>-0.29358</east>
+<south>53.45636</south>
+</bbox>
+<score>69.35601806640625</score>
+</geoname>
+<geoname>
+<toponymName>Nettleton</toponymName>
+<name>Nettleton</name>
+<lat>51.50222</lat>
+<lng>-2.2625</lng>
+<geonameId>2641758</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY166</adminCode3>
+<adminName3>Nettleton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nettleton%2C_Wiltshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.29141</west>
+<north>51.52021</north>
+<east>-2.23359</east>
+<south>51.48423</south>
+</bbox>
+<score>62.60357666015625</score>
+</geoname>
+</geonames>

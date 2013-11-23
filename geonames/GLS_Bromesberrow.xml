@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bromesberrow</toponymName>
+<name>Bromesberrow</name>
+<lat>52.00583</lat>
+<lng>-2.37019</lng>
+<geonameId>7300595</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UD</adminCode3>
+<adminName3>Forest of Dean</adminName3>
+<adminCode4>23UD005</adminCode4>
+<adminName4>Bromesberrow</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.39952</west>
+<north>52.02135</north>
+<east>-2.34086</east>
+<south>51.9903</south>
+</bbox>
+<score>79.502685546875</score>
+</geoname>
+</geonames>

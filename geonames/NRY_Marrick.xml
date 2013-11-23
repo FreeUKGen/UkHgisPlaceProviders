@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Marrick</toponymName>
+<name>Marrick</name>
+<lat>54.37961</lat>
+<lng>-1.88467</lng>
+<geonameId>2642995</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Marrick</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UE</adminCode3>
+<adminName3>Richmondshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marrick</alternateName>
+<alternateName lang="unlc">MAK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.90012</west>
+<north>54.3886</north>
+<east>-1.86922</east>
+<south>54.37061</south>
+</bbox>
+<score>87.55369567871094</score>
+</geoname>
+<geoname>
+<toponymName>Marrick</toponymName>
+<name>Marrick</name>
+<lat>54.40548</lat>
+<lng>-1.89817</lng>
+<geonameId>7292073</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UE</adminCode3>
+<adminName3>Richmondshire District</adminName3>
+<adminCode4>36UE061</adminCode4>
+<adminName4>Marrick</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.95685</west>
+<north>54.43988</north>
+<east>-1.83949</east>
+<south>54.37108</south>
+</bbox>
+<score>76.90095520019531</score>
+</geoname>
+</geonames>

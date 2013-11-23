@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Cannock</toponymName>
+<name>Cannock</name>
+<lat>52.69045</lat>
+<lng>-2.03085</lng>
+<geonameId>2653883</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>68067</population>
+<alternateNames>Cannock,Kannok,Kanok,Kanuk,kaeneog,knak,Каннок,Канок,Канък,کناک,캐넉</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UB</adminCode3>
+<adminName3>Cannock Chase</adminName3>
+<alternateName lang="bg">Канък</alternateName>
+<alternateName lang="de">Cannock</alternateName>
+<alternateName lang="en">Cannock</alternateName>
+<alternateName lang="fa">کناک</alternateName>
+<alternateName lang="ko">캐넉</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cannock</alternateName>
+<alternateName lang="ru">Каннок</alternateName>
+<alternateName lang="sr">Канок</alternateName>
+<alternateName lang="unlc">CNK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.08641</west>
+<north>52.72411</north>
+<east>-1.97529</east>
+<south>52.6568</south>
+</bbox>
+<score>124.21138000488281</score>
+</geoname>
+</geonames>

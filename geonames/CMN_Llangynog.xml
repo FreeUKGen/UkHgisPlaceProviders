@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Llangynog</toponymName>
+<name>Llangynog</name>
+<lat>51.8125</lat>
+<lng>-4.40653</lng>
+<geonameId>7301149</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU047</adminCode3>
+<adminName3>Llangynog</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.45726</west>
+<north>51.84357</north>
+<east>-4.35581</east>
+<south>51.78143</south>
+</bbox>
+<score>106.53041076660156</score>
+</geoname>
+<geoname>
+<toponymName>Llangynog</toponymName>
+<name>Llangynog</name>
+<lat>52.08333</lat>
+<lng>-3.43333</lng>
+<geonameId>2643998</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llangynog,Llanynog</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.44797</west>
+<north>52.09233</north>
+<east>-3.41869</east>
+<south>52.07434</south>
+</bbox>
+<score>83.19914245605469</score>
+</geoname>
+<geoname>
+<toponymName>Llangynog</toponymName>
+<name>Llangynog</name>
+<lat>52.83383</lat>
+<lng>-3.43543</lng>
+<geonameId>7295459</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN068</adminCode3>
+<adminName3>Llangynog</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llangynog</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.50541</west>
+<north>52.8655</north>
+<east>-3.36546</east>
+<south>52.80215</south>
+</bbox>
+<score>73.35780334472656</score>
+</geoname>
+<geoname>
+<toponymName>Llangynog</toponymName>
+<name>Llangynog</name>
+<lat>52.83333</lat>
+<lng>-3.4</lng>
+<geonameId>2643997</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN068</adminCode3>
+<adminName3>Llangynog</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.42979</west>
+<north>52.85132</north>
+<east>-3.37021</east>
+<south>52.81535</south>
+</bbox>
+<score>38.38939666748047</score>
+</geoname>
+<geoname>
+<toponymName>Llangynog</toponymName>
+<name>Llangynog</name>
+<lat>51.82111</lat>
+<lng>-4.40972</lng>
+<geonameId>3345216</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU047</adminCode3>
+<adminName3>Llangynog</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.43883</west>
+<north>51.8391</north>
+<east>-4.38061</east>
+<south>51.80312</south>
+</bbox>
+<score>38.38939666748047</score>
+</geoname>
+</geonames>

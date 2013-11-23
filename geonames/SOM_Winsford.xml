@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Winsford</toponymName>
+<name>Winsford</name>
+<lat>53.18333</lat>
+<lng>-2.51667</lng>
+<geonameId>2633810</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>30812</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW163</adminCode3>
+<adminName3>Winsford</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Winsford</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.55421</west>
+<north>53.20582</north>
+<east>-2.47913</east>
+<south>53.16085</south>
+</bbox>
+<score>111.42196655273438</score>
+</geoname>
+<geoname>
+<toponymName>Winsford</toponymName>
+<name>Winsford</name>
+<lat>53.19191</lat>
+<lng>-2.52331</lng>
+<geonameId>7299965</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW163</adminCode3>
+<adminName3>Winsford</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.57531</west>
+<north>53.21502</north>
+<east>-2.47131</east>
+<south>53.16881</south>
+</bbox>
+<score>105.69157409667969</score>
+</geoname>
+<geoname>
+<toponymName>Winsford</toponymName>
+<name>Winsford</name>
+<lat>51.10194</lat>
+<lng>-3.56528</lng>
+<geonameId>2633811</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Winsford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UF</adminCode3>
+<adminName3>West Somerset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Winsford%2C_Somerset</alternateName>
+<alternateName lang="unlc">ZDL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.5796</west>
+<north>51.11094</north>
+<east>-3.55095</east>
+<south>51.09295</south>
+</bbox>
+<score>82.32717895507812</score>
+</geoname>
+<geoname>
+<toponymName>Winsford</toponymName>
+<name>Winsford</name>
+<lat>51.1039</lat>
+<lng>-3.59253</lng>
+<geonameId>7292445</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UF</adminCode3>
+<adminName3>West Somerset District</adminName3>
+<adminCode4>40UF040</adminCode4>
+<adminName4>Winsford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.63976</west>
+<north>51.13684</north>
+<east>-3.54529</east>
+<south>51.07097</south>
+</bbox>
+<score>76.16670227050781</score>
+</geoname>
+</geonames>

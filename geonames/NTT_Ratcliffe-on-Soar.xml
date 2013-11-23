@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ratcliffe on Soar</toponymName>
+<name>Ratcliffe on Soar</name>
+<lat>52.85317</lat>
+<lng>-1.26617</lng>
+<geonameId>2639626</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ratcliffe,Ratcliffe on Soar,Ratcliffe-upon-Soar</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.28107</west>
+<north>52.86216</north>
+<east>-1.25128</east>
+<south>52.84418</south>
+</bbox>
+<score>86.44194030761719</score>
+</geoname>
+<geoname>
+<toponymName>Ratcliffe on Soar</toponymName>
+<name>Ratcliffe on Soar</name>
+<lat>52.86028</lat>
+<lng>-1.25428</lng>
+<geonameId>7296974</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<adminCode4>37UJ035</adminCode4>
+<adminName4>Ratcliffe on Soar</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.27529</west>
+<north>52.87249</north>
+<east>-1.23327</east>
+<south>52.84808</south>
+</bbox>
+<score>70.75275421142578</score>
+</geoname>
+</geonames>

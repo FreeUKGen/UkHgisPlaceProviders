@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Witton Gilbert</toponymName>
+<name>Witton Gilbert</name>
+<lat>54.80572</lat>
+<lng>-1.63686</lng>
+<geonameId>2633723</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2339</population>
+<alternateNames>Witton Gilbert</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ128</adminCode3>
+<adminName3>Witton Gilbert</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Witton_Gilbert</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.64467</west>
+<north>54.81021</north>
+<east>-1.62906</east>
+<south>54.80122</south>
+</bbox>
+<score>111.10303497314453</score>
+</geoname>
+<geoname>
+<toponymName>Witton Gilbert</toponymName>
+<name>Witton Gilbert</name>
+<lat>54.80874</lat>
+<lng>-1.62731</lng>
+<geonameId>7291407</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ128</adminCode3>
+<adminName3>Witton Gilbert</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.66624</west>
+<north>54.82693</north>
+<east>-1.58839</east>
+<south>54.79055</south>
+</bbox>
+<score>94.02906799316406</score>
+</geoname>
+</geonames>

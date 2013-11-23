@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Partrishow</toponymName>
+<name>Partrishow</name>
+<lat>51.89573</lat>
+<lng>-3.05022</lng>
+<geonameId>2640588</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Partrishow,Patrishow</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN100</adminCode3>
+<adminName3>The Vale of Grwyney</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Partrishow</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.0648</west>
+<north>51.90472</north>
+<east>-3.03564</east>
+<south>51.88673</south>
+</bbox>
+<score>104.05845642089844</score>
+</geoname>
+</geonames>

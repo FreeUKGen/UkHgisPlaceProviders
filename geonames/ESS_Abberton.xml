@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Abberton</toponymName>
+<name>Abberton</name>
+<lat>52.18333</lat>
+<lng>-2.01667</lng>
+<geonameId>2657879</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Abberton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Abberton%2C_Worcestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.03134</west>
+<north>52.19233</north>
+<east>-2.002</east>
+<south>52.17434</south>
+</bbox>
+<score>100.36051940917969</score>
+</geoname>
+<geoname>
+<toponymName>Abberton</toponymName>
+<name>Abberton</name>
+<lat>51.83435</lat>
+<lng>0.91084</lng>
+<geonameId>2657880</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UG</adminCode3>
+<adminName3>Colchester District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Abberton%2C_Essex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.89628</west>
+<north>51.84334</north>
+<east>0.92539</east>
+<south>51.82535</south>
+</bbox>
+<score>83.75010681152344</score>
+</geoname>
+<geoname>
+<toponymName>Abberton</toponymName>
+<name>Abberton</name>
+<lat>52.17697</lat>
+<lng>-2.00973</lng>
+<geonameId>7292790</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<adminCode4>47UF001</adminCode4>
+<adminName4>Abberton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.02628</west>
+<north>52.18964</north>
+<east>-1.99317</east>
+<south>52.1643</south>
+</bbox>
+<score>80.46937561035156</score>
+</geoname>
+<geoname>
+<toponymName>Abberton</toponymName>
+<name>Abberton</name>
+<lat>51.83373</lat>
+<lng>0.897</lng>
+<geonameId>7295115</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UG</adminCode3>
+<adminName3>Colchester District</adminName3>
+<adminCode4>22UG001</adminCode4>
+<adminName4>Abberton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.88039</west>
+<north>51.84624</north>
+<east>0.91361</east>
+<south>51.82122</south>
+</bbox>
+<score>80.46937561035156</score>
+</geoname>
+</geonames>

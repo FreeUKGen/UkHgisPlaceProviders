@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bexleyheath</toponymName>
+<name>Bexleyheath</name>
+<lat>51.46291</lat>
+<lng>0.13943</lng>
+<geonameId>2655774</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>بیکزلیہیتھ</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>A6</adminCode3>
+<adminName3>Bexley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bexleyheath</alternateName>
+<alternateName lang="unlc">BXL</alternateName>
+<alternateName lang="ur">بیکزلیہیتھ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.11055</west>
+<north>51.4809</north>
+<east>0.16831</east>
+<south>51.44492</south>
+</bbox>
+<score>67.47430419921875</score>
+</geoname>
+</geonames>

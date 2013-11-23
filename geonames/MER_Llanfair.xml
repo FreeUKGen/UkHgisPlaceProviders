@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Llanfair</toponymName>
+<name>Llanfair</name>
+<lat>52.8533</lat>
+<lng>-4.05658</lng>
+<geonameId>7298625</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC037</adminCode3>
+<adminName3>Llanfair</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.13133</west>
+<north>52.88064</north>
+<east>-3.98183</east>
+<south>52.82597</south>
+</bbox>
+<score>105.64573669433594</score>
+</geoname>
+<geoname>
+<toponymName>Llanfair</toponymName>
+<name>Llanfair</name>
+<lat>51.43905</lat>
+<lng>-3.43356</lng>
+<geonameId>7301706</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<adminCode3>00PD009</adminCode3>
+<adminName3>Llanfair</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.47052</west>
+<north>51.45678</north>
+<east>-3.39659</east>
+<south>51.42133</south>
+</bbox>
+<score>105.64573669433594</score>
+</geoname>
+<geoname>
+<toponymName>Llanfair-Dyffryn-Clwyd</toponymName>
+<name>Llanfair-Dyffryn-Clwyd</name>
+<lat>53.08333</lat>
+<lng>-3.3</lng>
+<geonameId>2644082</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanfair,Llanfair-Dyffryn-Clwyd</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.31498</west>
+<north>53.09233</north>
+<east>-3.28502</east>
+<south>53.07434</south>
+</bbox>
+<score>49.71660614013672</score>
+</geoname>
+<geoname>
+<toponymName>Llanfair</toponymName>
+<name>Llanfair</name>
+<lat>52.84415</lat>
+<lng>-4.11541</lng>
+<geonameId>2644086</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC037</adminCode3>
+<adminName3>Llanfair</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.1452</west>
+<north>52.86214</north>
+<east>-4.08562</east>
+<south>52.82616</south>
+</bbox>
+<score>38.102210998535156</score>
+</geoname>
+</geonames>

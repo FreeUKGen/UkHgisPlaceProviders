@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Carew</toponymName>
+<name>Carew</name>
+<lat>51.69803</lat>
+<lng>-4.81861</lng>
+<geonameId>7297125</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS009</adminCode3>
+<adminName3>Carew</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.87247</west>
+<north>51.72557</north>
+<east>-4.76475</east>
+<south>51.67048</south>
+</bbox>
+<score>104.98441314697266</score>
+</geoname>
+<geoname>
+<toponymName>Carew</toponymName>
+<name>Carew</name>
+<lat>51.69688</lat>
+<lng>-4.82463</lng>
+<geonameId>2653800</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS009</adminCode3>
+<adminName3>Carew</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Carew%2C_Pembrokeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.83914</west>
+<north>51.70587</north>
+<east>-4.81012</east>
+<south>51.68788</south>
+</bbox>
+<score>80.5185546875</score>
+</geoname>
+</geonames>

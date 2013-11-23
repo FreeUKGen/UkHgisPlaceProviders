@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Guiting Power</toponymName>
+<name>Guiting Power</name>
+<lat>51.92119</lat>
+<lng>-1.86429</lng>
+<geonameId>2647782</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Guiting Power</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Guiting_Power</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.87888</west>
+<north>51.93019</north>
+<east>-1.8497</east>
+<south>51.9122</south>
+</bbox>
+<score>96.045654296875</score>
+</geoname>
+<geoname>
+<toponymName>Guiting Power</toponymName>
+<name>Guiting Power</name>
+<lat>51.92354</lat>
+<lng>-1.86595</lng>
+<geonameId>7298572</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<adminCode4>23UC055</adminCode4>
+<adminName4>Guiting Power</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.89738</west>
+<north>51.94012</north>
+<east>-1.83452</east>
+<south>51.90696</south>
+</bbox>
+<score>74.67979431152344</score>
+</geoname>
+</geonames>

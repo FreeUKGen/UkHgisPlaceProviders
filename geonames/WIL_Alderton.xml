@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Alderton</toponymName>
+<name>Alderton</name>
+<lat>51.98333</lat>
+<lng>-2</lng>
+<geonameId>2657539</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Alderton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alderton%2C_Gloucestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.01461</west>
+<north>51.99233</north>
+<east>-1.98539</east>
+<south>51.97434</south>
+</bbox>
+<score>83.31462097167969</score>
+</geoname>
+<geoname>
+<toponymName>Alderton</toponymName>
+<name>Alderton</name>
+<lat>52.02461</lat>
+<lng>1.41479</lng>
+<geonameId>2657538</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UG</adminCode3>
+<adminName3>Suffolk Coastal District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alderton%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.40017</west>
+<north>52.03361</north>
+<east>1.42941</east>
+<south>52.01562</south>
+</bbox>
+<score>69.65007781982422</score>
+</geoname>
+<geoname>
+<toponymName>Alderton</toponymName>
+<name>Alderton</name>
+<lat>51.98891</lat>
+<lng>-2.00687</lng>
+<geonameId>7293610</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<adminCode4>23UG001</adminCode4>
+<adminName4>Alderton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.03862</west>
+<north>52.00996</north>
+<east>-1.97512</east>
+<south>51.96787</south>
+</bbox>
+<score>66.5341796875</score>
+</geoname>
+<geoname>
+<toponymName>Alderton</toponymName>
+<name>Alderton</name>
+<lat>52.02174</lat>
+<lng>1.41347</lng>
+<geonameId>7301384</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UG</adminCode3>
+<adminName3>Suffolk Coastal District</adminName3>
+<adminCode4>42UG002</adminCode4>
+<adminName4>Alderton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.38242</west>
+<north>52.04287</north>
+<east>1.44452</east>
+<south>52.00062</south>
+</bbox>
+<score>66.5341796875</score>
+</geoname>
+<geoname>
+<toponymName>Alderton</toponymName>
+<name>Alderton</name>
+<lat>52.11726</lat>
+<lng>-0.91543</lng>
+<geonameId>7295760</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<adminCode4>34UG079</adminCode4>
+<adminName4>Alderton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alderton%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.92894</west>
+<north>52.12815</north>
+<east>-0.90191</east>
+<south>52.10637</south>
+</bbox>
+<score>45.4366455078125</score>
+</geoname>
+</geonames>

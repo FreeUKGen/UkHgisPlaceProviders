@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llandysiliogogo</toponymName>
+<name>Llandysiliogogo</name>
+<lat>52.15399</lat>
+<lng>-4.33823</lng>
+<geonameId>7291017</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ019</adminCode3>
+<adminName3>Llandysiliogogo</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.42314</west>
+<north>52.19861</north>
+<east>-4.25331</east>
+<south>52.10936</south>
+</bbox>
+<score>105.0110855102539</score>
+</geoname>
+</geonames>

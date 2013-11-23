@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>East Horsley</toponymName>
+<name>East Horsley</name>
+<lat>51.27358</lat>
+<lng>-0.43207</lng>
+<geonameId>2650411</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5787</population>
+<alternateNames>East Horsley,Horsley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UD</adminCode3>
+<adminName3>Guildford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/East_Horsley</alternateName>
+<alternateName lang="unlc">ESY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.44645</west>
+<north>51.28258</north>
+<east>-0.41769</east>
+<south>51.26459</south>
+</bbox>
+<score>93.40337371826172</score>
+</geoname>
+<geoname>
+<toponymName>East Horsley</toponymName>
+<name>East Horsley</name>
+<lat>51.27164</lat>
+<lng>-0.42314</lng>
+<geonameId>7301600</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UD</adminCode3>
+<adminName3>Guildford District</adminName3>
+<adminCode4>43UD006</adminCode4>
+<adminName4>East Horsley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.44104</west>
+<north>51.30371</north>
+<east>-0.40524</east>
+<south>51.23957</south>
+</bbox>
+<score>70.48411560058594</score>
+</geoname>
+</geonames>

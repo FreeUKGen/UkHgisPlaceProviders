@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>South Stoke</toponymName>
+<name>South Stoke</name>
+<lat>51.54954</lat>
+<lng>-1.13228</lng>
+<geonameId>2637317</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UD</adminCode3>
+<adminName3>South Oxfordshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/South_Stoke%2C_Oxfordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.14674</west>
+<north>51.55853</north>
+<east>-1.11781</east>
+<south>51.54054</south>
+</bbox>
+<score>68.39248657226562</score>
+</geoname>
+<geoname>
+<toponymName>South Stoke</toponymName>
+<name>South Stoke</name>
+<lat>51.55431</lat>
+<lng>-1.12001</lng>
+<geonameId>7292123</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UD</adminCode3>
+<adminName3>South Oxfordshire District</adminName3>
+<adminCode4>38UD064</adminCode4>
+<adminName4>South Stoke</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.14702</west>
+<north>51.56844</north>
+<east>-1.09299</east>
+<south>51.54018</south>
+</bbox>
+<score>58.69709777832031</score>
+</geoname>
+<geoname>
+<toponymName>South Stoke</toponymName>
+<name>South Stoke</name>
+<lat>52.83333</lat>
+<lng>-0.58333</lng>
+<geonameId>2637316</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.59822</west>
+<north>52.84233</north>
+<east>-0.56844</east>
+<south>52.82434</south>
+</bbox>
+<score>45.01715087890625</score>
+</geoname>
+<geoname>
+<toponymName>South Stoke</toponymName>
+<name>South Stoke</name>
+<lat>50.87311</lat>
+<lng>-0.54867</lng>
+<geonameId>7292738</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UC</adminCode3>
+<adminName3>Arun District</adminName3>
+<adminCode4>45UC028</adminCode4>
+<adminName4>South Stoke</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/South_Stoke%2C_West_Sussex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.57172</west>
+<north>50.88628</north>
+<east>-0.52562</east>
+<south>50.85995</south>
+</bbox>
+<score>43.77003479003906</score>
+</geoname>
+</geonames>

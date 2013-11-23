@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>North Wheatley</toponymName>
+<name>North Wheatley</name>
+<lat>53.36232</lat>
+<lng>-0.85635</lng>
+<geonameId>2641225</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>North Wheatley,Wheatley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/North_Wheatley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.87142</west>
+<north>53.37131</north>
+<east>-0.84127</east>
+<south>53.35333</south>
+</bbox>
+<score>84.63980102539062</score>
+</geoname>
+<geoname>
+<toponymName>North Wheatley</toponymName>
+<name>North Wheatley</name>
+<lat>53.37167</lat>
+<lng>-0.86092</lng>
+<geonameId>7290902</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<adminCode4>37UC041</adminCode4>
+<adminName4>North Wheatley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.89137</west>
+<north>53.38997</north>
+<east>-0.83047</east>
+<south>53.35338</south>
+</bbox>
+<score>68.52629852294922</score>
+</geoname>
+</geonames>

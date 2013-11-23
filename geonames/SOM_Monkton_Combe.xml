@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Monkton Combe</toponymName>
+<name>Monkton Combe</name>
+<lat>51.35779</lat>
+<lng>-2.32866</lng>
+<geonameId>7296079</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA028</adminCode3>
+<adminName3>Monkton Combe</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Monkton_Combe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.3471</west>
+<north>51.36408</north>
+<east>-2.31022</east>
+<south>51.35151</south>
+</bbox>
+<score>72.00825500488281</score>
+</geoname>
+</geonames>

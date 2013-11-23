@@ -1,0 +1,41 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>13661</id>
+<name>STAINFIELD</name>
+<container>LINCOLNSHIRE</container>
+<lat>53.243718928151</lat>
+<lon>-0.33513583242183</lon>
+<gazetteerText>STAINFIELD, a parish in the district and county of Lincoln; 2&#190; miles N by W of Bardney r. station, and 9 E by S of Lincoln. Post town, Wragby. Acres, 2,450. Real property, &#163;2,277. Pop., 164. Houses, 33. The manor belongs to T. T. Drake, Esq. A Benedictine nunnery was founded here, in the time of Henry II., by Henry Percy. The living is a p. curacy in the diocese of Lincoln. Value, &#163;71. Patron, T. T. Drake, Esq. The church was rebuilt in 1811. There is a national school. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LIN/Stainfield/</link>
+<link>http://www.geonames.org/2637125</link>
+</links>
+<unit>
+   <id>10453021</id>
+   <status>CP/Ch</status>
+   <name>STAINFIELD</name>
+</unit>
+<unit>
+   <id>10453045</id>
+   <status>EP</status>
+   <name>STAINFIELD</name>
+</unit>
+<nearByPlace>
+   <id>11405</id>
+   <name>APLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11806</id>
+   <name>BULLINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11954</id>
+   <name>COLDSTEAD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13334</id>
+   <name>NEWBALL</name>
+</nearByPlace>
+</place>
+</results>

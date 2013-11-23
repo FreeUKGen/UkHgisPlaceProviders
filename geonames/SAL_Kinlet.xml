@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kinlet</toponymName>
+<name>Kinlet</name>
+<lat>52.41611</lat>
+<lng>-2.39024</lng>
+<geonameId>7301586</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG100</adminCode3>
+<adminName3>Kinlet</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.4469</west>
+<north>52.45071</north>
+<east>-2.33359</east>
+<south>52.38151</south>
+</bbox>
+<score>110.39564514160156</score>
+</geoname>
+<geoname>
+<toponymName>Kinlet</toponymName>
+<name>Kinlet</name>
+<lat>52.41969</lat>
+<lng>-2.41461</lng>
+<geonameId>2645406</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kinlet</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG100</adminCode3>
+<adminName3>Kinlet</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kinlet</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.42936</west>
+<north>52.42869</north>
+<east>-2.39986</east>
+<south>52.4107</south>
+</bbox>
+<score>104.88238525390625</score>
+</geoname>
+</geonames>

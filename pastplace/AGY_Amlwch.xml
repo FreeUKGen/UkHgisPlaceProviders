@@ -1,0 +1,64 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>418</id>
+<name>AMLWCH</name>
+<container>ANGLESEY</container>
+<lat>53.4027462359321</lat>
+<lon>-4.36236300050421</lon>
+<gazetteerText>Amlwch, par. and seaport, N. Anglesey, 22 miles NW. of Bangor by rail and 20 miles NE. of Holyhead by road, 9221 ac., pop. 4847; P.O., T.O., 3 Banks. Market-day, Saturday. The rich copper mines of the Parys mountain are near the town; also several smelting-furnaces and alum and vitriol works. It has a good harb., and is a terminus of the Chester and Holyhead Ry. Along with Holyhead, Llangefni, and Beaumaris it returned 1 member to Parliament until 1885. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2657347</link>
+<link>http://www.genuki.org.uk/big/wal/AGY/Amlwch/index.html</link>
+<link>http://en.wikipedia.org/wiki/Amlwch</link>
+</links>
+<unit>
+   <id>10064284</id>
+   <status>UD</status>
+   <name>AMLWCH</name>
+</unit>
+<unit>
+   <id>10093454</id>
+   <status>AP/CP</status>
+   <name>AMLWCH</name>
+</unit>
+<unit>
+   <id>10556570</id>
+   <status></status>
+   <name>AMLWCH</name>
+</unit>
+<unit>
+   <id>12782743</id>
+   <status></status>
+   <name>AMLWCH</name>
+</unit>
+<nearByPlace>
+   <id>2042</id>
+   <name>LLANDYFRYDOG</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4461</id>
+   <name>LLANEILIAN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8464</id>
+   <name>PENRHOSLLUGWY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8689</id>
+   <name>RHODOGEIDIO</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8719</id>
+   <name>RHOS Y BOL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12354</id>
+   <name>BODEWRYD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12388</id>
+   <name>LLANWENLLWYFO</name>
+</nearByPlace>
+</place>
+</results>

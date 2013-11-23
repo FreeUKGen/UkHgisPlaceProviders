@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>Ash</toponymName>
+<name>Ash</name>
+<lat>51.27883</lat>
+<lng>1.27974</lng>
+<geonameId>6695249</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2767</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UE</adminCode3>
+<adminName3>Dover District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ash%2C_Dover</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.26957</west>
+<north>51.28519</north>
+<east>1.2899</east>
+<south>51.27247</south>
+</bbox>
+<score>86.61328125</score>
+</geoname>
+<geoname>
+<toponymName>Ash</toponymName>
+<name>Ash</name>
+<lat>52.95</lat>
+<lng>-2.65</lng>
+<geonameId>2656985</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2108</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.65746</west>
+<north>52.9545</north>
+<east>-2.64254</east>
+<south>52.9455</south>
+</bbox>
+<score>59.765419006347656</score>
+</geoname>
+<geoname>
+<toponymName>Ash</toponymName>
+<name>Ash</name>
+<lat>51.29777</lat>
+<lng>1.2932</lng>
+<geonameId>7294734</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UE</adminCode3>
+<adminName3>Dover District</adminName3>
+<adminCode4>29UE002</adminCode4>
+<adminName4>Ash</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.24043</west>
+<north>51.32409</north>
+<east>1.34596</east>
+<south>51.27145</south>
+</bbox>
+<score>59.765419006347656</score>
+</geoname>
+<geoname>
+<toponymName>Ash</toponymName>
+<name>Ash</name>
+<lat>51.35635</lat>
+<lng>0.29697</lng>
+<geonameId>2656986</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UP</adminCode3>
+<adminName3>Tonbridge and Malling District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.28257</west>
+<north>51.36534</north>
+<east>0.31138</east>
+<south>51.34735</south>
+</bbox>
+<score>47.367088317871094</score>
+</geoname>
+<geoname>
+<toponymName>Ash</toponymName>
+<name>Ash</name>
+<lat>50.99175</lat>
+<lng>-2.74178</lng>
+<geonameId>7292405</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD005</adminCode4>
+<adminName4>Ash</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ash%2C_South_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.7642</west>
+<north>51.01073</north>
+<east>-2.71937</east>
+<south>50.97277</south>
+</bbox>
+<score>45.7131462097168</score>
+</geoname>
+<geoname>
+<toponymName>Ash</toponymName>
+<name>Ash</name>
+<lat>51.25931</lat>
+<lng>-0.71919</lng>
+<geonameId>7296074</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UD</adminCode3>
+<adminName3>Guildford District</adminName3>
+<adminCode4>43UD003</adminCode4>
+<adminName4>Ash</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ash%2C_Surrey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.73852</west>
+<north>51.28332</north>
+<east>-0.69987</east>
+<south>51.23531</south>
+</bbox>
+<score>45.7131462097168</score>
+</geoname>
+<geoname>
+<toponymName>Ash</toponymName>
+<name>Ash</name>
+<lat>52.89449</lat>
+<lng>-1.61996</lng>
+<geonameId>7296485</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UK</adminCode3>
+<adminName3>South Derbyshire District</adminName3>
+<adminCode4>17UK001</adminCode4>
+<adminName4>Ash</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ash%2C_Derbyshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.63335</west>
+<north>52.90514</north>
+<east>-1.60657</east>
+<south>52.88385</south>
+</bbox>
+<score>45.7131462097168</score>
+</geoname>
+<geoname>
+<toponymName>Ashbourne</toponymName>
+<name>Ashbourne</name>
+<lat>53.01667</lat>
+<lng>-1.73333</lng>
+<geonameId>2656981</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5132</population>
+<alternateNames>Ashbourne</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UF</adminCode3>
+<adminName3>Derbyshire Dales District</adminName3>
+<alternateName lang="unlc">ASH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.74829</west>
+<north>53.02566</north>
+<east>-1.71838</east>
+<south>53.00767</south>
+</bbox>
+<score>37.67595672607422</score>
+</geoname>
+<geoname>
+<toponymName>Ash Railway Station</toponymName>
+<name>Ash Railway Station</name>
+<lat>51.24968</lat>
+<lng>-0.71283</lng>
+<geonameId>6951926</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>ASH</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UD</adminCode3>
+<adminName3>Guildford District</adminName3>
+<alternateName lang="abbr">ASH</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ash_railway_station</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>36.69572830200195</score>
+</geoname>
+</geonames>

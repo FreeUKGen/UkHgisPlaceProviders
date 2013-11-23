@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Goldcliff</toponymName>
+<name>Goldcliff</name>
+<lat>51.55046</lat>
+<lng>-2.90894</lng>
+<geonameId>7298352</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y6</adminCode2>
+<adminName2>City of Newport</adminName2>
+<adminCode3>00PR009</adminCode3>
+<adminName3>Goldcliff</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.94807</west>
+<north>51.57377</north>
+<east>-2.86982</east>
+<south>51.52715</south>
+</bbox>
+<score>110.16157531738281</score>
+</geoname>
+<geoname>
+<toponymName>Goldcliff</toponymName>
+<name>Goldcliff</name>
+<lat>51.54222</lat>
+<lng>-2.91778</lng>
+<geonameId>2648354</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Goldcliff</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y6</adminCode2>
+<adminName2>City of Newport</adminName2>
+<adminCode3>00PR009</adminCode3>
+<adminName3>Goldcliff</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Goldcliff%2C_Newport</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.94671</west>
+<north>51.56021</north>
+<east>-2.88884</east>
+<south>51.52423</south>
+</bbox>
+<score>79.38220977783203</score>
+</geoname>
+</geonames>

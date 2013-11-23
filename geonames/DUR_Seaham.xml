@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Seaham</toponymName>
+<name>Seaham</name>
+<lat>54.8391</lat>
+<lng>-1.34838</lng>
+<geonameId>7294483</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ096</adminCode3>
+<adminName3>Seaham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.37868</west>
+<north>54.86071</north>
+<east>-1.31807</east>
+<south>54.81748</south>
+</bbox>
+<score>106.69395446777344</score>
+</geoname>
+<geoname>
+<toponymName>Seaham</toponymName>
+<name>Seaham</name>
+<lat>54.83903</lat>
+<lng>-1.34575</lng>
+<geonameId>2638302</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>21170</population>
+<alternateNames>Seaham,Seaham Harbour,Sikhem,Сихем</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ096</adminCode3>
+<adminName3>Seaham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Seaham</alternateName>
+<alternateName lang="ru">Сихем</alternateName>
+<alternateName lang="unlc">SEA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.37796</west>
+<north>54.85757</north>
+<east>-1.31353</east>
+<south>54.82049</south>
+</bbox>
+<score>100.63494873046875</score>
+</geoname>
+<geoname>
+<toponymName>Seaham</toponymName>
+<name>Seaham</name>
+<lat>54.837</lat>
+<lng>-1.341</lng>
+<geonameId>2638303</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>SEA</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<alternateName lang="abbr">SEA</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Seaham_railway_station</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>52.85093688964844</score>
+</geoname>
+</geonames>

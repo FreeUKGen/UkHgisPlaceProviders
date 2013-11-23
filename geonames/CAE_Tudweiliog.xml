@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Tudweiliog</toponymName>
+<name>Tudweiliog</name>
+<lat>52.88678</lat>
+<lng>-4.62353</lng>
+<geonameId>7293630</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC061</adminCode3>
+<adminName3>Tudweiliog</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.70354</west>
+<north>52.9245</north>
+<east>-4.54353</east>
+<south>52.84906</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Twdweiliog</toponymName>
+<name>Twdweiliog</name>
+<lat>52.9</lat>
+<lng>-4.61667</lng>
+<geonameId>2635319</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Tudweiliog,Twdweiliog</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tudweiliog</alternateName>
+<alternateName lang="unlc">TDI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.63158</west>
+<north>52.90899</north>
+<east>-4.60175</east>
+<south>52.89101</south>
+</bbox>
+<score>57.44158172607422</score>
+</geoname>
+</geonames>

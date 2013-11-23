@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wainfleet All Saints</toponymName>
+<name>Wainfleet All Saints</name>
+<lat>53.1057</lat>
+<lng>0.23583</lng>
+<geonameId>2634914</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2009</population>
+<alternateNames>Wainfleet,Wainfleet All Saints</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wainfleet%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.22834</west>
+<north>53.11019</north>
+<east>0.24332</east>
+<south>53.1012</south>
+</bbox>
+<score>101.88845825195312</score>
+</geoname>
+<geoname>
+<toponymName>Wainfleet All Saints</toponymName>
+<name>Wainfleet All Saints</name>
+<lat>53.11175</lat>
+<lng>0.19361</lng>
+<geonameId>7296444</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC170</adminCode4>
+<adminName4>Wainfleet All Saints</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.13757</west>
+<north>53.12067</north>
+<east>0.24965</east>
+<south>53.10283</south>
+</bbox>
+<score>71.23564910888672</score>
+</geoname>
+</geonames>

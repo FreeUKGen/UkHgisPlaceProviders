@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Hucknall</toponymName>
+<name>Hucknall Torkard</name>
+<lat>53.03333</lat>
+<lng>-1.2</lng>
+<geonameId>2646460</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>29728</population>
+<alternateNames>Hucknall Torkard,Khuknal,Хъкнал</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UB</adminCode3>
+<adminName3>Ashfield District</adminName3>
+<alternateName lang="bg">Хъкнал</alternateName>
+<alternateName lang="en">Hucknall Torkard</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hucknall</alternateName>
+<alternateName lang="unlc">HKL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.23665</west>
+<north>53.05536</north>
+<east>-1.16335</east>
+<south>53.0113</south>
+</bbox>
+<score>89.98419189453125</score>
+</geoname>
+</geonames>

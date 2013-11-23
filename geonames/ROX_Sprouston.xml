@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Sprouston</toponymName>
+<name>Sprouston</name>
+<lat>55.60798</lat>
+<lng>-2.39093</lng>
+<geonameId>2637182</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T9</adminCode2>
+<adminName2>Scottish Borders</adminName2>
+<adminCode3>00EM033</adminCode3>
+<adminName3>GB.SCT.T9.00EM033</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.40686</west>
+<north>55.61698</north>
+<east>-2.375</east>
+<south>55.59899</south>
+</bbox>
+<score>62.9132194519043</score>
+</geoname>
+</geonames>

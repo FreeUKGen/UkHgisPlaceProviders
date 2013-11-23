@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Barton Turf</toponymName>
+<name>Barton Turf</name>
+<lat>52.73583</lat>
+<lng>1.48561</lng>
+<geonameId>7298991</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF009</adminCode4>
+<adminName4>Barton Turf</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barton_Turf</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.45565</west>
+<north>52.76279</north>
+<east>1.51556</east>
+<south>52.70887</south>
+</bbox>
+<score>53.53178024291992</score>
+</geoname>
+</geonames>

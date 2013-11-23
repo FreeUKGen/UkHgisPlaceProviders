@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>Eaton</toponymName>
+<name>Eaton</name>
+<lat>53.14087</lat>
+<lng>-2.89246</lng>
+<geonameId>7290951</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW061</adminCode3>
+<adminName3>Eaton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.92281</west>
+<north>53.15063</north>
+<east>-2.8621</east>
+<south>53.13111</south>
+</bbox>
+<score>91.28913116455078</score>
+</geoname>
+<geoname>
+<toponymName>Eaton</toponymName>
+<name>Eaton</name>
+<lat>53.18853</lat>
+<lng>-2.20053</lng>
+<geonameId>7299903</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z7</adminCode2>
+<adminName2>Cheshire East</adminName2>
+<adminCode3>00EQ050</adminCode3>
+<adminName3>Eaton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.22164</west>
+<north>53.20084</north>
+<east>-2.17943</east>
+<south>53.17623</south>
+</bbox>
+<score>91.28913116455078</score>
+</geoname>
+<geoname>
+<toponymName>Eaton</toponymName>
+<name>Eaton</name>
+<lat>52.85327</lat>
+<lng>-0.81711</lng>
+<geonameId>2650299</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UG</adminCode3>
+<adminName3>Melton District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eaton%2C_Leicestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.832</west>
+<north>52.86227</north>
+<east>-0.80221</east>
+<south>52.84428</south>
+</bbox>
+<score>72.58659362792969</score>
+</geoname>
+<geoname>
+<toponymName>Eaton</toponymName>
+<name>Eaton</name>
+<lat>52.84976</lat>
+<lng>-0.84611</lng>
+<geonameId>7293875</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UG</adminCode3>
+<adminName3>Melton District</adminName3>
+<adminCode4>31UG010</adminCode4>
+<adminName4>Eaton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.88982</west>
+<north>52.87804</north>
+<east>-0.8024</east>
+<south>52.82149</south>
+</bbox>
+<score>66.06683349609375</score>
+</geoname>
+<geoname>
+<toponymName>Eaton</toponymName>
+<name>Eaton</name>
+<lat>53.18333</lat>
+<lng>-2.2</lng>
+<geonameId>2650297</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z7</adminCode2>
+<adminName2>Cheshire East</adminName2>
+<adminCode3>00EQ050</adminCode3>
+<adminName3>Eaton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eaton%2C_Cheshire_East</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.23003</west>
+<north>53.20132</north>
+<east>-2.16997</east>
+<south>53.16535</south>
+</bbox>
+<score>61.24736785888672</score>
+</geoname>
+<geoname>
+<toponymName>Eaton</toponymName>
+<name>Eaton</name>
+<lat>53.16667</lat>
+<lng>-2.63333</lng>
+<geonameId>2650298</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.64834</west>
+<north>53.17566</north>
+<east>-2.61833</east>
+<south>53.15767</south>
+</bbox>
+<score>52.451988220214844</score>
+</geoname>
+<geoname>
+<toponymName>Eaton</toponymName>
+<name>Eaton</name>
+<lat>52.5</lat>
+<lng>-2.75</lng>
+<geonameId>2650300</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.76478</west>
+<north>52.50899</north>
+<east>-2.73522</east>
+<south>52.49101</south>
+</bbox>
+<score>52.451988220214844</score>
+</geoname>
+<geoname>
+<toponymName>Eaton</toponymName>
+<name>Eaton</name>
+<lat>53.29526</lat>
+<lng>-0.93619</lng>
+<geonameId>7300337</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<adminCode4>37UC019</adminCode4>
+<adminName4>Eaton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eaton%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.97124</west>
+<north>53.30382</north>
+<east>-0.90114</east>
+<south>53.28669</south>
+</bbox>
+<score>47.632530212402344</score>
+</geoname>
+<geoname>
+<toponymName>Eaton</toponymName>
+<name>Eaton</name>
+<lat>52.49981</lat>
+<lng>-2.92343</lng>
+<geonameId>6286256</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>16.516708374023438</score>
+</geoname>
+</geonames>

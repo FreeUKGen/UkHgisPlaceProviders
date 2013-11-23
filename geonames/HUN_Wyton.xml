@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wyton</toponymName>
+<name>Wyton</name>
+<lat>53.7824</lat>
+<lng>-0.21713</lng>
+<geonameId>2633430</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB015</adminCode3>
+<adminName3>Bilton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wyton%2C_East_Riding_of_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.23236</west>
+<north>53.79139</north>
+<east>-0.20191</east>
+<south>53.7734</south>
+</bbox>
+<score>83.87126159667969</score>
+</geoname>
+<geoname>
+<toponymName>Wyton</toponymName>
+<name>Wyton</name>
+<lat>52.33333</lat>
+<lng>-0.11667</lng>
+<geonameId>2633431</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<alternateName lang="unlc">QUY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.13139</west>
+<north>52.34233</north>
+<east>-0.10195</east>
+<south>52.32434</south>
+</bbox>
+<score>48.931243896484375</score>
+</geoname>
+</geonames>

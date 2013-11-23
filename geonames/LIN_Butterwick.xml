@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Butterwick</toponymName>
+<name>Butterwick</name>
+<lat>54.11667</lat>
+<lng>-0.48333</lng>
+<geonameId>2654147</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Butterwick</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UF</adminCode3>
+<adminName3>Ryedale District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Butterwick%2C_Foxholes</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.49868</west>
+<north>54.12566</north>
+<east>-0.46799</east>
+<south>54.10767</south>
+</bbox>
+<score>87.99076080322266</score>
+</geoname>
+<geoname>
+<toponymName>Butterwick</toponymName>
+<name>Butterwick</name>
+<lat>52.98333</lat>
+<lng>0.06667</lng>
+<geonameId>2654148</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Butterwick</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UB</adminCode3>
+<adminName3>Boston District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Butterwick%2C_Lincolnshire</alternateName>
+<alternateName lang="unlc">BTZ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.05173</west>
+<north>52.99233</north>
+<east>0.08161</east>
+<south>52.97434</south>
+</bbox>
+<score>76.05673217773438</score>
+</geoname>
+<geoname>
+<toponymName>Butterwick</toponymName>
+<name>Butterwick</name>
+<lat>52.99229</lat>
+<lng>0.08788</lng>
+<geonameId>7300874</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UB</adminCode3>
+<adminName3>Boston District</adminName3>
+<adminCode4>32UB005</adminCode4>
+<adminName4>Butterwick</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.03711</west>
+<north>53.03016</north>
+<east>0.13866</east>
+<south>52.95442</south>
+</bbox>
+<score>69.9179458618164</score>
+</geoname>
+<geoname>
+<toponymName>East Butterwick</toponymName>
+<name>East Butterwick</name>
+<lat>53.5437</lat>
+<lng>-0.737</lng>
+<geonameId>2650490</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Butterwick,East Butterwick</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD017</adminCode3>
+<adminName3>East Butterwick</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.75213</west>
+<north>53.55269</north>
+<east>-0.72186</east>
+<south>53.5347</south>
+</bbox>
+<score>46.44715118408203</score>
+</geoname>
+</geonames>

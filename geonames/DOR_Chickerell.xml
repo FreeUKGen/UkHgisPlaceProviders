@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Chickerell</toponymName>
+<name>Chickerell</name>
+<lat>50.62429</lat>
+<lng>-2.5028</lng>
+<geonameId>2653188</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2966</population>
+<alternateNames>Chickerell,West Chickerel</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chickerell</alternateName>
+<alternateName lang="unlc">CKR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.51282</west>
+<north>50.63065</north>
+<east>-2.49277</east>
+<south>50.61793</south>
+</bbox>
+<score>100.60103607177734</score>
+</geoname>
+<geoname>
+<toponymName>Chickerell</toponymName>
+<name>Chickerell</name>
+<lat>50.62862</lat>
+<lng>-2.50252</lng>
+<geonameId>7293416</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH033</adminCode4>
+<adminName4>Chickerell</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.52528</west>
+<north>50.66669</north>
+<east>-2.47976</east>
+<south>50.59056</south>
+</bbox>
+<score>82.2243881225586</score>
+</geoname>
+</geonames>

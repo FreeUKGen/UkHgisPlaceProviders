@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Isle of Bute</toponymName>
+<name>Bute</name>
+<lat>55.83663</lat>
+<lng>-5.05586</lng>
+<geonameId>8299622</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population>7228</population>
+<alternateNames>Bute,Isle of Bute</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T8</adminCode2>
+<adminName2>Argyll and Bute</adminName2>
+<alternateName lang="en">Bute</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Isle_of_bute</alternateName>
+<alternateName lang="post">PA20</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.07548</west>
+<north>55.84764</north>
+<east>-5.03624</east>
+<south>55.82561</south>
+</bbox>
+<score>50.877098083496094</score>
+</geoname>
+<geoname>
+<toponymName>Buteshire</toponymName>
+<name>Buteshire</name>
+<lat>55.75</lat>
+<lng>-5.25</lng>
+<geonameId>2654165</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Bute,Bute County,County of Bute</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T8</adminCode2>
+<adminName2>Argyll and Bute</adminName2>
+<adminCode3>2654165</adminCode3>
+<adminName3>Buteshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/County_of_Bute</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>46.187278747558594</score>
+</geoname>
+</geonames>

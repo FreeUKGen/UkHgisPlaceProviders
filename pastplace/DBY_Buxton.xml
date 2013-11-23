@@ -1,0 +1,91 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>14</id>
+<name>BUXTON</name>
+<container>DERBYSHIRE</container>
+<lat>53.2590134943599</lat>
+<lon>-1.90864531485122</lon>
+<gazetteerText>Buxton.-- watering-place, market town, and township, Bakewell par., N. Derbyshire, 36 miles NW. of Derby and 163 miles NW. of London by rail -- township, 1823 ac., pop. 4110; town, pop. 6025; 2 Banks, 5 newspapers. Market-day, Saturday. The town is finely situated in a valley, 1000 ft. above sea-level, and is remarkable for its dry, bracing climate. It has long been famous for its mineral waters, which were known to the Romans. The springs supply hot and cold water, though only a short distance apart. The average temperature of the hot springs is 82 Fahr.; they discharge about 60 gals. per minute. There are excellent hotels and the various establishments that are to be found in a favourite watering -place. In the vicinity is Diamond Hill, so named from its abundance of quartz crystals; also, Poole&apos;s Hole, a remarkable stalactite caver. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/DBY/Buxton/index.html</link>
+<link>http://en.wikipedia.org/wiki/Buxton</link>
+<link>http://www.geonames.org/2654141</link>
+</links>
+<unit>
+   <id>10001377</id>
+   <status>UD/MB</status>
+   <name>BUXTON</name>
+</unit>
+<unit>
+   <id>10051496</id>
+   <status>Ch/CP</status>
+   <name>BUXTON</name>
+</unit>
+<unit>
+   <id>10126794</id>
+   <status>EP</status>
+   <name>BUXTON</name>
+</unit>
+<unit>
+   <id>10167334</id>
+   <status>USD</status>
+   <name>BUXTON</name>
+</unit>
+<unit>
+   <id>10544841</id>
+   <status></status>
+   <name>BUXTON</name>
+</unit>
+<unit>
+   <id>10570803</id>
+   <status></status>
+   <name>BUXTON</name>
+</unit>
+<unit>
+   <id>12833970</id>
+   <status></status>
+   <name>BUXTON</name>
+</unit>
+<nearByPlace>
+   <id>409</id>
+   <name>FAIRFIELD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2696</id>
+   <name>TIDESWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2741</id>
+   <name>WORMHILL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3208</id>
+   <name>PEAK FOREST</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4024</id>
+   <name>BRADWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4029</id>
+   <name>CASTLETON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5555</id>
+   <name>EDALE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8062</id>
+   <name>FAWFIELDHEAD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8400</id>
+   <name>LONGNOR</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8591</id>
+   <name>WARSLOW</name>
+</nearByPlace>
+</place>
+</results>

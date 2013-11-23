@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bedworth</toponymName>
+<name>Bedworth</name>
+<lat>52.4791</lat>
+<lng>-1.46909</lng>
+<geonameId>2656031</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>29981</population>
+<alternateNames>Bedvors,Bedworth,Бедворс</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UC</adminCode3>
+<adminName3>Nuneaton and Bedworth District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bedworth</alternateName>
+<alternateName lang="ru">Бедворс</alternateName>
+<alternateName lang="unlc">BWO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.50528</west>
+<north>52.50113</north>
+<east>-1.4329</east>
+<south>52.45708</south>
+</bbox>
+<score>118.86961364746094</score>
+</geoname>
+</geonames>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hellesdon</toponymName>
+<name>Hellesdon</name>
+<lat>52.66275</lat>
+<lng>1.27836</lng>
+<geonameId>2647170</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UG</adminCode3>
+<adminName3>Norwich District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hellesdon</alternateName>
+<alternateName lang="unlc">HDE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.26353</west>
+<north>52.67174</north>
+<east>1.29319</east>
+<south>52.65375</south>
+</bbox>
+<score>92.40130615234375</score>
+</geoname>
+<geoname>
+<toponymName>Hellesdon</toponymName>
+<name>Hellesdon</name>
+<lat>52.6613</lat>
+<lng>1.2592</lng>
+<geonameId>7295599</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<adminCode4>33UC031</adminCode4>
+<adminName4>Hellesdon</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.23334</west>
+<north>52.67489</north>
+<east>1.28506</east>
+<south>52.64771</south>
+</bbox>
+<score>82.2243881225586</score>
+</geoname>
+</geonames>

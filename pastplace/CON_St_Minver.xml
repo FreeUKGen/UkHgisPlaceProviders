@@ -1,0 +1,35 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1642</id>
+<name>ST MINVER</name>
+<container>CORNWALL</container>
+<lat>50.5576191020274</lat>
+<lon>-4.87197922058074</lon>
+<gazetteerText>MINVER (ST.), a parish in Bodmin district, Cornwall; on the coast, 3&#189; miles NW by N of Wadebridge, and 12&#189; N W of Bodmin-Road r. station. It is cut into two divisions, Highlands and Lowlands. Post town, Wadebridge, Cornwall. Acres, 8,683; of which 1,105 are water. Real property, &#163;8,278. Pop. of the H. div., in 1851,757; in 1861,626. Houses, 117. The decrease of pop. arose from the discontinuance of mining operations, and from emigration. Pop. of the L. div., in 1851,468; in 1861,485. Houses, 116. The manor was known, at Domesday, as Rosminver; and belonged to Bodmin priory. St. Minver House, Trevelvir, and Trewornon are chief residences. A creek comes up the SE boundary, and has a quay for the shipment of corn. A copper mine was formerly worked. The living is a vi= carage in the diocese of Exeter. Value and patron, not reported.* The church stands in the H. div; and has a tower, with a lofty spire. Two chapels of ease, called St. Michael&apos;s and St. Enodoc&apos;s, are in the L. div. There are chapels for Quakers and Wesleyans, and charities, &#163;22. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/St_Minver</link>
+<link>http://www.genuki.org.uk/big/eng/Cornwall/StMinver/index.html</link>
+</links>
+<unit>
+   <id>10014384</id>
+   <status>CP</status>
+   <name>ST MINVER LOWLANDS</name>
+</unit>
+<unit>
+   <id>10014670</id>
+   <status>EP</status>
+   <name>ST MINVER</name>
+</unit>
+<unit>
+   <id>10122302</id>
+   <status>CP</status>
+   <name>ST MINVER HIGHLANDS</name>
+</unit>
+<unit>
+   <id>10122636</id>
+   <status>CP/AP</status>
+   <name>ST MINVER</name>
+</unit>
+</place>
+</results>

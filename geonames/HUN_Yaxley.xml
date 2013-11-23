@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Yaxley</toponymName>
+<name>Yaxley</name>
+<lat>52.51768</lat>
+<lng>-0.25852</lng>
+<geonameId>2633399</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7578</population>
+<alternateNames>Yaxley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Yaxley%2C_Cambridgeshire</alternateName>
+<alternateName lang="unlc">ZDP</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.27663</west>
+<north>52.5287</north>
+<east>-0.24042</east>
+<south>52.50667</south>
+</bbox>
+<score>98.66960906982422</score>
+</geoname>
+<geoname>
+<toponymName>Yaxley</toponymName>
+<name>Yaxley</name>
+<lat>52.3228</lat>
+<lng>1.11065</lng>
+<geonameId>2633400</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Yaxley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Yaxley%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.09593</west>
+<north>52.3318</north>
+<east>1.12537</east>
+<south>52.31381</south>
+</bbox>
+<score>97.01931762695312</score>
+</geoname>
+<geoname>
+<toponymName>Yaxley</toponymName>
+<name>Yaxley</name>
+<lat>52.32246</lat>
+<lng>1.11041</lng>
+<geonameId>7291856</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<adminCode4>42UE122</adminCode4>
+<adminName4>Yaxley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.09143</west>
+<north>52.33626</north>
+<east>1.12939</east>
+<south>52.30866</south>
+</bbox>
+<score>77.73236083984375</score>
+</geoname>
+<geoname>
+<toponymName>Yaxley</toponymName>
+<name>Yaxley</name>
+<lat>52.51141</lat>
+<lng>-0.25218</lng>
+<geonameId>7294280</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<adminCode4>12UE084</adminCode4>
+<adminName4>Yaxley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.29716</west>
+<north>52.52969</north>
+<east>-0.20719</east>
+<south>52.49312</south>
+</bbox>
+<score>77.73236083984375</score>
+</geoname>
+</geonames>

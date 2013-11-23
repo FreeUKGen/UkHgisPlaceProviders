@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Berrington</toponymName>
+<name>Berrington</name>
+<lat>52.65799</lat>
+<lng>-2.69575</lng>
+<geonameId>7301059</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG023</adminCode3>
+<adminName3>Berrington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.74466</west>
+<north>52.68824</north>
+<east>-2.64683</east>
+<south>52.62774</south>
+</bbox>
+<score>104.4614486694336</score>
+</geoname>
+<geoname>
+<toponymName>Berrington</toponymName>
+<name>Berrington</name>
+<lat>52.3</lat>
+<lng>-2.63333</lng>
+<geonameId>2655840</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Berrington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UC</adminCode3>
+<adminName3>Malvern Hills District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Berrington%2C_Worcestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.64804</west>
+<north>52.30899</north>
+<east>-2.61862</east>
+<south>52.29101</south>
+</bbox>
+<score>94.3036880493164</score>
+</geoname>
+<geoname>
+<toponymName>Berrington</toponymName>
+<name>Berrington</name>
+<lat>52.65</lat>
+<lng>-2.7</lng>
+<geonameId>2655839</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG023</adminCode3>
+<adminName3>Berrington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Berrington%2C_Shropshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.72966</west>
+<north>52.66799</north>
+<east>-2.67034</east>
+<south>52.63201</south>
+</bbox>
+<score>66.75691223144531</score>
+</geoname>
+<geoname>
+<toponymName>Berrington</toponymName>
+<name>Berrington</name>
+<lat>52.30484</lat>
+<lng>-2.63206</lng>
+<geonameId>6287724</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UC</adminCode3>
+<adminName3>Malvern Hills District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>18.82488441467285</score>
+</geoname>
+</geonames>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Caerhun</toponymName>
+<name>Caerhun</name>
+<lat>53.19556</lat>
+<lng>-3.88848</lng>
+<geonameId>7294423</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<adminCode3>00NE006</adminCode3>
+<adminName3>Caerhun</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.97032</west>
+<north>53.24588</north>
+<east>-3.80664</east>
+<south>53.14524</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Caerhûn</toponymName>
+<name>Caerhûn</name>
+<lat>53.21667</lat>
+<lng>-3.83333</lng>
+<geonameId>2654094</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Caerhun,Caerhûn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Caerhun</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.84836</west>
+<north>53.22566</north>
+<east>-3.81831</east>
+<south>53.20767</south>
+</bbox>
+<score>106.03143310546875</score>
+</geoname>
+</geonames>

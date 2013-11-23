@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Oldham</toponymName>
+<name>Oldham</name>
+<lat>53.54051</lat>
+<lng>-2.1183</lng>
+<geonameId>2641022</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>104782</population>
+<alternateNames>Oldam,Oldamas,Oldem,Oldema,Oldham,Oldum,ao er de mu,awldham,oldeom,orudamu,xo ldam,Олдам,Олдем,Олдъм,אולדהאם,أولدهام,اولدهام,โอลดัม,オールダム,奧爾德姆,올덤</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K1</adminCode2>
+<adminName2>Oldham</adminName2>
+<alternateName lang="ar">أولدهام</alternateName>
+<alternateName lang="bg">Олдъм</alternateName>
+<alternateName lang="de">Oldham</alternateName>
+<alternateName lang="en">Oldham</alternateName>
+<alternateName lang="eo">Oldham</alternateName>
+<alternateName lang="es">Oldham</alternateName>
+<alternateName lang="fa">اولدهام</alternateName>
+<alternateName lang="fi">Oldham</alternateName>
+<alternateName lang="gl">Oldham</alternateName>
+<alternateName lang="he">אולדהאם</alternateName>
+<alternateName lang="id">Oldham</alternateName>
+<alternateName lang="it">Oldham</alternateName>
+<alternateName lang="ja">オールダム</alternateName>
+<alternateName lang="ko">올덤</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oldham</alternateName>
+<alternateName lang="lt">Oldamas</alternateName>
+<alternateName lang="lv">Oldema</alternateName>
+<alternateName lang="nl">Oldham</alternateName>
+<alternateName lang="no">Oldham</alternateName>
+<alternateName lang="pl">Oldham</alternateName>
+<alternateName lang="ro">Oldham</alternateName>
+<alternateName lang="ru">Олдем</alternateName>
+<alternateName lang="sr">Олдам</alternateName>
+<alternateName lang="sv">Oldham</alternateName>
+<alternateName lang="th">โอลดัม</alternateName>
+<alternateName lang="uk">Олдем</alternateName>
+<alternateName lang="unlc">ODH</alternateName>
+<alternateName lang="zh">奧爾德姆</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.18895</west>
+<north>53.58245</north>
+<east>-2.04765</east>
+<south>53.49857</south>
+</bbox>
+<score>166.55783081054688</score>
+</geoname>
+<geoname>
+<toponymName>Borough of Oldham</toponymName>
+<name>Borough of Oldham</name>
+<lat>53.55</lat>
+<lng>-2.08333</lng>
+<geonameId>3333179</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>219800</population>
+<alternateNames>OLD,Oldham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K1</adminCode2>
+<adminName2>Oldham</adminName2>
+<alternateName lang="abbr">OLD</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Metropolitan_Borough_of_Oldham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.18592</west>
+<north>53.62423</north>
+<east>-1.90962</east>
+<south>53.49112</south>
+</bbox>
+<score>77.16801452636719</score>
+</geoname>
+</geonames>

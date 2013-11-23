@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wintringham</toponymName>
+<name>Wintringham</name>
+<lat>54.13333</lat>
+<lng>-0.65</lng>
+<geonameId>2633777</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Wintringham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UF</adminCode3>
+<adminName3>Ryedale District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wintringham</alternateName>
+<alternateName lang="unlc">INT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.66535</west>
+<north>54.14233</north>
+<east>-0.63465</east>
+<south>54.12434</south>
+</bbox>
+<score>87.75413513183594</score>
+</geoname>
+<geoname>
+<toponymName>Wintringham</toponymName>
+<name>Wintringham</name>
+<lat>54.13919</lat>
+<lng>-0.62798</lng>
+<geonameId>7302067</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UF</adminCode3>
+<adminName3>Ryedale District</adminName3>
+<adminCode4>36UF127</adminCode4>
+<adminName4>Wintringham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.67179</west>
+<north>54.16174</north>
+<east>-0.58418</east>
+<south>54.11664</south>
+</bbox>
+<score>76.97864532470703</score>
+</geoname>
+</geonames>

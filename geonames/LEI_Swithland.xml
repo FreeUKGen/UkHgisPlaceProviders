@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Swithland</toponymName>
+<name>Swithland</name>
+<lat>52.713</lat>
+<lng>-1.1867</lng>
+<geonameId>2636367</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Swithland</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>Charnwood District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Swithland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.20154</west>
+<north>52.722</north>
+<east>-1.17185</east>
+<south>52.70401</south>
+</bbox>
+<score>107.3292007446289</score>
+</geoname>
+<geoname>
+<toponymName>Swithland</toponymName>
+<name>Swithland</name>
+<lat>52.7111</lat>
+<lng>-1.18499</lng>
+<geonameId>7296314</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>Charnwood District</adminName3>
+<adminCode4>31UC025</adminCode4>
+<adminName4>Swithland</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.2058</west>
+<north>52.72337</north>
+<east>-1.16418</east>
+<south>52.69883</south>
+</bbox>
+<score>81.53416442871094</score>
+</geoname>
+</geonames>

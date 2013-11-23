@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Sywell Aerodrome</toponymName>
+<name>Sywell Aerodrome</name>
+<lat>52.3053</lat>
+<lng>-0.79306</lng>
+<geonameId>7668194</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>EGBK,Lapangan Terbang Sywell‎,ORM</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UH</adminCode3>
+<adminName3>Wellingborough District</adminName3>
+<alternateName lang="iata">ORM</alternateName>
+<alternateName lang="icao">EGBK</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sywell_Aerodrome</alternateName>
+<alternateName lang="ms">Lapangan Terbang Sywell‎</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>62.85532760620117</score>
+</geoname>
+<geoname>
+<toponymName>Northampton</toponymName>
+<name>Northampton</name>
+<lat>52.25</lat>
+<lng>-0.88333</lng>
+<geonameId>2641430</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>197322</population>
+<alternateNames>Nortamptonas,Nortgempton,Northampton,Northamptonia,Northempton,Nortkhamptun,Nortkhempton,ORM,bei an pu dun,nosaempeuteon,nozanputon,Νορθάμπτον,Нортгемптон,Нортхамптън,Нортхемптон,نورث‌همپتون,നോർത്താംപ്റ്റൺ,ノーザンプトン,北安普顿,노샘프턴</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UF</adminCode3>
+<adminName3>Northampton</adminName3>
+<alternateName lang="az">Northempton</alternateName>
+<alternateName lang="bg">Нортхамптън</alternateName>
+<alternateName lang="de">Northampton</alternateName>
+<alternateName lang="el">Νορθάμπτον</alternateName>
+<alternateName lang="en">Northampton</alternateName>
+<alternateName lang="eo">Northampton</alternateName>
+<alternateName lang="es">Northampton</alternateName>
+<alternateName lang="fa">نورث‌همپتون</alternateName>
+<alternateName lang="fi">Northampton</alternateName>
+<alternateName lang="fr">Northampton</alternateName>
+<alternateName lang="iata">ORM</alternateName>
+<alternateName lang="id">Northampton</alternateName>
+<alternateName lang="it">Northampton</alternateName>
+<alternateName lang="ja">ノーザンプトン</alternateName>
+<alternateName lang="ko">노샘프턴</alternateName>
+<alternateName lang="la">Northamptonia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Northampton</alternateName>
+<alternateName lang="lt">Nortamptonas</alternateName>
+<alternateName lang="ml">നോർത്താംപ്റ്റൺ</alternateName>
+<alternateName lang="nl">Northampton</alternateName>
+<alternateName lang="no">Northampton</alternateName>
+<alternateName lang="ru">Нортгемптон</alternateName>
+<alternateName lang="sr">Нортхемптон</alternateName>
+<alternateName lang="sv">Northampton</alternateName>
+<alternateName lang="uk">Нортгемптон</alternateName>
+<alternateName lang="unlc">NHP</alternateName>
+<alternateName lang="zh">北安普顿</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.97752</west>
+<north>52.30759</north>
+<east>-0.78915</east>
+<south>52.19241</south>
+</bbox>
+<score>61.0035514831543</score>
+</geoname>
+</geonames>

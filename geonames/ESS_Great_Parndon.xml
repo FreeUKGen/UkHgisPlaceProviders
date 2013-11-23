@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Great Parndon</toponymName>
+<name>Great Parndon</name>
+<lat>51.7536</lat>
+<lng>0.07364</lng>
+<geonameId>2648039</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UJ</adminCode3>
+<adminName3>Harlow District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Great_Parndon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.05911</west>
+<north>51.7626</north>
+<east>0.08817</east>
+<south>51.74461</south>
+</bbox>
+<score>86.48991394042969</score>
+</geoname>
+</geonames>

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>Wick</toponymName>
+<name>Wick</name>
+<lat>51.43999</lat>
+<lng>-3.56423</lng>
+<geonameId>7296357</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<adminCode3>00PD027</adminCode3>
+<adminName3>Wick</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.59443</west>
+<north>51.4551</north>
+<east>-3.53402</east>
+<south>51.42488</south>
+</bbox>
+<score>96.41888427734375</score>
+</geoname>
+<geoname>
+<toponymName>Wick</toponymName>
+<name>Wick</name>
+<lat>58.45889</lat>
+<lng>-3.09306</lng>
+<geonameId>6296623</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>EGPC,WIC</alternateNames>
+<elevation>38</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V3</adminCode2>
+<adminName2>Highland</adminName2>
+<alternateName lang="iata">WIC</alternateName>
+<alternateName lang="icao">EGPC</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wick_Airport</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>91.67228698730469</score>
+</geoname>
+<geoname>
+<toponymName>Wick</toponymName>
+<name>Wick</name>
+<lat>52.1</lat>
+<lng>-2.05</lng>
+<geonameId>2633983</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Wick</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wick%2C_Worcestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.06464</west>
+<north>52.10899</north>
+<east>-2.03536</east>
+<south>52.09101</south>
+</bbox>
+<score>89.85035705566406</score>
+</geoname>
+<geoname>
+<toponymName>Wick</toponymName>
+<name>Wick</name>
+<lat>51.45306</lat>
+<lng>-2.42361</lng>
+<geonameId>2633984</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Wick</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M6</adminCode2>
+<adminName2>South Gloucestershire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wick%2C_Gloucestershire</alternateName>
+<alternateName lang="unlc">WCK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.43805</west>
+<north>51.46205</north>
+<east>-2.40918</east>
+<south>51.44406</south>
+</bbox>
+<score>77.84196472167969</score>
+</geoname>
+<geoname>
+<toponymName>Wick</toponymName>
+<name>Wick</name>
+<lat>50.8222</lat>
+<lng>-0.54399</lng>
+<geonameId>2633986</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UC</adminCode3>
+<adminName3>Arun District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wick%2C_West_Sussex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.55823</west>
+<north>50.8312</north>
+<east>-0.52976</east>
+<south>50.81321</south>
+</bbox>
+<score>75.45484161376953</score>
+</geoname>
+<geoname>
+<toponymName>Wick</toponymName>
+<name>Wick</name>
+<lat>50.72757</lat>
+<lng>-1.78</lng>
+<geonameId>6544197</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B2</adminCode2>
+<adminName2>Bournemouth</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wick%2C_Bournemouth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.79421</west>
+<north>50.73657</north>
+<east>-1.76579</east>
+<south>50.71858</south>
+</bbox>
+<score>75.45484161376953</score>
+</geoname>
+<geoname>
+<toponymName>Wick</toponymName>
+<name>Wick</name>
+<lat>58.43333</lat>
+<lng>-3.08333</lng>
+<geonameId>2633982</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7147</population>
+<alternateNames>Inbhir Uige,Inbhir Ùige,Inbhir Úige,Uik,WIC,Wick,Wick i Skottland,Yn Ooig,Уик</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V3</adminCode2>
+<adminName2>Highland</adminName2>
+<adminCode3>2654041</adminCode3>
+<adminName3>Caithness-shire</adminName3>
+<alternateName lang="bg">Уик</alternateName>
+<alternateName lang="ga">Inbhir Úige</alternateName>
+<alternateName lang="gd">Inbhir Ùige</alternateName>
+<alternateName lang="gv">Yn Ooig</alternateName>
+<alternateName lang="iata">WIC</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wick%2C_Highland</alternateName>
+<alternateName lang="nn">Wick i Skottland</alternateName>
+<alternateName lang="os">Уик</alternateName>
+<alternateName lang="ru">Уик</alternateName>
+<alternateName lang="unlc">WIC</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.10255</west>
+<north>58.44339</north>
+<east>-3.06412</east>
+<south>58.42328</south>
+</bbox>
+<score>72.60356140136719</score>
+</geoname>
+<geoname>
+<toponymName>Wick</toponymName>
+<name>Wick</name>
+<lat>52.109</lat>
+<lng>-2.05144</lng>
+<geonameId>7292814</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<adminCode4>47UF090</adminCode4>
+<adminName4>Wick</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.07184</west>
+<north>52.12504</north>
+<east>-2.03104</east>
+<south>52.09296</south>
+</bbox>
+<score>69.68507385253906</score>
+</geoname>
+<geoname>
+<toponymName>Wick</toponymName>
+<name>Wick</name>
+<lat>51.43944</lat>
+<lng>-3.54944</lng>
+<geonameId>2633985</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<adminCode3>00PD027</adminCode3>
+<adminName3>Wick</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.57831</west>
+<north>51.45743</north>
+<east>-3.52058</east>
+<south>51.42146</south>
+</bbox>
+<score>34.84253692626953</score>
+</geoname>
+</geonames>

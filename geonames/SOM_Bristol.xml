@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bristol</toponymName>
+<name>Bristol</name>
+<lat>51.45523</lat>
+<lng>-2.59665</lng>
+<geonameId>2654675</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>430713</population>
+<alternateNames>BRS,Bricgstōƿ,Briosto,Briostó,Bristo,Bristol,Bristol',Bristole,Bristolis,Bristolium,Bristolo,Briston,Bristul,Bristullu,Bristón,Bryste,Brístol,Gorad Brystal',beuliseuteul,bris txl,bristala,brystwl,bu li si tuo er,burisutoru,Μπρίστολ,Бристол,Бристоль,Бристъл,Горад Брысталь,Բրիստոլ,בריסטאל,בריסטול,برسٹل نگر,بريستول,بریستول,ब्रिस्टल,ಬ್ರಿಸ್ಟಲ್‌,บริสตอล,ბრისტოლი,ブリストル,布里斯托尔,브리스틀</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B7</adminCode2>
+<adminName2>City of Bristol</adminName2>
+<alternateName lang="an">Bristón</alternateName>
+<alternateName lang="ang">Bricgstōƿ</alternateName>
+<alternateName lang="ar">بريستول</alternateName>
+<alternateName lang="be">Горад Брысталь</alternateName>
+<alternateName lang="bg">Бристъл</alternateName>
+<alternateName lang="ca">Bristol</alternateName>
+<alternateName lang="cs">Bristol</alternateName>
+<alternateName lang="cy">Bryste</alternateName>
+<alternateName lang="da">Bristol</alternateName>
+<alternateName lang="de">Bristol</alternateName>
+<alternateName lang="el">Μπρίστολ</alternateName>
+<alternateName lang="en">Bristol</alternateName>
+<alternateName lang="eo">Bristolo</alternateName>
+<alternateName lang="es">Brístol</alternateName>
+<alternateName lang="eu">Bristol</alternateName>
+<alternateName lang="fa">بریستول</alternateName>
+<alternateName lang="fi">Bristol</alternateName>
+<alternateName lang="fr">Bristol</alternateName>
+<alternateName lang="ga">Briostó</alternateName>
+<alternateName lang="he">בריסטול</alternateName>
+<alternateName lang="hi">ब्रिस्टल</alternateName>
+<alternateName lang="hy">Բրիստոլ</alternateName>
+<alternateName lang="iata">BRS</alternateName>
+<alternateName lang="id">Bristol</alternateName>
+<alternateName lang="it">Bristol</alternateName>
+<alternateName lang="ja">ブリストル</alternateName>
+<alternateName lang="ka">ბრისტოლი</alternateName>
+<alternateName lang="kn">ಬ್ರಿಸ್ಟಲ್‌</alternateName>
+<alternateName lang="ko">브리스틀</alternateName>
+<alternateName lang="la">Bristolium</alternateName>
+<alternateName lang="lb">Bristol</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bristol</alternateName>
+<alternateName lang="lt">Bristolis</alternateName>
+<alternateName lang="lv">Bristole</alternateName>
+<alternateName lang="mk">Бристол</alternateName>
+<alternateName lang="mr">ब्रिस्टल</alternateName>
+<alternateName lang="mzn">بریستول</alternateName>
+<alternateName lang="nl">Bristol</alternateName>
+<alternateName lang="no">Bristol</alternateName>
+<alternateName lang="nrm">Bristo</alternateName>
+<alternateName lang="os">Бристоль</alternateName>
+<alternateName lang="pl">Bristol</alternateName>
+<alternateName lang="pnb">برسٹل نگر</alternateName>
+<alternateName lang="pt">Bristol</alternateName>
+<alternateName lang="ro">Bristol</alternateName>
+<alternateName lang="ru">Бристоль</alternateName>
+<alternateName lang="scn">Bristullu</alternateName>
+<alternateName lang="sco">Bristol</alternateName>
+<alternateName lang="sk">Bristol</alternateName>
+<alternateName lang="sl">Bristol</alternateName>
+<alternateName lang="sr">Бристол</alternateName>
+<alternateName lang="sv">Bristol</alternateName>
+<alternateName lang="th">บริสตอล</alternateName>
+<alternateName lang="tr">Bristol</alternateName>
+<alternateName lang="uk">Бристоль</alternateName>
+<alternateName lang="unlc">BRS</alternateName>
+<alternateName lang="yi">בריסטאל</alternateName>
+<alternateName lang="zh">布里斯托尔</alternateName>
+<alternateName lang="zh-CN">布里斯托尔</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.73345</west>
+<north>51.54032</north>
+<east>-2.45985</east>
+<south>51.37015</south>
+</bbox>
+<score>261.21197509765625</score>
+</geoname>
+<geoname>
+<toponymName>City of Bristol</toponymName>
+<name>City of Bristol</name>
+<lat>51.45</lat>
+<lng>-2.6</lng>
+<geonameId>3333134</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>410500</population>
+<alternateNames>BST,Bristol,City of Bristol</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B7</adminCode2>
+<adminName2>City of Bristol</adminName2>
+<alternateName lang="abbr">BST</alternateName>
+<alternateName lang="nb">Bristol</alternateName>
+<alternateName lang="nn">Bristol</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.11782</west>
+<north>51.54443</north>
+<east>-2.51042</east>
+<south>51.34163</south>
+</bbox>
+<score>80.69146728515625</score>
+</geoname>
+</geonames>

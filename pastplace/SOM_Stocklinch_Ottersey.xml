@@ -1,0 +1,46 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>13243</id>
+<name>STOCKLINCH</name>
+<container>SOMERSET</container>
+<lat>50.9510644731774</lat>
+<lon>-2.87814295164608</lon>
+<gazetteerText>STOCKLINCH-MAGDALEN, a parish in Chard district, Somerset; 2&#189; miles NE by N of Ilminster, and 6 WSW of Martock r. station. Post town, Ilminster. Acres, 199. Rated property, &#163;500. Pop., 116. Houses, 27. The property is divided among a few. The living is a rectory in the diocese of Bath and Wells. Value, &#163;140. Patron, the Rev.J. Allen. The church is good. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/SOM/StocklinchMagdalen/index.html</link>
+<link>http://www.geonames.org/2636883</link>
+<link>http://www.genuki.org.uk/big/eng/SOM/StocklinchOttersey/index.html</link>
+</links>
+<unit>
+   <id>10442000</id>
+   <status>CP</status>
+   <name>STOCKLINCH</name>
+</unit>
+<unit>
+   <id>10442035</id>
+   <status>CP/AP</status>
+   <name>STOCKLINCH MAGDALEN</name>
+</unit>
+<unit>
+   <id>10442047</id>
+   <status>CP/AP</status>
+   <name>STOCKLINCH OTTERSEY</name>
+</unit>
+<unit>
+   <id>10442059</id>
+   <status>EP</status>
+   <name>STOCKLYNCH MAGDALEN</name>
+</unit>
+<unit>
+   <id>10442060</id>
+   <status>EP</status>
+   <name>STOCKLYNCH OTTERSEY</name>
+</unit>
+<unit>
+   <id>10442084</id>
+   <status>EP</status>
+   <name>STOCKLYNCH OTTERSEY WITH STOCKLYNCH MAGDALEN</name>
+</unit>
+</place>
+</results>

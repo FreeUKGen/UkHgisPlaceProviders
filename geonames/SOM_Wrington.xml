@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wrington</toponymName>
+<name>Wrington</name>
+<lat>51.36654</lat>
+<lng>-2.73966</lng>
+<geonameId>7291926</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC036</adminCode3>
+<adminName3>Wrington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.78263</west>
+<north>51.3959</north>
+<east>-2.69669</east>
+<south>51.33718</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Wrington</toponymName>
+<name>Wrington</name>
+<lat>51.36173</lat>
+<lng>-2.76319</lng>
+<geonameId>2633482</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2039</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC036</adminCode3>
+<adminName3>Wrington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wrington</alternateName>
+<alternateName lang="unlc">IGN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.77039</west>
+<north>51.36623</north>
+<east>-2.75599</east>
+<south>51.35724</south>
+</bbox>
+<score>102.21806335449219</score>
+</geoname>
+</geonames>

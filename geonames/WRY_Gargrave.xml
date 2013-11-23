@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Gargrave</toponymName>
+<name>Gargrave</name>
+<lat>53.98353</lat>
+<lng>-2.10459</lng>
+<geonameId>2648873</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1851</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UB</adminCode3>
+<adminName3>Craven District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gargrave</alternateName>
+<alternateName lang="unlc">GGV</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.11224</west>
+<north>53.98803</north>
+<east>-2.09694</east>
+<south>53.97903</south>
+</bbox>
+<score>101.72529602050781</score>
+</geoname>
+<geoname>
+<toponymName>Gargrave</toponymName>
+<name>Gargrave</name>
+<lat>53.9863</lat>
+<lng>-2.11252</lng>
+<geonameId>7296779</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UB</adminCode3>
+<adminName3>Craven District</adminName3>
+<adminCode4>36UB030</adminCode4>
+<adminName4>Gargrave</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.14282</west>
+<north>54.00527</north>
+<east>-2.08223</east>
+<south>53.96733</south>
+</bbox>
+<score>82.2243881225586</score>
+</geoname>
+</geonames>

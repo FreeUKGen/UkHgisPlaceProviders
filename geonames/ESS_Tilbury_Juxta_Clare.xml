@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Tilbury Juxta Clare</toponymName>
+<name>Tilbury Juxta Clare</name>
+<lat>52.03049</lat>
+<lng>0.56825</lng>
+<geonameId>2635835</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Tilbury,Tilbury Juxta Clare</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UC</adminCode3>
+<adminName3>Braintree District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tilbury_Juxta_Clare</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.55363</west>
+<north>52.03948</north>
+<east>0.58288</east>
+<south>52.0215</south>
+</bbox>
+<score>88.48748779296875</score>
+</geoname>
+<geoname>
+<toponymName>Tilbury Juxta Clare</toponymName>
+<name>Tilbury Juxta Clare</name>
+<lat>52.03682</lat>
+<lng>0.5627</lng>
+<geonameId>7300506</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UC</adminCode3>
+<adminName3>Braintree District</adminName3>
+<adminCode4>22UC056</adminCode4>
+<adminName4>Tilbury Juxta Clare</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.54503</west>
+<north>52.04903</north>
+<east>0.58037</east>
+<south>52.02461</south>
+</bbox>
+<score>75.98817443847656</score>
+</geoname>
+</geonames>

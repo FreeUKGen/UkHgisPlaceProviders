@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Donington</toponymName>
+<name>Donington</name>
+<lat>52.90461</lat>
+<lng>-0.20505</lng>
+<geonameId>2651119</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2286</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UF</adminCode3>
+<adminName3>South Holland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Donington%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.21251</west>
+<north>52.9091</north>
+<east>-0.19759</east>
+<south>52.90011</south>
+</bbox>
+<score>87.03173828125</score>
+</geoname>
+<geoname>
+<toponymName>Donington</toponymName>
+<name>Donington</name>
+<lat>52.9069</lat>
+<lng>-0.20498</lng>
+<geonameId>7295528</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UF</adminCode3>
+<adminName3>South Holland District</adminName3>
+<adminCode4>32UF004</adminCode4>
+<adminName4>Donington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.26337</west>
+<north>52.92881</north>
+<east>-0.1466</east>
+<south>52.88499</south>
+</bbox>
+<score>67.98782348632812</score>
+</geoname>
+<geoname>
+<toponymName>Donington</toponymName>
+<name>Donington</name>
+<lat>52.64876</lat>
+<lng>-2.28043</lng>
+<geonameId>7297738</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG068</adminCode3>
+<adminName3>Donington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Donington%2C_Shropshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.32614</west>
+<north>52.66368</north>
+<east>-2.23471</east>
+<south>52.63385</south>
+</bbox>
+<score>60.99126052856445</score>
+</geoname>
+<geoname>
+<toponymName>Donington on Bain</toponymName>
+<name>Donington on Bain</name>
+<lat>53.32951</lat>
+<lng>-0.14687</lng>
+<geonameId>2651118</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Donington on Bain,Donnington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Donington_on_Bain</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.16194</west>
+<north>53.3385</north>
+<east>-0.13181</east>
+<south>53.32052</south>
+</bbox>
+<score>35.52657699584961</score>
+</geoname>
+</geonames>

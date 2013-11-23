@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Wolfhampcote</toponymName>
+<name>Wolfhampcote</name>
+<lat>52.27423</lat>
+<lng>-1.25178</lng>
+<geonameId>7299619</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UD</adminCode3>
+<adminName3>Rugby District</adminName3>
+<adminCode4>44UD038</adminCode4>
+<adminName4>Wolfhampcote</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wolfhampcote</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.28782</west>
+<north>52.29574</north>
+<east>-1.21574</east>
+<south>52.25271</south>
+</bbox>
+<score>57.855133056640625</score>
+</geoname>
+</geonames>

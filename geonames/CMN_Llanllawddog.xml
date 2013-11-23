@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanllawddog</toponymName>
+<name>Llanllawddog</name>
+<lat>51.93442</lat>
+<lng>-4.2412</lng>
+<geonameId>7301150</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU048</adminCode3>
+<adminName3>Llanllawddog</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.29051</west>
+<north>51.97161</north>
+<east>-4.19189</east>
+<south>51.89722</south>
+</bbox>
+<score>107.54669189453125</score>
+</geoname>
+<geoname>
+<toponymName>Llanllawddog</toponymName>
+<name>Llanllawddog</name>
+<lat>51.94139</lat>
+<lng>-4.24544</lng>
+<geonameId>2643984</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanllawddog,Llanllawdog</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU048</adminCode3>
+<adminName3>Llanllawddog</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanllawddog</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.26003</west>
+<north>51.95038</north>
+<east>-4.23085</east>
+<south>51.9324</south>
+</bbox>
+<score>102.6102294921875</score>
+</geoname>
+</geonames>

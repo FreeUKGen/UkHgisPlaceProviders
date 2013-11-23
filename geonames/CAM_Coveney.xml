@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Coveney</toponymName>
+<name>Coveney</name>
+<lat>52.41666</lat>
+<lng>0.18848</lng>
+<geonameId>2652224</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Coveney</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>2650488</adminCode3>
+<adminName3>East Cambridgeshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Coveney%2C_Cambridgeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.17374</west>
+<north>52.42565</north>
+<east>0.20323</east>
+<south>52.40767</south>
+</bbox>
+<score>101.49109649658203</score>
+</geoname>
+<geoname>
+<toponymName>Coveney</toponymName>
+<name>Coveney</name>
+<lat>52.4264</lat>
+<lng>0.18307</lng>
+<geonameId>7301455</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>80.33285522460938</score>
+</geoname>
+</geonames>

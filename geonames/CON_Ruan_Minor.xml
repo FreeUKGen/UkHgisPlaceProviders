@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Ruan Minor</toponymName>
+<name>Ruan Minor</name>
+<lat>49.99337</lat>
+<lng>-5.18216</lng>
+<geonameId>2639005</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE041</adminCode3>
+<adminName3>Grade-Ruan</adminName3>
+<alternateName lang="unlc">RUM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.19616</west>
+<north>50.00237</north>
+<east>-5.16817</east>
+<south>49.98438</south>
+</bbox>
+<score>40.686134338378906</score>
+</geoname>
+</geonames>

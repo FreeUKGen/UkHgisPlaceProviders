@@ -1,0 +1,103 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>488</id>
+<name>SHEPTON MALLET</name>
+<container>SOMERSET</container>
+<lat>51.1932940521897</lat>
+<lon>-2.54193466473982</lon>
+<gazetteerText>Shepton Mallet (popularly Shepun), market town and par. with ry. sta., Somerset, 5 miles SE. of Wells and 120 SW. of London, 3572 ac., pop. 5322; P.O., T.O., 2 Banks, 1 newspaper. Market-day, Friday. Shepton Mallet, known to the Saxons as Sepeton, possesses a fine old parish church, an endowed grammar school, and a considerable market-place, in the centre of which stands a handsome market-cross of hexagonal form, erected in 1500. It has mfrs. of silk, velvet, crape, ribbons, &amp;c., an extensive brewing trade, and a large corn market. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/SOM/SheptonMallet/index.html</link>
+<link>http://en.wikipedia.org/wiki/Shepton_Mallet</link>
+<link>http://www.workhouses.org.uk/SheptonMallet</link>
+<link>http://www.geonames.org/2638035</link>
+</links>
+<unit>
+   <id>10001559</id>
+   <status>RD</status>
+   <name>SHEPTON MALLET</name>
+</unit>
+<unit>
+   <id>10043979</id>
+   <status>RegD/PLU</status>
+   <name>SHEPTON MALLET</name>
+</unit>
+<unit>
+   <id>10062469</id>
+   <status>RSD</status>
+   <name>SHEPTON MALLET</name>
+</unit>
+<unit>
+   <id>10074836</id>
+   <status>USD</status>
+   <name>SHEPTON MALLET</name>
+</unit>
+<unit>
+   <id>10086681</id>
+   <status>UD</status>
+   <name>SHEPTON MALLET</name>
+</unit>
+<unit>
+   <id>10441316</id>
+   <status>AP/CP</status>
+   <name>SHEPTON MALLET</name>
+</unit>
+<unit>
+   <id>10441365</id>
+   <status>EP</status>
+   <name>SHEPTON MALLET</name>
+</unit>
+<unit>
+   <id>10550002</id>
+   <status></status>
+   <name>SHEPTON MALLET</name>
+</unit>
+<unit>
+   <id>10579752</id>
+   <status></status>
+   <name>SHEPTON MALLET</name>
+</unit>
+<unit>
+   <id>12757803</id>
+   <status>PDivCon</status>
+   <name>SOMERSETSHIRE EASTERN</name>
+</unit>
+<nearByPlace>
+   <id>12345</id>
+   <name>ASHWICK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12698</id>
+   <name>WEST CRANMORE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12712</id>
+   <name>CROSCOMBE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12762</id>
+   <name>DOULTING</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13139</id>
+   <name>EAST PENNARD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13145</id>
+   <name>PILTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13160</id>
+   <name>PYLLE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13259</id>
+   <name>STOKE ST MICHAEL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17338</id>
+   <name>MENDIP</name>
+</nearByPlace>
+</place>
+</results>

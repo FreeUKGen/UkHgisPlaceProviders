@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Isles of Scilly</toponymName>
+<name>Isles of Scilly</name>
+<lat>49.92117</lat>
+<lng>-6.29431</lng>
+<geonameId>2638384</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>ISC,Ilhas Scilly,Illes Scilly,Inizi Sillan,Insulele Scilly,Islas Sorlingas,Isles of Scilly,Isllas Sorlingas,Isole Scilly,Scilly,Scilly Adalari,Scilly Adaları,Scilly Islands,Scilly Isles,Scilly saared,Scilly-Inseln,Scilly-eilanden,Scillynsaaret,Scillyoearna,Scillyoyene,Scillyöarna,Scillyøyene,Sillies,Sorlingues,Ynysek Syllan,shiri zhu dao,silli jedo,シリー諸島,실리 제도</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z9</adminCode2>
+<adminName2>Isles of Scilly</adminName2>
+<alternateName lang="ast">Isllas Sorlingas</alternateName>
+<alternateName lang="br">Inizi Sillan</alternateName>
+<alternateName lang="ca">Illes Scilly</alternateName>
+<alternateName lang="cs">Scilly</alternateName>
+<alternateName lang="da">Isles of Scilly</alternateName>
+<alternateName lang="de">Scilly-Inseln</alternateName>
+<alternateName lang="en">Isles of Scilly</alternateName>
+<alternateName lang="es">Islas Sorlingas</alternateName>
+<alternateName lang="et">Scilly saared</alternateName>
+<alternateName lang="fi">Scillynsaaret</alternateName>
+<alternateName lang="fr">Sorlingues</alternateName>
+<alternateName lang="iata">ISC</alternateName>
+<alternateName lang="it">Isole Scilly</alternateName>
+<alternateName lang="ja">シリー諸島</alternateName>
+<alternateName lang="ko">실리 제도</alternateName>
+<alternateName lang="kw">Ynysek Syllan</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Isles_of_Scilly</alternateName>
+<alternateName lang="nl">Scilly-eilanden</alternateName>
+<alternateName lang="no">Scillyøyene</alternateName>
+<alternateName lang="pl">Scilly</alternateName>
+<alternateName lang="pt">Ilhas Scilly</alternateName>
+<alternateName lang="ro">Insulele Scilly</alternateName>
+<alternateName lang="sk">Scilly</alternateName>
+<alternateName lang="sv">Scillyöarna</alternateName>
+<alternateName lang="tr">Scilly Adaları</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-6.41894</west>
+<north>49.98141</north>
+<east>-6.24405</east>
+<south>49.86464</south>
+</bbox>
+<score>83.49039459228516</score>
+</geoname>
+<geoname>
+<toponymName>Isles of Scilly</toponymName>
+<name>Isles of Scilly</name>
+<lat>49.92515</lat>
+<lng>-6.29894</lng>
+<geonameId>8299858</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population>2100</population>
+<alternateNames>Enesek Syllan,Isles of Scilly,Syllan</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z9</adminCode2>
+<adminName2>Isles of Scilly</adminName2>
+<alternateName lang="en">Isles of Scilly</alternateName>
+<alternateName lang="kw">Enesek Syllan</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Isles_of_Scilly</alternateName>
+<alternateName lang="post">TR25</alternateName>
+<alternateName lang="unlc">ISC</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-6.30593</west>
+<north>49.92964</north>
+<east>-6.29196</east>
+<south>49.92065</south>
+</bbox>
+<score>75.35682678222656</score>
+</geoname>
+</geonames>

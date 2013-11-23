@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Uley</toponymName>
+<name>Uley</name>
+<lat>51.68417</lat>
+<lng>-2.30583</lng>
+<geonameId>2635202</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Uley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UF</adminCode3>
+<adminName3>Stroud</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Uley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.32034</west>
+<north>51.69316</north>
+<east>-2.29132</east>
+<south>51.67517</south>
+</bbox>
+<score>99.49653625488281</score>
+</geoname>
+<geoname>
+<toponymName>Uley</toponymName>
+<name>Uley</name>
+<lat>51.68517</lat>
+<lng>-2.31627</lng>
+<geonameId>7300619</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UF</adminCode3>
+<adminName3>Stroud</adminName3>
+<adminCode4>23UF047</adminCode4>
+<adminName4>Uley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.33922</west>
+<north>51.70097</north>
+<east>-2.29332</east>
+<south>51.66937</south>
+</bbox>
+<score>75.10676574707031</score>
+</geoname>
+</geonames>

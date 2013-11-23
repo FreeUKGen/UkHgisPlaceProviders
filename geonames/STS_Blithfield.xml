@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Blithfield</toponymName>
+<name>Blithfield</name>
+<lat>52.82169</lat>
+<lng>-1.92923</lng>
+<geonameId>7296337</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UC</adminCode3>
+<adminName3>East Staffordshire</adminName3>
+<adminCode4>41UC004</adminCode4>
+<adminName4>Blithfield</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Blithfield</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.96789</west>
+<north>52.84808</north>
+<east>-1.89057</east>
+<south>52.7953</south>
+</bbox>
+<score>59.21929931640625</score>
+</geoname>
+<geoname>
+<toponymName>Blithfield Hall</toponymName>
+<name>Blithfield Hall</name>
+<lat>52.8</lat>
+<lng>-1.93333</lng>
+<geonameId>2655339</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames>Blithfield,Blithfield Hall</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UD</adminCode3>
+<adminName3>Lichfield District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Blithfield_Hall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>45.22483825683594</score>
+</geoname>
+</geonames>

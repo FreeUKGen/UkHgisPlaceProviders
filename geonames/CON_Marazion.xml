@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Marazion</toponymName>
+<name>Marazion</name>
+<lat>50.12787</lat>
+<lng>-5.46218</lng>
+<geonameId>7293084</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE083</adminCode3>
+<adminName3>Marazion</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.4825</west>
+<north>50.13796</north>
+<east>-5.44187</east>
+<south>50.11779</south>
+</bbox>
+<score>106.38165283203125</score>
+</geoname>
+<geoname>
+<toponymName>Marazion</toponymName>
+<name>Marazion</name>
+<lat>50.12556</lat>
+<lng>-5.47505</lng>
+<geonameId>2643076</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1466</population>
+<alternateNames>Marazion,Marghas Yow</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE083</adminCode3>
+<adminName3>Marazion</adminName3>
+<alternateName lang="kw">Marghas Yow</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marazion</alternateName>
+<alternateName lang="unlc">MRZ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.48207</west>
+<north>50.13006</north>
+<east>-5.46804</east>
+<south>50.12106</south>
+</bbox>
+<score>93.753662109375</score>
+</geoname>
+</geonames>

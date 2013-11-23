@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Wollaston</toponymName>
+<name>Wollaston</name>
+<lat>52.7</lat>
+<lng>-3</lng>
+<geonameId>2633695</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Wollaston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wollaston%2C_Shropshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.01484</west>
+<north>52.70899</north>
+<east>-2.98516</east>
+<south>52.69101</south>
+</bbox>
+<score>89.43183898925781</score>
+</geoname>
+<geoname>
+<toponymName>Wollaston</toponymName>
+<name>Wollaston</name>
+<lat>52.25534</lat>
+<lng>-0.68139</lng>
+<geonameId>7296744</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UH</adminCode3>
+<adminName3>Wellingborough District</adminName3>
+<adminCode4>34UH018</adminCode4>
+<adminName4>Wollaston</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wollaston%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.72001</west>
+<north>52.27742</north>
+<east>-0.64277</east>
+<south>52.23326</south>
+</bbox>
+<score>48.98625183105469</score>
+</geoname>
+<geoname>
+<toponymName>Wollaston</toponymName>
+<name>Wollaston</name>
+<lat>52.45</lat>
+<lng>-2.16667</lng>
+<geonameId>2633696</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D7</adminCode2>
+<adminName2>Dudley</adminName2>
+<alternateName lang="unlc">OTO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.18143</west>
+<north>52.45899</north>
+<east>-2.15191</east>
+<south>52.44101</south>
+</bbox>
+<score>43.054786682128906</score>
+</geoname>
+<geoname>
+<toponymName>Wollaston</toponymName>
+<name>Wollaston</name>
+<lat>52.25794</lat>
+<lng>-0.67038</lng>
+<geonameId>2633697</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UH</adminCode3>
+<adminName3>Wellingborough District</adminName3>
+<alternateName lang="unlc">WOZ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.68508</west>
+<north>52.26693</north>
+<east>-0.65568</east>
+<south>52.24895</south>
+</bbox>
+<score>43.054786682128906</score>
+</geoname>
+</geonames>

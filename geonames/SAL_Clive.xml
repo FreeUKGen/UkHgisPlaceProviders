@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Clive</toponymName>
+<name>Clive</name>
+<lat>52.81391</lat>
+<lng>-2.72218</lng>
+<geonameId>7297097</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG053</adminCode3>
+<adminName3>Clive</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.74332</west>
+<north>52.83251</north>
+<east>-2.70103</east>
+<south>52.79531</south>
+</bbox>
+<score>101.99592590332031</score>
+</geoname>
+<geoname>
+<toponymName>Clive</toponymName>
+<name>Clive</name>
+<lat>52.8</lat>
+<lng>-2.71667</lng>
+<geonameId>2652818</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Clive</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG053</adminCode3>
+<adminName3>Clive</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clive%2C_Shropshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.74643</west>
+<north>52.81799</north>
+<east>-2.6869</east>
+<south>52.78201</south>
+</bbox>
+<score>75.6438217163086</score>
+</geoname>
+</geonames>

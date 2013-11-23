@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ruabon</toponymName>
+<name>Ruabon</name>
+<lat>52.9802</lat>
+<lng>-3.02106</lng>
+<geonameId>7299711</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z4</adminCode2>
+<adminName2>Wrexham</adminName2>
+<adminCode3>00NL031</adminCode3>
+<adminName3>Ruabon</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.06495</west>
+<north>53.01216</north>
+<east>-2.97718</east>
+<south>52.94824</south>
+</bbox>
+<score>109.73965454101562</score>
+</geoname>
+<geoname>
+<toponymName>Ruabon</toponymName>
+<name>Ruabon</name>
+<lat>52.9878</lat>
+<lng>-3.03883</lng>
+<geonameId>2639014</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3091</population>
+<alternateNames>Rhiwabon,Ruabon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z4</adminCode2>
+<adminName2>Wrexham</adminName2>
+<adminCode3>00NL031</adminCode3>
+<adminName3>Ruabon</adminName3>
+<alternateName lang="cy">Rhiwabon</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ruabon</alternateName>
+<alternateName lang="unlc">RUW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.0494</west>
+<north>52.99416</north>
+<east>-3.02827</east>
+<south>52.98144</south>
+</bbox>
+<score>97.01158142089844</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Turners Puddle</toponymName>
+<name>Turners Puddle</name>
+<lat>50.74014</lat>
+<lng>-2.24214</lng>
+<geonameId>2635336</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Turners Puddle</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UG</adminCode3>
+<adminName3>Purbeck District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Turners_Puddle</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.25636</west>
+<north>50.74913</north>
+<east>-2.22793</east>
+<south>50.73114</south>
+</bbox>
+<score>95.44950866699219</score>
+</geoname>
+<geoname>
+<toponymName>Turners Puddle</toponymName>
+<name>Turners Puddle</name>
+<lat>50.72682</lat>
+<lng>-2.24972</lng>
+<geonameId>7291592</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UG</adminCode3>
+<adminName3>Purbeck District</adminName3>
+<adminCode4>19UG021</adminCode4>
+<adminName4>Turners Puddle</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.2742</west>
+<north>50.75563</north>
+<east>-2.22523</east>
+<south>50.69801</south>
+</bbox>
+<score>73.80224609375</score>
+</geoname>
+</geonames>

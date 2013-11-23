@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Gosforth</toponymName>
+<name>Gosforth</name>
+<lat>55</lat>
+<lng>-1.61667</lng>
+<geonameId>2648273</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>23975</population>
+<alternateNames>Gosforth,Gosforth i Newcastle,gosufosu,ゴスフォース</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I7</adminCode2>
+<adminName2>Newcastle upon Tyne</adminName2>
+<alternateName lang="ja">ゴスフォース</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gosforth</alternateName>
+<alternateName lang="nn">Gosforth i Newcastle</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.65086</west>
+<north>55.0196</north>
+<east>-1.58248</east>
+<south>54.9804</south>
+</bbox>
+<score>108.33914184570312</score>
+</geoname>
+<geoname>
+<toponymName>Gosforth</toponymName>
+<name>Gosforth</name>
+<lat>54.41718</lat>
+<lng>-3.43366</lng>
+<geonameId>2648274</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UE</adminCode3>
+<adminName3>Copeland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gosforth%2C_Cumbria</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.44912</west>
+<north>54.42618</north>
+<east>-3.4182</east>
+<south>54.40819</south>
+</bbox>
+<score>79.80091857910156</score>
+</geoname>
+<geoname>
+<toponymName>Gosforth</toponymName>
+<name>Gosforth</name>
+<lat>54.42342</lat>
+<lng>-3.41848</lng>
+<geonameId>7291139</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UE</adminCode3>
+<adminName3>Copeland District</adminName3>
+<adminCode4>16UE009</adminCode4>
+<adminName4>Gosforth</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.4741</west>
+<north>54.45706</north>
+<east>-3.36285</east>
+<south>54.38978</south>
+</bbox>
+<score>75.9615478515625</score>
+</geoname>
+</geonames>

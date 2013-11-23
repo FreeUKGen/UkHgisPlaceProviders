@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kirmond le Mire</toponymName>
+<name>Kirmond le Mire</name>
+<lat>53.41667</lat>
+<lng>-0.21667</lng>
+<geonameId>2645193</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kirmond,Kirmond le Mire</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirmond_le_Mire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.23176</west>
+<north>53.42566</north>
+<east>-0.20157</east>
+<south>53.40767</south>
+</bbox>
+<score>87.00639343261719</score>
+</geoname>
+<geoname>
+<toponymName>Kirmond Le Mire</toponymName>
+<name>Kirmond Le Mire</name>
+<lat>53.41361</lat>
+<lng>-0.22234</lng>
+<geonameId>7299194</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<adminCode4>32UH054</adminCode4>
+<adminName4>Kirmond Le Mire</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.23865</west>
+<north>53.4292</north>
+<east>-0.20602</east>
+<south>53.39803</south>
+</bbox>
+<score>73.66656494140625</score>
+</geoname>
+</geonames>

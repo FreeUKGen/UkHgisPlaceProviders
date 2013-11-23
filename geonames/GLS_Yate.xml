@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Yate</toponymName>
+<name>Yate</name>
+<lat>51.54074</lat>
+<lng>-2.41839</lng>
+<geonameId>2633406</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>21789</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M6</adminCode2>
+<adminName2>South Gloucestershire</adminName2>
+<adminCode3>00HD044</adminCode3>
+<adminName3>Yate</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Yate</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.44908</west>
+<north>51.55982</north>
+<east>-2.3877</east>
+<south>51.52166</south>
+</bbox>
+<score>109.80018615722656</score>
+</geoname>
+<geoname>
+<toponymName>Yate</toponymName>
+<name>Yate</name>
+<lat>51.54805</lat>
+<lng>-2.40944</lng>
+<geonameId>7300065</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M6</adminCode2>
+<adminName2>South Gloucestershire</adminName2>
+<adminCode3>00HD044</adminCode3>
+<adminName3>Yate</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.4364</west>
+<north>51.56934</north>
+<east>-2.38249</east>
+<south>51.52676</south>
+</bbox>
+<score>102.57731628417969</score>
+</geoname>
+</geonames>

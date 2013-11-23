@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Monxton</toponymName>
+<name>Monxton</name>
+<lat>51.19787</lat>
+<lng>-1.55271</lng>
+<geonameId>2642299</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UN</adminCode3>
+<adminName3>Test Valley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Monxton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.56706</west>
+<north>51.20687</north>
+<east>-1.53835</east>
+<south>51.18888</south>
+</bbox>
+<score>86.27595520019531</score>
+</geoname>
+<geoname>
+<toponymName>Monxton</toponymName>
+<name>Monxton</name>
+<lat>51.18812</lat>
+<lng>-1.55503</lng>
+<geonameId>7295778</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UN</adminCode3>
+<adminName3>Test Valley District</adminName3>
+<adminCode4>24UN035</adminCode4>
+<adminName4>Monxton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.57846</west>
+<north>51.21598</north>
+<east>-1.5316</east>
+<south>51.16026</south>
+</bbox>
+<score>76.93722534179688</score>
+</geoname>
+</geonames>

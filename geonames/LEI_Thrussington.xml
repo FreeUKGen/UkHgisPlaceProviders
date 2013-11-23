@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Thrussington</toponymName>
+<name>Thrussington</name>
+<lat>52.73629</lat>
+<lng>-1.04061</lng>
+<geonameId>6620366</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>Charnwood District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thrussington</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.05547</west>
+<north>52.74529</north>
+<east>-1.02575</east>
+<south>52.7273</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+<geoname>
+<toponymName>Thrussington</toponymName>
+<name>Thrussington</name>
+<lat>52.75455</lat>
+<lng>-1.0424</lng>
+<geonameId>7295411</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>Charnwood District</adminName3>
+<adminCode4>31UC027</adminCode4>
+<adminName4>Thrussington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.06543</west>
+<north>52.78111</north>
+<east>-1.01938</east>
+<south>52.72799</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

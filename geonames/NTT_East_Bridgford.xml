@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>East Bridgford</toponymName>
+<name>East Bridgford</name>
+<lat>52.97954</lat>
+<lng>-0.96563</lng>
+<geonameId>2650495</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1853</population>
+<alternateNames>East Bridgford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/East_Bridgford</alternateName>
+<alternateName lang="unlc">ESB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.9731</west>
+<north>52.98403</north>
+<east>-0.95816</east>
+<south>52.97504</south>
+</bbox>
+<score>92.44930267333984</score>
+</geoname>
+<geoname>
+<toponymName>East Bridgford</toponymName>
+<name>East Bridgford</name>
+<lat>52.98758</lat>
+<lng>-0.95787</lng>
+<geonameId>7290930</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<adminCode4>37UJ013</adminCode4>
+<adminName4>East Bridgford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.98751</west>
+<north>53.00843</north>
+<east>-0.92822</east>
+<south>52.96672</south>
+</bbox>
+<score>66.39764404296875</score>
+</geoname>
+</geonames>

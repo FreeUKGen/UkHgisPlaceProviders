@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Cottingham</toponymName>
+<name>Cottingham</name>
+<lat>53.78507</lat>
+<lng>-0.41985</lng>
+<geonameId>7298473</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB167</adminCode3>
+<adminName3>Cottingham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.4523</west>
+<north>53.80528</north>
+<east>-0.3874</east>
+<south>53.76487</south>
+</bbox>
+<score>104.98441314697266</score>
+</geoname>
+<geoname>
+<toponymName>Cottingham</toponymName>
+<name>Cottingham</name>
+<lat>53.78057</lat>
+<lng>-0.41542</lng>
+<geonameId>2652262</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB167</adminCode3>
+<adminName3>Cottingham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cottingham%2C_East_Riding_of_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.44588</west>
+<north>53.79856</north>
+<east>-0.38497</east>
+<south>53.76258</south>
+</bbox>
+<score>68.13709259033203</score>
+</geoname>
+<geoname>
+<toponymName>Cottingham</toponymName>
+<name>Cottingham</name>
+<lat>52.48333</lat>
+<lng>-0.75</lng>
+<geonameId>2652263</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cottingham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UB</adminCode3>
+<adminName3>Corby District</adminName3>
+<alternateName lang="unlc">CXT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.76477</west>
+<north>52.49233</north>
+<east>-0.73523</east>
+<south>52.47434</south>
+</bbox>
+<score>55.760684967041016</score>
+</geoname>
+<geoname>
+<toponymName>Cottingham</toponymName>
+<name>Cottingham</name>
+<lat>52.5043</lat>
+<lng>-0.74442</lng>
+<geonameId>7299520</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UB</adminCode3>
+<adminName3>Corby District</adminName3>
+<adminCode4>34UB001</adminCode4>
+<adminName4>Cottingham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cottingham%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.76687</west>
+<north>52.51701</north>
+<east>-0.72197</east>
+<south>52.49158</south>
+</bbox>
+<score>52.64073181152344</score>
+</geoname>
+</geonames>

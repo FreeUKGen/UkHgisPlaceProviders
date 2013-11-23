@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Christchurch</toponymName>
+<name>Christchurch</name>
+<lat>51.6</lat>
+<lng>-2.95</lng>
+<geonameId>2653074</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Christchurch</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y6</adminCode2>
+<adminName2>City of Newport</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Christchurch%2C_Newport</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.96448</west>
+<north>51.60899</north>
+<east>-2.93552</east>
+<south>51.59101</south>
+</bbox>
+<score>88.4296875</score>
+</geoname>
+<geoname>
+<toponymName>Christchurch</toponymName>
+<name>Christchurch</name>
+<lat>50.73306</lat>
+<lng>-1.77567</lng>
+<geonameId>2653075</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>42396</population>
+<alternateNames>Christchurch i Dorset,Krajstcherch,Krajstchurch,keulaiseuteucheochi,Крайстчерч,Крайстчърч,크라이스트처치</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UC</adminCode3>
+<adminName3>Christchurch District</adminName3>
+<alternateName lang="bg">Крайстчърч</alternateName>
+<alternateName lang="ko">크라이스트처치</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Christchurch%2C_Dorset</alternateName>
+<alternateName lang="nn">Christchurch i Dorset</alternateName>
+<alternateName lang="ru">Крайстчерч</alternateName>
+<alternateName lang="unlc">CCH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.81772</west>
+<north>50.75966</north>
+<east>-1.73361</east>
+<south>50.70646</south>
+</bbox>
+<score>75.35865783691406</score>
+</geoname>
+<geoname>
+<toponymName>Christchurch</toponymName>
+<name>Christchurch</name>
+<lat>52.56056</lat>
+<lng>0.18589</lng>
+<geonameId>7298776</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UD</adminCode3>
+<adminName3>Fenland District</adminName3>
+<adminCode4>12UD011</adminCode4>
+<adminName4>Christchurch</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Christchurch%2C_Cambridgeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.1412</west>
+<north>52.60151</north>
+<east>0.23057</east>
+<south>52.51961</south>
+</bbox>
+<score>48.412147521972656</score>
+</geoname>
+</geonames>

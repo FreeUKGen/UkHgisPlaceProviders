@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Great Packington</toponymName>
+<name>Great Packington</name>
+<lat>52.45</lat>
+<lng>-1.65</lng>
+<geonameId>2648041</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Great Packington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UB</adminCode3>
+<adminName3>North Warwickshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Great_Packington</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.66476</west>
+<north>52.45899</north>
+<east>-1.63524</east>
+<south>52.44101</south>
+</bbox>
+<score>95.06614685058594</score>
+</geoname>
+<geoname>
+<toponymName>Great Packington</toponymName>
+<name>Great Packington</name>
+<lat>52.45404</lat>
+<lng>-1.65912</lng>
+<geonameId>7297901</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UB</adminCode3>
+<adminName3>North Warwickshire District</adminName3>
+<adminCode4>44UB015</adminCode4>
+<adminName4>Great Packington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.69357</west>
+<north>52.47263</north>
+<east>-1.62467</east>
+<south>52.43545</south>
+</bbox>
+<score>73.2845458984375</score>
+</geoname>
+</geonames>

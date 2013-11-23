@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Humberston</toponymName>
+<name>Humberston</name>
+<lat>53.53036</lat>
+<lng>-0.02465</lng>
+<geonameId>2646435</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8216</population>
+<alternateNames>Humberston,Humberstone</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC012</adminCode3>
+<adminName3>Humberston</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Humberston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.04319</west>
+<north>53.54138</north>
+<east>-0.00611</east>
+<south>53.51935</south>
+</bbox>
+<score>86.63948059082031</score>
+</geoname>
+<geoname>
+<toponymName>Humberstone</toponymName>
+<name>Humberstone</name>
+<lat>52.64738</lat>
+<lng>-1.08647</lng>
+<geonameId>2646434</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H4</adminCode2>
+<adminName2>Leicester</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>GB.ENG.H4.31UC</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.10129</west>
+<north>52.65638</north>
+<east>-1.07164</east>
+<south>52.63839</south>
+</bbox>
+<score>57.893470764160156</score>
+</geoname>
+</geonames>

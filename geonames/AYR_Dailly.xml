@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Dailly</toponymName>
+<name>Dailly</name>
+<lat>55.27638</lat>
+<lng>-4.72361</lng>
+<geonameId>2641657</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>866</population>
+<alternateNames>Dailly</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W4</adminCode2>
+<adminName2>South Ayrshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dailly</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.72519</west>
+<north>55.27728</north>
+<east>-4.72203</east>
+<south>55.27548</south>
+</bbox>
+<score>102.89337158203125</score>
+</geoname>
+</geonames>

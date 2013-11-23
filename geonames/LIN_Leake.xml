@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Leake</toponymName>
+<name>Leake</name>
+<lat>54.31667</lat>
+<lng>-1.33333</lng>
+<geonameId>2644744</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Leake</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Leake%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.34876</west>
+<north>54.32566</north>
+<east>-1.31791</east>
+<south>54.30767</south>
+</bbox>
+<score>95.45734405517578</score>
+</geoname>
+<geoname>
+<toponymName>Leake</toponymName>
+<name>Leake</name>
+<lat>54.3139</lat>
+<lng>-1.34217</lng>
+<geonameId>7296812</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<adminCode4>36UC092</adminCode4>
+<adminName4>Leake</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.35443</west>
+<north>54.32127</north>
+<east>-1.32992</east>
+<south>54.30653</south>
+</bbox>
+<score>74.5494155883789</score>
+</geoname>
+<geoname>
+<toponymName>Old Leake</toponymName>
+<name>Old Leake</name>
+<lat>53.03108</lat>
+<lng>0.09873</lng>
+<geonameId>2641012</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Leake,Old Leake</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UB</adminCode3>
+<adminName3>Boston District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Old_Leake</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.08377</west>
+<north>53.04007</north>
+<east>0.11369</east>
+<south>53.02209</south>
+</bbox>
+<score>62.47358703613281</score>
+</geoname>
+</geonames>

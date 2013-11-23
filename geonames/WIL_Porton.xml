@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Porton</toponymName>
+<name>Porton</name>
+<lat>51.12837</lat>
+<lng>-1.73229</lng>
+<geonameId>2640011</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY125</adminCode3>
+<adminName3>Idmiston</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Porton</alternateName>
+<alternateName lang="unlc">PTX</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.74663</west>
+<north>51.13737</north>
+<east>-1.71796</east>
+<south>51.11938</south>
+</bbox>
+<score>72.9930648803711</score>
+</geoname>
+</geonames>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Richmond</toponymName>
+<name>Richmond</name>
+<lat>51.46005</lat>
+<lng>-0.30075</lng>
+<geonameId>2639389</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8360</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>L1</adminCode3>
+<adminName3>Richmond upon Thames</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Richmond%2C_London</alternateName>
+<alternateName lang="post">TW9</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.31843</west>
+<north>51.47107</north>
+<east>-0.28307</east>
+<south>51.44904</south>
+</bbox>
+<score>47.98253631591797</score>
+</geoname>
+<geoname>
+<toponymName>Richmond</toponymName>
+<name>Richmond</name>
+<lat>54.4</lat>
+<lng>-1.73333</lng>
+<geonameId>2639388</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Richmond,Richmond i North Yorkshire,lichimeondeu,리치먼드</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UE</adminCode3>
+<adminName3>Richmondshire District</adminName3>
+<alternateName lang="ko">리치먼드</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Richmond%2C_North_Yorkshire</alternateName>
+<alternateName lang="nn">Richmond i North Yorkshire</alternateName>
+<alternateName lang="unlc">RCH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.74879</west>
+<north>54.40899</north>
+<east>-1.71788</east>
+<south>54.39101</south>
+</bbox>
+<score>47.5963020324707</score>
+</geoname>
+<geoname>
+<toponymName>Richmond</toponymName>
+<name>Richmond</name>
+<lat>54.41406</lat>
+<lng>-1.75881</lng>
+<geonameId>7296046</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UE</adminCode3>
+<adminName3>Richmondshire District</adminName3>
+<adminCode4>36UE081</adminCode4>
+<adminName4>Richmond</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.80567</west>
+<north>54.42854</north>
+<east>-1.71195</east>
+<south>54.39958</south>
+</bbox>
+<score>47.05937576293945</score>
+</geoname>
+<geoname>
+<toponymName>Richmond</toponymName>
+<name>Richmond</name>
+<lat>49.46222</lat>
+<lng>-2.62806</lng>
+<geonameId>6424165</geonameId>
+<countryCode>GG</countryCode>
+<countryName>Guernsey</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Richmond</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Richmond</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Guernsey</timezone>
+<bbox>
+<west>-2.6419</west>
+<north>49.47122</north>
+<east>-2.61422</east>
+<south>49.45323</south>
+</bbox>
+<score>32.95587921142578</score>
+</geoname>
+<geoname>
+<toponymName>Richmond upon Thames</toponymName>
+<name>Richmond upon Thames</name>
+<lat>51.41667</lat>
+<lng>-0.33333</lng>
+<geonameId>3333187</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>180100</population>
+<alternateNames>London Borough of Richmond upon Thames,RIC,Richmond,Richmond upon Thames,Richmond-upon-Thames</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>L1</adminCode3>
+<adminName3>Richmond upon Thames</adminName3>
+<alternateName lang="abbr">RIC</alternateName>
+<alternateName lang="cs">Richmond</alternateName>
+<alternateName lang="de">London Borough of Richmond upon Thames</alternateName>
+<alternateName lang="en">Richmond upon Thames</alternateName>
+<alternateName lang="fi">Richmond upon Thames</alternateName>
+<alternateName lang="it">Richmond upon Thames</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Richmond_upon_Thames</alternateName>
+<alternateName lang="nl">Richmond upon Thames</alternateName>
+<alternateName lang="no">Richmond upon Thames</alternateName>
+<alternateName lang="ro">Richmond upon Thames</alternateName>
+<alternateName lang="sv">Richmond-upon-Thames</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.39291</west>
+<north>51.4897</north>
+<east>-0.22173</east>
+<south>51.39143</south>
+</bbox>
+<score>27.41173553466797</score>
+</geoname>
+</geonames>

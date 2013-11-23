@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Deerhurst</toponymName>
+<name>Deerhurst</name>
+<lat>51.96659</lat>
+<lng>-2.18988</lng>
+<geonameId>2651412</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Deerhurst</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.20448</west>
+<north>51.97558</north>
+<east>-2.17528</east>
+<south>51.95759</south>
+</bbox>
+<score>87.40898132324219</score>
+</geoname>
+<geoname>
+<toponymName>Deerhurst</toponymName>
+<name>Deerhurst</name>
+<lat>51.95289</lat>
+<lng>-2.1928</lng>
+<geonameId>7300626</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<adminCode4>23UG011</adminCode4>
+<adminName4>Deerhurst</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.22889</west>
+<north>51.97308</north>
+<east>-2.15672</east>
+<south>51.93271</south>
+</bbox>
+<score>77.47868347167969</score>
+</geoname>
+</geonames>

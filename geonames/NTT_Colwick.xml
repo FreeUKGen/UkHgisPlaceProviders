@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Colwick</toponymName>
+<name>Colwick</name>
+<lat>52.95422</lat>
+<lng>-1.08421</lng>
+<geonameId>2652515</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UE</adminCode3>
+<adminName3>Gedling District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colwick</alternateName>
+<alternateName lang="unlc">CLK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.09914</west>
+<north>52.96322</north>
+<east>-1.06928</east>
+<south>52.94523</south>
+</bbox>
+<score>88.69625854492188</score>
+</geoname>
+<geoname>
+<toponymName>Colwick</toponymName>
+<name>Colwick</name>
+<lat>52.95481</lat>
+<lng>-1.08851</lng>
+<geonameId>7297720</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UE</adminCode3>
+<adminName3>Gedling District</adminName3>
+<adminCode4>37UE004</adminCode4>
+<adminName4>Colwick</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.09688</west>
+<north>52.96146</north>
+<east>-1.08015</east>
+<south>52.94815</south>
+</bbox>
+<score>78.6836166381836</score>
+</geoname>
+</geonames>

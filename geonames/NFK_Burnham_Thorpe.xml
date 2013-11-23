@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Burnham Thorpe</toponymName>
+<name>Burnham Thorpe</name>
+<lat>52.93437</lat>
+<lng>0.76269</lng>
+<geonameId>7295600</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<adminCode4>33UE012</adminCode4>
+<adminName4>Burnham Thorpe</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burnham_Thorpe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.73786</west>
+<north>52.95222</north>
+<east>0.78752</east>
+<south>52.91652</south>
+</bbox>
+<score>48.527076721191406</score>
+</geoname>
+<geoname>
+<toponymName>Burnham Thorpe</toponymName>
+<name>Burnham Thorpe</name>
+<lat>52.93775</lat>
+<lng>0.7564</lng>
+<geonameId>2654267</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Burnham Thorpe</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.74147</west>
+<north>52.94674</north>
+<east>0.77132</east>
+<south>52.92876</south>
+</bbox>
+<score>48.282920837402344</score>
+</geoname>
+</geonames>

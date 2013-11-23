@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hemingford Abbots</toponymName>
+<name>Hemingford Abbots</name>
+<lat>52.32275</lat>
+<lng>-0.11939</lng>
+<geonameId>2647134</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hemingford Abbots,West Hemingford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hemingford_Abbots</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.13411</west>
+<north>52.33174</north>
+<east>-0.10467</east>
+<south>52.31376</south>
+</bbox>
+<score>91.56326293945312</score>
+</geoname>
+<geoname>
+<toponymName>Hemingford Abbots</toponymName>
+<name>Hemingford Abbots</name>
+<lat>52.30408</lat>
+<lng>-0.1291</lng>
+<geonameId>7298784</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<adminCode4>12UE040</adminCode4>
+<adminName4>Hemingford Abbots</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.14839</west>
+<north>52.33153</north>
+<east>-0.10982</east>
+<south>52.27663</south>
+</bbox>
+<score>76.10127258300781</score>
+</geoname>
+</geonames>

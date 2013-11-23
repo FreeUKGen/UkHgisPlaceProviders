@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Dowlais</toponymName>
+<name>Dowlais</name>
+<lat>51.75984</lat>
+<lng>-3.34948</lng>
+<geonameId>7296581</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y3</adminCode2>
+<adminName2>Merthyr Tydfil</adminName2>
+<adminCode3>00PH003</adminCode3>
+<adminName3>Dowlais</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.36992</west>
+<north>51.76829</north>
+<east>-3.32904</east>
+<south>51.75139</south>
+</bbox>
+<score>113.36953735351562</score>
+</geoname>
+<geoname>
+<toponymName>Dowlais</toponymName>
+<name>Dowlais</name>
+<lat>51.76087</lat>
+<lng>-3.35615</lng>
+<geonameId>2651039</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y3</adminCode2>
+<adminName2>Merthyr Tydfil</adminName2>
+<adminCode3>00PH003</adminCode3>
+<adminName3>Dowlais</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dowlais</alternateName>
+<alternateName lang="unlc">DWA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.37069</west>
+<north>51.76986</north>
+<east>-3.34162</east>
+<south>51.75188</south>
+</bbox>
+<score>91.76847839355469</score>
+</geoname>
+</geonames>

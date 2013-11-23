@@ -1,0 +1,60 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>13932</id>
+<name>THEDDLETHORPE ST HELEN</name>
+<container>LINCOLNSHIRE</container>
+<lat>53.3620350186443</lat>
+<lon>0.221441856365054</lon>
+<gazetteerText>THEDDLETHORPE-ST. HELEN, a parish, with a village, in Louth district, Lincoln; on the coast, 8 miles NE of Authorpe r. station, and 10 E of Louth. Post town, Theddlethorpe, under Alford. Acres, 3,530; of which 640 are water. Pop., 426. Houses, 88. The property is much subdivided. The living is a rectory, united with Mablethorpe-St. Peter, in the diocese of Lincoln. Value, &#163;600.* Patron, Lord Willoughby D&apos;Eresby. The church was restored in 1866. There are Wesleyan and Primitive Methodist chapels, and charities &#163;14. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LIN/Theddlethorpe/</link>
+</links>
+<unit>
+   <id>10460098</id>
+   <status>CP/AP</status>
+   <name>THEDDLETHORPE ST HELEN</name>
+</unit>
+<unit>
+   <id>10460104</id>
+   <status>EP</status>
+   <name>THEDDLETHORPE ST HELEN</name>
+</unit>
+<unit>
+   <id>10460128</id>
+   <status>EP</status>
+   <name>THEDDLETHORPE ST HELEN WITH MABLETHORPE ST PETER</name>
+</unit>
+<nearByPlace>
+   <id>13929</id>
+   <name>THEDDLETHORPE ALL SAINTS</name>
+</nearByPlace>
+</place>
+<place>
+<id>13929</id>
+<name>THEDDLETHORPE ALL SAINTS</name>
+<container>LINCOLNSHIRE</container>
+<lat>53.3735109343725</lat>
+<lon>0.209416204785526</lon>
+<gazetteerText>THEDDLETHORPE-ALL SAINTS, a parish, with a village, in Louth district, Lincoln; on the coast, 7 miles NE of Authorpe r. station, and 9 E of Louth. Post town, Theddlethorpe, under Alford. Acres, 2,645; of which 865 are water. Real property, with T.-St. Helen, &#163;8,818. Pop., 300. Houses, 58. The property is much subdivided. The living is a vicarage in the diocese of Lincoln. Value, &#163;130. Patron, T. Alcock, Esq. The church is good. Charities, &#163;11. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LIN/Theddlethorpe/</link>
+<link>http://www.geonames.org/2636042</link>
+</links>
+<unit>
+   <id>10460001</id>
+   <status>EP</status>
+   <name>THEDDLETHORPE</name>
+</unit>
+<unit>
+   <id>10460037</id>
+   <status>CP/AP</status>
+   <name>THEDDLETHORPE ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10460086</id>
+   <status>EP</status>
+   <name>THEDDLETHORPE ALL SAINTS</name>
+</unit>
+</place>
+</results>

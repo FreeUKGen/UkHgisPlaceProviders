@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Lichfield</toponymName>
+<name>Lichfield</name>
+<lat>52.68154</lat>
+<lng>-1.82549</lng>
+<geonameId>2644531</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>28973</population>
+<alternateNames>Liccidfeld,Lichfield,Lichfijld,Lichfild,Lichfildia,XQT,li qi fei er de,lychfyld,Личфийлд,Личфилд,لخفیلڈ,لیچفیلد,利奇菲爾德</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UD</adminCode3>
+<adminName3>Lichfield District</adminName3>
+<alternateName lang="ang">Liccidfeld</alternateName>
+<alternateName lang="bg">Личфийлд</alternateName>
+<alternateName lang="de">Lichfield</alternateName>
+<alternateName lang="en">Lichfield</alternateName>
+<alternateName lang="fa">لیچفیلد</alternateName>
+<alternateName lang="fr">Lichfield</alternateName>
+<alternateName lang="iata">XQT</alternateName>
+<alternateName lang="la">Lichfildia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lichfield</alternateName>
+<alternateName lang="mzn">لیچفیلد</alternateName>
+<alternateName lang="nl">Lichfield</alternateName>
+<alternateName lang="no">Lichfield</alternateName>
+<alternateName lang="pl">Lichfield</alternateName>
+<alternateName lang="pnb">لخفیلڈ</alternateName>
+<alternateName lang="ru">Личфилд</alternateName>
+<alternateName lang="sv">Lichfield</alternateName>
+<alternateName lang="tr">Lichfield</alternateName>
+<alternateName lang="unlc">LHF</alternateName>
+<alternateName lang="zh">利奇菲爾德</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.86184</west>
+<north>52.70357</north>
+<east>-1.78913</east>
+<south>52.65951</south>
+</bbox>
+<score>149.3722381591797</score>
+</geoname>
+<geoname>
+<toponymName>Lichfield</toponymName>
+<name>Lichfield</name>
+<lat>52.68058</lat>
+<lng>-1.82897</lng>
+<geonameId>7292461</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UD</adminCode3>
+<adminName3>Lichfield District</adminName3>
+<adminCode4>41UD018</adminCode4>
+<adminName4>Lichfield</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lichfield_District</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.86523</west>
+<north>52.70325</north>
+<east>-1.79271</east>
+<south>52.6579</south>
+</bbox>
+<score>46.29925537109375</score>
+</geoname>
+</geonames>

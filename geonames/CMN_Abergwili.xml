@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Abergwili</toponymName>
+<name>Abergwili</name>
+<lat>51.88921</lat>
+<lng>-4.24009</lng>
+<geonameId>7291025</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU001</adminCode3>
+<adminName3>Abergwili</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.29021</west>
+<north>51.92057</north>
+<east>-4.18998</east>
+<south>51.85785</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Abergwili</toponymName>
+<name>Abergwili</name>
+<lat>51.86593</lat>
+<lng>-4.26969</lng>
+<geonameId>2657808</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Abergwili</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU001</adminCode3>
+<adminName3>Abergwili</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Abergwili</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.28426</west>
+<north>51.87492</north>
+<east>-4.25513</east>
+<south>51.85693</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+</geonames>

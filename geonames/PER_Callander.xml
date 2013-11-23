@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Callander</toponymName>
+<name>Callander</name>
+<lat>56.2441</lat>
+<lng>-4.21637</lng>
+<geonameId>2653989</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2782</population>
+<alternateNames>Callander</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W6</adminCode2>
+<adminName2>Stirling</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Callander</alternateName>
+<alternateName lang="unlc">CAL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.22782</west>
+<north>56.25046</north>
+<east>-4.20492</east>
+<south>56.23774</south>
+</bbox>
+<score>100.3975830078125</score>
+</geoname>
+</geonames>

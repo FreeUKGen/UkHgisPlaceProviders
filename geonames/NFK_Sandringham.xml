@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Sandringham</toponymName>
+<name>Sandringham</name>
+<lat>52.83094</lat>
+<lng>0.507</lng>
+<geonameId>2638559</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sandringham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sandringham%2C_Norfolk</alternateName>
+<alternateName lang="unlc">SNI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.49211</west>
+<north>52.83994</north>
+<east>0.52189</east>
+<south>52.82195</south>
+</bbox>
+<score>80.5571517944336</score>
+</geoname>
+<geoname>
+<toponymName>Sandringham</toponymName>
+<name>Sandringham</name>
+<lat>52.84281</lat>
+<lng>0.47058</lng>
+<geonameId>7301893</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<adminCode4>33UE063</adminCode4>
+<adminName4>Sandringham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.37757</west>
+<north>52.88487</north>
+<east>0.5636</east>
+<south>52.80075</south>
+</bbox>
+<score>73.63035583496094</score>
+</geoname>
+<geoname>
+<toponymName>Sandringham House</toponymName>
+<name>Sandringham House</name>
+<lat>52.82992</lat>
+<lng>0.51378</lng>
+<geonameId>7521844</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames>Casa Sandringham,Domego Sandringham,Sandringham,בית סאנדרינגהאם,ตำหนักซานดริงแฮม</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<alternateName lang="ca">Sandringham</alternateName>
+<alternateName lang="eo">Domego Sandringham</alternateName>
+<alternateName lang="he">בית סאנדרינגהאם</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sandringham_House</alternateName>
+<alternateName lang="ro">Casa Sandringham</alternateName>
+<alternateName lang="th">ตำหนักซานดริงแฮม</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>36.98530197143555</score>
+</geoname>
+<geoname>
+<toponymName>Sandringham</toponymName>
+<name>Sandringham</name>
+<lat>51.47872</lat>
+<lng>-3.17698</lng>
+<geonameId>6467817</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X5</adminCode2>
+<adminName2>City and County of Cardiff</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>18.407588958740234</score>
+</geoname>
+</geonames>

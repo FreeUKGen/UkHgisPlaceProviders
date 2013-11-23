@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Staffordshire</toponymName>
+<name>Staffordshire</name>
+<lat>52.83333</lat>
+<lng>-2</lng>
+<geonameId>2637141</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>1062500</population>
+<alternateNames>County of Staffordshire,STS,Stafford,Staffordshire</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<alternateName lang="abbr">STS</alternateName>
+<alternateName lang="en">Staffordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.47084</west>
+<north>53.22622</north>
+<east>-1.58547</east>
+<south>52.42324</south>
+</bbox>
+<score>131.5621337890625</score>
+</geoname>
+</geonames>

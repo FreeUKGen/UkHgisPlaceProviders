@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Rochester</toponymName>
+<name>Rochester</name>
+<lat>51.38764</lat>
+<lng>0.50546</lng>
+<geonameId>2639268</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>28671</population>
+<alternateNames>Durobrivae,Gorad Rochehstehr,RCS,Rochester,Rochester i Kent,Rochester í Kent,Rotsester,locheseuteo,Ρότσεστερ,Горад Рочэстэр,Рочестер,로체스터</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I3</adminCode2>
+<adminName2>Medway</adminName2>
+<alternateName lang="be">Горад Рочэстэр</alternateName>
+<alternateName lang="de">Rochester</alternateName>
+<alternateName lang="el">Ρότσεστερ</alternateName>
+<alternateName lang="en">Rochester</alternateName>
+<alternateName lang="fi">Rochester</alternateName>
+<alternateName lang="fr">Rochester</alternateName>
+<alternateName lang="iata">RCS</alternateName>
+<alternateName lang="is">Rochester í Kent</alternateName>
+<alternateName lang="ko">로체스터</alternateName>
+<alternateName lang="la">Durobrivae</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rochester%2C_Kent</alternateName>
+<alternateName lang="nn">Rochester i Kent</alternateName>
+<alternateName lang="no">Rochester</alternateName>
+<alternateName lang="pl">Rochester</alternateName>
+<alternateName lang="ru">Рочестер</alternateName>
+<alternateName lang="sv">Rochester</alternateName>
+<alternateName lang="uk">Рочестер</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.47088</west>
+<north>51.4092</north>
+<east>0.54003</east>
+<south>51.36607</south>
+</bbox>
+<score>100.18553161621094</score>
+</geoname>
+<geoname>
+<toponymName>Rochester</toponymName>
+<name>Rochester</name>
+<lat>55.29919</lat>
+<lng>-2.34424</lng>
+<geonameId>7291470</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM130</adminCode3>
+<adminName3>Rochester</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rochester%2C_Northumberland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.51996</west>
+<north>55.36792</north>
+<east>-2.16851</east>
+<south>55.23046</south>
+</bbox>
+<score>48.48906707763672</score>
+</geoname>
+<geoname>
+<toponymName>Rochester</toponymName>
+<name>Rochester</name>
+<lat>55.2752</lat>
+<lng>-2.2649</lng>
+<geonameId>2639267</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM130</adminCode3>
+<adminName3>Rochester</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.29649</west>
+<north>55.29319</north>
+<east>-2.23331</east>
+<south>55.25722</south>
+</bbox>
+<score>26.109846115112305</score>
+</geoname>
+</geonames>

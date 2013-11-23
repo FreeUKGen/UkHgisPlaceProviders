@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Hardwick</toponymName>
+<name>Hardwick</name>
+<lat>52.20882</lat>
+<lng>0.00815</lng>
+<geonameId>2647492</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hardwick,Hardwicke</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hardwick%2C_Cambridgeshire</alternateName>
+<alternateName lang="unlc">HDC</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.00653</west>
+<north>52.21781</north>
+<east>0.02283</east>
+<south>52.19982</south>
+</bbox>
+<score>58.07561492919922</score>
+</geoname>
+<geoname>
+<toponymName>Hardwicke</toponymName>
+<name>Hardwicke</name>
+<lat>51.81406</lat>
+<lng>-2.30336</lng>
+<geonameId>7290793</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UF</adminCode3>
+<adminName3>Stroud</adminName3>
+<adminCode4>23UF020</adminCode4>
+<adminName4>Hardwicke</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hardwicke%2C_Stroud</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.33995</west>
+<north>51.82768</north>
+<east>-2.26678</east>
+<south>51.80044</south>
+</bbox>
+<score>52.2548828125</score>
+</geoname>
+<geoname>
+<toponymName>Hardwicke</toponymName>
+<name>Hardwicke</name>
+<lat>51.81318</lat>
+<lng>-2.28704</lng>
+<geonameId>2647489</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UF</adminCode3>
+<adminName3>Stroud</adminName3>
+<alternateName lang="unlc">HRK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.30159</west>
+<north>51.82217</north>
+<east>-2.27249</east>
+<south>51.80418</south>
+</bbox>
+<score>46.34101104736328</score>
+</geoname>
+</geonames>

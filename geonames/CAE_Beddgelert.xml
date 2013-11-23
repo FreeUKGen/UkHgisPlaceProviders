@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Beddgelert</toponymName>
+<name>Beddgelert</name>
+<lat>53.02823</lat>
+<lng>-4.06923</lng>
+<geonameId>7293619</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC008</adminCode3>
+<adminName3>Beddgelert</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.16162</west>
+<north>53.08971</north>
+<east>-3.97683</east>
+<south>52.96675</south>
+</bbox>
+<score>106.33882904052734</score>
+</geoname>
+<geoname>
+<toponymName>Beddgelert</toponymName>
+<name>Beddgelert</name>
+<lat>53.012</lat>
+<lng>-4.1023</lng>
+<geonameId>2656049</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Beddgelert</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC008</adminCode3>
+<adminName3>Beddgelert</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Beddgelert</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.11725</west>
+<north>53.021</north>
+<east>-4.08735</east>
+<south>53.00301</south>
+</bbox>
+<score>100.90054321289062</score>
+</geoname>
+<geoname>
+<toponymName>Beddgelert</toponymName>
+<name>Beddgelert</name>
+<lat>53.01212</lat>
+<lng>-4.1085</lng>
+<geonameId>7671149</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>MTRO</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>metro station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC008</adminCode3>
+<adminName3>Beddgelert</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>19.156435012817383</score>
+</geoname>
+</geonames>

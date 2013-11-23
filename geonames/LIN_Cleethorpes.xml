@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Cleethorpes</toponymName>
+<name>Meggies</name>
+<lat>53.56047</lat>
+<lng>-0.03225</lng>
+<geonameId>2652885</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>32017</population>
+<alternateNames>Cleethorpes,Klitkhorps,Klitorpsas,Meggies,Клитхорпс</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC016</adminCode3>
+<adminName3>New Waltham</adminName3>
+<alternateName lang="en">Meggies</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cleethorpes</alternateName>
+<alternateName lang="lt">Klitorpsas</alternateName>
+<alternateName lang="ru">Клитхорпс</alternateName>
+<alternateName lang="unlc">CTH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.07087</west>
+<north>53.5834</north>
+<east>0.00638</east>
+<south>53.53754</south>
+</bbox>
+<score>112.75094604492188</score>
+</geoname>
+</geonames>

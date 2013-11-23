@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kingston Seymour</toponymName>
+<name>Kingston Seymour</name>
+<lat>51.39806</lat>
+<lng>-2.8794</lng>
+<geonameId>7296944</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC021</adminCode3>
+<adminName3>Kingston Seymour</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.91478</west>
+<north>51.41734</north>
+<east>-2.84402</east>
+<south>51.37878</south>
+</bbox>
+<score>91.60263061523438</score>
+</geoname>
+<geoname>
+<toponymName>Kingston Seymour</toponymName>
+<name>Kingston Seymour</name>
+<lat>51.39833</lat>
+<lng>-2.86111</lng>
+<geonameId>2645426</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC021</adminCode3>
+<adminName3>Kingston Seymour</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kingston_Seymour</alternateName>
+<alternateName lang="unlc">KSM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.88995</west>
+<north>51.41632</north>
+<east>-2.83227</east>
+<south>51.38035</south>
+</bbox>
+<score>65.13084411621094</score>
+</geoname>
+</geonames>

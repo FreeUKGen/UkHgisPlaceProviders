@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Rudbaxton</toponymName>
+<name>Rudbaxton</name>
+<lat>51.83858</lat>
+<lng>-4.94673</lng>
+<geonameId>7291008</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS059</adminCode3>
+<adminName3>Rudbaxton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.9901</west>
+<north>51.86395</north>
+<east>-4.90337</east>
+<south>51.81322</south>
+</bbox>
+<score>113.40838623046875</score>
+</geoname>
+<geoname>
+<toponymName>Rudbaxton</toponymName>
+<name>Rudbaxton</name>
+<lat>51.84569</lat>
+<lng>-4.961</lng>
+<geonameId>2638997</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS059</adminCode3>
+<adminName3>Rudbaxton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.97556</west>
+<north>51.85468</north>
+<east>-4.94644</east>
+<south>51.8367</south>
+</bbox>
+<score>65.0355453491211</score>
+</geoname>
+</geonames>

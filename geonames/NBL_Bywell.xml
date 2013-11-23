@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bywell</toponymName>
+<name>Bywell</name>
+<lat>54.97541</lat>
+<lng>-1.94047</lng>
+<geonameId>7296750</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM030</adminCode3>
+<adminName3>Bywell</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bywell</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.98625</west>
+<north>55.00452</north>
+<east>-1.89469</east>
+<south>54.94631</south>
+</bbox>
+<score>78.5201416015625</score>
+</geoname>
+</geonames>

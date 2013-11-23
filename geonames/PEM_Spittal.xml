@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Spittal</toponymName>
+<name>Spittal</name>
+<lat>51.86909</lat>
+<lng>-4.93224</lng>
+<geonameId>7291010</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS069</adminCode3>
+<adminName3>Spittal</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.97034</west>
+<north>51.88646</north>
+<east>-4.89414</east>
+<south>51.85173</south>
+</bbox>
+<score>100.03874206542969</score>
+</geoname>
+<geoname>
+<toponymName>Spittal</toponymName>
+<name>Spittal</name>
+<lat>55.75</lat>
+<lng>-1.98333</lng>
+<geonameId>2637217</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Spital,Spittal</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Spittal%2C_Northumberland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.99932</west>
+<north>55.75899</north>
+<east>-1.96735</east>
+<south>55.74101</south>
+</bbox>
+<score>82.00950622558594</score>
+</geoname>
+<geoname>
+<toponymName>Spittal</toponymName>
+<name>Spittal</name>
+<lat>51.86889</lat>
+<lng>-4.9425</lng>
+<geonameId>2637218</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Spittal</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS069</adminCode3>
+<adminName3>Spittal</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Spittal%2C_Pembrokeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.97164</west>
+<north>51.88688</north>
+<east>-4.91336</east>
+<south>51.8509</south>
+</bbox>
+<score>73.48085021972656</score>
+</geoname>
+<geoname>
+<toponymName>Spital in the Street</toponymName>
+<name>Spital in the Street</name>
+<lat>53.39826</lat>
+<lng>-0.54789</lng>
+<geonameId>2637220</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Spital in the Street,Spittal</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Spital-in-the-Street</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.56297</west>
+<north>53.40725</north>
+<east>-0.5328</east>
+<south>53.38927</south>
+</bbox>
+<score>45.218849182128906</score>
+</geoname>
+</geonames>

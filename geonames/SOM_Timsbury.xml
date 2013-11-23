@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Timsbury</toponymName>
+<name>Timsbury</name>
+<lat>51.32654</lat>
+<lng>-2.48098</lng>
+<geonameId>7296172</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA045</adminCode3>
+<adminName3>Timsbury</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.50033</west>
+<north>51.33789</north>
+<east>-2.46163</east>
+<south>51.31519</south>
+</bbox>
+<score>107.53651428222656</score>
+</geoname>
+<geoname>
+<toponymName>Timsbury</toponymName>
+<name>Timsbury</name>
+<lat>51.01667</lat>
+<lng>-1.5</lng>
+<geonameId>2635802</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Timsbury</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UN</adminCode3>
+<adminName3>Test Valley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Timsbury%2C_Hampshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.5143</west>
+<north>51.02566</north>
+<east>-1.4857</east>
+<south>51.00767</south>
+</bbox>
+<score>97.09629821777344</score>
+</geoname>
+<geoname>
+<toponymName>Timsbury</toponymName>
+<name>Timsbury</name>
+<lat>51.32444</lat>
+<lng>-2.47917</lng>
+<geonameId>2635801</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA045</adminCode3>
+<adminName3>Timsbury</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Timsbury%2C_Somerset</alternateName>
+<alternateName lang="unlc">TIM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.50796</west>
+<north>51.34243</north>
+<east>-2.45037</east>
+<south>51.30646</south>
+</bbox>
+<score>65.200927734375</score>
+</geoname>
+</geonames>

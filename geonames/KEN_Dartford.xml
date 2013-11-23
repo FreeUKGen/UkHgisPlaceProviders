@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Dartford</toponymName>
+<name>Dartford</name>
+<lat>51.44352</lat>
+<lng>0.21964</lng>
+<geonameId>2651500</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>56694</population>
+<alternateNames>Dartford,Dartforde,da te fu de,dartfwrd,dateupeodeu,Дартфорд,Дартфорде,دارتفورد,達特福德,다트퍼드</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UD</adminCode3>
+<adminName3>Dartford District</adminName3>
+<alternateName lang="bg">Дартфорд</alternateName>
+<alternateName lang="fa">دارتفورد</alternateName>
+<alternateName lang="ko">다트퍼드</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dartford</alternateName>
+<alternateName lang="ru">Дартфорд</alternateName>
+<alternateName lang="sr">Дартфорд</alternateName>
+<alternateName lang="unlc">DFD</alternateName>
+<alternateName lang="zh">達特福德</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.17015</west>
+<north>51.47435</north>
+<east>0.26914</east>
+<south>51.41269</south>
+</bbox>
+<score>153.6344757080078</score>
+</geoname>
+<geoname>
+<toponymName>Dartford</toponymName>
+<name>Dartford</name>
+<lat>51.46943</lat>
+<lng>0.23603</lng>
+<geonameId>7116121</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>SWT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>sewage treatment plant</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UD</adminCode3>
+<adminName3>Dartford District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>17.817960739135742</score>
+</geoname>
+</geonames>

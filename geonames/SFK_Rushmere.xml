@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Rushmere</toponymName>
+<name>Rushmere</name>
+<lat>52.43333</lat>
+<lng>1.7</lng>
+<geonameId>2638944</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UH</adminCode3>
+<adminName3>Waveney District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.68525</west>
+<north>52.44233</north>
+<east>1.71475</east>
+<south>52.42434</south>
+</bbox>
+<score>58.53509521484375</score>
+</geoname>
+<geoname>
+<toponymName>Rushmere</toponymName>
+<name>Rushmere</name>
+<lat>52.4313</lat>
+<lng>1.67004</lng>
+<geonameId>7292614</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UH</adminCode3>
+<adminName3>Waveney District</adminName3>
+<adminCode4>42UH031</adminCode4>
+<adminName4>Rushmere</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rushmere%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.65088</west>
+<north>52.44064</north>
+<east>1.6892</east>
+<south>52.42196</south>
+</bbox>
+<score>50.65864181518555</score>
+</geoname>
+</geonames>

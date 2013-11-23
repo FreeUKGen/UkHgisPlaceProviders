@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Charminster</toponymName>
+<name>Charminster</name>
+<lat>50.73333</lat>
+<lng>-2.45</lng>
+<geonameId>2653318</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Charminster</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Charminster</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.46421</west>
+<north>50.74233</north>
+<east>-2.43579</east>
+<south>50.72434</south>
+</bbox>
+<score>107.1051025390625</score>
+</geoname>
+<geoname>
+<toponymName>Charminster</toponymName>
+<name>Charminster</name>
+<lat>50.74971</lat>
+<lng>-2.45666</lng>
+<geonameId>7293414</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH028</adminCode4>
+<adminName4>Charminster</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.49254</west>
+<north>50.77917</north>
+<east>-2.42077</east>
+<south>50.72025</south>
+</bbox>
+<score>81.36392211914062</score>
+</geoname>
+<geoname>
+<toponymName>Charminster</toponymName>
+<name>Charminster</name>
+<lat>50.73461</lat>
+<lng>-1.86682</lng>
+<geonameId>6544187</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B2</adminCode2>
+<adminName2>Bournemouth</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.8725</west>
+<north>50.73821</north>
+<east>-1.86113</east>
+<south>50.73101</south>
+</bbox>
+<score>40.68196105957031</score>
+</geoname>
+</geonames>

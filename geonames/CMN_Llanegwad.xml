@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanegwad</toponymName>
+<name>Llanegwad</name>
+<lat>51.90842</lat>
+<lng>-4.14967</lng>
+<geonameId>7301144</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU031</adminCode3>
+<adminName3>Llanegwad</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.21022</west>
+<north>51.95849</north>
+<east>-4.08913</east>
+<south>51.85835</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Llanegwad</toponymName>
+<name>Llanegwad</name>
+<lat>51.87248</lat>
+<lng>-4.15077</lng>
+<geonameId>3345193</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanegwad</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU031</adminCode3>
+<adminName3>Llanegwad</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanegwad</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.16534</west>
+<north>51.88147</north>
+<east>-4.1362</east>
+<south>51.86348</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+</geonames>

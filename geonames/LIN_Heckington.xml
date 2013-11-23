@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Heckington</toponymName>
+<name>Heckington</name>
+<lat>52.98183</lat>
+<lng>-0.29903</lng>
+<geonameId>2647200</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3467</population>
+<alternateNames>Heckington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Heckington</alternateName>
+<alternateName lang="unlc">HKG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.3096</west>
+<north>52.98819</north>
+<east>-0.28847</east>
+<south>52.97547</south>
+</bbox>
+<score>110.05520629882812</score>
+</geoname>
+<geoname>
+<toponymName>Heckington</toponymName>
+<name>Heckington</name>
+<lat>52.98994</lat>
+<lng>-0.26373</lng>
+<geonameId>7301746</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<adminCode4>32UE031</adminCode4>
+<adminName4>Heckington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.33757</west>
+<north>53.00656</north>
+<east>-0.1899</east>
+<south>52.97332</south>
+</bbox>
+<score>82.2243881225586</score>
+</geoname>
+</geonames>

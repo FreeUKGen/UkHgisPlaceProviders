@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Prestwold</toponymName>
+<name>Prestwold</name>
+<lat>52.78643</lat>
+<lng>-1.1493</lng>
+<geonameId>7291469</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>Charnwood District</adminName3>
+<adminCode4>31UC015</adminCode4>
+<adminName4>Prestwold</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Prestwold</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.18239</west>
+<north>52.79724</north>
+<east>-1.11621</east>
+<south>52.77563</south>
+</bbox>
+<score>56.8402099609375</score>
+</geoname>
+</geonames>

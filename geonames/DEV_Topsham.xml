@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Topsham</toponymName>
+<name>Topsham</name>
+<lat>50.68596</lat>
+<lng>-3.46696</lng>
+<geonameId>2635680</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3624</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UC</adminCode3>
+<adminName3>Exeter District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Topsham%2C_Devon</alternateName>
+<alternateName lang="unlc">THM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.47925</west>
+<north>50.69375</north>
+<east>-3.45466</east>
+<south>50.67817</south>
+</bbox>
+<score>90.62773895263672</score>
+</geoname>
+</geonames>

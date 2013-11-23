@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Harby</toponymName>
+<name>Harby</name>
+<lat>52.87296</lat>
+<lng>-0.89573</lng>
+<geonameId>2647501</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Harby</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UG</adminCode3>
+<adminName3>Melton District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harby%2C_Leicestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.91063</west>
+<north>52.88196</north>
+<east>-0.88083</east>
+<south>52.86397</south>
+</bbox>
+<score>95.34379577636719</score>
+</geoname>
+<geoname>
+<toponymName>Harby</toponymName>
+<name>Harby</name>
+<lat>53.22546</lat>
+<lng>-0.68364</lng>
+<geonameId>8604586</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>250</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG036</adminCode4>
+<adminName4>Harby</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.68514</west>
+<north>53.22636</north>
+<east>-0.68214</east>
+<south>53.22456</south>
+</bbox>
+<score>60.44194793701172</score>
+</geoname>
+<geoname>
+<toponymName>Harby</toponymName>
+<name>Harby</name>
+<lat>53.23481</lat>
+<lng>-0.68412</lng>
+<geonameId>7290920</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG036</adminCode4>
+<adminName4>Harby</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harby%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.70198</west>
+<north>53.252</north>
+<east>-0.66626</east>
+<south>53.21762</south>
+</bbox>
+<score>52.049415588378906</score>
+</geoname>
+</geonames>

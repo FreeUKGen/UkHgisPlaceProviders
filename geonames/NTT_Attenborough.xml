@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Attenborough</toponymName>
+<name>Attenborough</name>
+<lat>52.90626</lat>
+<lng>-1.23162</lng>
+<geonameId>2656840</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UD</adminCode3>
+<adminName3>Broxtowe District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Attenborough%2C_Nottinghamshire</alternateName>
+<alternateName lang="unlc">ATT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.24654</west>
+<north>52.91525</north>
+<east>-1.21671</east>
+<south>52.89726</south>
+</bbox>
+<score>86.23980712890625</score>
+</geoname>
+</geonames>

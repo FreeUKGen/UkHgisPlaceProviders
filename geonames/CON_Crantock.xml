@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Crantock</toponymName>
+<name>Crantock</name>
+<lat>50.40182</lat>
+<lng>-5.10451</lng>
+<geonameId>7300005</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE024</adminCode3>
+<adminName3>Crantock</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Crantock</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.13882</west>
+<north>50.4105</north>
+<east>-5.0702</east>
+<south>50.39314</south>
+</bbox>
+<score>79.03948974609375</score>
+</geoname>
+<geoname>
+<toponymName>Crantock</toponymName>
+<name>Crantock</name>
+<lat>50.40031</lat>
+<lng>-5.11061</lng>
+<geonameId>2652076</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Crantock</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE024</adminCode3>
+<adminName3>Crantock</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.12473</west>
+<north>50.4093</north>
+<east>-5.0965</east>
+<south>50.39132</south>
+</bbox>
+<score>61.02178955078125</score>
+</geoname>
+</geonames>

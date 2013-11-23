@@ -1,0 +1,453 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>704</id>
+<name>IPSWICH</name>
+<container>SUFFOLK</container>
+<lat>52.0572877054136</lat>
+<lon>1.16042612293575</lon>
+<gazetteerText>Ipswich, parl. and mun. bor., seaport, and co. town, Suffolk, 12 miles from the sea, 24 miles SE. of Bury St Edmunds, and 68 miles NE. of London, 8192 ac., pop. 50,546; 3 Banks, 5 newspapers. Market-day, Tuesday. Ipswich is a quaint and ancient town, its name being a corruption of the old English Gypeswic or Gippeswic, meaning a city on the Gipping. It is on the left bank of that river, which here enters the estuary of the Orwell. The town has extensive docks, supported by a large shipping traffic. (For shipping statistics, see Appendix.) Shipbuilding is carried on to some extent, but the principal trade is in corn, agricultural implements, and artificial manures. Nearly all the public buildings are of modern date, but in the old town there are some curious specimens of ancient domestic architecture notably Sparrowes&apos; House (1567), Archdeacon&apos;s Place (1471), and Wolsey&apos;s Gateway (1528). The bor. returns 2 members to Parliament. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/SFK/IpswichStMatthew/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/SFK/Ipswich/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/SFK/IpswichStLawrence/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/SFK/IpswichStMargaret/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/SFK/IpswichStMaryAtTheQuay/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/SFK/IpswichStMaryAtTheTower/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/SFK/IpswichStMaryStoke/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/SFK/IpswichStPeter/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/SFK/IpswichStStephen/index.html</link>
+<link>http://www.workhouses.org.uk/Ipswich</link>
+<link>http://en.wikipedia.org/wiki/Ipswich</link>
+<link>http://www.geonames.org/2646057</link>
+<link>http://www.genuki.org.uk/big/eng/SFK/IpswichStClements/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/SFK/IpswichStMaryAtElms/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/SFK/IpswichStNicholas/index.html</link>
+</links>
+<unit>
+   <id>10568171</id>
+   <status></status>
+   <name>IPSWICH</name>
+</unit>
+<unit>
+   <id>10260322</id>
+   <status>CP/AP</status>
+   <name>IPSWICH ST STEPHEN</name>
+</unit>
+<unit>
+   <id>10187023</id>
+   <status>USD</status>
+   <name>IPSWICH</name>
+</unit>
+<unit>
+   <id>10259666</id>
+   <status>CP/AP</status>
+   <name>IPSWICH ST MARY AT THE ELMS</name>
+</unit>
+<unit>
+   <id>10259745</id>
+   <status>EP</status>
+   <name>IPSWICH ST MARY AT THE ELMS</name>
+</unit>
+<unit>
+   <id>12781430</id>
+   <status></status>
+   <name>IPSWICH</name>
+</unit>
+<unit>
+   <id>10259447</id>
+   <status>EP</status>
+   <name>IPSWICH ST JOHN</name>
+</unit>
+<unit>
+   <id>10258819</id>
+   <status>EP</status>
+   <name>IPSWICH HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10260036</id>
+   <status>EP</status>
+   <name>IPSWICH ST MARY STOKE WITH ST PETER AND ST MARY</name>
+</unit>
+<unit>
+   <id>10264029</id>
+   <status>AP</status>
+   <name>IPSWICH ST SAVIOUR</name>
+</unit>
+<unit>
+   <id>10263920</id>
+   <status>AP</status>
+   <name>ISPWICH ST MICHAEL</name>
+</unit>
+<unit>
+   <id>10260103</id>
+   <status>EP</status>
+   <name>IPSWICH ST MATTHEW</name>
+</unit>
+<unit>
+   <id>10541591</id>
+   <status></status>
+   <name>IPSWICH WESTERN</name>
+</unit>
+<unit>
+   <id>10260218</id>
+   <status>EP</status>
+   <name>IPSWICH ST PETER</name>
+</unit>
+<unit>
+   <id>10259277</id>
+   <status>EP</status>
+   <name>IPSWICH ST FRANCIS</name>
+</unit>
+<unit>
+   <id>10258807</id>
+   <status>EP</status>
+   <name>IPSWICH ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10258832</id>
+   <status>EP</status>
+   <name>IPSWICH ST ANDREW</name>
+</unit>
+<unit>
+   <id>10258996</id>
+   <status>AP/Ch</status>
+   <name>IPSWICH ST AUSTIN</name>
+</unit>
+<unit>
+   <id>10258972</id>
+   <status>EP</status>
+   <name>IPSWICH ST AUGUSTINE OF HIPPO</name>
+</unit>
+<unit>
+   <id>10259848</id>
+   <status>EP</status>
+   <name>IPSWICH ST MARY AT THE QUAY</name>
+</unit>
+<unit>
+   <id>10260577</id>
+   <status>EP</status>
+   <name>IPSWICH ST THOMAS</name>
+</unit>
+<unit>
+   <id>10575527</id>
+   <status></status>
+   <name>IPSWICH</name>
+</unit>
+<unit>
+   <id>10259290</id>
+   <status>CP/AP</status>
+   <name>IPSWICH ST HELEN</name>
+</unit>
+<unit>
+   <id>10135321</id>
+   <status>CB/MB</status>
+   <name>IPSWICH</name>
+</unit>
+<unit>
+   <id>10263864</id>
+   <status>AP/CP</status>
+   <name>IPSWICH GEORGE STREET</name>
+</unit>
+<unit>
+   <id>10260048</id>
+   <status>CP/AP</status>
+   <name>IPSWICH ST MATTHEW</name>
+</unit>
+<unit>
+   <id>10259915</id>
+   <status>AP/CP</status>
+   <name>IPSWICH ST MARY STOKE</name>
+</unit>
+<unit>
+   <id>10259757</id>
+   <status>CP/AP</status>
+   <name>IPSWICH ST MARY AT THE QUAY</name>
+</unit>
+<unit>
+   <id>10259599</id>
+   <status>AP/CP</status>
+   <name>IPSWICH ST MARGARET</name>
+</unit>
+<unit>
+   <id>10260188</id>
+   <status>CP/AP</status>
+   <name>IPSWICH ST PETER</name>
+</unit>
+<unit>
+   <id>10259861</id>
+   <status>CP/AP</status>
+   <name>IPSWICH ST MARY AT THE TOWER</name>
+</unit>
+<unit>
+   <id>10260139</id>
+   <status>CP/AP</status>
+   <name>IPSWICH ST NICHOLAS</name>
+</unit>
+<unit>
+   <id>12739138</id>
+   <status>CCon</status>
+   <name>CENTRAL SUFFOLK AND NORTH IPSWICH</name>
+</unit>
+<unit>
+   <id>10168351</id>
+   <status></status>
+   <name>IPSWICH</name>
+</unit>
+<unit>
+   <id>10258649</id>
+   <status>CP</status>
+   <name>IPSWICH</name>
+</unit>
+<unit>
+   <id>10259332</id>
+   <status>EP</status>
+   <name>IPSWICH ST HELEN</name>
+</unit>
+<unit>
+   <id>12744122</id>
+   <status>BCon/PBCon</status>
+   <name>IPSWICH</name>
+</unit>
+<unit>
+   <id>10259587</id>
+   <status>EP</status>
+   <name>IPSWICH ST LAWRENCE</name>
+</unit>
+<unit>
+   <id>10263852</id>
+   <status>CP/ExP</status>
+   <name>IPSWICH FELAWS HOUSE</name>
+</unit>
+<unit>
+   <id>10259459</id>
+   <status>AP</status>
+   <name>IPSWICH ST JOHN THE BAPTIST</name>
+</unit>
+<unit>
+   <id>10054722</id>
+   <status>Borough</status>
+   <name>IPSWICH</name>
+</unit>
+<unit>
+   <id>10541580</id>
+   <status></status>
+   <name>IPSWICH EASTERN</name>
+</unit>
+<unit>
+   <id>10561474</id>
+   <status></status>
+   <name>ST MARGARET</name>
+</unit>
+<unit>
+   <id>10260346</id>
+   <status>EP</status>
+   <name>IPSWICH ST STEPHEN</name>
+</unit>
+<unit>
+   <id>10259654</id>
+   <status>EP</status>
+   <name>IPSWICH ST MARGARET</name>
+</unit>
+<unit>
+   <id>10221365</id>
+   <status>PLU/RegD</status>
+   <name>IPSWICH</name>
+</unit>
+<unit>
+   <id>10260127</id>
+   <status>EP</status>
+   <name>IPSWICH ST MICHAEL</name>
+</unit>
+<unit>
+   <id>10259230</id>
+   <status>EP</status>
+   <name>IPSWICH ST CLEMENT</name>
+</unit>
+<unit>
+   <id>10259903</id>
+   <status>EP</status>
+   <name>IPSWICH ST MARY LE TOWER</name>
+</unit>
+<unit>
+   <id>10259484</id>
+   <status>AP/CP</status>
+   <name>IPSWICH ST LAWRENCE</name>
+</unit>
+<unit>
+   <id>10260176</id>
+   <status>EP</status>
+   <name>IPSWICH ST NICHOLAS</name>
+</unit>
+<unit>
+   <id>10259990</id>
+   <status>EP</status>
+   <name>IPSWICH ST MARY STOKE</name>
+</unit>
+<unit>
+   <id>10259095</id>
+   <status>CP/AP</status>
+   <name>IPSWICH ST CLEMENT</name>
+</unit>
+<unit>
+   <id>10259071</id>
+   <status>EP</status>
+   <name>IPSWICH ST BARTHOLOMEW ROSE HILL</name>
+</unit>
+<unit>
+   <id>10263888</id>
+   <status>AP</status>
+   <name>IPSWICH ST GREGORY</name>
+</unit>
+<unit>
+   <id>10260280</id>
+   <status>EP</status>
+   <name>IPSWICH ST PETER WITH ST MARY AT THE QUAY</name>
+</unit>
+<unit>
+   <id>10003866</id>
+   <status>RSD</status>
+   <name>IPSWICH</name>
+</unit>
+<unit>
+   <id>12834779</id>
+   <status></status>
+   <name>IPSWICH</name>
+</unit>
+<unit>
+   <id>10259265</id>
+   <status>AP</status>
+   <name>IPSWICH ST EDMUND A POUNTNEY</name>
+</unit>
+<unit>
+   <id>10267894</id>
+   <status>ExP/CP</status>
+   <name>SHIRE YARD HALL</name>
+</unit>
+<unit>
+   <id>10258753</id>
+   <status>EP</status>
+   <name>IPSWICH ALL HALLOWS</name>
+</unit>
+<nearByPlace>
+   <id>26</id>
+   <name>SUDBURY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>154</id>
+   <name>FELIXSTOWE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>268</id>
+   <name>STOWMARKET</name>
+</nearByPlace>
+<nearByPlace>
+   <id>586</id>
+   <name>HARWICH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>597</id>
+   <name>ELY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>686</id>
+   <name>NEWMARKET</name>
+</nearByPlace>
+<nearByPlace>
+   <id>720</id>
+   <name>FRINTON ON SEA</name>
+</nearByPlace>
+<nearByPlace>
+   <id>832</id>
+   <name>BURY ST EDMUNDS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>893</id>
+   <name>COLCHESTER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>925</id>
+   <name>CLACTON</name>
+</nearByPlace>
+</place>
+<place>
+<id>22594</id>
+<name>WARREN HOUSES</name>
+<container>SUFFOLK</container>
+<lat>52.0415280573253</lat>
+<lon>1.19811033224328</lon>
+<gazetteerText>WARREN-HOUSES, an extra-parochial tract within Ipswich borough, Suffolk. Pop., 26. Houses, 7. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<unit>
+   <id>10272178</id>
+   <status>ExP/CP</status>
+   <name>WARREN HOUSE</name>
+</unit>
+</place>
+<place>
+<id>7861</id>
+<name>WESTERFIELD</name>
+<container>SUFFOLK</container>
+<lat>52.0876273250795</lat>
+<lon>1.17596333420526</lon>
+<gazetteerText>WESTERFIELD, a parish, with a village and a r. station, in Ipswich district, Suffolk; on the East Suffolk railway, 2&#189; miles NNE of Ipswich. Post town, Ipswich. Acres, 1,070. Real property, &#163;1,891. Pop., 325. Houses, 74. W. House is the seat of E. Packard, Esq. The living is a rectory in the diocese of Norwich. Value, &#163;350.* Patron, the Bishop of N. The church is good, having three painted windows; and there are an endowed school with &#163;10 a year, and charities &#163;16. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/SFK/Westerfield/index.html</link>
+<link>http://www.geonames.org/2634437</link>
+</links>
+<unit>
+   <id>10272488</id>
+   <status>AP/CP</status>
+   <name>WESTERFIELD</name>
+</unit>
+<unit>
+   <id>10272490</id>
+   <status>EP</status>
+   <name>WESTERFIELD</name>
+</unit>
+<unit>
+   <id>10272506</id>
+   <status>CP</status>
+   <name>WESTERFIELD IN IPSWICH</name>
+</unit>
+</place>
+<place>
+<id>8221</id>
+<name>WHITTON</name>
+<container>SUFFOLK</container>
+<lat>52.0906745456728</lat>
+<lon>1.1290574872101</lon>
+<gazetteerText>WHITTON-CUM-THURLSTON, a parish in Ipswich district, Suffolk; 1&#189; mile N of Bramford r. station, and 2 N of Ipswich. Post town, Ipswich. Acres, 1,459. Rated property, &#163;2,578. Pop., 565. Houses, 114. T. Lodge is the seat of Mrs. Steward; Lilburne House, of T. Cheesright, Esq.; and Sparrow&apos;s Nest, of S. Westhorp, Esq. The living is a rectory and a vicarage in the diocese of Norwich. Value, &#163;273.* Patron, the Bishop of N. The church has been recently restored and enlarged. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/SFK/WhittonCumThurlston/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/SFK/Thurlton/index.html</link>
+<link>http://www.geonames.org/2634008</link>
+</links>
+<unit>
+   <id>10274345</id>
+   <status>AP/CP</status>
+   <name>WHITTON CUM THURLESTON</name>
+</unit>
+<unit>
+   <id>10274618</id>
+   <status>EP</status>
+   <name>WHITTON CUM THURLESTON</name>
+</unit>
+<unit>
+   <id>10282172</id>
+   <status>CP</status>
+   <name>WHITTON</name>
+</unit>
+</place>
+<place>
+<id>22655</id>
+<name>COLD DUNGHILLS</name>
+<container>SUFFOLK</container>
+<lat>52.0550803845792</lat>
+<lon>1.16260064347909</lon>
+<unit>
+   <id>10263840</id>
+   <status>ExP/CP</status>
+   <name>IPSWICH COLD DUNGHILLS</name>
+</unit>
+</place>
+</results>

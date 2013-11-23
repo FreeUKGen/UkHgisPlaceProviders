@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>The Boldons</toponymName>
+<name>The Boldons</name>
+<lat>54.9426</lat>
+<lng>-1.45349</lng>
+<geonameId>2655250</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population>13567</population>
+<alternateNames>Boldon,The Boldons</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M7</adminCode2>
+<adminName2>South Tyneside</adminName2>
+<alternateName lang="en">The Boldons</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/The_Boldons</alternateName>
+<alternateName lang="post">NE35</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.47947</west>
+<north>54.95751</north>
+<east>-1.42752</east>
+<south>54.92768</south>
+</bbox>
+<score>50.06325149536133</score>
+</geoname>
+</geonames>

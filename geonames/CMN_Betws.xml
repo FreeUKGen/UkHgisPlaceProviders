@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Betws</toponymName>
+<name>Betws</name>
+<lat>51.56917</lat>
+<lng>-3.58833</lng>
+<geonameId>2655800</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2057</population>
+<alternateNames>Bettws,Betws</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X3</adminCode2>
+<adminName2>County Borough of Bridgend</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bettws%2C_Bridgend</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.59557</west>
+<north>51.57366</north>
+<east>-3.5811</east>
+<south>51.56467</south>
+</bbox>
+<score>102.9727554321289</score>
+</geoname>
+<geoname>
+<toponymName>Betws</toponymName>
+<name>Betws</name>
+<lat>51.78252</lat>
+<lng>-3.96812</lng>
+<geonameId>7294059</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU004</adminCode3>
+<adminName3>Betws</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Betws</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.99973</west>
+<north>51.80131</north>
+<east>-3.9365</east>
+<south>51.76374</south>
+</bbox>
+<score>76.90934753417969</score>
+</geoname>
+</geonames>

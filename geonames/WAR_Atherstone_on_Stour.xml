@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Atherstone on Stour</toponymName>
+<name>Atherstone on Stour</name>
+<lat>52.15357</lat>
+<lng>-1.69566</lng>
+<geonameId>7301489</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<adminCode4>44UE006</adminCode4>
+<adminName4>Atherstone on Stour</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Atherstone_on_Stour</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.73547</west>
+<north>52.16563</north>
+<east>-1.65585</east>
+<south>52.14151</south>
+</bbox>
+<score>56.00333786010742</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>South Dalton</toponymName>
+<name>South Dalton</name>
+<lat>53.8955</lat>
+<lng>-0.5301</lng>
+<geonameId>2637442</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB037</adminCode3>
+<adminName3>Dalton Holme</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/South_Dalton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.54536</west>
+<north>53.90449</north>
+<east>-0.51483</east>
+<south>53.8865</south>
+</bbox>
+<score>65.4265365600586</score>
+</geoname>
+</geonames>

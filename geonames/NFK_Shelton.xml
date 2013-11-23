@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Shelton</toponymName>
+<name>Shelton</name>
+<lat>52.98333</lat>
+<lng>-0.83333</lng>
+<geonameId>2638055</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Shelton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shelton%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.84827</west>
+<north>52.99233</north>
+<east>-0.81839</east>
+<south>52.97434</south>
+</bbox>
+<score>77.08552551269531</score>
+</geoname>
+<geoname>
+<toponymName>Shelton</toponymName>
+<name>Shelton</name>
+<lat>52.99212</lat>
+<lng>-0.84175</lng>
+<geonameId>7290747</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<adminCode4>37UJ042</adminCode4>
+<adminName4>Shelton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.86136</west>
+<north>53.0077</north>
+<east>-0.82215</east>
+<south>52.97653</south>
+</bbox>
+<score>58.940162658691406</score>
+</geoname>
+<geoname>
+<toponymName>Lower Shelton</toponymName>
+<name>Lower Shelton</name>
+<lat>52.07455</lat>
+<lng>-0.54708</lng>
+<geonameId>2643503</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Shelton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lower_Shelton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.56172</west>
+<north>52.08354</north>
+<east>-0.53245</east>
+<south>52.06555</south>
+</bbox>
+<score>51.52581024169922</score>
+</geoname>
+<geoname>
+<toponymName>Shelton</toponymName>
+<name>Shelton</name>
+<lat>52.46667</lat>
+<lng>1.26667</lng>
+<geonameId>2638056</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<alternateName lang="unlc">SLZ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.2519</west>
+<north>52.47566</north>
+<east>1.28143</east>
+<south>52.45767</south>
+</bbox>
+<score>36.36476516723633</score>
+</geoname>
+</geonames>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Greenhithe</toponymName>
+<name>Greenhithe</name>
+<lat>51.45026</lat>
+<lng>0.28539</lng>
+<geonameId>2647962</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4700</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UD</adminCode3>
+<adminName3>Dartford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Greenhithe</alternateName>
+<alternateName lang="unlc">GHI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.27289</west>
+<north>51.45805</north>
+<east>0.29789</east>
+<south>51.44247</south>
+</bbox>
+<score>98.85416412353516</score>
+</geoname>
+</geonames>

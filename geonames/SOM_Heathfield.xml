@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Heathfield</toponymName>
+<name>Heathfield</name>
+<lat>50.96718</lat>
+<lng>0.25612</lng>
+<geonameId>2647218</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1001</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E2</adminCode2>
+<adminName2>East Sussex</adminName2>
+<adminCode3>21UH</adminCode3>
+<adminName3>Wealden District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Heathfield%2C_East_Sussex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.25469</west>
+<north>50.96808</north>
+<east>0.25755</east>
+<south>50.96628</south>
+</bbox>
+<score>85.04852294921875</score>
+</geoname>
+<geoname>
+<toponymName>Heathfield</toponymName>
+<name>Heathfield</name>
+<lat>51.84787</lat>
+<lng>-1.24386</lng>
+<geonameId>6693713</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UB</adminCode3>
+<adminName3>Cherwell District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.25842</west>
+<north>51.85686</north>
+<east>-1.2293</east>
+<south>51.83887</south>
+</bbox>
+<score>53.193115234375</score>
+</geoname>
+</geonames>

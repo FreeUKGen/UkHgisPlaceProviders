@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>St. Michael</toponymName>
+<name>St. Michael</name>
+<lat>51.7622</lat>
+<lng>-0.38006</lng>
+<geonameId>7291322</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>6615330</adminCode3>
+<adminName3>City and District of St. Albans</adminName3>
+<adminCode4>26UG007</adminCode4>
+<adminName4>St. Michael</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.42658</west>
+<north>51.79517</north>
+<east>-0.33355</east>
+<south>51.72924</south>
+</bbox>
+<score>57.34673309326172</score>
+</geoname>
+</geonames>

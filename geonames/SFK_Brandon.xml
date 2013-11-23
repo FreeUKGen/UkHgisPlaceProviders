@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Brandon</toponymName>
+<name>Brandon</name>
+<lat>52.38199</lat>
+<lng>-1.39956</lng>
+<geonameId>2654897</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8440</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UD</adminCode3>
+<adminName3>Rugby District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brandon%2C_Warwickshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.41905</west>
+<north>52.39389</north>
+<east>-1.38006</east>
+<south>52.37009</south>
+</bbox>
+<score>61.87421417236328</score>
+</geoname>
+<geoname>
+<toponymName>Brandon</toponymName>
+<name>Brandon</name>
+<lat>54.75</lat>
+<lng>-1.61667</lng>
+<geonameId>2654895</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Brandon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brandon%2C_County_Durham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.63225</west>
+<north>54.75899</north>
+<east>-1.60108</east>
+<south>54.74101</south>
+</bbox>
+<score>60.30235290527344</score>
+</geoname>
+<geoname>
+<toponymName>Brandon</toponymName>
+<name>Brandon</name>
+<lat>52.44774</lat>
+<lng>0.62382</lng>
+<geonameId>2654896</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UC</adminCode3>
+<adminName3>Forest Heath District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brandon%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.60906</west>
+<north>52.45674</north>
+<east>0.63858</east>
+<south>52.43875</south>
+</bbox>
+<score>50.82872009277344</score>
+</geoname>
+<geoname>
+<toponymName>Brandon</toponymName>
+<name>Brandon</name>
+<lat>52.43177</lat>
+<lng>0.60009</lng>
+<geonameId>7291251</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UC</adminCode3>
+<adminName3>Forest Heath District</adminName3>
+<adminCode4>42UC002</adminCode4>
+<adminName4>Brandon</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.53921</west>
+<north>52.45601</north>
+<east>0.66096</east>
+<south>52.40754</south>
+</bbox>
+<score>46.47557067871094</score>
+</geoname>
+</geonames>

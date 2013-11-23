@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>14</totalResultsCount>
+<geoname>
+<toponymName>Newport</toponymName>
+<name>Newport</name>
+<lat>51.58774</lat>
+<lng>-2.99835</lng>
+<geonameId>2641598</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>117326</population>
+<alternateNames>Casnewydd,N'juport,Newport,Niouport,Niuportas,Njuport,Novus Burgus,Nyuport,n'yuporta,niu bo te,niw phxrt,nyupoteu,nyupoto,nywbwrt,nywpwrt,Νιούπορτ,Њупорт,Ньюпорт,Нюпорт,Նյուպորտ,نيوبورت,نیوپورت,نیوپورٹ,न्यूपोर्ट,นิวพอร์ต,ニューポート,纽波特,뉴포트</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y6</adminCode2>
+<adminName2>City of Newport</adminName2>
+<alternateName lang="ar">نيوبورت</alternateName>
+<alternateName lang="bg">Нюпорт</alternateName>
+<alternateName lang="br">Casnewydd</alternateName>
+<alternateName lang="cy">Casnewydd</alternateName>
+<alternateName lang="el">Νιούπορτ</alternateName>
+<alternateName lang="en">Newport</alternateName>
+<alternateName lang="fa">نیوپورت</alternateName>
+<alternateName lang="ga">Casnewydd</alternateName>
+<alternateName lang="gv">Casnewydd</alternateName>
+<alternateName lang="hi">न्यूपोर्ट</alternateName>
+<alternateName lang="hy">Նյուպորտ</alternateName>
+<alternateName lang="ja">ニューポート</alternateName>
+<alternateName lang="ko">뉴포트</alternateName>
+<alternateName lang="la">Novus Burgus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newport</alternateName>
+<alternateName lang="lt">Niuportas</alternateName>
+<alternateName lang="no">Newport</alternateName>
+<alternateName lang="pnb">نیوپورٹ</alternateName>
+<alternateName lang="ru">Ньюпорт</alternateName>
+<alternateName lang="sr">Њупорт</alternateName>
+<alternateName lang="th">นิวพอร์ต</alternateName>
+<alternateName lang="uk">Ньюпорт</alternateName>
+<alternateName lang="unlc">NPT</alternateName>
+<alternateName lang="zh">纽波特</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.0697</west>
+<north>51.63202</north>
+<east>-2.927</east>
+<south>51.54345</south>
+</bbox>
+<score>84.51074981689453</score>
+</geoname>
+<geoname>
+<toponymName>Newport</toponymName>
+<name>Newport</name>
+<lat>52.00437</lat>
+<lng>-4.83968</lng>
+<geonameId>7295998</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS050</adminCode3>
+<adminName3>Newport</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.88038</west>
+<north>52.02505</north>
+<east>-4.79898</east>
+<south>51.98369</south>
+</bbox>
+<score>80.51136779785156</score>
+</geoname>
+<geoname>
+<toponymName>Newport</toponymName>
+<name>Newport</name>
+<lat>53.7648</lat>
+<lng>-0.69815</lng>
+<geonameId>7296024</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB100</adminCode3>
+<adminName3>Newport</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.73902</west>
+<north>53.78423</north>
+<east>-0.65727</east>
+<south>53.74537</south>
+</bbox>
+<score>80.51136779785156</score>
+</geoname>
+<geoname>
+<toponymName>Newport</toponymName>
+<name>Newport</name>
+<lat>50.69129</lat>
+<lng>-1.30915</lng>
+<geonameId>7301611</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G2</adminCode2>
+<adminName2>Isle of Wight</adminName2>
+<adminCode3>00MW030</adminCode3>
+<adminName3>Newport</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.37766</west>
+<north>50.73434</north>
+<east>-1.24064</east>
+<south>50.64823</south>
+</bbox>
+<score>80.51136779785156</score>
+</geoname>
+<geoname>
+<toponymName>Newport</toponymName>
+<name>Newport</name>
+<lat>51.98425</lat>
+<lng>0.21355</lng>
+<geonameId>2641597</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UQ</adminCode3>
+<adminName3>Uttlesford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newport%2C_Essex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.19894</west>
+<north>51.99324</north>
+<east>0.22815</east>
+<south>51.97525</south>
+</bbox>
+<score>64.198974609375</score>
+</geoname>
+<geoname>
+<toponymName>Newport-On-Tay</toponymName>
+<name>Newport-On-Tay</name>
+<lat>56.43911</lat>
+<lng>-2.9367</lng>
+<geonameId>2641593</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4203</population>
+<alternateNames>Newport</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V1</adminCode2>
+<adminName2>Fife</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newport-on-Tay</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.95079</west>
+<north>56.44689</north>
+<east>-2.92261</east>
+<south>56.43132</south>
+</bbox>
+<score>63.87141418457031</score>
+</geoname>
+<geoname>
+<toponymName>City of Newport</toponymName>
+<name>City of Newport</name>
+<lat>51.58333</lat>
+<lng>-3</lng>
+<geonameId>3333246</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>140100</population>
+<alternateNames>City of Newport,County Borough of Newport,Dinas Casnewydd,NWP,Newport</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y6</adminCode2>
+<adminName2>City of Newport</adminName2>
+<alternateName lang="abbr">NWP</alternateName>
+<alternateName lang="cy">Dinas Casnewydd</alternateName>
+<alternateName lang="en">City of Newport</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.12411</west>
+<north>51.64947</north>
+<east>-2.80301</east>
+<south>51.49431</south>
+</bbox>
+<score>62.216739654541016</score>
+</geoname>
+<geoname>
+<toponymName>Newport</toponymName>
+<name>Newport</name>
+<lat>51.98478</lat>
+<lng>0.20897</lng>
+<geonameId>7296002</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UQ</adminCode3>
+<adminName3>Uttlesford District</adminName3>
+<adminCode4>22UQ042</adminCode4>
+<adminName4>Newport</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.18395</west>
+<north>52.00442</north>
+<east>0.23398</east>
+<south>51.96514</south>
+</bbox>
+<score>58.36678695678711</score>
+</geoname>
+<geoname>
+<toponymName>Newport</toponymName>
+<name>Newport</name>
+<lat>52.78333</lat>
+<lng>-2.38333</lng>
+<geonameId>2641595</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>10814</population>
+<alternateNames>N'juport,Newport,Ньюпорт</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O2</adminCode2>
+<adminName2>Telford and Wrekin</adminName2>
+<adminCode3>00GF017</adminCode3>
+<adminName3>Newport</adminName3>
+<alternateName lang="ru">Ньюпорт</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.40564</west>
+<north>52.79682</north>
+<east>-2.36102</east>
+<south>52.76984</south>
+</bbox>
+<score>56.82838439941406</score>
+</geoname>
+<geoname>
+<toponymName>Newport</toponymName>
+<name>Newport</name>
+<lat>53.76333</lat>
+<lng>-0.69986</lng>
+<geonameId>2641594</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB100</adminCode3>
+<adminName3>Newport</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newport%2C_East_Riding_of_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.73031</west>
+<north>53.78131</north>
+<east>-0.66942</east>
+<south>53.74534</south>
+</bbox>
+<score>54.1862678527832</score>
+</geoname>
+</geonames>

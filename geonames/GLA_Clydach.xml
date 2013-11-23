@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Clydach</toponymName>
+<name>Clydach</name>
+<lat>51.68333</lat>
+<lng>-3.9</lng>
+<geonameId>2652734</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>19307</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z1</adminCode2>
+<adminName2>Swansea</adminName2>
+<adminCode3>00NX005</adminCode3>
+<adminName3>Clydach</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.92902</west>
+<north>51.70132</north>
+<east>-3.87098</east>
+<south>51.66535</south>
+</bbox>
+<score>78.3106689453125</score>
+</geoname>
+<geoname>
+<toponymName>Clydach</toponymName>
+<name>Clydach</name>
+<lat>51.70358</lat>
+<lng>-3.87732</lng>
+<geonameId>7292831</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z1</adminCode2>
+<adminName2>Swansea</adminName2>
+<adminCode3>00NX005</adminCode3>
+<adminName3>Clydach</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clydach%2C_Swansea</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.91191</west>
+<north>51.72012</north>
+<east>-3.84273</east>
+<south>51.68704</south>
+</bbox>
+<score>69.64537811279297</score>
+</geoname>
+<geoname>
+<toponymName>Clydach</toponymName>
+<name>Clydach</name>
+<lat>51.8</lat>
+<lng>-3.11667</lng>
+<geonameId>2652733</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X2</adminCode2>
+<adminName2>County Borough of Blaenau Gwent</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.13121</west>
+<north>51.80899</north>
+<east>-3.10212</east>
+<south>51.79101</south>
+</bbox>
+<score>62.32465362548828</score>
+</geoname>
+</geonames>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Carrington</toponymName>
+<name>Carrington</name>
+<lat>53.42535</lat>
+<lng>-2.38954</lng>
+<geonameId>7301607</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O6</adminCode2>
+<adminName2>Trafford</adminName2>
+<adminCode3>00BU001</adminCode3>
+<adminName3>Carrington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.42117</west>
+<north>53.44082</north>
+<east>-2.35791</east>
+<south>53.40987</south>
+</bbox>
+<score>75.91531372070312</score>
+</geoname>
+<geoname>
+<toponymName>Carrington</toponymName>
+<name>Carrington</name>
+<lat>53.07726</lat>
+<lng>-0.04905</lng>
+<geonameId>7300882</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC027</adminCode4>
+<adminName4>Carrington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.06968</west>
+<north>53.11412</north>
+<east>-0.02841</east>
+<south>53.04039</south>
+</bbox>
+<score>54.85466003417969</score>
+</geoname>
+<geoname>
+<toponymName>Carrington</toponymName>
+<name>Carrington</name>
+<lat>53.43333</lat>
+<lng>-2.38333</lng>
+<geonameId>2653673</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O6</adminCode2>
+<adminName2>Trafford</adminName2>
+<adminCode3>00BU001</adminCode3>
+<adminName3>Carrington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Carrington%2C_Greater_Manchester</alternateName>
+<alternateName lang="unlc">CRT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.41354</west>
+<north>53.45132</north>
+<east>-2.35313</east>
+<south>53.41535</south>
+</bbox>
+<score>47.76410675048828</score>
+</geoname>
+<geoname>
+<toponymName>Carrington</toponymName>
+<name>Carrington</name>
+<lat>55.83333</lat>
+<lng>-3.08333</lng>
+<geonameId>2653672</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V5</adminCode2>
+<adminName2>Midlothian</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.09935</west>
+<north>55.84233</north>
+<east>-3.06732</east>
+<south>55.82434</south>
+</bbox>
+<score>43.589988708496094</score>
+</geoname>
+<geoname>
+<toponymName>Carrington</toponymName>
+<name>Carrington</name>
+<lat>53.08333</lat>
+<lng>-0.05</lng>
+<geonameId>2653674</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.06498</west>
+<north>53.09233</north>
+<east>-0.03502</east>
+<south>53.07434</south>
+</bbox>
+<score>43.589988708496094</score>
+</geoname>
+</geonames>

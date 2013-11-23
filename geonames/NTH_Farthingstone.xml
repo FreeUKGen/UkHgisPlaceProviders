@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Farthingstone</toponymName>
+<name>Farthingstone</name>
+<lat>52.18996</lat>
+<lng>-1.10378</lng>
+<geonameId>2649639</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Farthingstone</alternateName>
+<alternateName lang="unlc">FNE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.11846</west>
+<north>52.19895</north>
+<east>-1.08911</east>
+<south>52.18096</south>
+</bbox>
+<score>92.40130615234375</score>
+</geoname>
+<geoname>
+<toponymName>Farthingstone</toponymName>
+<name>Farthingstone</name>
+<lat>52.19482</lat>
+<lng>-1.10825</lng>
+<geonameId>7295654</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<adminCode4>34UC029</adminCode4>
+<adminName4>Farthingstone</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.13403</west>
+<north>52.21101</north>
+<east>-1.08248</east>
+<south>52.17863</south>
+</bbox>
+<score>82.2243881225586</score>
+</geoname>
+</geonames>

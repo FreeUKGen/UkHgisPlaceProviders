@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llanddewi Rhydderch</toponymName>
+<name>Llanddewi Rhydderch</name>
+<lat>51.81183</lat>
+<lng>-2.94355</lng>
+<geonameId>2644152</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanddewi Rhydderch,Llanthewy Rytherch</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP018</adminCode3>
+<adminName3>Llanover</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.9581</west>
+<north>51.82083</north>
+<east>-2.929</east>
+<south>51.80284</south>
+</bbox>
+<score>75.32596588134766</score>
+</geoname>
+</geonames>

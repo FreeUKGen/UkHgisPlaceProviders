@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Ford</toponymName>
+<name>Ford</name>
+<lat>55.62694</lat>
+<lng>-2.11952</lng>
+<geonameId>7302002</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM061</adminCode3>
+<adminName3>Ford</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.2136</west>
+<north>55.66607</north>
+<east>-2.02544</east>
+<south>55.58782</south>
+</bbox>
+<score>85.41777801513672</score>
+</geoname>
+<geoname>
+<toponymName>Ford</toponymName>
+<name>Ford</name>
+<lat>56.16667</lat>
+<lng>-5.43333</lng>
+<geonameId>2649235</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T8</adminCode2>
+<adminName2>Argyll and Bute</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ford%2C_Argyll</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.44949</west>
+<north>56.17566</north>
+<east>-5.41718</east>
+<south>56.15767</south>
+</bbox>
+<score>83.05384826660156</score>
+</geoname>
+<geoname>
+<toponymName>Ford</toponymName>
+<name>Ford</name>
+<lat>50.82242</lat>
+<lng>-0.58125</lng>
+<geonameId>2649239</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UC</adminCode3>
+<adminName3>Arun District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ford%2C_West_Sussex</alternateName>
+<alternateName lang="unlc">FOD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.59548</west>
+<north>50.83141</north>
+<east>-0.56701</east>
+<south>50.81343</south>
+</bbox>
+<score>70.17564392089844</score>
+</geoname>
+<geoname>
+<toponymName>Ford</toponymName>
+<name>Ford</name>
+<lat>50.82158</lat>
+<lng>-0.58626</lng>
+<geonameId>7292732</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UC</adminCode3>
+<adminName3>Arun District</adminName3>
+<adminCode4>45UC016</adminCode4>
+<adminName4>Ford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.60589</west>
+<north>50.83246</north>
+<east>-0.56662</east>
+<south>50.81071</south>
+</bbox>
+<score>61.932281494140625</score>
+</geoname>
+<geoname>
+<toponymName>Ford</toponymName>
+<name>Ford</name>
+<lat>55.63333</lat>
+<lng>-2.08333</lng>
+<geonameId>2649236</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM061</adminCode3>
+<adminName3>Ford</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ford%2C_Northumberland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.11521</west>
+<north>55.65132</north>
+<east>-2.05145</east>
+<south>55.61535</south>
+</bbox>
+<score>59.039527893066406</score>
+</geoname>
+<geoname>
+<toponymName>Ford</toponymName>
+<name>Ford</name>
+<lat>52.70987</lat>
+<lng>-2.86706</lng>
+<geonameId>7290975</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG076</adminCode3>
+<adminName3>Ford</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ford%2C_Shropshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.89157</west>
+<north>52.72513</north>
+<east>-2.84256</east>
+<south>52.69461</south>
+</bbox>
+<score>59.039527893066406</score>
+</geoname>
+<geoname>
+<toponymName>Ford</toponymName>
+<name>Ford</name>
+<lat>51.33333</lat>
+<lng>1.16667</lng>
+<geonameId>2649238</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>6945807</adminCode3>
+<adminName3>City of Canterbury</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.15227</west>
+<north>51.34233</north>
+<east>1.18106</east>
+<south>51.32434</south>
+</bbox>
+<score>49.11668395996094</score>
+</geoname>
+<geoname>
+<toponymName>Ford</toponymName>
+<name>Ford</name>
+<lat>52.71667</lat>
+<lng>-2.85</lng>
+<geonameId>2649237</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Ford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG076</adminCode3>
+<adminName3>Ford</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.87971</west>
+<north>52.73465</north>
+<east>-2.82029</east>
+<south>52.69868</south>
+</bbox>
+<score>30.427202224731445</score>
+</geoname>
+</geonames>

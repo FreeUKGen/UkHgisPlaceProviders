@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Bulford</toponymName>
+<name>Bulford</name>
+<lat>51.19524</lat>
+<lng>-1.73679</lng>
+<geonameId>7299481</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY039</adminCode3>
+<adminName3>Bulford</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.78263</west>
+<north>51.21095</north>
+<east>-1.69095</east>
+<south>51.17954</south>
+</bbox>
+<score>107.86880493164062</score>
+</geoname>
+<geoname>
+<toponymName>Bulford</toponymName>
+<name>Bulford</name>
+<lat>51.1893</lat>
+<lng>-1.76009</lng>
+<geonameId>2654357</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>9519</population>
+<alternateNames>Bulford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY039</adminCode3>
+<adminName3>Bulford</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bulford</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.77907</west>
+<north>51.20119</north>
+<east>-1.7411</east>
+<south>51.1774</south>
+</bbox>
+<score>102.49799346923828</score>
+</geoname>
+<geoname>
+<toponymName>Cressing Station</toponymName>
+<name>Cressing Station</name>
+<lat>51.85213</lat>
+<lng>0.57808</lng>
+<geonameId>2652011</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>Bulford,CES,Cressing Station</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UC</adminCode3>
+<adminName3>Braintree District</adminName3>
+<alternateName lang="abbr">CES</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cressing_railway_station</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>31.593090057373047</score>
+</geoname>
+</geonames>

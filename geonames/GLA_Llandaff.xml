@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llandaff</toponymName>
+<name>Llandaff</name>
+<lat>51.49797</lat>
+<lng>-3.22804</lng>
+<geonameId>7294252</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X5</adminCode2>
+<adminName2>City and County of Cardiff</adminName2>
+<adminCode3>00PT014</adminCode3>
+<adminName3>Llandaff</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.2494</west>
+<north>51.50906</north>
+<east>-3.20667</east>
+<south>51.48688</south>
+</bbox>
+<score>108.74896240234375</score>
+</geoname>
+<geoname>
+<toponymName>Llandaff</toponymName>
+<name>Llandaff</name>
+<lat>51.49314</lat>
+<lng>-3.2198</lng>
+<geonameId>2644160</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Landava,Llandaf,Llandaff</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X5</adminCode2>
+<adminName2>City and County of Cardiff</adminName2>
+<adminCode3>00PT014</adminCode3>
+<adminName3>Llandaff</adminName3>
+<alternateName lang="br">Llandaf</alternateName>
+<alternateName lang="ca">Llandaf</alternateName>
+<alternateName lang="cy">Llandaf</alternateName>
+<alternateName lang="la">Landava</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llandaff</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.22558</west>
+<north>51.49674</north>
+<east>-3.21402</east>
+<south>51.48955</south>
+</bbox>
+<score>74.39675903320312</score>
+</geoname>
+</geonames>

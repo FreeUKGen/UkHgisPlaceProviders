@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Corby</toponymName>
+<name>Corby</name>
+<lat>52.49637</lat>
+<lng>-0.68939</lng>
+<geonameId>2652381</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>50029</population>
+<alternateNames>Corby,Korbi,kobi,kwrby,Корби,کوربی,コービー</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UB</adminCode3>
+<adminName3>Corby District</adminName3>
+<alternateName lang="fa">کوربی</alternateName>
+<alternateName lang="ja">コービー</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Corby</alternateName>
+<alternateName lang="ru">Корби</alternateName>
+<alternateName lang="sr">Корби</alternateName>
+<alternateName lang="unlc">CBY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.73672</west>
+<north>52.52516</north>
+<east>-0.64207</east>
+<south>52.46757</south>
+</bbox>
+<score>100.0546875</score>
+</geoname>
+</geonames>

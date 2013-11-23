@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Cannington</toponymName>
+<name>Cannington</name>
+<lat>51.15034</lat>
+<lng>-3.0736</lng>
+<geonameId>7290761</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<adminCode4>40UC013</adminCode4>
+<adminName4>Cannington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cannington%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.11622</west>
+<north>51.17446</north>
+<east>-3.03098</east>
+<south>51.12621</south>
+</bbox>
+<score>53.09828186035156</score>
+</geoname>
+</geonames>

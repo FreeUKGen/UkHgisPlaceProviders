@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>East Cowton</toponymName>
+<name>East Cowton</name>
+<lat>54.42367</lat>
+<lng>-1.52697</lng>
+<geonameId>2650476</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cowton,East Cowton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/East_Cowton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.54243</west>
+<north>54.43266</north>
+<east>-1.51151</east>
+<south>54.41467</south>
+</bbox>
+<score>88.010986328125</score>
+</geoname>
+<geoname>
+<toponymName>East Cowton</toponymName>
+<name>East Cowton</name>
+<lat>54.42425</lat>
+<lng>-1.52101</lng>
+<geonameId>7291506</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<adminCode4>36UC042</adminCode4>
+<adminName4>East Cowton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.55137</west>
+<north>54.45214</north>
+<east>-1.49064</east>
+<south>54.39637</south>
+</bbox>
+<score>71.45743560791016</score>
+</geoname>
+</geonames>

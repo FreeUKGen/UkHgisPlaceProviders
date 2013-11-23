@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Croxden</toponymName>
+<name>Croxden</name>
+<lat>52.9545</lat>
+<lng>-1.90151</lng>
+<geonameId>2651827</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Croxden</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UC</adminCode3>
+<adminName3>East Staffordshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Croxden</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.91644</west>
+<north>52.96349</north>
+<east>-1.88658</east>
+<south>52.94551</south>
+</bbox>
+<score>105.07369995117188</score>
+</geoname>
+<geoname>
+<toponymName>Croxden</toponymName>
+<name>Croxden</name>
+<lat>52.94668</lat>
+<lng>-1.89979</lng>
+<geonameId>7301271</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UC</adminCode3>
+<adminName3>East Staffordshire</adminName3>
+<adminCode4>41UC006</adminCode4>
+<adminName4>Croxden</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.93437</west>
+<north>52.97182</north>
+<east>-1.86521</east>
+<south>52.92154</south>
+</bbox>
+<score>79.85262298583984</score>
+</geoname>
+</geonames>

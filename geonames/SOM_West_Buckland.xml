@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>West Buckland</toponymName>
+<name>West Buckland</name>
+<lat>51.06667</lat>
+<lng>-3.91667</lng>
+<geonameId>2634489</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>West Buckland</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UE</adminCode3>
+<adminName3>North Devon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/West_Buckland%2C_Devon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.93098</west>
+<north>51.07566</north>
+<east>-3.90235</east>
+<south>51.05767</south>
+</bbox>
+<score>83.2994384765625</score>
+</geoname>
+<geoname>
+<toponymName>West Buckland</toponymName>
+<name>West Buckland</name>
+<lat>50.96667</lat>
+<lng>-3.18333</lng>
+<geonameId>2634490</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>West Buckland</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/West_Buckland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.19762</west>
+<north>50.97566</north>
+<east>-3.16905</east>
+<south>50.95767</south>
+</bbox>
+<score>83.2994384765625</score>
+</geoname>
+<geoname>
+<toponymName>West Buckland</toponymName>
+<name>West Buckland</name>
+<lat>50.97356</lat>
+<lng>-3.1883</lng>
+<geonameId>7301256</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<adminCode4>40UE046</adminCode4>
+<adminName4>West Buckland</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.21806</west>
+<north>51.00114</north>
+<east>-3.15855</east>
+<south>50.94597</south>
+</bbox>
+<score>62.31511688232422</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cropwell Bishop</toponymName>
+<name>Cropwell Bishop</name>
+<lat>52.9148</lat>
+<lng>-0.98482</lng>
+<geonameId>2651896</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1831</population>
+<alternateNames>Cropwell Bishop</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cropwell_Bishop</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.99228</west>
+<north>52.9193</north>
+<east>-0.97736</east>
+<south>52.91031</south>
+</bbox>
+<score>111.49638366699219</score>
+</geoname>
+<geoname>
+<toponymName>Cropwell Bishop</toponymName>
+<name>Cropwell Bishop</name>
+<lat>52.91038</lat>
+<lng>-0.99172</lng>
+<geonameId>7291327</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<adminCode4>37UJ011</adminCode4>
+<adminName4>Cropwell Bishop</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.02209</west>
+<north>52.92164</north>
+<east>-0.96136</east>
+<south>52.89911</south>
+</bbox>
+<score>73.97895812988281</score>
+</geoname>
+</geonames>

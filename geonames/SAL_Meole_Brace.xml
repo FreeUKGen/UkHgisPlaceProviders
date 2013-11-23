@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Meole Brace</toponymName>
+<name>Meole Brace</name>
+<lat>52.68716</lat>
+<lng>-2.75607</lng>
+<geonameId>2642737</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Meole Brace</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG162</adminCode3>
+<adminName3>Shrewsbury</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Meole_Brace</alternateName>
+<alternateName lang="unlc">MBR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.77091</west>
+<north>52.69616</north>
+<east>-2.74123</east>
+<south>52.67817</south>
+</bbox>
+<score>91.24534606933594</score>
+</geoname>
+</geonames>

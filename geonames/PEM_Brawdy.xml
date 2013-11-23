@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Brawdy</toponymName>
+<name>Brawdy</name>
+<lat>51.89077</lat>
+<lng>-5.12238</lng>
+<geonameId>7293114</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS005</adminCode3>
+<adminName3>Brawdy</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brawdy</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.17197</west>
+<north>51.92442</north>
+<east>-5.07279</east>
+<south>51.85712</south>
+</bbox>
+<score>76.96435546875</score>
+</geoname>
+<geoname>
+<toponymName>Brawdy</toponymName>
+<name>Brawdy</name>
+<lat>51.87323</lat>
+<lng>-5.11348</lng>
+<geonameId>2654855</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Brawdy,Brawdy Farm</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS005</adminCode3>
+<adminName3>Brawdy</adminName3>
+<alternateName lang="unlc">BDY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.12805</west>
+<north>51.88222</north>
+<east>-5.09891</east>
+<south>51.86424</south>
+</bbox>
+<score>69.67295837402344</score>
+</geoname>
+</geonames>

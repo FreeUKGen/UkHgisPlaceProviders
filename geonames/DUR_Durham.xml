@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Durham</toponymName>
+<name>Durham</name>
+<lat>54.77676</lat>
+<lng>-1.57566</lng>
+<geonameId>2650628</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>45696</population>
+<alternateNames>Daram,Darem,Dunelmum,Dunholm,Duram,Durham,Dūnholm,MME,da la mo,daramu,de xram,deoleom,drham,dwrham,Дарам,Дарем,Дърам,דרהאם,درهام,دورهام,เดอรัม,ダラム,達拉謨,더럼</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<alternateName lang="ang">Dūnholm</alternateName>
+<alternateName lang="ar">درهام</alternateName>
+<alternateName lang="bg">Дърам</alternateName>
+<alternateName lang="de">Durham</alternateName>
+<alternateName lang="en">Durham</alternateName>
+<alternateName lang="eo">Durham</alternateName>
+<alternateName lang="fa">دورهام</alternateName>
+<alternateName lang="fi">Durham</alternateName>
+<alternateName lang="fr">Durham</alternateName>
+<alternateName lang="he">דרהאם</alternateName>
+<alternateName lang="iata">MME</alternateName>
+<alternateName lang="ja">ダラム</alternateName>
+<alternateName lang="ko">더럼</alternateName>
+<alternateName lang="la">Dunelmum</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Durham</alternateName>
+<alternateName lang="mzn">دورهام</alternateName>
+<alternateName lang="nl">Durham</alternateName>
+<alternateName lang="no">Durham</alternateName>
+<alternateName lang="pt">Durham</alternateName>
+<alternateName lang="ru">Дарем</alternateName>
+<alternateName lang="sr">Дарам</alternateName>
+<alternateName lang="sv">Durham</alternateName>
+<alternateName lang="th">เดอรัม</alternateName>
+<alternateName lang="tr">Durham</alternateName>
+<alternateName lang="uk">Дарем</alternateName>
+<alternateName lang="unlc">DRH</alternateName>
+<alternateName lang="zh">達拉謨</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.62375</west>
+<north>54.80448</north>
+<east>-1.52756</east>
+<south>54.74904</south>
+</bbox>
+<score>93.9058837890625</score>
+</geoname>
+<geoname>
+<toponymName>County Durham</toponymName>
+<name>Durham</name>
+<lat>54.7768</lat>
+<lng>-1.57575</lng>
+<geonameId>2650629</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>493500</population>
+<alternateNames>DUR,Durham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<alternateName lang="abbr">DUR</alternateName>
+<alternateName lang="en">Durham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.35574</west>
+<north>54.91869</north>
+<east>-1.23969</east>
+<south>54.45147</south>
+</bbox>
+<score>89.06634521484375</score>
+</geoname>
+</geonames>

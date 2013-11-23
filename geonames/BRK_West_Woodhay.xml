@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>West Woodhay</toponymName>
+<name>West Woodhay</name>
+<lat>51.3646</lat>
+<lng>-1.43809</lng>
+<geonameId>2634226</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>West Woodhay</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P4</adminCode2>
+<adminName2>West Berkshire</adminName2>
+<adminCode3>00MB057</adminCode3>
+<adminName3>West Woodhay</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/West_Woodhay</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.4525</west>
+<north>51.37359</north>
+<east>-1.42369</east>
+<south>51.35561</south>
+</bbox>
+<score>93.98954772949219</score>
+</geoname>
+<geoname>
+<toponymName>West Woodhay</toponymName>
+<name>West Woodhay</name>
+<lat>51.36284</lat>
+<lng>-1.43402</lng>
+<geonameId>7292724</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P4</adminCode2>
+<adminName2>West Berkshire</adminName2>
+<adminCode3>00MB057</adminCode3>
+<adminName3>West Woodhay</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.46059</west>
+<north>51.37756</north>
+<east>-1.40746</east>
+<south>51.34811</south>
+</bbox>
+<score>92.53536987304688</score>
+</geoname>
+</geonames>

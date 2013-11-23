@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Finchley</toponymName>
+<name>Finchley</name>
+<lat>51.60096</lat>
+<lng>-0.19518</lng>
+<geonameId>2649441</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>fincali,فنچلے، لندن,फ़िंचली</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>A2</adminCode3>
+<adminName3>Barnet</adminName3>
+<alternateName lang="hi">फ़िंचली</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Finchley</alternateName>
+<alternateName lang="ur">فنچلے، لندن</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.20966</west>
+<north>51.60995</north>
+<east>-0.1807</east>
+<south>51.59197</south>
+</bbox>
+<score>64.16541290283203</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Redmarshall</toponymName>
+<name>Redmarshall</name>
+<lat>54.57967</lat>
+<lng>-1.40055</lng>
+<geonameId>7292491</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N3</adminCode2>
+<adminName2>Stockton-on-Tees</adminName2>
+<adminCode3>00EF014</adminCode3>
+<adminName3>Redmarshall</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.41691</west>
+<north>54.59467</north>
+<east>-1.38418</east>
+<south>54.56467</south>
+</bbox>
+<score>114.15132141113281</score>
+</geoname>
+<geoname>
+<toponymName>Redmarshall</toponymName>
+<name>Redmarshall</name>
+<lat>54.58568</lat>
+<lng>-1.40092</lng>
+<geonameId>2639534</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Redmarshall</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N3</adminCode2>
+<adminName2>Stockton-on-Tees</adminName2>
+<adminCode3>00EF014</adminCode3>
+<adminName3>Redmarshall</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Redmarshall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.41644</west>
+<north>54.59467</north>
+<east>-1.3854</east>
+<south>54.57668</south>
+</bbox>
+<score>108.45050811767578</score>
+</geoname>
+</geonames>

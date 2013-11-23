@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wendron</toponymName>
+<name>Wendron</name>
+<lat>50.14941</lat>
+<lng>-5.22859</lng>
+<geonameId>7296737</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE209</adminCode3>
+<adminName3>Wendron</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.27882</west>
+<north>50.20538</north>
+<east>-5.17835</east>
+<south>50.09345</south>
+</bbox>
+<score>111.49334716796875</score>
+</geoname>
+<geoname>
+<toponymName>Wendron</toponymName>
+<name>Wendron</name>
+<lat>50.13333</lat>
+<lng>-5.25</lng>
+<geonameId>2634537</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Wendron</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE209</adminCode3>
+<adminName3>Wendron</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wendron</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.27807</west>
+<north>50.15132</north>
+<east>-5.22193</east>
+<south>50.11535</south>
+</bbox>
+<score>84.55570983886719</score>
+</geoname>
+</geonames>

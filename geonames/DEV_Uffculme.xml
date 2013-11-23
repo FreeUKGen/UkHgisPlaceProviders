@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Uffculme</toponymName>
+<name>Uffculme</name>
+<lat>50.90604</lat>
+<lng>-3.32746</lng>
+<geonameId>2635234</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1822</population>
+<alternateNames>Uffculme</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UD</adminCode3>
+<adminName3>Mid Devon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Uffculme</alternateName>
+<alternateName lang="unlc">UFC</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.33459</west>
+<north>50.91053</north>
+<east>-3.32033</east>
+<south>50.90154</south>
+</bbox>
+<score>110.68647766113281</score>
+</geoname>
+<geoname>
+<toponymName>Uffculme</toponymName>
+<name>Uffculme</name>
+<lat>50.89584</lat>
+<lng>-3.30423</lng>
+<geonameId>7293318</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UD</adminCode3>
+<adminName3>Mid Devon District</adminName3>
+<adminCode4>18UD053</adminCode4>
+<adminName4>Uffculme</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.36536</west>
+<north>50.92388</north>
+<east>-3.2431</east>
+<south>50.86781</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

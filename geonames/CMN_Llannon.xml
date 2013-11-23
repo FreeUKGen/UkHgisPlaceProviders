@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Llannon</toponymName>
+<name>Llannon</name>
+<lat>51.7632</lat>
+<lng>-4.10728</lng>
+<geonameId>7292359</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU050</adminCode3>
+<adminName3>Llannon</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.15638</west>
+<north>51.80092</north>
+<east>-4.05818</east>
+<south>51.72548</south>
+</bbox>
+<score>110.2697982788086</score>
+</geoname>
+<geoname>
+<toponymName>Llannon</toponymName>
+<name>Llannon</name>
+<lat>51.75519</lat>
+<lng>-4.11752</lng>
+<geonameId>2643973</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU050</adminCode3>
+<adminName3>Llannon</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llannon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.13205</west>
+<north>51.76418</north>
+<east>-4.10298</east>
+<south>51.7462</south>
+</bbox>
+<score>89.16835021972656</score>
+</geoname>
+<geoname>
+<toponymName>Llanon</toponymName>
+<name>Llanon</name>
+<lat>52.28333</lat>
+<lng>-4.18333</lng>
+<geonameId>2643971</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2482</population>
+<alternateNames>Llannon,Llanon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanon</alternateName>
+<alternateName lang="unlc">LLO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.19373</west>
+<north>52.28969</north>
+<east>-4.17294</east>
+<south>52.27697</south>
+</bbox>
+<score>63.6048698425293</score>
+</geoname>
+</geonames>

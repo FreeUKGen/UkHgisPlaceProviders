@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Irchester</toponymName>
+<name>Irchester</name>
+<lat>52.28108</lat>
+<lng>-0.6451</lng>
+<geonameId>2646055</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4610</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UH</adminCode3>
+<adminName3>Wellingborough District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Irchester</alternateName>
+<alternateName lang="unlc">IRT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.65784</west>
+<north>52.28887</north>
+<east>-0.63237</east>
+<south>52.27329</south>
+</bbox>
+<score>102.21806335449219</score>
+</geoname>
+<geoname>
+<toponymName>Irchester</toponymName>
+<name>Irchester</name>
+<lat>52.28674</lat>
+<lng>-0.64814</lng>
+<geonameId>7291366</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UH</adminCode3>
+<adminName3>Wellingborough District</adminName3>
+<adminCode4>34UH010</adminCode4>
+<adminName4>Irchester</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.68572</west>
+<north>52.30521</north>
+<east>-0.61055</east>
+<south>52.26827</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Rose Ash</toponymName>
+<name>Rose Ash</name>
+<lat>50.97126</lat>
+<lng>-3.72616</lng>
+<geonameId>7298356</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UE</adminCode3>
+<adminName3>North Devon District</adminName3>
+<adminCode4>18UE050</adminCode4>
+<adminName4>Rose Ash</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.76807</west>
+<north>50.99782</north>
+<east>-3.68425</east>
+<south>50.9447</south>
+</bbox>
+<score>66.9479751586914</score>
+</geoname>
+<geoname>
+<toponymName>Rose Ash</toponymName>
+<name>Rose Ash</name>
+<lat>50.98274</lat>
+<lng>-3.72698</lng>
+<geonameId>2639152</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UE</adminCode3>
+<adminName3>North Devon District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.74127</west>
+<north>50.99173</north>
+<east>-3.71269</east>
+<south>50.97374</south>
+</bbox>
+<score>51.74710464477539</score>
+</geoname>
+</geonames>

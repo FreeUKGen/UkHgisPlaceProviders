@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Purley</toponymName>
+<name>Purley</name>
+<lat>51.33678</lat>
+<lng>-0.11201</lng>
+<geonameId>2639842</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>72000</population>
+<alternateNames>Purley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>C8</adminCode3>
+<adminName3>Croydon</adminName3>
+<alternateName lang="en">Purley</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Purley%2C_London</alternateName>
+<alternateName lang="post">CR8</alternateName>
+<alternateName lang="unlc">PUR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.16781</west>
+<north>51.37161</north>
+<east>-0.05621</east>
+<south>51.30195</south>
+</bbox>
+<score>135.92062377929688</score>
+</geoname>
+</geonames>

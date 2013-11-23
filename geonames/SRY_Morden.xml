@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Morden</toponymName>
+<name>Morden</name>
+<lat>50.76667</lat>
+<lng>-2.11667</lng>
+<geonameId>2642234</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Morden</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UG</adminCode3>
+<adminName3>Purbeck District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Morden%2C_Dorset</alternateName>
+<alternateName lang="unlc">ZCE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.13089</west>
+<north>50.77566</north>
+<east>-2.10244</east>
+<south>50.75767</south>
+</bbox>
+<score>73.14950561523438</score>
+</geoname>
+<geoname>
+<toponymName>Morden</toponymName>
+<name>Morden</name>
+<lat>50.76276</lat>
+<lng>-2.12676</lng>
+<geonameId>7295006</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UG</adminCode3>
+<adminName3>Purbeck District</adminName3>
+<adminCode4>19UG016</adminCode4>
+<adminName4>Morden</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.15935</west>
+<north>50.79301</north>
+<east>-2.09417</east>
+<south>50.73251</south>
+</bbox>
+<score>66.42036437988281</score>
+</geoname>
+<geoname>
+<toponymName>Morden</toponymName>
+<name>Morden</name>
+<lat>51.39822</lat>
+<lng>-0.19837</lng>
+<geonameId>2642233</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Morden</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>I4</adminCode3>
+<adminName3>Merton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Morden</alternateName>
+<alternateName lang="unlc">MOD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.22721</west>
+<north>51.4162</north>
+<east>-0.16953</east>
+<south>51.38023</south>
+</bbox>
+<score>63.19520950317383</score>
+</geoname>
+</geonames>

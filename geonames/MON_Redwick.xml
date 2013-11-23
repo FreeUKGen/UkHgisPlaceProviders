@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Redwick</toponymName>
+<name>Redwick</name>
+<lat>51.54519</lat>
+<lng>-2.85217</lng>
+<geonameId>7298866</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y6</adminCode2>
+<adminName2>City of Newport</adminName2>
+<adminCode3>00PR021</adminCode3>
+<adminName3>Redwick</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.89565</west>
+<north>51.57993</north>
+<east>-2.80868</east>
+<south>51.51044</south>
+</bbox>
+<score>107.16512298583984</score>
+</geoname>
+<geoname>
+<toponymName>Redwick</toponymName>
+<name>Redwick</name>
+<lat>51.57167</lat>
+<lng>-2.65417</lng>
+<geonameId>2639521</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Redwick</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M6</adminCode2>
+<adminName2>South Gloucestershire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Redwick%2C_South_Gloucestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.66864</west>
+<north>51.58066</north>
+<east>-2.63969</east>
+<south>51.56267</south>
+</bbox>
+<score>96.24177551269531</score>
+</geoname>
+<geoname>
+<toponymName>Redwick</toponymName>
+<name>Redwick</name>
+<lat>51.55278</lat>
+<lng>-2.85</lng>
+<geonameId>2639522</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Redwick</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y6</adminCode2>
+<adminName2>City of Newport</adminName2>
+<adminCode3>00PR021</adminCode3>
+<adminName3>Redwick</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Redwick%2C_Newport</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.87894</west>
+<north>51.57077</north>
+<east>-2.82106</east>
+<south>51.53479</south>
+</bbox>
+<score>77.29993438720703</score>
+</geoname>
+</geonames>

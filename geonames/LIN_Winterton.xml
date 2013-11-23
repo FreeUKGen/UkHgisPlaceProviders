@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Winterton</toponymName>
+<name>Winterton</name>
+<lat>53.66158</lat>
+<lng>-0.57812</lng>
+<geonameId>7290742</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD053</adminCode3>
+<adminName3>Winterton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.62808</west>
+<north>53.67519</north>
+<east>-0.52816</east>
+<south>53.64796</south>
+</bbox>
+<score>98.6055908203125</score>
+</geoname>
+<geoname>
+<toponymName>Winterton</toponymName>
+<name>Winterton</name>
+<lat>53.65497</lat>
+<lng>-0.59885</lng>
+<geonameId>2633786</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4834</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD053</adminCode3>
+<adminName3>Winterton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Winterton%2C_Lincolnshire</alternateName>
+<alternateName lang="unlc">IRO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.61403</west>
+<north>53.66396</north>
+<east>-0.58367</east>
+<south>53.64598</south>
+</bbox>
+<score>83.71076965332031</score>
+</geoname>
+<geoname>
+<toponymName>Winterton-on-Sea</toponymName>
+<name>Winterton-on-Sea</name>
+<lat>52.71547</lat>
+<lng>1.69099</lng>
+<geonameId>2633787</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Winterton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UD</adminCode3>
+<adminName3>Great Yarmouth District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Winterton-on-Sea</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.67614</west>
+<north>52.72447</north>
+<east>1.70584</east>
+<south>52.70648</south>
+</bbox>
+<score>64.12867736816406</score>
+</geoname>
+</geonames>

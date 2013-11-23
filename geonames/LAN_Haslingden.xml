@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Haslingden</toponymName>
+<name>Haslingden</name>
+<lat>53.70326</lat>
+<lng>-2.32382</lng>
+<geonameId>2647363</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>15204</population>
+<alternateNames>Haslingden</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UM</adminCode3>
+<adminName3>Rossendale District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Haslingden</alternateName>
+<alternateName lang="unlc">HDN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.35014</west>
+<north>53.71884</north>
+<east>-2.2975</east>
+<south>53.68769</south>
+</bbox>
+<score>135.44960021972656</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hawkshead</toponymName>
+<name>Hawkshead</name>
+<lat>54.37503</lat>
+<lng>-2.999</lng>
+<geonameId>2647285</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hawkshead</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UG</adminCode3>
+<adminName3>South Lakeland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hawkshead</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.01444</west>
+<north>54.38402</north>
+<east>-2.98356</east>
+<south>54.36603</south>
+</bbox>
+<score>103.86746215820312</score>
+</geoname>
+<geoname>
+<toponymName>Hawkshead</toponymName>
+<name>Hawkshead</name>
+<lat>54.37206</lat>
+<lng>-3.00209</lng>
+<geonameId>7296223</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UG</adminCode3>
+<adminName3>South Lakeland District</adminName3>
+<adminCode4>16UG027</adminCode4>
+<adminName4>Hawkshead</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.03627</west>
+<north>54.40662</north>
+<east>-2.9679</east>
+<south>54.33749</south>
+</bbox>
+<score>78.90440368652344</score>
+</geoname>
+</geonames>

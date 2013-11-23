@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Rattlesden</toponymName>
+<name>Rattlesden</name>
+<lat>52.19359</lat>
+<lng>0.89358</lng>
+<geonameId>2639608</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rattlesden</alternateName>
+<alternateName lang="unlc">RLS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.87891</west>
+<north>52.20258</north>
+<east>0.90826</east>
+<south>52.18459</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+<geoname>
+<toponymName>Rattlesden</toponymName>
+<name>Rattlesden</name>
+<lat>52.18077</lat>
+<lng>0.89223</lng>
+<geonameId>7299603</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<adminCode4>42UE078</adminCode4>
+<adminName4>Rattlesden</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/RAF_Rattlesden</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.85938</west>
+<north>52.20694</north>
+<east>0.92508</east>
+<south>52.15461</south>
+</bbox>
+<score>56.11846923828125</score>
+</geoname>
+</geonames>

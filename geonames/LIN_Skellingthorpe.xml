@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Skellingthorpe</toponymName>
+<name>Skellingthorpe</name>
+<lat>53.23531</lat>
+<lng>-0.61905</lng>
+<geonameId>2637756</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3414</population>
+<alternateNames>Skellingthorpe</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Skellingthorpe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.62968</west>
+<north>53.24167</north>
+<east>-0.60842</east>
+<south>53.22895</south>
+</bbox>
+<score>120.06116485595703</score>
+</geoname>
+<geoname>
+<toponymName>Skellingthorpe</toponymName>
+<name>Skellingthorpe</name>
+<lat>53.23784</lat>
+<lng>-0.61245</lng>
+<geonameId>7301770</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<adminCode4>32UE056</adminCode4>
+<adminName4>Skellingthorpe</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.65418</west>
+<north>53.25811</north>
+<east>-0.57073</east>
+<south>53.21757</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

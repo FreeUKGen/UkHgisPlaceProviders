@@ -1,0 +1,65 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>674</id>
+<name>Y BARRI</name>
+<container>GLAMORGAN</container>
+<lat>51.4051280560858</lat>
+<lon>-3.27079479815758</lon>
+<gazetteerText>BARRY, a village, an island, and a parish in Cardiff district, Glamorgan. The village stands on the coast opposite the island, 9 miles SE of Cowbridge; is a sub-port to Cardiff; and has acquired importance by a harbour act of 1866, and by acts of 1865-6 for railways to the South Wales line at Peterston, to Sully, and to Penarth-The island comprises about 300 acres; and is separated from the mainland only by a narrow channel, passable for carriages at low water.&#151;The parish contains 570 acres of land and 265 of water; and its Post Town is Barry under Cardiff. Real property, &#163;634. Pop., 87. Houses, 13. The property is divided among a few. There are ruins of an ancient castle and an ancient chapel. The living is a rectory, annexed to the rectory of Porthkerry, in the diocese of Llandaff. The church is good. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Barry,_Wales</link>
+<link>http://www.genuki.org.uk/big/wal/GLA/Barry/</link>
+<link>http://www.geonames.org/2656235</link>
+</links>
+<unit>
+   <id>10045502</id>
+   <status>AP/CP</status>
+   <name>BARRY</name>
+</unit>
+<unit>
+   <id>10114792</id>
+   <status>MB/UD</status>
+   <name>Y BARRI</name>
+</unit>
+<unit>
+   <id>12738602</id>
+   <status>CCon</status>
+   <name>BARRY</name>
+</unit>
+<unit>
+   <id>12827040</id>
+   <status>USD</status>
+   <name>BARRY AND CADOXTON</name>
+</unit>
+<unit>
+   <id>12833635</id>
+   <status></status>
+   <name>BARRY</name>
+</unit>
+<nearByPlace>
+   <id>3668</id>
+   <name>BONVILSTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8516</id>
+   <name>PORTHCERI</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8792</id>
+   <name>ST LYTHANS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8801</id>
+   <name>ST NICHOLAS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8830</id>
+   <name>SULLY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9402</id>
+   <name>WENVOE</name>
+</nearByPlace>
+</place>
+</results>

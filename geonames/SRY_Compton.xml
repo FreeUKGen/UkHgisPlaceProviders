@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Compton</toponymName>
+<name>Compton</name>
+<lat>51.51861</lat>
+<lng>-1.24873</lng>
+<geonameId>7294184</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P4</adminCode2>
+<adminName2>West Berkshire</adminName2>
+<adminCode3>00MB019</adminCode3>
+<adminName3>Compton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.28234</west>
+<north>51.54118</north>
+<east>-1.21512</east>
+<south>51.49604</south>
+</bbox>
+<score>84.57821655273438</score>
+</geoname>
+<geoname>
+<toponymName>Compton</toponymName>
+<name>Compton</name>
+<lat>51.2</lat>
+<lng>-0.63333</lng>
+<geonameId>2652489</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Compton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UL</adminCode3>
+<adminName3>Waverley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Compton%2C_Waverley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.64769</west>
+<north>51.20899</north>
+<east>-0.61898</east>
+<south>51.19101</south>
+</bbox>
+<score>79.16265869140625</score>
+</geoname>
+<geoname>
+<toponymName>Compton</toponymName>
+<name>Compton</name>
+<lat>51.51585</lat>
+<lng>-1.2551</lng>
+<geonameId>2652488</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P4</adminCode2>
+<adminName2>West Berkshire</adminName2>
+<adminCode3>00MB019</adminCode3>
+<adminName3>Compton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Compton%2C_Berkshire</alternateName>
+<alternateName lang="unlc">CPO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.26956</west>
+<north>51.52484</north>
+<east>-1.24065</east>
+<south>51.50685</south>
+</bbox>
+<score>66.61494445800781</score>
+</geoname>
+<geoname>
+<toponymName>Compton</toponymName>
+<name>Compton</name>
+<lat>50.92695</lat>
+<lng>-0.89642</lng>
+<geonameId>2652493</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UD</adminCode3>
+<adminName3>Chichester District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Compton%2C_West_Sussex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.91069</west>
+<north>50.93594</north>
+<east>-0.88214</east>
+<south>50.91796</south>
+</bbox>
+<score>66.61494445800781</score>
+</geoname>
+<geoname>
+<toponymName>Compton</toponymName>
+<name>Compton</name>
+<lat>51.02019</lat>
+<lng>-1.33992</lng>
+<geonameId>2652491</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2311</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UP</adminCode3>
+<adminName3>Winchester District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.34707</west>
+<north>51.02469</north>
+<east>-1.33278</east>
+<south>51.0157</south>
+</bbox>
+<score>61.18329620361328</score>
+</geoname>
+<geoname>
+<toponymName>Compton</toponymName>
+<name>Compton</name>
+<lat>50.92166</lat>
+<lng>-0.89826</lng>
+<geonameId>7292006</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UD</adminCode3>
+<adminName3>Chichester District</adminName3>
+<adminCode4>45UD012</adminCode4>
+<adminName4>Compton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.94268</west>
+<north>50.9435</north>
+<east>-0.85385</east>
+<south>50.89982</south>
+</bbox>
+<score>61.18329620361328</score>
+</geoname>
+<geoname>
+<toponymName>Compton Dundon</toponymName>
+<name>Compton Dundon</name>
+<lat>51.09306</lat>
+<lng>-2.73056</lng>
+<geonameId>2652490</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Compton,Compton Dundon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Compton_Dundon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.74488</west>
+<north>51.10205</north>
+<east>-2.71623</east>
+<south>51.08406</south>
+</bbox>
+<score>51.51521301269531</score>
+</geoname>
+<geoname>
+<toponymName>Compton</toponymName>
+<name>Compton</name>
+<lat>51.22071</lat>
+<lng>-0.62901</lng>
+<geonameId>7291934</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UD</adminCode3>
+<adminName3>Guildford District</adminName3>
+<adminCode4>43UD004</adminCode4>
+<adminName4>Compton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Compton%2C_Guildford</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.64949</west>
+<north>51.24034</north>
+<east>-0.60853</east>
+<south>51.20108</south>
+</bbox>
+<score>43.66313934326172</score>
+</geoname>
+</geonames>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Llanuwchllyn</toponymName>
+<name>Llanuwchllyn</name>
+<lat>52.84924</lat>
+<lng>-3.69857</lng>
+<geonameId>7295215</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC045</adminCode3>
+<adminName3>Llanuwchllyn</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.8178</west>
+<north>52.91154</north>
+<east>-3.57935</east>
+<south>52.78694</south>
+</bbox>
+<score>113.17670440673828</score>
+</geoname>
+<geoname>
+<toponymName>Llanuwchllyn</toponymName>
+<name>Llanuwchllyn</name>
+<lat>52.85468</lat>
+<lng>-3.66789</lng>
+<geonameId>2643930</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanuwchllyn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC045</adminCode3>
+<adminName3>Llanuwchllyn</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanuwchllyn</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.68279</west>
+<north>52.86368</north>
+<east>-3.65299</east>
+<south>52.84569</south>
+</bbox>
+<score>107.3292007446289</score>
+</geoname>
+<geoname>
+<toponymName>Llanuwchllyn</toponymName>
+<name>Llanuwchllyn</name>
+<lat>52.85612</lat>
+<lng>-3.66419</lng>
+<geonameId>7671112</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>MTRO</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>metro station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC045</adminCode3>
+<adminName3>Llanuwchllyn</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>20.383541107177734</score>
+</geoname>
+</geonames>

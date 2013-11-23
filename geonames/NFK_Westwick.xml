@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Westwick</toponymName>
+<name>Westwick</name>
+<lat>54.09067</lat>
+<lng>-1.46385</lng>
+<geonameId>7297844</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UD</adminCode3>
+<adminName3>Harrogate District</adminName3>
+<adminCode4>36UD138</adminCode4>
+<adminName4>Westwick</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.4733</west>
+<north>54.0992</north>
+<east>-1.4544</east>
+<south>54.08214</south>
+</bbox>
+<score>73.9520263671875</score>
+</geoname>
+<geoname>
+<toponymName>Westwick</toponymName>
+<name>Westwick</name>
+<lat>54.53844</lat>
+<lng>-1.88306</lng>
+<geonameId>7293147</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ122</adminCode3>
+<adminName3>Westwick</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Westwick%2C_County_Durham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.90816</west>
+<north>54.55291</north>
+<east>-1.85795</east>
+<south>54.52397</south>
+</bbox>
+<score>65.58110809326172</score>
+</geoname>
+<geoname>
+<toponymName>Westwick</toponymName>
+<name>Westwick</name>
+<lat>52.78678</lat>
+<lng>1.37905</lng>
+<geonameId>7296606</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF114</adminCode4>
+<adminName4>Westwick</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Westwick%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.35974</west>
+<north>52.80207</north>
+<east>1.39837</east>
+<south>52.7715</south>
+</bbox>
+<score>50.47185516357422</score>
+</geoname>
+</geonames>

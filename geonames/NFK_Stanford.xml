@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>Stanford</toponymName>
+<name>Stanford</name>
+<lat>52.51667</lat>
+<lng>0.73333</lng>
+<geonameId>2637091</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Stanford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stanford%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.71855</west>
+<north>52.52566</north>
+<east>0.74812</east>
+<south>52.50767</south>
+</bbox>
+<score>71.90948486328125</score>
+</geoname>
+<geoname>
+<toponymName>Stanford-le-Hope</toponymName>
+<name>Stanford</name>
+<lat>51.52274</lat>
+<lng>0.43422</lng>
+<geonameId>2637087</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6630</population>
+<alternateNames>Stanford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<alternateName lang="en">Stanford</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stanford-le-Hope</alternateName>
+<alternateName lang="unlc">OPE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.41805</west>
+<north>51.53279</north>
+<east>0.45038</east>
+<south>51.51268</south>
+</bbox>
+<score>55.80216979980469</score>
+</geoname>
+<geoname>
+<toponymName>Stanford</toponymName>
+<name>Stanford</name>
+<lat>52.5062</lat>
+<lng>0.72179</lng>
+<geonameId>7290855</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<adminCode4>33UB094</adminCode4>
+<adminName4>Stanford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.68389</west>
+<north>52.54229</north>
+<east>0.7597</east>
+<south>52.47011</south>
+</bbox>
+<score>55.64215087890625</score>
+</geoname>
+<geoname>
+<toponymName>Stanford</toponymName>
+<name>Stanford</name>
+<lat>52.41014</lat>
+<lng>-1.1243</lng>
+<geonameId>7301952</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<adminCode4>34UC060</adminCode4>
+<adminName4>Stanford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.16149</west>
+<north>52.42481</north>
+<east>-1.08712</east>
+<south>52.39546</south>
+</bbox>
+<score>55.64215087890625</score>
+</geoname>
+<geoname>
+<toponymName>Stanford on Teme</toponymName>
+<name>Stanford on Teme</name>
+<lat>52.29016</lat>
+<lng>-2.43627</lng>
+<geonameId>2637084</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Stanford,Stanford on Teme</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UC</adminCode3>
+<adminName3>Malvern Hills District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stanford-on-Teme</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.45098</west>
+<north>52.29915</north>
+<east>-2.42156</east>
+<south>52.28116</south>
+</bbox>
+<score>46.058494567871094</score>
+</geoname>
+<geoname>
+<toponymName>Stanford on Avon</toponymName>
+<name>Stanford on Avon</name>
+<lat>52.4</lat>
+<lng>-1.13333</lng>
+<geonameId>2637086</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Stanford,Stanford on Avon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stanford-on-Avon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.14808</west>
+<north>52.40899</north>
+<east>-1.11859</east>
+<south>52.39101</south>
+</bbox>
+<score>45.51753234863281</score>
+</geoname>
+<geoname>
+<toponymName>Stanford</toponymName>
+<name>Stanford</name>
+<lat>51.10228</lat>
+<lng>1.03984</lng>
+<geonameId>2637092</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>6945806</adminCode3>
+<adminName3>Shepway District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.02551</west>
+<north>51.11128</north>
+<east>1.05416</east>
+<south>51.09329</south>
+</bbox>
+<score>44.19842529296875</score>
+</geoname>
+<geoname>
+<toponymName>Stanford on Soar</toponymName>
+<name>Stanford on Soar</name>
+<lat>52.79186</lat>
+<lng>-1.19596</lng>
+<geonameId>2637085</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Stanford,Stanford on Soar,Stanford-upon-Soar</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stanford_on_Soar</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.21084</west>
+<north>52.80086</north>
+<east>-1.18109</east>
+<south>52.78287</south>
+</bbox>
+<score>41.984947204589844</score>
+</geoname>
+<geoname>
+<toponymName>Stanford</toponymName>
+<name>Stanford</name>
+<lat>51.0994</lat>
+<lng>1.03213</lng>
+<geonameId>7295318</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stanford%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>39.61532211303711</score>
+</geoname>
+</geonames>

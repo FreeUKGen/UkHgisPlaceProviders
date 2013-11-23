@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Flimby</toponymName>
+<name>Flimby</name>
+<lat>54.68956</lat>
+<lng>-3.52092</lng>
+<geonameId>2649304</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1672</population>
+<alternateNames>Flimby</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UB</adminCode3>
+<adminName3>Allerdale District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Flimby</alternateName>
+<alternateName lang="unlc">FBY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.5287</west>
+<north>54.69405</north>
+<east>-3.51314</east>
+<south>54.68506</south>
+</bbox>
+<score>108.59900665283203</score>
+</geoname>
+</geonames>

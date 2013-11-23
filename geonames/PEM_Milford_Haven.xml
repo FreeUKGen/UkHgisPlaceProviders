@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Milford Haven</toponymName>
+<name>Milford Haven</name>
+<lat>51.71278</lat>
+<lng>-5.0341</lng>
+<geonameId>2642534</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>12972</population>
+<alternateNames>Aberdaugleddau,Milford,Milford Haven,Milford Heivenas,Milford Khejvun,Милфорд Хейвън</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS045</adminCode3>
+<adminName3>Milford Haven</adminName3>
+<alternateName lang="bg">Милфорд Хейвън</alternateName>
+<alternateName lang="cy">Aberdaugleddau</alternateName>
+<alternateName lang="en">Milford Haven</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Milford_Haven</alternateName>
+<alternateName lang="lt">Milford Heivenas</alternateName>
+<alternateName lang="unlc">MLF</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.05706</west>
+<north>51.727</north>
+<east>-5.01115</east>
+<south>51.69856</south>
+</bbox>
+<score>106.10210418701172</score>
+</geoname>
+<geoname>
+<toponymName>Milford Haven</toponymName>
+<name>Milford Haven</name>
+<lat>51.72071</lat>
+<lng>-5.03444</lng>
+<geonameId>7296308</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS045</adminCode3>
+<adminName3>Milford Haven</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.07814</west>
+<north>51.74198</north>
+<east>-4.99075</east>
+<south>51.69944</south>
+</bbox>
+<score>86.36583709716797</score>
+</geoname>
+<geoname>
+<toponymName>Milford Haven</toponymName>
+<name>Milford Haven</name>
+<lat>51.7</lat>
+<lng>-5.11667</lng>
+<geonameId>2642535</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>H</fcl>
+<fcode>BAY</fcode>
+<fclName>stream, lake, ...</fclName>
+<fcodeName>bay</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>16.681255340576172</score>
+</geoname>
+</geonames>

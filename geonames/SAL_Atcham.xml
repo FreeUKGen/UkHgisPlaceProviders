@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Atcham</toponymName>
+<name>Atcham</name>
+<lat>52.6829</lat>
+<lng>-2.6924</lng>
+<geonameId>7297088</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG016</adminCode3>
+<adminName3>Atcham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.72757</west>
+<north>52.70209</north>
+<east>-2.65724</east>
+<south>52.66371</south>
+</bbox>
+<score>114.42648315429688</score>
+</geoname>
+<geoname>
+<toponymName>Atcham</toponymName>
+<name>Atcham</name>
+<lat>52.67964</lat>
+<lng>-2.67975</lng>
+<geonameId>2656852</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Atcham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG016</adminCode3>
+<adminName3>Atcham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Atcham</alternateName>
+<alternateName lang="unlc">ATM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.69458</west>
+<north>52.68863</north>
+<east>-2.66491</east>
+<south>52.67064</south>
+</bbox>
+<score>93.74181365966797</score>
+</geoname>
+</geonames>

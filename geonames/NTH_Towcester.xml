@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Towcester</toponymName>
+<name>Towcester</name>
+<lat>52.13359</lat>
+<lng>-0.99057</lng>
+<geonameId>2635597</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8253</population>
+<alternateNames>Toustur,Тоустър</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<alternateName lang="bg">Тоустър</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Towcester</alternateName>
+<alternateName lang="unlc">TOW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.00852</west>
+<north>52.14461</north>
+<east>-0.97262</east>
+<south>52.12258</south>
+</bbox>
+<score>86.28671264648438</score>
+</geoname>
+<geoname>
+<toponymName>Towcester</toponymName>
+<name>Towcester</name>
+<lat>52.13456</lat>
+<lng>-1.00274</lng>
+<geonameId>7295757</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<adminCode4>34UG066</adminCode4>
+<adminName4>Towcester</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.03535</west>
+<north>52.16501</north>
+<east>-0.97013</east>
+<south>52.10411</south>
+</bbox>
+<score>82.2243881225586</score>
+</geoname>
+</geonames>

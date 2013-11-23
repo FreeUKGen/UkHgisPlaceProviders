@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Huntington</toponymName>
+<name>Huntington</name>
+<lat>52.16945</lat>
+<lng>-3.09001</lng>
+<geonameId>7294514</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA099</adminCode3>
+<adminName3>Huntington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.12243</west>
+<north>52.18422</north>
+<east>-3.05758</east>
+<south>52.15469</south>
+</bbox>
+<score>71.40939331054688</score>
+</geoname>
+<geoname>
+<toponymName>Huntington</toponymName>
+<name>Huntington</name>
+<lat>53.9886</lat>
+<lng>-1.06404</lng>
+<geonameId>7299720</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q5</adminCode2>
+<adminName2>York City</adminName2>
+<adminCode3>00FF017</adminCode3>
+<adminName3>Huntington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.07305</west>
+<north>54.00695</north>
+<east>-1.01508</east>
+<south>53.97676</south>
+</bbox>
+<score>71.40939331054688</score>
+</geoname>
+<geoname>
+<toponymName>Huntington</toponymName>
+<name>Huntington</name>
+<lat>53.16333</lat>
+<lng>-2.86295</lng>
+<geonameId>7294402</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW086</adminCode3>
+<adminName3>Huntington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Huntington%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.8818</west>
+<north>53.18061</north>
+<east>-2.84409</east>
+<south>53.14605</south>
+</bbox>
+<score>47.96001434326172</score>
+</geoname>
+<geoname>
+<toponymName>Huntington</toponymName>
+<name>Huntington</name>
+<lat>54</lat>
+<lng>-1.05</lng>
+<geonameId>2646386</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q5</adminCode2>
+<adminName2>York City</adminName2>
+<adminCode3>00FF017</adminCode3>
+<adminName3>Huntington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Huntington%2C_City_of_York</alternateName>
+<alternateName lang="unlc">YON</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.08062</west>
+<north>54.01799</north>
+<east>-1.01938</east>
+<south>53.98201</south>
+</bbox>
+<score>46.155609130859375</score>
+</geoname>
+<geoname>
+<toponymName>Huntington</toponymName>
+<name>Huntington</name>
+<lat>52.18333</lat>
+<lng>-3.1</lng>
+<geonameId>2646388</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.11467</west>
+<north>52.19233</north>
+<east>-3.08533</east>
+<south>52.17434</south>
+</bbox>
+<score>41.042022705078125</score>
+</geoname>
+<geoname>
+<toponymName>Huntington</toponymName>
+<name>Huntington</name>
+<lat>52.7</lat>
+<lng>-2.03333</lng>
+<geonameId>2646387</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Huntington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UB</adminCode3>
+<adminName3>Cannock Chase</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.04818</west>
+<north>52.70899</north>
+<east>-2.01849</east>
+<south>52.69101</south>
+</bbox>
+<score>38.10424041748047</score>
+</geoname>
+<geoname>
+<toponymName>Huntington</toponymName>
+<name>Huntington</name>
+<lat>52.71838</lat>
+<lng>-2.04459</lng>
+<geonameId>7297251</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UF</adminCode3>
+<adminName3>South Staffordshire District</adminName3>
+<adminCode4>41UF017</adminCode4>
+<adminName4>Huntington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Huntington%2C_Staffordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.06396</west>
+<north>52.73499</north>
+<east>-2.02523</east>
+<south>52.70176</south>
+</bbox>
+<score>37.285369873046875</score>
+</geoname>
+</geonames>

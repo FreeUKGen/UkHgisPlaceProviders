@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Lowick</toponymName>
+<name>Lowick</name>
+<lat>55.6353</lat>
+<lng>-1.97804</lng>
+<geonameId>7291800</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM102</adminCode3>
+<adminName3>Lowick</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.06104</west>
+<north>55.67108</north>
+<east>-1.89503</east>
+<south>55.59953</south>
+</bbox>
+<score>104.04657745361328</score>
+</geoname>
+<geoname>
+<toponymName>Lowick</toponymName>
+<name>Lowick</name>
+<lat>52.4</lat>
+<lng>-0.55</lng>
+<geonameId>2643483</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Lowick</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lowick%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.56474</west>
+<north>52.40899</north>
+<east>-0.53526</east>
+<south>52.39101</south>
+</bbox>
+<score>94.47987365722656</score>
+</geoname>
+<geoname>
+<toponymName>Lowick</toponymName>
+<name>Lowick</name>
+<lat>54.27044</lat>
+<lng>-3.08561</lng>
+<geonameId>6640233</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UG</adminCode3>
+<adminName3>South Lakeland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lowick%2C_Cumbria</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.10102</west>
+<north>54.27943</north>
+<east>-3.07021</east>
+<south>54.26144</south>
+</bbox>
+<score>78.99547576904297</score>
+</geoname>
+<geoname>
+<toponymName>Lowick</toponymName>
+<name>Lowick</name>
+<lat>52.41929</lat>
+<lng>-0.58844</lng>
+<geonameId>7296717</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<adminCode4>34UD031</adminCode4>
+<adminName4>Lowick</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.62499</west>
+<north>52.4445</north>
+<east>-0.55188</east>
+<south>52.39409</south>
+</bbox>
+<score>75.04025268554688</score>
+</geoname>
+<geoname>
+<toponymName>Lowick</toponymName>
+<name>Lowick</name>
+<lat>54.25562</lat>
+<lng>-3.10329</lng>
+<geonameId>7298898</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UG</adminCode3>
+<adminName3>South Lakeland District</adminName3>
+<adminCode4>16UG045</adminCode4>
+<adminName4>Lowick</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.13722</west>
+<north>54.27711</north>
+<east>-3.06936</east>
+<south>54.23412</south>
+</bbox>
+<score>75.04025268554688</score>
+</geoname>
+<geoname>
+<toponymName>Lowick</toponymName>
+<name>Lowick</name>
+<lat>55.63333</lat>
+<lng>-1.96667</lng>
+<geonameId>2643482</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM102</adminCode3>
+<adminName3>Lowick</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lowick%2C_Northumberland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.99855</west>
+<north>55.65132</north>
+<east>-1.93479</east>
+<south>55.61535</south>
+</bbox>
+<score>66.91893005371094</score>
+</geoname>
+</geonames>

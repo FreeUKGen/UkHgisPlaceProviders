@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hallaton</toponymName>
+<name>Hallaton</name>
+<lat>52.56107</lat>
+<lng>-0.8369</lng>
+<geonameId>2647624</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hallaton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UD</adminCode3>
+<adminName3>Harborough District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hallaton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.8517</west>
+<north>52.57006</north>
+<east>-0.82211</east>
+<south>52.55207</south>
+</bbox>
+<score>103.15608978271484</score>
+</geoname>
+<geoname>
+<toponymName>Hallaton</toponymName>
+<name>Hallaton</name>
+<lat>52.56721</lat>
+<lng>-0.84532</lng>
+<geonameId>7295421</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UD</adminCode3>
+<adminName3>Harborough District</adminName3>
+<adminCode4>31UD035</adminCode4>
+<adminName4>Hallaton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.87635</west>
+<north>52.58902</north>
+<east>-0.8143</east>
+<south>52.54541</south>
+</bbox>
+<score>78.21029663085938</score>
+</geoname>
+</geonames>

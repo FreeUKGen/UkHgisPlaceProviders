@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Brooke</toponymName>
+<name>Brooke</name>
+<lat>52.6422</lat>
+<lng>-0.75138</lng>
+<geonameId>7299052</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L4</adminCode2>
+<adminName2>Rutland</adminName2>
+<adminCode3>00FP010</adminCode3>
+<adminName3>Brooke</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.77714</west>
+<north>52.65504</north>
+<east>-0.72562</east>
+<south>52.62936</south>
+</bbox>
+<score>94.67927551269531</score>
+</geoname>
+<geoname>
+<toponymName>Brooke</toponymName>
+<name>Brooke</name>
+<lat>52.55</lat>
+<lng>1.38333</lng>
+<geonameId>2654567</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Brooke</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brooke%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.36854</west>
+<north>52.55899</north>
+<east>1.39813</east>
+<south>52.54101</south>
+</bbox>
+<score>88.31138610839844</score>
+</geoname>
+<geoname>
+<toponymName>Brooke</toponymName>
+<name>Brooke</name>
+<lat>52.53733</lat>
+<lng>1.37156</lng>
+<geonameId>7299012</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH017</adminCode4>
+<adminName4>Brooke</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.34336</west>
+<north>52.55725</north>
+<east>1.39975</east>
+<south>52.51741</south>
+</bbox>
+<score>68.37165832519531</score>
+</geoname>
+<geoname>
+<toponymName>Brooke</toponymName>
+<name>Brooke</name>
+<lat>52.64317</lat>
+<lng>-0.74638</lng>
+<geonameId>2654566</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L4</adminCode2>
+<adminName2>Rutland</adminName2>
+<adminCode3>00FP010</adminCode3>
+<adminName3>Brooke</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brooke%2C_Rutland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.77604</west>
+<north>52.66115</north>
+<east>-0.71673</east>
+<south>52.62518</south>
+</bbox>
+<score>62.522911071777344</score>
+</geoname>
+</geonames>

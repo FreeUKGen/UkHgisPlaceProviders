@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Calverton</toponymName>
+<name>Calverton</name>
+<lat>52.03445</lat>
+<lng>-0.84139</lng>
+<geonameId>7301830</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I6</adminCode2>
+<adminName2>Milton Keynes</adminName2>
+<adminCode3>00MG040</adminCode3>
+<adminName3>Calverton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.87181</west>
+<north>52.05005</north>
+<east>-0.81098</east>
+<south>52.01885</south>
+</bbox>
+<score>97.04713439941406</score>
+</geoname>
+<geoname>
+<toponymName>Calverton</toponymName>
+<name>Calverton</name>
+<lat>52.04119</lat>
+<lng>-0.85041</lng>
+<geonameId>2653961</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I6</adminCode2>
+<adminName2>Milton Keynes</adminName2>
+<adminCode3>00MG040</adminCode3>
+<adminName3>Calverton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Calverton%2C_Buckinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.87967</west>
+<north>52.05918</north>
+<east>-0.82116</east>
+<south>52.02321</south>
+</bbox>
+<score>62.84821319580078</score>
+</geoname>
+<geoname>
+<toponymName>Calverton</toponymName>
+<name>Calverton</name>
+<lat>53.03728</lat>
+<lng>-1.08263</lng>
+<geonameId>2653960</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Calverton,Claverton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UE</adminCode3>
+<adminName3>Gedling District</adminName3>
+<alternateName lang="unlc">CTX</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.09759</west>
+<north>53.04627</north>
+<east>-1.06767</east>
+<south>53.02828</south>
+</bbox>
+<score>60.22636795043945</score>
+</geoname>
+<geoname>
+<toponymName>Calverton</toponymName>
+<name>Calverton</name>
+<lat>53.05312</lat>
+<lng>-1.09529</lng>
+<geonameId>7300869</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UE</adminCode3>
+<adminName3>Gedling District</adminName3>
+<adminCode4>37UE003</adminCode4>
+<adminName4>Calverton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Calverton%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.13381</west>
+<north>53.078</north>
+<east>-1.05677</east>
+<south>53.02824</south>
+</bbox>
+<score>48.50337219238281</score>
+</geoname>
+</geonames>

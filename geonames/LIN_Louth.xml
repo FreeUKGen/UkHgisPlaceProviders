@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Louth</toponymName>
+<name>Louth</name>
+<lat>53.36664</lat>
+<lng>-0.00438</lng>
+<geonameId>2643553</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>16635</population>
+<alternateNames>Laut,Louth,Louth i Lincolnshire,Лаут</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Louth%2C_Lincolnshire</alternateName>
+<alternateName lang="nn">Louth i Lincolnshire</alternateName>
+<alternateName lang="ru">Лаут</alternateName>
+<alternateName lang="unlc">LOT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.03156</west>
+<north>53.38285</north>
+<east>0.02281</east>
+<south>53.35042</south>
+</bbox>
+<score>95.21142578125</score>
+</geoname>
+<geoname>
+<toponymName>Louth</toponymName>
+<name>Louth</name>
+<lat>53.36716</lat>
+<lng>-0.00014</lng>
+<geonameId>7301730</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC095</adminCode4>
+<adminName4>Louth</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.02935</west>
+<north>53.38839</north>
+<east>0.02906</east>
+<south>53.34594</south>
+</bbox>
+<score>75.80339050292969</score>
+</geoname>
+</geonames>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Dinnington</toponymName>
+<name>Dinnington</name>
+<lat>55.05902</lat>
+<lng>-1.67668</lng>
+<geonameId>7295606</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I7</adminCode2>
+<adminName2>Newcastle upon Tyne</adminName2>
+<adminCode3>00CJ002</adminCode3>
+<adminName3>Dinnington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.71375</west>
+<north>55.07938</north>
+<east>-1.63962</east>
+<south>55.03865</south>
+</bbox>
+<score>111.06085205078125</score>
+</geoname>
+<geoname>
+<toponymName>Dinnington</toponymName>
+<name>Dinnington</name>
+<lat>53.36667</lat>
+<lng>-1.2</lng>
+<geonameId>2651241</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1607</population>
+<alternateNames>Dinnington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L3</adminCode2>
+<adminName2>Rotherham</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dinnington</alternateName>
+<alternateName lang="post">S25</alternateName>
+<alternateName lang="unlc">DRT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.20754</west>
+<north>53.37116</north>
+<east>-1.19246</east>
+<south>53.36217</south>
+</bbox>
+<score>98.10157775878906</score>
+</geoname>
+<geoname>
+<toponymName>Dinnington</toponymName>
+<name>Dinnington</name>
+<lat>55.05428</lat>
+<lng>-1.67542</lng>
+<geonameId>2651240</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I7</adminCode2>
+<adminName2>Newcastle upon Tyne</adminName2>
+<adminCode3>00CJ002</adminCode3>
+<adminName3>Dinnington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dinnington%2C_Tyne_and_Wear</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.70683</west>
+<north>55.07227</north>
+<east>-1.644</east>
+<south>55.0363</south>
+</bbox>
+<score>70.80135345458984</score>
+</geoname>
+<geoname>
+<toponymName>Dinnington</toponymName>
+<name>Dinnington</name>
+<lat>50.90779</lat>
+<lng>-2.85298</lng>
+<geonameId>7301212</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD039</adminCode4>
+<adminName4>Dinnington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dinnington%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.86686</west>
+<north>50.91986</north>
+<east>-2.8391</east>
+<south>50.89572</south>
+</bbox>
+<score>54.46424865722656</score>
+</geoname>
+</geonames>

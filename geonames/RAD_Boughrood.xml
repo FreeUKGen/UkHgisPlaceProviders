@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Boughrood</toponymName>
+<name>Boughrood</name>
+<lat>52.03863</lat>
+<lng>-3.26845</lng>
+<geonameId>2655119</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN030</adminCode3>
+<adminName3>Glasbury</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boughrood</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.28308</west>
+<north>52.04762</north>
+<east>-3.25383</east>
+<south>52.02964</south>
+</bbox>
+<score>94.22109985351562</score>
+</geoname>
+</geonames>

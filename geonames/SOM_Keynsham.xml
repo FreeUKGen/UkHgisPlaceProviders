@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Keynsham</toponymName>
+<name>Keynsham</name>
+<lat>51.41387</lat>
+<lng>-2.4978</lng>
+<geonameId>2645733</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>15879</population>
+<alternateNames>Keynsham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA026</adminCode3>
+<adminName3>Keynsham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Keynsham</alternateName>
+<alternateName lang="unlc">KYS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.5238</west>
+<north>51.43009</north>
+<east>-2.47179</east>
+<south>51.39766</south>
+</bbox>
+<score>128.37673950195312</score>
+</geoname>
+<geoname>
+<toponymName>Keynsham</toponymName>
+<name>Keynsham</name>
+<lat>51.41251</lat>
+<lng>-2.49775</lng>
+<geonameId>7296076</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA026</adminCode3>
+<adminName3>Keynsham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.53484</west>
+<north>51.43478</north>
+<east>-2.46065</east>
+<south>51.39024</south>
+</bbox>
+<score>111.1416015625</score>
+</geoname>
+</geonames>

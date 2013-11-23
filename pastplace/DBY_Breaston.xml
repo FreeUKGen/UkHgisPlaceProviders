@@ -1,0 +1,46 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>4025</id>
+<name>BREASTON</name>
+<container>DERBYSHIRE</container>
+<lat>52.8956762358859</lat>
+<lon>-1.3151618672837</lon>
+<gazetteerText>BREASTON, a chapelry in Wilne parish, Derbyshire; on the Derby canal and the Midland railway, &#189; a mile NW of Sawley station, and 8 ESE of Derby. Post Town, Sawley, under Derby. Real property &#163;3,593. Pop., 709. Houses, 160. The property is much subdivided. The living is a rectory, united with the rectory of Risley, in the diocese of Lichfield. Value, &#163;350. Patron, the Bishop of Lichfield. The church is good; and there are two Methodist chapels, and charities &#163;16. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/DBY/Breaston/index.html</link>
+<link>http://en.wikipedia.org/wiki/Breaston</link>
+<link>http://www.geonames.org/7293260</link>
+</links>
+<unit>
+   <id>10017890</id>
+   <status>EP</status>
+   <name>BREASTON</name>
+</unit>
+<unit>
+   <id>10126745</id>
+   <status>Ch/CP</status>
+   <name>BREASTON</name>
+</unit>
+<nearByPlace>
+   <id>1774</id>
+   <name>HOPWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1822</id>
+   <name>RISLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4135</id>
+   <name>SAWLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4136</id>
+   <name>SHARDLOW</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4807</id>
+   <name>DRAYCOTT</name>
+</nearByPlace>
+</place>
+</results>

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>Farnham</toponymName>
+<name>Farnham</name>
+<lat>51.21433</lat>
+<lng>-0.79587</lng>
+<geonameId>2649660</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>36971</population>
+<alternateNames>Farnham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UL</adminCode3>
+<adminName3>Waverley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Farnham</alternateName>
+<alternateName lang="unlc">FAR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.83521</west>
+<north>51.23896</north>
+<east>-0.75652</east>
+<south>51.1897</south>
+</bbox>
+<score>111.1622314453125</score>
+</geoname>
+<geoname>
+<toponymName>Farnham</toponymName>
+<name>Farnham</name>
+<lat>52.19074</lat>
+<lng>1.45474</lng>
+<geonameId>2649658</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Farnham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UG</adminCode3>
+<adminName3>Suffolk Coastal District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Farnham%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.44007</west>
+<north>52.19973</north>
+<east>1.46942</east>
+<south>52.18174</south>
+</bbox>
+<score>81.29623413085938</score>
+</geoname>
+<geoname>
+<toponymName>Farnham</toponymName>
+<name>Farnham</name>
+<lat>50.93725</lat>
+<lng>-2.05676</lng>
+<geonameId>2649661</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Farnham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UE</adminCode3>
+<adminName3>North Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Farnham%2C_Dorset</alternateName>
+<alternateName lang="unlc">FDR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.07104</west>
+<north>50.94624</north>
+<east>-2.04249</east>
+<south>50.92825</south>
+</bbox>
+<score>70.52071380615234</score>
+</geoname>
+<geoname>
+<toponymName>Farnham</toponymName>
+<name>Farnham</name>
+<lat>51.90234</lat>
+<lng>0.14214</lng>
+<geonameId>2649659</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UQ</adminCode3>
+<adminName3>Uttlesford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Farnham%2C_Essex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.12756</west>
+<north>51.91134</north>
+<east>0.15671</east>
+<south>51.89335</south>
+</bbox>
+<score>68.27851867675781</score>
+</geoname>
+<geoname>
+<toponymName>Farnham</toponymName>
+<name>Farnham</name>
+<lat>50.93752</lat>
+<lng>-2.05848</lng>
+<geonameId>7291250</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UE</adminCode3>
+<adminName3>North Dorset District</adminName3>
+<adminCode4>19UE016</adminCode4>
+<adminName4>Farnham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.10026</west>
+<north>50.9519</north>
+<east>-2.05295</east>
+<south>50.91942</south>
+</bbox>
+<score>63.72795486450195</score>
+</geoname>
+<geoname>
+<toponymName>Farnham</toponymName>
+<name>Farnham</name>
+<lat>51.89925</lat>
+<lng>0.15075</lng>
+<geonameId>7293551</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UQ</adminCode3>
+<adminName3>Uttlesford District</adminName3>
+<adminCode4>22UQ014</adminCode4>
+<adminName4>Farnham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.12174</west>
+<north>51.9146</north>
+<east>0.17976</east>
+<south>51.88391</south>
+</bbox>
+<score>63.72795486450195</score>
+</geoname>
+<geoname>
+<toponymName>Farnham</toponymName>
+<name>Farnham</name>
+<lat>52.17988</lat>
+<lng>1.46741</lng>
+<geonameId>7297339</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UG</adminCode3>
+<adminName3>Suffolk Coastal District</adminName3>
+<adminCode4>42UG040</adminCode4>
+<adminName4>Farnham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.44663</west>
+<north>52.19255</north>
+<east>1.48818</east>
+<south>52.16721</south>
+</bbox>
+<score>63.72795486450195</score>
+</geoname>
+<geoname>
+<toponymName>Farnham</toponymName>
+<name>Farnham</name>
+<lat>51.21028</lat>
+<lng>-0.79526</lng>
+<geonameId>7297365</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UL</adminCode3>
+<adminName3>Waverley District</adminName3>
+<adminCode4>43UL010</adminCode4>
+<adminName4>Farnham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.84893</west>
+<north>51.24506</north>
+<east>-0.7416</east>
+<south>51.17549</south>
+</bbox>
+<score>63.72795486450195</score>
+</geoname>
+<geoname>
+<toponymName>Farnham</toponymName>
+<name>Farnham</name>
+<lat>54.03878</lat>
+<lng>-1.45995</lng>
+<geonameId>7302022</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UD</adminCode3>
+<adminName3>Harrogate District</adminName3>
+<adminCode4>36UD035</adminCode4>
+<adminName4>Farnham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Farnham%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.48557</west>
+<north>54.05003</north>
+<east>-1.43433</east>
+<south>54.02753</south>
+</bbox>
+<score>44.66348648071289</score>
+</geoname>
+</geonames>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Crayford</toponymName>
+<name>Crayford</name>
+<lat>51.45187</lat>
+<lng>0.17921</lng>
+<geonameId>2652046</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UD</adminCode3>
+<adminName3>Dartford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Crayford</alternateName>
+<alternateName lang="unlc">CRY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.16478</west>
+<north>51.46086</north>
+<east>0.19365</east>
+<south>51.44287</south>
+</bbox>
+<score>86.63896179199219</score>
+</geoname>
+</geonames>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Horsham</toponymName>
+<name>Horsham</name>
+<lat>51.06395</lat>
+<lng>-0.32719</lng>
+<geonameId>2646557</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>50680</population>
+<alternateNames>Horsham,Khorsham,Khorshehm,Khorshum,West Horsham,hwrsham,Хоршам,Хоршъм,Хоршэм,هورشام</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UF</adminCode3>
+<adminName3>Horsham District</adminName3>
+<alternateName lang="bg">Хоршъм</alternateName>
+<alternateName lang="fa">هورشام</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Horsham</alternateName>
+<alternateName lang="ru">Хоршэм</alternateName>
+<alternateName lang="sr">Хоршам</alternateName>
+<alternateName lang="unlc">HOH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.37359</west>
+<north>51.09309</north>
+<east>-0.28079</east>
+<south>51.0348</south>
+</bbox>
+<score>94.71463012695312</score>
+</geoname>
+<geoname>
+<toponymName>Horsham Saint Faith</toponymName>
+<name>Horsham Saint Faith</name>
+<lat>52.68333</lat>
+<lng>1.28333</lng>
+<geonameId>2646556</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Horsham,Horsham Saint Faith</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Horsham_St_Faith</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.26849</west>
+<north>52.69233</north>
+<east>1.29817</east>
+<south>52.67434</south>
+</bbox>
+<score>53.846290588378906</score>
+</geoname>
+</geonames>

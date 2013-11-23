@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Falstone</toponymName>
+<name>Falstone</name>
+<lat>55.18187</lat>
+<lng>-2.43459</lng>
+<geonameId>7302001</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM058</adminCode3>
+<adminName3>Falstone</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.6357</west>
+<north>55.24788</north>
+<east>-2.38699</east>
+<south>55.12304</south>
+</bbox>
+<score>113.40838623046875</score>
+</geoname>
+<geoname>
+<toponymName>Falstone</toponymName>
+<name>Falstone</name>
+<lat>55.18083</lat>
+<lng>-2.43604</lng>
+<geonameId>2649713</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Falstone</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM058</adminCode3>
+<adminName3>Falstone</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Falstone</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.4518</west>
+<north>55.18982</north>
+<east>-2.42029</east>
+<south>55.17184</south>
+</bbox>
+<score>107.9564208984375</score>
+</geoname>
+</geonames>

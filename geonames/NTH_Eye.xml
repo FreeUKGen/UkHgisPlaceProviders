@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Eye</toponymName>
+<name>Eye</name>
+<lat>52.61926</lat>
+<lng>-0.18631</lng>
+<geonameId>7299972</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K3</adminCode2>
+<adminName2>Peterborough</adminName2>
+<adminCode3>00JA009</adminCode3>
+<adminName3>Eye</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.22644</west>
+<north>52.64749</north>
+<east>-0.14619</east>
+<south>52.59104</south>
+</bbox>
+<score>95.02577209472656</score>
+</geoname>
+<geoname>
+<toponymName>Eye</toponymName>
+<name>Eye</name>
+<lat>52.608</lat>
+<lng>-0.19209</lng>
+<geonameId>2649788</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>2875</population>
+<alternateNames>Eye</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K3</adminCode2>
+<adminName2>Peterborough</adminName2>
+<adminCode3>00JA009</adminCode3>
+<adminName3>Eye</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eye%2C_Cambridgeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.20256</west>
+<north>52.61436</north>
+<east>-0.18162</east>
+<south>52.60164</south>
+</bbox>
+<score>90.47744750976562</score>
+</geoname>
+<geoname>
+<toponymName>Eye</toponymName>
+<name>Eye</name>
+<lat>52.32055</lat>
+<lng>1.14618</lng>
+<geonameId>2649789</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Eye</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eye%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.13147</west>
+<north>52.32954</north>
+<east>1.1609</east>
+<south>52.31155</south>
+</bbox>
+<score>90.47744750976562</score>
+</geoname>
+<geoname>
+<toponymName>Eye</toponymName>
+<name>Eye</name>
+<lat>52.31588</lat>
+<lng>1.15505</lng>
+<geonameId>7297293</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<adminCode4>42UE034</adminCode4>
+<adminName4>Eye</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.10996</west>
+<north>52.33857</north>
+<east>1.20015</east>
+<south>52.29319</south>
+</bbox>
+<score>68.70195007324219</score>
+</geoname>
+<geoname>
+<toponymName>Eye</toponymName>
+<name>Eye</name>
+<lat>52.26667</lat>
+<lng>-2.73333</lng>
+<geonameId>2649790</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.74803</west>
+<north>52.27566</north>
+<east>-2.71863</east>
+<south>52.25767</south>
+</bbox>
+<score>54.57590866088867</score>
+</geoname>
+</geonames>

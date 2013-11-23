@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llanfihangel Bachellaeth</toponymName>
+<name>Llanfihangel Bachellaeth</name>
+<lat>52.88333</lat>
+<lng>-4.51667</lng>
+<geonameId>2644070</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanfihangel,Llanfihangel Bachellaeth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanfihangel_Bachellaeth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.53157</west>
+<north>52.89233</north>
+<east>-4.50176</east>
+<south>52.87434</south>
+</bbox>
+<score>94.6755599975586</score>
+</geoname>
+</geonames>

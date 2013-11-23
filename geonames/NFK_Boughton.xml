@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Boughton</toponymName>
+<name>Boughton</name>
+<lat>53.2</lat>
+<lng>-0.98333</lng>
+<geonameId>2655117</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>10120</population>
+<alternateNames>Boughton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boughton%2C_Nottinghamshire</alternateName>
+<alternateName lang="unlc">GBO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.00457</west>
+<north>53.21272</north>
+<east>-0.96209</east>
+<south>53.18728</south>
+</bbox>
+<score>114.47444152832031</score>
+</geoname>
+<geoname>
+<toponymName>Boughton</toponymName>
+<name>Boughton</name>
+<lat>52.28333</lat>
+<lng>-0.9</lng>
+<geonameId>2655118</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Boughton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boughton%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.9147</west>
+<north>52.29233</north>
+<east>-0.8853</east>
+<south>52.27434</south>
+</bbox>
+<score>94.50992584228516</score>
+</geoname>
+<geoname>
+<toponymName>Boughton</toponymName>
+<name>Boughton</name>
+<lat>52.28421</lat>
+<lng>-0.89892</lng>
+<geonameId>7296696</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<adminCode4>34UC006</adminCode4>
+<adminName4>Boughton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.92606</west>
+<north>52.29479</north>
+<east>-0.87178</east>
+<south>52.27363</south>
+</bbox>
+<score>74.06942749023438</score>
+</geoname>
+<geoname>
+<toponymName>Boughton</toponymName>
+<name>Boughton</name>
+<lat>52.59367</lat>
+<lng>0.51753</lng>
+<geonameId>7295652</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<adminCode4>33UE007</adminCode4>
+<adminName4>Boughton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boughton%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.49683</west>
+<north>52.60881</north>
+<east>0.53823</east>
+<south>52.57852</south>
+</bbox>
+<score>51.76397705078125</score>
+</geoname>
+<geoname>
+<toponymName>Boughton</toponymName>
+<name>Boughton</name>
+<lat>52.26744</lat>
+<lng>-0.24656</lng>
+<geonameId>6287768</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>18.517356872558594</score>
+</geoname>
+</geonames>

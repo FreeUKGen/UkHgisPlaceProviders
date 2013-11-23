@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Penllech</toponymName>
+<name>Penllech</name>
+<lat>52.87809</lat>
+<lng>-4.64578</lng>
+<geonameId>2640457</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC061</adminCode3>
+<adminName3>Tudweiliog</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Penllech</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.66069</west>
+<north>52.88709</north>
+<east>-4.63088</east>
+<south>52.8691</south>
+</bbox>
+<score>94.22109985351562</score>
+</geoname>
+</geonames>

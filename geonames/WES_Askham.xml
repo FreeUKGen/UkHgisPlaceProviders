@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Askham</toponymName>
+<name>Askham</name>
+<lat>53.26667</lat>
+<lng>-0.88333</lng>
+<geonameId>2656904</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Askham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Askham%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.89837</west>
+<north>53.27566</north>
+<east>-0.86829</east>
+<south>53.25767</south>
+</bbox>
+<score>97.68592834472656</score>
+</geoname>
+<geoname>
+<toponymName>Askham</toponymName>
+<name>Askham</name>
+<lat>54.60668</lat>
+<lng>-2.75311</lng>
+<geonameId>2656903</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UF</adminCode3>
+<adminName3>Eden District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Askham%2C_Cumbria</alternateName>
+<alternateName lang="unlc">ASQ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.76864</west>
+<north>54.61567</north>
+<east>-2.73757</east>
+<south>54.59768</south>
+</bbox>
+<score>81.62953186035156</score>
+</geoname>
+<geoname>
+<toponymName>Askham</toponymName>
+<name>Askham</name>
+<lat>53.27359</lat>
+<lng>-0.88388</lng>
+<geonameId>7293920</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<adminCode4>37UC001</adminCode4>
+<adminName4>Askham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.91025</west>
+<north>53.28464</north>
+<east>-0.8575</east>
+<south>53.26255</south>
+</bbox>
+<score>77.79998779296875</score>
+</geoname>
+<geoname>
+<toponymName>Askham</toponymName>
+<name>Askham</name>
+<lat>54.5907</lat>
+<lng>-2.79215</lng>
+<geonameId>7298078</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UF</adminCode3>
+<adminName3>Eden District</adminName3>
+<adminCode4>16UF005</adminCode4>
+<adminName4>Askham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.84063</west>
+<north>54.62633</north>
+<east>-2.74367</east>
+<south>54.55508</south>
+</bbox>
+<score>77.79998779296875</score>
+</geoname>
+</geonames>

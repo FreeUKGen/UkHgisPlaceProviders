@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Little Hulton</toponymName>
+<name>Little Hulton</name>
+<lat>53.53333</lat>
+<lng>-2.41667</lng>
+<geonameId>2644305</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>10216</population>
+<alternateNames>Little Hulton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L5</adminCode2>
+<adminName2>Salford</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Little_Hulton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.43807</west>
+<north>53.54605</north>
+<east>-2.39526</east>
+<south>53.52061</south>
+</bbox>
+<score>120.39823150634766</score>
+</geoname>
+</geonames>

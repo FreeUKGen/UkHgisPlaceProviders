@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Portskewett</toponymName>
+<name>Portskewett</name>
+<lat>51.58798</lat>
+<lng>-2.70972</lng>
+<geonameId>7301135</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP026</adminCode3>
+<adminName3>Portskewett</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.74148</west>
+<north>51.61208</north>
+<east>-2.67796</east>
+<south>51.56389</south>
+</bbox>
+<score>108.65621948242188</score>
+</geoname>
+<geoname>
+<toponymName>Portskewett</toponymName>
+<name>Portskewett</name>
+<lat>51.59172</lat>
+<lng>-2.71724</lng>
+<geonameId>2639999</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Portskewet,Portskewett</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP026</adminCode3>
+<adminName3>Portskewett</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Portskewett</alternateName>
+<alternateName lang="unlc">PRK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.73172</west>
+<north>51.60071</north>
+<east>-2.70276</east>
+<south>51.58272</south>
+</bbox>
+<score>90.91254425048828</score>
+</geoname>
+</geonames>

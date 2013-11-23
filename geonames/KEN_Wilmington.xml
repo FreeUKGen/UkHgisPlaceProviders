@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Wilmington</toponymName>
+<name>Wilmington</name>
+<lat>51.43181</lat>
+<lng>0.19003</lng>
+<geonameId>2633885</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UD</adminCode3>
+<adminName3>Dartford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wilmington%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.1756</west>
+<north>51.4408</north>
+<east>0.20446</east>
+<south>51.42281</south>
+</bbox>
+<score>63.98273468017578</score>
+</geoname>
+<geoname>
+<toponymName>Wilmington</toponymName>
+<name>Wilmington</name>
+<lat>50.79367</lat>
+<lng>-3.12102</lng>
+<geonameId>6696486</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UB</adminCode3>
+<adminName3>East Devon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wilmington%2C_Devon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.13525</west>
+<north>50.80267</north>
+<east>-3.10679</east>
+<south>50.78468</south>
+</bbox>
+<score>63.98273468017578</score>
+</geoname>
+<geoname>
+<toponymName>Wilmington</toponymName>
+<name>Wilmington</name>
+<lat>51.42175</lat>
+<lng>0.19209</lng>
+<geonameId>7293744</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UD</adminCode3>
+<adminName3>Dartford District</adminName3>
+<adminCode4>29UD008</adminCode4>
+<adminName4>Wilmington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.15818</west>
+<north>51.4367</north>
+<east>0.226</east>
+<south>51.4068</south>
+</bbox>
+<score>58.37308120727539</score>
+</geoname>
+<geoname>
+<toponymName>Wilmington</toponymName>
+<name>Wilmington</name>
+<lat>50.81971</lat>
+<lng>0.19252</lng>
+<geonameId>2633886</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E2</adminCode2>
+<adminName2>East Sussex</adminName2>
+<adminCode3>21UH</adminCode3>
+<adminName3>Wealden District</adminName3>
+<alternateName lang="unlc">WMT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.17828</west>
+<north>50.8287</north>
+<east>0.20676</east>
+<south>50.81072</south>
+</bbox>
+<score>36.045013427734375</score>
+</geoname>
+</geonames>

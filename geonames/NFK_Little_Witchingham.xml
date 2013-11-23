@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Little Witchingham</toponymName>
+<name>Little Witchingham</name>
+<lat>52.74112</lat>
+<lng>1.13846</lng>
+<geonameId>7296659</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<adminCode4>33UC040</adminCode4>
+<adminName4>Little Witchingham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Little_Witchingham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.12429</west>
+<north>52.75151</north>
+<east>1.15264</east>
+<south>52.73072</south>
+</bbox>
+<score>53.7145881652832</score>
+</geoname>
+</geonames>

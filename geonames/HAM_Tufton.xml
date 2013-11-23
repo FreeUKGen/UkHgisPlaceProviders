@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Tufton</toponymName>
+<name>Tufton</name>
+<lat>51.21723</lat>
+<lng>-1.34522</lng>
+<geonameId>2635395</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UB</adminCode3>
+<adminName3>Basingstoke and Deane District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tufton%2C_Hampshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.35959</west>
+<north>51.22623</north>
+<east>-1.33086</east>
+<south>51.20824</south>
+</bbox>
+<score>82.73304748535156</score>
+</geoname>
+<geoname>
+<toponymName>Tufton</toponymName>
+<name>Tufton</name>
+<lat>51.91889</lat>
+<lng>-4.85056</lng>
+<geonameId>3345248</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<alternateName lang="unlc">TUO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.86514</west>
+<north>51.92788</north>
+<east>-4.83597</east>
+<south>51.9099</south>
+</bbox>
+<score>48.21055603027344</score>
+</geoname>
+</geonames>

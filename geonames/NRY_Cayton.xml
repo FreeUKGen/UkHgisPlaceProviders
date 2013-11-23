@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cayton</toponymName>
+<name>Cayton</name>
+<lat>54.23534</lat>
+<lng>-0.3828</lng>
+<geonameId>2653459</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UG</adminCode3>
+<adminName3>Scarborough District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cayton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.3982</west>
+<north>54.24433</north>
+<east>-0.36741</east>
+<south>54.22634</south>
+</bbox>
+<score>81.53671264648438</score>
+</geoname>
+<geoname>
+<toponymName>Cayton</toponymName>
+<name>Cayton</name>
+<lat>54.22926</lat>
+<lng>-0.37964</lng>
+<geonameId>7299254</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UG</adminCode3>
+<adminName3>Scarborough District</adminName3>
+<adminCode4>36UG007</adminCode4>
+<adminName4>Cayton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.40887</west>
+<north>54.24809</north>
+<east>-0.35041</east>
+<south>54.21043</south>
+</bbox>
+<score>71.88523864746094</score>
+</geoname>
+</geonames>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Williton</toponymName>
+<name>Williton</name>
+<lat>51.16083</lat>
+<lng>-3.32083</lng>
+<geonameId>2633894</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2657</population>
+<alternateNames>Williton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UF</adminCode3>
+<adminName3>West Somerset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Williton</alternateName>
+<alternateName lang="unlc">WIT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.33098</west>
+<north>51.16719</north>
+<east>-3.31069</east>
+<south>51.15447</south>
+</bbox>
+<score>98.51055908203125</score>
+</geoname>
+<geoname>
+<toponymName>Williton</toponymName>
+<name>Williton</name>
+<lat>51.16402</lat>
+<lng>-3.32034</lng>
+<geonameId>7291694</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UF</adminCode3>
+<adminName3>West Somerset District</adminName3>
+<adminCode4>40UF039</adminCode4>
+<adminName4>Williton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.35962</west>
+<north>51.18719</north>
+<east>-3.28106</east>
+<south>51.14085</south>
+</bbox>
+<score>73.45092010498047</score>
+</geoname>
+</geonames>

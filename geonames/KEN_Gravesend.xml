@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Gravesend</toponymName>
+<name>Gravesend</name>
+<lat>51.44138</lat>
+<lng>0.37371</lng>
+<geonameId>2648187</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>54263</population>
+<alternateNames>Gravesend,Grejvsend,ge lei fu sen de,geuleibeujendeu,Грейвсенд,Грејвсенд,格雷夫森德,그레이브젠드</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UG</adminCode3>
+<adminName3>Gravesham</adminName3>
+<alternateName lang="ko">그레이브젠드</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gravesend%2C_Kent</alternateName>
+<alternateName lang="ru">Грейвсенд</alternateName>
+<alternateName lang="sr">Грејвсенд</alternateName>
+<alternateName lang="unlc">GVS</alternateName>
+<alternateName lang="zh">格雷夫森德</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.32528</west>
+<north>51.47155</north>
+<east>0.42213</east>
+<south>51.41122</south>
+</bbox>
+<score>82.13893127441406</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Midsomer Norton</toponymName>
+<name>Midsomer Norton</name>
+<lat>51.28567</lat>
+<lng>-2.48591</lng>
+<geonameId>2642557</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>10458</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA033</adminCode3>
+<adminName3>Norton-Radstock</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Midsomer_Norton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.50626</west>
+<north>51.29839</north>
+<east>-2.46557</east>
+<south>51.27295</south>
+</bbox>
+<score>109.73023986816406</score>
+</geoname>
+</geonames>

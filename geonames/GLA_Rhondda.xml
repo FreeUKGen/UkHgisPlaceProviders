@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Rhondda</toponymName>
+<name>Rhondda</name>
+<lat>51.65896</lat>
+<lng>-3.44885</lng>
+<geonameId>2639447</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>59450</population>
+<alternateNames>Rhondda,Ronda,Y Rhondda,rwnta,Ронда,رونتا</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y9</adminCode2>
+<adminName2>County Borough of Rhondda Cynon Taff</adminName2>
+<adminCode3>00PF007</adminCode3>
+<adminName3>Ferndale</adminName3>
+<alternateName lang="cy">Y Rhondda</alternateName>
+<alternateName lang="en">Rhondda</alternateName>
+<alternateName lang="fa">رونتا</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rhondda</alternateName>
+<alternateName lang="sr">Ронда</alternateName>
+<alternateName lang="unlc">RHO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.49962</west>
+<north>51.69043</north>
+<east>-3.39807</east>
+<south>51.62748</south>
+</bbox>
+<score>128.84921264648438</score>
+</geoname>
+</geonames>

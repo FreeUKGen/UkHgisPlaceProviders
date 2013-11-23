@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Glyncorrwg</toponymName>
+<name>Glyncorrwg</name>
+<lat>51.67394</lat>
+<lng>-3.64345</lng>
+<geonameId>7292970</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y5</adminCode2>
+<adminName2>County Borough of Neath Port Talbot</adminName2>
+<adminCode3>00NZ015</adminCode3>
+<adminName3>Glyncorrwg</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Glyncorrwg</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.72504</west>
+<north>51.72083</north>
+<east>-3.56187</east>
+<south>51.62706</south>
+</bbox>
+<score>75.47218322753906</score>
+</geoname>
+<geoname>
+<toponymName>Glyncorrwg</toponymName>
+<name>Glyncorrwg</name>
+<lat>51.67944</lat>
+<lng>-3.62806</lng>
+<geonameId>2648390</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Glyncorrwg,Glyncorwg</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y5</adminCode2>
+<adminName2>County Borough of Neath Port Talbot</adminName2>
+<adminCode3>00NZ015</adminCode3>
+<adminName3>Glyncorrwg</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.65708</west>
+<north>51.69743</north>
+<east>-3.59904</east>
+<south>51.66146</south>
+</bbox>
+<score>65.25472259521484</score>
+</geoname>
+</geonames>

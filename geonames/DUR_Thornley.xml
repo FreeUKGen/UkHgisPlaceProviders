@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Thornley</toponymName>
+<name>Thornley</name>
+<lat>54.7443</lat>
+<lng>-1.44088</lng>
+<geonameId>7291403</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ113</adminCode3>
+<adminName3>Thornley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thornley%2C_Durham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.46543</west>
+<north>54.75634</north>
+<east>-1.41632</east>
+<south>54.73226</south>
+</bbox>
+<score>63.795013427734375</score>
+</geoname>
+<geoname>
+<toponymName>Thornley</toponymName>
+<name>Thornley</name>
+<lat>54.75</lat>
+<lng>-1.43333</lng>
+<geonameId>2635978</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>2582</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ113</adminCode3>
+<adminName3>Thornley</adminName3>
+<alternateName lang="unlc">NLE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.44435</west>
+<north>54.75636</north>
+<east>-1.42231</east>
+<south>54.74364</south>
+</bbox>
+<score>44.01753234863281</score>
+</geoname>
+</geonames>

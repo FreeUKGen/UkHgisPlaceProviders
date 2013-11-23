@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llangattock-Vibon-Avel</toponymName>
+<name>Llangattock-Vibon-Avel</name>
+<lat>51.85061</lat>
+<lng>-2.81069</lng>
+<geonameId>7294055</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP014</adminCode3>
+<adminName3>Llangattock-Vibon-Avel</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llangattock-Vibon-Avel</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.88385</west>
+<north>51.89893</north>
+<east>-2.73752</east>
+<south>51.80228</south>
+</bbox>
+<score>83.7228775024414</score>
+</geoname>
+</geonames>

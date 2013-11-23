@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Car Colston</toponymName>
+<name>Car Colston</name>
+<lat>52.9771</lat>
+<lng>-0.93122</lng>
+<geonameId>7299487</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<adminCode4>37UJ006</adminCode4>
+<adminName4>Car Colston</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Car_Colston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.95874</west>
+<north>52.99332</north>
+<east>-0.9037</east>
+<south>52.96088</south>
+</bbox>
+<score>54.134422302246094</score>
+</geoname>
+</geonames>

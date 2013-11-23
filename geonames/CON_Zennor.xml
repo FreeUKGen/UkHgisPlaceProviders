@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Zennor</toponymName>
+<name>Zennor</name>
+<lat>50.18845</lat>
+<lng>-5.57405</lng>
+<geonameId>7294457</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE213</adminCode3>
+<adminName3>Zennor</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.6218</west>
+<north>50.21454</north>
+<east>-5.52629</east>
+<south>50.16237</south>
+</bbox>
+<score>113.36953735351562</score>
+</geoname>
+<geoname>
+<toponymName>Zennor</toponymName>
+<name>Zennor</name>
+<lat>50.19057</lat>
+<lng>-5.56614</lng>
+<geonameId>2633324</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Zennor</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE213</adminCode3>
+<adminName3>Zennor</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Zennor</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.58019</west>
+<north>50.19956</north>
+<east>-5.55209</east>
+<south>50.18157</south>
+</bbox>
+<score>107.707763671875</score>
+</geoname>
+</geonames>

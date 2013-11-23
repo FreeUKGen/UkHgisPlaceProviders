@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Whalley</toponymName>
+<name>Whalley</name>
+<lat>53.82209</lat>
+<lng>-2.40712</lng>
+<geonameId>2634192</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3302</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UL</adminCode3>
+<adminName3>Ribble Valley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Whalley%2C_Lancashire</alternateName>
+<alternateName lang="unlc">AHY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.4179</west>
+<north>53.82845</north>
+<east>-2.39635</east>
+<south>53.81573</south>
+</bbox>
+<score>88.51957702636719</score>
+</geoname>
+<geoname>
+<toponymName>Whalley</toponymName>
+<name>Whalley</name>
+<lat>53.82105</lat>
+<lng>-2.40476</lng>
+<geonameId>7295382</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UL</adminCode3>
+<adminName3>Ribble Valley District</adminName3>
+<adminCode4>30UL046</adminCode4>
+<adminName4>Whalley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.43494</west>
+<north>53.83969</north>
+<east>-2.37457</east>
+<south>53.80241</south>
+</bbox>
+<score>75.21563720703125</score>
+</geoname>
+</geonames>

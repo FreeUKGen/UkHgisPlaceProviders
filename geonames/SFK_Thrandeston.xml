@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Thrandeston</toponymName>
+<name>Thrandeston</name>
+<lat>52.34583</lat>
+<lng>1.10492</lng>
+<geonameId>7292532</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<adminCode4>42UE102</adminCode4>
+<adminName4>Thrandeston</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thrandeston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.08018</west>
+<north>52.35866</north>
+<east>1.12966</east>
+<south>52.33301</south>
+</bbox>
+<score>61.74647521972656</score>
+</geoname>
+</geonames>

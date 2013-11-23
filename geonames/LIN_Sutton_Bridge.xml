@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Sutton Bridge</toponymName>
+<name>Sutton Bridge</name>
+<lat>52.76995</lat>
+<lng>0.1855</lng>
+<geonameId>2636487</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3119</population>
+<alternateNames>Sutton Bridge</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UF</adminCode3>
+<adminName3>South Holland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sutton_Bridge</alternateName>
+<alternateName lang="unlc">PSB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.17499</west>
+<north>52.77631</north>
+<east>0.19601</east>
+<south>52.76359</south>
+</bbox>
+<score>79.19490051269531</score>
+</geoname>
+<geoname>
+<toponymName>Sutton Bridge</toponymName>
+<name>Sutton Bridge</name>
+<lat>52.78179</lat>
+<lng>0.21301</lng>
+<geonameId>7301778</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UF</adminCode3>
+<adminName3>South Holland District</adminName3>
+<adminCode4>32UF017</adminCode4>
+<adminName4>Sutton Bridge</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.15303</west>
+<north>52.82826</north>
+<east>0.273</east>
+<south>52.73532</south>
+</bbox>
+<score>55.490779876708984</score>
+</geoname>
+</geonames>

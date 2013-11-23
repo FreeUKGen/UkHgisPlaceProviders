@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Basildon</toponymName>
+<name>Basildon</name>
+<lat>51.56844</lat>
+<lng>0.45782</lng>
+<geonameId>2656194</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>101362</population>
+<alternateNames>Basildon,Bazildon,Bazildonas,Bazildun,ba xi er deng,baejildeon,bzyldwn,Базилдон,Базилдън,Басилдон,بزیلدون,巴西爾登,배질던</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UB</adminCode3>
+<adminName3>Basildon District</adminName3>
+<alternateName lang="bg">Базилдън</alternateName>
+<alternateName lang="de">Basildon</alternateName>
+<alternateName lang="en">Basildon</alternateName>
+<alternateName lang="es">Basildon</alternateName>
+<alternateName lang="fa">بزیلدون</alternateName>
+<alternateName lang="fi">Basildon</alternateName>
+<alternateName lang="fr">Basildon</alternateName>
+<alternateName lang="it">Basildon</alternateName>
+<alternateName lang="ko">배질던</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Basildon</alternateName>
+<alternateName lang="lt">Bazildonas</alternateName>
+<alternateName lang="nl">Basildon</alternateName>
+<alternateName lang="no">Basildon</alternateName>
+<alternateName lang="pl">Basildon</alternateName>
+<alternateName lang="ru">Басилдон</alternateName>
+<alternateName lang="sk">Basildon</alternateName>
+<alternateName lang="sr">Базилдон</alternateName>
+<alternateName lang="sv">Basildon</alternateName>
+<alternateName lang="unlc">BAS</alternateName>
+<alternateName lang="zh">巴西爾登</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.39145</west>
+<north>51.60966</north>
+<east>0.52418</east>
+<south>51.52723</south>
+</bbox>
+<score>212.03964233398438</score>
+</geoname>
+<geoname>
+<toponymName>Basildon</toponymName>
+<name>Basildon</name>
+<lat>51.49249</lat>
+<lng>-1.13572</lng>
+<geonameId>7292712</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P4</adminCode2>
+<adminName2>West Berkshire</adminName2>
+<adminCode3>00MB004</adminCode3>
+<adminName3>Basildon</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.16864</west>
+<north>51.51354</north>
+<east>-1.1028</east>
+<south>51.47143</south>
+</bbox>
+<score>103.48338317871094</score>
+</geoname>
+<geoname>
+<toponymName>Basildon</toponymName>
+<name>Basildon</name>
+<lat>51.5</lat>
+<lng>-1.11667</lng>
+<geonameId>2656195</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P4</adminCode2>
+<adminName2>West Berkshire</adminName2>
+<adminCode3>00MB004</adminCode3>
+<adminName3>Basildon</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Basildon%2C_Berkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.14557</west>
+<north>51.51799</north>
+<east>-1.08776</east>
+<south>51.48201</south>
+</bbox>
+<score>66.41510009765625</score>
+</geoname>
+</geonames>

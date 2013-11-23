@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>Ashton</toponymName>
+<name>Ashton</name>
+<lat>52.46667</lat>
+<lng>-0.43333</lng>
+<geonameId>2656921</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ashton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ashton%2C_East_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.4481</west>
+<north>52.47566</north>
+<east>-0.41857</east>
+<south>52.45767</south>
+</bbox>
+<score>81.25816345214844</score>
+</geoname>
+<geoname>
+<toponymName>Ashton in Makerfield</toponymName>
+<name>Ashton in Makerfield</name>
+<lat>53.48333</lat>
+<lng>-2.65</lng>
+<geonameId>2656918</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>29039</population>
+<alternateNames>Ashton,Ashton in Makerfield</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N1</adminCode2>
+<adminName2>St. Helens</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ashton-in-Makerfield</alternateName>
+<alternateName lang="unlc">ASM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.68704</west>
+<north>53.50536</north>
+<east>-2.61296</east>
+<south>53.4613</south>
+</bbox>
+<score>77.14579772949219</score>
+</geoname>
+<geoname>
+<toponymName>Ashton</toponymName>
+<name>Ashton</name>
+<lat>52.48588</lat>
+<lng>-0.42621</lng>
+<geonameId>7300142</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<adminCode4>34UD003</adminCode4>
+<adminName4>Ashton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.46837</west>
+<north>52.49984</north>
+<east>-0.38405</east>
+<south>52.47193</south>
+</bbox>
+<score>63.257347106933594</score>
+</geoname>
+<geoname>
+<toponymName>Ashton-under-Lyne</toponymName>
+<name>Ashton-under-Lyne</name>
+<lat>53.48876</lat>
+<lng>-2.0989</lng>
+<geonameId>2656915</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>43675</population>
+<alternateNames>Ashton,Ashton-under-Lyne,Ehshton-ander-Lajn,Эштон-андер-Лайн</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O1</adminCode2>
+<adminName2>Tameside</adminName2>
+<alternateName lang="en">Ashton-under-Lyne</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ashton-under-Lyne</alternateName>
+<alternateName lang="nl">Ashton-under-Lyne</alternateName>
+<alternateName lang="ru">Эштон-андер-Лайн</alternateName>
+<alternateName lang="unlc">ASL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.14428</west>
+<north>53.51574</north>
+<east>-2.05353</east>
+<south>53.46178</south>
+</bbox>
+<score>62.83746337890625</score>
+</geoname>
+<geoname>
+<toponymName>Ashton</toponymName>
+<name>Ashton</name>
+<lat>53.21667</lat>
+<lng>-2.73333</lng>
+<geonameId>2656920</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.74836</west>
+<north>53.22566</north>
+<east>-2.71831</east>
+<south>53.20767</south>
+</bbox>
+<score>50.21878433227539</score>
+</geoname>
+<geoname>
+<toponymName>Ashton</toponymName>
+<name>Ashton</name>
+<lat>52.14197</lat>
+<lng>-0.88217</lng>
+<geonameId>2656922</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.89683</west>
+<north>52.15096</north>
+<east>-0.86751</east>
+<south>52.13298</south>
+</bbox>
+<score>50.21878433227539</score>
+</geoname>
+<geoname>
+<toponymName>Ashton</toponymName>
+<name>Ashton</name>
+<lat>50.65</lat>
+<lng>-3.61667</lng>
+<geonameId>2656923</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UH</adminCode3>
+<adminName3>Teignbridge District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.63085</west>
+<north>50.65899</north>
+<east>-3.60248</east>
+<south>50.64101</south>
+</bbox>
+<score>50.21878433227539</score>
+</geoname>
+<geoname>
+<toponymName>Ashton</toponymName>
+<name>Ashton</name>
+<lat>50.64725</lat>
+<lng>-3.61195</lng>
+<geonameId>7296738</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UH</adminCode3>
+<adminName3>Teignbridge District</adminName3>
+<adminCode4>18UH004</adminCode4>
+<adminName4>Ashton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ashton%2C_Devon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.64154</west>
+<north>50.66496</north>
+<east>-3.58235</east>
+<south>50.62954</south>
+</bbox>
+<score>44.83922576904297</score>
+</geoname>
+<geoname>
+<toponymName>Ashton</toponymName>
+<name>Ashton</name>
+<lat>52.14254</lat>
+<lng>-0.87192</lng>
+<geonameId>7301581</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<adminCode4>34UG003</adminCode4>
+<adminName4>Ashton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ashton%2C_South_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.90397</west>
+<north>52.15928</north>
+<east>-0.83987</east>
+<south>52.1258</south>
+</bbox>
+<score>44.83922576904297</score>
+</geoname>
+</geonames>

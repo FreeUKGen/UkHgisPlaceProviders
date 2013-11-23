@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Montgomery</toponymName>
+<name>Montgomery</name>
+<lat>52.56133</lat>
+<lng>-3.14612</lng>
+<geonameId>2642304</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1256</population>
+<alternateNames>Montgomery,Trefaldwyn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN086</adminCode3>
+<adminName3>Montgomery</adminName3>
+<alternateName lang="cy">Trefaldwyn</alternateName>
+<alternateName lang="en">Montgomery</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Montgomery%2C_Powys</alternateName>
+<alternateName lang="unlc">MTR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.15352</west>
+<north>52.56582</north>
+<east>-3.13873</east>
+<south>52.55683</south>
+</bbox>
+<score>80.76506042480469</score>
+</geoname>
+<geoname>
+<toponymName>Montgomery</toponymName>
+<name>Montgomery</name>
+<lat>52.5603</lat>
+<lng>-3.15378</lng>
+<geonameId>2642303</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Drefaldwyn,Montgomery</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN086</adminCode3>
+<adminName3>Montgomery</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Montgomeryshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.19607</west>
+<north>52.58725</north>
+<east>-3.11149</east>
+<south>52.53336</south>
+</bbox>
+<score>46.87144470214844</score>
+</geoname>
+</geonames>

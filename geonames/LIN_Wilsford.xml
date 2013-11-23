@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Wilsford</toponymName>
+<name>Wilsford</name>
+<lat>52.97568</lat>
+<lng>-0.50649</lng>
+<geonameId>6691628</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wilsford%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.52143</west>
+<north>52.98467</north>
+<east>-0.49155</east>
+<south>52.96668</south>
+</bbox>
+<score>76.66043090820312</score>
+</geoname>
+<geoname>
+<toponymName>Wilsford</toponymName>
+<name>Wilsford</name>
+<lat>52.97308</lat>
+<lng>-0.50439</lng>
+<geonameId>7299136</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<adminCode4>32UE074</adminCode4>
+<adminName4>Wilsford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.55411</west>
+<north>52.99202</north>
+<east>-0.45467</east>
+<south>52.95414</south>
+</bbox>
+<score>73.3128662109375</score>
+</geoname>
+<geoname>
+<toponymName>Wilsford</toponymName>
+<name>Wilsford</name>
+<lat>51.29066</lat>
+<lng>-1.87559</lng>
+<geonameId>7299373</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY242</adminCode3>
+<adminName3>Wilsford</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wilsford%2C_Wiltshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.90499</west>
+<north>51.32059</north>
+<east>-1.84619</east>
+<south>51.26072</south>
+</bbox>
+<score>64.97909545898438</score>
+</geoname>
+<geoname>
+<toponymName>Wilsford</toponymName>
+<name>Wilsford</name>
+<lat>51.3</lat>
+<lng>-1.85</lng>
+<geonameId>2633879</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Wilsford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY242</adminCode3>
+<adminName3>Wilsford</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.87878</west>
+<north>51.31799</north>
+<east>-1.82122</east>
+<south>51.28201</south>
+</bbox>
+<score>35.977439880371094</score>
+</geoname>
+</geonames>

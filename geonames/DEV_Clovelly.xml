@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Clovelly</toponymName>
+<name>Clovelly</name>
+<lat>50.99929</lat>
+<lng>-4.39845</lng>
+<geonameId>2652776</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Clovelly</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UK</adminCode3>
+<adminName3>Torridge District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clovelly</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.41274</west>
+<north>51.00829</north>
+<east>-4.38415</east>
+<south>50.9903</south>
+</bbox>
+<score>91.02125549316406</score>
+</geoname>
+<geoname>
+<toponymName>Clovelly</toponymName>
+<name>Clovelly</name>
+<lat>50.99092</lat>
+<lng>-4.40019</lng>
+<geonameId>7293353</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UK</adminCode3>
+<adminName3>Torridge District</adminName3>
+<adminCode4>18UK018</adminCode4>
+<adminName4>Clovelly</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.43599</west>
+<north>51.0149</north>
+<east>-4.36439</east>
+<south>50.96695</south>
+</bbox>
+<score>68.49134063720703</score>
+</geoname>
+</geonames>

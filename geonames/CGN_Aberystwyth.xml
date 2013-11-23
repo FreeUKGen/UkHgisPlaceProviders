@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Aberystwyth</toponymName>
+<name>Aberystwyth</name>
+<lat>52.41548</lat>
+<lng>-4.08292</lng>
+<geonameId>2657782</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>18392</population>
+<alternateNames>Aberistuit,Aberistvit,Aberistvitas,Aberystwyth,Aburistuit,a bo li si te wei si,abrystwyth,ebeoliseuteuwiseu,Аберистуит,Аберіствіт,Абъристуит,آبريستويث,阿伯里斯特威斯,에버리스트위스</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ003</adminCode3>
+<adminName3>Aberystwyth</adminName3>
+<alternateName lang="ar">آبريستويث</alternateName>
+<alternateName lang="bg">Абъристуит</alternateName>
+<alternateName lang="br">Aberystwyth</alternateName>
+<alternateName lang="cy">Aberystwyth</alternateName>
+<alternateName lang="da">Aberystwyth</alternateName>
+<alternateName lang="de">Aberystwyth</alternateName>
+<alternateName lang="en">Aberystwyth</alternateName>
+<alternateName lang="es">Aberystwyth</alternateName>
+<alternateName lang="fi">Aberystwyth</alternateName>
+<alternateName lang="fr">Aberystwyth</alternateName>
+<alternateName lang="gl">Aberystwyth</alternateName>
+<alternateName lang="ko">에버리스트위스</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aberystwyth</alternateName>
+<alternateName lang="lt">Aberistvitas</alternateName>
+<alternateName lang="nl">Aberystwyth</alternateName>
+<alternateName lang="no">Aberystwyth</alternateName>
+<alternateName lang="pl">Aberystwyth</alternateName>
+<alternateName lang="pt">Aberystwyth</alternateName>
+<alternateName lang="ro">Aberystwyth</alternateName>
+<alternateName lang="ru">Аберистуит</alternateName>
+<alternateName lang="sv">Aberystwyth</alternateName>
+<alternateName lang="uk">Аберіствіт</alternateName>
+<alternateName lang="unlc">AYW</alternateName>
+<alternateName lang="zh">阿伯里斯特威斯</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.11149</west>
+<north>52.4329</north>
+<east>-4.05436</east>
+<south>52.39807</south>
+</bbox>
+<score>140.7062225341797</score>
+</geoname>
+<geoname>
+<toponymName>Aberystwyth</toponymName>
+<name>Aberystwyth</name>
+<lat>52.41227</lat>
+<lng>-4.07708</lng>
+<geonameId>7292321</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ003</adminCode3>
+<adminName3>Aberystwyth</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.09397</west>
+<north>52.43051</north>
+<east>-4.06019</east>
+<south>52.39403</south>
+</bbox>
+<score>101.83912658691406</score>
+</geoname>
+</geonames>

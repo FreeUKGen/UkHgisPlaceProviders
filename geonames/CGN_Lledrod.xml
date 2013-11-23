@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Lledrod</toponymName>
+<name>Lledrod</name>
+<lat>52.28636</lat>
+<lng>-3.99746</lng>
+<geonameId>7297131</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ036</adminCode3>
+<adminName3>Lledrod</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.05865</west>
+<north>52.325</north>
+<east>-3.93628</east>
+<south>52.24772</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Lledrod</toponymName>
+<name>Lledrod</name>
+<lat>52.3</lat>
+<lng>-3.98333</lng>
+<geonameId>2643889</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Llanfihangel Lledrod,Lledrod</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ036</adminCode3>
+<adminName3>Lledrod</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lledrod</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.01276</west>
+<north>52.31799</north>
+<east>-3.95391</east>
+<south>52.28201</south>
+</bbox>
+<score>81.68289184570312</score>
+</geoname>
+</geonames>

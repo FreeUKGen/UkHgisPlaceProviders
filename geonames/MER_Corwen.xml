@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Corwen</toponymName>
+<name>Corwen</name>
+<lat>52.97723</lat>
+<lng>-3.33595</lng>
+<geonameId>7294044</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG008</adminCode3>
+<adminName3>Corwen</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.45817</west>
+<north>53.01136</north>
+<east>-3.21374</east>
+<south>52.94309</south>
+</bbox>
+<score>110.3694839477539</score>
+</geoname>
+<geoname>
+<toponymName>Corwen</toponymName>
+<name>Corwen</name>
+<lat>52.98005</lat>
+<lng>-3.37736</lng>
+<geonameId>2652302</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2398</population>
+<alternateNames>Corwen</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG008</adminCode3>
+<adminName3>Corwen</adminName3>
+<alternateName lang="en">Corwen</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Corwen</alternateName>
+<alternateName lang="post">LL21</alternateName>
+<alternateName lang="unlc">ORW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.38483</west>
+<north>52.98455</north>
+<east>-3.36989</east>
+<south>52.97556</south>
+</bbox>
+<score>97.28050231933594</score>
+</geoname>
+<geoname>
+<toponymName>Corwen</toponymName>
+<name>Corwen</name>
+<lat>52.98092</lat>
+<lng>-3.37321</lng>
+<geonameId>6287796</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>19.87795066833496</score>
+</geoname>
+</geonames>

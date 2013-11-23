@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Bridgwater</toponymName>
+<name>Bridgwater</name>
+<lat>51.12837</lat>
+<lng>-3.00356</lng>
+<geonameId>2654730</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>38020</population>
+<alternateNames>Bridgewater,Bridgwater,Bridzhuoter,Bridzhuotur,Bruga Walteri,Бриджуотер,Бриджуотър</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<alternateName lang="bg">Бриджуотър</alternateName>
+<alternateName lang="la">Bruga Walteri</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bridgwater</alternateName>
+<alternateName lang="ru">Бриджуотер</alternateName>
+<alternateName lang="unlc">BRW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.04348</west>
+<north>51.15341</north>
+<east>-2.96365</east>
+<south>51.10333</south>
+</bbox>
+<score>103.90971374511719</score>
+</geoname>
+<geoname>
+<toponymName>Bridgwater</toponymName>
+<name>Bridgwater</name>
+<lat>51.13189</lat>
+<lng>-3.00309</lng>
+<geonameId>7294133</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<adminCode4>40UC054</adminCode4>
+<adminName4>Bridgwater</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.03567</west>
+<north>51.15061</north>
+<east>-2.97052</east>
+<south>51.11317</south>
+</bbox>
+<score>75.150390625</score>
+</geoname>
+<geoname>
+<toponymName>Bridgwater</toponymName>
+<name>Bridgwater</name>
+<lat>51.14253</lat>
+<lng>-2.99736</lng>
+<geonameId>7115648</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>SWT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>sewage treatment plant</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>18.78759765625</score>
+</geoname>
+</geonames>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Glastonbury</toponymName>
+<name>Glastonbury</name>
+<lat>51.14729</lat>
+<lng>-2.71797</lng>
+<geonameId>2648559</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8617</population>
+<alternateNames>Glastonberi,Glastonbury,Glastonia,Nklastonmperi,ge la si dun bo li,geullaeseuteonbeli,glstwnbwry,Γκλάστονμπερι,Гластонбери,Гластонбері,גלסטונבורי,格拉斯頓伯里,글래스턴베리</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<alternateName lang="da">Glastonbury</alternateName>
+<alternateName lang="de">Glastonbury</alternateName>
+<alternateName lang="el">Γκλάστονμπερι</alternateName>
+<alternateName lang="en">Glastonbury</alternateName>
+<alternateName lang="fi">Glastonbury</alternateName>
+<alternateName lang="fr">Glastonbury</alternateName>
+<alternateName lang="he">גלסטונבורי</alternateName>
+<alternateName lang="it">Glastonbury</alternateName>
+<alternateName lang="ko">글래스턴베리</alternateName>
+<alternateName lang="la">Glastonia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Glastonbury</alternateName>
+<alternateName lang="nl">Glastonbury</alternateName>
+<alternateName lang="pt">Glastonbury</alternateName>
+<alternateName lang="ru">Гластонбери</alternateName>
+<alternateName lang="sr">Гластонбери</alternateName>
+<alternateName lang="sv">Glastonbury</alternateName>
+<alternateName lang="uk">Гластонбері</alternateName>
+<alternateName lang="unlc">GRY</alternateName>
+<alternateName lang="zh">格拉斯頓伯里</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.73694</west>
+<north>51.15919</north>
+<east>-2.699</east>
+<south>51.13539</south>
+</bbox>
+<score>101.64159393310547</score>
+</geoname>
+<geoname>
+<toponymName>Glastonbury</toponymName>
+<name>Glastonbury</name>
+<lat>51.14601</lat>
+<lng>-2.70329</lng>
+<geonameId>7292381</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<adminCode4>40UB022</adminCode4>
+<adminName4>Glastonbury</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.74538</west>
+<north>51.16994</north>
+<east>-2.66121</east>
+<south>51.12207</south>
+</bbox>
+<score>68.31465148925781</score>
+</geoname>
+</geonames>

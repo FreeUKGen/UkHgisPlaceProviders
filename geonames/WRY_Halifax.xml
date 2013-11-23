@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Halifax</toponymName>
+<name>Halifax</name>
+<lat>53.71667</lat>
+<lng>-1.85</lng>
+<geonameId>2647632</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>82624</population>
+<alternateNames>Galifaks,Halifax,Halifax i England,Khalifaks,Галифакс,Халифакс,האליפאקס</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C2</adminCode2>
+<adminName2>Calderdale</adminName2>
+<alternateName lang="af">Halifax</alternateName>
+<alternateName lang="bg">Халифакс</alternateName>
+<alternateName lang="de">Halifax</alternateName>
+<alternateName lang="en">Halifax</alternateName>
+<alternateName lang="fi">Halifax</alternateName>
+<alternateName lang="fr">Halifax</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Halifax%2C_West_Yorkshire</alternateName>
+<alternateName lang="nn">Halifax i England</alternateName>
+<alternateName lang="no">Halifax</alternateName>
+<alternateName lang="pl">Halifax</alternateName>
+<alternateName lang="ru">Галифакс</alternateName>
+<alternateName lang="sr">Халифакс</alternateName>
+<alternateName lang="sv">Halifax</alternateName>
+<alternateName lang="unlc">HFX</alternateName>
+<alternateName lang="yi">האליפאקס</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.91272</west>
+<north>53.75375</north>
+<east>-1.78728</east>
+<south>53.67958</south>
+</bbox>
+<score>144.54986572265625</score>
+</geoname>
+</geonames>

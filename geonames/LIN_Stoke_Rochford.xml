@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Stoke Rochford</toponymName>
+<name>Stoke Rochford</name>
+<lat>52.8415</lat>
+<lng>-0.64141</lng>
+<geonameId>7295546</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<adminCode4>32UG069</adminCode4>
+<adminName4>Stoke Rochford</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stoke_Rochford</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.70584</west>
+<north>52.8543</north>
+<east>-0.57698</east>
+<south>52.8287</south>
+</bbox>
+<score>54.396121978759766</score>
+</geoname>
+</geonames>

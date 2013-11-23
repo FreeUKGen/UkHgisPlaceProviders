@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Neath</toponymName>
+<name>Neath</name>
+<lat>51.66317</lat>
+<lng>-3.80443</lng>
+<geonameId>2641843</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>46126</population>
+<alternateNames>Castell Nedd,Castell-nedd,Neath,Nijt,Nit,Nitas,Нийт,Нит</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y5</adminCode2>
+<adminName2>County Borough of Neath Port Talbot</adminName2>
+<adminCode3>00NZ020</adminCode3>
+<adminName3>Neath</adminName3>
+<alternateName lang="bg">Нийт</alternateName>
+<alternateName lang="cy">Castell Nedd</alternateName>
+<alternateName lang="en">Neath</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Neath</alternateName>
+<alternateName lang="lt">Nitas</alternateName>
+<alternateName lang="ru">Нит</alternateName>
+<alternateName lang="unlc">NEA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.84915</west>
+<north>51.69089</north>
+<east>-3.75971</east>
+<south>51.63545</south>
+</bbox>
+<score>111.840576171875</score>
+</geoname>
+<geoname>
+<toponymName>Neath</toponymName>
+<name>Neath</name>
+<lat>51.65432</lat>
+<lng>-3.79898</lng>
+<geonameId>7299867</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y5</adminCode2>
+<adminName2>County Borough of Neath Port Talbot</adminName2>
+<adminCode3>00NZ020</adminCode3>
+<adminName3>Neath</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.83666</west>
+<north>51.66885</north>
+<east>-3.76129</east>
+<south>51.63979</south>
+</bbox>
+<score>107.20431518554688</score>
+</geoname>
+<geoname>
+<toponymName>Neath Abbey</toponymName>
+<name>Neath Abbey</name>
+<lat>51.662</lat>
+<lng>-3.807</lng>
+<geonameId>2641841</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>Abaty Nedd,NTH,Neath,Neath Abbey</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y5</adminCode2>
+<adminName2>County Borough of Neath Port Talbot</adminName2>
+<alternateName lang="abbr">NTH</alternateName>
+<alternateName lang="cy">Abaty Nedd</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Neath_Abbey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>39.059146881103516</score>
+</geoname>
+</geonames>

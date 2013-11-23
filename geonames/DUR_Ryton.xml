@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Ryton</toponymName>
+<name>Ryton</name>
+<lat>52.62457</lat>
+<lng>-2.35315</lng>
+<geonameId>7297739</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG155</adminCode3>
+<adminName3>Ryton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.38942</west>
+<north>52.63742</north>
+<east>-2.31689</east>
+<south>52.61172</south>
+</bbox>
+<score>105.448974609375</score>
+</geoname>
+<geoname>
+<toponymName>Ryton</toponymName>
+<name>Ryton</name>
+<lat>52.61667</lat>
+<lng>-2.35</lng>
+<geonameId>2638894</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>16093</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG155</adminCode3>
+<adminName3>Ryton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ryton%2C_Shropshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.37671</west>
+<north>52.63288</north>
+<east>-2.32329</east>
+<south>52.60045</south>
+</bbox>
+<score>96.00119018554688</score>
+</geoname>
+<geoname>
+<toponymName>Ryton</toponymName>
+<name>Ryton</name>
+<lat>54.97397</lat>
+<lng>-1.76313</lng>
+<geonameId>6640030</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E5</adminCode2>
+<adminName2>Gateshead</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ryton%2C_Tyne_and_Wear</alternateName>
+<alternateName lang="unlc">RYN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.77881</west>
+<north>54.98296</north>
+<east>-1.74746</east>
+<south>54.96497</south>
+</bbox>
+<score>79.99031066894531</score>
+</geoname>
+<geoname>
+<toponymName>Ryton</toponymName>
+<name>Ryton</name>
+<lat>54.16667</lat>
+<lng>-0.78333</lng>
+<geonameId>2638893</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UF</adminCode3>
+<adminName3>Ryedale District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.7987</west>
+<north>54.17566</north>
+<east>-0.76797</east>
+<south>54.15767</south>
+</bbox>
+<score>60.5047492980957</score>
+</geoname>
+<geoname>
+<toponymName>Ryton</toponymName>
+<name>Ryton</name>
+<lat>52.62334</lat>
+<lng>-2.35582</lng>
+<geonameId>6286991</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>19.016319274902344</score>
+</geoname>
+</geonames>

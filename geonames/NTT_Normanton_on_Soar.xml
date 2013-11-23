@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Normanton on Soar</toponymName>
+<name>Normanton on Soar</name>
+<lat>52.80935</lat>
+<lng>-1.21848</lng>
+<geonameId>7291400</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<adminCode4>37UJ029</adminCode4>
+<adminName4>Normanton on Soar</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Normanton_on_Soar</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.24659</west>
+<north>52.82709</north>
+<east>-1.19037</east>
+<south>52.79161</south>
+</bbox>
+<score>54.204463958740234</score>
+</geoname>
+</geonames>

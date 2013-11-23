@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Walton-in-Gordano</toponymName>
+<name>Walton-in-Gordano</name>
+<lat>51.45865</lat>
+<lng>-2.827</lng>
+<geonameId>7298889</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC030</adminCode3>
+<adminName3>Walton-in-Gordano</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.84629</west>
+<north>51.46938</north>
+<east>-2.8077</east>
+<south>51.44793</south>
+</bbox>
+<score>97.2737045288086</score>
+</geoname>
+<geoname>
+<toponymName>Walton in Gordano</toponymName>
+<name>Walton in Gordano</name>
+<lat>51.45306</lat>
+<lng>-2.82694</lng>
+<geonameId>2634831</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Walton,Walton in Gordano</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Walton_in_Gordano</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.84138</west>
+<north>51.46205</north>
+<east>-2.81251</east>
+<south>51.44406</south>
+</bbox>
+<score>83.73397064208984</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Gwithian</toponymName>
+<name>Gwithian</name>
+<lat>50.2215</lat>
+<lng>-5.38553</lng>
+<geonameId>2647725</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Gwithian</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE046</adminCode3>
+<adminName3>Gwinear-Gwithian</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gwithian</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.39959</west>
+<north>50.23049</north>
+<east>-5.37147</east>
+<south>50.21251</south>
+</bbox>
+<score>110.68106079101562</score>
+</geoname>
+</geonames>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Walcott</toponymName>
+<name>Walcott</name>
+<lat>52.83333</lat>
+<lng>1.5</lng>
+<geonameId>2634901</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Walcott</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Walcott%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.48511</west>
+<north>52.84233</north>
+<east>1.51489</east>
+<south>52.82434</south>
+</bbox>
+<score>87.54554748535156</score>
+</geoname>
+<geoname>
+<toponymName>Walcott</toponymName>
+<name>Walcott</name>
+<lat>52.83083</lat>
+<lng>1.50712</lng>
+<geonameId>7299282</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF122</adminCode4>
+<adminName4>Walcott</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.49301</west>
+<north>52.84496</north>
+<east>1.52124</east>
+<south>52.8167</south>
+</bbox>
+<score>68.42625427246094</score>
+</geoname>
+<geoname>
+<toponymName>Walcott</toponymName>
+<name>Walcott</name>
+<lat>53.09469</lat>
+<lng>-0.31311</lng>
+<geonameId>2634903</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.32809</west>
+<north>53.10369</north>
+<east>-0.29813</east>
+<south>53.0857</south>
+</bbox>
+<score>54.396270751953125</score>
+</geoname>
+<geoname>
+<toponymName>Walcott</toponymName>
+<name>Walcott</name>
+<lat>53.09574</lat>
+<lng>-0.29442</lng>
+<geonameId>7296461</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<adminCode4>32UE070</adminCode4>
+<adminName4>Walcott</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Walcott%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.34464</west>
+<north>53.11076</north>
+<east>-0.2442</east>
+<south>53.08072</south>
+</bbox>
+<score>48.018836975097656</score>
+</geoname>
+</geonames>

@@ -1,0 +1,123 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>400</id>
+<name>TYNEMOUTH</name>
+<container>NORTHUMBERLAND</container>
+<lat>55.0137741040567</lat>
+<lon>-1.45989780561976</lon>
+<gazetteerText>Tynemouth, parl. and mun. bor., par. and township, and watering-place, Northumberland, at N. side of mouth of river Tyne, opposite South Shields, 8 miles NE. of Newcastle and 272 from London by rail - par., 6831 ac., pop. 46,364; township, 1189 ac., pop. 22,548; bor., 4303 ac., pop. 44,118. Tynemouth includes the port of North Shields, and the whole bor. is usually called North Shields. Tynemouth proper, immediately E. of North Shields, is a bathing-place, with a fine sandy beach, baths, aquarium, winter garden, a magnificent stone pier, and a grand parade nearly a mile long. In Saxon times Tynemouth was in great repute as the burial-place of St Oswyn, its patron saint. A monastery was founded in 625, and its ruins are within the walls of the castle. In the castle yard is a lighthouse 79 ft. high, with revolving light (Entrance to the Tyne) 154 ft. above high water and seen 18 miles. Tynemouth has rapidly risen into a large town. It was made a parl. bor. in 1832, and a mun. bor. in 1849. It returns 1 member to Parliament. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Tynemouth</link>
+<link>http://www.genuki.bpears.org.uk/NBL/Tynemouth/index.html</link>
+<link>http://www.workhouses.org.uk/Tynemouth</link>
+<link>http://www.geonames.org/2635269</link>
+</links>
+<unit>
+   <id>10061982</id>
+   <status>MB/CB</status>
+   <name>TYNEMOUTH</name>
+</unit>
+<unit>
+   <id>10152501</id>
+   <status>RD</status>
+   <name>TYNEMOUTH</name>
+</unit>
+<unit>
+   <id>10154480</id>
+   <status>USD</status>
+   <name>TYNEMOUTH</name>
+</unit>
+<unit>
+   <id>10174338</id>
+   <status>RSD</status>
+   <name>TYNEMOUTH</name>
+</unit>
+<unit>
+   <id>10220490</id>
+   <status>PLU/RegD</status>
+   <name>TYNEMOUTH</name>
+</unit>
+<unit>
+   <id>10329206</id>
+   <status>CP/AP</status>
+   <name>TYNEMOUTH</name>
+</unit>
+<unit>
+   <id>10329279</id>
+   <status>EP</status>
+   <name>TYNEMOUTH WESTERN TOWN</name>
+</unit>
+<unit>
+   <id>10329322</id>
+   <status>EP</status>
+   <name>TYNEMOUTH PRIORY</name>
+</unit>
+<unit>
+   <id>10329334</id>
+   <status>EP</status>
+   <name>TYNEMOUTH ST AUGUSTINE</name>
+</unit>
+<unit>
+   <id>10551936</id>
+   <status></status>
+   <name>TYNEMOUTH</name>
+</unit>
+<unit>
+   <id>10581515</id>
+   <status></status>
+   <name>TYNEMOUTH</name>
+</unit>
+<unit>
+   <id>12749909</id>
+   <status>PBCon/BCon</status>
+   <name>TYNEMOUTH</name>
+</unit>
+<unit>
+   <id>12781088</id>
+   <status></status>
+   <name>TYNEMOUTH</name>
+</unit>
+<nearByPlace>
+   <id>214</id>
+   <name>WHITLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9503</id>
+   <name>MONKSEATON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9512</id>
+   <name>MURTON</name>
+</nearByPlace>
+</place>
+<place>
+<id>25646</id>
+<name>LOW TOWN</name>
+<container>NORTHUMBERLAND</container>
+<lat>55.0043219649409</lat>
+<lon>-1.44335956673645</lon>
+<gazetteerText>LOW-TOWN, a chapelry in Tynemouth parish, Northumberland; connected with North Shields. It was constituted in 1860, and is sometimes called St. Peters. Post town, North Shields. Pop. in 1861,6,314. Houses, 743. The living is a p. curacy in the diocese of Durham. Value, &#163;200.* Patron, the Duke of Northumberland. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<unit>
+   <id>12846010</id>
+   <status>EP</status>
+   <name>NORTH SHIELDS ST PETER</name>
+</unit>
+</place>
+<place>
+<id>21591</id>
+<name>PERCY MAIN</name>
+<container>NORTHUMBERLAND</container>
+<lat>54.9981362111637</lat>
+<lon>-1.46689578196794</lon>
+<gazetteerText>PERCY, or Percy-Main, a village and a chapelry in Tynemouth parish, Northumberland. The village stands on the river Tyne, and on the Newcastle and Tynemouth railway, at the junction of the line to Blyth, 1&#189; mile W S W of North Shields; and has a station on the railway and a post-office under Newcastle-upon-Tyne, both of the name of Percy-Main. The chapelry was constituted in 1860. Pop., 3, 953. Houses, 786. The inhabitants are employed chiefly in the docks and neighbouringworks. The living is a p. curacy in the diocese of Durham. Value, &#163;200.* Patron, the Duke of Northumberland. The church is recent. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2640372</link>
+</links>
+<unit>
+   <id>10329309</id>
+   <status>EP/EExP</status>
+   <name>TYNEMOUTH PERCY</name>
+</unit>
+</place>
+</results>

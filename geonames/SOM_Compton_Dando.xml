@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Compton Dando</toponymName>
+<name>Compton Dando</name>
+<lat>51.38762</lat>
+<lng>-2.50851</lng>
+<geonameId>7296352</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA013</adminCode3>
+<adminName3>Compton Dando</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.54642</west>
+<north>51.41648</north>
+<east>-2.4706</east>
+<south>51.35877</south>
+</bbox>
+<score>93.09963989257812</score>
+</geoname>
+<geoname>
+<toponymName>Compton Dando</toponymName>
+<name>Compton Dando</name>
+<lat>51.37944</lat>
+<lng>-2.50972</lng>
+<geonameId>2652483</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA013</adminCode3>
+<adminName3>Compton Dando</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Compton_Dando</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.53855</west>
+<north>51.39743</north>
+<east>-2.48089</east>
+<south>51.36146</south>
+</bbox>
+<score>69.89582061767578</score>
+</geoname>
+</geonames>

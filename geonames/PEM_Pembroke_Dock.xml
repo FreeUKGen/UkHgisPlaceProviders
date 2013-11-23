@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Pembroke Dock</toponymName>
+<name>Pembroke Dock</name>
+<lat>51.69246</lat>
+<lng>-4.94542</lng>
+<geonameId>7297741</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS054</adminCode3>
+<adminName3>Pembroke Dock</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.97871</west>
+<north>51.70702</north>
+<east>-4.91212</east>
+<south>51.67789</south>
+</bbox>
+<score>91.48123168945312</score>
+</geoname>
+<geoname>
+<toponymName>Pembroke Dock</toponymName>
+<name>Pembroke Dock</name>
+<lat>51.69161</lat>
+<lng>-4.94036</lng>
+<geonameId>2640502</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8772</population>
+<alternateNames>Doc Penfro,Pater,Paterchurch,Pembrok-dok,Pembroke Dock,Pembruk Dok,Пемброк-док,Пембрук Док</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS054</adminCode3>
+<adminName3>Pembroke Dock</adminName3>
+<alternateName lang="bg">Пембрук Док</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pembroke_Dock</alternateName>
+<alternateName lang="ru">Пемброк-док</alternateName>
+<alternateName lang="unlc">PED</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.95956</west>
+<north>51.7035</north>
+<east>-4.92116</east>
+<south>51.67971</south>
+</bbox>
+<score>74.5328369140625</score>
+</geoname>
+</geonames>

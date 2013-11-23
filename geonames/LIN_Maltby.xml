@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Maltby</toponymName>
+<name>Maltby</name>
+<lat>53.41424</lat>
+<lng>-1.17761</lng>
+<geonameId>7292224</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L3</adminCode2>
+<adminName2>Rotherham</adminName2>
+<adminCode3>00CF029</adminCode3>
+<adminName3>Maltby</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.24008</west>
+<north>53.4371</north>
+<east>-1.11514</east>
+<south>53.39137</south>
+</bbox>
+<score>98.07917785644531</score>
+</geoname>
+<geoname>
+<toponymName>Maltby</toponymName>
+<name>Maltby</name>
+<lat>53.41667</lat>
+<lng>-1.2</lng>
+<geonameId>2643144</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>18380</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L3</adminCode2>
+<adminName2>Rotherham</adminName2>
+<adminCode3>00CF029</adminCode3>
+<adminName3>Maltby</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Maltby%2C_South_Yorkshire</alternateName>
+<alternateName lang="unlc">MLY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.22923</west>
+<north>53.43408</north>
+<east>-1.17077</east>
+<south>53.39925</south>
+</bbox>
+<score>84.48247528076172</score>
+</geoname>
+<geoname>
+<toponymName>Maltby</toponymName>
+<name>Maltby</name>
+<lat>54.51023</lat>
+<lng>-1.27025</lng>
+<geonameId>7301312</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N3</adminCode2>
+<adminName2>Stockton-on-Tees</adminName2>
+<adminCode3>00EF011</adminCode3>
+<adminName3>Maltby</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Maltby%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.30614</west>
+<north>54.52083</north>
+<east>-1.23437</east>
+<south>54.49963</south>
+</bbox>
+<score>63.99043273925781</score>
+</geoname>
+<geoname>
+<toponymName>Maltby le Marsh</toponymName>
+<name>Maltby le Marsh</name>
+<lat>53.31391</lat>
+<lng>0.20288</lng>
+<geonameId>2643143</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Maltby,Maltby le Marsh</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Maltby_le_Marsh</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.18782</west>
+<north>53.3229</north>
+<east>0.21794</east>
+<south>53.30491</south>
+</bbox>
+<score>55.473960876464844</score>
+</geoname>
+</geonames>

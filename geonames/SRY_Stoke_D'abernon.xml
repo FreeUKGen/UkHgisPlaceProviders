@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Stoke d'Abernon</toponymName>
+<name>Stoke d'Abernon</name>
+<lat>51.31881</lat>
+<lng>-0.38396</lng>
+<geonameId>6690828</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UB</adminCode3>
+<adminName3>Elmbridge District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stoke_d%27Abernon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.39836</west>
+<north>51.32781</north>
+<east>-0.36957</east>
+<south>51.30982</south>
+</bbox>
+<score>82.32666015625</score>
+</geoname>
+<geoname>
+<toponymName>Stoke D’Abernon</toponymName>
+<name>Stoke D’Abernon</name>
+<lat>51.30486</lat>
+<lng>-0.37766</lng>
+<geonameId>2636860</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UE</adminCode3>
+<adminName3>Mole Valley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.39204</west>
+<north>51.31386</north>
+<east>-0.36327</east>
+<south>51.29587</south>
+</bbox>
+<score>48.980316162109375</score>
+</geoname>
+</geonames>

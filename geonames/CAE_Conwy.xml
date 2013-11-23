@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Conwy</toponymName>
+<name>Conwy</name>
+<lat>53.28481</lat>
+<lng>-3.82562</lng>
+<geonameId>7296022</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<adminCode3>00NE010</adminCode3>
+<adminName3>Conwy</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.87849</west>
+<north>53.30745</north>
+<east>-3.77276</east>
+<south>53.26217</south>
+</bbox>
+<score>109.28656768798828</score>
+</geoname>
+<geoname>
+<toponymName>Conwy</toponymName>
+<name>County Borough of Conwy</name>
+<lat>53.08333</lat>
+<lng>-3.75</lng>
+<geonameId>3333242</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Bwrdeistref Sirol Conwy,CWY,Conwy,County Borough of Conwy</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<alternateName lang="abbr">CWY</alternateName>
+<alternateName lang="cy">Bwrdeistref Sirol Conwy</alternateName>
+<alternateName lang="en">County Borough of Conwy</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Conwy_County_Borough</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.03133</west>
+<north>53.34314</north>
+<east>-3.45456</east>
+<south>52.94936</south>
+</bbox>
+<score>105.73054504394531</score>
+</geoname>
+<geoname>
+<toponymName>Conwy</toponymName>
+<name>Conway</name>
+<lat>53.28077</lat>
+<lng>-3.83039</lng>
+<geonameId>2652426</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>3890</population>
+<alternateNames>Aberconway,Conway,Conwy,Konui,Конуи</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<adminCode3>00NE010</adminCode3>
+<adminName3>Conwy</adminName3>
+<alternateName lang="cy">Conwy</alternateName>
+<alternateName lang="en">Conway</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Conwy</alternateName>
+<alternateName lang="ru">Конуи</alternateName>
+<alternateName lang="unlc">CWA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.84342</west>
+<north>53.28856</north>
+<east>-3.81736</east>
+<south>53.27298</south>
+</bbox>
+<score>71.55709838867188</score>
+</geoname>
+</geonames>

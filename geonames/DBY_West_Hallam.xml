@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>West Hallam</toponymName>
+<name>West Hallam</name>
+<lat>52.97093</lat>
+<lng>-1.35846</lng>
+<geonameId>2634405</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6314</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UG</adminCode3>
+<adminName3>Erewash District</adminName3>
+<alternateName lang="unlc">WTM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.37516</west>
+<north>52.98099</north>
+<east>-1.34176</east>
+<south>52.96088</south>
+</bbox>
+<score>59.029762268066406</score>
+</geoname>
+<geoname>
+<toponymName>West Hallam</toponymName>
+<name>West Hallam</name>
+<lat>52.96737</lat>
+<lng>-1.35037</lng>
+<geonameId>7298161</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UG</adminCode3>
+<adminName3>Erewash District</adminName3>
+<adminCode4>17UG013</adminCode4>
+<adminName4>West Hallam</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/West_Hallam</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.37539</west>
+<north>52.97889</north>
+<east>-1.32536</east>
+<south>52.95585</south>
+</bbox>
+<score>51.91337585449219</score>
+</geoname>
+</geonames>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Dunfermline</toponymName>
+<name>Dunfermline</name>
+<lat>56.07156</lat>
+<lng>-3.45887</lng>
+<geonameId>2650732</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>38960</population>
+<alternateNames>Danfermlin,Danfermlinas,Dun Pharlain,Dunfaurlin,Dunfermline,Dunfurmlin,Dùn Phàrlain,Dún Phárlain,Gorad Danfermlin,danfamurin,dmfrlyn,Горад Данфермлін,Данфермлин,Данфермлін,Дънфърмлин,دانفرم‌لاین,دمفرلين,ڈنفرملائن,ダンファームリン</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V1</adminCode2>
+<adminName2>Fife</adminName2>
+<alternateName lang="ar">دمفرلين</alternateName>
+<alternateName lang="be">Горад Данфермлін</alternateName>
+<alternateName lang="bg">Дънфърмлин</alternateName>
+<alternateName lang="de">Dunfermline</alternateName>
+<alternateName lang="en">Dunfermline</alternateName>
+<alternateName lang="es">Dunfermline</alternateName>
+<alternateName lang="fa">دانفرم‌لاین</alternateName>
+<alternateName lang="fr">Dunfermline</alternateName>
+<alternateName lang="ga">Dún Phárlain</alternateName>
+<alternateName lang="gd">Dùn Phàrlain</alternateName>
+<alternateName lang="ja">ダンファームリン</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dunfermline</alternateName>
+<alternateName lang="lt">Danfermlinas</alternateName>
+<alternateName lang="no">Dunfermline</alternateName>
+<alternateName lang="pl">Dunfermline</alternateName>
+<alternateName lang="pnb">ڈنفرملائن</alternateName>
+<alternateName lang="ru">Данфермлин</alternateName>
+<alternateName lang="sco">Dunfaurlin</alternateName>
+<alternateName lang="sv">Dunfermline</alternateName>
+<alternateName lang="uk">Данфермлін</alternateName>
+<alternateName lang="unlc">DFR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.50448</west>
+<north>56.09699</north>
+<east>-3.41327</east>
+<south>56.04612</south>
+</bbox>
+<score>125.64002990722656</score>
+</geoname>
+</geonames>

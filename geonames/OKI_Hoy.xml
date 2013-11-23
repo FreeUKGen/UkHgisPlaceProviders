@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Hoy</toponymName>
+<name>Hoy</name>
+<lat>58.85</lat>
+<lng>-3.3</lng>
+<geonameId>2646475</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Hoy</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V9</adminCode2>
+<adminName2>Orkney</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hoy</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.43622</west>
+<north>58.93303</north>
+<east>-3.17272</east>
+<south>58.77358</south>
+</bbox>
+<score>95.70535278320312</score>
+</geoname>
+<geoname>
+<toponymName>Hoy Longhope</toponymName>
+<name>Hoy Longhope</name>
+<lat>58.8333</lat>
+<lng>-3.3</lng>
+<geonameId>8299173</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>HOY</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V9</adminCode2>
+<adminName2>Orkney</adminName2>
+<alternateName lang="iata">HOY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>61.670413970947266</score>
+</geoname>
+<geoname>
+<toponymName>Hornsey</toponymName>
+<name>Hornsey</name>
+<lat>51.58752</lat>
+<lng>-0.12204</lng>
+<geonameId>2646580</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hornsey</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>F3</adminCode3>
+<adminName3>Haringey</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hornsey</alternateName>
+<alternateName lang="unlc">HOY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.1442</west>
+<north>51.59243</north>
+<east>-0.10326</east>
+<south>51.56699</south>
+</bbox>
+<score>50.51264953613281</score>
+</geoname>
+<geoname>
+<toponymName>Honley Railway Station</toponymName>
+<name>Honley Railway Station</name>
+<lat>53.6082</lat>
+<lng>-1.7809</lng>
+<geonameId>6952828</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>HOY</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G8</adminCode2>
+<adminName2>Kirklees</adminName2>
+<alternateName lang="abbr">HOY</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Honley_railway_station</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>35.88397216796875</score>
+</geoname>
+</geonames>

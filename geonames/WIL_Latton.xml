@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Latton</toponymName>
+<name>Latton</name>
+<lat>51.65354</lat>
+<lng>-1.84421</lng>
+<geonameId>7297657</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY135</adminCode3>
+<adminName3>Latton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Latton%2C_Wiltshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.89982</west>
+<north>51.68258</north>
+<east>-1.7886</east>
+<south>51.6245</south>
+</bbox>
+<score>67.26943969726562</score>
+</geoname>
+<geoname>
+<toponymName>Latton</toponymName>
+<name>Latton</name>
+<lat>51.65891</lat>
+<lng>-1.87057</lng>
+<geonameId>6940297</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>200</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY135</adminCode3>
+<adminName3>Latton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.87202</west>
+<north>51.65981</north>
+<east>-1.86912</east>
+<south>51.65801</south>
+</bbox>
+<score>60.728973388671875</score>
+</geoname>
+</geonames>

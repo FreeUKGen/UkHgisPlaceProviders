@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bingley</toponymName>
+<name>Bingley</name>
+<lat>53.84861</lat>
+<lng>-1.83857</lng>
+<geonameId>2655642</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>20327</population>
+<alternateNames>بنگلے</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B4</adminCode2>
+<adminName2>Bradford</adminName2>
+<adminCode3>00CX017</adminCode3>
+<adminName3>Harden</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bingley</alternateName>
+<alternateName lang="pnb">بنگلے</alternateName>
+<alternateName lang="unlc">BGY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.86907</west>
+<north>53.86659</north>
+<east>-1.80806</east>
+<south>53.83062</south>
+</bbox>
+<score>95.63702392578125</score>
+</geoname>
+</geonames>

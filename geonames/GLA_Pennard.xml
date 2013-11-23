@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Pennard</toponymName>
+<name>Pennard</name>
+<lat>51.57861</lat>
+<lng>-4.06722</lng>
+<geonameId>3345233</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Pennard</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z1</adminCode2>
+<adminName2>Swansea</adminName2>
+<adminCode3>00NX027</adminCode3>
+<adminName3>Pennard</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/List_of_villages_in_Gower%23Pennard</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.09618</west>
+<north>51.5966</north>
+<east>-4.03827</east>
+<south>51.56062</south>
+</bbox>
+<score>81.31780242919922</score>
+</geoname>
+<geoname>
+<toponymName>Pennard</toponymName>
+<name>Pennard</name>
+<lat>51.58383</lat>
+<lng>-4.08241</lng>
+<geonameId>7291579</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z1</adminCode2>
+<adminName2>Swansea</adminName2>
+<adminCode3>00NX027</adminCode3>
+<adminName3>Pennard</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pennard_%28electoral_ward%29</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.1133</west>
+<north>51.61093</north>
+<east>-4.05152</east>
+<south>51.55674</south>
+</bbox>
+<score>71.32943725585938</score>
+</geoname>
+</geonames>

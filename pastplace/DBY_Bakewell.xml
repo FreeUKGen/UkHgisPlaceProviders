@@ -1,0 +1,108 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1012</id>
+<name>BAKEWELL</name>
+<container>DERBYSHIRE</container>
+<lat>53.209342661672</lat>
+<lon>-1.68164544158873</lon>
+<gazetteerText>Bakewell, par., township, and market town, N. Derbyshire, on river Wye, 25 miles NW. of Derby and 152 miles NW. of London by rail -- par., 40,869 ac., pop. 12,246; township, 3064 ac., pop. 2502; P.O., T.O. 2 Banks. Market-day, Friday. It has a woollen factory established by Arkwlight; also, coal, read, and zinc mines, quarries of stone and black marble, and chalybeate springs. Chatsworth house, seat of Duke of Devonshire, is in the vicinity. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.workhouses.org.uk/Bakewell</link>
+<link>http://www.geonames.org/2656617</link>
+<link>http://en.wikipedia.org/wiki/Bakewell</link>
+<link>http://www.genuki.org.uk/big/eng/DBY/Bakewell/index.html</link>
+</links>
+<unit>
+   <id>10005061</id>
+   <status>RSD</status>
+   <name>BAKEWELL</name>
+</unit>
+<unit>
+   <id>10055428</id>
+   <status>RD</status>
+   <name>BAKEWELL</name>
+</unit>
+<unit>
+   <id>10063152</id>
+   <status>PLU/RegD</status>
+   <name>BAKEWELL</name>
+</unit>
+<unit>
+   <id>10138838</id>
+   <status>USD</status>
+   <name>BAKEWELL</name>
+</unit>
+<unit>
+   <id>10159337</id>
+   <status>EP</status>
+   <name>BAKEWELL</name>
+</unit>
+<unit>
+   <id>10166603</id>
+   <status>Borough</status>
+   <name>BAKEWELL</name>
+</unit>
+<unit>
+   <id>10178617</id>
+   <status>AP/CP</status>
+   <name>BAKEWELL</name>
+</unit>
+<unit>
+   <id>10198975</id>
+   <status>UD</status>
+   <name>BAKEWELL</name>
+</unit>
+<unit>
+   <id>10544695</id>
+   <status></status>
+   <name>BAKEWELL</name>
+</unit>
+<unit>
+   <id>10569175</id>
+   <status></status>
+   <name>BAKEWELL</name>
+</unit>
+<unit>
+   <id>12828913</id>
+   <status></status>
+   <name>BAKEWELL</name>
+</unit>
+<nearByPlace>
+   <id>1769</id>
+   <name>HARTINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2385</id>
+   <name>STONY MIDDLETON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3122</id>
+   <name>EYAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3809</id>
+   <name>ASHFORD IN THE WATER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4078</id>
+   <name>GREAT LONGSTONE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4848</id>
+   <name>YOULGREAVE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5217</id>
+   <name>LITTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5829</id>
+   <name>TADDINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>20664</id>
+   <name>BASLOW</name>
+</nearByPlace>
+</place>
+</results>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ditchingham</toponymName>
+<name>Ditchingham</name>
+<lat>52.46729</lat>
+<lng>1.4437</lng>
+<geonameId>2651210</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1747</population>
+<alternateNames>Ditchingham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ditchingham</alternateName>
+<alternateName lang="unlc">DIT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.43632</west>
+<north>52.47179</north>
+<east>1.45108</east>
+<south>52.46279</south>
+</bbox>
+<score>110.68647766113281</score>
+</geoname>
+<geoname>
+<toponymName>Ditchingham</toponymName>
+<name>Ditchingham</name>
+<lat>52.47945</lat>
+<lng>1.43147</lng>
+<geonameId>7295605</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH034</adminCode4>
+<adminName4>Ditchingham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.4042</west>
+<north>52.50293</north>
+<east>1.45874</east>
+<south>52.45598</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

@@ -1,0 +1,142 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>775</id>
+<name>LOUGHBOROUGH</name>
+<container>LEICESTERSHIRE</container>
+<lat>52.7702887990216</lat>
+<lon>-1.22316180136406</lon>
+<gazetteerText>Loughborough, market town, par., and township, Leicestershire, on Loughborough Canal, 10&#189; miles NW. of Leicester and 115 miles from London by rail - township, pop. 14,681; town and par., 5820 ac., pop. 14,803; P.O., T.O., 4 Banks, 3 newspapers. Market-day, Thursday. Loughborough is the second town, in point of size, in the co.; it has a grammar school founded in 1495. The principal industry is the mf r. of all kinds of hosiery; there is a large bell foundry; there are also engineering and machine works, dyeworks, and brick-works; the coal trade is extensive. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LEI/Loughborough.html</link>
+<link>http://en.wikipedia.org/wiki/Loughborough</link>
+<link>http://www.workhouses.org.uk/Loughborough</link>
+<link>http://www.geonames.org/2643567</link>
+</links>
+<unit>
+   <id>10004901</id>
+   <status>RSD</status>
+   <name>LOUGHBOROUGH</name>
+</unit>
+<unit>
+   <id>10005450</id>
+   <status>RegD/PLU</status>
+   <name>LOUGHBOROUGH</name>
+</unit>
+<unit>
+   <id>10136684</id>
+   <status>MB</status>
+   <name>LOUGHBOROUGH</name>
+</unit>
+<unit>
+   <id>10136702</id>
+   <status>RD</status>
+   <name>LOUGHBOROUGH</name>
+</unit>
+<unit>
+   <id>10138670</id>
+   <status>USD</status>
+   <name>LOUGHBOROUGH</name>
+</unit>
+<unit>
+   <id>10387437</id>
+   <status>AP/CP</status>
+   <name>LOUGHBOROUGH</name>
+</unit>
+<unit>
+   <id>10387449</id>
+   <status>EP</status>
+   <name>LOUGHBOROUGH</name>
+</unit>
+<unit>
+   <id>10387474</id>
+   <status>EP</status>
+   <name>LOUGHBOROUGH EMMANUEL</name>
+</unit>
+<unit>
+   <id>10387486</id>
+   <status>EP</status>
+   <name>LOUGHBOROUGH HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10387498</id>
+   <status>EP</status>
+   <name>LOUGHBOROUGH ST PETER</name>
+</unit>
+<unit>
+   <id>10551511</id>
+   <status></status>
+   <name>LOUGHBOROUGH</name>
+</unit>
+<unit>
+   <id>10567944</id>
+   <status></status>
+   <name>LOUGHBOROUGH</name>
+</unit>
+<unit>
+   <id>12739679</id>
+   <status>PDivCon</status>
+   <name>LEICESTERSHIRE MID OR LOUGHBOROUGH</name>
+</unit>
+<unit>
+   <id>12752234</id>
+   <status>PDivCon</status>
+   <name>LEICESTERSHIRE LOUGHBOROUGH</name>
+</unit>
+<unit>
+   <id>12754887</id>
+   <status>CCon</status>
+   <name>LOUGHBOROUGH</name>
+</unit>
+<unit>
+   <id>12780837</id>
+   <status></status>
+   <name>LOUGHBOROUGH</name>
+</unit>
+<unit>
+   <id>12831353</id>
+   <status></status>
+   <name>LOUGHBOROUGH</name>
+</unit>
+<nearByPlace>
+   <id>357</id>
+   <name>SHEPSHED</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7589</id>
+   <name>NORMANTON ON SOAR</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7740</id>
+   <name>REMPSTONE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7777</id>
+   <name>SUTTON BONINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10603</id>
+   <name>BARROW UPON SOAR</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10860</id>
+   <name>HATHERN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10873</id>
+   <name>HOTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11163</id>
+   <name>NANPANTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11369</id>
+   <name>LONG WHATTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11380</id>
+   <name>WOODHOUSE</name>
+</nearByPlace>
+</place>
+</results>

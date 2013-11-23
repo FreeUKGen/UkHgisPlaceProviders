@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Wilton</toponymName>
+<name>Wilton</name>
+<lat>51.07798</lat>
+<lng>-1.86834</lng>
+<geonameId>7300539</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY244</adminCode3>
+<adminName3>Wilton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.89438</west>
+<north>51.10022</north>
+<east>-1.8423</east>
+<south>51.05574</south>
+</bbox>
+<score>85.21575927734375</score>
+</geoname>
+<geoname>
+<toponymName>Wilton</toponymName>
+<name>Wilton</name>
+<lat>51.91667</lat>
+<lng>-2.6</lng>
+<geonameId>2633873</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Wilton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wilton%2C_Herefordshire</alternateName>
+<alternateName lang="unlc">WIZ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.61458</west>
+<north>51.92566</north>
+<east>-2.58542</east>
+<south>51.90767</south>
+</bbox>
+<score>68.8668212890625</score>
+</geoname>
+<geoname>
+<toponymName>Wilton</toponymName>
+<name>Wilton</name>
+<lat>54.56667</lat>
+<lng>-1.1</lng>
+<geonameId>2633872</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Wilton,Wilton-on-Tees</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K9</adminCode2>
+<adminName2>Redcar and Cleveland</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wilton%2C_Redcar_and_Cleveland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.11552</west>
+<north>54.57566</north>
+<east>-1.08448</east>
+<south>54.55767</south>
+</bbox>
+<score>68.02714538574219</score>
+</geoname>
+<geoname>
+<toponymName>Wilton</toponymName>
+<name>Wilton</name>
+<lat>51.07926</lat>
+<lng>-1.8621</lng>
+<geonameId>2633874</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY244</adminCode3>
+<adminName3>Wilton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wilton%2C_Wiltshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.89074</west>
+<north>51.09725</north>
+<east>-1.83345</east>
+<south>51.06128</south>
+</bbox>
+<score>56.415592193603516</score>
+</geoname>
+<geoname>
+<toponymName>Wilton</toponymName>
+<name>Wilton</name>
+<lat>55.43333</lat>
+<lng>-2.78333</lng>
+<geonameId>2633871</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T9</adminCode2>
+<adminName2>Scottish Borders</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.79919</west>
+<north>55.44233</north>
+<east>-2.76748</east>
+<south>55.42434</south>
+</bbox>
+<score>48.957847595214844</score>
+</geoname>
+<geoname>
+<toponymName>Wilton</toponymName>
+<name>Wilton</name>
+<lat>51</lat>
+<lng>-3.1</lng>
+<geonameId>2633875</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.11429</west>
+<north>51.00899</north>
+<east>-3.08571</east>
+<south>50.99101</south>
+</bbox>
+<score>48.957847595214844</score>
+</geoname>
+<geoname>
+<toponymName>Wilton</toponymName>
+<name>Wilton</name>
+<lat>54.22745</lat>
+<lng>-0.67566</lng>
+<geonameId>7291097</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UF</adminCode3>
+<adminName3>Ryedale District</adminName3>
+<adminCode4>36UF126</adminCode4>
+<adminName4>Wilton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wilton%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.69426</west>
+<north>54.2477</north>
+<east>-0.65707</east>
+<south>54.2072</south>
+</bbox>
+<score>43.71565628051758</score>
+</geoname>
+</geonames>

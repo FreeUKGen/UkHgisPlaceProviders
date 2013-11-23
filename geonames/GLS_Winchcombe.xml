@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Winchcombe</toponymName>
+<name>Winchcombe</name>
+<lat>51.95363</lat>
+<lng>-1.96398</lng>
+<geonameId>2633860</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3764</population>
+<alternateNames>Winchcomb,Winchcombe</alternateNames>
+<elevation>103</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<alternateName lang="unlc">WIB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.97662</west>
+<north>51.96142</north>
+<east>-1.95134</east>
+<south>51.94584</south>
+</bbox>
+<score>87.79354858398438</score>
+</geoname>
+<geoname>
+<toponymName>Winchcombe</toponymName>
+<name>Winchcombe</name>
+<lat>51.95274</lat>
+<lng>-1.96763</lng>
+<geonameId>7298619</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<adminCode4>23UG047</adminCode4>
+<adminName4>Winchcombe</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Winchcombe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.00839</west>
+<north>51.98203</north>
+<east>-1.92688</east>
+<south>51.92344</south>
+</bbox>
+<score>57.04692077636719</score>
+</geoname>
+</geonames>

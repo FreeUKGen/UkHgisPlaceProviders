@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>St. Agnes</toponymName>
+<name>St. Agnes</name>
+<lat>49.88244</lat>
+<lng>-6.37211</lng>
+<geonameId>7298791</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z9</adminCode2>
+<adminName2>Isles of Scilly</adminName2>
+<adminCode3>00HF002</adminCode3>
+<adminName3>St. Agnes</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-6.41894</west>
+<north>49.90025</north>
+<east>-6.32527</east>
+<south>49.86463</south>
+</bbox>
+<score>84.09932708740234</score>
+</geoname>
+<geoname>
+<toponymName>St. Agnes</toponymName>
+<name>St. Agnes</name>
+<lat>50.29511</lat>
+<lng>-5.20599</lng>
+<geonameId>7294644</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE128</adminCode3>
+<adminName3>St. Agnes</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St_Agnes%2C_Cornwall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.25219</west>
+<north>50.33506</north>
+<east>-5.15979</east>
+<south>50.25516</south>
+</bbox>
+<score>63.32344055175781</score>
+</geoname>
+<geoname>
+<toponymName>Saint Agnes</toponymName>
+<name>St Agnes</name>
+<lat>49.89087</lat>
+<lng>-6.34426</lng>
+<geonameId>6943071</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>73</population>
+<alternateNames>Saint Agnes,St Agnes</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z9</adminCode2>
+<adminName2>Isles of Scilly</adminName2>
+<adminCode3>00HF002</adminCode3>
+<adminName3>St. Agnes</adminName3>
+<alternateName lang="en">St Agnes</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St_Agnes%2C_Isles_of_Scilly</alternateName>
+<alternateName lang="post">TR21</alternateName>
+<alternateName lang="unlc">AIS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-6.34566</west>
+<north>49.89177</north>
+<east>-6.34287</east>
+<south>49.88998</south>
+</bbox>
+<score>48.2401123046875</score>
+</geoname>
+</geonames>

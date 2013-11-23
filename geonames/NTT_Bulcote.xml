@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bulcote</toponymName>
+<name>Bulcote</name>
+<lat>52.9947</lat>
+<lng>-1.01634</lng>
+<geonameId>7300889</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG011</adminCode4>
+<adminName4>Bulcote</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bulcote</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.03936</west>
+<north>53.00396</north>
+<east>-0.99332</east>
+<south>52.98543</south>
+</bbox>
+<score>58.68011474609375</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Newgate Street</toponymName>
+<name>Newgate Street</name>
+<lat>51.72868</lat>
+<lng>-0.11673</lng>
+<geonameId>2641643</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UL</adminCode3>
+<adminName3>Welwyn Hatfield</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newgate_Street%2C_Hertfordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.13125</west>
+<north>51.73767</north>
+<east>-0.10221</east>
+<south>51.71968</south>
+</bbox>
+<score>84.4915542602539</score>
+</geoname>
+</geonames>

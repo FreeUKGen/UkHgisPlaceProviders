@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Wells</toponymName>
+<name>Wells</name>
+<lat>51.20794</lat>
+<lng>-2.64896</lng>
+<geonameId>2634569</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>10638</population>
+<alternateNames>Uehls,Wellae,Wells,u~eruzu,wei er si,wlz,wlz, anglstan,Уэлс,ولز,ولز، انگلستان,ウェルズ,韋爾斯</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<alternateName lang="fa">ولز، انگلستان</alternateName>
+<alternateName lang="ja">ウェルズ</alternateName>
+<alternateName lang="la">Wellae</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wells</alternateName>
+<alternateName lang="mzn">ولز، انگلستان</alternateName>
+<alternateName lang="pnb">ولز</alternateName>
+<alternateName lang="ru">Уэлс</alternateName>
+<alternateName lang="zh">韋爾斯</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.66927</west>
+<north>51.22066</north>
+<east>-2.62865</east>
+<south>51.19522</south>
+</bbox>
+<score>67.921142578125</score>
+</geoname>
+<geoname>
+<toponymName>Wells</toponymName>
+<name>Wells</name>
+<lat>51.20985</lat>
+<lng>-2.64513</lng>
+<geonameId>7296047</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<adminCode4>40UB056</adminCode4>
+<adminName4>Wells</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.66891</west>
+<north>51.22206</north>
+<east>-2.62136</east>
+<south>51.19764</south>
+</bbox>
+<score>63.095088958740234</score>
+</geoname>
+<geoname>
+<toponymName>Wells-next-the-Sea</toponymName>
+<name>Wells-next-the-Sea</name>
+<lat>52.95164</lat>
+<lng>0.8511</lng>
+<geonameId>2634567</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2506</population>
+<alternateNames>Wells,Wells-next-the-Sea,Wells-on-Sea</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<alternateName lang="en">Wells-next-the-Sea</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wells-next-the-Sea</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.84054</west>
+<north>52.958</north>
+<east>0.86165</east>
+<south>52.94528</south>
+</bbox>
+<score>56.40861892700195</score>
+</geoname>
+</geonames>

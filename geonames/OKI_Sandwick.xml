@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Sandwick</toponymName>
+<name>Sandwick</name>
+<lat>60</lat>
+<lng>-1.25</lng>
+<geonameId>2638534</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1217</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W3</adminCode2>
+<adminName2>Shetland</adminName2>
+<alternateName lang="unlc">SWC</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.25899</west>
+<north>60.0045</north>
+<east>-1.24101</east>
+<south>59.9955</south>
+</bbox>
+<score>58.99259567260742</score>
+</geoname>
+<geoname>
+<toponymName>Sandwick</toponymName>
+<name>Sandwick</name>
+<lat>58.20378</lat>
+<lng>-6.35671</lng>
+<geonameId>2638535</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W8</adminCode2>
+<adminName2>Western Isles</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-6.37378</west>
+<north>58.21277</north>
+<east>-6.33963</east>
+<south>58.19478</south>
+</bbox>
+<score>57.46788024902344</score>
+</geoname>
+</geonames>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Swanton Abbott</toponymName>
+<name>Swanton Abbott</name>
+<lat>52.78666</lat>
+<lng>1.35362</lng>
+<geonameId>7299234</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF099</adminCode4>
+<adminName4>Swanton Abbott</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Swanton_Abbott</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.33595</west>
+<north>52.80198</north>
+<east>1.3713</east>
+<south>52.77134</south>
+</bbox>
+<score>49.722225189208984</score>
+</geoname>
+</geonames>

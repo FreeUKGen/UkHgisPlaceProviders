@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Enfield</toponymName>
+<name>Enfield</name>
+<lat>51.64875</lat>
+<lng>-0.0974</lng>
+<geonameId>3333146</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>294900</population>
+<alternateNames>ENF,Enfield,Enfield keruelet,Enfield kerület,London Borough of Enfield</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>E3</adminCode3>
+<adminName3>Enfield</adminName3>
+<alternateName lang="abbr">ENF</alternateName>
+<alternateName lang="cs">Enfield</alternateName>
+<alternateName lang="de">London Borough of Enfield</alternateName>
+<alternateName lang="en">Enfield</alternateName>
+<alternateName lang="fr">Enfield</alternateName>
+<alternateName lang="hu">Enfield kerület</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/London_Borough_of_Enfield</alternateName>
+<alternateName lang="nl">Enfield</alternateName>
+<alternateName lang="no">Enfield</alternateName>
+<alternateName lang="ro">Enfield</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.18589</west>
+<north>51.69188</north>
+<east>-0.00895</east>
+<south>51.60563</south>
+</bbox>
+<score>60.0142936706543</score>
+</geoname>
+<geoname>
+<toponymName>Enfield</toponymName>
+<name>Enfield</name>
+<lat>51.65147</lat>
+<lng>-0.08497</lng>
+<geonameId>2649997</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Endfield</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>E3</adminCode3>
+<adminName3>Enfield</adminName3>
+<alternateName lang="unlc">ENF</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.11397</west>
+<north>51.66946</north>
+<east>-0.05597</east>
+<south>51.63348</south>
+</bbox>
+<score>29.87999153137207</score>
+</geoname>
+</geonames>

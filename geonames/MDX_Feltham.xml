@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Feltham</toponymName>
+<name>Feltham</name>
+<lat>51.4462</lat>
+<lng>-0.41388</lng>
+<geonameId>2649571</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>24325</population>
+<alternateNames>Feltham,felthama,फ़ेल्ठम</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>G1</adminCode3>
+<adminName3>Hounslow</adminName3>
+<alternateName lang="en">Feltham</alternateName>
+<alternateName lang="hi">फ़ेल्ठम</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Feltham</alternateName>
+<alternateName lang="post">TW14</alternateName>
+<alternateName lang="unlc">FEM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.44616</west>
+<north>51.46631</north>
+<east>-0.38159</east>
+<south>51.42609</south>
+</bbox>
+<score>100.2876968383789</score>
+</geoname>
+<geoname>
+<toponymName>Feltham</toponymName>
+<name>Feltham</name>
+<lat>50.96667</lat>
+<lng>-3.1</lng>
+<geonameId>2649572</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.11428</west>
+<north>50.97566</north>
+<east>-3.08572</east>
+<south>50.95767</south>
+</bbox>
+<score>56.862823486328125</score>
+</geoname>
+</geonames>

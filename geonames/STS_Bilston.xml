@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bilston</toponymName>
+<name>Bilston</name>
+<lat>52.56667</lat>
+<lng>-2.06667</lng>
+<geonameId>2655654</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5000</population>
+<alternateNames>Bilston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q3</adminCode2>
+<adminName2>Wolverhampton</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bilston</alternateName>
+<alternateName lang="unlc">BIS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.08147</west>
+<north>52.57566</north>
+<east>-2.05187</east>
+<south>52.55767</south>
+</bbox>
+<score>106.04017639160156</score>
+</geoname>
+<geoname>
+<toponymName>Bilston</toponymName>
+<name>Bilston</name>
+<lat>55.8703</lat>
+<lng>-3.17814</lng>
+<geonameId>6930999</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V5</adminCode2>
+<adminName2>Midlothian</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bilston%2C_Midlothian</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.19417</west>
+<north>55.8793</north>
+<east>-3.16211</east>
+<south>55.86131</south>
+</bbox>
+<score>82.66799926757812</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Smalley</toponymName>
+<name>Smalley</name>
+<lat>52.99854</lat>
+<lng>-1.39462</lng>
+<geonameId>2637620</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UB</adminCode3>
+<adminName3>Amber Valley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Smalley%2C_Derbyshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.40956</west>
+<north>53.00753</north>
+<east>-1.37967</east>
+<south>52.98955</south>
+</bbox>
+<score>79.28153991699219</score>
+</geoname>
+<geoname>
+<toponymName>Smalley</toponymName>
+<name>Smalley</name>
+<lat>52.99793</lat>
+<lng>-1.39109</lng>
+<geonameId>7294820</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UB</adminCode3>
+<adminName3>Amber Valley District</adminName3>
+<adminCode4>17UB029</adminCode4>
+<adminName4>Smalley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.4205</west>
+<north>53.01888</north>
+<east>-1.36168</east>
+<south>52.97699</south>
+</bbox>
+<score>73.60771942138672</score>
+</geoname>
+</geonames>

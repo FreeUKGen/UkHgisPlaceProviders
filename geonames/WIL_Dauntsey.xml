@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Dauntsey</toponymName>
+<name>Dauntsey</name>
+<lat>51.53636</lat>
+<lng>-2.00594</lng>
+<geonameId>7293762</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY078</adminCode3>
+<adminName3>Dauntsey</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dauntsey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.03983</west>
+<north>51.55634</north>
+<east>-1.97205</east>
+<south>51.51638</south>
+</bbox>
+<score>78.01551818847656</score>
+</geoname>
+</geonames>

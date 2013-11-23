@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Badger</toponymName>
+<name>Badger</name>
+<lat>52.5957</lat>
+<lng>-2.34205</lng>
+<geonameId>7297089</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG017</adminCode3>
+<adminName3>Badger</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Badger%2C_Shropshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.36237</west>
+<north>52.60553</north>
+<east>-2.32172</east>
+<south>52.58587</south>
+</bbox>
+<score>57.19306564331055</score>
+</geoname>
+<geoname>
+<toponymName>Badger</toponymName>
+<name>Badger</name>
+<lat>52.59282</lat>
+<lng>-2.34435</lng>
+<geonameId>2656649</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG017</adminCode3>
+<adminName3>Badger</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.35916</west>
+<north>52.60182</north>
+<east>-2.32954</east>
+<south>52.58383</south>
+</bbox>
+<score>48.61071014404297</score>
+</geoname>
+</geonames>

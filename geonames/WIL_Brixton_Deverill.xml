@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Brixton Deverill</toponymName>
+<name>Brixton Deverill</name>
+<lat>51.13719</lat>
+<lng>-2.19794</lng>
+<geonameId>7299309</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY032</adminCode3>
+<adminName3>Brixton Deverill</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.24841</west>
+<north>51.15567</north>
+<east>-2.14746</east>
+<south>51.11871</south>
+</bbox>
+<score>97.90917205810547</score>
+</geoname>
+<geoname>
+<toponymName>Brixton Deverill</toponymName>
+<name>Brixton Deverill</name>
+<lat>51.14732</lat>
+<lng>-2.19804</lng>
+<geonameId>3345418</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY032</adminCode3>
+<adminName3>Brixton Deverill</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brixton_Deverill</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.21238</west>
+<north>51.15632</north>
+<east>-2.1837</east>
+<south>51.13833</south>
+</bbox>
+<score>87.10505676269531</score>
+</geoname>
+</geonames>

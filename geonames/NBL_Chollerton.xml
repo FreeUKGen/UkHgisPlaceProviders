@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Chollerton</toponymName>
+<name>Chollerton</name>
+<lat>55.08174</lat>
+<lng>-2.12064</lng>
+<geonameId>7296751</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM037</adminCode3>
+<adminName3>Chollerton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.21318</west>
+<north>55.12711</north>
+<east>-2.0281</east>
+<south>55.03637</south>
+</bbox>
+<score>103.42410278320312</score>
+</geoname>
+<geoname>
+<toponymName>Chollerton</toponymName>
+<name>Chollerton</name>
+<lat>55.04129</lat>
+<lng>-2.10966</lng>
+<geonameId>2653097</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Challerton,Chollerton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM037</adminCode3>
+<adminName3>Chollerton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chollerton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.12536</west>
+<north>55.05028</north>
+<east>-2.09396</east>
+<south>55.0323</south>
+</bbox>
+<score>97.51449584960938</score>
+</geoname>
+</geonames>

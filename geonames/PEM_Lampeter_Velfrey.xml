@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Lampeter Velfrey</toponymName>
+<name>Lampeter Velfrey</name>
+<lat>51.78715</lat>
+<lng>-4.67085</lng>
+<geonameId>7292305</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS029</adminCode3>
+<adminName3>Lampeter Velfrey</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.72491</west>
+<north>51.82112</north>
+<east>-4.61679</east>
+<south>51.75317</south>
+</bbox>
+<score>98.97911071777344</score>
+</geoname>
+<geoname>
+<toponymName>Lampeter Velfrey</toponymName>
+<name>Lampeter Velfrey</name>
+<lat>51.79776</lat>
+<lng>-4.67744</lng>
+<geonameId>2644980</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS029</adminCode3>
+<adminName3>Lampeter Velfrey</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.69199</west>
+<north>51.80675</north>
+<east>-4.6629</east>
+<south>51.78877</south>
+</bbox>
+<score>59.21356201171875</score>
+</geoname>
+</geonames>

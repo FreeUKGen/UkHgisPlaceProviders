@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hinton St. George</toponymName>
+<name>Hinton St. George</name>
+<lat>50.90921</lat>
+<lng>-2.82482</lng>
+<geonameId>7294137</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD050</adminCode4>
+<adminName4>Hinton St. George</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.85185</west>
+<north>50.92383</north>
+<east>-2.81004</east>
+<south>50.89311</south>
+</bbox>
+<score>68.70966339111328</score>
+</geoname>
+<geoname>
+<toponymName>Hinton Saint George</toponymName>
+<name>Hinton</name>
+<lat>50.9</lat>
+<lng>-2.8</lng>
+<geonameId>2646842</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>404</population>
+<alternateNames>Hinton,Hinton Saint George,Hinton St George,Hinton St. George</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<alternateName lang="en">Hinton</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hinton_St_George</alternateName>
+<alternateName lang="post">TA17</alternateName>
+<alternateName lang="unlc">HIO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.80143</west>
+<north>50.9009</north>
+<east>-2.79857</east>
+<south>50.8991</south>
+</bbox>
+<score>66.8023681640625</score>
+</geoname>
+</geonames>

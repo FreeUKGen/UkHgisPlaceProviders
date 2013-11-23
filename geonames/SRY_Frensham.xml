@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Frensham</toponymName>
+<name>Frensham</name>
+<lat>51.16589</lat>
+<lng>-0.79608</lng>
+<geonameId>2649071</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UL</adminCode3>
+<adminName3>Waverley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Frensham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.81042</west>
+<north>51.17488</north>
+<east>-0.78173</east>
+<south>51.1569</south>
+</bbox>
+<score>88.10171508789062</score>
+</geoname>
+<geoname>
+<toponymName>Frensham</toponymName>
+<name>Frensham</name>
+<lat>51.15985</lat>
+<lng>-0.78352</lng>
+<geonameId>7291072</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UL</adminCode3>
+<adminName3>Waverley District</adminName3>
+<adminCode4>43UL011</adminCode4>
+<adminName4>Frensham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.83039</west>
+<north>51.18643</north>
+<east>-0.73665</east>
+<south>51.13327</south>
+</bbox>
+<score>78.35757446289062</score>
+</geoname>
+</geonames>

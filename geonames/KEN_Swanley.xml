@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Swanley</toponymName>
+<name>Swanley</name>
+<lat>51.39717</lat>
+<lng>0.17321</lng>
+<geonameId>2636439</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>20986</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>6945814</adminCode3>
+<adminName3>Sevenoaks</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Swanley</alternateName>
+<alternateName lang="unlc">SAY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.14348</west>
+<north>51.41571</north>
+<east>0.20294</east>
+<south>51.37863</south>
+</bbox>
+<score>112.60264587402344</score>
+</geoname>
+<geoname>
+<toponymName>Swanley</toponymName>
+<name>Swanley</name>
+<lat>51.39881</lat>
+<lng>0.18108</lng>
+<geonameId>7295890</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>76.66249084472656</score>
+</geoname>
+</geonames>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Dunham-on-Trent</toponymName>
+<name>Dunham-on-Trent</name>
+<lat>53.264</lat>
+<lng>-0.78574</lng>
+<geonameId>7292028</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<adminCode4>37UC016</adminCode4>
+<adminName4>Dunham-on-Trent</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dunham%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.80719</west>
+<north>53.2766</north>
+<east>-0.76428</east>
+<south>53.2514</south>
+</bbox>
+<score>54.39793395996094</score>
+</geoname>
+</geonames>

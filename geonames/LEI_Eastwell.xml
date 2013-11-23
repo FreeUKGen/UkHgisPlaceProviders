@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Eastwell</toponymName>
+<name>Eastwell</name>
+<lat>52.84996</lat>
+<lng>-0.84972</lng>
+<geonameId>2650317</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UG</adminCode3>
+<adminName3>Melton District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eastwell%2C_Leicestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.86462</west>
+<north>52.85895</north>
+<east>-0.83483</east>
+<south>52.84096</south>
+</bbox>
+<score>82.30455017089844</score>
+</geoname>
+<geoname>
+<toponymName>Eastwell</toponymName>
+<name>Eastwell</name>
+<lat>51.18698</lat>
+<lng>0.8762</lng>
+<geonameId>7296478</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<adminCode4>29UB014</adminCode4>
+<adminName4>Eastwell</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eastwell%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.86115</west>
+<north>51.19861</north>
+<east>0.89125</east>
+<south>51.17535</south>
+</bbox>
+<score>53.69615936279297</score>
+</geoname>
+<geoname>
+<toponymName>Eastwell Park</toponymName>
+<name>Eastwell Park</name>
+<lat>51.19094</lat>
+<lng>0.88526</lng>
+<geonameId>2650315</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames>Eastwell,Eastwell Park</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eastwell_Park</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>44.688140869140625</score>
+</geoname>
+</geonames>

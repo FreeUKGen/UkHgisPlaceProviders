@@ -1,0 +1,68 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>129</id>
+<name>FLINT</name>
+<container>FLINTSHIRE</container>
+<lat>53.2560407285001</lat>
+<lon>-3.1360984621212</lon>
+<gazetteerText>Flint, cap. of co., parl. and mun. bor., seaport, market town, and par., Flintshire, on SW. shore of the estuary of the Dee, 12&#190; miles NW. of Chester and 191 NW. of London by rail -- par., 1608 ac. and 1260 tidal water and foreshore, pop. 4744; mun. bor., 3335 ac., pop. 5096; parl. bor., 3767 ac., pop. 5320; P.O., T.O., 1 Bank. Market-day, Saturday. In the vicinity are extensive alkali works, and works for the mfr. of copper; also, several lead and coal mines. The imports are sulphur and other chemicals; the exports are copper and coal, soda, potash, and other chemical products. Flint Castle (a little NE. of the town, on the shore of the estuary), commenced by Henry II., and completed by Edward I., was the prison of Richard II.; it surrendered to the Parliamentary forces in 1643, was afterwards dismantled, and has since remained in ruins. The Flint Boroughs, for parliamentary purposes, consist of Flint, Caergwrle, Caerwys, Holywell, Mold, Overton, Rhuddlan, and St Asaph; they return 1 member to Parliament. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/wal/FLN/Flint/index.html</link>
+<link>http://en.wikipedia.org/wiki/Flint,_Flintshire</link>
+<link>http://www.geonames.org/2649301</link>
+</links>
+<unit>
+   <id>10019448</id>
+   <status>MB</status>
+   <name>FLINT</name>
+</unit>
+<unit>
+   <id>10019450</id>
+   <status>Ch/AP/CP</status>
+   <name>FLINT</name>
+</unit>
+<unit>
+   <id>10544889</id>
+   <status></status>
+   <name>FLINT</name>
+</unit>
+<unit>
+   <id>12735728</id>
+   <status>DistBCon</status>
+   <name>FLINT</name>
+</unit>
+<unit>
+   <id>12747550</id>
+   <status>CCon</status>
+   <name>WEST FLINT</name>
+</unit>
+<unit>
+   <id>12782895</id>
+   <status></status>
+   <name>FLINT</name>
+</unit>
+<unit>
+   <id>12827404</id>
+   <status>USD</status>
+   <name>FLINT</name>
+</unit>
+<unit>
+   <id>12833726</id>
+   <status></status>
+   <name>FLINT</name>
+</unit>
+<nearByPlace>
+   <id>4346</id>
+   <name>HALKYN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5098</id>
+   <name>COLESHILL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17256</id>
+   <name>FLINTSHIRE</name>
+</nearByPlace>
+</place>
+</results>

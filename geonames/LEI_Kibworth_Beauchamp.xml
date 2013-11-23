@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Kibworth Beauchamp</toponymName>
+<name>Kibworth Beauchamp</name>
+<lat>52.5331</lat>
+<lng>-0.99802</lng>
+<geonameId>7296329</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UD</adminCode3>
+<adminName3>Harborough District</adminName3>
+<adminCode4>31UD042</adminCode4>
+<adminName4>Kibworth Beauchamp</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.03727</west>
+<north>52.54554</north>
+<east>-0.95877</east>
+<south>52.52066</south>
+</bbox>
+<score>78.00064849853516</score>
+</geoname>
+</geonames>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bromsgrove</toponymName>
+<name>Bromsgrove</name>
+<lat>52.33574</lat>
+<lng>-2.05983</lng>
+<geonameId>2654579</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>29237</population>
+<alternateNames>Bromsgrovas,beulomseugeulobeu,브롬스그로브</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UB</adminCode3>
+<adminName3>Bromsgrove District</adminName3>
+<alternateName lang="ko">브롬스그로브</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bromsgrove</alternateName>
+<alternateName lang="lt">Bromsgrovas</alternateName>
+<alternateName lang="unlc">BGV</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.09591</west>
+<north>52.35777</north>
+<east>-2.02376</east>
+<south>52.31371</south>
+</bbox>
+<score>103.18524169921875</score>
+</geoname>
+</geonames>

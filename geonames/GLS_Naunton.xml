@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Naunton</toponymName>
+<name>Naunton</name>
+<lat>51.9</lat>
+<lng>-1.83333</lng>
+<geonameId>2641865</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Naunton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Naunton</alternateName>
+<alternateName lang="unlc">NNO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.84791</west>
+<north>51.90899</north>
+<east>-1.81875</east>
+<south>51.89101</south>
+</bbox>
+<score>91.3851547241211</score>
+</geoname>
+<geoname>
+<toponymName>Naunton</toponymName>
+<name>Naunton</name>
+<lat>51.9081</lat>
+<lng>-1.8376</lng>
+<geonameId>7298575</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<adminCode4>23UC072</adminCode4>
+<adminName4>Naunton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.88074</west>
+<north>51.92896</north>
+<east>-1.79446</east>
+<south>51.88725</south>
+</bbox>
+<score>80.16380310058594</score>
+</geoname>
+</geonames>

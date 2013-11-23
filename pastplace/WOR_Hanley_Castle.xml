@@ -1,0 +1,141 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>9897</id>
+<name>HANLEY CASTLE</name>
+<container>WORCESTERSHIRE</container>
+<lat>52.0850604037467</lat>
+<lon>-2.26595753252514</lon>
+<gazetteerText>HANLEY-CASTLE, a village, a parish, and a subdistrict, in Upton-on-Severn district, Worcester. The village stands on the W side of the river Severn, 1&#189; mile NW of Upton-on-Severn r. station, and 6 W of Defford; and has a post office &#8225; under Worcester. The parish includes also the village of Malvern Wells, and the hamlets of Blackmore End, Hanley-Quay, and Gilberts-End. Acres, 5, 630. Real property, &#163;14, 308. Pop., 1, 733. Houses, 367. A castle here, some remains of which exist, belonged to Brictic who refused the hand of Maud, afterwards the wife of William the Conqueror; passed to the Earls of Warwick; was the death place of Henry-de-Beauchamp; and passed to the Despencers, the Savages, the Arles, the Lechmeres, and the Charltons. Hanley Castle mansion is now the seat of Thomas Gee, Esq.; Blackmore Park is the seat of John V. Hornyold, Esq.; Rhydd Court is the property of Sir Edmund A. H. Lechmere, Bart.; and Severn End is the ancient seat of the Lechmere family. Invalids resort to Malvern Wells; and there is a wharf on the Severn at Hanley-Quay. The living is a vicarage in the diocese of Worcester. Value, &#163;650. * Patron, Sir E. A. H. Lechmere, Bart. The church is partly decorated English, partly brickwork of 1674; has a tower; was restored in 1858; and has two recent memorial windows. The p. curacy of Malvern Wells is a separate benefice. There are a Roman Catholic chapel, an endowed grammar school, rebuilt in 1869, a national school, and a working men&apos;s institute. -The sub-district includes five other parishes. Acres, 20, 007. Pop., 11, 377. Houses, 2, 011. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/WOR/HanleyCastle/index.html</link>
+<link>http://en.wikipedia.org/wiki/Hanley_Castle</link>
+<link>http://www.geonames.org/2647524</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42863</link>
+</links>
+<unit>
+   <id>10334299</id>
+   <status>CP/AP</status>
+   <name>HANLEY CASTLE</name>
+</unit>
+<unit>
+   <id>10334305</id>
+   <status>EP</status>
+   <name>CASTLE HANLEY</name>
+</unit>
+<nearByPlace>
+   <id>10130</id>
+   <name>WELLAND</name>
+</nearByPlace>
+</place>
+<place>
+<id>307</id>
+<name>MALVERN</name>
+<container>WORCESTERSHIRE</container>
+<lat>52.1070128408011</lat>
+<lon>-2.32270173994206</lon>
+<gazetteerText>Malvern (or Great Malvern), town, par., township, and watering-place, Worcestershire, 9 miles SW. of Worcester and 123 miles from London by rail - par., 5021 ac., pop. 8157; township, pop. 7934; town, 1828 ac., pop. 5846; P.O. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Great_Malvern</link>
+<link>http://www.genuki.org.uk/big/eng/WOR/GreatMalvern/index.html</link>
+<link>http://en.wikipedia.org/wiki/Malvern_Link</link>
+<link>http://www.geonames.org/7290434</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42867</link>
+</links>
+<unit>
+   <id>10025357</id>
+   <status>UD</status>
+   <name>GREAT MALVERN</name>
+</unit>
+<unit>
+   <id>10042537</id>
+   <status>UD</status>
+   <name>MALVERN</name>
+</unit>
+<unit>
+   <id>10168429</id>
+   <status></status>
+   <name>MALVERN HILLS</name>
+</unit>
+<unit>
+   <id>10194088</id>
+   <status>USD</status>
+   <name>GREAT MALVERN</name>
+</unit>
+<unit>
+   <id>10335670</id>
+   <status>CP/AP</status>
+   <name>GREAT MALVERN</name>
+</unit>
+<unit>
+   <id>10335681</id>
+   <status>EP</status>
+   <name>GREAT MALVERN</name>
+</unit>
+<unit>
+   <id>10335693</id>
+   <status>EP</status>
+   <name>GREAT MALVERN CHRIST CHURCH</name>
+</unit>
+<unit>
+   <id>10335700</id>
+   <status>EP</status>
+   <name>GREAT MALVERN HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10552357</id>
+   <status></status>
+   <name>MALVERN</name>
+</unit>
+<unit>
+   <id>10576829</id>
+   <status></status>
+   <name>MALVERN</name>
+</unit>
+<unit>
+   <id>12836739</id>
+   <status></status>
+   <name>MALVERN</name>
+</unit>
+<nearByPlace>
+   <id>530</id>
+   <name>LEDBURY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1188</id>
+   <name>MALVERN WELLS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2791</id>
+   <name>COLWALL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5310</id>
+   <name>BOSBURY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6179</id>
+   <name>MATHON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9888</id>
+   <name>GUARLFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9897</id>
+   <name>HANLEY CASTLE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9922</id>
+   <name>KEMPSEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9950</id>
+   <name>WEST MALVERN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10118</id>
+   <name>UPTON UPON SEVERN</name>
+</nearByPlace>
+</place>
+</results>

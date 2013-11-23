@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hunstanworth</toponymName>
+<name>Hunstanworth</name>
+<lat>54.82294</lat>
+<lng>-2.10067</lng>
+<geonameId>7300084</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ060</adminCode3>
+<adminName3>Hunstanworth</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.16946</west>
+<north>54.84838</north>
+<east>-2.03188</east>
+<south>54.7975</south>
+</bbox>
+<score>114.15132141113281</score>
+</geoname>
+<geoname>
+<toponymName>Hunstanworth</toponymName>
+<name>Hunstanworth</name>
+<lat>54.83616</lat>
+<lng>-2.07968</lng>
+<geonameId>2646401</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hunstanworth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ060</adminCode3>
+<adminName3>Hunstanworth</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hunstanworth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.0953</west>
+<north>54.84515</north>
+<east>-2.06406</east>
+<south>54.82716</south>
+</bbox>
+<score>108.45050811767578</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Lapley</toponymName>
+<name>Lapley</name>
+<lat>52.71413</lat>
+<lng>-2.18775</lng>
+<geonameId>2644870</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UF</adminCode3>
+<adminName3>South Staffordshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lapley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.20259</west>
+<north>52.72313</north>
+<east>-2.1729</east>
+<south>52.70514</south>
+</bbox>
+<score>90.77827453613281</score>
+</geoname>
+</geonames>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Burnham-on-Sea</toponymName>
+<name>Burnham-on-Sea</name>
+<lat>51.23862</lat>
+<lng>-2.9978</lng>
+<geonameId>2654269</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>18401</population>
+<alternateNames>Burnham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burnham-on-Sea</alternateName>
+<alternateName lang="unlc">BMA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.02562</west>
+<north>51.25604</north>
+<east>-2.96997</east>
+<south>51.22121</south>
+</bbox>
+<score>110.48574829101562</score>
+</geoname>
+</geonames>

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>Whitton</toponymName>
+<name>Whitton</name>
+<lat>53.70811</lat>
+<lng>-0.62654</lng>
+<geonameId>7296930</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD051</adminCode3>
+<adminName3>Whitton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.66391</west>
+<north>53.72446</north>
+<east>-0.58917</east>
+<south>53.69175</south>
+</bbox>
+<score>89.63029479980469</score>
+</geoname>
+<geoname>
+<toponymName>Whitton</toponymName>
+<name>Whitton</name>
+<lat>52.30161</lat>
+<lng>-3.1173</lng>
+<geonameId>7297854</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN107</adminCode3>
+<adminName3>Whitton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.19597</west>
+<north>52.33641</north>
+<east>-3.03863</east>
+<south>52.26682</south>
+</bbox>
+<score>89.63029479980469</score>
+</geoname>
+<geoname>
+<toponymName>Whitton</toponymName>
+<name>Whitton</name>
+<lat>52.35541</lat>
+<lng>-2.6273</lng>
+<geonameId>7301096</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG194</adminCode3>
+<adminName3>Whitton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.64714</west>
+<north>52.36648</north>
+<east>-2.60745</east>
+<south>52.34433</south>
+</bbox>
+<score>89.63029479980469</score>
+</geoname>
+<geoname>
+<toponymName>Whitton</toponymName>
+<name>Whitton</name>
+<lat>52.08333</lat>
+<lng>1.13333</lng>
+<geonameId>2634008</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Whitton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UD</adminCode3>
+<adminName3>Ipswich District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Whitton%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.11869</west>
+<north>52.09233</north>
+<east>1.14797</east>
+<south>52.07434</south>
+</bbox>
+<score>82.26531982421875</score>
+</geoname>
+<geoname>
+<toponymName>Whitton</toponymName>
+<name>Whitton</name>
+<lat>52.09119</lat>
+<lng>1.12801</lng>
+<geonameId>7291793</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<adminCode4>42UE112</adminCode4>
+<adminName4>Whitton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.1158</west>
+<north>52.09508</north>
+<east>1.14022</east>
+<south>52.0873</south>
+</bbox>
+<score>64.71858215332031</score>
+</geoname>
+<geoname>
+<toponymName>Whitton</toponymName>
+<name>Whitton</name>
+<lat>53.7</lat>
+<lng>-0.63333</lng>
+<geonameId>2634006</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD051</adminCode3>
+<adminName3>Whitton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Whitton%2C_North_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.66373</west>
+<north>53.71799</north>
+<east>-0.60294</east>
+<south>53.68201</south>
+</bbox>
+<score>58.3543701171875</score>
+</geoname>
+<geoname>
+<toponymName>Whitton</toponymName>
+<name>Whitton</name>
+<lat>55.48333</lat>
+<lng>-2.38333</lng>
+<geonameId>2634005</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T9</adminCode2>
+<adminName2>Scottish Borders</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.39921</west>
+<north>55.49233</north>
+<east>-2.36746</east>
+<south>55.47434</south>
+</bbox>
+<score>51.44963073730469</score>
+</geoname>
+<geoname>
+<toponymName>Whitton</toponymName>
+<name>Whitton</name>
+<lat>51.44941</lat>
+<lng>-0.35688</lng>
+<geonameId>2634004</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>L1</adminCode3>
+<adminName3>Richmond upon Thames</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.36266</west>
+<north>51.453</north>
+<east>-0.35111</east>
+<south>51.44581</south>
+</bbox>
+<score>32.359291076660156</score>
+</geoname>
+<geoname>
+<toponymName>Whitton</toponymName>
+<name>Whitton</name>
+<lat>52.3</lat>
+<lng>-3.06667</lng>
+<geonameId>2634007</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN107</adminCode3>
+<adminName3>Whitton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.09609</west>
+<north>52.31799</north>
+<east>-3.03724</east>
+<south>52.28201</south>
+</bbox>
+<score>32.359291076660156</score>
+</geoname>
+</geonames>

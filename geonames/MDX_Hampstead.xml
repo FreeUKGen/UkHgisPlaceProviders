@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Hampstead</toponymName>
+<name>Hampstead</name>
+<lat>51.55744</lat>
+<lng>-0.18213</lng>
+<geonameId>2647553</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hampsted,Khampsted,Khampstehd,haempeuseutideu,hmpstd,Хампстед,Хампстэд,המפסטד,ہیمپسٹیڈ,햄프스티드</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>C4</adminCode3>
+<adminName3>Camden</adminName3>
+<alternateName lang="az">Hampsted</alternateName>
+<alternateName lang="be">Хампстэд</alternateName>
+<alternateName lang="he">המפסטד</alternateName>
+<alternateName lang="ko">햄프스티드</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hampstead</alternateName>
+<alternateName lang="ru">Хампстед</alternateName>
+<alternateName lang="unlc">HMS</alternateName>
+<alternateName lang="ur">ہیمپسٹیڈ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.1966</west>
+<north>51.56643</north>
+<east>-0.16766</east>
+<south>51.54844</south>
+</bbox>
+<score>54.24504852294922</score>
+</geoname>
+</geonames>

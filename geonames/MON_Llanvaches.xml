@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanvaches</toponymName>
+<name>Llanvaches</name>
+<lat>51.63213</lat>
+<lng>-2.82865</lng>
+<geonameId>7292962</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y6</adminCode2>
+<adminName2>City of Newport</adminName2>
+<adminCode3>00PR013</adminCode3>
+<adminName3>Llanvaches</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.85423</west>
+<north>51.64942</north>
+<east>-2.80307</east>
+<south>51.61485</south>
+</bbox>
+<score>114.15132141113281</score>
+</geoname>
+<geoname>
+<toponymName>Llanvaches</toponymName>
+<name>Llanvaches</name>
+<lat>51.62111</lat>
+<lng>-2.81833</lng>
+<geonameId>2643929</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Llanvaches</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y6</adminCode2>
+<adminName2>City of Newport</adminName2>
+<adminCode3>00PR013</adminCode3>
+<adminName3>Llanvaches</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanvaches</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.84732</west>
+<north>51.6391</north>
+<east>-2.78935</east>
+<south>51.60312</south>
+</bbox>
+<score>86.8673095703125</score>
+</geoname>
+</geonames>

@@ -1,0 +1,55 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>12792</id>
+<name>OLD LEAKE</name>
+<container>LINCOLNSHIRE</container>
+<lat>53.0311235413773</lat>
+<lon>0.0998790051218575</lon>
+<gazetteerText>LEAKE, a parish in Boston district, Lincoln; on the East Lincoln railway, the Hobhole drain, and the coast, 7 miles NE of Boston. It contains Old Leake r. station and New Leake village, and has a post office under Boston. Acres, 7, 655; of which 1, 775 are fen. Real property, &#163;15, 312. Pop. in 1811, 922; in 1851, 2, 062; in 1861, 1, 912. Houses, 376. The increase of pop. from 1811 to 1851 arose chiefly from the enclosure of 1, 537 acres in the East Fen. The property is much subdivided, but is largely held by four. Moat House, about 1&#189; mile E of the church, occupies the site of an ancient chantry; was rebuilt, in 1835, by the Hon.B. Percy; and contains wainscotted rooms, and some curious carving. Derby Hall, at a short distance, is a large ancient mansion. The living is a vicarage in the diocese of Lincoln. Value, &#163;200. * Patrons, the Governors of Oakham and Uppingham schools. The church has a clerestoried nave, partly later English, but chiefly decorated, and a tower built in 1490-1547; and contains three sedilia, an octagonal font, and an alabaster effigies of a knight. There are two Wesleyan chapels, a Primitive Methodist chapel, a British school, and charities &#163;150. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LIN/Leake/</link>
+<link>http://en.wikipedia.org/wiki/Old_Leake</link>
+<link>http://www.geonames.org/2641012</link>
+</links>
+<unit>
+   <id>10429869</id>
+   <status>CP/AP</status>
+   <name>LEAKE</name>
+</unit>
+<unit>
+   <id>10429870</id>
+   <status>EP</status>
+   <name>LEAKE</name>
+</unit>
+<unit>
+   <id>10429894</id>
+   <status>CP</status>
+   <name>OLD LEAKE</name>
+</unit>
+</place>
+<place>
+<id>12791</id>
+<name>NEW LEAKE</name>
+<container>LINCOLNSHIRE</container>
+<lat>53.0915796802128</lat>
+<lon>0.0878854968399393</lon>
+<gazetteerText>Leake.-- coast par., Lincolnshire, partly within the parl. limits of Boston, 9514 ac. (1775 water), pop. 2120; contains Old Leake, vil. with ry. sta., 7 miles NE. of Boston; P.O., T.O.; and New Leake, vil., 3 miles NE. of Old Leake sta.; P.O. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.geonames.org/7301736</link>
+</links>
+<unit>
+   <id>10429882</id>
+   <status>CP</status>
+   <name>NEW LEAKE</name>
+</unit>
+<nearByPlace>
+   <id>12175</id>
+   <name>EASTVILLE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13007</id>
+   <name>MIDVILLE</name>
+</nearByPlace>
+</place>
+</results>

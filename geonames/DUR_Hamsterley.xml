@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hamsterley</toponymName>
+<name>Hamsterley</name>
+<lat>54.66521</lat>
+<lng>-1.8126</lng>
+<geonameId>7294471</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ049</adminCode3>
+<adminName3>Hamsterley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hamsterley%2C_Bishop_Auckland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.85431</west>
+<north>54.68419</north>
+<east>-1.7709</east>
+<south>54.64622</south>
+</bbox>
+<score>72.39717102050781</score>
+</geoname>
+<geoname>
+<toponymName>Hamsterley</toponymName>
+<name>Hamsterley</name>
+<lat>54.68333</lat>
+<lng>-1.81667</lng>
+<geonameId>2647542</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ049</adminCode3>
+<adminName3>Hamsterley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.8478</west>
+<north>54.70132</north>
+<east>-1.78554</east>
+<south>54.66535</south>
+</bbox>
+<score>40.849117279052734</score>
+</geoname>
+</geonames>

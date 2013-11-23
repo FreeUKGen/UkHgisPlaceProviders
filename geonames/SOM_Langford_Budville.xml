@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Langford Budville</toponymName>
+<name>Langford Budville</name>
+<lat>50.99744</lat>
+<lng>-3.26885</lng>
+<geonameId>6620458</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>473</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Langford_Budville</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.27028</west>
+<north>50.99834</north>
+<east>-3.26742</east>
+<south>50.99654</south>
+</bbox>
+<score>86.14631652832031</score>
+</geoname>
+<geoname>
+<toponymName>Langford Budville</toponymName>
+<name>Langford Budville</name>
+<lat>50.99531</lat>
+<lng>-3.27032</lng>
+<geonameId>7293947</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<adminCode4>40UE023</adminCode4>
+<adminName4>Langford Budville</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.30391</west>
+<north>51.01288</north>
+<east>-3.23673</east>
+<south>50.97773</south>
+</bbox>
+<score>76.38514709472656</score>
+</geoname>
+</geonames>

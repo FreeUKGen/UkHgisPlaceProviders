@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Eastham</toponymName>
+<name>Eastham</name>
+<lat>53.31406</lat>
+<lng>-2.97077</lng>
+<geonameId>2650429</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q1</adminCode2>
+<adminName2>Wirral</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eastham%2C_Merseyside</alternateName>
+<alternateName lang="unlc">EAM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.98583</west>
+<north>53.32305</north>
+<east>-2.95571</east>
+<south>53.30506</south>
+</bbox>
+<score>78.08712768554688</score>
+</geoname>
+<geoname>
+<toponymName>Eastham</toponymName>
+<name>Eastham</name>
+<lat>52.30258</lat>
+<lng>-2.49098</lng>
+<geonameId>7299671</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UC</adminCode3>
+<adminName3>Malvern Hills District</adminName3>
+<adminCode4>47UC018</adminCode4>
+<adminName4>Eastham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eastham%2C_Worcestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.52309</west>
+<north>52.319</north>
+<east>-2.45886</east>
+<south>52.28616</south>
+</bbox>
+<score>51.079734802246094</score>
+</geoname>
+</geonames>

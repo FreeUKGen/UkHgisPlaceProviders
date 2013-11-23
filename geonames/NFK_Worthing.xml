@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Worthing</toponymName>
+<name>Worthing</name>
+<lat>50.81448</lat>
+<lng>-0.37126</lng>
+<geonameId>2633521</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>99110</population>
+<alternateNames>Vorting,Worthing,wajingu,wwrtyng,Вортинг,وورتینگ,ワージング</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UH</adminCode3>
+<adminName3>Worthing District</adminName3>
+<alternateName lang="de">Worthing</alternateName>
+<alternateName lang="en">Worthing</alternateName>
+<alternateName lang="fa">وورتینگ</alternateName>
+<alternateName lang="ja">ワージング</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Worthing</alternateName>
+<alternateName lang="nl">Worthing</alternateName>
+<alternateName lang="no">Worthing</alternateName>
+<alternateName lang="sr">Вортинг</alternateName>
+<alternateName lang="unlc">WOT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.43577</west>
+<north>50.8552</north>
+<east>-0.30676</east>
+<south>50.77376</south>
+</bbox>
+<score>161.28976440429688</score>
+</geoname>
+<geoname>
+<toponymName>Worthing</toponymName>
+<name>Worthing</name>
+<lat>52.73333</lat>
+<lng>0.95</lng>
+<geonameId>2633520</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Worthing</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Worthing%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.93514</west>
+<north>52.74233</north>
+<east>0.96486</east>
+<south>52.72434</south>
+</bbox>
+<score>92.36358642578125</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Cynwyl Elfed</toponymName>
+<name>Cynwyl Elfed</name>
+<lat>51.92254</lat>
+<lng>-4.36739</lng>
+<geonameId>2652428</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Conwil-Elvet,Conwil-in-Elvet,Cynwyl Elfed</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU013</adminCode3>
+<adminName3>Cynwyl Elfed</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cynwyl_Elfed</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.38198</west>
+<north>51.93154</north>
+<east>-4.35281</east>
+<south>51.91355</south>
+</bbox>
+<score>55.53854751586914</score>
+</geoname>
+</geonames>

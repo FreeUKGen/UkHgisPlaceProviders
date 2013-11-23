@@ -1,0 +1,38 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>7144</id>
+<name>SOUTH ELMHAM ST CROSS</name>
+<container>SUFFOLK</container>
+<lat>52.4021764643934</lat>
+<lon>1.3840050514</lon>
+<gazetteerText>ELMHAM (South)-St. Cross, or Sandcroft, a parish in Wangford district, Suffolk; adjacent to the river Waveney, and to the Waveney Valley railway, near Homersfield r. station, 5 miles SW of Bungay. Post town, South Elmham-St. Margaret, under Harlestone. Acres, 1, 110. Real property, &#163;1, 973. Pop., 238. Houses, 46. The property is subdivided. The living is a rectory, annexed to the rectory of Homersfield, in the diocese of Norwich. The church is tolerable. Some remains exist of a moated minster, with nave 42 feet by 27, and apsidal chancel 24 feet. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/SFK/SouthElmhamStCross/index.html</link>
+<link>http://www.genuki.org.uk/big/eng/SFK/Sandcroft/index.html</link>
+</links>
+<unit>
+   <id>10253846</id>
+   <status>CP/AP</status>
+   <name>SOUTH ELMHAM ST CROSS</name>
+</unit>
+<unit>
+   <id>10253858</id>
+   <status>EP</status>
+   <name>SOUTH ELMHAM ST CROSS</name>
+</unit>
+<unit>
+   <id>10253883</id>
+   <status>EP</status>
+   <name>SOUTH ELMHAM ST CROSS WITH HOMERSFIELD</name>
+</unit>
+<nearByPlace>
+   <id>7142</id>
+   <name>SOUTH ELMHAM ALL SAINTS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7147</id>
+   <name>SOUTH ELMHAM ST MARGARET</name>
+</nearByPlace>
+</place>
+</results>

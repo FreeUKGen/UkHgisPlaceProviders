@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Caerphilly</toponymName>
+<name>Caerphilly</name>
+<lat>51.57452</lat>
+<lng>-3.218</lng>
+<geonameId>2654089</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>31060</population>
+<alternateNames>Caerffili,Caerphilly,Kerfili,Керфили</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X4</adminCode2>
+<adminName2>Caerphilly</adminName2>
+<adminCode3>00PK007</adminCode3>
+<adminName3>Caerphilly</adminName3>
+<alternateName lang="cy">Caerffili</alternateName>
+<alternateName lang="ru">Керфили</alternateName>
+<alternateName lang="unlc">CAE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.25419</west>
+<north>51.597</north>
+<east>-3.1818</east>
+<south>51.55204</south>
+</bbox>
+<score>119.53581237792969</score>
+</geoname>
+<geoname>
+<toponymName>Caerphilly</toponymName>
+<name>Caerphilly</name>
+<lat>51.57174</lat>
+<lng>-3.21894</lng>
+<geonameId>7296029</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X4</adminCode2>
+<adminName2>Caerphilly</adminName2>
+<adminCode3>00PK007</adminCode3>
+<adminName3>Caerphilly</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Caerphilly</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.24522</west>
+<north>51.5938</north>
+<east>-3.19265</east>
+<south>51.54968</south>
+</bbox>
+<score>75.53816223144531</score>
+</geoname>
+<geoname>
+<toponymName>County Borough of Caerphilly</toponymName>
+<name>County Borough of Caerphilly</name>
+<lat>51.66667</lat>
+<lng>-3.16667</lng>
+<geonameId>3333240</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Bwrdeistref Sirol Caerffili,CAY,Caerphilly</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X4</adminCode2>
+<adminName2>Caerphilly</adminName2>
+<alternateName lang="abbr">CAY</alternateName>
+<alternateName lang="cy">Bwrdeistref Sirol Caerffili</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Caerphilly_County_Borough</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.33446</west>
+<north>51.79897</north>
+<east>-3.06363</east>
+<south>51.54567</south>
+</bbox>
+<score>73.42872619628906</score>
+</geoname>
+<geoname>
+<toponymName>Caerphilly Castle</toponymName>
+<name>Caerphilly Castle</name>
+<lat>51.57605</lat>
+<lng>-3.22034</lng>
+<geonameId>6286665</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames>Caerphilly,Caerphilly Castle,Caerphilly gaztelua,Castell Caerffili,Castelo de Caerphilly,Castillo de Caerphilly,Chateau de Caerphilly,Château de Caerphilly,Kastell Caerffili,Zamek Caerphilly,Zamok Kajrfilli,Zamuk Karfili,kerufiri cheng,Замок Кайрфилли,Замък Карфили,ケルフィリー城</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X4</adminCode2>
+<adminName2>Caerphilly</adminName2>
+<alternateName lang="bg">Замък Карфили</alternateName>
+<alternateName lang="br">Kastell Caerffili</alternateName>
+<alternateName lang="cs">Caerphilly</alternateName>
+<alternateName lang="cy">Castell Caerffili</alternateName>
+<alternateName lang="de">Caerphilly Castle</alternateName>
+<alternateName lang="en">Caerphilly Castle</alternateName>
+<alternateName lang="es">Castillo de Caerphilly</alternateName>
+<alternateName lang="eu">Caerphilly gaztelua</alternateName>
+<alternateName lang="fr">Château de Caerphilly</alternateName>
+<alternateName lang="ja">ケルフィリー城</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Caerphilly_Castle</alternateName>
+<alternateName lang="pl">Zamek Caerphilly</alternateName>
+<alternateName lang="pt">Castelo de Caerphilly</alternateName>
+<alternateName lang="ru">Замок Кайрфилли</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>47.97297286987305</score>
+</geoname>
+</geonames>

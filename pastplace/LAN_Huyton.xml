@@ -1,0 +1,114 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>93</id>
+<name>HUYTON</name>
+<container>LANCASHIRE</container>
+<lat>53.4129675683846</lat>
+<lon>-2.84436929982609</lon>
+<gazetteerText>HUYTON, a village, a township, a parish, and a subdistrict, in Prescot district, Lancashire. The village stands near the Manchester and Liverpool railway, 5&#189; miles E of Liverpool; contains, with its neighbourhood, many good houses; and has a station on the railway, and a post office&#8225; under Liverpool. The township comprises 1, 630 acres. Real property, &#163;10, 593; of which &#163;369 are in quarries. Pop. in 1851, 1, 295; in 1861, 1, 612. Houses, 283. The parish contains also the townships of Knowsley, Roby, and Tarbock. Acres, 9, 807. Real property, &#163;32, 942; of which &#163;1, 367 are in mines, and &#163;699 in quarries. Pop. in 1861, 4, 054. Houses, 724. Much of the land, with Knowsley Hall, belongs to the Earl of Derby. Tarbock is the property of the Earl of Sefton. The Hazels is the seat of Sir Thomas B. Berch, Bart. Stone is quarried; and about 200 acres are peat moss. The living is a vicarage in the diocese of ChesterValue, &#163;690.* Patron, the Earl of Derby. The church is ancient; was recently restored; and has two good memorial windows, and an ancient carved oak screen. The p. curacies of Knowsley and Roby are separate benefices. There are chapels for Independents and Roman Catholics, national schools for Huyton and Knowsley, and charities &#163;40. The Independent chapel is a recent and handsome edifice, in the pointed style.-The subdistrict contains also Thingwall hamlet. Pop., 4, 094. Houses, 732. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LAN/Huyton/</link>
+<link>http://en.wikipedia.org/wiki/Huyton</link>
+<link>http://www.geonames.org/2646329</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41315</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41317</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41314</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41316</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41313</link>
+</links>
+<unit>
+   <id>10002849</id>
+   <status>UD</status>
+   <name>HUYTON WITH ROBY</name>
+</unit>
+<unit>
+   <id>10154560</id>
+   <status>USD</status>
+   <name>HUYTON WITH ROBY</name>
+</unit>
+<unit>
+   <id>10368418</id>
+   <status>CP/AP</status>
+   <name>HUYTON</name>
+</unit>
+<unit>
+   <id>10368420</id>
+   <status>EP</status>
+   <name>HUYTON</name>
+</unit>
+<unit>
+   <id>10368443</id>
+   <status>EP</status>
+   <name>HUYTON ST GEORGE</name>
+</unit>
+<unit>
+   <id>10368455</id>
+   <status>CP/Tn</status>
+   <name>HUYTON WITH ROBY</name>
+</unit>
+<unit>
+   <id>10566228</id>
+   <status></status>
+   <name>HUYTON</name>
+</unit>
+<unit>
+   <id>12756045</id>
+   <status>CCon</status>
+   <name>HUYTON</name>
+</unit>
+<nearByPlace>
+   <id>229</id>
+   <name>LITTLE WOOLTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>681</id>
+   <name>MUCH WOOLTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>795</id>
+   <name>CHILDWALL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10065</id>
+   <name>CRONTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10122</id>
+   <name>DITTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10294</id>
+   <name>HALE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10300</id>
+   <name>HALEWOOD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10916</id>
+   <name>TARBOCK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11031</id>
+   <name>WHISTON</name>
+</nearByPlace>
+</place>
+<place>
+<id>24964</id>
+<name>HUYTON QUARRY</name>
+<container>LANCASHIRE</container>
+<lat>53.4109344744101</lat>
+<lon>-2.81998824306385</lon>
+<gazetteerText>HUYTON-QUARRY, a place in Huyton parish, Lancashire; near the Manchester and Liverpool railway, 1&#190; mile E of Huyton village. It has a station on the railway. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Huyton_Quarry_railway_station</link>
+<link>http://www.geonames.org/2646328</link>
+</links>
+<unit>
+   <id>10368431</id>
+   <status>EP</status>
+   <name>HUYTON QUARRY</name>
+</unit>
+</place>
+</results>

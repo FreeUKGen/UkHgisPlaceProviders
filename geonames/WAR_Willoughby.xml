@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Willoughby</toponymName>
+<name>Willoughby</name>
+<lat>53.21667</lat>
+<lng>0.2</lng>
+<geonameId>2633892</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Willoughby</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Willoughby%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.18498</west>
+<north>53.22566</north>
+<east>0.21502</east>
+<south>53.20767</south>
+</bbox>
+<score>89.3405532836914</score>
+</geoname>
+<geoname>
+<toponymName>Willoughby</toponymName>
+<name>Willoughby</name>
+<lat>52.30087</lat>
+<lng>-1.23785</lng>
+<geonameId>2633893</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UD</adminCode3>
+<adminName3>Rugby District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Willoughby%2C_Warwickshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.25256</west>
+<north>52.30986</north>
+<east>-1.22314</east>
+<south>52.29188</south>
+</bbox>
+<score>75.05618286132812</score>
+</geoname>
+<geoname>
+<toponymName>Willoughby</toponymName>
+<name>Willoughby</name>
+<lat>52.30579</lat>
+<lng>-1.23772</lng>
+<geonameId>7301488</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UD</adminCode3>
+<adminName3>Rugby District</adminName3>
+<adminCode4>44UD036</adminCode4>
+<adminName4>Willoughby</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.26619</west>
+<north>52.32191</north>
+<east>-1.20925</east>
+<south>52.28967</south>
+</bbox>
+<score>69.11868286132812</score>
+</geoname>
+<geoname>
+<toponymName>Willoughby on the Wolds</toponymName>
+<name>Willoughby on the Wolds</name>
+<lat>52.82199</lat>
+<lng>-1.05502</lng>
+<geonameId>2633891</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Willoughby,Willoughby on the Wolds</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Willoughby_on_the_Wolds</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.0699</west>
+<north>52.83099</north>
+<east>-1.04013</east>
+<south>52.813</south>
+</bbox>
+<score>54.952117919921875</score>
+</geoname>
+</geonames>

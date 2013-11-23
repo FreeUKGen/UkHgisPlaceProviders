@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Neenton</toponymName>
+<name>Neenton</name>
+<lat>52.48748</lat>
+<lng>-2.5292</lng>
+<geonameId>7297106</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG135</adminCode3>
+<adminName3>Neenton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.55503</west>
+<north>52.50785</north>
+<east>-2.50336</east>
+<south>52.46711</south>
+</bbox>
+<score>114.34236145019531</score>
+</geoname>
+<geoname>
+<toponymName>Neenton</toponymName>
+<name>Neenton</name>
+<lat>52.48734</lat>
+<lng>-2.53733</lng>
+<geonameId>2641819</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG135</adminCode3>
+<adminName3>Neenton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Neenton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.5521</west>
+<north>52.49634</north>
+<east>-2.52256</east>
+<south>52.47835</south>
+</bbox>
+<score>92.34625244140625</score>
+</geoname>
+</geonames>

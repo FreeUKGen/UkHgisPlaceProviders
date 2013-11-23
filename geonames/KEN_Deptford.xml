@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Deptford</toponymName>
+<name>Deptford</name>
+<lat>51.47764</lat>
+<lng>-0.02609</lng>
+<geonameId>2651349</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Deptford,dbtfwrd,Дептфорд,دبتفورد</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>H6</adminCode3>
+<adminName3>Lewisham</adminName3>
+<alternateName lang="ar">دبتفورد</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Deptford</alternateName>
+<alternateName lang="ru">Дептфорд</alternateName>
+<alternateName lang="unlc">DEP</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.04054</west>
+<north>51.48663</north>
+<east>-0.01165</east>
+<south>51.46865</south>
+</bbox>
+<score>78.06544494628906</score>
+</geoname>
+<geoname>
+<toponymName>Deptford</toponymName>
+<name>Deptford</name>
+<lat>51.15</lat>
+<lng>-1.98333</lng>
+<geonameId>2651350</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.99767</west>
+<north>51.15899</north>
+<east>-1.96899</east>
+<south>51.14101</south>
+</bbox>
+<score>59.33858108520508</score>
+</geoname>
+</geonames>

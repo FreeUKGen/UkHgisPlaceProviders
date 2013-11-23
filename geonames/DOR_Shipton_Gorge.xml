@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Shipton Gorge</toponymName>
+<name>Shipton Gorge</name>
+<lat>50.72311</lat>
+<lng>-2.70346</lng>
+<geonameId>7298417</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH103</adminCode4>
+<adminName4>Shipton Gorge</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shipton_Gorge</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.73412</west>
+<north>50.73256</north>
+<east>-2.67279</east>
+<south>50.71367</south>
+</bbox>
+<score>53.696739196777344</score>
+</geoname>
+</geonames>

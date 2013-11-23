@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Battle</toponymName>
+<name>Battle</name>
+<lat>50.92651</lat>
+<lng>0.47903</lng>
+<geonameId>2656162</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E2</adminCode2>
+<adminName2>East Sussex</adminName2>
+<adminCode3>21UG</adminCode3>
+<adminName3>Rother District</adminName3>
+<adminCode4>21UG002</adminCode4>
+<adminName4>Battle</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.41181</west>
+<north>50.96093</north>
+<east>0.54624</east>
+<south>50.8921</south>
+</bbox>
+<score>64.80899047851562</score>
+</geoname>
+<geoname>
+<toponymName>Battle</toponymName>
+<name>Battle</name>
+<lat>50.91732</lat>
+<lng>0.48417</lng>
+<geonameId>2656161</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6171</population>
+<alternateNames>Battl,Battle,Battle i East Sussex,ba te er,baeteul,Баттл,巴特尔,배틀</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E2</adminCode2>
+<adminName2>East Sussex</adminName2>
+<adminCode3>21UG</adminCode3>
+<adminName3>Rother District</adminName3>
+<alternateName lang="ko">배틀</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Battle%2C_East_Sussex</alternateName>
+<alternateName lang="nn">Battle i East Sussex</alternateName>
+<alternateName lang="ru">Баттл</alternateName>
+<alternateName lang="unlc">BTE</alternateName>
+<alternateName lang="zh">巴特尔</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.46822</west>
+<north>50.92738</north>
+<east>0.50012</east>
+<south>50.90727</south>
+</bbox>
+<score>64.0513687133789</score>
+</geoname>
+</geonames>

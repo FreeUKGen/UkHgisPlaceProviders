@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Kirkham</toponymName>
+<name>Kirkham</name>
+<lat>53.78244</lat>
+<lng>-2.87189</lng>
+<geonameId>2645280</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>10603</population>
+<alternateNames>Kirkham,Kirkham i Lancashire</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UF</adminCode3>
+<adminName3>Fylde District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirkham%2C_Lancashire</alternateName>
+<alternateName lang="nn">Kirkham i Lancashire</alternateName>
+<alternateName lang="unlc">KIK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.89342</west>
+<north>53.79516</north>
+<east>-2.85036</east>
+<south>53.76972</south>
+</bbox>
+<score>95.22860717773438</score>
+</geoname>
+<geoname>
+<toponymName>Kirkham</toponymName>
+<name>Kirkham</name>
+<lat>54.08288</lat>
+<lng>-0.87294</lng>
+<geonameId>2645279</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kirkham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UF</adminCode3>
+<adminName3>Ryedale District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirkham%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.88828</west>
+<north>54.09188</north>
+<east>-0.85761</east>
+<south>54.07389</south>
+</bbox>
+<score>87.67294311523438</score>
+</geoname>
+<geoname>
+<toponymName>Kirkham</toponymName>
+<name>Kirkham</name>
+<lat>53.78021</lat>
+<lng>-2.88379</lng>
+<geonameId>7295874</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UF</adminCode3>
+<adminName3>Fylde District</adminName3>
+<adminCode4>30UF005</adminCode4>
+<adminName4>Kirkham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.91078</west>
+<north>53.79063</north>
+<east>-2.85681</east>
+<south>53.76979</south>
+</bbox>
+<score>69.07518005371094</score>
+</geoname>
+</geonames>

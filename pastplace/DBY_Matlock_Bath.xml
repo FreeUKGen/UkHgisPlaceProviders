@@ -1,0 +1,125 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1166</id>
+<name>MATLOCK</name>
+<container>DERBYSHIRE</container>
+<lat>53.143320596533</lat>
+<lon>-1.56775887541709</lon>
+<gazetteerText>Matlock, town and par., Derbyshire, on river Derwent - par., 4539 ac., pop. 6093; town (ry. sta. Matlock Bridge), 17 miles NW. of Derby and 144 miles NW. of London by rail, pop. 4395; 1 Bank, and P.O., T.O., and 3 Banks at Matlock Bridge; the par. contains Matlock Bath, town with ry. sta., 1 mile S. of Matlock, pop. (including Scarthin Nick) 1698; P.O., T.O.; Market-day, Saturday; also Matlock Bank, 1 mile N. of Matlock; P.O., T.O. Matlock Bath is the celebrated place for medicinal waters, which were first used for curative purposes in 1698. The locality is likewise famed for its beautifully romantic scenery. There are several large stalactite caverns. Most of the inhabitants of the town of Matlock are engaged in the mfr. of cotton goods and spar ornaments; but there are also paper mills (at Matlock Bath), corn mills, and bleachworks, and in the vicinity are lead-mines. The rising district of Matlock Bank is well known for its hydropathic establishments. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Matlock</link>
+<link>http://en.wikipedia.org/wiki/Matlock_Bath</link>
+<link>http://www.genuki.org.uk/big/eng/DBY/Matlock/index.html</link>
+<link>http://www.geonames.org/2642910</link>
+</links>
+<unit>
+   <id>10062135</id>
+   <status>UD</status>
+   <name>MATLOCK</name>
+</unit>
+<unit>
+   <id>10062147</id>
+   <status>UD</status>
+   <name>THE MATLOCKS</name>
+</unit>
+<unit>
+   <id>10067388</id>
+   <status>USD</status>
+   <name>MATLOCK BATH AND SCARTHIN NICK</name>
+</unit>
+<unit>
+   <id>10070612</id>
+   <status>EP</status>
+   <name>MATLOCK</name>
+</unit>
+<unit>
+   <id>10076031</id>
+   <status>CP</status>
+   <name>MATLOCK BATH</name>
+</unit>
+<unit>
+   <id>10109310</id>
+   <status>UD</status>
+   <name>MATLOCK</name>
+</unit>
+<unit>
+   <id>10127970</id>
+   <status>EP</status>
+   <name>MATLOCK BATH</name>
+</unit>
+<unit>
+   <id>10153852</id>
+   <status>UD</status>
+   <name>MATLOCK BATH AND SCARTHIN NICK</name>
+</unit>
+<unit>
+   <id>10154686</id>
+   <status>USD</status>
+   <name>MATLOCK</name>
+</unit>
+<unit>
+   <id>10163833</id>
+   <status>AP/CP</status>
+   <name>MATLOCK</name>
+</unit>
+<unit>
+   <id>10544683</id>
+   <status></status>
+   <name>MATLOCK</name>
+</unit>
+<unit>
+   <id>12833489</id>
+   <status></status>
+   <name>MATLOCK</name>
+</unit>
+<nearByPlace>
+   <id>323</id>
+   <name>NORTH DARLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>109</id>
+   <name>SOUTH DARLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4148</id>
+   <name>TANSLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2350</id>
+   <name>CRICH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4158</id>
+   <name>WINSTER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1750</id>
+   <name>BIRCHOVER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4144</id>
+   <name>STANTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3815</id>
+   <name>BEELEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4035</id>
+   <name>DARLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3206</id>
+   <name>ELTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4040</id>
+   <name>DETHICK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4153</id>
+   <name>WENSLEY</name>
+</nearByPlace>
+</place>
+</results>

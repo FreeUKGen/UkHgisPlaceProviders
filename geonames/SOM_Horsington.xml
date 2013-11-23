@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Horsington</toponymName>
+<name>Horsington</name>
+<lat>53.19544</lat>
+<lng>-0.22866</lng>
+<geonameId>7295490</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC080</adminCode4>
+<adminName4>Horsington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.28533</west>
+<north>53.217</north>
+<east>-0.17198</east>
+<south>53.17387</south>
+</bbox>
+<score>76.81265258789062</score>
+</geoname>
+<geoname>
+<toponymName>Horsington</toponymName>
+<name>Horsington</name>
+<lat>53.2</lat>
+<lng>-0.21667</lng>
+<geonameId>2646555</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.23168</west>
+<north>53.20899</north>
+<east>-0.20165</east>
+<south>53.19101</south>
+</bbox>
+<score>61.14515686035156</score>
+</geoname>
+<geoname>
+<toponymName>Horsington</toponymName>
+<name>Horsington</name>
+<lat>51.01683</lat>
+<lng>-2.42312</lng>
+<geonameId>7292411</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD052</adminCode4>
+<adminName4>Horsington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Horsington%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.46599</west>
+<north>51.03374</north>
+<east>-2.38025</east>
+<south>50.99992</south>
+</bbox>
+<score>52.062957763671875</score>
+</geoname>
+</geonames>

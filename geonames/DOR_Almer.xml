@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Almer</toponymName>
+<name>Almer</name>
+<lat>50.7896</lat>
+<lng>-2.12493</lng>
+<geonameId>2657456</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UD</adminCode3>
+<adminName3>East Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Almer</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.13916</west>
+<north>50.7986</north>
+<east>-2.1107</east>
+<south>50.78061</south>
+</bbox>
+<score>90.29023742675781</score>
+</geoname>
+</geonames>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Dudley</toponymName>
+<name>Dudley</name>
+<lat>52.5</lat>
+<lng>-2.08333</lng>
+<geonameId>2650839</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>199059</population>
+<alternateNames>Dadli,Dadlis,Dudley,Dudli,Ntantlei,da de li,dad liy,dadly, anglstan,Ντάντλεϊ,Дадли,Дадлі,Дъдли,دادلی، انگلستان,ดัดลีย์,達德利</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D7</adminCode2>
+<adminName2>Dudley</adminName2>
+<alternateName lang="az">Dadli</alternateName>
+<alternateName lang="bg">Дъдли</alternateName>
+<alternateName lang="de">Dudley</alternateName>
+<alternateName lang="el">Ντάντλεϊ</alternateName>
+<alternateName lang="en">Dudley</alternateName>
+<alternateName lang="eo">Dudley</alternateName>
+<alternateName lang="fa">دادلی، انگلستان</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dudley</alternateName>
+<alternateName lang="lt">Dadlis</alternateName>
+<alternateName lang="nl">Dudley</alternateName>
+<alternateName lang="ru">Дадли</alternateName>
+<alternateName lang="sr">Дадли</alternateName>
+<alternateName lang="th">ดัดลีย์</alternateName>
+<alternateName lang="uk">Дадлі</alternateName>
+<alternateName lang="unlc">DDL</alternateName>
+<alternateName lang="zh">達德利</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.17834</west>
+<north>52.55776</north>
+<east>-1.98832</east>
+<south>52.44224</south>
+</bbox>
+<score>112.10008239746094</score>
+</geoname>
+<geoname>
+<toponymName>Borough of Dudley</toponymName>
+<name>Borough of Dudley</name>
+<lat>52.5</lat>
+<lng>-2.11667</lng>
+<geonameId>3333144</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>DUD,Dudley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D7</adminCode2>
+<adminName2>Dudley</adminName2>
+<alternateName lang="abbr">DUD</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Metropolitan_Borough_of_Dudley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.19195</west>
+<north>52.55821</north>
+<east>-2.01142</east>
+<south>52.426</south>
+</bbox>
+<score>71.60661315917969</score>
+</geoname>
+</geonames>

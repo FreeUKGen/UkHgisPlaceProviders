@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Collingbourne Ducis</toponymName>
+<name>Collingbourne Ducis</name>
+<lat>51.27597</lat>
+<lng>-1.64104</lng>
+<geonameId>7299335</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY068</adminCode3>
+<adminName3>Collingbourne Ducis</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Collingbourne_Ducis</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.69996</west>
+<north>51.29599</north>
+<east>-1.58211</east>
+<south>51.25595</south>
+</bbox>
+<score>74.9636459350586</score>
+</geoname>
+<geoname>
+<toponymName>Collingbourne Ducis</toponymName>
+<name>Collingbourne Ducis</name>
+<lat>51.28516</lat>
+<lng>-1.65252</lng>
+<geonameId>2652560</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Collingbourne Ducis</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY068</adminCode3>
+<adminName3>Collingbourne Ducis</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.6669</west>
+<north>51.29416</north>
+<east>-1.63814</east>
+<south>51.27617</south>
+</bbox>
+<score>57.092857360839844</score>
+</geoname>
+</geonames>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Heytesbury</toponymName>
+<name>Heytesbury</name>
+<lat>51.19092</lat>
+<lng>-2.07732</lng>
+<geonameId>7300347</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY116</adminCode3>
+<adminName3>Heytesbury</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.14811</west>
+<north>51.25485</north>
+<east>-2.00654</east>
+<south>51.12699</south>
+</bbox>
+<score>112.29936218261719</score>
+</geoname>
+<geoname>
+<toponymName>Heytesbury</toponymName>
+<name>Heytesbury</name>
+<lat>51.1824</lat>
+<lng>-2.10682</lng>
+<geonameId>2646998</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Heytesbury</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY116</adminCode3>
+<adminName3>Heytesbury</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Heytesbury</alternateName>
+<alternateName lang="unlc">HTY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.12117</west>
+<north>51.1914</north>
+<east>-2.09247</east>
+<south>51.17341</south>
+</bbox>
+<score>92.63963317871094</score>
+</geoname>
+</geonames>

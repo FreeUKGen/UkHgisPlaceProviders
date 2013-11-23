@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Belton</toponymName>
+<name>Belton</name>
+<lat>53.56239</lat>
+<lng>-0.82951</lng>
+<geonameId>7290728</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD007</adminCode3>
+<adminName3>Belton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.90111</west>
+<north>53.58698</north>
+<east>-0.7579</east>
+<south>53.53779</south>
+</bbox>
+<score>82.40011596679688</score>
+</geoname>
+<geoname>
+<toponymName>Belton</toponymName>
+<name>Belton</name>
+<lat>52.94998</lat>
+<lng>-0.61626</lng>
+<geonameId>2655933</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Belton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Belton%2C_Lincolnshire</alternateName>
+<alternateName lang="unlc">BLQ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.63119</west>
+<north>52.95898</north>
+<east>-0.60133</east>
+<south>52.94099</south>
+</bbox>
+<score>66.05963134765625</score>
+</geoname>
+<geoname>
+<toponymName>Belton</toponymName>
+<name>Belton</name>
+<lat>52.78314</lat>
+<lng>-1.3381</lng>
+<geonameId>2655934</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>6896157</adminCode3>
+<adminName3>North West Leicestershire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Belton%2C_Leicestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.35297</west>
+<north>52.79214</north>
+<east>-1.32323</east>
+<south>52.77415</south>
+</bbox>
+<score>63.980079650878906</score>
+</geoname>
+<geoname>
+<toponymName>Belton</toponymName>
+<name>Belton</name>
+<lat>52.77347</lat>
+<lng>-1.34409</lng>
+<geonameId>7299148</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>59.540283203125</score>
+</geoname>
+<geoname>
+<toponymName>Belton</toponymName>
+<name>Belton</name>
+<lat>53.55</lat>
+<lng>-0.81667</lng>
+<geonameId>2655932</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD007</adminCode3>
+<adminName3>Belton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Belton%2C_North_Lincolnshire</alternateName>
+<alternateName lang="unlc">BEN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.84696</west>
+<north>53.56799</north>
+<east>-0.78638</east>
+<south>53.53201</south>
+</bbox>
+<score>51.753257751464844</score>
+</geoname>
+<geoname>
+<toponymName>Belton</toponymName>
+<name>Belton</name>
+<lat>52.6019</lat>
+<lng>-0.79496</lng>
+<geonameId>2655935</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L4</adminCode2>
+<adminName2>Rutland</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.80977</west>
+<north>52.61089</north>
+<east>-0.78015</east>
+<south>52.59291</south>
+</bbox>
+<score>47.3134651184082</score>
+</geoname>
+<geoname>
+<toponymName>Belton</toponymName>
+<name>Belton</name>
+<lat>52.5679</lat>
+<lng>1.65979</lng>
+<geonameId>2655936</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UD</adminCode3>
+<adminName3>Great Yarmouth District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.64499</west>
+<north>52.57689</north>
+<east>1.67459</east>
+<south>52.55891</south>
+</bbox>
+<score>47.3134651184082</score>
+</geoname>
+</geonames>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Waltham</toponymName>
+<name>Waltham</name>
+<lat>53.51245</lat>
+<lng>-0.09341</lng>
+<geonameId>7296499</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC018</adminCode3>
+<adminName3>Waltham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.11974</west>
+<north>53.52816</north>
+<east>-0.06709</east>
+<south>53.49673</south>
+</bbox>
+<score>89.22712707519531</score>
+</geoname>
+<geoname>
+<toponymName>Waltham</toponymName>
+<name>Waltham</name>
+<lat>53.51667</lat>
+<lng>-0.1</lng>
+<geonameId>2634844</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>6563</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC018</adminCode3>
+<adminName3>Waltham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Waltham%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.11692</west>
+<north>53.52672</north>
+<east>-0.08308</east>
+<south>53.50661</south>
+</bbox>
+<score>69.4139633178711</score>
+</geoname>
+<geoname>
+<toponymName>Waltham</toponymName>
+<name>Waltham</name>
+<lat>51.19779</lat>
+<lng>1.01632</lng>
+<geonameId>2634845</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>6945807</adminCode3>
+<adminName3>City of Canterbury</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.00197</west>
+<north>51.20679</north>
+<east>1.03068</east>
+<south>51.1888</south>
+</bbox>
+<score>51.2339973449707</score>
+</geoname>
+<geoname>
+<toponymName>Waltham</toponymName>
+<name>Waltham</name>
+<lat>50.9</lat>
+<lng>-0.66667</lng>
+<geonameId>2634846</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UD</adminCode3>
+<adminName3>Chichester District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.68093</west>
+<north>50.90899</north>
+<east>-0.6524</east>
+<south>50.89101</south>
+</bbox>
+<score>51.2339973449707</score>
+</geoname>
+<geoname>
+<toponymName>Waltham on the Wolds</toponymName>
+<name>Waltham on the Wolds</name>
+<lat>52.81698</lat>
+<lng>-0.80835</lng>
+<geonameId>2634840</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Waltham,Waltham on the Wolds</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UG</adminCode3>
+<adminName3>Melton District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Waltham_on_the_Wolds</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.82324</west>
+<north>52.82597</north>
+<east>-0.79347</east>
+<south>52.80798</south>
+</bbox>
+<score>51.07571029663086</score>
+</geoname>
+<geoname>
+<toponymName>Waltham</toponymName>
+<name>Waltham</name>
+<lat>51.19637</lat>
+<lng>1.02383</lng>
+<geonameId>7296033</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Waltham%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>45.440040588378906</score>
+</geoname>
+</geonames>

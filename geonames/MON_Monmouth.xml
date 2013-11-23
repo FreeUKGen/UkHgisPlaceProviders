@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Monmouth</toponymName>
+<name>Monmouth</name>
+<lat>51.81842</lat>
+<lng>-2.70853</lng>
+<geonameId>2647730</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Monmouth,Monmouthshire,Mynwy</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP025</adminCode3>
+<adminName3>Monmouth</adminName3>
+<alternateName lang="cy">Mynwy</alternateName>
+<alternateName lang="en">Monmouth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.76725</west>
+<north>51.84879</north>
+<east>-2.6498</east>
+<south>51.78806</south>
+</bbox>
+<score>67.87443542480469</score>
+</geoname>
+<geoname>
+<toponymName>Monmouth</toponymName>
+<name>Monmouth</name>
+<lat>51.81265</lat>
+<lng>-2.71363</lng>
+<geonameId>2642313</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8547</population>
+<alternateNames>Menoe,Monemuta,Monmouth,Monmut,Trefynwy,manama'utha,meng mao si,monama'utha,monmasu,monmeoseu,mwnmwt',vikipidiya sahara,Монмут,Монмът,מאנמעטה,מונמות',मनमाउथ,मॉनमाउथ,विकिपीडिया शहर,മൊൻമത്,モンマス,蒙茅斯,몬머스</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP025</adminCode3>
+<adminName3>Monmouth</adminName3>
+<alternateName lang="ba">Монмут</alternateName>
+<alternateName lang="bg">Монмът</alternateName>
+<alternateName lang="br">Menoe</alternateName>
+<alternateName lang="cy">Trefynwy</alternateName>
+<alternateName lang="en">Monmouth</alternateName>
+<alternateName lang="ga">Trefynwy</alternateName>
+<alternateName lang="he">מונמות'</alternateName>
+<alternateName lang="hi">मॉनमाउथ</alternateName>
+<alternateName lang="ja">モンマス</alternateName>
+<alternateName lang="ko">몬머스</alternateName>
+<alternateName lang="la">Monemuta</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Monmouth</alternateName>
+<alternateName lang="ml">മൊൻമത്</alternateName>
+<alternateName lang="mr">विकिपीडिया शहर</alternateName>
+<alternateName lang="ne">मनमाउथ</alternateName>
+<alternateName lang="post">NP25</alternateName>
+<alternateName lang="ru">Монмут</alternateName>
+<alternateName lang="sr">Монмут</alternateName>
+<alternateName lang="uk">Монмут</alternateName>
+<alternateName lang="unlc">MMO</alternateName>
+<alternateName lang="yi">מאנמעטה</alternateName>
+<alternateName lang="zh">蒙茅斯</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.73288</west>
+<north>51.82455</north>
+<east>-2.69438</east>
+<south>51.80076</south>
+</bbox>
+<score>61.442626953125</score>
+</geoname>
+</geonames>

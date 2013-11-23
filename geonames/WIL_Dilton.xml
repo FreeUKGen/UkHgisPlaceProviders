@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Dilton Marsh</toponymName>
+<name>Dilton Marsh</name>
+<lat>51.24776</lat>
+<lng>-2.21834</lng>
+<geonameId>2651257</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Dilton,Dilton Marsh</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY080</adminCode3>
+<adminName3>Dilton Marsh</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dilton_Marsh</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.23271</west>
+<north>51.25676</north>
+<east>-2.20397</east>
+<south>51.23877</south>
+</bbox>
+<score>63.80509948730469</score>
+</geoname>
+</geonames>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Swaffham Prior</toponymName>
+<name>Swaffham Prior</name>
+<lat>52.25245</lat>
+<lng>0.30066</lng>
+<geonameId>2636462</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>2650488</adminCode3>
+<adminName3>East Cambridgeshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Swaffham_Prior</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.28597</west>
+<north>52.26144</north>
+<east>0.31536</east>
+<south>52.24346</south>
+</bbox>
+<score>85.79137420654297</score>
+</geoname>
+<geoname>
+<toponymName>Swaffham Prior</toponymName>
+<name>Swaffham Prior</name>
+<lat>52.26505</lat>
+<lng>0.29573</lng>
+<geonameId>7299830</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>75.94573974609375</score>
+</geoname>
+</geonames>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Witcham</toponymName>
+<name>Witcham</name>
+<lat>52.39844</lat>
+<lng>0.14935</lng>
+<geonameId>2633753</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>2650488</adminCode3>
+<adminName3>East Cambridgeshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Witcham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.1346</west>
+<north>52.40743</north>
+<east>0.16409</east>
+<south>52.38945</south>
+</bbox>
+<score>88.4434814453125</score>
+</geoname>
+<geoname>
+<toponymName>Witcham</toponymName>
+<name>Witcham</name>
+<lat>52.41302</lat>
+<lng>0.15382</lng>
+<geonameId>7291132</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>78.8701400756836</score>
+</geoname>
+</geonames>

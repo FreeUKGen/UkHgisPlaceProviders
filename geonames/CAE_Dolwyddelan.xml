@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Dolwyddelan</toponymName>
+<name>Dolwyddelan</name>
+<lat>53.04683</lat>
+<lng>-3.90826</lng>
+<geonameId>7294424</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<adminCode3>00NE012</adminCode3>
+<adminName3>Dolwyddelan</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dolwyddelan</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.99721</west>
+<north>53.08304</north>
+<east>-3.81931</east>
+<south>53.01063</south>
+</bbox>
+<score>78.12171936035156</score>
+</geoname>
+<geoname>
+<toponymName>Dolwyddelan</toponymName>
+<name>Dolwyddelan</name>
+<lat>53.05393</lat>
+<lng>-3.88865</lng>
+<geonameId>2651144</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Dolwyddelan</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<adminCode3>00NE012</adminCode3>
+<adminName3>Dolwyddelan</adminName3>
+<alternateName lang="unlc">DOY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.90361</west>
+<north>53.06293</north>
+<east>-3.87368</east>
+<south>53.04494</south>
+</bbox>
+<score>60.13359832763672</score>
+</geoname>
+</geonames>

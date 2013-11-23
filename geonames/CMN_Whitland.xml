@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Whitland</toponymName>
+<name>Whitland</name>
+<lat>51.81791</lat>
+<lng>-4.61667</lng>
+<geonameId>7294073</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU073</adminCode3>
+<adminName3>Whitland</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Whitland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.64342</west>
+<north>51.83366</north>
+<east>-4.58991</east>
+<south>51.80216</south>
+</bbox>
+<score>76.02869415283203</score>
+</geoname>
+<geoname>
+<toponymName>Whitland</toponymName>
+<name>Whitland</name>
+<lat>51.81889</lat>
+<lng>-4.61528</lng>
+<geonameId>2634035</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Hendy Gwyn,Whitland</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU073</adminCode3>
+<adminName3>Whitland</adminName3>
+<alternateName lang="cy">Hendy Gwyn</alternateName>
+<alternateName lang="en">Whitland</alternateName>
+<alternateName lang="unlc">WHI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.64439</west>
+<north>51.83688</north>
+<east>-4.58617</east>
+<south>51.8009</south>
+</bbox>
+<score>45.19708251953125</score>
+</geoname>
+</geonames>

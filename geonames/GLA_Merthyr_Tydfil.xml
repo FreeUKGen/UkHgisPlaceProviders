@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Merthyr Tydfil</toponymName>
+<name>Merthyr Tydfil</name>
+<lat>51.74794</lat>
+<lng>-3.37779</lng>
+<geonameId>2642705</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>30821</population>
+<alternateNames>Co-chorp Coontae Verthyr Tudful,Merter Tidvilis,Merthyr Tudful,Merthyr Tydfil,Mertir Tidvil,Mertir-Tidvil,Mertyr Tydfil,Murdur Tidfil,mei se di de fei er,meoseotideubil ju,Мертир Тидвил,Мертир-Тидвил,Мертір-Тідвіл,Мърдър Тидфил,梅瑟蒂德菲尔,머서티드빌 주</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y3</adminCode2>
+<adminName2>Merthyr Tydfil</adminName2>
+<adminCode3>00PH009</adminCode3>
+<adminName3>Town</adminName3>
+<alternateName lang="bg">Мърдър Тидфил</alternateName>
+<alternateName lang="br">Merthyr Tudful</alternateName>
+<alternateName lang="ca">Merthyr Tudful</alternateName>
+<alternateName lang="cy">Merthyr Tudful</alternateName>
+<alternateName lang="da">Merthyr Tydfil</alternateName>
+<alternateName lang="de">Merthyr Tydfil</alternateName>
+<alternateName lang="en">Merthyr Tydfil</alternateName>
+<alternateName lang="gv">Co-chorp Coontae Verthyr Tudful</alternateName>
+<alternateName lang="it">Merthyr Tydfil</alternateName>
+<alternateName lang="ko">머서티드빌 주</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Merthyr_Tydfil</alternateName>
+<alternateName lang="lt">Merter Tidvilis</alternateName>
+<alternateName lang="no">Merthyr Tydfil</alternateName>
+<alternateName lang="pl">Merthyr Tydfil</alternateName>
+<alternateName lang="pt">Merthyr Tydfil</alternateName>
+<alternateName lang="ro">Merthyr Tydfil</alternateName>
+<alternateName lang="ru">Мертир-Тидвил</alternateName>
+<alternateName lang="sv">Merthyr Tydfil</alternateName>
+<alternateName lang="uk">Мертір-Тідвіл</alternateName>
+<alternateName lang="unlc">MET</alternateName>
+<alternateName lang="zh">梅瑟蒂德菲尔</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.41412</west>
+<north>51.77042</north>
+<east>-3.34145</east>
+<south>51.72546</south>
+</bbox>
+<score>148.35110473632812</score>
+</geoname>
+<geoname>
+<toponymName>County Borough of Merthyr Tydfil</toponymName>
+<name>County Borough of Merthyr Tydfil</name>
+<lat>51.75</lat>
+<lng>-3.33333</lng>
+<geonameId>3333243</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>Bwrdeistref Sirol Merthyr Tudful,MTY,Merthyr Tydfil</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y3</adminCode2>
+<adminName2>Merthyr Tydfil</adminName2>
+<alternateName lang="abbr">MTY</alternateName>
+<alternateName lang="cy">Bwrdeistref Sirol Merthyr Tudful</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.45308</west>
+<north>51.8351</north>
+<east>-3.27392</east>
+<south>51.64472</south>
+</bbox>
+<score>88.33364868164062</score>
+</geoname>
+</geonames>

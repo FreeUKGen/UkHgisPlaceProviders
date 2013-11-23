@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Ryme Intrinseca</toponymName>
+<name>Ryme Intrinseca</name>
+<lat>50.89506</lat>
+<lng>-2.60594</lng>
+<geonameId>7300424</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH099</adminCode4>
+<adminName4>Ryme Intrinseca</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ryme_Intrinseca</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.62407</west>
+<north>50.91016</north>
+<east>-2.58781</east>
+<south>50.87995</south>
+</bbox>
+<score>57.0635986328125</score>
+</geoname>
+</geonames>

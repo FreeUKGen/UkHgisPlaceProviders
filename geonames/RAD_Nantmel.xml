@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Nantmel</toponymName>
+<name>Nantmel</name>
+<lat>52.2908</lat>
+<lng>-3.42868</lng>
+<geonameId>7292200</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN087</adminCode3>
+<adminName3>Nantmel</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.51632</west>
+<north>52.33126</north>
+<east>-3.34104</east>
+<south>52.25035</south>
+</bbox>
+<score>113.40765380859375</score>
+</geoname>
+<geoname>
+<toponymName>Nantmel</toponymName>
+<name>Nantmel</name>
+<lat>52.2863</lat>
+<lng>-3.42614</lng>
+<geonameId>2641894</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN087</adminCode3>
+<adminName3>Nantmel</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.44085</west>
+<north>52.2953</north>
+<east>-3.41144</east>
+<south>52.27731</south>
+</bbox>
+<score>65.0321273803711</score>
+</geoname>
+</geonames>

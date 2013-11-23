@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Trefriw</toponymName>
+<name>Trefriw</name>
+<lat>53.14607</lat>
+<lng>-3.85615</lng>
+<geonameId>7294415</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<adminCode3>00NE034</adminCode3>
+<adminName3>Trefriw</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.91947</west>
+<north>53.18426</north>
+<east>-3.79282</east>
+<south>53.10788</south>
+</bbox>
+<score>112.88270568847656</score>
+</geoname>
+<geoname>
+<toponymName>Trefriw</toponymName>
+<name>Trefriw</name>
+<lat>53.15138</lat>
+<lng>-3.82573</lng>
+<geonameId>2635532</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<adminCode3>00NE034</adminCode3>
+<adminName3>Trefriw</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Trefriw</alternateName>
+<alternateName lang="unlc">TEI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.84073</west>
+<north>53.16037</north>
+<east>-3.81073</east>
+<south>53.14239</south>
+</bbox>
+<score>91.16739654541016</score>
+</geoname>
+</geonames>

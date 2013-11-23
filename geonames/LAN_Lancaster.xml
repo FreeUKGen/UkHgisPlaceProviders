@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Lancaster</toponymName>
+<name>Lancaster</name>
+<lat>54.04649</lat>
+<lng>-2.79988</lng>
+<geonameId>2644972</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>47162</population>
+<alternateNames>Caerhirfryn,Lancaster,Lancaster i Lancashire,Lankaster,Lankastér,XQL,laengkeoseuteo,lan ka si te,lnqstr,rankasuta,Ланкастер,לנקסטר,لنکاسٹر,ランカスター,蘭卡斯特,랭커스터</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UH</adminCode3>
+<adminName3>Lancaster</adminName3>
+<alternateName lang="cy">Caerhirfryn</alternateName>
+<alternateName lang="de">Lancaster</alternateName>
+<alternateName lang="en">Lancaster</alternateName>
+<alternateName lang="fi">Lancaster</alternateName>
+<alternateName lang="fr">Lancaster</alternateName>
+<alternateName lang="he">לנקסטר</alternateName>
+<alternateName lang="iata">XQL</alternateName>
+<alternateName lang="ja">ランカスター</alternateName>
+<alternateName lang="ko">랭커스터</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lancaster%2C_Lancashire</alternateName>
+<alternateName lang="nl">Lancaster</alternateName>
+<alternateName lang="nn">Lancaster i Lancashire</alternateName>
+<alternateName lang="pl">Lancaster</alternateName>
+<alternateName lang="pnb">لنکاسٹر</alternateName>
+<alternateName lang="pt">Lancaster</alternateName>
+<alternateName lang="ru">Ланкастер</alternateName>
+<alternateName lang="ug">Lankastér</alternateName>
+<alternateName lang="uk">Ланкастер</alternateName>
+<alternateName lang="unlc">LAN</alternateName>
+<alternateName lang="zh">蘭卡斯特</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.84774</west>
+<north>54.07457</north>
+<east>-2.75202</east>
+<south>54.01841</south>
+</bbox>
+<score>124.7818832397461</score>
+</geoname>
+<geoname>
+<toponymName>Lancaster</toponymName>
+<name>Lancaster</name>
+<lat>54.11667</lat>
+<lng>-2.76667</lng>
+<geonameId>2644973</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UH</adminCode3>
+<adminName3>Lancaster</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.98365</west>
+<north>54.23956</north>
+<east>-2.45873</east>
+<south>53.91806</south>
+</bbox>
+<score>78.62576293945312</score>
+</geoname>
+<geoname>
+<toponymName>Lancashire</toponymName>
+<name>Lancashire</name>
+<lat>53.83333</lat>
+<lng>-2.5</lng>
+<geonameId>2644974</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>1449700</population>
+<alternateNames>County of Lancashire,LAN,Lancashire,Lancaster</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<alternateName lang="abbr">LAN</alternateName>
+<alternateName lang="en">Lancashire</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lancashire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.08455</west>
+<north>54.23956</north>
+<east>-2.04507</east>
+<south>53.48276</south>
+</bbox>
+<score>45.15629959106445</score>
+</geoname>
+</geonames>

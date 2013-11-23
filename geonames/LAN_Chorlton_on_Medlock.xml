@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Chorlton upon Medlock</toponymName>
+<name>Chorlton upon Medlock</name>
+<lat>53.45985</lat>
+<lng>-2.22103</lng>
+<geonameId>2653083</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Chorlton upon Medlock,Chorlton-on-Medlock</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I2</adminCode2>
+<adminName2>Manchester</adminName2>
+<adminCode3>00BN001</adminCode3>
+<adminName3>Ringway</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chorlton-on-Medlock</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.22707</west>
+<north>53.46345</north>
+<east>-2.21498</east>
+<south>53.45625</south>
+</bbox>
+<score>74.13019561767578</score>
+</geoname>
+</geonames>

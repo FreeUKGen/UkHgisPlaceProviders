@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llandudno</toponymName>
+<name>Llandudno</name>
+<lat>53.31569</lat>
+<lng>-3.8182</lng>
+<geonameId>7294426</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<adminCode3>00NE018</adminCode3>
+<adminName3>Llandudno</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.88172</west>
+<north>53.34314</north>
+<east>-3.75468</east>
+<south>53.28825</south>
+</bbox>
+<score>99.73368835449219</score>
+</geoname>
+<geoname>
+<toponymName>Llandudno</toponymName>
+<name>Llandudno</name>
+<lat>53.32498</lat>
+<lng>-3.83148</lng>
+<geonameId>2644120</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>15037</population>
+<alternateNames>Landidnas,Landidno,Llandadno,Llandidno,Llandudno,lan di de nuo,Ландидно,Лландадно,Лландидно,蘭迪德諾</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<adminCode3>00NE018</adminCode3>
+<adminName3>Llandudno</adminName3>
+<alternateName lang="bg">Ландидно</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llandudno</alternateName>
+<alternateName lang="lt">Landidnas</alternateName>
+<alternateName lang="ru">Лландидно</alternateName>
+<alternateName lang="uk">Лландадно</alternateName>
+<alternateName lang="zh">蘭迪德諾</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.85757</west>
+<north>53.34056</north>
+<east>-3.80539</east>
+<south>53.3094</south>
+</bbox>
+<score>90.61119079589844</score>
+</geoname>
+</geonames>

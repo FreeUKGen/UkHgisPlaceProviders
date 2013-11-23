@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Llanbadarn Fawr</toponymName>
+<name>Llanbadarn Fawr</name>
+<lat>52.27354</lat>
+<lng>-3.32992</lng>
+<geonameId>7297042</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN040</adminCode3>
+<adminName3>Llanbadarn Fawr</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.3728</west>
+<north>52.29781</north>
+<east>-3.28703</east>
+<south>52.24927</south>
+</bbox>
+<score>95.4515380859375</score>
+</geoname>
+<geoname>
+<toponymName>Llanbadarn Fawr</toponymName>
+<name>Llanbadarn Fawr</name>
+<lat>52.40981</lat>
+<lng>-4.0524</lng>
+<geonameId>7294034</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ016</adminCode3>
+<adminName3>Llanbadarn Fawr</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanbadarn_Fawr</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.07469</west>
+<north>52.41948</north>
+<east>-4.03011</east>
+<south>52.40015</south>
+</bbox>
+<score>71.76586151123047</score>
+</geoname>
+<geoname>
+<toponymName>Llanbadarn-fawr</toponymName>
+<name>Llanbadarn-fawr</name>
+<lat>52.4</lat>
+<lng>-4.06667</lng>
+<geonameId>2644182</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.08141</west>
+<north>52.40899</north>
+<east>-4.05192</east>
+<south>52.39101</south>
+</bbox>
+<score>62.4390869140625</score>
+</geoname>
+<geoname>
+<toponymName>Llanbadarn-fawr</toponymName>
+<name>Llanbadarn-fawr</name>
+<lat>52.26667</lat>
+<lng>-3.35</lng>
+<geonameId>2644183</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.3647</west>
+<north>52.27566</north>
+<east>-3.3353</east>
+<south>52.25767</south>
+</bbox>
+<score>62.4390869140625</score>
+</geoname>
+</geonames>

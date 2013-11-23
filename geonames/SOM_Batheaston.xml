@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Batheaston</toponymName>
+<name>Batheaston</name>
+<lat>51.42019</lat>
+<lng>-2.3315</lng>
+<geonameId>7296075</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA002</adminCode3>
+<adminName3>Batheaston</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.36839</west>
+<north>51.43856</north>
+<east>-2.29462</east>
+<south>51.40182</south>
+</bbox>
+<score>106.62281799316406</score>
+</geoname>
+<geoname>
+<toponymName>Batheaston</toponymName>
+<name>Batheaston</name>
+<lat>51.40662</lat>
+<lng>-2.31042</lng>
+<geonameId>2656171</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA002</adminCode3>
+<adminName3>Batheaston</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Batheaston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.32484</west>
+<north>51.41561</north>
+<east>-2.296</east>
+<south>51.39762</south>
+</bbox>
+<score>86.21925354003906</score>
+</geoname>
+</geonames>

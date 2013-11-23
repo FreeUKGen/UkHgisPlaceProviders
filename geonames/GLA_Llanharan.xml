@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanharan</toponymName>
+<name>Llanharan</name>
+<lat>51.54242</lat>
+<lng>-3.44466</lng>
+<geonameId>7301036</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y9</adminCode2>
+<adminName2>County Borough of Rhondda Cynon Taff</adminName2>
+<adminCode3>00PF010</adminCode3>
+<adminName3>Llanharan</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.4975</west>
+<north>51.57281</north>
+<east>-3.39181</east>
+<south>51.51203</south>
+</bbox>
+<score>114.15132141113281</score>
+</geoname>
+<geoname>
+<toponymName>Llanharan</toponymName>
+<name>Llanharan</name>
+<lat>51.53805</lat>
+<lng>-3.43906</lng>
+<geonameId>2643994</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5755</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y9</adminCode2>
+<adminName2>County Borough of Rhondda Cynon Taff</adminName2>
+<adminCode3>00PF010</adminCode3>
+<adminName3>Llanharan</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanharan</alternateName>
+<alternateName lang="unlc">LNR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.45353</west>
+<north>51.54705</north>
+<east>-3.4246</east>
+<south>51.52906</south>
+</bbox>
+<score>101.72529602050781</score>
+</geoname>
+</geonames>

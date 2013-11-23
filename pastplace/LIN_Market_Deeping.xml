@@ -1,0 +1,55 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>12020</id>
+<name>MARKET DEEPING</name>
+<container>LINCOLNSHIRE</container>
+<lat>52.6890910371556</lat>
+<lon>-0.299217448002458</lon>
+<gazetteerText>DEEPING-MARKET, a small town and a parish in Bourn district, Lincoln. The town stands on the river Welland, at the boundary with Northampton, 2&#190; miles W of St. James-Deeping r. station, and 7&#190; SSE of Bourn; and has a head post office, &#8224; a chief inn, a neat modern bridge, a town hall of 1839, an ancient cross rebuilt in 1819, a fine old church with a tower, two dissenting chapels, a free school with &#163;111 from endowment, and charities with &#163;58. Markets are held on Wednesdays; fairs are held on the Tuesday before 13 Feb., the Monday before Mid-Lent, the Mid-Lent Monday, the Monday before 12 May, the second Wednesday after 12 May, 25 June, the last Wednesday of July, 5 Aug., 10 Oct., and 8 and 9 Nov.; and malting, brewing, rope-making, and boat-building are carried on. The parish comprises 1, 290 acres. Real property, &#163;6, 642. Pop., 1, 337. Houses, 294. The property is much subdivided. The manor was given by Morcar de Bruen, a Saxon chief, to the abbey of Croyland; and by the Conqueror to his chamberlain Richard de Rulos. The living is a rectory in the diocese of Lincoln. Value, &#163;579.* Patron, the Lord Chancellor. Dr. R. Tighe, the linguist and divine, was a native. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LIN/MarketDeeping/</link>
+<link>http://en.wikipedia.org/wiki/Market_Deeping</link>
+<link>http://www.geonames.org/2643029</link>
+</links>
+<unit>
+   <id>10409962</id>
+   <status>CP/AP</status>
+   <name>MARKET DEEPING</name>
+</unit>
+<unit>
+   <id>10409998</id>
+   <status>EP</status>
+   <name>MARKET DEEPING</name>
+</unit>
+<unit>
+   <id>10547714</id>
+   <status></status>
+   <name>DEEPING</name>
+</unit>
+<nearByPlace>
+   <id>11521</id>
+   <name>BASTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11746</id>
+   <name>BRACEBOROUGH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12026</id>
+   <name>DEEPING ST JAMES</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12350</id>
+   <name>GREATFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12783</id>
+   <name>LANGTOFT</name>
+</nearByPlace>
+<nearByPlace>
+   <id>14085</id>
+   <name>WILSTHORPE</name>
+</nearByPlace>
+</place>
+</results>

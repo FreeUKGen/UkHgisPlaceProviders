@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>10</totalResultsCount>
+<geoname>
+<toponymName>Easton</toponymName>
+<name>Easton</name>
+<lat>50.53333</lat>
+<lng>-2.45</lng>
+<geonameId>2650368</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7800</population>
+<alternateNames>Easton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UJ</adminCode3>
+<adminName3>Weymouth and Portland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Easton%2C_Dorset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.46733</west>
+<north>50.54435</north>
+<east>-2.43267</east>
+<south>50.52232</south>
+</bbox>
+<score>95.91741943359375</score>
+</geoname>
+<geoname>
+<toponymName>Easton</toponymName>
+<name>Easton</name>
+<lat>51.33911</lat>
+<lng>-1.69996</lng>
+<geonameId>7296270</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY090</adminCode3>
+<adminName3>Easton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.71789</west>
+<north>51.36563</north>
+<east>-1.68204</east>
+<south>51.3126</south>
+</bbox>
+<score>91.48472595214844</score>
+</geoname>
+<geoname>
+<toponymName>Easton</toponymName>
+<name>Easton</name>
+<lat>52.18333</lat>
+<lng>1.35</lng>
+<geonameId>2650366</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Easton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UG</adminCode3>
+<adminName3>Suffolk Coastal District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Easton%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.33533</west>
+<north>52.19233</north>
+<east>1.36467</east>
+<south>52.17434</south>
+</bbox>
+<score>85.62126922607422</score>
+</geoname>
+<geoname>
+<toponymName>Easton</toponymName>
+<name>Easton</name>
+<lat>52.33057</lat>
+<lng>-0.32993</lng>
+<geonameId>2650365</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Easton%2C_Cambridgeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.34465</west>
+<north>52.33956</north>
+<east>-0.31521</east>
+<south>52.32157</south>
+</bbox>
+<score>72.11489868164062</score>
+</geoname>
+<geoname>
+<toponymName>Easton</toponymName>
+<name>Easton</name>
+<lat>52.32393</lat>
+<lng>-0.32836</lng>
+<geonameId>7298782</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<adminCode4>12UE023</adminCode4>
+<adminName4>Easton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.34867</west>
+<north>52.33985</north>
+<east>-0.30804</east>
+<south>52.30801</south>
+</bbox>
+<score>66.20469665527344</score>
+</geoname>
+<geoname>
+<toponymName>Easton</toponymName>
+<name>Easton</name>
+<lat>52.18323</lat>
+<lng>1.33931</lng>
+<geonameId>7301392</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UG</adminCode3>
+<adminName3>Suffolk Coastal District</adminName3>
+<adminCode4>42UG037</adminCode4>
+<adminName4>Easton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.31887</west>
+<north>52.20008</north>
+<east>1.35975</east>
+<south>52.16638</south>
+</bbox>
+<score>66.20469665527344</score>
+</geoname>
+<geoname>
+<toponymName>Easton</toponymName>
+<name>Easton</name>
+<lat>52.08333</lat>
+<lng>-0.26667</lng>
+<geonameId>2650367</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.28131</west>
+<north>52.09233</north>
+<east>-0.25203</east>
+<south>52.07434</south>
+</bbox>
+<score>52.563140869140625</score>
+</geoname>
+<geoname>
+<toponymName>Easton</toponymName>
+<name>Easton</name>
+<lat>52.65477</lat>
+<lng>1.15717</lng>
+<geonameId>7296642</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH037</adminCode4>
+<adminName4>Easton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Easton%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.13646</west>
+<north>52.67134</north>
+<east>1.17789</east>
+<south>52.6382</south>
+</bbox>
+<score>47.26539611816406</score>
+</geoname>
+<geoname>
+<toponymName>Easton</toponymName>
+<name>Easton</name>
+<lat>52.82331</lat>
+<lng>-0.61765</lng>
+<geonameId>7299181</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<adminCode4>32UG029</adminCode4>
+<adminName4>Easton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Easton%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.64967</west>
+<north>52.83698</north>
+<east>-0.58563</east>
+<south>52.80965</south>
+</bbox>
+<score>47.26539611816406</score>
+</geoname>
+<geoname>
+<toponymName>Easton on the Hill</toponymName>
+<name>Easton on the Hill</name>
+<lat>52.62733</lat>
+<lng>-0.50571</lng>
+<geonameId>2650361</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Easton,Easton on the Hill</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.52053</west>
+<north>52.63633</north>
+<east>-0.49089</east>
+<south>52.61834</south>
+</bbox>
+<score>40.93088912963867</score>
+</geoname>
+</geonames>

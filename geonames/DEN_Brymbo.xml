@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Brymbo</toponymName>
+<name>Brymbo</name>
+<lat>53.06667</lat>
+<lng>-3.06667</lng>
+<geonameId>2654450</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>18111</population>
+<alternateNames>Brymbo</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z4</adminCode2>
+<adminName2>Wrexham</adminName2>
+<adminCode3>00NL006</adminCode3>
+<adminName3>Brymbo</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brymbo</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.09566</west>
+<north>53.08408</north>
+<east>-3.03767</east>
+<south>53.04925</south>
+</bbox>
+<score>118.46000671386719</score>
+</geoname>
+<geoname>
+<toponymName>Brymbo</toponymName>
+<name>Brymbo</name>
+<lat>53.07455</lat>
+<lng>-3.08351</lng>
+<geonameId>7296198</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z4</adminCode2>
+<adminName2>Wrexham</adminName2>
+<adminCode3>00NL006</adminCode3>
+<adminName3>Brymbo</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.13007</west>
+<north>53.09153</north>
+<east>-3.03695</east>
+<south>53.05757</south>
+</bbox>
+<score>113.58248138427734</score>
+</geoname>
+</geonames>

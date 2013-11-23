@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Criccieth</toponymName>
+<name>Criccieth</name>
+<lat>52.92053</lat>
+<lng>-4.2346</lng>
+<geonameId>2651994</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1846</population>
+<alternateNames>Cricieth,Krikijt,Крикийт</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC019</adminCode3>
+<adminName3>Criccieth</adminName3>
+<alternateName lang="bg">Крикийт</alternateName>
+<alternateName lang="br">Cricieth</alternateName>
+<alternateName lang="cy">Cricieth</alternateName>
+<alternateName lang="eu">Cricieth</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Criccieth</alternateName>
+<alternateName lang="unlc">CCC</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.24206</west>
+<north>52.92503</north>
+<east>-4.22714</east>
+<south>52.91603</south>
+</bbox>
+<score>91.50728607177734</score>
+</geoname>
+</geonames>

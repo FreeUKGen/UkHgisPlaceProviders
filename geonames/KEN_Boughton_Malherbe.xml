@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Boughton Malherbe</toponymName>
+<name>Boughton Malherbe</name>
+<lat>51.21398</lat>
+<lng>0.69197</lng>
+<geonameId>2655115</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UH</adminCode3>
+<adminName3>Maidstone</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boughton_Malherbe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.67761</west>
+<north>51.22297</north>
+<east>0.70633</east>
+<south>51.20499</south>
+</bbox>
+<score>85.89728546142578</score>
+</geoname>
+<geoname>
+<toponymName>Boughton Malherbe</toponymName>
+<name>Boughton Malherbe</name>
+<lat>51.20154</lat>
+<lng>0.68975</lng>
+<geonameId>7294737</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UH</adminCode3>
+<adminName3>Maidstone</adminName3>
+<adminCode4>29UH004</adminCode4>
+<adminName4>Boughton Malherbe</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.65566</west>
+<north>51.22439</north>
+<east>0.72385</east>
+<south>51.17869</south>
+</bbox>
+<score>76.07708740234375</score>
+</geoname>
+</geonames>

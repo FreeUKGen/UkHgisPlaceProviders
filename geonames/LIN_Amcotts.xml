@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Amcotts</toponymName>
+<name>Amcotts</name>
+<lat>53.6218</lat>
+<lng>-0.73278</lng>
+<geonameId>7298806</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD002</adminCode3>
+<adminName3>Amcotts</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.7664</west>
+<north>53.63926</north>
+<east>-0.69915</east>
+<south>53.60435</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Amcotts</toponymName>
+<name>Amcotts</name>
+<lat>53.61685</lat>
+<lng>-0.71002</lng>
+<geonameId>2657357</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD002</adminCode3>
+<adminName3>Amcotts</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Amcotts</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.72519</west>
+<north>53.62584</north>
+<east>-0.69486</east>
+<south>53.60785</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+</geonames>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Barvas</toponymName>
+<name>Barvas</name>
+<lat>58.35</lat>
+<lng>-6.5</lng>
+<geonameId>2656204</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Barvas</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W8</adminCode2>
+<adminName2>Western Isles</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barvas</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-6.51714</west>
+<north>58.35899</north>
+<east>-6.48286</east>
+<south>58.34101</south>
+</bbox>
+<score>93.7105941772461</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llansadwrn</toponymName>
+<name>Llansadwrn</name>
+<lat>51.9724</lat>
+<lng>-3.92016</lng>
+<geonameId>7297156</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU052</adminCode3>
+<adminName3>Llansadwrn</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.9644</west>
+<north>52.00884</north>
+<east>-3.87591</east>
+<south>51.93595</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Llansadwrn</toponymName>
+<name>Llansadwrn</name>
+<lat>51.95</lat>
+<lng>-3.9</lng>
+<geonameId>2643955</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Llansadwrn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU052</adminCode3>
+<adminName3>Llansadwrn</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llansadwrn</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.9292</west>
+<north>51.96799</north>
+<east>-3.8708</east>
+<south>51.93201</south>
+</bbox>
+<score>87.30439758300781</score>
+</geoname>
+</geonames>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Orpington</toponymName>
+<name>Orpington</name>
+<lat>51.37457</lat>
+<lng>0.09785</lng>
+<geonameId>2640894</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>15248</population>
+<alternateNames>orpingatana,اورپنگٹن، لندن,ओर्पिंगटन</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>B8</adminCode3>
+<adminName3>Bromley</adminName3>
+<alternateName lang="hi">ओर्पिंगटन</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Orpington</alternateName>
+<alternateName lang="unlc">OPG</alternateName>
+<alternateName lang="ur">اورپنگٹن، لندن</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.07288</west>
+<north>51.39014</north>
+<east>0.12281</east>
+<south>51.35899</south>
+</bbox>
+<score>92.04350280761719</score>
+</geoname>
+</geonames>

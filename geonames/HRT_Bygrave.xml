@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bygrave</toponymName>
+<name>Bygrave</name>
+<lat>52.00435</lat>
+<lng>-0.16604</lng>
+<geonameId>2654134</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bygrave</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UF</adminCode3>
+<adminName3>North Hertfordshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bygrave</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.18065</west>
+<north>52.01335</north>
+<east>-0.15143</east>
+<south>51.99536</south>
+</bbox>
+<score>107.9564208984375</score>
+</geoname>
+<geoname>
+<toponymName>Bygrave</toponymName>
+<name>Bygrave</name>
+<lat>52.00772</lat>
+<lng>-0.16378</lng>
+<geonameId>7291311</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UF</adminCode3>
+<adminName3>North Hertfordshire District</adminName3>
+<adminCode4>26UF004</adminCode4>
+<adminName4>Bygrave</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.19343</west>
+<north>52.02267</north>
+<east>-0.13413</east>
+<south>51.99276</south>
+</bbox>
+<score>81.69823455810547</score>
+</geoname>
+</geonames>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Uttoxeter</toponymName>
+<name>Uttoxeter</name>
+<lat>52.89838</lat>
+<lng>-1.86488</lng>
+<geonameId>2635043</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>12291</population>
+<alternateNames>"ksutur,Ъксътър</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UC</adminCode3>
+<adminName3>East Staffordshire</adminName3>
+<alternateName lang="bg">Ъксътър</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Uttoxeter</alternateName>
+<alternateName lang="unlc">UTX</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.88846</west>
+<north>52.9126</north>
+<east>-1.84129</east>
+<south>52.88416</south>
+</bbox>
+<score>93.70995330810547</score>
+</geoname>
+<geoname>
+<toponymName>Uttoxeter</toponymName>
+<name>Uttoxeter</name>
+<lat>52.89981</lat>
+<lng>-1.86833</lng>
+<geonameId>7292451</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UC</adminCode3>
+<adminName3>East Staffordshire</adminName3>
+<adminCode4>41UC027</adminCode4>
+<adminName4>Uttoxeter</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.90677</west>
+<north>52.91735</north>
+<east>-1.82989</east>
+<south>52.88227</south>
+</bbox>
+<score>80.21141052246094</score>
+</geoname>
+</geonames>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Normanby By Spital</toponymName>
+<name>Normanby By Spital</name>
+<lat>53.38394</lat>
+<lng>-0.49513</lng>
+<geonameId>7301808</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<adminCode4>32UH069</adminCode4>
+<adminName4>Normanby By Spital</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Normanby_by_Spital</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.54678</west>
+<north>53.39316</north>
+<east>-0.44348</east>
+<south>53.37471</south>
+</bbox>
+<score>55.79155731201172</score>
+</geoname>
+</geonames>

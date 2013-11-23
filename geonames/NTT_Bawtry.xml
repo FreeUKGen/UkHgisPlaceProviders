@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bawtry</toponymName>
+<name>Bawtry</name>
+<lat>53.44079</lat>
+<lng>-1.03754</lng>
+<geonameId>7300406</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D5</adminCode2>
+<adminName2>Doncaster</adminName2>
+<adminCode3>00CE008</adminCode3>
+<adminName3>Bawtry</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.06832</west>
+<north>53.45712</north>
+<east>-1.00676</east>
+<south>53.42447</south>
+</bbox>
+<score>112.89909362792969</score>
+</geoname>
+<geoname>
+<toponymName>Bawtry</toponymName>
+<name>Bawtry</name>
+<lat>53.43146</lat>
+<lng>-1.01878</lng>
+<geonameId>2656144</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3859</population>
+<alternateNames>Bawtry</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D5</adminCode2>
+<adminName2>Doncaster</adminName2>
+<adminCode3>00CE008</adminCode3>
+<adminName3>Bawtry</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bawtry</alternateName>
+<alternateName lang="unlc">BWT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.03186</west>
+<north>53.43925</north>
+<east>-1.00571</east>
+<south>53.42367</south>
+</bbox>
+<score>108.55326080322266</score>
+</geoname>
+</geonames>

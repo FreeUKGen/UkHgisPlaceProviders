@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanddona</toponymName>
+<name>Llanddona</name>
+<lat>53.29729</lat>
+<lng>-4.13505</lng>
+<geonameId>7297163</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA013</adminCode3>
+<adminName3>Llanddona</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanddona</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.17376</west>
+<north>53.31979</north>
+<east>-4.09633</east>
+<south>53.27479</south>
+</bbox>
+<score>79.03948974609375</score>
+</geoname>
+<geoname>
+<toponymName>Llanddona</toponymName>
+<name>Llanddona</name>
+<lat>53.29259</lat>
+<lng>-4.13654</lng>
+<geonameId>2644149</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanddona</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA013</adminCode3>
+<adminName3>Llanddona</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.15159</west>
+<north>53.30159</north>
+<east>-4.12149</east>
+<south>53.2836</south>
+</bbox>
+<score>61.02178955078125</score>
+</geoname>
+</geonames>

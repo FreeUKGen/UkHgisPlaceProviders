@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Polesworth</toponymName>
+<name>Polesworth</name>
+<lat>52.61962</lat>
+<lng>-1.61036</lng>
+<geonameId>2640173</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UB</adminCode3>
+<adminName3>North Warwickshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Polesworth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.62517</west>
+<north>52.62861</north>
+<east>-1.59554</east>
+<south>52.61063</south>
+</bbox>
+<score>92.40130615234375</score>
+</geoname>
+<geoname>
+<toponymName>Polesworth</toponymName>
+<name>Polesworth</name>
+<lat>52.62925</lat>
+<lng>-1.60159</lng>
+<geonameId>7297398</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UB</adminCode3>
+<adminName3>North Warwickshire District</adminName3>
+<adminCode4>44UB028</adminCode4>
+<adminName4>Polesworth</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.63988</west>
+<north>52.65343</north>
+<east>-1.56329</east>
+<south>52.60506</south>
+</bbox>
+<score>82.2243881225586</score>
+</geoname>
+</geonames>

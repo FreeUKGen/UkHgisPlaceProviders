@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Benington</toponymName>
+<name>Benington</name>
+<lat>52.98333</lat>
+<lng>0.08333</lng>
+<geonameId>2655897</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Benington,Bennington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UB</adminCode3>
+<adminName3>Boston District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Benington%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.06839</west>
+<north>52.99233</north>
+<east>0.09827</east>
+<south>52.97434</south>
+</bbox>
+<score>68.34260559082031</score>
+</geoname>
+<geoname>
+<toponymName>Benington</toponymName>
+<name>Benington</name>
+<lat>51.88333</lat>
+<lng>-0.1</lng>
+<geonameId>2655898</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Benington,Bennington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UD</adminCode3>
+<adminName3>East Hertfordshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Benington%2C_Hertfordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.11457</west>
+<north>51.89233</north>
+<east>-0.08543</east>
+<south>51.87434</south>
+</bbox>
+<score>68.34260559082031</score>
+</geoname>
+</geonames>

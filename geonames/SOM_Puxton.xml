@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Puxton</toponymName>
+<name>Puxton</name>
+<lat>51.36877</lat>
+<lng>-2.866</lng>
+<geonameId>7295040</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC028</adminCode3>
+<adminName3>Puxton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.89397</west>
+<north>51.38353</north>
+<east>-2.83803</east>
+<south>51.35402</south>
+</bbox>
+<score>114.40644836425781</score>
+</geoname>
+<geoname>
+<toponymName>Puxton</toponymName>
+<name>Puxton</name>
+<lat>51.36561</lat>
+<lng>-2.85468</lng>
+<geonameId>2639830</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC028</adminCode3>
+<adminName3>Puxton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Puxton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.86909</west>
+<north>51.3746</north>
+<east>-2.84028</east>
+<south>51.35661</south>
+</bbox>
+<score>92.39801025390625</score>
+</geoname>
+</geonames>

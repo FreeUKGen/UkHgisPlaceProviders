@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Sedgefield</toponymName>
+<name>Sedgefield</name>
+<lat>54.65118</lat>
+<lng>-1.41033</lng>
+<geonameId>7293140</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ098</adminCode3>
+<adminName3>Sedgefield</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.48977</west>
+<north>54.69236</north>
+<east>-1.33089</east>
+<south>54.60999</south>
+</bbox>
+<score>99.56293487548828</score>
+</geoname>
+<geoname>
+<toponymName>Sedgefield</toponymName>
+<name>Sedgefield</name>
+<lat>54.65329</lat>
+<lng>-1.44952</lng>
+<geonameId>2638259</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4263</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ098</adminCode3>
+<adminName3>Sedgefield</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sedgefield</alternateName>
+<alternateName lang="unlc">SGE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.46299</west>
+<north>54.66108</north>
+<east>-1.43606</east>
+<south>54.6455</south>
+</bbox>
+<score>90.53762817382812</score>
+</geoname>
+</geonames>

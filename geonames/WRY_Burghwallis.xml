@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Burghwallis</toponymName>
+<name>Burghwallis</name>
+<lat>53.60015</lat>
+<lng>-1.18741</lng>
+<geonameId>7300407</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D5</adminCode2>
+<adminName2>Doncaster</adminName2>
+<adminCode3>00CE012</adminCode3>
+<adminName3>Burghwallis</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.22035</west>
+<north>53.60901</north>
+<east>-1.15447</east>
+<south>53.59128</south>
+</bbox>
+<score>114.8853759765625</score>
+</geoname>
+<geoname>
+<toponymName>Burghwallis</toponymName>
+<name>Burghwallis</name>
+<lat>53.6011</lat>
+<lng>-1.19462</lng>
+<geonameId>2654294</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Burghwallis</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D5</adminCode2>
+<adminName2>Doncaster</adminName2>
+<adminCode3>00CE012</adminCode3>
+<adminName3>Burghwallis</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burghwallis</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.20978</west>
+<north>53.61009</north>
+<east>-1.17946</east>
+<south>53.5921</south>
+</bbox>
+<score>108.87509155273438</score>
+</geoname>
+</geonames>

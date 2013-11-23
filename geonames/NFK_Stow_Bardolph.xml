@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Stow Bardolph</toponymName>
+<name>Stow Bardolph</name>
+<lat>52.6195</lat>
+<lng>0.34941</lng>
+<geonameId>7295663</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<adminCode4>33UE074</adminCode4>
+<adminName4>Stow Bardolph</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stow_Bardolph</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.26044</west>
+<north>52.64737</north>
+<east>0.43837</east>
+<south>52.59163</south>
+</bbox>
+<score>54.224647521972656</score>
+</geoname>
+</geonames>

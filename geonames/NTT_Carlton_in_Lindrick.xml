@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Carlton in Lindrick</toponymName>
+<name>Carlton in Lindrick</name>
+<lat>53.34936</lat>
+<lng>-1.10365</lng>
+<geonameId>7296917</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<adminCode4>37UC010</adminCode4>
+<adminName4>Carlton in Lindrick</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Carlton_in_Lindrick</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.14863</west>
+<north>53.37274</north>
+<east>-1.05867</east>
+<south>53.32598</south>
+</bbox>
+<score>55.43701171875</score>
+</geoname>
+</geonames>

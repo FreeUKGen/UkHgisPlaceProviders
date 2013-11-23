@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Whitwell</toponymName>
+<name>Whitwell</name>
+<lat>53.28333</lat>
+<lng>-1.21667</lng>
+<geonameId>2633999</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3846</population>
+<alternateNames>Whitwell</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UC</adminCode3>
+<adminName3>Bolsover District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Whitwell%2C_Derbyshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.2297</west>
+<north>53.29112</north>
+<east>-1.20364</east>
+<south>53.27554</south>
+</bbox>
+<score>94.5453109741211</score>
+</geoname>
+<geoname>
+<toponymName>Whitwell</toponymName>
+<name>Whitwell</name>
+<lat>51.87644</lat>
+<lng>-0.28316</lng>
+<geonameId>2634001</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UF</adminCode3>
+<adminName3>North Hertfordshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Whitwell%2C_Hertfordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.29773</west>
+<north>51.88543</north>
+<east>-0.26858</east>
+<south>51.86744</south>
+</bbox>
+<score>71.05565643310547</score>
+</geoname>
+<geoname>
+<toponymName>Whitwell</toponymName>
+<name>Whitwell</name>
+<lat>53.28631</lat>
+<lng>-1.21259</lng>
+<geonameId>7294825</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UC</adminCode3>
+<adminName3>Bolsover District</adminName3>
+<adminCode4>17UC014</adminCode4>
+<adminName4>Whitwell</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.2587</west>
+<north>53.31142</north>
+<east>-1.16649</east>
+<south>53.2612</south>
+</bbox>
+<score>66.80880737304688</score>
+</geoname>
+<geoname>
+<toponymName>Whitwell</toponymName>
+<name>Whitwell</name>
+<lat>54.38868</lat>
+<lng>-1.55403</lng>
+<geonameId>7300737</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<adminCode4>36UC172</adminCode4>
+<adminName4>Whitwell</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.57521</west>
+<north>54.40207</north>
+<east>-1.53285</east>
+<south>54.37528</south>
+</bbox>
+<score>66.80880737304688</score>
+</geoname>
+<geoname>
+<toponymName>Whitwell</toponymName>
+<name>Whitwell</name>
+<lat>52.66662</lat>
+<lng>-0.64249</lng>
+<geonameId>7297078</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L4</adminCode2>
+<adminName2>Rutland</adminName2>
+<adminCode3>00FP057</adminCode3>
+<adminName3>Whitwell</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Whitwell%2C_Rutland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.66025</west>
+<north>52.67702</north>
+<east>-0.62473</east>
+<south>52.65622</south>
+</bbox>
+<score>60.130767822265625</score>
+</geoname>
+<geoname>
+<toponymName>Whitwell</toponymName>
+<name>Whitwell</name>
+<lat>52.75</lat>
+<lng>1.1</lng>
+<geonameId>2634000</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.08514</west>
+<north>52.75899</north>
+<east>1.11486</east>
+<south>52.74101</south>
+</bbox>
+<score>53.13075256347656</score>
+</geoname>
+<geoname>
+<toponymName>Whitwell</toponymName>
+<name>Whitwell</name>
+<lat>50.59844</lat>
+<lng>-1.2642</lng>
+<geonameId>2634002</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G2</adminCode2>
+<adminName2>Isle of Wight</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.27837</west>
+<north>50.60743</north>
+<east>-1.25003</east>
+<south>50.58945</south>
+</bbox>
+<score>53.13075256347656</score>
+</geoname>
+</geonames>

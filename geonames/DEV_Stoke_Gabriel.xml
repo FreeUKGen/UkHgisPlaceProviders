@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Stoke Gabriel</toponymName>
+<name>Stoke Gabriel</name>
+<lat>50.40328</lat>
+<lng>-3.62111</lng>
+<geonameId>2636855</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Stoke Gabriel</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UG</adminCode3>
+<adminName3>South Hams District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stoke_Gabriel</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.63523</west>
+<north>50.41227</north>
+<east>-3.607</east>
+<south>50.39428</south>
+</bbox>
+<score>93.96733093261719</score>
+</geoname>
+<geoname>
+<toponymName>Stoke Gabriel</toponymName>
+<name>Stoke Gabriel</name>
+<lat>50.40821</lat>
+<lng>-3.61121</lng>
+<geonameId>7300290</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UG</adminCode3>
+<adminName3>South Hams District</adminName3>
+<adminCode4>18UG051</adminCode4>
+<adminName4>Stoke Gabriel</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.64881</west>
+<north>50.426</north>
+<east>-3.5736</east>
+<south>50.39041</south>
+</bbox>
+<score>71.50486755371094</score>
+</geoname>
+</geonames>

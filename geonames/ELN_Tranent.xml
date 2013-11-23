@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Tranent</toponymName>
+<name>Tranent</name>
+<lat>55.94439</lat>
+<lng>-2.95412</lng>
+<geonameId>2635563</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9042</population>
+<alternateNames>Tranent</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U6</adminCode2>
+<adminName2>East Lothian</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tranent</alternateName>
+<alternateName lang="unlc">TNT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.97537</west>
+<north>55.95629</north>
+<east>-2.93287</east>
+<south>55.9325</south>
+</bbox>
+<score>112.25341796875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Peakirk</toponymName>
+<name>Peakirk</name>
+<lat>52.64024</lat>
+<lng>-0.2738</lng>
+<geonameId>7296479</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K3</adminCode2>
+<adminName2>Peterborough</adminName2>
+<adminCode3>00JA018</adminCode3>
+<adminName3>Peakirk</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Peakirk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.28648</west>
+<north>52.65042</north>
+<east>-0.26111</east>
+<south>52.63006</south>
+</bbox>
+<score>79.03948974609375</score>
+</geoname>
+<geoname>
+<toponymName>Peakirk</toponymName>
+<name>Peakirk</name>
+<lat>52.64567</lat>
+<lng>-0.27294</lng>
+<geonameId>2640545</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K3</adminCode2>
+<adminName2>Peterborough</adminName2>
+<adminCode3>00JA018</adminCode3>
+<adminName3>Peakirk</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.3026</west>
+<north>52.66365</north>
+<east>-0.24328</east>
+<south>52.62768</south>
+</bbox>
+<score>41.45444107055664</score>
+</geoname>
+</geonames>

@@ -1,0 +1,447 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>716</id>
+<name>WESTMINSTER</name>
+<container>MIDDLESEX</container>
+<lat>51.4998395924725</lat>
+<lon>-0.124014541471134</lon>
+<gazetteerText>Westminster.-- parl. bor. and city, Middlesex, on N. bank of river Thames, in W. of London, 2546 ac., pop. 229,238. The parl. limits include the pars. of St James Westminster, St Margaret and St John the Evangelist Westminster, St George Hanover Square. St Anne Soho, St Martin in the Fields, &amp;c. Westminster is the seat of government and the residence of royalty, and contains, besides Westminster Abbey, the Houses of Parliament, St James&apos;s Palace, Buckingham Palace, &amp;c. It was formerly separated from the city of London by Temple Bar. It owes its origin to a market and fair granted to the abbot and convent of Westminster Abbey in 1259. It was made a separate diocese at the suppression of religious houses, but was re-incorporated with the diocese of London in 1550. It was made a parl. bor. in the time of Edward VI.; it returns 3 members to Parliament (3 divisions - viz., Hanover Square, Abbey, and Strand, 1 member for each division); its representation was increased from 2 to 3 members in 1885. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.workhouses.org.uk/Westminster/StJames.html</link>
+<link>http://homepages.gold.ac.uk/genuki/MDX/WestminsterStJames/index.html</link>
+<link>http://homepages.gold.ac.uk/genuki/MDX/WestminsterStMargaret/index.html</link>
+<link>http://en.wikipedia.org/wiki/Westminster</link>
+<link>http://www.workhouses.org.uk/Westminster</link>
+<link>http://homepages.gold.ac.uk/genuki/MDX/WestminsterStJohn/index.html</link>
+<link>http://www.geonames.org/2634341</link>
+</links>
+<unit>
+   <id>12828457</id>
+   <status>Lon_SDist</status>
+   <name>ST JAMES WESTMINSTER</name>
+</unit>
+<unit>
+   <id>10582465</id>
+   <status></status>
+   <name>WESTMINSTER</name>
+</unit>
+<unit>
+   <id>10540094</id>
+   <status></status>
+   <name>ST MARGARET AND ST JOHN</name>
+</unit>
+<unit>
+   <id>10235583</id>
+   <status>CP</status>
+   <name>CITY OF WESTMINSTER</name>
+</unit>
+<unit>
+   <id>10564943</id>
+   <status></status>
+   <name>ST MARGARET WESTMINSTER</name>
+</unit>
+<unit>
+   <id>10073406</id>
+   <status>Borough</status>
+   <name>WESTMINSTER</name>
+</unit>
+<unit>
+   <id>10580353</id>
+   <status></status>
+   <name>ST JOHN WESTMINSTER</name>
+</unit>
+<unit>
+   <id>10030468</id>
+   <status>Liberty</status>
+   <name>CITY OF WESTMINSTER AND ITS LIBERTY</name>
+</unit>
+<unit>
+   <id>12831249</id>
+   <status></status>
+   <name>WESTMINSTER</name>
+</unit>
+<unit>
+   <id>10052671</id>
+   <status>EP</status>
+   <name>WESTMINSTER ST STEPHEN WITH ST JOHN</name>
+</unit>
+<unit>
+   <id>10098452</id>
+   <status>LB</status>
+   <name>CITY OF WESTMINSTER</name>
+</unit>
+<unit>
+   <id>10199104</id>
+   <status>EP</status>
+   <name>WESTMINSTER ST LUKE</name>
+</unit>
+<unit>
+   <id>10109530</id>
+   <status>Lon_SDist</status>
+   <name>WESTMINSTER</name>
+</unit>
+<unit>
+   <id>10210112</id>
+   <status>EP</status>
+   <name>WESTMINSTER CHRIST CHURCH BROADWAY</name>
+</unit>
+<unit>
+   <id>10164412</id>
+   <status>CP/AP</status>
+   <name>WESTMINSTER ST MARGARET</name>
+</unit>
+<unit>
+   <id>10164576</id>
+   <status>CP/ExP</status>
+   <name>CLOSE OF THE COLLEGIATE CHURCH OF ST PETER</name>
+</unit>
+<unit>
+   <id>10135576</id>
+   <status>MetB</status>
+   <name>WESTMINSTER</name>
+</unit>
+<unit>
+   <id>10217696</id>
+   <status></status>
+   <name>WESTMINSTER</name>
+</unit>
+<unit>
+   <id>12747676</id>
+   <status>BCon</status>
+   <name>WESTMINSTER NORTH</name>
+</unit>
+<unit>
+   <id>10005218</id>
+   <status>RegD/PLU</status>
+   <name>ST MARGARET AND ST JOHN</name>
+</unit>
+<unit>
+   <id>12747664</id>
+   <status>PBDivCon</status>
+   <name>WESTMINSTER ABBEY</name>
+</unit>
+<unit>
+   <id>10216102</id>
+   <status>RegD/PLU</status>
+   <name>WESTMINSTER</name>
+</unit>
+<unit>
+   <id>10032039</id>
+   <status>EP</status>
+   <name>BUCKINGHAM PALACE ROAD</name>
+</unit>
+<unit>
+   <id>12747652</id>
+   <status>PBCon</status>
+   <name>WESTMINSTER</name>
+</unit>
+<unit>
+   <id>10475016</id>
+   <status>PLU/PLPar/RegD</status>
+   <name>CITY OF WESTMINSTER</name>
+</unit>
+<unit>
+   <id>10052660</id>
+   <status>EP</status>
+   <name>WESTMINSTER ST JAMES</name>
+</unit>
+<unit>
+   <id>10129400</id>
+   <status>EP</status>
+   <name>WESTMINSTER ST MARGARET</name>
+</unit>
+<unit>
+   <id>12780977</id>
+   <status></status>
+   <name>LONDON/WESTMINSTER</name>
+</unit>
+<unit>
+   <id>10580365</id>
+   <status></status>
+   <name>ST MARGARET AND ST JOHN WESTMINSTER</name>
+</unit>
+<unit>
+   <id>10580377</id>
+   <status></status>
+   <name>ST MARGARET WESTMINSTER</name>
+</unit>
+<unit>
+   <id>10020086</id>
+   <status>EP</status>
+   <name>WESTMINSTER ST STEPHEN</name>
+</unit>
+<unit>
+   <id>10071290</id>
+   <status>CP</status>
+   <name>WESTMINSTER ST JOHN THE EVANGELIST</name>
+</unit>
+<unit>
+   <id>10204124</id>
+   <status>EP</status>
+   <name>WESTMINSTER ST JAMES THE LESS HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10129242</id>
+   <status>EP</status>
+   <name>WESTMINSTER ST ANDREW</name>
+</unit>
+<unit>
+   <id>10183479</id>
+   <status>EP</status>
+   <name>WESTMINSTER ST SAVIOUR AND ST JAMES THE LESS</name>
+</unit>
+<unit>
+   <id>10020074</id>
+   <status>EP</status>
+   <name>WESTMINSTER ST JOHN THE EVANGELIST</name>
+</unit>
+<unit>
+   <id>10215997</id>
+   <status>EP</status>
+   <name>WESTMINSTER ST MATTHEW</name>
+</unit>
+<unit>
+   <id>10582441</id>
+   <status></status>
+   <name>WESTMINISTER ST MARGARETS</name>
+</unit>
+</place>
+<place>
+<id>2750</id>
+<name>SOHO</name>
+<container>MIDDLESEX</container>
+<lat>51.5134361292064</lat>
+<lon>-0.130662876558432</lon>
+<gazetteerText>St Anne Soho, par., Middlesex, within the parliamentary limits of Westminster, 54 ac., pop. 16,608. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://homepages.gold.ac.uk/genuki/MDX/SohoStAnne/index.html</link>
+<link>http://en.wikipedia.org/wiki/Soho</link>
+<link>http://www.geonames.org/6545173</link>
+</links>
+<unit>
+   <id>10071367</id>
+   <status>EP</status>
+   <name>SOHO ST ANNE WITH ST THOMAS AND ST PETER</name>
+</unit>
+<unit>
+   <id>10073110</id>
+   <status>CP</status>
+   <name>ST ANNE WITHIN THE LIBERTY OF WESTMINSTER</name>
+</unit>
+<unit>
+   <id>10129394</id>
+   <status>EP</status>
+   <name>WESTMINSTER ST MARY CROWN STREET SOHO</name>
+</unit>
+<unit>
+   <id>10164448</id>
+   <status>EP</status>
+   <name>GREAT WINDMILL STREET</name>
+</unit>
+<unit>
+   <id>10185300</id>
+   <status>EP</status>
+   <name>ST ANNE SOHO</name>
+</unit>
+<unit>
+   <id>10566307</id>
+   <status></status>
+   <name>ST ANNE SOHO</name>
+</unit>
+</place>
+<place>
+<id>23766</id>
+<name>ST JAMES</name>
+<container>MIDDLESEX</container>
+<lat>51.5071447364903</lat>
+<lon>-0.130920427508768</lon>
+<gazetteerText>St James Westminster, par., Middlesex, in Strand parl. div. of Westminster, 162 ac., pop. 29,941. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/St_James's</link>
+</links>
+<unit>
+   <id>10055726</id>
+   <status>RegD/PLPar</status>
+   <name>ST JAMES</name>
+</unit>
+<unit>
+   <id>10073571</id>
+   <status>CP/Vest</status>
+   <name>WESTMINSTER ST JAMES</name>
+</unit>
+<unit>
+   <id>10561644</id>
+   <status></status>
+   <name>ST JAMES WESTMINSTER</name>
+</unit>
+<unit>
+   <id>10580341</id>
+   <status></status>
+   <name>ST JAMES WESTMINSTER</name>
+</unit>
+<unit>
+   <id>12799937</id>
+   <status>RegD</status>
+   <name>WESTMINSTER ST JAMES AND STRAND</name>
+</unit>
+</place>
+<place>
+<id>2376</id>
+<name>STRAND</name>
+<container>MIDDLESEX</container>
+<lat>51.5096568173097</lat>
+<lon>-0.119287407377981</lon>
+<gazetteerText>STRAND, a district in Middlesex; forming part of the metropolis, immediately W of Temple Bar; cut into four sub-districts, and containing St. Anne-Soho, St. Paul-Covent-Garden, St. Mary-le-Strand, and St. Clement-Danes parishes, St. John-Baptist-Savoy precinct, the Rolls liberty, Clements Inn, New Inn, and the Middle Temple. Acres, 172; of which 32 are in the Thames. Poor rates in 1863, &#163;31,164. Pop. in 1851, 44,417; in 1861, 42,979. Houses, 3,775. Marriages in 1863, 437; births, 1,298,-of which 38 were illegitimate; deaths, 1,092,-of which 450 were at ages under 5 years, and 10 at ages above 85. Marriages in the ten years 1851-60, 3,891; births, 12,856; deaths, 10,341. The places of worship, in 1851, were 9 of the Church of England, with 6,858 sittings: 2 of Independents, with 1,750 s.; 2 of Baptists, with 1,170 s.; 1 of Welsh Calvinistic Methodists, with 500 s.; 1 of Lutherans, with 600 s.; 1 of Roman Catholics, with 960 s.; and 1 of Jews, with 160 s. The schools were 14 public day-schools, with 2,744 scholars; 32 private day-schools, with 849 s.; 9 Sunday schools, with 1,308 s.; and 1 evening school for adults, with 3 s. The workhouse is in the Tottenham-Court sub-district of Pancras district. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://homepages.gold.ac.uk/genuki/MDX/RollsLiberty/index.html</link>
+<link>http://homepages.gold.ac.uk/genuki/MDX/Savoy/index.html</link>
+<link>http://homepages.gold.ac.uk/genuki/MDX/StClementDanes/index.html</link>
+<link>http://en.wikipedia.org/wiki/Strand,_London</link>
+<link>http://homepages.gold.ac.uk/genuki/MDX/StMaryLeStrand/index.html</link>
+<link>http://www.workhouses.org.uk/Strand</link>
+</links>
+<unit>
+   <id>10020049</id>
+   <status>EP</status>
+   <name>ST MARY LE STRAND</name>
+</unit>
+<unit>
+   <id>10020300</id>
+   <status>EP</status>
+   <name>ST DUNSTAN IN THE WEST</name>
+</unit>
+<unit>
+   <id>10029533</id>
+   <status>RegD/PLU</status>
+   <name>STRAND</name>
+</unit>
+<unit>
+   <id>10052634</id>
+   <status>ExP/CP/AP/AP</status>
+   <name>ST MARY LE STRAND</name>
+</unit>
+<unit>
+   <id>10052798</id>
+   <status>EP</status>
+   <name>ST MARY LE STRAND WITH ST CLEMENT DANES</name>
+</unit>
+<unit>
+   <id>10071434</id>
+   <status>CP/AP</status>
+   <name>ST CLEMENT DANES</name>
+</unit>
+<unit>
+   <id>10081634</id>
+   <status>Lon_SDist</status>
+   <name>STRAND</name>
+</unit>
+<unit>
+   <id>10129941</id>
+   <status>ParLib/CP</status>
+   <name>LIBERTY OF THE ROLLS</name>
+</unit>
+<unit>
+   <id>10141710</id>
+   <status>EP</status>
+   <name>BURLEIGH STREET</name>
+</unit>
+<unit>
+   <id>10164394</id>
+   <status>ParLib/CP</status>
+   <name>PRECINCT OF THE SAVOY</name>
+</unit>
+<unit>
+   <id>10196449</id>
+   <status>EP</status>
+   <name>ST CLEMENT DANES</name>
+</unit>
+<unit>
+   <id>10539195</id>
+   <status></status>
+   <name>STRAND</name>
+</unit>
+<unit>
+   <id>10563811</id>
+   <status></status>
+   <name>ST CLEMENT DANES</name>
+</unit>
+<unit>
+   <id>12749132</id>
+   <status>PBCon</status>
+   <name>STRAND</name>
+</unit>
+</place>
+<place>
+<id>21004</id>
+<name>MAYFAIR</name>
+<container>MIDDLESEX</container>
+<lat>51.5091709688718</lat>
+<lon>-0.145250055216277</lon>
+<gazetteerText>St George Hanover Square, par., Middlesex, in W. of London, 1119 ac., pop. 89,573; forms the Hanover Square parl. div. of Westminster. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://homepages.gold.ac.uk/genuki/MDX/StGeorgeHanoverSquare/index.html</link>
+<link>http://www.geonames.org/2642878</link>
+</links>
+<unit>
+   <id>10020396</id>
+   <status>EP</status>
+   <name>REGENT STREET</name>
+</unit>
+<unit>
+   <id>10056329</id>
+   <status>EP</status>
+   <name>NORTH AUDLEY STREET</name>
+</unit>
+<unit>
+   <id>10129667</id>
+   <status>EP</status>
+   <name>ST GEORGE HANOVER SQUARE</name>
+</unit>
+<unit>
+   <id>10139648</id>
+   <status>RegD/PLU</status>
+   <name>ST GEORGES</name>
+</unit>
+<unit>
+   <id>10164503</id>
+   <status>CP/Vest</status>
+   <name>ST GEORGE HANOVER SQUARE</name>
+</unit>
+<unit>
+   <id>10164655</id>
+   <status>EP</status>
+   <name>MAYFAIR</name>
+</unit>
+<unit>
+   <id>10184149</id>
+   <status>EP</status>
+   <name>HANOVER CHAPEL</name>
+</unit>
+<unit>
+   <id>10540100</id>
+   <status></status>
+   <name>MAYFAIR AND KNIGHTSBRIDGE</name>
+</unit>
+<unit>
+   <id>10580328</id>
+   <status></status>
+   <name>ST GEORGE HANOVER SQUARE</name>
+</unit>
+<unit>
+   <id>12741364</id>
+   <status>PBDivCon</status>
+   <name>WESTMINSTER ST GEORGES</name>
+</unit>
+<unit>
+   <id>12742599</id>
+   <status>PBCon</status>
+   <name>ST GEORGE HANOVER SQUARE</name>
+</unit>
+<unit>
+   <id>12828421</id>
+   <status>Lon_SDist</status>
+   <name>ST GEORGE HANOVER SQUARE</name>
+</unit>
+</place>
+</results>

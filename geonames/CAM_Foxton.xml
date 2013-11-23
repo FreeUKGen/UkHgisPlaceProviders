@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Foxton</toponymName>
+<name>Foxton</name>
+<lat>52.1151</lat>
+<lng>0.05862</lng>
+<geonameId>2649116</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Foxton%2C_Cambridgeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.04397</west>
+<north>52.12409</north>
+<east>0.07327</east>
+<south>52.1061</south>
+</bbox>
+<score>77.87863159179688</score>
+</geoname>
+<geoname>
+<toponymName>Foxton</toponymName>
+<name>Foxton</name>
+<lat>52.11445</lat>
+<lng>0.0648</lng>
+<geonameId>7298839</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<adminCode4>12UG030</adminCode4>
+<adminName4>Foxton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.03824</west>
+<north>52.13228</north>
+<east>0.09137</east>
+<south>52.09663</south>
+</bbox>
+<score>73.99117279052734</score>
+</geoname>
+<geoname>
+<toponymName>Foxton</toponymName>
+<name>Foxton</name>
+<lat>52.5</lat>
+<lng>-0.96667</lng>
+<geonameId>2649115</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Foxton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UD</adminCode3>
+<adminName3>Harborough District</adminName3>
+<alternateName lang="unlc">FXF</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.98144</west>
+<north>52.50899</north>
+<east>-0.95189</east>
+<south>52.49101</south>
+</bbox>
+<score>54.47600555419922</score>
+</geoname>
+<geoname>
+<toponymName>Foxton</toponymName>
+<name>Foxton</name>
+<lat>52.5064</lat>
+<lng>-0.96598</lng>
+<geonameId>7296324</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UD</adminCode3>
+<adminName3>Harborough District</adminName3>
+<adminCode4>31UD025</adminCode4>
+<adminName4>Foxton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Foxton%2C_Leicestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.99415</west>
+<north>52.5225</north>
+<east>-0.93781</east>
+<south>52.4903</south>
+</bbox>
+<score>50.83857345581055</score>
+</geoname>
+</geonames>

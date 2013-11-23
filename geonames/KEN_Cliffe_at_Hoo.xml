@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Cliffe</toponymName>
+<name>Cliffe</name>
+<lat>51.46224</lat>
+<lng>0.49833</lng>
+<geonameId>2652849</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1989</population>
+<alternateNames>Cliffe,Cliffe-at-Hoo</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cliffe%2C_Kent</alternateName>
+<alternateName lang="unlc">CLF</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.49111</west>
+<north>51.46674</north>
+<east>0.50555</east>
+<south>51.45775</south>
+</bbox>
+<score>74.384521484375</score>
+</geoname>
+</geonames>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Leek</toponymName>
+<name>Leek</name>
+<lat>53.10434</lat>
+<lng>-2.02207</lng>
+<geonameId>2644684</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>19186</population>
+<alternateNames>Leek,Leek i Staffordshire,Lijk,Лийк</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UH</adminCode3>
+<adminName3>Staffordshire Moorlands</adminName3>
+<alternateName lang="bg">Лийк</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Leek%2C_Staffordshire</alternateName>
+<alternateName lang="nn">Leek i Staffordshire</alternateName>
+<alternateName lang="unlc">LEK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.05109</west>
+<north>53.12176</north>
+<east>-1.99304</east>
+<south>53.08693</south>
+</bbox>
+<score>95.1374282836914</score>
+</geoname>
+<geoname>
+<toponymName>Leek</toponymName>
+<name>Leek</name>
+<lat>53.09915</lat>
+<lng>-2.02954</lng>
+<geonameId>7297257</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UH</adminCode3>
+<adminName3>Staffordshire Moorlands</adminName3>
+<adminCode4>41UH029</adminCode4>
+<adminName4>Leek</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.0676</west>
+<north>53.12328</north>
+<east>-1.99148</east>
+<south>53.07502</south>
+</bbox>
+<score>75.540771484375</score>
+</geoname>
+</geonames>

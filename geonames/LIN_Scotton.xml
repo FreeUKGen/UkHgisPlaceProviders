@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Scotton</toponymName>
+<name>Scotton</name>
+<lat>53.47977</lat>
+<lng>-0.66519</lng>
+<geonameId>2638347</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Scotton%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.6803</west>
+<north>53.48877</north>
+<east>-0.65007</east>
+<south>53.47078</south>
+</bbox>
+<score>76.10437774658203</score>
+</geoname>
+<geoname>
+<toponymName>Scotton</toponymName>
+<name>Scotton</name>
+<lat>53.47981</lat>
+<lng>-0.6642</lng>
+<geonameId>7291902</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<adminCode4>32UH089</adminCode4>
+<adminName4>Scotton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.70045</west>
+<north>53.49169</north>
+<east>-0.62795</east>
+<south>53.46793</south>
+</bbox>
+<score>72.93817901611328</score>
+</geoname>
+<geoname>
+<toponymName>Scotton</toponymName>
+<name>Scotton</name>
+<lat>54.03017</lat>
+<lng>-1.49639</lng>
+<geonameId>7290744</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UD</adminCode3>
+<adminName3>Harrogate District</adminName3>
+<adminCode4>36UD112</adminCode4>
+<adminName4>Scotton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Scotton%2C_Harrogate</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.51859</west>
+<north>54.04156</north>
+<east>-1.47419</east>
+<south>54.01879</south>
+</bbox>
+<score>49.6341552734375</score>
+</geoname>
+<geoname>
+<toponymName>Scotton</toponymName>
+<name>Scotton</name>
+<lat>54.36179</lat>
+<lng>-1.72134</lng>
+<geonameId>7291667</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UE</adminCode3>
+<adminName3>Richmondshire District</adminName3>
+<adminCode4>36UE084</adminCode4>
+<adminName4>Scotton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Scotton%2C_Richmondshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.74799</west>
+<north>54.37741</north>
+<east>-1.69469</east>
+<south>54.34618</south>
+</bbox>
+<score>49.6341552734375</score>
+</geoname>
+</geonames>

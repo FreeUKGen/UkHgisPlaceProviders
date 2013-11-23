@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Langham</toponymName>
+<name>Langham</name>
+<lat>52.69163</lat>
+<lng>-0.75514</lng>
+<geonameId>7301399</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L4</adminCode2>
+<adminName2>Rutland</adminName2>
+<adminCode3>00FP027</adminCode3>
+<adminName3>Langham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.79639</west>
+<north>52.70779</north>
+<east>-0.71388</east>
+<south>52.67547</south>
+</bbox>
+<score>80.58607482910156</score>
+</geoname>
+<geoname>
+<toponymName>Langham</toponymName>
+<name>Langham</name>
+<lat>52.93333</lat>
+<lng>0.98333</lng>
+<geonameId>2644931</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Langham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Langham%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.96841</west>
+<north>52.94233</north>
+<east>0.99826</east>
+<south>52.92434</south>
+</bbox>
+<score>73.89801788330078</score>
+</geoname>
+<geoname>
+<toponymName>Langham</toponymName>
+<name>Langham</name>
+<lat>52.29242</lat>
+<lng>0.89787</lng>
+<geonameId>2644933</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Langham%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.88317</west>
+<north>52.30141</north>
+<east>0.91258</east>
+<south>52.28342</south>
+</bbox>
+<score>61.90212631225586</score>
+</geoname>
+<geoname>
+<toponymName>Langham</toponymName>
+<name>Langham</name>
+<lat>52.92784</lat>
+<lng>0.98452</lng>
+<geonameId>7299447</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF059</adminCode4>
+<adminName4>Langham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.95625</west>
+<north>52.94461</north>
+<east>1.01279</east>
+<south>52.91107</south>
+</bbox>
+<score>58.17052459716797</score>
+</geoname>
+<geoname>
+<toponymName>Langham</toponymName>
+<name>Langham</name>
+<lat>52.29026</lat>
+<lng>0.9003</lng>
+<geonameId>7301348</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<adminCode4>42UE059</adminCode4>
+<adminName4>Langham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.88076</west>
+<north>52.30012</north>
+<east>0.91984</east>
+<south>52.2804</south>
+</bbox>
+<score>58.17052459716797</score>
+</geoname>
+<geoname>
+<toponymName>Langham</toponymName>
+<name>Langham</name>
+<lat>52.69152</lat>
+<lng>-0.75385</lng>
+<geonameId>2644932</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L4</adminCode2>
+<adminName2>Rutland</adminName2>
+<adminCode3>00FP027</adminCode3>
+<adminName3>Langham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Langham%2C_Rutland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.78354</west>
+<north>52.70951</north>
+<east>-0.72416</east>
+<south>52.67354</south>
+</bbox>
+<score>52.38575744628906</score>
+</geoname>
+<geoname>
+<toponymName>Langham</toponymName>
+<name>Langham</name>
+<lat>51.94957</lat>
+<lng>0.94323</lng>
+<geonameId>7300518</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UG</adminCode3>
+<adminName3>Colchester District</adminName3>
+<adminCode4>22UG017</adminCode4>
+<adminName4>Langham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Langham%2C_Essex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.91446</west>
+<north>51.97715</north>
+<east>0.972</east>
+<south>51.922</south>
+</bbox>
+<score>40.46743392944336</score>
+</geoname>
+</geonames>

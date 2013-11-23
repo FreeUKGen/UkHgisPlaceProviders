@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Colwich</toponymName>
+<name>Colwich</name>
+<lat>52.78764</lat>
+<lng>-1.98206</lng>
+<geonameId>2652516</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2485</population>
+<alternateNames>Colwich</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UG</adminCode3>
+<adminName3>Stafford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colwich%2C_Staffordshire</alternateName>
+<alternateName lang="unlc">CLW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.99258</west>
+<north>52.794</north>
+<east>-1.97154</east>
+<south>52.78128</south>
+</bbox>
+<score>98.96530151367188</score>
+</geoname>
+<geoname>
+<toponymName>Colwich</toponymName>
+<name>Colwich</name>
+<lat>52.79147</lat>
+<lng>-1.98834</lng>
+<geonameId>7301292</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UG</adminCode3>
+<adminName3>Stafford District</adminName3>
+<adminCode4>41UG009</adminCode4>
+<adminName4>Colwich</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.03274</west>
+<north>52.8241</north>
+<east>-1.94395</east>
+<south>52.75884</south>
+</bbox>
+<score>76.6040267944336</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Glenfield</toponymName>
+<name>Glenfield</name>
+<lat>52.6466</lat>
+<lng>-1.19493</lng>
+<geonameId>2648484</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Glenfield</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UB</adminCode3>
+<adminName3>Blaby</adminName3>
+<adminCode4>31UB009</adminCode4>
+<adminName4>Glenfields</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Glenfield%2C_Leicestershire</alternateName>
+<alternateName lang="unlc">GLF</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.20976</west>
+<north>52.6556</north>
+<east>-1.18011</east>
+<south>52.63761</south>
+</bbox>
+<score>66.82756805419922</score>
+</geoname>
+<geoname>
+<toponymName>Lower Gledfield</toponymName>
+<name>Lower Gledfield</name>
+<lat>57.88333</lat>
+<lng>-4.36667</lng>
+<geonameId>2643522</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Glenfield,Lower Gledfield</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V3</adminCode2>
+<adminName2>Highland</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.38359</west>
+<north>57.89233</north>
+<east>-4.34975</east>
+<south>57.87434</south>
+</bbox>
+<score>30.974870681762695</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Marksbury</toponymName>
+<name>Marksbury</name>
+<lat>51.36327</lat>
+<lng>-2.48217</lng>
+<geonameId>7296077</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA027</adminCode3>
+<adminName3>Marksbury</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.52429</west>
+<north>51.37802</north>
+<east>-2.44006</east>
+<south>51.34853</south>
+</bbox>
+<score>110.10324096679688</score>
+</geoname>
+<geoname>
+<toponymName>Marksbury</toponymName>
+<name>Marksbury</name>
+<lat>51.35962</lat>
+<lng>-2.48025</lng>
+<geonameId>2643015</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA027</adminCode3>
+<adminName3>Marksbury</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marksbury</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.49465</west>
+<north>51.36861</north>
+<east>-2.46584</east>
+<south>51.35063</south>
+</bbox>
+<score>89.47048950195312</score>
+</geoname>
+</geonames>

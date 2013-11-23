@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Portishead</toponymName>
+<name>Portishead</name>
+<lat>51.48199</lat>
+<lng>-2.76973</lng>
+<geonameId>2640037</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>17512</population>
+<alternateNames>Portishead,Portishead i Somerset,potiseuhedeu,포티스헤드</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC027</adminCode3>
+<adminName3>Portishead and North Weston</adminName3>
+<alternateName lang="ko">포티스헤드</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Portishead%2C_Somerset</alternateName>
+<alternateName lang="nn">Portishead i Somerset</alternateName>
+<alternateName lang="unlc">PTH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.79676</west>
+<north>51.49882</north>
+<east>-2.74271</east>
+<south>51.46517</south>
+</bbox>
+<score>103.39308166503906</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Michaelstow</toponymName>
+<name>Michaelstow</name>
+<lat>50.57977</lat>
+<lng>-4.71387</lng>
+<geonameId>7294633</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE090</adminCode3>
+<adminName3>Michaelstow</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.73545</west>
+<north>50.59431</north>
+<east>-4.6923</east>
+<south>50.56524</south>
+</bbox>
+<score>107.54669189453125</score>
+</geoname>
+<geoname>
+<toponymName>Michaelstow</toponymName>
+<name>Michaelstow</name>
+<lat>50.57806</lat>
+<lng>-4.71342</lng>
+<geonameId>2642651</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE090</adminCode3>
+<adminName3>Michaelstow</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Michaelstow</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.72759</west>
+<north>50.58705</north>
+<east>-4.69926</east>
+<south>50.56907</south>
+</bbox>
+<score>86.85787963867188</score>
+</geoname>
+</geonames>

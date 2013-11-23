@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanwenog</toponymName>
+<name>Llanwenog</name>
+<lat>52.09603</lat>
+<lng>-4.20179</lng>
+<geonameId>7294039</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ034</adminCode3>
+<adminName3>Llanwenog</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.25644</west>
+<north>52.14359</north>
+<east>-4.14714</east>
+<south>52.04847</south>
+</bbox>
+<score>111.34626007080078</score>
+</geoname>
+<geoname>
+<toponymName>Llanwenog</toponymName>
+<name>Llanwenog</name>
+<lat>52.08659</lat>
+<lng>-4.19915</lng>
+<geonameId>2643917</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ034</adminCode3>
+<adminName3>Llanwenog</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.21379</west>
+<north>52.09558</north>
+<east>-4.18451</east>
+<south>52.0776</south>
+</bbox>
+<score>63.8463020324707</score>
+</geoname>
+</geonames>

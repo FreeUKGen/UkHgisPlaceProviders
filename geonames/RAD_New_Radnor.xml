@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>New Radnor</toponymName>
+<name>New Radnor</name>
+<lat>52.24062</lat>
+<lng>-3.15559</lng>
+<geonameId>2641584</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>New Radnor</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN088</adminCode3>
+<adminName3>New Radnor</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Radnor</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.17028</west>
+<north>52.24962</north>
+<east>-3.1409</east>
+<south>52.23163</south>
+</bbox>
+<score>92.92635345458984</score>
+</geoname>
+<geoname>
+<toponymName>New Radnor</toponymName>
+<name>New Radnor</name>
+<lat>52.23715</lat>
+<lng>-3.18474</lng>
+<geonameId>7297055</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN088</adminCode3>
+<adminName3>New Radnor</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.25591</west>
+<north>52.27764</north>
+<east>-3.11356</east>
+<south>52.19666</south>
+</bbox>
+<score>90.66407775878906</score>
+</geoname>
+</geonames>

@@ -1,0 +1,57 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>163</id>
+<name>NORTHFLEET</name>
+<container>KENT</container>
+<lat>51.4236777303818</lat>
+<lon>0.345021489081054</lon>
+<gazetteerText>Northfleet, par. and vil. with ry. sta., Kent, on river Thames - par. (mostly within the parl. limits of Gravesend), 3934 ac. and 392 tidal water and foreshore, pop. 8790; vil., 2 miles W. of Gravesend and 21&#189; miles SE. of London by rail; P.O., T.O., and P.O. at Upper North-fleet; has dock and shipbuilding yard; the picturesque gardens of Rosherville are between Northfleet and Gravesend; on India Arms Wharf is Northfleet Light-house, 53 ft. high, with fixed light 48 ft. above high water and seen 12 miles. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.nwkfhs.org.uk/NORT_plc.htm</link>
+<link>http://en.wikipedia.org/wiki/Northfleet</link>
+<link>http://www.geonames.org/2641354</link>
+</links>
+<unit>
+   <id>10025760</id>
+   <status>UD</status>
+   <name>NORTHFLEET</name>
+</unit>
+<unit>
+   <id>10101037</id>
+   <status>USD</status>
+   <name>NORTHFLEET</name>
+</unit>
+<unit>
+   <id>10223404</id>
+   <status>AP/CP</status>
+   <name>NORTHFLEET</name>
+</unit>
+<unit>
+   <id>10223416</id>
+   <status>EP</status>
+   <name>NORTHFLEET</name>
+</unit>
+<unit>
+   <id>10536741</id>
+   <status></status>
+   <name>NORTHFLEET</name>
+</unit>
+<nearByPlace>
+   <id>6262</id>
+   <name>LONGFIELD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6274</id>
+   <name>MEOPHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6300</id>
+   <name>NURSTED</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6403</id>
+   <name>SOUTHFLEET</name>
+</nearByPlace>
+</place>
+</results>

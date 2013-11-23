@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Stalbridge</toponymName>
+<name>Stalbridge</name>
+<lat>50.95807</lat>
+<lng>-2.37548</lng>
+<geonameId>2637111</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2311</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UE</adminCode3>
+<adminName3>North Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stalbridge</alternateName>
+<alternateName lang="unlc">SRI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.38261</west>
+<north>50.96257</north>
+<east>-2.36834</east>
+<south>50.95357</south>
+</bbox>
+<score>84.1964111328125</score>
+</geoname>
+<geoname>
+<toponymName>Stalbridge</toponymName>
+<name>Stalbridge</name>
+<lat>50.95257</lat>
+<lng>-2.37932</lng>
+<geonameId>7291572</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UE</adminCode3>
+<adminName3>North Dorset District</adminName3>
+<adminCode4>19UE049</adminCode4>
+<adminName4>Stalbridge</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.42726</west>
+<north>50.97905</north>
+<east>-2.33137</east>
+<south>50.92609</south>
+</bbox>
+<score>68.29154968261719</score>
+</geoname>
+</geonames>

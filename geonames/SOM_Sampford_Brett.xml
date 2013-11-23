@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Sampford Brett</toponymName>
+<name>Sampford Brett</name>
+<lat>51.15066</lat>
+<lng>-3.3048</lng>
+<geonameId>7291690</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UF</adminCode3>
+<adminName3>West Somerset District</adminName3>
+<adminCode4>40UF028</adminCode4>
+<adminName4>Sampford Brett</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sampford_Brett</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.33369</west>
+<north>51.16421</north>
+<east>-3.27592</east>
+<south>51.13712</south>
+</bbox>
+<score>54.858192443847656</score>
+</geoname>
+</geonames>

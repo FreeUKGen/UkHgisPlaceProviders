@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Fritton</toponymName>
+<name>Fritton</name>
+<lat>52.53333</lat>
+<lng>1.63333</lng>
+<geonameId>2649035</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Fritton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UD</adminCode3>
+<adminName3>Great Yarmouth District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Fritton_%28near_Great_Yarmouth%29</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.61855</west>
+<north>52.54233</north>
+<east>1.64812</east>
+<south>52.52434</south>
+</bbox>
+<score>97.40069580078125</score>
+</geoname>
+<geoname>
+<toponymName>Fritton</toponymName>
+<name>Fritton</name>
+<lat>52.48333</lat>
+<lng>1.28333</lng>
+<geonameId>2649036</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.26856</west>
+<north>52.49233</north>
+<east>1.2981</east>
+<south>52.47434</south>
+</bbox>
+<score>62.01416778564453</score>
+</geoname>
+</geonames>

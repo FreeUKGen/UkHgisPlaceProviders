@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cornhill</toponymName>
+<name>Cornhill</name>
+<lat>57.6</lat>
+<lng>-2.7</lng>
+<geonameId>2652362</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cornhill</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T6</adminCode2>
+<adminName2>Aberdeenshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cornhill%2C_Aberdeenshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.71679</west>
+<north>57.60899</north>
+<east>-2.68321</east>
+<south>57.59101</south>
+</bbox>
+<score>93.96560668945312</score>
+</geoname>
+<geoname>
+<toponymName>Cornhill</toponymName>
+<name>Cornhill</name>
+<lat>51.51336</lat>
+<lng>-0.08597</lng>
+<geonameId>7117423</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>R</fcl>
+<fcode>ST</fcode>
+<fclName>road, railroad </fclName>
+<fcodeName>street</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>H9</adminCode3>
+<adminName3>City of London</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cornhill%2C_London</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>25.612728118896484</score>
+</geoname>
+</geonames>

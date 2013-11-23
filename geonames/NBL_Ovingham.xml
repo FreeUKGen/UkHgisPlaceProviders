@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ovingham</toponymName>
+<name>Ovingham</name>
+<lat>54.97349</lat>
+<lng>-1.86254</lng>
+<geonameId>7291456</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM123</adminCode3>
+<adminName3>Ovingham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.88056</west>
+<north>54.98308</north>
+<east>-1.84452</east>
+<south>54.9639</south>
+</bbox>
+<score>111.67289733886719</score>
+</geoname>
+<geoname>
+<toponymName>Ovingham</toponymName>
+<name>Ovingham</name>
+<lat>54.97054</lat>
+<lng>-1.86547</lng>
+<geonameId>2640755</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ovingham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM123</adminCode3>
+<adminName3>Ovingham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ovingham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.88115</west>
+<north>54.97954</north>
+<east>-1.8498</east>
+<south>54.96155</south>
+</bbox>
+<score>105.96182250976562</score>
+</geoname>
+</geonames>

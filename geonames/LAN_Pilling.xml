@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Pilling</toponymName>
+<name>Pilling</name>
+<lat>53.93161</lat>
+<lng>-2.90892</lng>
+<geonameId>2640290</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UQ</adminCode3>
+<adminName3>Wyre District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pilling</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.92419</west>
+<north>53.9406</north>
+<east>-2.89364</east>
+<south>53.92262</south>
+</bbox>
+<score>78.33345031738281</score>
+</geoname>
+<geoname>
+<toponymName>Pilling</toponymName>
+<name>Pilling</name>
+<lat>53.93016</lat>
+<lng>-2.8888</lng>
+<geonameId>7301459</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UQ</adminCode3>
+<adminName3>Wyre District</adminName3>
+<adminCode4>30UQ017</adminCode4>
+<adminName4>Pilling</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.94564</west>
+<north>53.97617</north>
+<east>-2.83196</east>
+<south>53.88416</south>
+</bbox>
+<score>69.29864501953125</score>
+</geoname>
+</geonames>

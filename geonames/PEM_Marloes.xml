@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Marloes</toponymName>
+<name>Marloes</name>
+<lat>51.73009</lat>
+<lng>-5.19531</lng>
+<geonameId>2643004</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Marloes</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS041</adminCode3>
+<adminName3>Marloes and St. Brides</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marloes</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.20984</west>
+<north>51.73909</north>
+<east>-5.18079</east>
+<south>51.7211</south>
+</bbox>
+<score>104.26876831054688</score>
+</geoname>
+</geonames>

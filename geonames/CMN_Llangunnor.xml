@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llangunnor</toponymName>
+<name>Llangunnor</name>
+<lat>51.84387</lat>
+<lng>-4.26024</lng>
+<geonameId>7301148</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU044</adminCode3>
+<adminName3>Llangunnor</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.32226</west>
+<north>51.86345</north>
+<east>-4.19823</east>
+<south>51.82429</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Llangunnor</toponymName>
+<name>Llangunnor</name>
+<lat>51.85832</lat>
+<lng>-4.28153</lng>
+<geonameId>2644013</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llangunnor</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU044</adminCode3>
+<adminName3>Llangunnor</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llangunnor</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.29609</west>
+<north>51.86732</north>
+<east>-4.26696</east>
+<south>51.84933</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+</geonames>

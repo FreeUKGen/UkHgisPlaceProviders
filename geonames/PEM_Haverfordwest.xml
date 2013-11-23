@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Haverfordwest</toponymName>
+<name>Haverfordwest</name>
+<lat>51.80109</lat>
+<lng>-4.97913</lng>
+<geonameId>7292303</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS022</adminCode3>
+<adminName3>Haverfordwest</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.00744</west>
+<north>51.81638</north>
+<east>-4.95082</east>
+<south>51.7858</south>
+</bbox>
+<score>111.86306762695312</score>
+</geoname>
+<geoname>
+<toponymName>Haverfordwest</toponymName>
+<name>Haverfordwest</name>
+<lat>51.80169</lat>
+<lng>-4.96914</lng>
+<geonameId>2647311</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>13469</population>
+<alternateNames>Gejverfordvest,HAW,Haverfordvestas,Hwlffordd,Khaverforduehst,Khavurforduest,ha fu fu wei si te,Гейверфордвест,Хаверфордуэст,Хавърфордуест,哈弗福韦斯特</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS022</adminCode3>
+<adminName3>Haverfordwest</adminName3>
+<alternateName lang="bg">Хавърфордуест</alternateName>
+<alternateName lang="br">Hwlffordd</alternateName>
+<alternateName lang="cy">Hwlffordd</alternateName>
+<alternateName lang="iata">HAW</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Haverfordwest</alternateName>
+<alternateName lang="lt">Haverfordvestas</alternateName>
+<alternateName lang="ru">Хаверфордуэст</alternateName>
+<alternateName lang="uk">Гейверфордвест</alternateName>
+<alternateName lang="unlc">HVR</alternateName>
+<alternateName lang="zh">哈弗福韦斯特</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.99326</west>
+<north>51.8166</north>
+<east>-4.94501</east>
+<south>51.78677</south>
+</bbox>
+<score>70.08492279052734</score>
+</geoname>
+</geonames>

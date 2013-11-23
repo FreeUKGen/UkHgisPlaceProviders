@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Abernant</toponymName>
+<name>Abernant</name>
+<lat>51.90306</lat>
+<lng>-4.41075</lng>
+<geonameId>7292347</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU002</adminCode3>
+<adminName3>Abernant</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.45506</west>
+<north>51.9426</north>
+<east>-4.36645</east>
+<south>51.86352</south>
+</bbox>
+<score>106.96673583984375</score>
+</geoname>
+<geoname>
+<toponymName>Abernant</toponymName>
+<name>Abernant</name>
+<lat>51.88139</lat>
+<lng>-4.41556</lng>
+<geonameId>2657793</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU002</adminCode3>
+<adminName3>Abernant</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.44471</west>
+<north>51.89938</north>
+<east>-4.3864</east>
+<south>51.8634</south>
+</bbox>
+<score>38.54400634765625</score>
+</geoname>
+</geonames>

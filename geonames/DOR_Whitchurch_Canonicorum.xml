@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Whitchurch Canonicorum</toponymName>
+<name>Whitchurch Canonicorum</name>
+<lat>50.7552</lat>
+<lng>-2.86017</lng>
+<geonameId>2634123</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Whitchurch Canonicorum</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Whitchurch_Canonicorum</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.87439</west>
+<north>50.76419</north>
+<east>-2.84595</east>
+<south>50.74621</south>
+</bbox>
+<score>98.84956359863281</score>
+</geoname>
+<geoname>
+<toponymName>Whitchurch Canonicorum</toponymName>
+<name>Whitchurch Canonicorum</name>
+<lat>50.75974</lat>
+<lng>-2.85997</lng>
+<geonameId>7298427</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH127</adminCode4>
+<adminName4>Whitchurch Canonicorum</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.91081</west>
+<north>50.7837</north>
+<east>-2.80913</east>
+<south>50.73579</south>
+</bbox>
+<score>78.5716552734375</score>
+</geoname>
+</geonames>

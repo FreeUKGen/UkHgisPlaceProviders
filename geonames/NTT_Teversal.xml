@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Teversal</toponymName>
+<name>Teversal</name>
+<lat>53.15</lat>
+<lng>-1.28333</lng>
+<geonameId>2636077</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Teversal,Teversall</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UB</adminCode3>
+<adminName3>Ashfield District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Teversal</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.29833</west>
+<north>53.15899</north>
+<east>-1.26833</east>
+<south>53.14101</south>
+</bbox>
+<score>102.96205139160156</score>
+</geoname>
+</geonames>

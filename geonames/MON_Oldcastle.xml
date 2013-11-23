@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Oldcastle</toponymName>
+<name>Oldcastle</name>
+<lat>52.99957</lat>
+<lng>-2.80692</lng>
+<geonameId>7293039</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW121</adminCode3>
+<adminName3>Oldcastle</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oldcastle%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.82998</west>
+<north>53.0097</north>
+<east>-2.78387</east>
+<south>52.98943</south>
+</bbox>
+<score>65.44439697265625</score>
+</geoname>
+<geoname>
+<toponymName>Oldcastle</toponymName>
+<name>Oldcastle</name>
+<lat>51.91667</lat>
+<lng>-2.98333</lng>
+<geonameId>2641031</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X2</adminCode2>
+<adminName2>County Borough of Blaenau Gwent</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.99792</west>
+<north>51.92566</north>
+<east>-2.96875</east>
+<south>51.90767</south>
+</bbox>
+<score>58.62345886230469</score>
+</geoname>
+<geoname>
+<toponymName>Oldcastle</toponymName>
+<name>Oldcastle</name>
+<lat>51.91519</lat>
+<lng>-2.98351</lng>
+<geonameId>6286160</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>18.421173095703125</score>
+</geoname>
+</geonames>

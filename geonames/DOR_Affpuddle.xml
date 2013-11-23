@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Affpuddle</toponymName>
+<name>Affpuddle</name>
+<lat>50.73473</lat>
+<lng>-2.27901</lng>
+<geonameId>7297983</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UG</adminCode3>
+<adminName3>Purbeck District</adminName3>
+<adminCode4>19UG001</adminCode4>
+<adminName4>Affpuddle</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Affpuddle</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.31145</west>
+<north>50.76121</north>
+<east>-2.24656</east>
+<south>50.70826</south>
+</bbox>
+<score>61.74647521972656</score>
+</geoname>
+</geonames>

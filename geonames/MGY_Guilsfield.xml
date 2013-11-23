@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Guilsfield</toponymName>
+<name>Guilsfield</name>
+<lat>52.69768</lat>
+<lng>-3.18538</lng>
+<geonameId>7301007</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN033</adminCode3>
+<adminName3>Guilsfield</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.26387</west>
+<north>52.72876</north>
+<east>-3.10688</east>
+<south>52.6666</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Guilsfield</toponymName>
+<name>Guilsfield</name>
+<lat>52.69634</lat>
+<lng>-3.15712</lng>
+<geonameId>2647788</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN033</adminCode3>
+<adminName3>Guilsfield</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Guilsfield</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.17196</west>
+<north>52.70534</north>
+<east>-3.14227</east>
+<south>52.68735</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+</geonames>

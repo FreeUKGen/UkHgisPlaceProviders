@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Hoe</toponymName>
+<name>Hoe</name>
+<lat>52.7</lat>
+<lng>0.95</lng>
+<geonameId>2646802</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hoe</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hoe%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.93516</west>
+<north>52.70899</north>
+<east>0.96484</east>
+<south>52.69101</south>
+</bbox>
+<score>89.01153564453125</score>
+</geoname>
+<geoname>
+<toponymName>Hoe</toponymName>
+<name>Hoe</name>
+<lat>52.71842</lat>
+<lng>0.9484</lng>
+<geonameId>7296643</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<adminCode4>33UB046</adminCode4>
+<adminName4>Hoe</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.92171</west>
+<north>52.74209</north>
+<east>0.97509</east>
+<south>52.69475</south>
+</bbox>
+<score>68.61737060546875</score>
+</geoname>
+<geoname>
+<toponymName>Hooe</toponymName>
+<name>Hooe</name>
+<lat>50.87017</lat>
+<lng>0.40418</lng>
+<geonameId>2646655</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hooe</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E2</adminCode2>
+<adminName2>East Sussex</adminName2>
+<adminCode3>21UH</adminCode3>
+<adminName3>Wealden District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hooe%2C_East_Sussex</alternateName>
+<alternateName lang="unlc">HOE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.38992</west>
+<north>50.87916</north>
+<east>0.41843</east>
+<south>50.86117</south>
+</bbox>
+<score>49.417171478271484</score>
+</geoname>
+</geonames>

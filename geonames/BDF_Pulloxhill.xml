@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Pulloxhill</toponymName>
+<name>Pulloxhill</name>
+<lat>51.99022</lat>
+<lng>-0.44832</lng>
+<geonameId>7299876</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC054</adminCode3>
+<adminName3>Pulloxhill</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pulloxhill</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.47449</west>
+<north>52.00631</north>
+<east>-0.42215</east>
+<south>51.97412</south>
+</bbox>
+<score>78.5201416015625</score>
+</geoname>
+<geoname>
+<toponymName>Pulloxhill</toponymName>
+<name>Pulloxhill</name>
+<lat>51.99487</lat>
+<lng>-0.45316</lng>
+<geonameId>2639856</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC054</adminCode3>
+<adminName3>Pulloxhill</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.48239</west>
+<north>52.01286</north>
+<east>-0.42394</east>
+<south>51.97688</south>
+</bbox>
+<score>41.1121940612793</score>
+</geoname>
+</geonames>

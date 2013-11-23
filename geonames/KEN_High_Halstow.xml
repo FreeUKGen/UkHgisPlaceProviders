@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>High Halstow</toponymName>
+<name>High Halstow</name>
+<lat>51.4683</lat>
+<lng>0.55766</lng>
+<geonameId>7296575</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I3</adminCode2>
+<adminName2>Medway</adminName2>
+<adminCode3>00LC007</adminCode3>
+<adminName3>High Halstow</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.52739</west>
+<north>51.50313</north>
+<east>0.58793</east>
+<south>51.43347</south>
+</bbox>
+<score>93.25333404541016</score>
+</geoname>
+<geoname>
+<toponymName>High Halstow</toponymName>
+<name>High Halstow</name>
+<lat>51.44863</lat>
+<lng>0.5609</lng>
+<geonameId>2646953</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>1660</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I3</adminCode2>
+<adminName2>Medway</adminName2>
+<adminCode3>00LC007</adminCode3>
+<adminName3>High Halstow</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/High_Halstow</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.55369</west>
+<north>51.45313</north>
+<east>0.56812</east>
+<south>51.44413</south>
+</bbox>
+<score>83.18205261230469</score>
+</geoname>
+</geonames>

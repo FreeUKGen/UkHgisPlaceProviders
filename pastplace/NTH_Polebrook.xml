@@ -1,0 +1,48 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>8125</id>
+<name>POLEBROOK</name>
+<container>NORTHAMPTONSHIRE</container>
+<lat>52.4652832263903</lat>
+<lon>-0.414901572659735</lon>
+<gazetteerText>POLEBROOK, a village, a parish, and a hundred, in Northampton. The village stands 1 mile E of the river Nen, 1&#189; E of the Northampton and Peterborough railway, and 2 E S E of Oundle. The parish contains also the hamlet of Armston, and is in Oundle district. Post-town, Oundle. Acres, 2, 730. Real property, &#163;3, 324. Pop., 488. Houses, 109. The property is subdivided. The manor belongs to the Duke of Buccleuch. The living is a rectory in the diocese of Peterborough. Value, &#163;420.* Patron, the Bishop of Peterborough. The church is partly Norman, partly early English; consists of nave, aisles, transepts, and chancel, with tower and broochspire; and was recently repaired. There is a free school. The hundred contains also 5 other parishes and parts of 3 others. Acres, 19, 840. Pop. in 1851, 5, 596; in 1861, 5, 723. Houses, 1, 154. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Polebrook</link>
+<link>http://www.geonames.org/2640176</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=66260</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=66266</link>
+</links>
+<unit>
+   <id>10206340</id>
+   <status>Hundred</status>
+   <name>POLEBROOK</name>
+</unit>
+<unit>
+   <id>10279914</id>
+   <status>CP/AP</status>
+   <name>POLEBROOK</name>
+</unit>
+<unit>
+   <id>10279940</id>
+   <status>EP</status>
+   <name>POLEBROOK</name>
+</unit>
+<nearByPlace>
+   <id>7521</id>
+   <name>ARMSTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8011</id>
+   <name>HEMINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8064</id>
+   <name>LUDDINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8219</id>
+   <name>THURNING</name>
+</nearByPlace>
+</place>
+</results>

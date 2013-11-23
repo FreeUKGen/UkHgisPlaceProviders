@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Whitford</toponymName>
+<name>Whitford</name>
+<lat>53.28898</lat>
+<lng>-3.29868</lng>
+<geonameId>7294093</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ033</adminCode3>
+<adminName3>Whitford</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.3584</west>
+<north>53.30949</north>
+<east>-3.23896</east>
+<south>53.26847</south>
+</bbox>
+<score>97.76506042480469</score>
+</geoname>
+<geoname>
+<toponymName>Whitford</toponymName>
+<name>Whitford</name>
+<lat>53.28333</lat>
+<lng>-3.28333</lng>
+<geonameId>2634046</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ033</adminCode3>
+<adminName3>Whitford</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.31343</west>
+<north>53.30132</north>
+<east>-3.25323</east>
+<south>53.26535</south>
+</bbox>
+<score>35.28660583496094</score>
+</geoname>
+</geonames>

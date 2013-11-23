@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Weaste</toponymName>
+<name>Weaste</name>
+<lat>53.48465</lat>
+<lng>-2.30883</lng>
+<geonameId>2634628</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Weaste</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L5</adminCode2>
+<adminName2>Salford</adminName2>
+<adminCode3>00BU001</adminCode3>
+<adminName3>GB.ENG.L5.00BU001</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Weaste</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.31488</west>
+<north>53.48825</north>
+<east>-2.30278</east>
+<south>53.48106</south>
+</bbox>
+<score>86.16818237304688</score>
+</geoname>
+<geoname>
+<toponymName>Weaste</toponymName>
+<name>Weaste</name>
+<lat>53.48252</lat>
+<lng>-2.308</lng>
+<geonameId>7676866</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>MTRO</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>metro station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L5</adminCode2>
+<adminName2>Salford</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>20.457468032836914</score>
+</geoname>
+</geonames>

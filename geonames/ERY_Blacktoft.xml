@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Blacktoft</toponymName>
+<name>Blacktoft</name>
+<lat>53.72365</lat>
+<lng>-0.71613</lng>
+<geonameId>7299641</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB018</adminCode3>
+<adminName3>Blacktoft</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.76746</west>
+<north>53.7479</north>
+<east>-0.6648</east>
+<south>53.6994</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Blacktoft</toponymName>
+<name>Blacktoft</name>
+<lat>53.70797</lat>
+<lng>-0.72728</lng>
+<geonameId>2655440</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB018</adminCode3>
+<adminName3>Blacktoft</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Blacktoft</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.74248</west>
+<north>53.71697</north>
+<east>-0.71208</east>
+<south>53.69898</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+</geonames>

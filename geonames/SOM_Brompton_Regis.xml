@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Brompton Regis</toponymName>
+<name>Brompton Regis</name>
+<lat>51.07259</lat>
+<lng>-3.49706</lng>
+<geonameId>2654581</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Brompton Regis,Kings Brompton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UF</adminCode3>
+<adminName3>West Somerset District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.51137</west>
+<north>51.08158</north>
+<east>-3.48274</east>
+<south>51.0636</south>
+</bbox>
+<score>71.43304443359375</score>
+</geoname>
+<geoname>
+<toponymName>Brompton Regis</toponymName>
+<name>Brompton Regis</name>
+<lat>51.06894</lat>
+<lng>-3.46059</lng>
+<geonameId>7298277</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UF</adminCode3>
+<adminName3>West Somerset District</adminName3>
+<adminCode4>40UF003</adminCode4>
+<adminName4>Brompton Regis</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brompton_Regis</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.54027</west>
+<north>51.11248</north>
+<east>-3.38091</east>
+<south>51.02539</south>
+</bbox>
+<score>53.04436492919922</score>
+</geoname>
+</geonames>

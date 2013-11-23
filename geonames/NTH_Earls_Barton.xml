@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Earls Barton</toponymName>
+<name>Earls Barton</name>
+<lat>52.26627</lat>
+<lng>-0.75248</lng>
+<geonameId>2650552</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5472</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UH</adminCode3>
+<adminName3>Wellingborough District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Earls_Barton</alternateName>
+<alternateName lang="unlc">EAR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.76718</west>
+<north>52.27526</north>
+<east>-0.73778</east>
+<south>52.25727</south>
+</bbox>
+<score>96.17225646972656</score>
+</geoname>
+<geoname>
+<toponymName>Earls Barton</toponymName>
+<name>Earls Barton</name>
+<lat>52.26339</lat>
+<lng>-0.75054</lng>
+<geonameId>7295761</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UH</adminCode3>
+<adminName3>Wellingborough District</adminName3>
+<adminCode4>34UH002</adminCode4>
+<adminName4>Earls Barton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.77913</west>
+<north>52.28084</north>
+<east>-0.72195</east>
+<south>52.24594</south>
+</bbox>
+<score>72.42444610595703</score>
+</geoname>
+</geonames>

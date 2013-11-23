@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Radcliffe on Trent</toponymName>
+<name>Radcliffe on Trent</name>
+<lat>52.94802</lat>
+<lng>-1.03855</lng>
+<geonameId>2639727</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7349</population>
+<alternateNames>Radcliffe,Radcliffe on Trent</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Radcliffe-on-Trent</alternateName>
+<alternateName lang="unlc">RNT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.05684</west>
+<north>52.95903</north>
+<east>-1.02027</east>
+<south>52.937</south>
+</bbox>
+<score>98.32427978515625</score>
+</geoname>
+<geoname>
+<toponymName>Radcliffe on Trent</toponymName>
+<name>Radcliffe on Trent</name>
+<lat>52.94504</lat>
+<lng>-1.03098</lng>
+<geonameId>7300918</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<adminCode4>37UJ034</adminCode4>
+<adminName4>Radcliffe on Trent</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.06255</west>
+<north>52.95833</north>
+<east>-0.99941</east>
+<south>52.93175</south>
+</bbox>
+<score>71.1192855834961</score>
+</geoname>
+</geonames>

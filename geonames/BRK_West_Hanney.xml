@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>West Hanney</toponymName>
+<name>West Hanney</name>
+<lat>51.63389</lat>
+<lng>-1.4138</lng>
+<geonameId>2634401</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UE</adminCode3>
+<adminName3>Vale of White Horse District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/West_Hanney</alternateName>
+<alternateName lang="unlc">WHN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.4283</west>
+<north>51.64289</north>
+<east>-1.39931</east>
+<south>51.6249</south>
+</bbox>
+<score>78.31012725830078</score>
+</geoname>
+<geoname>
+<toponymName>West Hanney</toponymName>
+<name>West Hanney</name>
+<lat>51.63235</lat>
+<lng>-1.42658</lng>
+<geonameId>7300972</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UE</adminCode3>
+<adminName3>Vale of White Horse District</adminName3>
+<adminCode4>38UE065</adminCode4>
+<adminName4>West Hanney</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.45115</west>
+<north>51.64796</north>
+<east>-1.40202</east>
+<south>51.61674</south>
+</bbox>
+<score>71.81542205810547</score>
+</geoname>
+</geonames>

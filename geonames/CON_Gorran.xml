@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Saint Goran</toponymName>
+<name>Saint Goran</name>
+<lat>50.25083</lat>
+<lng>-4.82197</lng>
+<geonameId>2638790</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Gorran,Saint Goran,Saint Gorran</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE154</adminCode3>
+<adminName3>St. Goran</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.83604</west>
+<north>50.25982</north>
+<east>-4.8079</east>
+<south>50.24183</south>
+</bbox>
+<score>43.964874267578125</score>
+</geoname>
+</geonames>

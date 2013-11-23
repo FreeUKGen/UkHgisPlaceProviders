@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Usk</toponymName>
+<name>Usk</name>
+<lat>51.70197</lat>
+<lng>-2.89605</lng>
+<geonameId>7301137</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP033</adminCode3>
+<adminName3>Usk</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.91041</west>
+<north>51.71519</north>
+<east>-2.88169</east>
+<south>51.68874</south>
+</bbox>
+<score>102.60591888427734</score>
+</geoname>
+<geoname>
+<toponymName>Usk</toponymName>
+<name>Usk</name>
+<lat>51.70347</lat>
+<lng>-2.90332</lng>
+<geonameId>2635052</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2344</population>
+<alternateNames>"sk,Ask,Brynbuga,Usk,Аск,Ъск</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP033</adminCode3>
+<adminName3>Usk</adminName3>
+<alternateName lang="bg">Ъск</alternateName>
+<alternateName lang="cy">Brynbuga</alternateName>
+<alternateName lang="en">Usk</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Usk</alternateName>
+<alternateName lang="ru">Аск</alternateName>
+<alternateName lang="unlc">USK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.91058</west>
+<north>51.70797</north>
+<east>-2.89607</east>
+<south>51.69897</south>
+</bbox>
+<score>94.29051208496094</score>
+</geoname>
+</geonames>

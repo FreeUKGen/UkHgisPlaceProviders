@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bolton le Sands</toponymName>
+<name>Bolton le Sands</name>
+<lat>54.08333</lat>
+<lng>-2.78333</lng>
+<geonameId>2655232</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7166</population>
+<alternateNames>Bolton le Sands</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UH</adminCode3>
+<adminName3>Lancaster</adminName3>
+<alternateName lang="unlc">BNS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.80048</west>
+<north>54.09339</north>
+<east>-2.76619</east>
+<south>54.07328</south>
+</bbox>
+<score>63.369224548339844</score>
+</geoname>
+<geoname>
+<toponymName>Bolton-le-Sands</toponymName>
+<name>Bolton-le-Sands</name>
+<lat>54.10657</lat>
+<lng>-2.81376</lng>
+<geonameId>7295879</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UH</adminCode3>
+<adminName3>Lancaster</adminName3>
+<adminCode4>30UH002</adminCode4>
+<adminName4>Bolton-le-Sands</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bolton-le-Sands</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.85893</west>
+<north>54.12391</north>
+<east>-2.76858</east>
+<south>54.08923</south>
+</bbox>
+<score>56.754669189453125</score>
+</geoname>
+</geonames>

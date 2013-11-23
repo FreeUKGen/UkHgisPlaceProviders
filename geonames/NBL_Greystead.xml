@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Greystead</toponymName>
+<name>Greystead</name>
+<lat>55.12551</lat>
+<lng>-2.45774</lng>
+<geonameId>7302004</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM064</adminCode3>
+<adminName3>Greystead</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Greystead</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.6016</west>
+<north>55.17016</north>
+<east>-2.31387</east>
+<south>55.08087</south>
+</bbox>
+<score>80.7945556640625</score>
+</geoname>
+</geonames>

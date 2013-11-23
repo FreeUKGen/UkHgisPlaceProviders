@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Tealby</toponymName>
+<name>Tealby</name>
+<lat>53.39923</lat>
+<lng>-0.27328</lng>
+<geonameId>7299203</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<adminCode4>32UH108</adminCode4>
+<adminName4>Tealby</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tealby</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.31858</west>
+<north>53.42224</north>
+<east>-0.22798</east>
+<south>53.37621</south>
+</bbox>
+<score>61.34955596923828</score>
+</geoname>
+</geonames>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Leuchars</toponymName>
+<name>Leuchars</name>
+<lat>56.38174</lat>
+<lng>-2.88253</lng>
+<geonameId>2644581</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2341</population>
+<alternateNames>Leuchars</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V1</adminCode2>
+<adminName2>Fife</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Leuchars</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.89066</west>
+<north>56.38624</north>
+<east>-2.87441</east>
+<south>56.37724</south>
+</bbox>
+<score>117.71316528320312</score>
+</geoname>
+<geoname>
+<toponymName>Leuchars</toponymName>
+<name>Leuchars</name>
+<lat>56.37289</lat>
+<lng>-2.86844</lng>
+<geonameId>6296639</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>ADX,EGQL</alternateNames>
+<elevation>11</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V1</adminCode2>
+<adminName2>Fife</adminName2>
+<alternateName lang="iata">ADX</alternateName>
+<alternateName lang="icao">EGQL</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/RAF_Leuchars</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>102.63308715820312</score>
+</geoname>
+</geonames>

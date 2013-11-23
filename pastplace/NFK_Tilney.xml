@@ -1,0 +1,79 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>3915</id>
+<name>TILNEY ALL SAINTS</name>
+<container>NORFOLK</container>
+<lat>52.7356780646536</lat>
+<lon>0.316744921911504</lon>
+<gazetteerText>TILNEY-ALL SAINTS, a parish, with a village, in the district of Wisbeach and county of Norfolk; 1&#190; mile SW of Clenchwarton r. station, and 3&#189; WSW of Lynn. It has a post-office under Lynn. Acres, 2,750. Real property, &#163;5,445. Pop., 510. Houses, 114. The property is much subdivided. The living is a vicarage, united with T. St. Lawrence, in the diocese of Norwich. The church was restored in 1866. There are a Wesleyan chapel, a national school, and charities &#163;60. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.origins.org.uk/genuki/NFK/places/t/tilney_all_saints/</link>
+<link>http://www.geonames.org/7299429</link>
+</links>
+<unit>
+   <id>10123070</id>
+   <status>CP/AP</status>
+   <name>TILNEY ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10142994</id>
+   <status>EP</status>
+   <name>TILNEY ALL SAINTS WITH ST LAWRENCE</name>
+</unit>
+</place>
+<place>
+<id>5742</id>
+<name>TILNEY CUM ISLINGTON</name>
+<container>NORFOLK</container>
+<lat>52.7274528844422</lat>
+<lon>0.326691277763516</lon>
+<gazetteerText>TILNEY-CUM-ISLINGTON, a parish, with a village, in the district of Wisbeach and county of Norfolk; 2&#189; miles SW by S of Clenchwarton r. station, and 4 SW of Lynn. Post town, Lynn. Acres, 1,625. Real property, &#163;3,598. Pop., 295. Houses, 61. The manor belongs to R. Bagge, Esq. Islington Hall is the seat of Mrs. Hulton. The living is a vicarage in the diocese of Norwich. Value, &#163;110.* Patron, the Lord Chancellor. The church is good. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.origins.org.uk/genuki/NFK/places/t/tilney_cum_islington/</link>
+</links>
+<unit>
+   <id>10077187</id>
+   <status>EP</status>
+   <name>ISLINGTON</name>
+</unit>
+<unit>
+   <id>10205440</id>
+   <status>AP/CP</status>
+   <name>TILNEY WITH ISLINGTON</name>
+</unit>
+<unit>
+   <id>10512761</id>
+   <status></status>
+   <name>ISLINGTON</name>
+</unit>
+</place>
+<place>
+<id>3290</id>
+<name>TILNEY ST LAWRENCE</name>
+<container>NORFOLK</container>
+<lat>52.6988442944526</lat>
+<lon>0.302592350185986</lon>
+<gazetteerText>TILNEY-ST. LAWRENCE, a parish, with a village, in the district of Wisbeach and county of Norfolk; 3&#189; miles S of Terrington r. station, and 6 SW of Lynn. Post town, Lynn. Acres, 3,366. Real property, &#163;7,995. Pop., 855. Houses, 112. The property is much sub-divided. The manor belongs to the Queen. The living is a vicarage, annexed to T.-All-Saints. The church was restored in 1846. There are three Primitive Methodist chapels, and charities &#163;22. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.origins.org.uk/genuki/NFK/places/t/tilney_st_lawrence/</link>
+</links>
+<unit>
+   <id>10096741</id>
+   <status>CP/Ch</status>
+   <name>TILNEY ST LAWRENCE</name>
+</unit>
+<nearByPlace>
+   <id>1671</id>
+   <name>WIGGENHALL ST GERMAN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5742</id>
+   <name>TILNEY CUM ISLINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6040</id>
+   <name>WIGGENHALL ST MARY THE VIRGIN</name>
+</nearByPlace>
+</place>
+</results>

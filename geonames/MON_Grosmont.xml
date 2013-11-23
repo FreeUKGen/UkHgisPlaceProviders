@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Grosmont</toponymName>
+<name>Grosmont</name>
+<lat>51.91724</lat>
+<lng>-2.86503</lng>
+<geonameId>7301130</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP008</adminCode3>
+<adminName3>Grosmont</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.96112</west>
+<north>51.93439</north>
+<east>-2.80873</east>
+<south>51.83042</south>
+</bbox>
+<score>95.85856628417969</score>
+</geoname>
+<geoname>
+<toponymName>Grosmont</toponymName>
+<name>Grosmont</name>
+<lat>54.43583</lat>
+<lng>-0.72325</lng>
+<geonameId>2647839</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UG</adminCode3>
+<adminName3>Scarborough District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Grosmont%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.73872</west>
+<north>54.44483</north>
+<east>-0.70779</east>
+<south>54.42684</south>
+</bbox>
+<score>72.46011352539062</score>
+</geoname>
+<geoname>
+<toponymName>Grosmont</toponymName>
+<name>Grosmont</name>
+<lat>51.91667</lat>
+<lng>-2.86667</lng>
+<geonameId>2647840</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Grosmont,Grosmount</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP008</adminCode3>
+<adminName3>Grosmont</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Grosmont%2C_Monmouthshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.89584</west>
+<north>51.93465</north>
+<east>-2.83749</east>
+<south>51.89868</south>
+</bbox>
+<score>70.03022003173828</score>
+</geoname>
+<geoname>
+<toponymName>Grosmont</toponymName>
+<name>Grosmont</name>
+<lat>54.43766</lat>
+<lng>-0.7198</lng>
+<geonameId>7292099</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UG</adminCode3>
+<adminName3>Scarborough District</adminName3>
+<adminCode4>36UG022</adminCode4>
+<adminName4>Grosmont</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.74205</west>
+<north>54.44991</north>
+<east>-0.69755</east>
+<south>54.42541</south>
+</bbox>
+<score>69.13074493408203</score>
+</geoname>
+</geonames>

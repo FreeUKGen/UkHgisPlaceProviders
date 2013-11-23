@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kirby Muxloe</toponymName>
+<name>Kirby Muxloe</name>
+<lat>52.63025</lat>
+<lng>-1.22755</lng>
+<geonameId>2645335</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9712</population>
+<alternateNames>Kirby Muxloe</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UB</adminCode3>
+<adminName3>Blaby</adminName3>
+<alternateName lang="unlc">KMO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.24851</west>
+<north>52.64297</north>
+<east>-1.20659</east>
+<south>52.61753</south>
+</bbox>
+<score>70.85846710205078</score>
+</geoname>
+<geoname>
+<toponymName>Kirby Muxloe</toponymName>
+<name>Kirby Muxloe</name>
+<lat>52.62871</lat>
+<lng>-1.23523</lng>
+<geonameId>7295404</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UB</adminCode3>
+<adminName3>Blaby</adminName3>
+<adminCode4>31UB013</adminCode4>
+<adminName4>Kirby Muxloe</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirby_Muxloe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.26505</west>
+<north>52.64624</north>
+<east>-1.2054</east>
+<south>52.61118</south>
+</bbox>
+<score>53.84480667114258</score>
+</geoname>
+</geonames>

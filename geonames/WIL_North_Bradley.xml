@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>North Bradley</toponymName>
+<name>North Bradley</name>
+<lat>51.28799</lat>
+<lng>-2.21162</lng>
+<geonameId>7299358</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY168</adminCode3>
+<adminName3>North Bradley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.24524</west>
+<north>51.31289</north>
+<east>-2.178</east>
+<south>51.2631</south>
+</bbox>
+<score>84.80586242675781</score>
+</geoname>
+<geoname>
+<toponymName>North Bradley</toponymName>
+<name>North Bradley</name>
+<lat>51.295</lat>
+<lng>-2.20472</lng>
+<geonameId>2641413</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>North Bradley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY168</adminCode3>
+<adminName3>North Bradley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/North_Bradley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.2335</west>
+<north>51.31299</north>
+<east>-2.17595</east>
+<south>51.27701</south>
+</bbox>
+<score>73.03347778320312</score>
+</geoname>
+</geonames>

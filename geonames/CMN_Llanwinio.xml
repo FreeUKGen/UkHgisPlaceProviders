@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanwinio</toponymName>
+<name>Llanwinio</name>
+<lat>51.90708</lat>
+<lng>-4.54612</lng>
+<geonameId>7294068</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU055</adminCode3>
+<adminName3>Llanwinio</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.58868</west>
+<north>51.94961</north>
+<east>-4.50355</east>
+<south>51.86454</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Llanwinio</toponymName>
+<name>Llanwinio</name>
+<lat>51.90861</lat>
+<lng>-4.53056</lng>
+<geonameId>2643915</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Llanwinio</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU055</adminCode3>
+<adminName3>Llanwinio</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanwinio</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.55972</west>
+<north>51.9266</north>
+<east>-4.50139</east>
+<south>51.89062</south>
+</bbox>
+<score>87.30439758300781</score>
+</geoname>
+</geonames>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Norton Subcourse</toponymName>
+<name>Norton Subcourse</name>
+<lat>52.5428</lat>
+<lng>1.56012</lng>
+<geonameId>7301932</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH075</adminCode4>
+<adminName4>Norton Subcourse</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Norton_Subcourse</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.52756</west>
+<north>52.55957</north>
+<east>1.59267</east>
+<south>52.52603</south>
+</bbox>
+<score>54.86511993408203</score>
+</geoname>
+</geonames>

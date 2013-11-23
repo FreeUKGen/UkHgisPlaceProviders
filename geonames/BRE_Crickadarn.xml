@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Crickadarn</toponymName>
+<name>Crickadarn</name>
+<lat>52.07084</lat>
+<lng>-3.32905</lng>
+<geonameId>2651988</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Crickadarn,Crickadorn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN025</adminCode3>
+<adminName3>Erwood</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.34369</west>
+<north>52.07984</north>
+<east>-3.31442</east>
+<south>52.06185</south>
+</bbox>
+<score>88.42969512939453</score>
+</geoname>
+</geonames>

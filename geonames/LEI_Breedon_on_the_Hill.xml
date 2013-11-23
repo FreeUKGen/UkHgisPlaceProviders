@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Breedon on the Hill</toponymName>
+<name>Breedon on the Hill</name>
+<lat>52.80196</lat>
+<lng>-1.40298</lng>
+<geonameId>2654805</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Breedon,Breedon on the Hill</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>6896157</adminCode3>
+<adminName3>North West Leicestershire</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.41786</west>
+<north>52.81096</north>
+<east>-1.3881</east>
+<south>52.79297</south>
+</bbox>
+<score>67.16546630859375</score>
+</geoname>
+<geoname>
+<toponymName>Breedon on the Hill</toponymName>
+<name>Breedon on the Hill</name>
+<lat>52.80431</lat>
+<lng>-1.38869</lng>
+<geonameId>7293882</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Breedon_on_the_Hill</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>53.93939208984375</score>
+</geoname>
+</geonames>

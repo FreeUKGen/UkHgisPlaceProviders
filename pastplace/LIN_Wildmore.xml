@@ -1,0 +1,37 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>14072</id>
+<name>WILDMORE</name>
+<container>LINCOLNSHIRE</container>
+<lat>53.0659418996599</lat>
+<lon>-0.135903286632146</lon>
+<gazetteerText>Wildmore, par., Lincolnshire, 3 miles SE. of Tattershall, 3701 ac., pop. 689; consists of a tract called Wildmore Fen, at one time divided among 12 pars. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LIN/Wildmore/</link>
+<link>http://www.geonames.org/7298672</link>
+</links>
+<unit>
+   <id>10463490</id>
+   <status>Ch/CP/PA</status>
+   <name>WILDMORE</name>
+</unit>
+<unit>
+   <id>10463506</id>
+   <status>EP</status>
+   <name>WILDMORE</name>
+</unit>
+<nearByPlace>
+   <id>11960</id>
+   <name>COPPING SYKE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12530</id>
+   <name>HARTS GROUND</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13421</id>
+   <name>PELHAMS LANDS</name>
+</nearByPlace>
+</place>
+</results>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ickworth</toponymName>
+<name>Ickworth</name>
+<lat>52.22286</lat>
+<lng>0.65307</lng>
+<geonameId>7301373</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UF</adminCode3>
+<adminName3>St. Edmundsbury District</adminName3>
+<adminCode4>42UF043</adminCode4>
+<adminName4>Ickworth</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ickworth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.63689</west>
+<north>52.24149</north>
+<east>0.66924</east>
+<south>52.20423</south>
+</bbox>
+<score>60.08181381225586</score>
+</geoname>
+<geoname>
+<toponymName>Ickworth House</toponymName>
+<name>Ickworth House</name>
+<lat>52.21667</lat>
+<lng>0.65</lng>
+<geonameId>2646300</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames>Ickworth,Ickworth House</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UF</adminCode3>
+<adminName3>St. Edmundsbury District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ickworth_House</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>45.8264045715332</score>
+</geoname>
+</geonames>

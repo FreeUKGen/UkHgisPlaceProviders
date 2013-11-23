@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llandrindod Wells</toponymName>
+<name>Llandrindod Wells</name>
+<lat>52.24154</lat>
+<lng>-3.36487</lng>
+<geonameId>7297045</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN047</adminCode3>
+<adminName3>Llandrindod Wells</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.39463</west>
+<north>52.26204</north>
+<east>-3.3351</east>
+<south>52.22103</south>
+</bbox>
+<score>85.62242126464844</score>
+</geoname>
+<geoname>
+<toponymName>Llandrindod Wells</toponymName>
+<name>Llandrindod Wells</name>
+<lat>52.24164</lat>
+<lng>-3.37868</lng>
+<geonameId>2644122</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>5350</population>
+<alternateNames>Landrindod Uels,Llandrindod,Llandrindod-Vells,laendeulindodeuwelseu,Ландриндод Уелс,Лландріндод-Веллс,랜드린도드웰스</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN047</adminCode3>
+<adminName3>Llandrindod Wells</adminName3>
+<alternateName lang="bg">Ландриндод Уелс</alternateName>
+<alternateName lang="br">Llandrindod</alternateName>
+<alternateName lang="cy">Llandrindod</alternateName>
+<alternateName lang="ko">랜드린도드웰스</alternateName>
+<alternateName lang="kw">Llandrindod</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llandrindod_Wells</alternateName>
+<alternateName lang="uk">Лландріндод-Веллс</alternateName>
+<alternateName lang="unlc">LDW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.39337</west>
+<north>52.25064</north>
+<east>-3.36399</east>
+<south>52.23265</south>
+</bbox>
+<score>68.9595947265625</score>
+</geoname>
+</geonames>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Westray</toponymName>
+<name>Westray</name>
+<lat>59.3</lat>
+<lng>-3</lng>
+<geonameId>2634285</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Westray</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V9</adminCode2>
+<adminName2>Orkney</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Westray</alternateName>
+<alternateName lang="unlc">WRY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.07186</west>
+<north>59.36025</north>
+<east>-2.84467</east>
+<south>59.22889</south>
+</bbox>
+<score>84.97418212890625</score>
+</geoname>
+</geonames>

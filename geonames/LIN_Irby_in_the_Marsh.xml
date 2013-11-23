@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Irby in the Marsh</toponymName>
+<name>Irby in the Marsh</name>
+<lat>53.14663</lat>
+<lng>0.20414</lng>
+<geonameId>7298972</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC084</adminCode4>
+<adminName4>Irby in the Marsh</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Irby_in_the_Marsh</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.18355</west>
+<north>53.16201</north>
+<east>0.22472</east>
+<south>53.13124</south>
+</bbox>
+<score>54.752769470214844</score>
+</geoname>
+</geonames>

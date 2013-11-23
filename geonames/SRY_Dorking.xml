@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Dorking</toponymName>
+<name>Dorking</name>
+<lat>51.2329</lat>
+<lng>-0.32942</lng>
+<geonameId>2651095</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>16429</population>
+<alternateNames>Dorking,Доркинг,Դորկինգ</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UE</adminCode3>
+<adminName3>Mole Valley</adminName3>
+<alternateName lang="hy">Դորկինգ</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dorking</alternateName>
+<alternateName lang="ru">Доркинг</alternateName>
+<alternateName lang="sr">Доркинг</alternateName>
+<alternateName lang="unlc">DKG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.35532</west>
+<north>51.24912</north>
+<east>-0.30352</east>
+<south>51.21669</south>
+</bbox>
+<score>124.64414978027344</score>
+</geoname>
+</geonames>

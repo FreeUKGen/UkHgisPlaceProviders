@@ -1,0 +1,91 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>234</id>
+<name>MABLETHORPE</name>
+<container>LINCOLNSHIRE</container>
+<lat>53.3294584913972</lat>
+<lon>0.253633640032993</lon>
+<gazetteerText>MABLETHORPE-ST. PETER, a parish in Louth district, Lincoln; contiguous to Mablethorpe-St. Mary. Post town, Mablethorpe, under Alford. Acres, 1,582; of which 675 are water. Pop., 82. Houses, 13. The living is a rectory, annexed to the rectory of Theddlethorpe, in the diocese of Lincoln. The church was long ago destroyed by encroachment of the Sea.. manding fine views; and is surrounded by a very beautiful-park. An ancient stronghold, whence the castle took its name, stood on a ridge of hill within the park; is said to have been built by the Saxon Wade or Wada, about 200 years before the Norman conquest; was dismantled, by order of the parliament, in the time of Charles I.; and is now represented by ruins, comprising a central keep with corner towers, a square tower at the SE angle of the outer wall, two circular towers at the entrance, and some fragments of other walls. Wade, the builder of the old castle, is traditionally said to have been a giant, and to have made the road from Dunsley to Malton called Wade&apos;s causeway. A lofty cliff at Kettleness, surmounted by a hamlet, became undermined; and, on a night of Dec. in 1829, glided down to the sea. Alum works are at Kettleness and Sandsend, and have been worked for upwards of two centuries. The living is a vicarage in the diocese of York. Value, &#163;300. * Patron, the Archbishop of York. The church is ancient, with a tower; and has been greatly altered by modern restorations and repairs. The vicarages of Ugthorpe and Grosmont are separate benefices. There are chapels for Independents and Wesleyans, a slightly endowed school, and charities &#163;7.&#151;The sub-district excludes Egton township, but includes Hinderwell parish. Acres, 18,384. Pop., 4,923. Houses, 1,042. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LIN/Mablethorpe/</link>
+<link>http://en.wikipedia.org/wiki/Mablethorpe</link>
+<link>http://www.geonames.org/2643269</link>
+</links>
+<unit>
+   <id>10027159</id>
+   <status>UD</status>
+   <name>MABLETHORPE AND SUTTON</name>
+</unit>
+<unit>
+   <id>10434774</id>
+   <status>AP/CP</status>
+   <name>MABLETHORPE</name>
+</unit>
+<unit>
+   <id>10434907</id>
+   <status>AP</status>
+   <name>MABLETHORPE ST MARY</name>
+</unit>
+<unit>
+   <id>10434919</id>
+   <status>EP</status>
+   <name>MABLETHORPE ST MARY</name>
+</unit>
+<unit>
+   <id>10434932</id>
+   <status>EP</status>
+   <name>MABLETHORPE WITH STANE</name>
+</unit>
+<unit>
+   <id>10435006</id>
+   <status>AP</status>
+   <name>MABLETHORPE ST PETER</name>
+</unit>
+<unit>
+   <id>10435031</id>
+   <status>EP</status>
+   <name>MABLETHORPE ST PETER</name>
+</unit>
+<nearByPlace>
+   <id>11388</id>
+   <name>ABY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11900</id>
+   <name>GREAT CARLTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12973</id>
+   <name>MALTBY LE MARSH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13517</id>
+   <name>SALEBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13526</id>
+   <name>SALTFLEETBY ST PETER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13571</id>
+   <name>SKIDBROOKE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13872</id>
+   <name>SUTTON IN THE MARSH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13932</id>
+   <name>THEDDLETHORPE ST HELEN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>14021</id>
+   <name>TRUSTHORPE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>14099</id>
+   <name>WITHERN</name>
+</nearByPlace>
+</place>
+</results>

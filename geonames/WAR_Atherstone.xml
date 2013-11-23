@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Atherstone</toponymName>
+<name>Atherstone</name>
+<lat>52.57536</lat>
+<lng>-1.54693</lng>
+<geonameId>2656848</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11304</population>
+<alternateNames>Atherstone</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UB</adminCode3>
+<adminName3>North Warwickshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Atherstone</alternateName>
+<alternateName lang="unlc">ATH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.56913</west>
+<north>52.58885</north>
+<east>-1.52472</east>
+<south>52.56187</south>
+</bbox>
+<score>108.59393310546875</score>
+</geoname>
+<geoname>
+<toponymName>Atherstone</toponymName>
+<name>Atherstone</name>
+<lat>52.57818</lat>
+<lng>-1.54348</lng>
+<geonameId>7292657</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UB</adminCode3>
+<adminName3>North Warwickshire District</adminName3>
+<adminCode4>44UB004</adminCode4>
+<adminName4>Atherstone</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.56221</west>
+<north>52.59193</north>
+<east>-1.52476</east>
+<south>52.56443</south>
+</bbox>
+<score>67.65008544921875</score>
+</geoname>
+</geonames>

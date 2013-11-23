@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wareham</toponymName>
+<name>Wareham</name>
+<lat>50.68886</lat>
+<lng>-2.1104</lng>
+<geonameId>2634776</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2625</population>
+<alternateNames>Ueurkham,Wareham,wei lei mu,Уеърхам,韋勒姆</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UG</adminCode3>
+<adminName3>Purbeck District</adminName3>
+<alternateName lang="bg">Уеърхам</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wareham%2C_Dorset</alternateName>
+<alternateName lang="unlc">WRH</alternateName>
+<alternateName lang="zh">韋勒姆</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.12044</west>
+<north>50.69522</north>
+<east>-2.10037</east>
+<south>50.6825</south>
+</bbox>
+<score>71.2719497680664</score>
+</geoname>
+<geoname>
+<toponymName>Wareham</toponymName>
+<name>Wareham</name>
+<lat>50.69188</lat>
+<lng>-2.10888</lng>
+<geonameId>7297602</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames>Wareham,Wareham Town</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UG</adminCode3>
+<adminName3>Purbeck District</adminName3>
+<adminCode4>19UG023</adminCode4>
+<adminName4>Wareham</adminName4>
+<alternateName lang="en">Wareham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.14116</west>
+<north>50.7042</north>
+<east>-2.07659</east>
+<south>50.67957</south>
+</bbox>
+<score>69.86129760742188</score>
+</geoname>
+</geonames>

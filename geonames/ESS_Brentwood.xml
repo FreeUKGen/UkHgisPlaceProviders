@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Brentwood</toponymName>
+<name>Brentwood</name>
+<lat>51.62127</lat>
+<lng>0.30556</lng>
+<geonameId>2654782</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>47606</population>
+<alternateNames>Brentud,Brentvud,Brentwood,Brentwood i Essex,beulenteuudeu,Брентвуд,Брентуд,브렌트우드</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UD</adminCode3>
+<adminName3>Brentwood District</adminName3>
+<alternateName lang="bg">Брентуд</alternateName>
+<alternateName lang="ko">브렌트우드</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brentwood%2C_Essex</alternateName>
+<alternateName lang="nn">Brentwood i Essex</alternateName>
+<alternateName lang="ru">Брентвуд</alternateName>
+<alternateName lang="unlc">BWD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.2603</west>
+<north>51.64935</north>
+<east>0.35082</east>
+<south>51.59318</south>
+</bbox>
+<score>70.60990905761719</score>
+</geoname>
+</geonames>

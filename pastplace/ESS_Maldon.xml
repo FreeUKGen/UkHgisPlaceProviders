@@ -1,0 +1,181 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>172</id>
+<name>MALDON</name>
+<container>ESSEX</container>
+<lat>51.7230461923259</lat>
+<lon>0.724136678298838</lon>
+<gazetteerText>Maldon, mun. bor., market town, and river port, Essex, at the influx of the river Chelmer to the Blackwater estuary, 17 miles SW. of Colchester and 44 miles NE. of London by rail, 3035 ac., pop. 5468; P.O., T.O., 2 Banks, 1 newspaper. Market-day, Tuesday. During the period of the Danish invasions, Maldon was a Saxon stronghold, and was twice attacked by the foe, in 921 and 993. Henry II. granted it a charter of incorporation. Its mfrs. are crystallised salt, silk fabrics, cordage, and sails; it also has industries in brewing, brickmaking, and ironfounding. Oyster fisheries are a lucrative local resource, and some shipping trade is carried on. Maldon is now a sub-port of Colchester. It returned 2 members to Parliament from Edward III. until 1867, and 1 member from 1867 until 1885. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.workhouses.org.uk/Maldon</link>
+<link>http://en.wikipedia.org/wiki/Maldon,_Essex</link>
+<link>http://www.geonames.org/2643160</link>
+</links>
+<unit>
+   <id>10244456</id>
+   <status>CP/AP</status>
+   <name>MALDON ST MARY</name>
+</unit>
+<unit>
+   <id>10187035</id>
+   <status>USD</status>
+   <name>MALDON</name>
+</unit>
+<unit>
+   <id>10561462</id>
+   <status></status>
+   <name>ST PETER</name>
+</unit>
+<unit>
+   <id>10538038</id>
+   <status></status>
+   <name>MALDON</name>
+</unit>
+<unit>
+   <id>10244481</id>
+   <status>EP</status>
+   <name>MALDON ST PETER</name>
+</unit>
+<unit>
+   <id>12757281</id>
+   <status>CCon</status>
+   <name>MALDON</name>
+</unit>
+<unit>
+   <id>10244468</id>
+   <status>EP</status>
+   <name>MALDON ST MARY</name>
+</unit>
+<unit>
+   <id>10025898</id>
+   <status>MB</status>
+   <name>MALDON</name>
+</unit>
+<unit>
+   <id>10244470</id>
+   <status>CP/AP</status>
+   <name>MALDON ST PETER</name>
+</unit>
+<unit>
+   <id>10043189</id>
+   <status>RSD</status>
+   <name>MALDON</name>
+</unit>
+<unit>
+   <id>12749946</id>
+   <status>PBCon</status>
+   <name>MALDON</name>
+</unit>
+<unit>
+   <id>12737786</id>
+   <status>PDivCon</status>
+   <name>ESSEX EASTERN OR MALDON</name>
+</unit>
+<unit>
+   <id>10244420</id>
+   <status>CP/AP</status>
+   <name>MALDON ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10244419</id>
+   <status>CP</status>
+   <name>MALDON</name>
+</unit>
+<unit>
+   <id>12748218</id>
+   <status>CCon</status>
+   <name>MALDON AND EAST CHELMSFORD</name>
+</unit>
+<unit>
+   <id>10033070</id>
+   <status></status>
+   <name>MALDON</name>
+</unit>
+<unit>
+   <id>12737762</id>
+   <status>PDivCon</status>
+   <name>ESSEX MALDON</name>
+</unit>
+<unit>
+   <id>10166780</id>
+   <status>RD</status>
+   <name>MALDON</name>
+</unit>
+<unit>
+   <id>10055775</id>
+   <status>RegD/PLU</status>
+   <name>MALDON</name>
+</unit>
+<unit>
+   <id>10207071</id>
+   <status>Borough</status>
+   <name>MALDON</name>
+</unit>
+<unit>
+   <id>10244432</id>
+   <status>EP</status>
+   <name>MALDON ALL SAINTS</name>
+</unit>
+<unit>
+   <id>12834184</id>
+   <status></status>
+   <name>MALDON</name>
+</unit>
+<unit>
+   <id>10576751</id>
+   <status></status>
+   <name>MALDON</name>
+</unit>
+<unit>
+   <id>10244444</id>
+   <status>EP</status>
+   <name>MALDON ALL SAINTS WITH ST PETER</name>
+</unit>
+<unit>
+   <id>10576763</id>
+   <status></status>
+   <name>MALDON</name>
+</unit>
+<nearByPlace>
+   <id>6716</id>
+   <name>GOLDHANGER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6760</id>
+   <name>HEYBRIDGE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6858</id>
+   <name>PELDON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6863</id>
+   <name>PURLEIGH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6945</id>
+   <name>TOLLESBURY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6946</id>
+   <name>TOLLESHUNT DARCY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6947</id>
+   <name>TOLLESHUNT KNIGHTS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6948</id>
+   <name>TOLLESHUNT MAJOR</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6950</id>
+   <name>GREAT TOTHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6977</id>
+   <name>GREAT WIGBOROUGH</name>
+</nearByPlace>
+</place>
+</results>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Otterham</toponymName>
+<name>Otterham</name>
+<lat>50.69472</lat>
+<lng>-4.59815</lng>
+<geonameId>7294438</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE101</adminCode3>
+<adminName3>Otterham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Otterham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.62367</west>
+<north>50.72413</north>
+<east>-4.57262</east>
+<south>50.66531</south>
+</bbox>
+<score>74.40147399902344</score>
+</geoname>
+<geoname>
+<toponymName>Otterham</toponymName>
+<name>Otterham</name>
+<lat>50.68777</lat>
+<lng>-4.59544</lng>
+<geonameId>2640845</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE101</adminCode3>
+<adminName3>Otterham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.60963</west>
+<north>50.69676</north>
+<east>-4.58124</east>
+<south>50.67878</south>
+</bbox>
+<score>61.910301208496094</score>
+</geoname>
+</geonames>

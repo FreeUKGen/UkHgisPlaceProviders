@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Rhosllanerchrugog</toponymName>
+<name>Rhosllanerchrugog</name>
+<lat>53.00974</lat>
+<lng>-3.05814</lng>
+<geonameId>2639436</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>13393</population>
+<alternateNames>Rhos,Rhosllanerchrugog</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z4</adminCode2>
+<adminName2>Wrexham</adminName2>
+<adminCode3>00NL029</adminCode3>
+<adminName3>Rhosllanerchrugog</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rhosllannerchrugog</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.08294</west>
+<north>53.02466</north>
+<east>-3.03334</east>
+<south>52.99483</south>
+</bbox>
+<score>125.22599029541016</score>
+</geoname>
+<geoname>
+<toponymName>Rhosllanerchrugog</toponymName>
+<name>Rhosllanerchrugog</name>
+<lat>53.01262</lat>
+<lng>-3.0664</lng>
+<geonameId>7292825</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z4</adminCode2>
+<adminName2>Wrexham</adminName2>
+<adminCode3>00NL029</adminCode3>
+<adminName3>Rhosllanerchrugog</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.09908</west>
+<north>53.02871</north>
+<east>-3.03373</east>
+<south>52.99652</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+</geonames>

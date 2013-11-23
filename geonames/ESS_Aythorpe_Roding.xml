@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Aythorpe Roding</toponymName>
+<name>Aythorpe Roding</name>
+<lat>51.81101</lat>
+<lng>0.31596</lng>
+<geonameId>7298935</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UQ</adminCode3>
+<adminName3>Uttlesford District</adminName3>
+<adminCode4>22UQ003</adminCode4>
+<adminName4>Aythorpe Roding</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aythorpe_Roding</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.28436</west>
+<north>51.82493</north>
+<east>0.34756</east>
+<south>51.79708</south>
+</bbox>
+<score>56.09027862548828</score>
+</geoname>
+</geonames>

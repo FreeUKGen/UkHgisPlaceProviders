@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>West Rainton</toponymName>
+<name>West Rainton</name>
+<lat>54.81875</lat>
+<lng>-1.51119</lng>
+<geonameId>7294701</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ121</adminCode3>
+<adminName3>West Rainton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.54054</west>
+<north>54.83747</north>
+<east>-1.48184</east>
+<south>54.80004</south>
+</bbox>
+<score>91.78011322021484</score>
+</geoname>
+<geoname>
+<toponymName>West Rainton</toponymName>
+<name>West Rainton</name>
+<lat>54.81667</lat>
+<lng>-1.5</lng>
+<geonameId>2634288</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>2305</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ121</adminCode3>
+<adminName3>West Rainton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/West_Rainton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.50781</west>
+<north>54.82116</north>
+<east>-1.49219</east>
+<south>54.81217</south>
+</bbox>
+<score>81.84993743896484</score>
+</geoname>
+</geonames>

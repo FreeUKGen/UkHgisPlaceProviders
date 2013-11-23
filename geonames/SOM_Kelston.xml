@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kelston</toponymName>
+<name>Kelston</name>
+<lat>51.4021</lat>
+<lng>-2.42512</lng>
+<geonameId>7296553</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA025</adminCode3>
+<adminName3>Kelston</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.45106</west>
+<north>51.41455</north>
+<east>-2.39918</east>
+<south>51.38964</south>
+</bbox>
+<score>102.26081848144531</score>
+</geoname>
+<geoname>
+<toponymName>Kelston</toponymName>
+<name>Kelston</name>
+<lat>51.4029</lat>
+<lng>-2.43216</lng>
+<geonameId>2645847</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA025</adminCode3>
+<adminName3>Kelston</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kelston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.44657</west>
+<north>51.41189</north>
+<east>-2.41774</east>
+<south>51.3939</south>
+</bbox>
+<score>83.00535583496094</score>
+</geoname>
+</geonames>

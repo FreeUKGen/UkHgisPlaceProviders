@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Wentworth</toponymName>
+<name>Wentworth</name>
+<lat>53.47065</lat>
+<lng>-1.40933</lng>
+<geonameId>7300750</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L3</adminCode2>
+<adminName2>Rotherham</adminName2>
+<adminCode3>00CF024</adminCode3>
+<adminName3>Wentworth</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wentworth_%28UK_Parliament_constituency%29</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.45672</west>
+<north>53.49125</north>
+<east>-1.36193</east>
+<south>53.45004</south>
+</bbox>
+<score>54.92174530029297</score>
+</geoname>
+<geoname>
+<toponymName>Wentworth</toponymName>
+<name>Wentworth</name>
+<lat>52.39222</lat>
+<lng>0.17134</lng>
+<geonameId>7298765</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wentworth%2C_Cambridgeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>42.58629608154297</score>
+</geoname>
+<geoname>
+<toponymName>Wentworth</toponymName>
+<name>Wentworth</name>
+<lat>53.46667</lat>
+<lng>-1.41667</lng>
+<geonameId>2634527</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L3</adminCode2>
+<adminName2>Rotherham</adminName2>
+<adminCode3>00CF024</adminCode3>
+<adminName3>Wentworth</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.4469</west>
+<north>53.48465</north>
+<east>-1.38644</east>
+<south>53.44868</south>
+</bbox>
+<score>29.98175048828125</score>
+</geoname>
+<geoname>
+<toponymName>Wentworth</toponymName>
+<name>Wentworth</name>
+<lat>51.4</lat>
+<lng>-0.58333</lng>
+<geonameId>2634526</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UG</adminCode3>
+<adminName3>Runnymede District</adminName3>
+<alternateName lang="unlc">WEW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.58477</west>
+<north>51.4009</north>
+<east>-0.58189</east>
+<south>51.3991</south>
+</bbox>
+<score>24.670894622802734</score>
+</geoname>
+</geonames>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Fulbourn</toponymName>
+<name>Fulbourn</name>
+<lat>52.18325</lat>
+<lng>0.22213</lng>
+<geonameId>2649000</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3725</population>
+<alternateNames>Fulbourn,Fulbourne</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Fulbourn</alternateName>
+<alternateName lang="unlc">FBN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.20942</west>
+<north>52.19104</north>
+<east>0.23484</east>
+<south>52.17546</south>
+</bbox>
+<score>108.31681823730469</score>
+</geoname>
+<geoname>
+<toponymName>Fulbourn</toponymName>
+<name>Fulbourn</name>
+<lat>52.17599</lat>
+<lng>0.22193</lng>
+<geonameId>7298846</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<adminCode4>12UG031</adminCode4>
+<adminName4>Fulbourn</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.18115</west>
+<north>52.20761</north>
+<east>0.26271</east>
+<south>52.14436</south>
+</bbox>
+<score>80.19264221191406</score>
+</geoname>
+</geonames>

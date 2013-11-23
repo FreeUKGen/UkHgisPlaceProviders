@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Fenny Compton</toponymName>
+<name>Fenny Compton</name>
+<lat>52.16725</lat>
+<lng>-1.39157</lng>
+<geonameId>2649553</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Fenny Compton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Fenny_Compton</alternateName>
+<alternateName lang="unlc">DBF</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.40624</west>
+<north>52.17624</north>
+<east>-1.37691</east>
+<south>52.15825</south>
+</bbox>
+<score>87.31503295898438</score>
+</geoname>
+<geoname>
+<toponymName>Fenny Compton</toponymName>
+<name>Fenny Compton</name>
+<lat>52.1679</lat>
+<lng>-1.38231</lng>
+<geonameId>7301496</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<adminCode4>44UE035</adminCode4>
+<adminName4>Fenny Compton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.40981</west>
+<north>52.18739</north>
+<east>-1.35481</east>
+<south>52.14841</south>
+</bbox>
+<score>74.68705749511719</score>
+</geoname>
+</geonames>

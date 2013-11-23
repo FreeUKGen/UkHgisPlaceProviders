@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Kirklington</toponymName>
+<name>Kirklington</name>
+<lat>54.21667</lat>
+<lng>-1.5</lng>
+<geonameId>2645251</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kirklington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirklington%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.51538</west>
+<north>54.22566</north>
+<east>-1.48462</east>
+<south>54.20767</south>
+</bbox>
+<score>89.58621215820312</score>
+</geoname>
+<geoname>
+<toponymName>Kirklington</toponymName>
+<name>Kirklington</name>
+<lat>53.1</lat>
+<lng>-0.98333</lng>
+<geonameId>2645252</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>300</population>
+<alternateNames>Kirklington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.98483</west>
+<north>53.1009</north>
+<east>-0.98184</east>
+<south>53.0991</south>
+</bbox>
+<score>52.74711990356445</score>
+</geoname>
+<geoname>
+<toponymName>Kirklington</toponymName>
+<name>Kirklington</name>
+<lat>53.11772</lat>
+<lng>-0.99032</lng>
+<geonameId>7300898</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG044</adminCode4>
+<adminName4>Kirklington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirklington%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.02189</west>
+<north>53.13778</north>
+<east>-0.95875</east>
+<south>53.09766</south>
+</bbox>
+<score>48.74017333984375</score>
+</geoname>
+</geonames>

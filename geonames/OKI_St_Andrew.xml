@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Saint Andrew</toponymName>
+<name>Saint Andrew</name>
+<lat>49.44778</lat>
+<lng>-2.57361</lng>
+<geonameId>6417226</geonameId>
+<countryCode>GG</countryCode>
+<countryName>Guernsey</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population/>
+<alternateNames>Saint Andrew,St. Andrew</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1>6417226</adminCode1>
+<adminName1>Saint Andrew</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Saint Andrew</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saint_Andrew%2C_Guernsey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Guernsey</timezone>
+<score>84.1926040649414</score>
+</geoname>
+<geoname>
+<toponymName>Saint Andrew</toponymName>
+<name>Saint Andrew</name>
+<lat>49.44389</lat>
+<lng>-2.57889</lng>
+<geonameId>6424212</geonameId>
+<countryCode>GG</countryCode>
+<countryName>Guernsey</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Saint Andrew,St. Andrew</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Saint Andrew</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Guernsey</timezone>
+<bbox>
+<west>-2.59272</west>
+<north>49.45288</north>
+<east>-2.56505</east>
+<south>49.4349</south>
+</bbox>
+<score>40.5060920715332</score>
+</geoname>
+</geonames>

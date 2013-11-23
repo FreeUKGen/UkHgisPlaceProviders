@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bishopstoke</toponymName>
+<name>Bishopstoke</name>
+<lat>50.96643</lat>
+<lng>-1.32832</lng>
+<geonameId>2655557</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>17667</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UD</adminCode3>
+<adminName3>Eastleigh District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bishopstoke</alternateName>
+<alternateName lang="unlc">BPK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.35504</west>
+<north>50.98325</north>
+<east>-1.30159</east>
+<south>50.9496</south>
+</bbox>
+<score>107.45579528808594</score>
+</geoname>
+<geoname>
+<toponymName>Bishopstoke</toponymName>
+<name>Bishopstoke</name>
+<lat>50.97115</lat>
+<lng>-1.32568</lng>
+<geonameId>7298648</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UD</adminCode3>
+<adminName3>Eastleigh District</adminName3>
+<adminCode4>24UD008</adminCode4>
+<adminName4>Bishopstoke</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.34658</west>
+<north>50.98766</north>
+<east>-1.30479</east>
+<south>50.95464</south>
+</bbox>
+<score>73.72691345214844</score>
+</geoname>
+</geonames>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Llanberis</toponymName>
+<name>Llanberis</name>
+<lat>53.10726</lat>
+<lng>-4.09134</lng>
+<geonameId>7298624</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC029</adminCode3>
+<adminName3>Llanberis</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanberis</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.17057</west>
+<north>53.13924</north>
+<east>-4.01211</east>
+<south>53.07529</south>
+</bbox>
+<score>77.07002258300781</score>
+</geoname>
+<geoname>
+<toponymName>Llanberis</toponymName>
+<name>Llanberis</name>
+<lat>53.11922</lat>
+<lng>-4.13017</lng>
+<geonameId>2644172</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>1862</population>
+<alternateNames>Llanberis</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC029</adminCode3>
+<adminName3>Llanberis</adminName3>
+<alternateName lang="unlc">LBI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.13767</west>
+<north>53.12372</north>
+<east>-4.12268</east>
+<south>53.11472</south>
+</bbox>
+<score>59.30818176269531</score>
+</geoname>
+<geoname>
+<toponymName>Llanberis</toponymName>
+<name>Llanberis</name>
+<lat>53.11584</lat>
+<lng>-4.1197</lng>
+<geonameId>7671131</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>MTRO</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>metro station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC029</adminCode3>
+<adminName3>Llanberis</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>20.143272399902344</score>
+</geoname>
+</geonames>

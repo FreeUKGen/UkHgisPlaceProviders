@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Gerrans</toponymName>
+<name>Gerrans</name>
+<lat>50.17504</lat>
+<lng>-4.98456</lng>
+<geonameId>7293070</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE040</adminCode3>
+<adminName3>Gerrans</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.01824</west>
+<north>50.21104</north>
+<east>-4.95087</east>
+<south>50.13905</south>
+</bbox>
+<score>107.96104431152344</score>
+</geoname>
+<geoname>
+<toponymName>Gerrans</toponymName>
+<name>Gerrans</name>
+<lat>50.18171</lat>
+<lng>-4.98017</lng>
+<geonameId>2648714</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Gerrans</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE040</adminCode3>
+<adminName3>Gerrans</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gerrans</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.99422</west>
+<north>50.1907</north>
+<east>-4.96612</east>
+<south>50.17271</south>
+</bbox>
+<score>103.07933044433594</score>
+</geoname>
+</geonames>

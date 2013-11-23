@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Barlaston</toponymName>
+<name>Barlaston</name>
+<lat>52.942</lat>
+<lng>-2.1705</lng>
+<geonameId>2656325</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1845</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UG</adminCode3>
+<adminName3>Stafford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barlaston</alternateName>
+<alternateName lang="unlc">XBR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.17797</west>
+<north>52.9465</north>
+<east>-2.16304</east>
+<south>52.93751</south>
+</bbox>
+<score>94.10630798339844</score>
+</geoname>
+<geoname>
+<toponymName>Barlaston</toponymName>
+<name>Barlaston</name>
+<lat>52.95313</lat>
+<lng>-2.15354</lng>
+<geonameId>7301290</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UG</adminCode3>
+<adminName3>Stafford District</adminName3>
+<adminCode4>41UG002</adminCode4>
+<adminName4>Barlaston</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.18805</west>
+<north>52.97609</north>
+<east>-2.11903</east>
+<south>52.93016</south>
+</bbox>
+<score>76.06596374511719</score>
+</geoname>
+</geonames>

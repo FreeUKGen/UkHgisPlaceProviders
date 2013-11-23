@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kingston Deverill</toponymName>
+<name>Kingston Deverill</name>
+<lat>51.1275</lat>
+<lng>-2.21356</lng>
+<geonameId>7300350</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY128</adminCode3>
+<adminName3>Kingston Deverill</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.25807</west>
+<north>51.15205</north>
+<east>-2.16905</east>
+<south>51.10295</south>
+</bbox>
+<score>91.76727294921875</score>
+</geoname>
+<geoname>
+<toponymName>Kingston Deverill</toponymName>
+<name>Kingston Deverill</name>
+<lat>51.13264</lat>
+<lng>-2.21667</lng>
+<geonameId>3345417</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY128</adminCode3>
+<adminName3>Kingston Deverill</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kingston_Deverill</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.231</west>
+<north>51.14163</north>
+<east>-2.20233</east>
+<south>51.12365</south>
+</bbox>
+<score>81.76605987548828</score>
+</geoname>
+</geonames>

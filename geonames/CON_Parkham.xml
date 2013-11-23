@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Parkham</toponymName>
+<name>Parkham</name>
+<lat>50.96847</lat>
+<lng>-4.29687</lng>
+<geonameId>2640608</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Parkham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UK</adminCode3>
+<adminName3>Torridge District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Parkham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.31115</west>
+<north>50.97747</north>
+<east>-4.28259</east>
+<south>50.95948</south>
+</bbox>
+<score>86.110595703125</score>
+</geoname>
+<geoname>
+<toponymName>Parkham</toponymName>
+<name>Parkham</name>
+<lat>50.97018</lat>
+<lng>-4.29399</lng>
+<geonameId>7294948</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UK</adminCode3>
+<adminName3>Torridge District</adminName3>
+<adminCode4>18UK045</adminCode4>
+<adminName4>Parkham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.34701</west>
+<north>50.99643</north>
+<east>-4.24098</east>
+<south>50.94393</south>
+</bbox>
+<score>65.39398193359375</score>
+</geoname>
+</geonames>

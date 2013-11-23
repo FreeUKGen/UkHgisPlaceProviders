@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Market Rasen</toponymName>
+<name>Market Rasen</name>
+<lat>53.38764</lat>
+<lng>-0.33781</lng>
+<geonameId>2643023</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3569</population>
+<alternateNames>Market Rasen</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Market_Rasen</alternateName>
+<alternateName lang="unlc">MKR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.34847</west>
+<north>53.394</north>
+<east>-0.32714</east>
+<south>53.38128</south>
+</bbox>
+<score>101.74811553955078</score>
+</geoname>
+<geoname>
+<toponymName>Market Rasen</toponymName>
+<name>Market Rasen</name>
+<lat>53.38236</lat>
+<lng>-0.32611</lng>
+<geonameId>7295573</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<adminCode4>32UH061</adminCode4>
+<adminName4>Market Rasen</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.34941</west>
+<north>53.39238</north>
+<east>-0.30281</east>
+<south>53.37234</south>
+</bbox>
+<score>73.06455993652344</score>
+</geoname>
+</geonames>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Cardington</toponymName>
+<name>Cardington</name>
+<lat>52.11093</lat>
+<lng>-0.40249</lng>
+<geonameId>7291585</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z5</adminCode2>
+<adminName2>Bedford</adminName2>
+<adminCode3>00KB006</adminCode3>
+<adminName3>Cardington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.42805</west>
+<north>52.14099</north>
+<east>-0.37693</east>
+<south>52.08086</south>
+</bbox>
+<score>80.43882751464844</score>
+</geoname>
+<geoname>
+<toponymName>Cardington</toponymName>
+<name>Cardington</name>
+<lat>52.55734</lat>
+<lng>-2.7115</lng>
+<geonameId>7301063</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG039</adminCode3>
+<adminName3>Cardington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.77622</west>
+<north>52.58311</north>
+<east>-2.64678</east>
+<south>52.53157</south>
+</bbox>
+<score>80.43882751464844</score>
+</geoname>
+<geoname>
+<toponymName>Cardington</toponymName>
+<name>Cardington</name>
+<lat>52.55</lat>
+<lng>-2.73333</lng>
+<geonameId>2653812</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG039</adminCode3>
+<adminName3>Cardington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cardington%2C_Shropshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.76293</west>
+<north>52.56799</north>
+<east>-2.70374</east>
+<south>52.53201</south>
+</bbox>
+<score>51.787574768066406</score>
+</geoname>
+<geoname>
+<toponymName>Cardington</toponymName>
+<name>Cardington</name>
+<lat>52.11742</lat>
+<lng>-0.41289</lng>
+<geonameId>2653813</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z5</adminCode2>
+<adminName2>Bedford</adminName2>
+<adminCode3>00KB006</adminCode3>
+<adminName3>Cardington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cardington%2C_Bedfordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.44219</west>
+<north>52.1354</north>
+<east>-0.38358</east>
+<south>52.09943</south>
+</bbox>
+<score>51.787574768066406</score>
+</geoname>
+</geonames>

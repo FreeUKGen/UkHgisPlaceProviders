@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Norton Lindsey</toponymName>
+<name>Norton Lindsey</name>
+<lat>52.26595</lat>
+<lng>-1.67009</lng>
+<geonameId>2641185</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Norton Lindsey</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UF</adminCode3>
+<adminName3>Warwick District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Norton_Lindsey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.68479</west>
+<north>52.27494</north>
+<east>-1.65539</east>
+<south>52.25696</south>
+</bbox>
+<score>93.69773864746094</score>
+</geoname>
+<geoname>
+<toponymName>Norton Lindsey</toponymName>
+<name>Norton Lindsey</name>
+<lat>52.27011</lat>
+<lng>-1.6603</lng>
+<geonameId>7291993</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UF</adminCode3>
+<adminName3>Warwick District</adminName3>
+<adminCode4>44UF020</adminCode4>
+<adminName4>Norton Lindsey</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.67649</west>
+<north>52.28453</north>
+<east>-1.64411</east>
+<south>52.2557</south>
+</bbox>
+<score>71.06419372558594</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Warsop</toponymName>
+<name>Warsop</name>
+<lat>53.21402</lat>
+<lng>-1.15091</lng>
+<geonameId>2634736</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9766</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UF</adminCode3>
+<adminName3>Mansfield District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Warsop</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.17216</west>
+<north>53.22674</north>
+<east>-1.12966</east>
+<south>53.20131</south>
+</bbox>
+<score>104.17449188232422</score>
+</geoname>
+<geoname>
+<toponymName>Warsop</toponymName>
+<name>Warsop</name>
+<lat>53.20417</lat>
+<lng>-1.15291</lng>
+<geonameId>7300884</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UF</adminCode3>
+<adminName3>Mansfield District</adminName3>
+<adminCode4>37UF001</adminCode4>
+<adminName4>Warsop</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.21106</west>
+<north>53.23561</north>
+<east>-1.09477</east>
+<south>53.17273</south>
+</bbox>
+<score>78.06392669677734</score>
+</geoname>
+</geonames>

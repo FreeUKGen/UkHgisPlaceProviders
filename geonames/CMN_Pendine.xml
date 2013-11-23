@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Pendine</toponymName>
+<name>Pendine</name>
+<lat>51.7498</lat>
+<lng>-4.55171</lng>
+<geonameId>7297158</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU065</adminCode3>
+<adminName3>Pendine</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pendine</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.57489</west>
+<north>51.76554</north>
+<east>-4.52852</east>
+<south>51.73406</south>
+</bbox>
+<score>71.43170928955078</score>
+</geoname>
+<geoname>
+<toponymName>Pendine</toponymName>
+<name>Pendine</name>
+<lat>51.74253</lat>
+<lng>-4.55947</lng>
+<geonameId>2640477</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Pendine</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU065</adminCode3>
+<adminName3>Pendine</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.574</west>
+<north>51.75152</north>
+<east>-4.54494</east>
+<south>51.73353</south>
+</bbox>
+<score>55.029380798339844</score>
+</geoname>
+</geonames>

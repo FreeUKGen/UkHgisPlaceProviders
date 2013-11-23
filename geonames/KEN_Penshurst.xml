@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Penshurst</toponymName>
+<name>Penshurst</name>
+<lat>51.17267</lat>
+<lng>0.18282</lng>
+<geonameId>2640409</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UQ</adminCode3>
+<adminName3>Tunbridge Wells District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Penshurst</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.16847</west>
+<north>51.18166</north>
+<east>0.19717</east>
+<south>51.16368</south>
+</bbox>
+<score>75.60595703125</score>
+</geoname>
+<geoname>
+<toponymName>Penshurst</toponymName>
+<name>Penshurst</name>
+<lat>51.16128</lat>
+<lng>0.18278</lng>
+<geonameId>7293769</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>66.80040740966797</score>
+</geoname>
+</geonames>

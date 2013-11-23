@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Winteringham</toponymName>
+<name>Winteringham</name>
+<lat>53.69184</lat>
+<lng>-0.57117</lng>
+<geonameId>7290741</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD052</adminCode3>
+<adminName3>Winteringham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.61763</west>
+<north>53.71344</north>
+<east>-0.52471</east>
+<south>53.67024</south>
+</bbox>
+<score>106.86870574951172</score>
+</geoname>
+<geoname>
+<toponymName>Winteringham</toponymName>
+<name>Winteringham</name>
+<lat>53.68727</lat>
+<lng>-0.59183</lng>
+<geonameId>2633789</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Winteringham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD052</adminCode3>
+<adminName3>Winteringham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Winteringham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.60702</west>
+<north>53.69627</north>
+<east>-0.57664</east>
+<south>53.67828</south>
+</bbox>
+<score>101.5315933227539</score>
+</geoname>
+</geonames>

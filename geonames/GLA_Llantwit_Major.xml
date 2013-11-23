@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llantwit Major</toponymName>
+<name>Llantwit Major</name>
+<lat>51.40879</lat>
+<lng>-3.47628</lng>
+<geonameId>7301707</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<adminCode3>00PD012</adminCode3>
+<adminName3>Llantwit Major</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.51853</west>
+<north>51.43087</north>
+<east>-3.43403</east>
+<south>51.38671</south>
+</bbox>
+<score>95.48054504394531</score>
+</geoname>
+<geoname>
+<toponymName>Llantwit Major</toponymName>
+<name>Llantwit Major</name>
+<lat>51.4107</lat>
+<lng>-3.48632</lng>
+<geonameId>2643933</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>13514</population>
+<alternateNames>Lantuit Mejdzhur,Llanilltud Fawr,Llantvit-Mejdzhor,Llantwit Major,Лантуит Мейджър,Ллантвіт-Мейджор</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<adminCode3>00PD012</adminCode3>
+<adminName3>Llantwit Major</adminName3>
+<alternateName lang="bg">Лантуит Мейджър</alternateName>
+<alternateName lang="br">Llanilltud Fawr</alternateName>
+<alternateName lang="cy">Llanilltud Fawr</alternateName>
+<alternateName lang="en">Llantwit Major</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llantwit_Major</alternateName>
+<alternateName lang="uk">Ллантвіт-Мейджор</alternateName>
+<alternateName lang="unlc">LTM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.51024</west>
+<north>51.42562</north>
+<east>-3.4624</east>
+<south>51.39579</south>
+</bbox>
+<score>92.72111511230469</score>
+</geoname>
+</geonames>

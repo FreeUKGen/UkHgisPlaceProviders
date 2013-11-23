@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Mansfield</toponymName>
+<name>Mansfield</name>
+<lat>53.13333</lat>
+<lng>-1.2</lng>
+<geonameId>2643097</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>70447</population>
+<alternateNames>Mansfield,Mansfijld,Mansfildas,Mehnsfild,Mensfild,ZMA,maenseupildeu,man si fei er de,mnzfyld,Мансфийлд,Менсфилд,Менсфілд,Мэнсфилд,منزفیلد,曼斯菲爾德,맨스필드</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UF</adminCode3>
+<adminName3>Mansfield District</adminName3>
+<alternateName lang="bg">Мансфийлд</alternateName>
+<alternateName lang="de">Mansfield</alternateName>
+<alternateName lang="en">Mansfield</alternateName>
+<alternateName lang="fa">منزفیلد</alternateName>
+<alternateName lang="iata">ZMA</alternateName>
+<alternateName lang="ko">맨스필드</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mansfield</alternateName>
+<alternateName lang="lt">Mansfildas</alternateName>
+<alternateName lang="nl">Mansfield</alternateName>
+<alternateName lang="ru">Мэнсфилд</alternateName>
+<alternateName lang="sr">Менсфилд</alternateName>
+<alternateName lang="uk">Менсфілд</alternateName>
+<alternateName lang="unlc">MFD</alternateName>
+<alternateName lang="zh">曼斯菲爾德</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.25713</west>
+<north>53.16758</north>
+<east>-1.14287</east>
+<south>53.09909</south>
+</bbox>
+<score>98.62643432617188</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Sturminster Marshall</toponymName>
+<name>Sturminster Marshall</name>
+<lat>50.79968</lat>
+<lng>-2.07615</lng>
+<geonameId>2636584</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UD</adminCode3>
+<adminName3>East Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sturminster_Marshall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.09038</west>
+<north>50.80867</north>
+<east>-2.06191</east>
+<south>50.79069</south>
+</bbox>
+<score>84.58415222167969</score>
+</geoname>
+<geoname>
+<toponymName>Sturminster Marshall</toponymName>
+<name>Sturminster Marshall</name>
+<lat>50.78705</lat>
+<lng>-2.10462</lng>
+<geonameId>7295034</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UD</adminCode3>
+<adminName3>East Dorset District</adminName3>
+<adminCode4>19UD021</adminCode4>
+<adminName4>Sturminster Marshall</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.16412</west>
+<north>50.81762</north>
+<east>-2.04512</east>
+<south>50.75647</south>
+</bbox>
+<score>74.43315124511719</score>
+</geoname>
+</geonames>

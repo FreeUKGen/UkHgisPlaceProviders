@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Crailing</toponymName>
+<name>Crailing</name>
+<lat>55.51478</lat>
+<lng>-2.49595</lng>
+<geonameId>2652101</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T9</adminCode2>
+<adminName2>Scottish Borders</adminName2>
+<adminCode3>00EM130</adminCode3>
+<adminName3>GB.SCT.T9.00EM130</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Crailing</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.51183</west>
+<north>55.52378</north>
+<east>-2.48006</east>
+<south>55.50579</south>
+</bbox>
+<score>95.02735900878906</score>
+</geoname>
+</geonames>

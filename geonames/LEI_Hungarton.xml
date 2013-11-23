@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Hungarton</toponymName>
+<name>Hungarton</name>
+<lat>52.65498</lat>
+<lng>-0.98358</lng>
+<geonameId>7295423</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UD</adminCode3>
+<adminName3>Harborough District</adminName3>
+<adminCode4>31UD038</adminCode4>
+<adminName4>Hungarton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hungarton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.02155</west>
+<north>52.68195</north>
+<east>-0.94561</east>
+<south>52.62802</south>
+</bbox>
+<score>59.079708099365234</score>
+</geoname>
+</geonames>

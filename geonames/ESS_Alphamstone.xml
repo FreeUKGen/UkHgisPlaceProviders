@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Alphamstone</toponymName>
+<name>Alphamstone</name>
+<lat>51.97997</lat>
+<lng>0.72575</lng>
+<geonameId>7298502</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UC</adminCode3>
+<adminName3>Braintree District</adminName3>
+<adminCode4>22UC001</adminCode4>
+<adminName4>Alphamstone</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alphamstone</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.70254</west>
+<north>51.99593</north>
+<east>0.74896</east>
+<south>51.96402</south>
+</bbox>
+<score>61.74647521972656</score>
+</geoname>
+</geonames>

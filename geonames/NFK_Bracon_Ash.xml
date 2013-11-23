@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bracon Ash</toponymName>
+<name>Bracon Ash</name>
+<lat>52.55325</lat>
+<lng>1.19927</lng>
+<geonameId>7301924</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH013</adminCode4>
+<adminName4>Bracon Ash</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bracon_Ash</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.15953</west>
+<north>52.57016</north>
+<east>1.239</east>
+<south>52.53635</south>
+</bbox>
+<score>53.885658264160156</score>
+</geoname>
+</geonames>

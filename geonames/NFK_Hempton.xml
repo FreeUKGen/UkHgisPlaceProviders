@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Hempton</toponymName>
+<name>Hempton</name>
+<lat>52.82553</lat>
+<lng>0.83028</lng>
+<geonameId>7299277</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF042</adminCode4>
+<adminName4>Hempton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hempton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.81493</west>
+<north>52.83263</north>
+<east>0.84564</east>
+<south>52.81842</south>
+</bbox>
+<score>60.93781280517578</score>
+</geoname>
+</geonames>

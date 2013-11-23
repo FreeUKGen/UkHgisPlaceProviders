@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Greenwich</toponymName>
+<name>Greenwich</name>
+<lat>51.45</lat>
+<lng>0.05</lng>
+<geonameId>3333147</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>228500</population>
+<alternateNames>Burgul londonez Greenwich,GRE,Greenwich,Grenovicum,Grinvich,London Borough of Greenwich,ghrynytsh,grynyz',gurinijji,Гринвич,גריניץ',غرينيتش,グリニッジ</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>E7</adminCode3>
+<adminName3>Greenwich</adminName3>
+<alternateName lang="abbr">GRE</alternateName>
+<alternateName lang="ar">غرينيتش</alternateName>
+<alternateName lang="cs">Greenwich</alternateName>
+<alternateName lang="en">Greenwich</alternateName>
+<alternateName lang="fi">Greenwich</alternateName>
+<alternateName lang="he">גריניץ'</alternateName>
+<alternateName lang="id">Greenwich</alternateName>
+<alternateName lang="it">Greenwich</alternateName>
+<alternateName lang="ja">グリニッジ</alternateName>
+<alternateName lang="la">Grenovicum</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/London_Borough_of_Greenwich</alternateName>
+<alternateName lang="nl">Greenwich</alternateName>
+<alternateName lang="no">Greenwich</alternateName>
+<alternateName lang="ro">Greenwich</alternateName>
+<alternateName lang="ru">Гринвич</alternateName>
+<alternateName lang="sl">Greenwich</alternateName>
+<alternateName lang="sv">Greenwich</alternateName>
+<alternateName lang="tr">Greenwich</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.02641</west>
+<north>51.51359</north>
+<east>0.12416</east>
+<south>51.42373</south>
+</bbox>
+<score>24.117387771606445</score>
+</geoname>
+</geonames>

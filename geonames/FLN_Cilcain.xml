@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cilcain</toponymName>
+<name>Cilcain</name>
+<lat>53.18416</lat>
+<lng>-3.22414</lng>
+<geonameId>7294088</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ006</adminCode3>
+<adminName3>Cilcain</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.28099</west>
+<north>53.21608</north>
+<east>-3.1673</east>
+<south>53.15224</south>
+</bbox>
+<score>114.34236145019531</score>
+</geoname>
+<geoname>
+<toponymName>Cilcain</toponymName>
+<name>Cilcain</name>
+<lat>53.17819</lat>
+<lng>-3.23282</lng>
+<geonameId>2653005</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cilcain</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ006</adminCode3>
+<adminName3>Cilcain</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cilcain</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.24782</west>
+<north>53.18718</north>
+<east>-3.21781</east>
+<south>53.1692</south>
+</bbox>
+<score>108.3604736328125</score>
+</geoname>
+</geonames>

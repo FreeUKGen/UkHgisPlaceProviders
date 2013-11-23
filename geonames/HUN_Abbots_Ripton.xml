@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Abbots Ripton</toponymName>
+<name>Abbots Ripton</name>
+<lat>52.38611</lat>
+<lng>-0.1921</lng>
+<geonameId>2657861</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Abbots Ripton,Abbotts Ripton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Abbots_Ripton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.20684</west>
+<north>52.3951</north>
+<east>-0.17736</east>
+<south>52.37712</south>
+</bbox>
+<score>101.17708587646484</score>
+</geoname>
+<geoname>
+<toponymName>Abbots Ripton</toponymName>
+<name>Abbots Ripton</name>
+<lat>52.38609</lat>
+<lng>-0.19247</lng>
+<geonameId>7299838</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<adminCode4>12UE002</adminCode4>
+<adminName4>Abbots Ripton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.23788</west>
+<north>52.41027</north>
+<east>-0.14706</east>
+<south>52.3619</south>
+</bbox>
+<score>71.99234771728516</score>
+</geoname>
+</geonames>

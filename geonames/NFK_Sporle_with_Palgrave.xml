@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Sporle with Palgrave</toponymName>
+<name>Sporle with Palgrave</name>
+<lat>52.66358</lat>
+<lng>0.71988</lng>
+<geonameId>7295625</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<adminCode4>33UB092</adminCode4>
+<adminName4>Sporle with Palgrave</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sporle_with_Palgrave</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.67607</west>
+<north>52.69581</north>
+<east>0.76369</east>
+<south>52.63136</south>
+</bbox>
+<score>57.9383544921875</score>
+</geoname>
+</geonames>

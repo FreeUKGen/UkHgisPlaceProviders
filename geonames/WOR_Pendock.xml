@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Pendock</toponymName>
+<name>Pendock</name>
+<lat>52.00666</lat>
+<lng>-2.27091</lng>
+<geonameId>7290770</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UC</adminCode3>
+<adminName3>Malvern Hills District</adminName3>
+<adminCode4>47UC048</adminCode4>
+<adminName4>Pendock</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pendock</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.3258</west>
+<north>52.01403</north>
+<east>-2.25766</east>
+<south>51.98944</south>
+</bbox>
+<score>57.10557556152344</score>
+</geoname>
+</geonames>

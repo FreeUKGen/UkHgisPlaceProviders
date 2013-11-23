@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hartwell</toponymName>
+<name>Hartwell</name>
+<lat>52.14616</lat>
+<lng>-0.85376</lng>
+<geonameId>2647388</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1855</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hartwell%2C_Northamptonshire</alternateName>
+<alternateName lang="unlc">HTW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.86109</west>
+<north>52.15065</north>
+<east>-0.84643</east>
+<south>52.14166</south>
+</bbox>
+<score>67.92401123046875</score>
+</geoname>
+<geoname>
+<toponymName>Hartwell</toponymName>
+<name>Hartwell</name>
+<lat>52.14409</lat>
+<lng>-0.84489</lng>
+<geonameId>7295751</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<adminCode4>34UG035</adminCode4>
+<adminName4>Hartwell</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.88069</west>
+<north>52.16206</north>
+<east>-0.80908</east>
+<south>52.12612</south>
+</bbox>
+<score>56.50627517700195</score>
+</geoname>
+</geonames>

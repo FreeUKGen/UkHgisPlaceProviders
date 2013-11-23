@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Headley</toponymName>
+<name>Headley</name>
+<lat>51.11974</lat>
+<lng>-0.82183</lng>
+<geonameId>2647237</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UC</adminCode3>
+<adminName3>East Hampshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Headley%2C_East_Hampshire</alternateName>
+<alternateName lang="unlc">HYE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.83616</west>
+<north>51.12873</north>
+<east>-0.8075</east>
+<south>51.11075</south>
+</bbox>
+<score>75.65805053710938</score>
+</geoname>
+<geoname>
+<toponymName>Headley</toponymName>
+<name>Headley</name>
+<lat>51.12646</lat>
+<lng>-0.81812</lng>
+<geonameId>7298644</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UC</adminCode3>
+<adminName3>East Hampshire</adminName3>
+<adminCode4>24UC019</adminCode4>
+<adminName4>Headley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.85572</west>
+<north>51.1554</north>
+<east>-0.78052</east>
+<south>51.09751</south>
+</bbox>
+<score>70.92588806152344</score>
+</geoname>
+<geoname>
+<toponymName>Headley</toponymName>
+<name>Headley</name>
+<lat>51.27519</lat>
+<lng>-0.28395</lng>
+<geonameId>7291071</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UE</adminCode3>
+<adminName3>Mole Valley</adminName3>
+<adminCode4>43UE007</adminCode4>
+<adminName4>Headley</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Headley%2C_Surrey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.3021</west>
+<north>51.29329</north>
+<east>-0.2658</east>
+<south>51.25708</south>
+</bbox>
+<score>49.490787506103516</score>
+</geoname>
+</geonames>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Wednesbury</toponymName>
+<name>Wednesbury</name>
+<lat>52.5514</lat>
+<lng>-2.02355</lng>
+<geonameId>2634617</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>24337</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L7</adminCode2>
+<adminName2>Sandwell</adminName2>
+<adminCode3>41UF</adminCode3>
+<adminName3>GB.ENG.L7.41UF</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wednesbury</alternateName>
+<alternateName lang="unlc">WED</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.05664</west>
+<north>52.57151</north>
+<east>-1.99046</east>
+<south>52.53129</south>
+</bbox>
+<score>121.87562561035156</score>
+</geoname>
+</geonames>

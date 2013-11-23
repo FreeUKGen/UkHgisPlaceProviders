@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Mold</toponymName>
+<name>Mold</name>
+<lat>53.17025</lat>
+<lng>-3.14561</lng>
+<geonameId>7293942</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ019</adminCode3>
+<adminName3>Mold</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.16699</west>
+<north>53.18569</north>
+<east>-3.12423</east>
+<south>53.15481</south>
+</bbox>
+<score>108.26981353759766</score>
+</geoname>
+<geoname>
+<toponymName>Mold</toponymName>
+<name>Mold</name>
+<lat>53.16674</lat>
+<lng>-3.14143</lng>
+<geonameId>2642372</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>9995</population>
+<alternateNames>Mold,Moldas,Mould,Yr Wyddgrug,moldeu,Молд,Моулд,몰드</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ019</adminCode3>
+<adminName3>Mold</adminName3>
+<alternateName lang="bg">Моулд</alternateName>
+<alternateName lang="cy">Yr Wyddgrug</alternateName>
+<alternateName lang="gv">Yr Wyddgrug</alternateName>
+<alternateName lang="ko">몰드</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mold%2C_Flintshire</alternateName>
+<alternateName lang="lt">Moldas</alternateName>
+<alternateName lang="no">Mold</alternateName>
+<alternateName lang="uk">Молд</alternateName>
+<alternateName lang="unlc">MOL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.16265</west>
+<north>53.17946</north>
+<east>-3.12021</east>
+<south>53.15402</south>
+</bbox>
+<score>77.72850036621094</score>
+</geoname>
+</geonames>

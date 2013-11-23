@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Minster</toponymName>
+<name>Minster</name>
+<lat>51.33335</lat>
+<lng>1.31415</lng>
+<geonameId>2642435</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>2636057</adminCode3>
+<adminName3>Thanet District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Minster-in-Thanet</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.29976</west>
+<north>51.34234</north>
+<east>1.32855</east>
+<south>51.32435</south>
+</bbox>
+<score>74.37034606933594</score>
+</geoname>
+<geoname>
+<toponymName>Minster</toponymName>
+<name>Minster</name>
+<lat>51.42174</lat>
+<lng>0.81183</lng>
+<geonameId>2642434</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UM</adminCode3>
+<adminName3>Swale District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Minster%2C_Swale</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.7974</west>
+<north>51.43074</north>
+<east>0.82625</east>
+<south>51.41275</south>
+</bbox>
+<score>72.81167602539062</score>
+</geoname>
+<geoname>
+<toponymName>Minster</toponymName>
+<name>Minster</name>
+<lat>51.33211</lat>
+<lng>1.32327</lng>
+<geonameId>7295331</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>68.1378402709961</score>
+</geoname>
+</geonames>

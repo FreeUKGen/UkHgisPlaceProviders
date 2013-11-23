@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Leeds</toponymName>
+<name>Leeds</name>
+<lat>53.79648</lat>
+<lng>-1.54785</lng>
+<geonameId>2644688</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>455123</population>
+<alternateNames>Gorad Lids,LBA,Ledesia,Leeds,Lids,Lidsa,Lidsas,Lijds,Lints,Loidis,Līdsa,Ritis,li ci,lidjha,lids,lidsa,lidzi,lijeu,lyds,lydz,rizu,Ληντς,Горад Лідс,Лидс,Лийдс,Лідс,Լիդս,לידז,לידס,ليدز,لیدز,لیڈز,ܠܝܕܣ,लीड्स,લીડ્ઝ,లీడ్స్,ಲೀಡ್ಸ್,ลีดส์,ლიდზი,リーズ,利兹,리즈</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H3</adminCode2>
+<adminName2>Leeds</adminName2>
+<alternateName lang="ang">Loidis</alternateName>
+<alternateName lang="ar">ليدز</alternateName>
+<alternateName lang="arc">ܠܝܕܣ</alternateName>
+<alternateName lang="az">Lids</alternateName>
+<alternateName lang="be">Горад Лідс</alternateName>
+<alternateName lang="bg">Лийдс</alternateName>
+<alternateName lang="cs">Leeds</alternateName>
+<alternateName lang="da">Leeds</alternateName>
+<alternateName lang="de">Leeds</alternateName>
+<alternateName lang="el">Ληντς</alternateName>
+<alternateName lang="en">Leeds</alternateName>
+<alternateName lang="eo">Leeds</alternateName>
+<alternateName lang="es">Leeds</alternateName>
+<alternateName lang="eu">Leeds</alternateName>
+<alternateName lang="fa">لیدز</alternateName>
+<alternateName lang="fi">Leeds</alternateName>
+<alternateName lang="fr">Leeds</alternateName>
+<alternateName lang="gu">લીડ્ઝ</alternateName>
+<alternateName lang="he">לידס</alternateName>
+<alternateName lang="hi">लीड्स</alternateName>
+<alternateName lang="hy">Լիդս</alternateName>
+<alternateName lang="iata">LBA</alternateName>
+<alternateName lang="id">Leeds</alternateName>
+<alternateName lang="it">Leeds</alternateName>
+<alternateName lang="ja">リーズ</alternateName>
+<alternateName lang="ka">ლიდზი</alternateName>
+<alternateName lang="kn">ಲೀಡ್ಸ್</alternateName>
+<alternateName lang="ko">리즈</alternateName>
+<alternateName lang="la">Ledesia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Leeds</alternateName>
+<alternateName lang="lt">Lidsas</alternateName>
+<alternateName lang="lv">Līdsa</alternateName>
+<alternateName lang="mk">Лидс</alternateName>
+<alternateName lang="mr">लीड्स</alternateName>
+<alternateName lang="nl">Leeds</alternateName>
+<alternateName lang="nn">Leeds</alternateName>
+<alternateName lang="no">Leeds</alternateName>
+<alternateName lang="os">Лидс</alternateName>
+<alternateName lang="pl">Leeds</alternateName>
+<alternateName lang="pnb">لیڈز</alternateName>
+<alternateName lang="pt">Leeds</alternateName>
+<alternateName lang="ro">Leeds</alternateName>
+<alternateName lang="ru">Лидс</alternateName>
+<alternateName lang="sr">Лидс</alternateName>
+<alternateName lang="sv">Leeds</alternateName>
+<alternateName lang="te">లీడ్స్</alternateName>
+<alternateName lang="th">ลีดส์</alternateName>
+<alternateName lang="tr">Leeds</alternateName>
+<alternateName lang="ug">Ritis</alternateName>
+<alternateName lang="uk">Лідс</alternateName>
+<alternateName lang="unlc">LBA</alternateName>
+<alternateName lang="yi">לידז</alternateName>
+<alternateName lang="zh">利兹</alternateName>
+<alternateName lang="zh-CN">利兹</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.69637</west>
+<north>53.88403</north>
+<east>-1.39932</east>
+<south>53.70894</south>
+</bbox>
+<score>243.7082977294922</score>
+</geoname>
+<geoname>
+<toponymName>City and Borough of Leeds</toponymName>
+<name>City and Borough of Leeds</name>
+<lat>53.79644</lat>
+<lng>-1.5477</lng>
+<geonameId>3333164</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>715404</population>
+<alternateNames>LDS,Leeds</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H3</adminCode2>
+<adminName2>Leeds</adminName2>
+<alternateName lang="abbr">LDS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.80036</west>
+<north>53.94587</north>
+<east>-1.29035</east>
+<south>53.69898</south>
+</bbox>
+<score>79.73735046386719</score>
+</geoname>
+<geoname>
+<toponymName>Leeds</toponymName>
+<name>Leeds</name>
+<lat>51.24677</lat>
+<lng>0.60682</lng>
+<geonameId>2644689</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UH</adminCode3>
+<adminName3>Maidstone</adminName3>
+<adminCode4>29UH022</adminCode4>
+<adminName4>Leeds</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Leeds%2C_Kent</alternateName>
+<alternateName lang="unlc">ZBW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.59245</west>
+<north>51.25576</north>
+<east>0.62119</east>
+<south>51.23777</south>
+</bbox>
+<score>73.53522491455078</score>
+</geoname>
+<geoname>
+<toponymName>Leeds</toponymName>
+<name>Leeds</name>
+<lat>51.24725</lat>
+<lng>0.60462</lng>
+<geonameId>7290791</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UH</adminCode3>
+<adminName3>Maidstone</adminName3>
+<adminCode4>29UH022</adminCode4>
+<adminName4>Leeds</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.58032</west>
+<north>51.26249</north>
+<east>0.62892</east>
+<south>51.232</south>
+</bbox>
+<score>67.95819091796875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Crofton</toponymName>
+<name>Crofton</name>
+<lat>53.65735</lat>
+<lng>-1.44058</lng>
+<geonameId>7301609</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O7</adminCode2>
+<adminName2>Wakefield</adminName2>
+<adminCode3>00DB005</adminCode3>
+<adminName3>Crofton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.47577</west>
+<north>53.66961</north>
+<east>-1.40538</east>
+<south>53.64509</south>
+</bbox>
+<score>86.1324462890625</score>
+</geoname>
+<geoname>
+<toponymName>Crofton</toponymName>
+<name>Crofton</name>
+<lat>53.65639</lat>
+<lng>-1.42968</lng>
+<geonameId>2651948</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>5417</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O7</adminCode2>
+<adminName2>Wakefield</adminName2>
+<adminCode3>00DB005</adminCode3>
+<adminName3>Crofton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Crofton%2C_West_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.44486</west>
+<north>53.66538</north>
+<east>-1.4145</east>
+<south>53.6474</south>
+</bbox>
+<score>66.78301239013672</score>
+</geoname>
+</geonames>

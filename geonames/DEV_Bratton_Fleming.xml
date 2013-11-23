@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bratton Fleming</toponymName>
+<name>Bratton Fleming</name>
+<lat>51.1225</lat>
+<lng>-3.93854</lng>
+<geonameId>2654864</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bratton Fleming</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UE</adminCode3>
+<adminName3>North Devon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bratton_Fleming</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.95287</west>
+<north>51.13149</north>
+<east>-3.92421</east>
+<south>51.1135</south>
+</bbox>
+<score>94.90509796142578</score>
+</geoname>
+<geoname>
+<toponymName>Bratton Fleming</toponymName>
+<name>Bratton Fleming</name>
+<lat>51.13101</lat>
+<lng>-3.93743</lng>
+<geonameId>7298216</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UE</adminCode3>
+<adminName3>North Devon District</adminName3>
+<adminCode4>18UE009</adminCode4>
+<adminName4>Bratton Fleming</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.9894</west>
+<north>51.16018</north>
+<east>-3.88546</east>
+<south>51.10183</south>
+</bbox>
+<score>72.97980499267578</score>
+</geoname>
+</geonames>

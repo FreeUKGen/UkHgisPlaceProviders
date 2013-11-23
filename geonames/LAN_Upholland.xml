@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Upholland</toponymName>
+<name>Upholland</name>
+<lat>53.53333</lat>
+<lng>-2.71667</lng>
+<geonameId>2635156</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Upholland</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UP</adminCode3>
+<adminName3>West Lancashire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Upholland</alternateName>
+<alternateName lang="unlc">UPH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.7318</west>
+<north>53.54233</north>
+<east>-2.70153</east>
+<south>53.52434</south>
+</bbox>
+<score>91.37006378173828</score>
+</geoname>
+</geonames>

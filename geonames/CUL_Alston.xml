@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Alston</toponymName>
+<name>Alston</name>
+<lat>54.809</lat>
+<lng>-2.43931</lng>
+<geonameId>2657427</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Alston i Cumbria</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UF</adminCode3>
+<adminName3>Eden District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alston%2C_Cumbria</alternateName>
+<alternateName lang="nn">Alston i Cumbria</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.45492</west>
+<north>54.81799</north>
+<east>-2.4237</east>
+<south>54.8</south>
+</bbox>
+<score>74.39514923095703</score>
+</geoname>
+<geoname>
+<toponymName>Alston</toponymName>
+<name>Alston</name>
+<lat>54.8146</lat>
+<lng>-2.44178</lng>
+<geonameId>7671141</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>MTRO</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>metro station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UF</adminCode3>
+<adminName3>Eden District</adminName3>
+<adminCode4>16UF002</adminCode4>
+<adminName4>Alston Moor</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>16.985288619995117</score>
+</geoname>
+</geonames>

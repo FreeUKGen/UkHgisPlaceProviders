@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Sidcup</toponymName>
+<name>Sidcup</name>
+<lat>51.42619</lat>
+<lng>0.1036</lng>
+<geonameId>2637861</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>10400</population>
+<alternateNames>Sidcup,سڈکپ، لندن</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>A6</adminCode3>
+<adminName3>Bexley</adminName3>
+<alternateName lang="en">Sidcup</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sidcup</alternateName>
+<alternateName lang="post">DA15</alternateName>
+<alternateName lang="unlc">SDC</alternateName>
+<alternateName lang="ur">سڈکپ، لندن</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.08319</west>
+<north>51.43891</north>
+<east>0.124</east>
+<south>51.41347</south>
+</bbox>
+<score>101.67068481445312</score>
+</geoname>
+</geonames>

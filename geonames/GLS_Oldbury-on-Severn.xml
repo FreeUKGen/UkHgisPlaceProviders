@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Oldbury-on-Severn</toponymName>
+<name>Oldbury-on-Severn</name>
+<lat>51.62972</lat>
+<lng>-2.56556</lng>
+<geonameId>2641033</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Oldbury,Oldbury upon Severn,Oldbury-on-Severn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M6</adminCode2>
+<adminName2>South Gloucestershire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oldbury-on-Severn</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.58005</west>
+<north>51.63872</north>
+<east>-2.55106</east>
+<south>51.62073</south>
+</bbox>
+<score>91.8355712890625</score>
+</geoname>
+</geonames>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Saint Clement</toponymName>
+<name>St Clement</name>
+<lat>49.16565</lat>
+<lng>-2.07659</lng>
+<geonameId>3237072</geonameId>
+<countryCode>JE</countryCode>
+<countryName>Jersey</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population/>
+<alternateNames>St Clement</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1>3237072</adminCode1>
+<adminName1>St Clement</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">St Clement</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saint_Clement%2C_Jersey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Jersey</timezone>
+<score>90.6915283203125</score>
+</geoname>
+<geoname>
+<toponymName>St. Clement</toponymName>
+<name>St. Clement</name>
+<lat>50.2711</lat>
+<lng>-5.0248</lng>
+<geonameId>7294646</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE138</adminCode3>
+<adminName3>St. Clement</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.05874</west>
+<north>50.30006</north>
+<east>-4.99086</east>
+<south>50.24213</south>
+</bbox>
+<score>80.55364227294922</score>
+</geoname>
+</geonames>

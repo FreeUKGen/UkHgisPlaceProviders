@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Frinsted</toponymName>
+<name>Frinsted</name>
+<lat>51.27635</lat>
+<lng>0.71887</lng>
+<geonameId>7290813</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UH</adminCode3>
+<adminName3>Maidstone</adminName3>
+<adminCode4>29UH015</adminCode4>
+<adminName4>Frinsted</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Frinsted</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.69103</west>
+<north>51.29585</north>
+<east>0.74671</east>
+<south>51.25684</south>
+</bbox>
+<score>61.74647521972656</score>
+</geoname>
+</geonames>

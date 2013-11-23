@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Aberffraw</toponymName>
+<name>Aberffraw</name>
+<lat>53.21063</lat>
+<lng>-4.45198</lng>
+<geonameId>7301157</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA001</adminCode3>
+<adminName3>Aberffraw</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.50865</west>
+<north>53.24508</north>
+<east>-4.39531</east>
+<south>53.17618</south>
+</bbox>
+<score>114.15132141113281</score>
+</geoname>
+<geoname>
+<toponymName>Aberffraw</toponymName>
+<name>Aberffraw</name>
+<lat>53.19185</lat>
+<lng>-4.46416</lng>
+<geonameId>2657819</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Aberffraw</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA001</adminCode3>
+<adminName3>Aberffraw</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aberffraw</alternateName>
+<alternateName lang="unlc">AFW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.47917</west>
+<north>53.20084</north>
+<east>-4.44915</east>
+<south>53.18285</south>
+</bbox>
+<score>93.73417663574219</score>
+</geoname>
+</geonames>

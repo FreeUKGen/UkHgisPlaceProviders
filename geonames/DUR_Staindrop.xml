@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Staindrop</toponymName>
+<name>Staindrop</name>
+<lat>54.58197</lat>
+<lng>-1.82246</lng>
+<geonameId>7293144</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ108</adminCode3>
+<adminName3>Staindrop</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.88372</west>
+<north>54.59328</north>
+<east>-1.7612</east>
+<south>54.57066</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Staindrop</toponymName>
+<name>Staindrop</name>
+<lat>54.58102</lat>
+<lng>-1.80708</lng>
+<geonameId>2637127</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Staindrop</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ108</adminCode3>
+<adminName3>Staindrop</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Staindrop</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.83813</west>
+<north>54.599</north>
+<east>-1.77603</east>
+<south>54.56303</south>
+</bbox>
+<score>87.30439758300781</score>
+</geoname>
+</geonames>

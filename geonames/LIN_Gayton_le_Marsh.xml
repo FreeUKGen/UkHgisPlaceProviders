@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Gayton Le Marsh</toponymName>
+<name>Gayton Le Marsh</name>
+<lat>53.34535</lat>
+<lng>0.15579</lng>
+<geonameId>7296418</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC054</adminCode4>
+<adminName4>Gayton Le Marsh</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gayton_le_Marsh</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.12237</west>
+<north>53.36947</north>
+<east>0.18921</east>
+<south>53.32123</south>
+</bbox>
+<score>54.21534729003906</score>
+</geoname>
+</geonames>

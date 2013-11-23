@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Kettering</toponymName>
+<name>Kettering</name>
+<lat>52.39836</lat>
+<lng>-0.72571</lng>
+<geonameId>2645753</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>53329</population>
+<alternateNames>Ketering,Kettering,Keturing,kai te ling,keteoling,ktryng,Кетеринг,Кеттеринг,Кетъринг,کترینگ,凱特靈,케터링</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UE</adminCode3>
+<adminName3>Kettering District</adminName3>
+<alternateName lang="bg">Кетъринг</alternateName>
+<alternateName lang="fa">کترینگ</alternateName>
+<alternateName lang="ko">케터링</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kettering</alternateName>
+<alternateName lang="ru">Кеттеринг</alternateName>
+<alternateName lang="sr">Кетеринг</alternateName>
+<alternateName lang="unlc">KTR</alternateName>
+<alternateName lang="zh">凱特靈</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.77463</west>
+<north>52.42819</north>
+<east>-0.67679</east>
+<south>52.36853</south>
+</bbox>
+<score>123.04350280761719</score>
+</geoname>
+</geonames>

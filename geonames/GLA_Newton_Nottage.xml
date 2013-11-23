@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Newton</toponymName>
+<name>Newton</name>
+<lat>51.48417</lat>
+<lng>-3.67806</lng>
+<geonameId>2641566</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Newton,Newton Nottage</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X3</adminCode2>
+<adminName2>County Borough of Bridgend</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newton%2C_Bridgend</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.6925</west>
+<north>51.49316</north>
+<east>-3.66361</east>
+<south>51.47517</south>
+</bbox>
+<score>64.7458267211914</score>
+</geoname>
+</geonames>

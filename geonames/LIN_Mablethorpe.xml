@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Mablethorpe</toponymName>
+<name>Mablethorpe</name>
+<lat>53.3409</lat>
+<lng>0.26102</lng>
+<geonameId>2643269</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11700</population>
+<alternateNames>Mablethorpe</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="en">Mablethorpe</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mablethorpe</alternateName>
+<alternateName lang="post">LN12</alternateName>
+<alternateName lang="unlc">MTP</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.23842</west>
+<north>53.35439</north>
+<east>0.28363</east>
+<south>53.32741</south>
+</bbox>
+<score>113.8257827758789</score>
+</geoname>
+</geonames>

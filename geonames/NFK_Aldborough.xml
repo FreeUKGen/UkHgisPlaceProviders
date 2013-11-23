@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Aldborough</toponymName>
+<name>Aldborough</name>
+<lat>54.09192</lat>
+<lng>-1.38393</lng>
+<geonameId>2657563</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UD</adminCode3>
+<adminName3>Harrogate District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aldborough%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.39927</west>
+<north>54.10091</north>
+<east>-1.3686</east>
+<south>54.08293</south>
+</bbox>
+<score>76.037109375</score>
+</geoname>
+<geoname>
+<toponymName>Aldborough</toponymName>
+<name>Aldborough</name>
+<lat>52.86837</lat>
+<lng>1.23323</lng>
+<geonameId>7298989</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF002</adminCode4>
+<adminName4>Aldborough</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aldborough%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.20587</west>
+<north>52.88799</north>
+<east>1.2606</east>
+<south>52.84875</south>
+</bbox>
+<score>49.57305145263672</score>
+</geoname>
+<geoname>
+<toponymName>Aldborough</toponymName>
+<name>Aldborough</name>
+<lat>54.08743</lat>
+<lng>-1.38007</lng>
+<geonameId>6287513</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UD</adminCode3>
+<adminName3>Harrogate District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>18.264629364013672</score>
+</geoname>
+</geonames>

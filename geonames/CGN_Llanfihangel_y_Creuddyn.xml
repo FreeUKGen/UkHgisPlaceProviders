@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llanfihangel-y-creuddyn</toponymName>
+<name>Llanfihangel-y-creuddyn</name>
+<lat>52.36667</lat>
+<lng>-3.95</lng>
+<geonameId>2644061</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanfihangel-y-Creiddyn,Llanfihangel-y-creuddyn,Lower Llanfihangel-y-Creuddyn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanfihangel_y_Creuddyn</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.96473</west>
+<north>52.37566</north>
+<east>-3.93527</east>
+<south>52.35767</south>
+</bbox>
+<score>93.3673095703125</score>
+</geoname>
+</geonames>

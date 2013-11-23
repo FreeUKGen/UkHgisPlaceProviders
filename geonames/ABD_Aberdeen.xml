@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Aberdeen</toponymName>
+<name>Aberdeen</name>
+<lat>57.14369</lat>
+<lng>-2.09814</lng>
+<geonameId>2657832</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>183790</population>
+<alternateNames>ABZ,Aberdeen,Aberdin,Aberdina,Aberdon,Aberdonia,Aberdynas,Aberdīna,Aburdijn,Aiberdeen,Amperntin,Devanha,Ehberdin,Gorad Aberdzin,Obair Dheathain,Obar Dheathain,a bo ding,abadin,aberdin,aberdini,abrdyn,aebeodin,ebaradina,Αμπερντήν,Абердин,Абърдийн,Горад Абердзін,Эбердин,Աբերդին,אברדין,أبردين,ابردین,अ‍ॅबर्डीन,एबरडीन,అబెర్డీన్,അബർഡീൻ,แอเบอร์ดีน,အဘာဒင်းမြို့,აბერდინი,アバディーン,阿伯丁,애버딘</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T5</adminCode2>
+<adminName2>Aberdeen City</adminName2>
+<alternateName lang="af">Aberdeen</alternateName>
+<alternateName lang="ar">أبردين</alternateName>
+<alternateName lang="az">Aberdin</alternateName>
+<alternateName lang="be">Горад Абердзін</alternateName>
+<alternateName lang="bg">Абърдийн</alternateName>
+<alternateName lang="br">Obair Dheathain</alternateName>
+<alternateName lang="cs">Aberdeen</alternateName>
+<alternateName lang="da">Aberdeen</alternateName>
+<alternateName lang="de">Aberdeen</alternateName>
+<alternateName lang="el">Αμπερντήν</alternateName>
+<alternateName lang="en">Aberdeen</alternateName>
+<alternateName lang="eo">Aberdeen</alternateName>
+<alternateName lang="es">Aberdeen</alternateName>
+<alternateName lang="et">Aberdeen</alternateName>
+<alternateName lang="eu">Aberdeen</alternateName>
+<alternateName lang="fa">ابردین</alternateName>
+<alternateName lang="fi">Aberdeen</alternateName>
+<alternateName lang="fr">Aberdeen</alternateName>
+<alternateName lang="ga">Obar Dheathain</alternateName>
+<alternateName lang="gd">Obar Dheathain</alternateName>
+<alternateName lang="gl">Aberdeen</alternateName>
+<alternateName lang="gv">Aberdon</alternateName>
+<alternateName lang="he">אברדין</alternateName>
+<alternateName lang="hi">एबरडीन</alternateName>
+<alternateName lang="hy">Աբերդին</alternateName>
+<alternateName lang="iata">ABZ</alternateName>
+<alternateName lang="it">Aberdeen</alternateName>
+<alternateName lang="ja">アバディーン</alternateName>
+<alternateName lang="ka">აბერდინი</alternateName>
+<alternateName lang="kk">Абердин</alternateName>
+<alternateName lang="ko">애버딘</alternateName>
+<alternateName lang="la">Devanha</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aberdeen</alternateName>
+<alternateName lang="lt">Aberdynas</alternateName>
+<alternateName lang="lv">Aberdīna</alternateName>
+<alternateName lang="mk">Абердин</alternateName>
+<alternateName lang="ml">അബർഡീൻ</alternateName>
+<alternateName lang="mr">अ‍ॅबर्डीन</alternateName>
+<alternateName lang="my">အဘာဒင်းမြို့</alternateName>
+<alternateName lang="nds">Aberdeen</alternateName>
+<alternateName lang="nl">Aberdeen</alternateName>
+<alternateName lang="nn">Aberdeen</alternateName>
+<alternateName lang="no">Aberdeen</alternateName>
+<alternateName lang="os">Абердин</alternateName>
+<alternateName lang="pl">Aberdeen</alternateName>
+<alternateName lang="pnb">ابردین</alternateName>
+<alternateName lang="pt">Aberdeen</alternateName>
+<alternateName lang="ro">Aberdeen</alternateName>
+<alternateName lang="ru">Эбердин</alternateName>
+<alternateName lang="sco">Aiberdeen</alternateName>
+<alternateName lang="sr">Абердин</alternateName>
+<alternateName lang="sv">Aberdeen</alternateName>
+<alternateName lang="te">అబెర్డీన్</alternateName>
+<alternateName lang="th">แอเบอร์ดีน</alternateName>
+<alternateName lang="tr">Aberdeen</alternateName>
+<alternateName lang="uk">Абердин</alternateName>
+<alternateName lang="unlc">ABD</alternateName>
+<alternateName lang="vo">Aberdeen</alternateName>
+<alternateName lang="zh">阿伯丁</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.20082</west>
+<north>57.19931</north>
+<east>-1.99546</east>
+<south>57.08806</south>
+</bbox>
+<score>157.81793212890625</score>
+</geoname>
+<geoname>
+<toponymName>Aberdeenshire</toponymName>
+<name>Aberdeenshire</name>
+<lat>57.16667</lat>
+<lng>-2.66667</lng>
+<geonameId>2657830</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>ABD,Aberdeen,Aberdeen County,Aberdeenshire,Siorrachd Obar Dheathain</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T6</adminCode2>
+<adminName2>Aberdeenshire</adminName2>
+<alternateName lang="abbr">ABD</alternateName>
+<alternateName lang="gd">Siorrachd Obar Dheathain</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aberdeenshire_%28historic%29</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.80165</west>
+<north>57.70179</north>
+<east>-1.76438</east>
+<south>56.74714</south>
+</bbox>
+<score>54.13862228393555</score>
+</geoname>
+</geonames>

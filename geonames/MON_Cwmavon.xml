@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Cwmavon</toponymName>
+<name>Cwmavon</name>
+<lat>51.61904</lat>
+<lng>-3.75084</lng>
+<geonameId>7294317</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y5</adminCode2>
+<adminName2>County Borough of Neath Port Talbot</adminName2>
+<adminCode3>00NZ012</adminCode3>
+<adminName3>Cwmavon</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.78681</west>
+<north>51.63755</north>
+<east>-3.71486</east>
+<south>51.60053</south>
+</bbox>
+<score>113.17670440673828</score>
+</geoname>
+<geoname>
+<toponymName>Cwmavon</toponymName>
+<name>Cwmavon</name>
+<lat>51.76667</lat>
+<lng>-3.08333</lng>
+<geonameId>2651655</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X2</adminCode2>
+<adminName2>County Borough of Blaenau Gwent</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.09787</west>
+<north>51.77566</north>
+<east>-3.0688</east>
+<south>51.75767</south>
+</bbox>
+<score>64.90362548828125</score>
+</geoname>
+<geoname>
+<toponymName>Cwmafan</toponymName>
+<name>Cwmafan</name>
+<lat>51.6</lat>
+<lng>-3.75</lng>
+<geonameId>2651656</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5603</population>
+<alternateNames>Cwm-avan,Cwmafan,Cwmavon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y5</adminCode2>
+<adminName2>County Borough of Neath Port Talbot</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cwmafan</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.76448</west>
+<north>51.60899</north>
+<east>-3.73552</east>
+<south>51.59101</south>
+</bbox>
+<score>56.923736572265625</score>
+</geoname>
+</geonames>

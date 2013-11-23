@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hinxworth</toponymName>
+<name>Hinxworth</name>
+<lat>52.04816</lat>
+<lng>-0.19844</lng>
+<geonameId>2646839</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hinxworth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UF</adminCode3>
+<adminName3>North Hertfordshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hinxworth</alternateName>
+<alternateName lang="unlc">HNX</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.21307</west>
+<north>52.05716</north>
+<east>-0.18381</east>
+<south>52.03917</south>
+</bbox>
+<score>94.30809020996094</score>
+</geoname>
+<geoname>
+<toponymName>Hinxworth</toponymName>
+<name>Hinxworth</name>
+<lat>52.0456</lat>
+<lng>-0.19592</lng>
+<geonameId>7291312</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UF</adminCode3>
+<adminName3>North Hertfordshire District</adminName3>
+<adminCode4>26UF010</adminCode4>
+<adminName4>Hinxworth</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.21952</west>
+<north>52.0624</north>
+<east>-0.17231</east>
+<south>52.02879</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Constantine</toponymName>
+<name>Constantine</name>
+<lat>50.12521</lat>
+<lng>-5.16959</lng>
+<geonameId>7294427</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE023</adminCode3>
+<adminName3>Constantine</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.21374</west>
+<north>50.16264</north>
+<east>-5.12543</east>
+<south>50.08778</south>
+</bbox>
+<score>78.32752990722656</score>
+</geoname>
+<geoname>
+<toponymName>Constantine</toponymName>
+<name>Constantine</name>
+<lat>50.1189</lat>
+<lng>-5.17595</lng>
+<geonameId>2652434</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Constantine,Constatine</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE023</adminCode3>
+<adminName3>Constantine</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Constantine%2C_Cornwall</alternateName>
+<alternateName lang="unlc">CZZ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.18998</west>
+<north>50.1279</north>
+<east>-5.16192</east>
+<south>50.10991</south>
+</bbox>
+<score>65.84461212158203</score>
+</geoname>
+</geonames>

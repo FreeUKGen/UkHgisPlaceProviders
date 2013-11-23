@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Woodborough</toponymName>
+<name>Woodborough</name>
+<lat>53.02319</lat>
+<lng>-1.06029</lng>
+<geonameId>2633672</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UE</adminCode3>
+<adminName3>Gedling District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Woodborough%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.07524</west>
+<north>53.03218</north>
+<east>-1.04533</east>
+<south>53.01419</south>
+</bbox>
+<score>82.73589324951172</score>
+</geoname>
+<geoname>
+<toponymName>Woodborough</toponymName>
+<name>Woodborough</name>
+<lat>53.02335</lat>
+<lng>-1.07172</lng>
+<geonameId>7296933</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UE</adminCode3>
+<adminName3>Gedling District</adminName3>
+<adminCode4>37UE011</adminCode4>
+<adminName4>Woodborough</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.11405</west>
+<north>53.03553</north>
+<east>-1.02939</east>
+<south>53.01117</south>
+</bbox>
+<score>79.42591857910156</score>
+</geoname>
+<geoname>
+<toponymName>Woodborough</toponymName>
+<name>Woodborough</name>
+<lat>51.34433</lat>
+<lng>-1.84653</lng>
+<geonameId>7291066</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY252</adminCode3>
+<adminName3>Woodborough</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Woodborough%2C_Wiltshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.8709</west>
+<north>51.35407</north>
+<east>-1.82217</east>
+<south>51.33459</south>
+</bbox>
+<score>70.16000366210938</score>
+</geoname>
+<geoname>
+<toponymName>Woodborough</toponymName>
+<name>Woodborough</name>
+<lat>51.33333</lat>
+<lng>-1.83333</lng>
+<geonameId>2633673</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY252</adminCode3>
+<adminName3>Woodborough</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.86213</west>
+<north>51.35132</north>
+<east>-1.80453</east>
+<south>51.31535</south>
+</bbox>
+<score>39.71295928955078</score>
+</geoname>
+</geonames>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Mevagissey</toponymName>
+<name>Mevagissey</name>
+<lat>50.27324</lat>
+<lng>-4.79166</lng>
+<geonameId>2642687</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2270</population>
+<alternateNames>Mevagissey,Mevegissey</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE089</adminCode3>
+<adminName3>Mevagissey</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mevagissey</alternateName>
+<alternateName lang="unlc">MVG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.79869</west>
+<north>50.27773</north>
+<east>-4.78462</east>
+<south>50.26874</south>
+</bbox>
+<score>108.40060424804688</score>
+</geoname>
+<geoname>
+<toponymName>Mevagissey</toponymName>
+<name>Mevagissey</name>
+<lat>50.27235</lat>
+<lng>-4.78946</lng>
+<geonameId>7300022</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE089</adminCode3>
+<adminName3>Mevagissey</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.81367</west>
+<north>50.28954</north>
+<east>-4.76524</east>
+<south>50.25515</south>
+</bbox>
+<score>107.64411926269531</score>
+</geoname>
+</geonames>

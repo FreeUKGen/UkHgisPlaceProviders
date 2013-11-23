@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Blandford Forum</toponymName>
+<name>Blandford Forum</name>
+<lat>50.86073</lat>
+<lng>-2.16174</lng>
+<geonameId>2655378</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>10073</population>
+<alternateNames>Blandford,Blandford Forum</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UE</adminCode3>
+<adminName3>North Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Blandford_Forum</alternateName>
+<alternateName lang="unlc">BLF</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.18189</west>
+<north>50.87345</north>
+<east>-2.14158</east>
+<south>50.84801</south>
+</bbox>
+<score>113.57404327392578</score>
+</geoname>
+<geoname>
+<toponymName>Blandford Forum</toponymName>
+<name>Blandford</name>
+<lat>50.86523</lat>
+<lng>-2.15783</lng>
+<geonameId>7293392</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames>Blandford,Blandford Forum</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UE</adminCode3>
+<adminName3>North Dorset District</adminName3>
+<adminCode4>19UE003</adminCode4>
+<adminName4>Blandford</adminName4>
+<alternateName lang="en">Blandford</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.17576</west>
+<north>50.87725</north>
+<east>-2.13991</east>
+<south>50.85321</south>
+</bbox>
+<score>71.69296264648438</score>
+</geoname>
+</geonames>

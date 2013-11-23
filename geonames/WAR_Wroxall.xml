@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Wroxall</toponymName>
+<name>Wroxall</name>
+<lat>50.6162</lat>
+<lng>-1.21616</lng>
+<geonameId>7295274</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G2</adminCode2>
+<adminName2>Isle of Wight</adminName2>
+<adminCode3>00MW025</adminCode3>
+<adminName3>Wroxall</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.24163</west>
+<north>50.63245</north>
+<east>-1.19069</east>
+<south>50.59995</south>
+</bbox>
+<score>110.32720184326172</score>
+</geoname>
+<geoname>
+<toponymName>Wroxall</toponymName>
+<name>Wroxall</name>
+<lat>50.61625</lat>
+<lng>-1.22292</lng>
+<geonameId>2633475</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G2</adminCode2>
+<adminName2>Isle of Wight</adminName2>
+<adminCode3>00MW025</adminCode3>
+<adminName3>Wroxall</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wroxall%2C_Isle_of_Wight</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.23709</west>
+<north>50.62524</north>
+<east>-1.20874</east>
+<south>50.60726</south>
+</bbox>
+<score>82.899169921875</score>
+</geoname>
+<geoname>
+<toponymName>Wroxall</toponymName>
+<name>Wroxall</name>
+<lat>52.33791</lat>
+<lng>-1.66898</lng>
+<geonameId>2633474</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1927</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UF</adminCode3>
+<adminName3>Warwick District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.67634</west>
+<north>52.34241</north>
+<east>-1.66162</east>
+<south>52.33341</south>
+</bbox>
+<score>79.49038696289062</score>
+</geoname>
+</geonames>

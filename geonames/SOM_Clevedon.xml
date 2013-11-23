@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Clevedon</toponymName>
+<name>Clevedon</name>
+<lat>51.43422</lat>
+<lng>-2.85311</lng>
+<geonameId>7295037</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC013</adminCode3>
+<adminName3>Clevedon</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.89807</west>
+<north>51.45725</north>
+<east>-2.80815</east>
+<south>51.41119</south>
+</bbox>
+<score>103.13642883300781</score>
+</geoname>
+<geoname>
+<toponymName>Clevedon</toponymName>
+<name>Clevedon</name>
+<lat>51.44057</lat>
+<lng>-2.85745</lng>
+<geonameId>2652861</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>22413</population>
+<alternateNames>Clevedon,Klijvdun,Клийвдън</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC013</adminCode3>
+<adminName3>Clevedon</adminName3>
+<alternateName lang="bg">Клийвдън</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clevedon</alternateName>
+<alternateName lang="unlc">QZL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.88807</west>
+<north>51.45965</north>
+<east>-2.82683</east>
+<south>51.42149</south>
+</bbox>
+<score>101.64622497558594</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hartland</toponymName>
+<name>Hartland</name>
+<lat>50.9938</lat>
+<lng>-4.48062</lng>
+<geonameId>2647403</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hartland</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UK</adminCode3>
+<adminName3>Torridge District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hartland%2C_Devon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.49492</west>
+<north>51.00279</north>
+<east>-4.46633</east>
+<south>50.9848</south>
+</bbox>
+<score>80.99984741210938</score>
+</geoname>
+<geoname>
+<toponymName>Hartland</toponymName>
+<name>Hartland</name>
+<lat>50.97594</lat>
+<lng>-4.4822</lng>
+<geonameId>7293355</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UK</adminCode3>
+<adminName3>Torridge District</adminName3>
+<adminCode4>18UK026</adminCode4>
+<adminName4>Hartland</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.55174</west>
+<north>51.02301</north>
+<east>-4.41265</east>
+<south>50.92887</south>
+</bbox>
+<score>63.01557922363281</score>
+</geoname>
+</geonames>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Huish</toponymName>
+<name>Huish</name>
+<lat>50.87892</lat>
+<lng>-4.07766</lng>
+<geonameId>7297596</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UK</adminCode3>
+<adminName3>Torridge District</adminName3>
+<adminCode4>18UK031</adminCode4>
+<adminName4>Huish</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.09725</west>
+<north>50.89045</north>
+<east>-4.05807</east>
+<south>50.8674</south>
+</bbox>
+<score>77.78515625</score>
+</geoname>
+<geoname>
+<toponymName>Huish</toponymName>
+<name>Huish</name>
+<lat>51.37542</lat>
+<lng>-1.78933</lng>
+<geonameId>7301250</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY123</adminCode3>
+<adminName3>Huish</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Huish%2C_Wiltshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.80429</west>
+<north>51.3858</north>
+<east>-1.77438</east>
+<south>51.36504</south>
+</bbox>
+<score>69.39100646972656</score>
+</geoname>
+<geoname>
+<toponymName>Huish</toponymName>
+<name>Huish</name>
+<lat>51.37114</lat>
+<lng>-1.79266</lng>
+<geonameId>2646448</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Huish</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY123</adminCode3>
+<adminName3>Huish</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.82148</west>
+<north>51.38912</north>
+<east>-1.76384</east>
+<south>51.35315</south>
+</bbox>
+<score>38.1754035949707</score>
+</geoname>
+</geonames>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Shrewsbury</toponymName>
+<name>Shrewsbury</name>
+<lat>52.71009</lat>
+<lng>-2.75208</lng>
+<geonameId>2637891</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>69519</population>
+<alternateNames>Amwythig,Shrewsbury,Shrjusburi,Shrusberi,Шрусбери,Шрюсбъри</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<alternateName lang="bg">Шрюсбъри</alternateName>
+<alternateName lang="cy">Amwythig</alternateName>
+<alternateName lang="da">Shrewsbury</alternateName>
+<alternateName lang="de">Shrewsbury</alternateName>
+<alternateName lang="en">Shrewsbury</alternateName>
+<alternateName lang="es">Shrewsbury</alternateName>
+<alternateName lang="fi">Shrewsbury</alternateName>
+<alternateName lang="fr">Shrewsbury</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/shrewsbury</alternateName>
+<alternateName lang="no">Shrewsbury</alternateName>
+<alternateName lang="post">SY5</alternateName>
+<alternateName lang="pt">Shrewsbury</alternateName>
+<alternateName lang="ru">Шрусбери</alternateName>
+<alternateName lang="sv">Shrewsbury</alternateName>
+<alternateName lang="unlc">SBR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.80816</west>
+<north>52.74404</north>
+<east>-2.69599</east>
+<south>52.67614</south>
+</bbox>
+<score>134.43084716796875</score>
+</geoname>
+<geoname>
+<toponymName>Shrewsbury</toponymName>
+<name>Shrewsbury</name>
+<lat>52.71758</lat>
+<lng>-2.75777</lng>
+<geonameId>7297115</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG162</adminCode3>
+<adminName3>Shrewsbury</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.81432</west>
+<north>52.75498</north>
+<east>-2.70122</east>
+<south>52.68018</south>
+</bbox>
+<score>97.6038589477539</score>
+</geoname>
+</geonames>

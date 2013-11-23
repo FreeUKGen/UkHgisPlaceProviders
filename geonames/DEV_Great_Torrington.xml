@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Great Torrington</toponymName>
+<name>Great Torrington</name>
+<lat>50.95309</lat>
+<lng>-4.14401</lng>
+<geonameId>2648004</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5590</population>
+<alternateNames>Great Torrington,Torrington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UK</adminCode3>
+<adminName3>Torridge District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Great_Torrington</alternateName>
+<alternateName lang="unlc">GTO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.15829</west>
+<north>50.96208</north>
+<east>-4.12973</east>
+<south>50.94409</south>
+</bbox>
+<score>91.21377563476562</score>
+</geoname>
+<geoname>
+<toponymName>Great Torrington</toponymName>
+<name>Great Torrington</name>
+<lat>50.96168</lat>
+<lng>-4.14088</lng>
+<geonameId>7294944</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UK</adminCode3>
+<adminName3>Torridge District</adminName3>
+<adminCode4>18UK024</adminCode4>
+<adminName4>Great Torrington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.17974</west>
+<north>50.97943</north>
+<east>-4.10202</east>
+<south>50.94392</south>
+</bbox>
+<score>69.12570190429688</score>
+</geoname>
+</geonames>

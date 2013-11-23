@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Beighton</toponymName>
+<name>Beighton</name>
+<lat>53.33333</lat>
+<lng>-1.33333</lng>
+<geonameId>2656000</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>10914</population>
+<alternateNames>Beighton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L9</adminCode2>
+<adminName2>Sheffield</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Beighton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.35593</west>
+<north>53.34682</north>
+<east>-1.31074</east>
+<south>53.31984</south>
+</bbox>
+<score>141.09255981445312</score>
+</geoname>
+<geoname>
+<toponymName>Beighton</toponymName>
+<name>Beighton</name>
+<lat>52.61635</lat>
+<lng>1.53166</lng>
+<geonameId>7301862</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<adminCode4>33UC006</adminCode4>
+<adminName4>Beighton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Beighton%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.50382</west>
+<north>52.63499</north>
+<east>1.5595</east>
+<south>52.59771</south>
+</bbox>
+<score>55.900535583496094</score>
+</geoname>
+</geonames>

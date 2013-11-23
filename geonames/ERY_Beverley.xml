@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Beverley</toponymName>
+<name>Beverley</name>
+<lat>53.84587</lat>
+<lng>-0.42332</lng>
+<geonameId>2655785</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>31968</population>
+<alternateNames>Beverley,Bevurli,bibeolli,Бевърли,비벌리</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<alternateName lang="bg">Бевърли</alternateName>
+<alternateName lang="de">Beverley</alternateName>
+<alternateName lang="en">Beverley</alternateName>
+<alternateName lang="eo">Beverley</alternateName>
+<alternateName lang="ko">비벌리</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Beverley</alternateName>
+<alternateName lang="sv">Beverley</alternateName>
+<alternateName lang="unlc">BEV</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.4622</west>
+<north>53.8688</north>
+<east>-0.38443</east>
+<south>53.82294</south>
+</bbox>
+<score>85.34611511230469</score>
+</geoname>
+<geoname>
+<toponymName>Beverley</toponymName>
+<name>Beverley</name>
+<lat>53.84327</lat>
+<lng>-0.42465</lng>
+<geonameId>7298472</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB166</adminCode3>
+<adminName3>Beverley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.46888</west>
+<north>53.85934</north>
+<east>-0.38041</east>
+<south>53.82721</south>
+</bbox>
+<score>83.39501953125</score>
+</geoname>
+</geonames>

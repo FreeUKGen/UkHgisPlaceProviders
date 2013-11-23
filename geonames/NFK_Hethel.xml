@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Hethel</toponymName>
+<name>Hethel</name>
+<lat>52.55</lat>
+<lng>-1.2</lng>
+<geonameId>2647024</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UB</adminCode3>
+<adminName3>Blaby</adminName3>
+<alternateName lang="unlc">HEE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.21479</west>
+<north>52.55899</north>
+<east>-1.18521</east>
+<south>52.54101</south>
+</bbox>
+<score>51.182350158691406</score>
+</geoname>
+</geonames>

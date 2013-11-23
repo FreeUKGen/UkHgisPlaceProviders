@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Osmaston</toponymName>
+<name>Osmaston</name>
+<lat>52.9926</lat>
+<lng>-1.70451</lng>
+<geonameId>2640874</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UF</adminCode3>
+<adminName3>Derbyshire Dales District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Osmaston%2C_Derbyshire_Dales</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.71946</west>
+<north>53.00159</north>
+<east>-1.68957</east>
+<south>52.98361</south>
+</bbox>
+<score>83.27080535888672</score>
+</geoname>
+<geoname>
+<toponymName>Osmaston</toponymName>
+<name>Osmaston</name>
+<lat>52.98923</lat>
+<lng>-1.70924</lng>
+<geonameId>7293253</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UF</adminCode3>
+<adminName3>Derbyshire Dales District</adminName3>
+<adminCode4>17UF083</adminCode4>
+<adminName4>Osmaston</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.72987</west>
+<north>53.00331</north>
+<east>-1.68861</east>
+<south>52.97514</south>
+</bbox>
+<score>80.19264221191406</score>
+</geoname>
+</geonames>

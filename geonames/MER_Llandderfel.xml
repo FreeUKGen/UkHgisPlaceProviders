@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llandderfel</toponymName>
+<name>Llandderfel</name>
+<lat>52.95316</lat>
+<lng>-3.59035</lng>
+<geonameId>7295212</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC031</adminCode3>
+<adminName3>Llandderfel</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.74393</west>
+<north>53.01208</north>
+<east>-3.43676</east>
+<south>52.89425</south>
+</bbox>
+<score>108.65621948242188</score>
+</geoname>
+<geoname>
+<toponymName>Llandderfel</toponymName>
+<name>Llandderfel</name>
+<lat>52.92127</lat>
+<lng>-3.5156</lng>
+<geonameId>2644156</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llandderfel,Llanderfel</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC031</adminCode3>
+<adminName3>Llandderfel</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llandderfel</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.53052</west>
+<north>52.93027</north>
+<east>-3.50068</east>
+<south>52.91228</south>
+</bbox>
+<score>102.44763946533203</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Sarnesfield</toponymName>
+<name>Sarnesfield</name>
+<lat>52.15529</lat>
+<lng>-2.92156</lng>
+<geonameId>7294741</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA187</adminCode3>
+<adminName3>Sarnesfield</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.94019</west>
+<north>52.16906</north>
+<east>-2.90292</east>
+<south>52.14152</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Sarnesfield</toponymName>
+<name>Sarnesfield</name>
+<lat>52.15141</lat>
+<lng>-2.92204</lng>
+<geonameId>2638503</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA187</adminCode3>
+<adminName3>Sarnesfield</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sarnesfield</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.9367</west>
+<north>52.16041</north>
+<east>-2.90738</east>
+<south>52.14242</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+</geonames>

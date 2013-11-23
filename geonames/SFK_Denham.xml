@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Denham</toponymName>
+<name>Denham</name>
+<lat>51.56667</lat>
+<lng>-0.5</lng>
+<geonameId>2651378</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6548</population>
+<alternateNames>Denham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UE</adminCode3>
+<adminName3>South Bucks District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Denham%2C_Buckinghamshire</alternateName>
+<alternateName lang="unlc">DHM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.51618</west>
+<north>51.57672</north>
+<east>-0.48382</east>
+<south>51.55661</south>
+</bbox>
+<score>90.71931457519531</score>
+</geoname>
+<geoname>
+<toponymName>Denham</toponymName>
+<name>Denham</name>
+<lat>52.3</lat>
+<lng>1.21667</lng>
+<geonameId>2651376</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Denham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Denham%2C_Mid_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.20196</west>
+<north>52.30899</north>
+<east>1.23138</east>
+<south>52.29101</south>
+</bbox>
+<score>88.92851257324219</score>
+</geoname>
+<geoname>
+<toponymName>Denham</toponymName>
+<name>Denham</name>
+<lat>52.22528</lat>
+<lng>0.56811</lng>
+<geonameId>2651377</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UF</adminCode3>
+<adminName3>St. Edmundsbury District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Denham%2C_St_Edmundsbury</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.55343</west>
+<north>52.23427</north>
+<east>0.5828</east>
+<south>52.21628</south>
+</bbox>
+<score>74.58152770996094</score>
+</geoname>
+<geoname>
+<toponymName>Denham</toponymName>
+<name>Denham</name>
+<lat>52.23181</lat>
+<lng>0.57136</lng>
+<geonameId>7291862</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UF</adminCode3>
+<adminName3>St. Edmundsbury District</adminName3>
+<adminCode4>42UF018</adminCode4>
+<adminName4>Denham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.55392</west>
+<north>52.24759</north>
+<east>0.58881</east>
+<south>52.21603</south>
+</bbox>
+<score>69.22073364257812</score>
+</geoname>
+<geoname>
+<toponymName>Denham</toponymName>
+<name>Denham</name>
+<lat>52.31496</lat>
+<lng>1.20629</lng>
+<geonameId>7292066</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<adminCode4>42UE031</adminCode4>
+<adminName4>Denham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.19062</west>
+<north>52.33168</north>
+<east>1.22196</east>
+<south>52.29824</south>
+</bbox>
+<score>69.22073364257812</score>
+</geoname>
+<geoname>
+<toponymName>Denham</toponymName>
+<name>Denham</name>
+<lat>51.57471</lat>
+<lng>-0.50626</lng>
+<geonameId>7296177</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UE</adminCode3>
+<adminName3>South Bucks District</adminName3>
+<adminCode4>11UE003</adminCode4>
+<adminName4>Denham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.5359</west>
+<north>51.60506</north>
+<east>-0.47662</east>
+<south>51.54435</south>
+</bbox>
+<score>69.22073364257812</score>
+</geoname>
+</geonames>

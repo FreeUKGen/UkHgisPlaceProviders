@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llanllowell</toponymName>
+<name>Llanllowell</name>
+<lat>51.68277</lat>
+<lng>-2.87952</lng>
+<geonameId>2643981</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanllowel,Llanllowell</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP021</adminCode3>
+<adminName3>Llantrisant Fawr</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanllowell</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.89403</west>
+<north>51.69177</north>
+<east>-2.86501</east>
+<south>51.67378</south>
+</bbox>
+<score>104.37124633789062</score>
+</geoname>
+</geonames>

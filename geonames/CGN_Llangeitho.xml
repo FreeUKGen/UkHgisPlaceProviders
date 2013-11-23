@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llangeitho</toponymName>
+<name>Llangeitho</name>
+<lat>52.22574</lat>
+<lng>-4.01166</lng>
+<geonameId>7294036</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ024</adminCode3>
+<adminName3>Llangeitho</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.06805</west>
+<north>52.26553</north>
+<east>-3.95527</east>
+<south>52.18596</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Llangeitho</toponymName>
+<name>Llangeitho</name>
+<lat>52.2187</lat>
+<lng>-4.02682</lng>
+<geonameId>2644035</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llangeitho</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ024</adminCode3>
+<adminName3>Llangeitho</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llangeitho</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.0415</west>
+<north>52.22769</north>
+<east>-4.01213</east>
+<south>52.2097</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+</geonames>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Padstow</toponymName>
+<name>Padstow</name>
+<lat>50.54373</lat>
+<lng>-4.96521</lng>
+<geonameId>7293091</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE102</adminCode3>
+<adminName3>Padstow</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.00009</west>
+<north>50.57286</north>
+<east>-4.93032</east>
+<south>50.51459</south>
+</bbox>
+<score>107.96240234375</score>
+</geoname>
+<geoname>
+<toponymName>Padstow</toponymName>
+<name>Padstow</name>
+<lat>50.53885</lat>
+<lng>-4.93664</lng>
+<geonameId>2640685</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>2504</population>
+<alternateNames>Lannwedhenek</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE102</adminCode3>
+<adminName3>Padstow</adminName3>
+<alternateName lang="br">Lannwedhenek</alternateName>
+<alternateName lang="cy">Lannwedhenek</alternateName>
+<alternateName lang="kw">Lannwedhenek</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Padstow</alternateName>
+<alternateName lang="unlc">PAD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.94665</west>
+<north>50.54521</north>
+<east>-4.92663</east>
+<south>50.53249</south>
+</bbox>
+<score>64.71118927001953</score>
+</geoname>
+</geonames>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Broomfield</toponymName>
+<name>Broomfield</name>
+<lat>51.76508</lat>
+<lng>0.47258</lng>
+<geonameId>2654550</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Broomfield</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UF</adminCode3>
+<adminName3>Chelmsford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Broomfield%2C_Essex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.45805</west>
+<north>51.77407</north>
+<east>0.48712</east>
+<south>51.75608</south>
+</bbox>
+<score>77.3572769165039</score>
+</geoname>
+<geoname>
+<toponymName>Broomfield</toponymName>
+<name>Broomfield</name>
+<lat>51.0825</lat>
+<lng>-3.11028</lng>
+<geonameId>3345368</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Broomfield</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Broomfield%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.1246</west>
+<north>51.09149</north>
+<east>-3.09596</east>
+<south>51.07351</south>
+</bbox>
+<score>77.3572769165039</score>
+</geoname>
+<geoname>
+<toponymName>Broomfield</toponymName>
+<name>Broomfield</name>
+<lat>51.08563</lat>
+<lng>-3.10441</lng>
+<geonameId>7297870</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<adminCode4>40UC009</adminCode4>
+<adminName4>Broomfield</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.15994</west>
+<north>51.1063</north>
+<east>-3.04888</east>
+<south>51.06495</south>
+</bbox>
+<score>60.54399108886719</score>
+</geoname>
+<geoname>
+<toponymName>Broomfield</toponymName>
+<name>Broomfield</name>
+<lat>51.7679</lat>
+<lng>0.46873</lng>
+<geonameId>7300508</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UF</adminCode3>
+<adminName3>Chelmsford District</adminName3>
+<adminCode4>22UF002</adminCode4>
+<adminName4>Broomfield</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.43571</west>
+<north>51.78296</north>
+<east>0.50176</east>
+<south>51.75285</south>
+</bbox>
+<score>60.54399108886719</score>
+</geoname>
+<geoname>
+<toponymName>Broomfield</toponymName>
+<name>Broomfield</name>
+<lat>51.24365</lat>
+<lng>0.63463</lng>
+<geonameId>2654592</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UH</adminCode3>
+<adminName3>Maidstone</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.62026</west>
+<north>51.25264</north>
+<east>0.649</east>
+<south>51.23466</south>
+</bbox>
+<score>48.11952590942383</score>
+</geoname>
+<geoname>
+<toponymName>Broomfield</toponymName>
+<name>Broomfield</name>
+<lat>51.35749</lat>
+<lng>1.15736</lng>
+<geonameId>3209904</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UE</adminCode3>
+<adminName3>Dover District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.14296</west>
+<north>51.36648</north>
+<east>1.17177</east>
+<south>51.34849</south>
+</bbox>
+<score>48.11952590942383</score>
+</geoname>
+</geonames>

@@ -1,0 +1,107 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>8248</id>
+<name>TOWCESTER</name>
+<container>NORTHAMPTONSHIRE</container>
+<lat>52.128321387603</lat>
+<lon>-0.999406211728544</lon>
+<gazetteerText>TOWCESTER, a small town, a parish, a sub-district, a district, and a hundred, in Northamptonshire. The town stands on Watling.street and the river Tove, at the termination of a branch railway 8&#188; miles SSW of Northampton; occupies the site of the Roman station Lactodurum; was known, in the Saxon times, as Tof-ceastre,-at Domesday, as Tovecestre; suffered much in the Saxon times, from frequent attacks of the Danes; was refortified, in the time of Edward the Elder, by walls and other works, of which but faint traces remain; belonged, in the time of Henry VII., to the lawyer Sir R. Empson, a native, the son of a sieve-maker, raised to the chancellorship of the duchy of Lancaster, and eventually beheaded: is now a seat of petty sessions and county courts, and a polling place; consists chiefly of one long well built street; and has a head post-office,&#8225; a banking office, two chief inns, a town hall and corn exchange, in the classic style, with dome, tower, and spire, built in 1866, a police station, erected in 1852, a theological library and reading room, a church of various periods, repaired in 1836, four dissenting chapels, an endowed grammar-school with &#163;65 a year, national schools, a workhouse with capacity for 208 inmates, alms houses with &#163;91 a year, and other charities &#163;251. A weekly market is held on Tuesday; fairs are held on 12 May and 29 Oct.; and malting, brewing, shoe-making, and pillow-lace manufacture, are carried on. Pop. in 1861, 2,417. Houses, 546.&#151;The parish includes, three hamlets, and comprises 2,790 acres. Real property, &#163;11,880; of which &#163;30 are in quarries, and &#163;90 in gasworks. Pop., 2,715. Houses, 610. The manor belongs to Sir T. F. Hesketh, Bart. An artificial mound, called Bury Mount, is on the NW side of the town; appears to have been anciently fortified; and has yielded many Roman relics. The living is a vicarage in the diocese of Peterborough. Value, &#163;300.* Patron, the Bishop of Lichfield.&#151;The sub-district contains nine parishes. Acres, 19,893. Pop., 7,531. Houses, 1,669.&#151;The district includes Abthorpe sub-district, and comprises 42,216 acres. Poor rates, in 1863, &#163;6,939. Pop. in 1851, 12,806; in 1861, 13,004. Houses, 2,956. Marriages in 1863, 82: births, 457,-of which 32 were illegitimate; deaths, 234, -of which 75 were at ages under 5 years, and 13 at ages above 85. Marriages in the ten years 1851-60, 1,022; births, 4,361; deaths, 2,927. The places of worship, in 1851, were 20 of the Church of England, with 3,184 sittings; 1 of Independents, with 390 s.; 13 of Baptists, with 2,271 s.; 12 of Wesleyans, with 1,864 s.; 2 of Primitive Methodists, with 170 s.; 1 of Wesleyan Reformers, with 60 s.; and 1 undefined, with 70 s. The schools were 17 public day-schools, with 1,053 scholars; 17 private day-schools, with 295 s.; and 32 Sunday schools, with 2,466 s.-The hundred contains six parishes. Acres, 27,490. Pop., 5,163. Houses, 1,139. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Towcester</link>
+<link>http://www.workhouses.org.uk/Towcester</link>
+<link>http://www.kellner.eclipse.co.uk/genuki/NTH/Towcester</link>
+<link>http://www.geonames.org/2635597</link>
+</links>
+<unit>
+   <id>10063139</id>
+   <status>RegD/PLU</status>
+   <name>TOWCESTER</name>
+</unit>
+<unit>
+   <id>10140924</id>
+   <status>Hundred</status>
+   <name>TOWCESTER</name>
+</unit>
+<unit>
+   <id>10166342</id>
+   <status>Borough</status>
+   <name>TOWCESTER</name>
+</unit>
+<unit>
+   <id>10211232</id>
+   <status>RD</status>
+   <name>TOWCESTER</name>
+</unit>
+<unit>
+   <id>10214828</id>
+   <status>RSD</status>
+   <name>TOWCESTER</name>
+</unit>
+<unit>
+   <id>10283176</id>
+   <status>CP/AP</status>
+   <name>TOWCESTER</name>
+</unit>
+<unit>
+   <id>10283188</id>
+   <status>EP</status>
+   <name>TOWCESTER</name>
+</unit>
+<unit>
+   <id>10553970</id>
+   <status></status>
+   <name>TOWCESTER</name>
+</unit>
+<unit>
+   <id>10581394</id>
+   <status></status>
+   <name>TOWCESTER</name>
+</unit>
+<unit>
+   <id>12743713</id>
+   <status>PDivCon</status>
+   <name>NORTHAMPTONSHIRE SOUTHERN</name>
+</unit>
+<nearByPlace>
+   <id>7472</id>
+   <name>ABTHORPE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7578</id>
+   <name>BLAKESLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8107</id>
+   <name>GREENS NORTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8117</id>
+   <name>PATTISHALL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8118</id>
+   <name>PAULERSPURY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8127</id>
+   <name>POTTERSPURY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8157</id>
+   <name>SILVERSTONE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8265</id>
+   <name>WAPPENHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8347</id>
+   <name>WHITTLEBURY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8365</id>
+   <name>YARDLEY GOBION</name>
+</nearByPlace>
+</place>
+</results>

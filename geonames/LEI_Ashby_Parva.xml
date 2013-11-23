@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ashby Parva</toponymName>
+<name>Ashby Parva</name>
+<lat>52.49079</lat>
+<lng>-1.22468</lng>
+<geonameId>2656968</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UD</adminCode3>
+<adminName3>Harborough District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ashby_Parva</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.23946</west>
+<north>52.49979</north>
+<east>-1.20991</east>
+<south>52.4818</south>
+</bbox>
+<score>84.18871307373047</score>
+</geoname>
+<geoname>
+<toponymName>Ashby Parva</toponymName>
+<name>Ashby Parva</name>
+<lat>52.48912</lat>
+<lng>-1.22092</lng>
+<geonameId>7296318</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UD</adminCode3>
+<adminName3>Harborough District</adminName3>
+<adminCode4>31UD004</adminCode4>
+<adminName4>Ashby Parva</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.24791</west>
+<north>52.50144</north>
+<east>-1.19393</east>
+<south>52.47681</south>
+</bbox>
+<score>73.930908203125</score>
+</geoname>
+</geonames>

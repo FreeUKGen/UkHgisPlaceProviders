@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Bucknall</toponymName>
+<name>Bucknall</name>
+<lat>53.2</lat>
+<lng>-0.25</lng>
+<geonameId>2654391</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bucknall</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bucknall%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.26502</west>
+<north>53.20899</north>
+<east>-0.23498</east>
+<south>53.19101</south>
+</bbox>
+<score>94.51627349853516</score>
+</geoname>
+<geoname>
+<toponymName>Bucknall</toponymName>
+<name>Bucknall</name>
+<lat>53.01667</lat>
+<lng>-2.13333</lng>
+<geonameId>2654392</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bucknall%2C_Staffordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.14829</west>
+<north>53.02566</north>
+<east>-2.11838</east>
+<south>53.00767</south>
+</bbox>
+<score>78.87277221679688</score>
+</geoname>
+<geoname>
+<toponymName>Bucknall</toponymName>
+<name>Bucknall</name>
+<lat>53.20118</lat>
+<lng>-0.2524</lng>
+<geonameId>7301567</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC021</adminCode4>
+<adminName4>Bucknall</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.29202</west>
+<north>53.22464</north>
+<east>-0.21279</east>
+<south>53.17772</south>
+</bbox>
+<score>75.2781982421875</score>
+</geoname>
+</geonames>

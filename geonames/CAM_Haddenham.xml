@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Haddenham</toponymName>
+<name>Haddenham</name>
+<lat>52.35789</lat>
+<lng>0.14827</lng>
+<geonameId>2647687</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>2650488</adminCode3>
+<adminName3>East Cambridgeshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Haddenham%2C_Cambridgeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.13354</west>
+<north>52.36688</north>
+<east>0.163</east>
+<south>52.34889</south>
+</bbox>
+<score>83.30989074707031</score>
+</geoname>
+<geoname>
+<toponymName>Haddenham</toponymName>
+<name>Haddenham</name>
+<lat>52.35109</lat>
+<lng>0.11018</lng>
+<geonameId>7298760</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>79.67196655273438</score>
+</geoname>
+<geoname>
+<toponymName>Haddenham</toponymName>
+<name>Haddenham</name>
+<lat>51.77326</lat>
+<lng>-0.92628</lng>
+<geonameId>2647688</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2864</population>
+<alternateNames>Haddenham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UB</adminCode3>
+<adminName3>Aylesbury Vale</adminName3>
+<alternateName lang="unlc">ZBG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.93656</west>
+<north>51.77962</north>
+<east>-0.91601</east>
+<south>51.7669</south>
+</bbox>
+<score>78.19618225097656</score>
+</geoname>
+<geoname>
+<toponymName>Haddenham</toponymName>
+<name>Haddenham</name>
+<lat>51.77363</lat>
+<lng>-0.93903</lng>
+<geonameId>7296363</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UB</adminCode3>
+<adminName3>Aylesbury Vale</adminName3>
+<adminCode4>11UB039</adminCode4>
+<adminName4>Haddenham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Haddenham%2C_Buckinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.98404</west>
+<north>51.79017</north>
+<east>-0.89403</east>
+<south>51.75708</south>
+</bbox>
+<score>54.349510192871094</score>
+</geoname>
+</geonames>

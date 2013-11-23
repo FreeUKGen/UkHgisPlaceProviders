@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Haltwhistle</toponymName>
+<name>Haltwhistle</name>
+<lat>54.98164</lat>
+<lng>-2.46948</lng>
+<geonameId>7300683</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM065</adminCode3>
+<adminName3>Haltwhistle</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.51025</west>
+<north>55.00146</north>
+<east>-2.4287</east>
+<south>54.96183</south>
+</bbox>
+<score>111.86306762695312</score>
+</geoname>
+<geoname>
+<toponymName>Haltwhistle</toponymName>
+<name>Haltwhistle</name>
+<lat>54.97101</lat>
+<lng>-2.45682</lng>
+<geonameId>2647593</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>3896</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM065</adminCode3>
+<adminName3>Haltwhistle</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Haltwhistle</alternateName>
+<alternateName lang="unlc">HWS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.47039</west>
+<north>54.9788</north>
+<east>-2.44325</east>
+<south>54.96322</south>
+</bbox>
+<score>91.0561752319336</score>
+</geoname>
+</geonames>

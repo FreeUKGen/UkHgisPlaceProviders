@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Puckington</toponymName>
+<name>Puckington</name>
+<lat>50.96379</lat>
+<lng>-2.89796</lng>
+<geonameId>7292420</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD090</adminCode4>
+<adminName4>Puckington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Puckington</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.91686</west>
+<north>50.97127</north>
+<east>-2.87906</east>
+<south>50.9563</south>
+</bbox>
+<score>61.74647521972656</score>
+</geoname>
+</geonames>

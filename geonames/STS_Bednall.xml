@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bednall</toponymName>
+<name>Bednall</name>
+<lat>52.75816</lat>
+<lng>-2.06785</lng>
+<geonameId>2656037</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UF</adminCode3>
+<adminName3>South Staffordshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bednall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.08272</west>
+<north>52.76715</north>
+<east>-2.05299</east>
+<south>52.74916</south>
+</bbox>
+<score>92.43367004394531</score>
+</geoname>
+</geonames>

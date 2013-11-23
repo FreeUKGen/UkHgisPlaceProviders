@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llangoed</toponymName>
+<name>Llangoed</name>
+<lat>53.30028</lat>
+<lng>-4.0618</lng>
+<geonameId>7301164</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA025</adminCode3>
+<adminName3>Llangoed</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llangoed</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.10458</west>
+<north>53.32214</north>
+<east>-4.01903</east>
+<south>53.27841</south>
+</bbox>
+<score>79.03948974609375</score>
+</geoname>
+<geoname>
+<toponymName>Llangoed</toponymName>
+<name>Llangoed</name>
+<lat>53.28333</lat>
+<lng>-4.08333</lng>
+<geonameId>2644022</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Llangoed</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA025</adminCode3>
+<adminName3>Llangoed</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.11343</west>
+<north>53.30132</north>
+<east>-4.05323</east>
+<south>53.26535</south>
+</bbox>
+<score>40.681190490722656</score>
+</geoname>
+</geonames>

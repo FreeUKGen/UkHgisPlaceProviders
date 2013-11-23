@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Blyth</toponymName>
+<name>Blyth</name>
+<lat>55.11775</lat>
+<lng>-1.53835</lng>
+<geonameId>7291483</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM165</adminCode3>
+<adminName3>Blyth</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.58667</west>
+<north>55.13921</north>
+<east>-1.49002</east>
+<south>55.09629</south>
+</bbox>
+<score>101.13876342773438</score>
+</geoname>
+<geoname>
+<toponymName>Blyth</toponymName>
+<name>Blyth</name>
+<lat>55.12708</lat>
+<lng>-1.50856</lng>
+<geonameId>2655315</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>36355</population>
+<alternateNames>Blit,Blyth,Blyth i Northumberland,Blythe,Блит</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM165</adminCode3>
+<adminName3>Blyth</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Blyth%2C_Northumberland</alternateName>
+<alternateName lang="nn">Blyth i Northumberland</alternateName>
+<alternateName lang="ru">Блит</alternateName>
+<alternateName lang="unlc">BLY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.55166</west>
+<north>55.15171</north>
+<east>-1.46546</east>
+<south>55.10245</south>
+</bbox>
+<score>92.29324340820312</score>
+</geoname>
+<geoname>
+<toponymName>Blyth</toponymName>
+<name>Blyth</name>
+<lat>53.37862</lat>
+<lng>-1.0625</lng>
+<geonameId>2655316</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Blyth%2C_Nottinghamshire</alternateName>
+<alternateName lang="unlc">YTH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.07758</west>
+<north>53.38761</north>
+<east>-1.04742</east>
+<south>53.36962</south>
+</bbox>
+<score>78.00186157226562</score>
+</geoname>
+<geoname>
+<toponymName>Blyth</toponymName>
+<name>Blyth</name>
+<lat>53.38263</lat>
+<lng>-1.05343</lng>
+<geonameId>7300855</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<adminCode4>37UC006</adminCode4>
+<adminName4>Blyth</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.07607</west>
+<north>53.40405</north>
+<east>-1.0308</east>
+<south>53.36121</south>
+</bbox>
+<score>73.01834106445312</score>
+</geoname>
+</geonames>

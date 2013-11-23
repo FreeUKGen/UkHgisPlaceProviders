@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>New Quay</toponymName>
+<name>New Quay</name>
+<lat>52.2093</lat>
+<lng>-4.35645</lng>
+<geonameId>7294005</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ039</adminCode3>
+<adminName3>New Quay</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Quay</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.37145</west>
+<north>52.21962</north>
+<east>-4.34145</east>
+<south>52.19898</south>
+</bbox>
+<score>64.40605163574219</score>
+</geoname>
+<geoname>
+<toponymName>New Quay</toponymName>
+<name>New Quay</name>
+<lat>52.21515</lat>
+<lng>-4.35887</lng>
+<geonameId>2641588</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>New Quay,Y Cei Newydd</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ039</adminCode3>
+<adminName3>New Quay</adminName3>
+<alternateName lang="cy">Y Cei Newydd</alternateName>
+<alternateName lang="en">New Quay</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.38824</west>
+<north>52.23314</north>
+<east>-4.3295</east>
+<south>52.19717</south>
+</bbox>
+<score>61.263668060302734</score>
+</geoname>
+<geoname>
+<toponymName>Kingholm Quay</toponymName>
+<name>Kingholm Quay</name>
+<lat>55.04539</lat>
+<lng>-3.60572</lng>
+<geonameId>2645501</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kingholm Quay,New Quay</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U2</adminCode2>
+<adminName2>Dumfries and Galloway</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.62142</west>
+<north>55.05439</north>
+<east>-3.59002</east>
+<south>55.0364</south>
+</bbox>
+<score>47.207916259765625</score>
+</geoname>
+</geonames>

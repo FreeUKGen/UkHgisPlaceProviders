@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Street</toponymName>
+<name>Street</name>
+<lat>51.12472</lat>
+<lng>-2.74</lng>
+<geonameId>2636671</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11929</population>
+<alternateNames>Street</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Street%2C_Somerset</alternateName>
+<alternateName lang="unlc">STE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.7615</west>
+<north>51.13821</north>
+<east>-2.7185</east>
+<south>51.11123</south>
+</bbox>
+<score>96.15762329101562</score>
+</geoname>
+<geoname>
+<toponymName>Street</toponymName>
+<name>Street</name>
+<lat>51.11898</lat>
+<lng>-2.74156</lng>
+<geonameId>7292391</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<adminCode4>40UB050</adminCode4>
+<adminName4>Street</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.77201</west>
+<north>51.14263</north>
+<east>-2.71112</east>
+<south>51.09534</south>
+</bbox>
+<score>58.27763366699219</score>
+</geoname>
+<geoname>
+<toponymName>Strete</toponymName>
+<name>Strete</name>
+<lat>50.31138</lat>
+<lng>-3.63055</lng>
+<geonameId>2636665</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Street,Strete</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UG</adminCode3>
+<adminName3>South Hams District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Strete</alternateName>
+<alternateName lang="unlc">SRZ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.64464</west>
+<north>50.32037</north>
+<east>-3.61647</east>
+<south>50.30239</south>
+</bbox>
+<score>38.99483108520508</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Penrice</toponymName>
+<name>Penrice</name>
+<lat>51.56408</lat>
+<lng>-4.17745</lng>
+<geonameId>7299730</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z1</adminCode2>
+<adminName2>Swansea</adminName2>
+<adminCode3>00NX028</adminCode3>
+<adminName3>Penrice</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.21596</west>
+<north>51.58807</north>
+<east>-4.13893</east>
+<south>51.54009</south>
+</bbox>
+<score>106.65441131591797</score>
+</geoname>
+<geoname>
+<toponymName>Penrice</toponymName>
+<name>Penrice</name>
+<lat>51.56958</lat>
+<lng>-4.17655</lng>
+<geonameId>2640417</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Penrice</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z1</adminCode2>
+<adminName2>Swansea</adminName2>
+<adminCode3>00NX028</adminCode3>
+<adminName3>Penrice</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/List_of_villages_in_Gower%23Small_communities</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.19103</west>
+<north>51.57858</north>
+<east>-4.16208</east>
+<south>51.56059</south>
+</bbox>
+<score>96.29983520507812</score>
+</geoname>
+</geonames>

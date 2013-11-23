@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Stanground</toponymName>
+<name>Stanground</name>
+<lat>52.55436</lat>
+<lng>-0.2211</lng>
+<geonameId>2637080</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K3</adminCode2>
+<adminName2>Peterborough</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>GB.ENG.K3.12UE</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stanground%2C_Peterborough</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.23589</west>
+<north>52.56335</north>
+<east>-0.2063</east>
+<south>52.54537</south>
+</bbox>
+<score>87.9583740234375</score>
+</geoname>
+</geonames>

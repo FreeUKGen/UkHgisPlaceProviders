@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llangynidr</toponymName>
+<name>Llangynidr</name>
+<lat>51.83248</lat>
+<lng>-3.27971</lng>
+<geonameId>7292194</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN066</adminCode3>
+<adminName3>Llangynidr</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.36004</west>
+<north>51.87509</north>
+<east>-3.19938</east>
+<south>51.78988</south>
+</bbox>
+<score>114.15132141113281</score>
+</geoname>
+<geoname>
+<toponymName>Llangynidr</toponymName>
+<name>Llangynidr</name>
+<lat>51.8673</lat>
+<lng>-3.22762</lng>
+<geonameId>2644003</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llangynidr</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN066</adminCode3>
+<adminName3>Llangynidr</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llangynidr</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.24219</west>
+<north>51.8763</north>
+<east>-3.21305</east>
+<south>51.85831</south>
+</bbox>
+<score>108.45050811767578</score>
+</geoname>
+</geonames>

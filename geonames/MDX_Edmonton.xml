@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Edmonton</toponymName>
+<name>Edmonton</name>
+<lat>51.62561</lat>
+<lng>-0.05798</lng>
+<geonameId>2650209</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>F3</adminCode3>
+<adminName3>Haringey</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Edmonton%2C_London</alternateName>
+<alternateName lang="unlc">EDM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.07247</west>
+<north>51.6346</north>
+<east>-0.04349</east>
+<south>51.61662</south>
+</bbox>
+<score>67.18983459472656</score>
+</geoname>
+</geonames>

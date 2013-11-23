@@ -1,0 +1,68 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1114</id>
+<name>MOLD</name>
+<container>FLINTSHIRE</container>
+<lat>53.1671932621652</lat>
+<lon>-3.13943810351763</lon>
+<gazetteerText>Mold.-- parl. bor., par., township, and market town, Flintshire, in fertile valley on river Alyn, 6 miles S. of Flint by road, and 13&#188; miles W. of Chester and 192 NW. of London by rail - par., 18,772 ac., pop. 15,363; township, 12,838 ac., pop. 13,029; parl. bor., 864 ac., pop. 5055; town, 651 ac., pop. 4320; P.O., T.O., 2 Banks. Market-days, Wednesday and Saturday. Mold is situated in a district of great mineral wealth, and in the neighbourhood are extensive collieries, lead mines, limestone quarries, mineral oilworks, and potteries. There are also in the neighbourhood many British, Roman, and other antiquities. The county assizes and quarter sessions are held at Mold. Mold is one of the Flint District of Parliamentary Boroughs, which returns 1 member. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/wal/FLN/Mold/index.html</link>
+<link>http://en.wikipedia.org/wiki/Mold,_Flintshire</link>
+<link>http://www.geonames.org/2642372</link>
+</links>
+<unit>
+   <id>10113994</id>
+   <status>Hundred</status>
+   <name>MOLD</name>
+</unit>
+<unit>
+   <id>10282640</id>
+   <status>AP/CP</status>
+   <name>MOLD</name>
+</unit>
+<unit>
+   <id>10282664</id>
+   <status>CP</status>
+   <name>MOLD RURAL</name>
+</unit>
+<unit>
+   <id>10282676</id>
+   <status>CP</status>
+   <name>MOLD URBAN</name>
+</unit>
+<unit>
+   <id>10282688</id>
+   <status>UD</status>
+   <name>MOLD URBAN</name>
+</unit>
+<unit>
+   <id>10544877</id>
+   <status></status>
+   <name>MOLD</name>
+</unit>
+<unit>
+   <id>12827775</id>
+   <status>USD</status>
+   <name>MOLD</name>
+</unit>
+<unit>
+   <id>12833570</id>
+   <status></status>
+   <name>MOLD</name>
+</unit>
+<nearByPlace>
+   <id>676</id>
+   <name>BUCKLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5096</id>
+   <name>CILCAIN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8300</id>
+   <name>NANNERCH</name>
+</nearByPlace>
+</place>
+</results>

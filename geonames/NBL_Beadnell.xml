@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Beadnell</toponymName>
+<name>Beadnell</name>
+<lat>55.54763</lat>
+<lng>-1.66927</lng>
+<geonameId>7296748</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM016</adminCode3>
+<adminName3>Beadnell</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.72108</west>
+<north>55.57878</north>
+<east>-1.61745</east>
+<south>55.51648</south>
+</bbox>
+<score>112.80574798583984</score>
+</geoname>
+<geoname>
+<toponymName>Beadnell</toponymName>
+<name>Beadnell</name>
+<lat>55.5567</lat>
+<lng>-1.6325</lng>
+<geonameId>2656119</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM016</adminCode3>
+<adminName3>Beadnell</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Beadnell</alternateName>
+<alternateName lang="unlc">BQX</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.66432</west>
+<north>55.57469</north>
+<east>-1.60068</east>
+<south>55.53871</south>
+</bbox>
+<score>73.42448425292969</score>
+</geoname>
+</geonames>

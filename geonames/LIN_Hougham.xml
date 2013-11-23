@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Hougham</toponymName>
+<name>Hougham</name>
+<lat>52.99061</lat>
+<lng>-0.67875</lng>
+<geonameId>2646533</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hougham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hougham%2C_Lincolnshire</alternateName>
+<alternateName lang="unlc">HGX</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.69369</west>
+<north>52.9996</north>
+<east>-0.66381</east>
+<south>52.98162</south>
+</bbox>
+<score>87.51606750488281</score>
+</geoname>
+<geoname>
+<toponymName>Hougham</toponymName>
+<name>Hougham</name>
+<lat>51.11301</lat>
+<lng>1.24729</lng>
+<geonameId>2646534</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UE</adminCode3>
+<adminName3>Dover District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hougham_Without</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.23296</west>
+<north>51.122</north>
+<east>1.26162</east>
+<south>51.10401</south>
+</bbox>
+<score>84.4771728515625</score>
+</geoname>
+<geoname>
+<toponymName>Hougham</toponymName>
+<name>Hougham</name>
+<lat>52.99371</lat>
+<lng>-0.67311</lng>
+<geonameId>7301789</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<adminCode4>32UG045</adminCode4>
+<adminName4>Hougham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.7111</west>
+<north>53.01209</north>
+<east>-0.63513</east>
+<south>52.97533</south>
+</bbox>
+<score>81.00350952148438</score>
+</geoname>
+</geonames>

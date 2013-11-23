@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ilston</toponymName>
+<name>Ilston</name>
+<lat>51.59075</lat>
+<lng>-4.10805</lng>
+<geonameId>7301675</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z1</adminCode2>
+<adminName2>Swansea</adminName2>
+<adminCode3>00NX012</adminCode3>
+<adminName3>Ilston</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.16601</west>
+<north>51.61673</north>
+<east>-4.05009</east>
+<south>51.56477</south>
+</bbox>
+<score>113.58248138427734</score>
+</geoname>
+<geoname>
+<toponymName>Ilston</toponymName>
+<name>Ilston</name>
+<lat>51.60691</lat>
+<lng>-4.08364</lng>
+<geonameId>3345237</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ilston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z1</adminCode2>
+<adminName2>Swansea</adminName2>
+<adminCode3>00NX012</adminCode3>
+<adminName3>Ilston</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/List_of_villages_in_Gower%23Ilston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.09813</west>
+<north>51.6159</north>
+<east>-4.06916</east>
+<south>51.59791</south>
+</bbox>
+<score>101.91663360595703</score>
+</geoname>
+</geonames>

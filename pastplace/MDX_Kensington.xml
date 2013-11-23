@@ -1,0 +1,257 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>581</id>
+<name>KENSINGTON</name>
+<container>MIDDLESEX</container>
+<lat>51.5000040798941</lat>
+<lon>-0.191733072541316</lon>
+<gazetteerText>Kensington.-- parl. bor. and par. with ry. sta., Middlesex, in W. of London, 2190 ac., pop. 163,151; contains the South Kensington Museum, the gardens of the Horticultural Society, the Kensington Gardens (300 acres), which extend to Hyde Park, and Kensington Palace (the property of the Crown since the time of William III.), in which Queen Victoria was born. Kensington parl. bor. is divided into 2 divisions - viz., North and South-1 member for each division; it was made a parl. bor. in 1885. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://homepages.gold.ac.uk/genuki/MDX/Kensington/index.html</link>
+<link>http://www.workhouses.org.uk/Kensington</link>
+<link>http://en.wikipedia.org/wiki/Kensington</link>
+<link>http://www.geonames.org/2645801</link>
+</links>
+<unit>
+   <id>10130487</id>
+   <status>EP</status>
+   <name>KENSINGTON ST MARY ABBOTS WITH ST GEORGE</name>
+</unit>
+<unit>
+   <id>10071320</id>
+   <status>EP</status>
+   <name>KENSINGTON ST CUTHBERT EARLS COURT</name>
+</unit>
+<unit>
+   <id>10539705</id>
+   <status></status>
+   <name>KENSINGTON NORTH</name>
+</unit>
+<unit>
+   <id>10085573</id>
+   <status></status>
+   <name>KENSINGTON AND CHELSEA</name>
+</unit>
+<unit>
+   <id>10584036</id>
+   <status></status>
+   <name>KENSINGTON TOWN</name>
+</unit>
+<unit>
+   <id>12780941</id>
+   <status></status>
+   <name>LONDON/KENSINGTON</name>
+</unit>
+<unit>
+   <id>10477013</id>
+   <status>RegD</status>
+   <name>KENSINGTON</name>
+</unit>
+<unit>
+   <id>10539717</id>
+   <status></status>
+   <name>KENSINGTON SOUTH</name>
+</unit>
+<unit>
+   <id>12828342</id>
+   <status>Lon_SDist</status>
+   <name>KENSINGTON</name>
+</unit>
+<unit>
+   <id>10099043</id>
+   <status>EP</status>
+   <name>KENSINGTON ST MATTHIAS EARLS COURT</name>
+</unit>
+<unit>
+   <id>10164631</id>
+   <status>EP</status>
+   <name>KENSINGTON</name>
+</unit>
+<unit>
+   <id>10094963</id>
+   <status>EP</status>
+   <name>KENSINGTON ST HELEN WITH HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10061532</id>
+   <status>LB</status>
+   <name>KENSINGTON AND CHELSEA</name>
+</unit>
+<unit>
+   <id>10086462</id>
+   <status>AP/CP/Vest</status>
+   <name>KENSINGTON</name>
+</unit>
+<unit>
+   <id>12740918</id>
+   <status>PBDivCon/BCon</status>
+   <name>KENSINGTON NORTH</name>
+</unit>
+<unit>
+   <id>10108044</id>
+   <status>MetB</status>
+   <name>KENSINGTON</name>
+</unit>
+<unit>
+   <id>12746143</id>
+   <status>BCon</status>
+   <name>KENSINGTON AND CHELSEA KENSINGTON</name>
+</unit>
+<unit>
+   <id>12747998</id>
+   <status>BCon</status>
+   <name>KENSINGTON AND CHELSEA CHELSEA</name>
+</unit>
+<unit>
+   <id>12746131</id>
+   <status>BCon</status>
+   <name>KENSINGTON</name>
+</unit>
+<unit>
+   <id>12737105</id>
+   <status>BCon</status>
+   <name>KENSINGTON AND CHELSEA</name>
+</unit>
+<unit>
+   <id>10111729</id>
+   <status>RegD/PLPar/PLU</status>
+   <name>KENSINGTON</name>
+</unit>
+<unit>
+   <id>10539729</id>
+   <status></status>
+   <name>KENSINGTON CENTRAL</name>
+</unit>
+<unit>
+   <id>12830658</id>
+   <status></status>
+   <name>KENSINGTON</name>
+</unit>
+<unit>
+   <id>10184058</id>
+   <status>EP</status>
+   <name>KENSINGTON ST JOHN THE BAPTIST HOLLAND ROAD</name>
+</unit>
+<unit>
+   <id>10583354</id>
+   <status></status>
+   <name>KENSINGTON</name>
+</unit>
+<unit>
+   <id>10164850</id>
+   <status>EP</status>
+   <name>KENSINGTON ST CLEMENT</name>
+</unit>
+<unit>
+   <id>10021066</id>
+   <status>EP</status>
+   <name>KENSINGTON ST BARNABAS</name>
+</unit>
+<unit>
+   <id>10021078</id>
+   <status>EP</status>
+   <name>KENSINGTON ST PHILIP EARLS COURT</name>
+</unit>
+<nearByPlace>
+   <id>166</id>
+   <name>CHELSEA</name>
+</nearByPlace>
+<nearByPlace>
+   <id>169</id>
+   <name>PADDINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>170</id>
+   <name>ACTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>171</id>
+   <name>CHISWICK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>284</id>
+   <name>FULHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>383</id>
+   <name>BARNES</name>
+</nearByPlace>
+<nearByPlace>
+   <id>714</id>
+   <name>HAMMERSMITH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>716</id>
+   <name>WESTMINSTER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1143</id>
+   <name>BRENTFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3128</id>
+   <name>ST GILES</name>
+</nearByPlace>
+</place>
+<place>
+<id>23732</id>
+<name>SOUTH KENSINGTON</name>
+<container>MIDDLESEX</container>
+<lat>51.4933998948991</lat>
+<lon>-0.171823950087384</lon>
+<gazetteerText>South Kensington, dist. and ry. sta., Kensington par., Middlesex, pop. 9107; the sta. is 1&#189; mile W. of Victoria Station. The South Kensington Museum of Science and Art stands upon 12 acres of land, and was founded in 1855; the present buildings were commenced 10 years later. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/South_Kensington</link>
+<link>http://www.geonames.org/2637395</link>
+</links>
+<unit>
+   <id>10020608</id>
+   <status>EP</status>
+   <name>KENSINGTON GORE</name>
+</unit>
+<unit>
+   <id>10071598</id>
+   <status>EP</status>
+   <name>SOUTH KENSINGTON ST JUDE</name>
+</unit>
+<unit>
+   <id>10071872</id>
+   <status>EP</status>
+   <name>SOUTH KENSINGTON HOLY TRINITY WITH ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10083930</id>
+   <status>EP</status>
+   <name>SOUTH KENSINGTON ST AUGUSTINE</name>
+</unit>
+<unit>
+   <id>10097174</id>
+   <status>EP</status>
+   <name>SOUTH KENSINGTON ST PETER</name>
+</unit>
+<unit>
+   <id>10129977</id>
+   <status>EP</status>
+   <name>SOUTH KENSINGTON ST LUKE</name>
+</unit>
+<unit>
+   <id>10183790</id>
+   <status>EP</status>
+   <name>SOUTH KENSINGTON ST STEPHEN</name>
+</unit>
+<unit>
+   <id>12754000</id>
+   <status>PBDivCon/BCon</status>
+   <name>KENSINGTON SOUTH</name>
+</unit>
+</place>
+<place>
+<id>23948</id>
+<name>KENSINGTON GRAVEL PITS</name>
+<container>MIDDLESEX</container>
+<lat>51.5108340969903</lat>
+<lon>-0.194186810483782</lon>
+<gazetteerText>KENSINGTON-GRAVEL-PITS, a metropolitan suburb in Kensington parish, Middlesex; 1 mile NNE of Kensington Town. It was originally a place of gravelpits; and it passed through the stage of a hamlet to its present condition. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+</place>
+</results>

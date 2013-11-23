@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Ingham</toponymName>
+<name>Ingham</name>
+<lat>53.33333</lat>
+<lng>-0.58333</lng>
+<geonameId>2646212</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ingham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ingham%2C_Lincolnshire</alternateName>
+<alternateName lang="unlc">ING</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.5984</west>
+<north>53.34233</north>
+<east>-0.56827</east>
+<south>53.32434</south>
+</bbox>
+<score>79.10343170166016</score>
+</geoname>
+<geoname>
+<toponymName>Ingham</toponymName>
+<name>Ingham</name>
+<lat>52.30418</lat>
+<lng>0.71995</lng>
+<geonameId>2646213</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UF</adminCode3>
+<adminName3>St. Edmundsbury District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ingham%2C_Suffolk</alternateName>
+<alternateName lang="unlc">IHM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.70524</west>
+<north>52.31317</north>
+<east>0.73466</east>
+<south>52.29518</south>
+</bbox>
+<score>76.62376403808594</score>
+</geoname>
+<geoname>
+<toponymName>Ingham</toponymName>
+<name>Ingham</name>
+<lat>52.31962</lat>
+<lng>0.71837</lng>
+<geonameId>7297319</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UF</adminCode3>
+<adminName3>St. Edmundsbury District</adminName3>
+<adminCode4>42UF044</adminCode4>
+<adminName4>Ingham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.69829</west>
+<north>52.34784</north>
+<east>0.73845</east>
+<south>52.2914</south>
+</bbox>
+<score>71.21636962890625</score>
+</geoname>
+<geoname>
+<toponymName>Ingham</toponymName>
+<name>Ingham</name>
+<lat>53.34281</lat>
+<lng>-0.58002</lng>
+<geonameId>7301803</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<adminCode4>32UH050</adminCode4>
+<adminName4>Ingham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.61627</west>
+<north>53.35337</north>
+<east>-0.54378</east>
+<south>53.33225</south>
+</bbox>
+<score>71.21636962890625</score>
+</geoname>
+<geoname>
+<toponymName>Ingham</toponymName>
+<name>Ingham</name>
+<lat>52.78062</lat>
+<lng>1.55274</lng>
+<geonameId>7298998</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF053</adminCode4>
+<adminName4>Ingham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ingham%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.52477</west>
+<north>52.792</north>
+<east>1.58071</east>
+<south>52.76924</south>
+</bbox>
+<score>50.171791076660156</score>
+</geoname>
+</geonames>

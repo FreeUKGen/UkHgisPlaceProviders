@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Goathurst</toponymName>
+<name>Goathurst</name>
+<lat>51.10278</lat>
+<lng>-3.06472</lng>
+<geonameId>2648378</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Goathurst</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.07905</west>
+<north>51.11177</north>
+<east>-3.0504</east>
+<south>51.09378</south>
+</bbox>
+<score>61.02178955078125</score>
+</geoname>
+<geoname>
+<toponymName>Goathurst</toponymName>
+<name>Goathurst</name>
+<lat>51.10231</lat>
+<lng>-3.06177</lng>
+<geonameId>7297202</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<adminCode4>40UC028</adminCode4>
+<adminName4>Goathurst</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Goathurst</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.08536</west>
+<north>51.11816</north>
+<east>-3.03818</east>
+<south>51.08647</south>
+</bbox>
+<score>60.419189453125</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llanfihangel Aberbythych</toponymName>
+<name>Llanfihangel Aberbythych</name>
+<lat>51.84349</lat>
+<lng>-4.0535</lng>
+<geonameId>7301146</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU035</adminCode3>
+<adminName3>Llanfihangel Aberbythych</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanfihangel_Aberbythych</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.09586</west>
+<north>51.88164</north>
+<east>-4.01115</east>
+<south>51.80535</south>
+</bbox>
+<score>75.62374877929688</score>
+</geoname>
+</geonames>

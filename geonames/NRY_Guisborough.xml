@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Guisborough</toponymName>
+<name>Guisborough</name>
+<lat>54.53563</lat>
+<lng>-1.07738</lng>
+<geonameId>7291323</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K9</adminCode2>
+<adminName2>Redcar and Cleveland</adminName2>
+<adminCode3>00EE001</adminCode3>
+<adminName3>Guisborough</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.165</west>
+<north>54.57724</north>
+<east>-0.98977</east>
+<south>54.49403</south>
+</bbox>
+<score>95.6242446899414</score>
+</geoname>
+<geoname>
+<toponymName>Guisborough</toponymName>
+<name>Guisborough</name>
+<lat>54.53478</lat>
+<lng>-1.05606</lng>
+<geonameId>2647785</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>17569</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K9</adminCode2>
+<adminName2>Redcar and Cleveland</adminName2>
+<adminCode3>00EE001</adminCode3>
+<adminName3>Guisborough</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Guisborough</alternateName>
+<alternateName lang="unlc">GSB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.08507</west>
+<north>54.5516</north>
+<east>-1.02705</east>
+<south>54.51795</south>
+</bbox>
+<score>85.21500396728516</score>
+</geoname>
+</geonames>

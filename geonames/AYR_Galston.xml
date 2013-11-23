@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Galston</toponymName>
+<name>Galston</name>
+<lat>55.60093</lat>
+<lng>-4.38172</lng>
+<geonameId>2648909</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4902</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U4</adminCode2>
+<adminName2>East Ayrshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Galston%2C_East_Ayrshire</alternateName>
+<alternateName lang="unlc">GSN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.39764</west>
+<north>55.60992</north>
+<east>-4.36579</east>
+<south>55.59193</south>
+</bbox>
+<score>83.80292510986328</score>
+</geoname>
+</geonames>

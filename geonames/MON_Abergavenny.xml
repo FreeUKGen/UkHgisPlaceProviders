@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Abergavenny</toponymName>
+<name>Abergavenny</name>
+<lat>51.83941</lat>
+<lng>-3.03015</lng>
+<geonameId>7292342</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP001</adminCode3>
+<adminName3>Abergavenny</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.05853</west>
+<north>51.86944</north>
+<east>-3.00176</east>
+<south>51.80939</south>
+</bbox>
+<score>105.55416870117188</score>
+</geoname>
+<geoname>
+<toponymName>Abergavenny</toponymName>
+<name>Abergavenny</name>
+<lat>51.82098</lat>
+<lng>-3.01743</lng>
+<geonameId>2657815</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>14211</population>
+<alternateNames>Abergavenis,Abergavenni,Abergavenny,Abergejvenni,Aburgaveni,Gobannium,Y Fenni,ebargaveni,Абергавенни,Абергейвенні,Абъргавени,एबर्गावेनी</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP001</adminCode3>
+<adminName3>Abergavenny</adminName3>
+<alternateName lang="bg">Абъргавени</alternateName>
+<alternateName lang="cy">Y Fenni</alternateName>
+<alternateName lang="en">Abergavenny</alternateName>
+<alternateName lang="hi">एबर्गावेनी</alternateName>
+<alternateName lang="la">Gobannium</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Abergavenny</alternateName>
+<alternateName lang="lt">Abergavenis</alternateName>
+<alternateName lang="post">NP7</alternateName>
+<alternateName lang="ru">Абергавенни</alternateName>
+<alternateName lang="uk">Абергейвенні</alternateName>
+<alternateName lang="unlc">AGY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.04157</west>
+<north>51.8359</north>
+<east>-2.9933</east>
+<south>51.80607</south>
+</bbox>
+<score>99.53395080566406</score>
+</geoname>
+</geonames>

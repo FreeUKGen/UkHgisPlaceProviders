@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Tatenhill</toponymName>
+<name>Tatenhill</name>
+<lat>52.79159</lat>
+<lng>-1.69954</lng>
+<geonameId>2636186</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Tatenhill</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UC</adminCode3>
+<adminName3>East Staffordshire</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.71441</west>
+<north>52.80058</north>
+<east>-1.68466</east>
+<south>52.7826</south>
+</bbox>
+<score>58.394630432128906</score>
+</geoname>
+<geoname>
+<toponymName>Tatenhill</toponymName>
+<name>Tatenhill</name>
+<lat>52.80109</lat>
+<lng>-1.73061</lng>
+<geonameId>7301266</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UC</adminCode3>
+<adminName3>East Staffordshire</adminName3>
+<adminCode4>41UC025</adminCode4>
+<adminName4>Tatenhill</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tatenhill</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.78156</west>
+<north>52.82043</north>
+<east>-1.67965</east>
+<south>52.78175</south>
+</bbox>
+<score>57.81797409057617</score>
+</geoname>
+</geonames>

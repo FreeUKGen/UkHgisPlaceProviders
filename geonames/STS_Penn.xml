@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Penn</toponymName>
+<name>Penn</name>
+<lat>51.63123</lat>
+<lng>-0.6769</lng>
+<geonameId>2640448</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Penn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UF</adminCode3>
+<adminName3>Wycombe</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Penn%2C_Buckinghamshire</alternateName>
+<alternateName lang="unlc">PNN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.6914</west>
+<north>51.64022</north>
+<east>-0.66241</east>
+<south>51.62224</south>
+</bbox>
+<score>77.64775848388672</score>
+</geoname>
+<geoname>
+<toponymName>Penn</toponymName>
+<name>Penn</name>
+<lat>51.63482</lat>
+<lng>-0.66792</lng>
+<geonameId>7292885</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UC</adminCode3>
+<adminName3>Chiltern District</adminName3>
+<adminCode4>11UC014</adminCode4>
+<adminName4>Penn</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.69734</west>
+<north>51.66179</north>
+<east>-0.63851</east>
+<south>51.60785</south>
+</bbox>
+<score>67.99568176269531</score>
+</geoname>
+</geonames>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Welford</toponymName>
+<name>Welford</name>
+<lat>51.44277</lat>
+<lng>-1.41736</lng>
+<geonameId>7297455</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P4</adminCode2>
+<adminName2>West Berkshire</adminName2>
+<adminCode3>00MB055</adminCode3>
+<adminName3>Welford</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.45762</west>
+<north>51.48222</north>
+<east>-1.3771</east>
+<south>51.40333</south>
+</bbox>
+<score>95.958740234375</score>
+</geoname>
+<geoname>
+<toponymName>Welford</toponymName>
+<name>Welford</name>
+<lat>52.41667</lat>
+<lng>-1.05</lng>
+<geonameId>2634589</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Welford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Welford%2C_Northamptonshire</alternateName>
+<alternateName lang="unlc">WLD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.06475</west>
+<north>52.42566</north>
+<east>-1.03525</east>
+<south>52.40767</south>
+</bbox>
+<score>75.63984680175781</score>
+</geoname>
+<geoname>
+<toponymName>Welford</toponymName>
+<name>Welford</name>
+<lat>51.45727</lat>
+<lng>-1.41131</lng>
+<geonameId>2634590</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Welford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P4</adminCode2>
+<adminName2>West Berkshire</adminName2>
+<adminCode3>00MB055</adminCode3>
+<adminName3>Welford</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Welford%2C_Berkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.44019</west>
+<north>51.47526</north>
+<east>-1.38244</east>
+<south>51.43928</south>
+</bbox>
+<score>70.44251251220703</score>
+</geoname>
+<geoname>
+<toponymName>Welford</toponymName>
+<name>Welford</name>
+<lat>52.41547</lat>
+<lng>-1.06571</lng>
+<geonameId>7295720</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<adminCode4>34UC068</adminCode4>
+<adminName4>Welford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.10198</west>
+<north>52.43632</north>
+<east>-1.02943</east>
+<south>52.39462</south>
+</bbox>
+<score>69.2169189453125</score>
+</geoname>
+</geonames>

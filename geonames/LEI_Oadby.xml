@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Oadby</toponymName>
+<name>Oadby</name>
+<lat>52.60621</lat>
+<lng>-1.08354</lng>
+<geonameId>2641134</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>23184</population>
+<alternateNames>Oadby</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UJ</adminCode3>
+<adminName3>Oadby and Wigston</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oadby</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.11584</west>
+<north>52.62581</north>
+<east>-1.05125</east>
+<south>52.5866</south>
+</bbox>
+<score>141.09255981445312</score>
+</geoname>
+<geoname>
+<toponymName>Oadby</toponymName>
+<name>Oadby</name>
+<lat>52.58333</lat>
+<lng>-1.08333</lng>
+<geonameId>2641135</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UJ</adminCode3>
+<adminName3>Oadby and Wigston</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.09814</west>
+<north>52.59233</north>
+<east>-1.06853</east>
+<south>52.57434</south>
+</bbox>
+<score>65.45857238769531</score>
+</geoname>
+</geonames>

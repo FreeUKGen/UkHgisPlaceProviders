@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Keighley</toponymName>
+<name>Keighley</name>
+<lat>53.86768</lat>
+<lng>-1.93194</lng>
+<geonameId>7301702</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B4</adminCode2>
+<adminName2>Bradford</adminName2>
+<adminCode3>00CX009</adminCode3>
+<adminName3>Keighley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.04613</west>
+<north>53.90654</north>
+<east>-1.81775</east>
+<south>53.82882</south>
+</bbox>
+<score>108.55265808105469</score>
+</geoname>
+<geoname>
+<toponymName>Keighley</toponymName>
+<name>Keighley</name>
+<lat>53.86791</lat>
+<lng>-1.90664</lng>
+<geonameId>2645889</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>50171</population>
+<alternateNames>Keighley,Kejli,Kitli,ji si li,kyly,Кейли,Китли,کیلی,کیگلے,基斯利</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B4</adminCode2>
+<adminName2>Bradford</adminName2>
+<adminCode3>00CX009</adminCode3>
+<adminName3>Keighley</adminName3>
+<alternateName lang="fa">کیلی</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Keighley</alternateName>
+<alternateName lang="pnb">کیگلے</alternateName>
+<alternateName lang="ru">Китли</alternateName>
+<alternateName lang="sr">Китли</alternateName>
+<alternateName lang="unlc">KEI</alternateName>
+<alternateName lang="zh">基斯利</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.95551</west>
+<north>53.89671</north>
+<east>-1.85778</east>
+<south>53.83912</south>
+</bbox>
+<score>100.867431640625</score>
+</geoname>
+</geonames>

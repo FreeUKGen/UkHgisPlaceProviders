@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Brislington</toponymName>
+<name>Brislington</name>
+<lat>51.43351</lat>
+<lng>-2.54721</lng>
+<geonameId>2654677</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B7</adminCode2>
+<adminName2>City of Bristol</adminName2>
+<adminCode3>00HD046</adminCode3>
+<adminName3>GB.ENG.B7.00HD046</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brislington</alternateName>
+<alternateName lang="unlc">BSG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.56164</west>
+<north>51.4425</north>
+<east>-2.53278</east>
+<south>51.42451</south>
+</bbox>
+<score>89.01168060302734</score>
+</geoname>
+</geonames>

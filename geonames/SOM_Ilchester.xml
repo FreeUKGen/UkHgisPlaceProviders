@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ilchester</toponymName>
+<name>Ilchester</name>
+<lat>51.00587</lat>
+<lng>-2.67981</lng>
+<geonameId>2646279</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2170</population>
+<alternateNames>Lindinis</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<alternateName lang="la">Lindinis</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ilchester</alternateName>
+<alternateName lang="unlc">ICT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.68695</west>
+<north>51.01037</north>
+<east>-2.67266</east>
+<south>51.00137</south>
+</bbox>
+<score>92.35693359375</score>
+</geoname>
+<geoname>
+<toponymName>Ilchester</toponymName>
+<name>Ilchester</name>
+<lat>51.00054</lat>
+<lng>-2.6944</lng>
+<geonameId>7294010</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD055</adminCode4>
+<adminName4>Ilchester</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.71707</west>
+<north>51.02222</north>
+<east>-2.67173</east>
+<south>50.97886</south>
+</bbox>
+<score>80.57308959960938</score>
+</geoname>
+</geonames>

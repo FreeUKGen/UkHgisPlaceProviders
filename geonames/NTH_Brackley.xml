@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Brackley</toponymName>
+<name>Brackley</name>
+<lat>52.03333</lat>
+<lng>-1.15</lng>
+<geonameId>2655012</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>13628</population>
+<alternateNames>Brackley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brackley</alternateName>
+<alternateName lang="unlc">BCK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.17425</west>
+<north>52.04825</north>
+<east>-1.12575</east>
+<south>52.01842</south>
+</bbox>
+<score>112.52384948730469</score>
+</geoname>
+<geoname>
+<toponymName>Brackley</toponymName>
+<name>Brackley</name>
+<lat>52.0372</lat>
+<lng>-1.15263</lng>
+<geonameId>7301968</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<adminCode4>34UG009</adminCode4>
+<adminName4>Brackley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.17399</west>
+<north>52.0544</north>
+<east>-1.13127</east>
+<south>52.01999</south>
+</bbox>
+<score>69.73973083496094</score>
+</geoname>
+<geoname>
+<toponymName>Brackley</toponymName>
+<name>Brackley</name>
+<lat>57.55</lat>
+<lng>-4.01667</lng>
+<geonameId>2655011</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V3</adminCode2>
+<adminName2>Highland</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.03343</west>
+<north>57.55899</north>
+<east>-3.9999</east>
+<south>57.54101</south>
+</bbox>
+<score>55.481285095214844</score>
+</geoname>
+</geonames>

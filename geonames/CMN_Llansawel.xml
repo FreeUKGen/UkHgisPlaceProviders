@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Llansawel</toponymName>
+<name>Llansawel</name>
+<lat>52.01184</lat>
+<lng>-4.02697</lng>
+<geonameId>7301151</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU053</adminCode3>
+<adminName3>Llansawel</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.09643</west>
+<north>52.0454</north>
+<east>-3.95751</east>
+<south>51.97827</south>
+</bbox>
+<score>113.17670440673828</score>
+</geoname>
+<geoname>
+<toponymName>Llansawel</toponymName>
+<name>Llansawel</name>
+<lat>52</lat>
+<lng>-4.01667</lng>
+<geonameId>2643947</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU053</adminCode3>
+<adminName3>Llansawel</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llansawel</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.04589</west>
+<north>52.01799</north>
+<east>-3.98744</east>
+<south>51.98201</south>
+</bbox>
+<score>77.7979736328125</score>
+</geoname>
+<geoname>
+<toponymName>Briton Ferry</toponymName>
+<name>Briton Ferry</name>
+<lat>51.63106</lat>
+<lng>-3.81898</lng>
+<geonameId>2654668</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>35179</population>
+<alternateNames>Briton Ferry,Llansawel</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y5</adminCode2>
+<adminName2>County Borough of Neath Port Talbot</adminName2>
+<adminCode3>00NZ006</adminCode3>
+<adminName3>Briton Ferry</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Briton_Ferry</alternateName>
+<alternateName lang="unlc">BFY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.85801</west>
+<north>51.65528</north>
+<east>-3.77995</east>
+<south>51.60685</south>
+</bbox>
+<score>71.33129119873047</score>
+</geoname>
+</geonames>

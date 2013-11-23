@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Claxton</toponymName>
+<name>Claxton</name>
+<lat>54.65111</lat>
+<lng>-1.26341</lng>
+<geonameId>7290723</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F5</adminCode2>
+<adminName2>Hartlepool</adminName2>
+<adminCode3>00EB002</adminCode3>
+<adminName3>Claxton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.28367</west>
+<north>54.66175</north>
+<east>-1.24316</east>
+<south>54.64047</south>
+</bbox>
+<score>91.6087646484375</score>
+</geoname>
+<geoname>
+<toponymName>Claxton</toponymName>
+<name>Claxton</name>
+<lat>52.56667</lat>
+<lng>1.43333</lng>
+<geonameId>2652914</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Claxton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Claxton%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.41853</west>
+<north>52.57566</north>
+<east>1.44813</east>
+<south>52.55767</south>
+</bbox>
+<score>84.54043579101562</score>
+</geoname>
+<geoname>
+<toponymName>Claxton</toponymName>
+<name>Claxton</name>
+<lat>52.58154</lat>
+<lng>1.44517</lng>
+<geonameId>7299016</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH026</adminCode4>
+<adminName4>Claxton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.42327</west>
+<north>52.59376</north>
+<east>1.46708</east>
+<south>52.56932</south>
+</bbox>
+<score>66.13169860839844</score>
+</geoname>
+<geoname>
+<toponymName>Claxton</toponymName>
+<name>Claxton</name>
+<lat>54.03135</lat>
+<lng>-0.95066</lng>
+<geonameId>7292085</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UF</adminCode3>
+<adminName3>Ryedale District</adminName3>
+<adminCode4>36UF021</adminCode4>
+<adminName4>Claxton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Claxton%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.9762</west>
+<north>54.03977</north>
+<east>-0.92512</east>
+<south>54.02292</south>
+</bbox>
+<score>46.33717346191406</score>
+</geoname>
+</geonames>

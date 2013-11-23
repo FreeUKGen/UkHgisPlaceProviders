@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Mareham on the Hill</toponymName>
+<name>Mareham on the Hill</name>
+<lat>53.19297</lat>
+<lng>-0.0757</lng>
+<geonameId>2643053</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Mareham,Mareham on the Hill</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.09072</west>
+<north>53.20197</north>
+<east>-0.06069</east>
+<south>53.18398</south>
+</bbox>
+<score>67.31573486328125</score>
+</geoname>
+<geoname>
+<toponymName>Mareham on the Hill</toponymName>
+<name>Mareham on the Hill</name>
+<lat>53.19339</lat>
+<lng>-0.06868</lng>
+<geonameId>7296427</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC105</adminCode4>
+<adminName4>Mareham on the Hill</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mareham_on_the_Hill</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.10109</west>
+<north>53.21029</north>
+<east>-0.03628</east>
+<south>53.1765</south>
+</bbox>
+<score>54.01875305175781</score>
+</geoname>
+</geonames>

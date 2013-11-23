@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ranton</toponymName>
+<name>Ranton</name>
+<lat>52.81391</lat>
+<lng>-2.21496</lng>
+<geonameId>2639637</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UG</adminCode3>
+<adminName3>Stafford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ranton%2C_Staffordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.22984</west>
+<north>52.82291</north>
+<east>-2.20007</east>
+<south>52.80492</south>
+</bbox>
+<score>75.31814575195312</score>
+</geoname>
+<geoname>
+<toponymName>Ranton</toponymName>
+<name>Ranton</name>
+<lat>52.81221</lat>
+<lng>-2.21982</lng>
+<geonameId>7292474</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UG</adminCode3>
+<adminName3>Stafford District</adminName3>
+<adminCode4>41UG026</adminCode4>
+<adminName4>Ranton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.24495</west>
+<north>52.82758</north>
+<east>-2.1947</east>
+<south>52.79684</south>
+</bbox>
+<score>72.36772155761719</score>
+</geoname>
+</geonames>

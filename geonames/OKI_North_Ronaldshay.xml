@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>North Ronaldsay</toponymName>
+<name>North Ronaldsay</name>
+<lat>59.36667</lat>
+<lng>-2.43333</lng>
+<geonameId>2641272</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>North Ronaldsay,North Ronaldshay</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V9</adminCode2>
+<adminName2>Orkney</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/North_Ronaldsay</alternateName>
+<alternateName lang="unlc">NRO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.45844</west>
+<north>59.3927</north>
+<east>-2.37972</east>
+<south>59.34933</south>
+</bbox>
+<score>69.83366394042969</score>
+</geoname>
+</geonames>

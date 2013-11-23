@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Merrington</toponymName>
+<name>Merrington</name>
+<lat>52.78231</lat>
+<lng>-2.78472</lng>
+<geonameId>2642722</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG143</adminCode3>
+<adminName3>Pimhill</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Merrington%2C_Shropshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.79959</west>
+<north>52.7913</north>
+<east>-2.76984</east>
+<south>52.77331</south>
+</bbox>
+<score>85.71125793457031</score>
+</geoname>
+</geonames>

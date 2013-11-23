@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Johnston</toponymName>
+<name>Johnston</name>
+<lat>51.75958</lat>
+<lng>-4.99578</lng>
+<geonameId>7297130</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS027</adminCode3>
+<adminName3>Johnston</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.01295</west>
+<north>51.77718</north>
+<east>-4.97861</east>
+<south>51.74197</south>
+</bbox>
+<score>84.46678161621094</score>
+</geoname>
+<geoname>
+<toponymName>Johnston</toponymName>
+<name>Johnston</name>
+<lat>51.75556</lat>
+<lng>-4.99667</lng>
+<geonameId>2645952</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>1798</population>
+<alternateNames>Johnston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS027</adminCode3>
+<adminName3>Johnston</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Johnston%2C_Pembrokeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.00393</west>
+<north>51.76005</north>
+<east>-4.9894</east>
+<south>51.75106</south>
+</bbox>
+<score>80.30329895019531</score>
+</geoname>
+</geonames>

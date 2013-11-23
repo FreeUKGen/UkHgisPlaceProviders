@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Standish</toponymName>
+<name>Standish</name>
+<lat>53.58333</lat>
+<lng>-2.66667</lng>
+<geonameId>2637096</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Standish</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P7</adminCode2>
+<adminName2>Wigan</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Standish%2C_Greater_Manchester</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.68182</west>
+<north>53.59233</north>
+<east>-2.65151</east>
+<south>53.57434</south>
+</bbox>
+<score>92.55217742919922</score>
+</geoname>
+<geoname>
+<toponymName>Standish</toponymName>
+<name>Standish</name>
+<lat>51.76667</lat>
+<lng>-2.28333</lng>
+<geonameId>2637097</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Standish</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UF</adminCode3>
+<adminName3>Stroud</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Standish%2C_Gloucestershire</alternateName>
+<alternateName lang="unlc">SAH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.29787</west>
+<north>51.77566</north>
+<east>-2.2688</east>
+<south>51.75767</south>
+</bbox>
+<score>80.07861328125</score>
+</geoname>
+<geoname>
+<toponymName>Standish</toponymName>
+<name>Standish</name>
+<lat>51.77149</lat>
+<lng>-2.27368</lng>
+<geonameId>7290792</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UF</adminCode3>
+<adminName3>Stroud</adminName3>
+<adminCode4>23UF042</adminCode4>
+<adminName4>Standish</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.31099</west>
+<north>51.78915</north>
+<east>-2.23637</east>
+<south>51.75382</south>
+</bbox>
+<score>71.89592742919922</score>
+</geoname>
+</geonames>

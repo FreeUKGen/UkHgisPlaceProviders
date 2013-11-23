@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llanthony</toponymName>
+<name>Llanthony</name>
+<lat>51.94316</lat>
+<lng>-3.03815</lng>
+<geonameId>2643939</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanthony</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP005</adminCode3>
+<adminName3>Crucorney</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanthony</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.05274</west>
+<north>51.95216</north>
+<east>-3.02356</east>
+<south>51.93417</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+</geonames>

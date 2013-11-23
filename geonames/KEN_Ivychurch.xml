@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ivychurch</toponymName>
+<name>Ivychurch</name>
+<lat>51.01278</lat>
+<lng>0.88886</lng>
+<geonameId>2645987</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>6945806</adminCode3>
+<adminName3>Shepway District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ivychurch</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.87456</west>
+<north>51.02178</north>
+<east>0.90316</east>
+<south>51.00379</south>
+</bbox>
+<score>88.77629852294922</score>
+</geoname>
+<geoname>
+<toponymName>Ivychurch</toponymName>
+<name>Ivychurch</name>
+<lat>50.98582</lat>
+<lng>0.85205</lng>
+<geonameId>7290814</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>79.16693115234375</score>
+</geoname>
+</geonames>

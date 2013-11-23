@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Altham</toponymName>
+<name>Altham</name>
+<lat>53.77654</lat>
+<lng>-2.37326</lng>
+<geonameId>2657418</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Altham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UG</adminCode3>
+<adminName3>Hyndburn District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Altham%2C_Lancashire</alternateName>
+<alternateName lang="unlc">AHM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.38848</west>
+<north>53.78554</north>
+<east>-2.35804</east>
+<south>53.76755</south>
+</bbox>
+<score>79.46903228759766</score>
+</geoname>
+<geoname>
+<toponymName>Altham</toponymName>
+<name>Altham</name>
+<lat>53.78116</lat>
+<lng>-2.35664</lng>
+<geonameId>7295349</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UG</adminCode3>
+<adminName3>Hyndburn District</adminName3>
+<adminCode4>30UG001</adminCode4>
+<adminName4>Altham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.37776</west>
+<north>53.79782</north>
+<east>-2.33552</east>
+<south>53.7645</south>
+</bbox>
+<score>73.52242279052734</score>
+</geoname>
+</geonames>

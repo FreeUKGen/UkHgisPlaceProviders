@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Stockton-on-Tees</toponymName>
+<name>Stockton on Tees</name>
+<lat>54.56848</lat>
+<lng>-1.3187</lng>
+<geonameId>2636876</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>79957</population>
+<alternateNames>Stockton,Stockton on Tees,Stockton-on-Tees,Stokton na Tizu,Stokton-on-Tis,Stoktun on Tijs,astaktwn-an-tyz,Стоктон на Тизу,Стоктон-он-Тис,Стоктън он Тийс,استاکتون-آن-تیز,ストックトン・オン・ティーズ</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N3</adminCode2>
+<adminName2>Stockton-on-Tees</adminName2>
+<alternateName lang="bg">Стоктън он Тийс</alternateName>
+<alternateName lang="de">Stockton-on-Tees</alternateName>
+<alternateName lang="en">Stockton on Tees</alternateName>
+<alternateName lang="eo">Stockton-on-Tees</alternateName>
+<alternateName lang="fa">استاکتون-آن-تیز</alternateName>
+<alternateName lang="fi">Stockton-on-Tees</alternateName>
+<alternateName lang="fr">Stockton-on-Tees</alternateName>
+<alternateName lang="ja">ストックトン・オン・ティーズ</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stockton-on-Tees</alternateName>
+<alternateName lang="pt">Stockton-on-Tees</alternateName>
+<alternateName lang="ru">Стоктон-он-Тис</alternateName>
+<alternateName lang="sr">Стоктон на Тизу</alternateName>
+<alternateName lang="sv">Stockton-on-Tees</alternateName>
+<alternateName lang="unlc">STT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.38178</west>
+<north>54.60501</north>
+<east>-1.25563</east>
+<south>54.53195</south>
+</bbox>
+<score>152.6891326904297</score>
+</geoname>
+<geoname>
+<toponymName>Borough of Stockton-on-Tees</toponymName>
+<name>Borough of Stockton-on-Tees</name>
+<lat>54.55</lat>
+<lng>-1.33333</lng>
+<geonameId>3333203</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>STT,Stockton-on-Tees</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N3</adminCode2>
+<adminName2>Stockton-on-Tees</adminName2>
+<alternateName lang="abbr">STT</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stockton-on-Tees_(borough)</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.45263</west>
+<north>54.64528</north>
+<east>-1.15355</east>
+<south>54.46414</south>
+</bbox>
+<score>83.652099609375</score>
+</geoname>
+</geonames>

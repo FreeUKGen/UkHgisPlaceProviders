@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llantwit Fardre</toponymName>
+<name>Llantwit Fardre</name>
+<lat>51.5546</lat>
+<lng>-3.33241</lng>
+<geonameId>2643934</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3992</population>
+<alternateNames>Llanilltud Faerdref,Llantwit Fardre,Llantwitt-fardre,Llantwitvairdre</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y9</adminCode2>
+<adminName2>County Borough of Rhondda Cynon Taff</adminName2>
+<adminCode3>00PF013</adminCode3>
+<adminName3>Llantwit Fardre</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llantwit_Fardre</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.34494</west>
+<north>51.56239</north>
+<east>-3.31988</east>
+<south>51.54681</south>
+</bbox>
+<score>105.44158935546875</score>
+</geoname>
+<geoname>
+<toponymName>Llantwit Fardre</toponymName>
+<name>Llantwit Fardre</name>
+<lat>51.55856</lat>
+<lng>-3.31258</lng>
+<geonameId>7301037</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y9</adminCode2>
+<adminName2>County Borough of Rhondda Cynon Taff</adminName2>
+<adminCode3>00PF013</adminCode3>
+<adminName3>Llantwit Fardre</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.35396</west>
+<north>51.58179</north>
+<east>-3.27119</east>
+<south>51.53533</south>
+</bbox>
+<score>93.72003173828125</score>
+</geoname>
+</geonames>

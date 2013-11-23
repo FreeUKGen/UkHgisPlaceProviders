@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Castlemartin</toponymName>
+<name>Castlemartin</name>
+<lat>51.6338</lat>
+<lng>-5.01635</lng>
+<geonameId>7292300</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS010</adminCode3>
+<adminName3>Castlemartin</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.06403</west>
+<north>51.65921</north>
+<east>-4.96866</east>
+<south>51.60839</south>
+</bbox>
+<score>110.93252563476562</score>
+</geoname>
+<geoname>
+<toponymName>Castlemartin</toponymName>
+<name>Castlemartin</name>
+<lat>51.64528</lat>
+<lng>-5.01694</lng>
+<geonameId>2653568</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Castlemartin</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS010</adminCode3>
+<adminName3>Castlemartin</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Castlemartin_%28hundred%29</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.04594</west>
+<north>51.66327</north>
+<east>-4.98795</east>
+<south>51.62729</south>
+</bbox>
+<score>80.30908203125</score>
+</geoname>
+</geonames>

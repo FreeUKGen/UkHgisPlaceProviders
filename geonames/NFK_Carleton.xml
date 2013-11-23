@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Carleton</toponymName>
+<name>Carleton</name>
+<lat>53.93333</lat>
+<lng>-2.05</lng>
+<geonameId>2653780</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Carleton,Carlton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UB</adminCode3>
+<adminName3>Craven District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Carleton%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.06528</west>
+<north>53.94233</north>
+<east>-2.03472</east>
+<south>53.92434</south>
+</bbox>
+<score>74.11587524414062</score>
+</geoname>
+<geoname>
+<toponymName>Carleton</toponymName>
+<name>Carleton</name>
+<lat>54.7</lat>
+<lng>-4.5</lng>
+<geonameId>2653779</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Carleton,Carlton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.51557</west>
+<north>54.70899</north>
+<east>-4.48443</east>
+<south>54.69101</south>
+</bbox>
+<score>64.66091918945312</score>
+</geoname>
+<geoname>
+<toponymName>Carleton</toponymName>
+<name>Carleton</name>
+<lat>53.93751</lat>
+<lng>-2.05427</lng>
+<geonameId>7300707</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UB</adminCode3>
+<adminName3>Craven District</adminName3>
+<adminCode4>36UB017</adminCode4>
+<adminName4>Carleton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.0877</west>
+<north>53.95953</north>
+<east>-2.02085</east>
+<south>53.91549</south>
+</bbox>
+<score>62.32978820800781</score>
+</geoname>
+<geoname>
+<toponymName>Carleton</toponymName>
+<name>Carleton</name>
+<lat>53.67551</lat>
+<lng>-1.29244</lng>
+<geonameId>2653781</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O7</adminCode2>
+<adminName2>Wakefield</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.30762</west>
+<north>53.6845</north>
+<east>-1.27725</east>
+<south>53.66652</south>
+</bbox>
+<score>49.52863311767578</score>
+</geoname>
+</geonames>

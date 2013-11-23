@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Llanddeusant</toponymName>
+<name>Llanddeusant</name>
+<lat>51.891</lat>
+<lng>-3.78574</lng>
+<geonameId>7301142</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU024</adminCode3>
+<adminName3>Llanddeusant</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.85811</west>
+<north>51.94262</north>
+<east>-3.71338</east>
+<south>51.83937</south>
+</bbox>
+<score>112.42671203613281</score>
+</geoname>
+<geoname>
+<toponymName>Llanddeusant</toponymName>
+<name>Llanddeusant</name>
+<lat>53.41667</lat>
+<lng>-4.48333</lng>
+<geonameId>2644154</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanddausaint,Llanddeusant</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.49843</west>
+<north>53.42566</north>
+<east>-4.46824</east>
+<south>53.40767</south>
+</bbox>
+<score>82.38658142089844</score>
+</geoname>
+<geoname>
+<toponymName>Llanddeusant</toponymName>
+<name>Llanddeusant</name>
+<lat>51.9</lat>
+<lng>-3.78333</lng>
+<geonameId>2644155</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Llanddausaint,Llanddeusant</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU024</adminCode3>
+<adminName3>Llanddeusant</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.8125</west>
+<north>51.91799</north>
+<east>-3.75417</east>
+<south>51.88201</south>
+</bbox>
+<score>62.07415771484375</score>
+</geoname>
+</geonames>

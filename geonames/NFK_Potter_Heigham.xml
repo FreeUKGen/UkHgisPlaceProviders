@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Potter Heigham</toponymName>
+<name>Potter Heigham</name>
+<lat>52.71207</lat>
+<lng>1.57757</lng>
+<geonameId>2639973</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Potter_Heigham</alternateName>
+<alternateName lang="unlc">PHG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.56272</west>
+<north>52.72106</north>
+<east>1.59242</east>
+<south>52.70307</south>
+</bbox>
+<score>80.7634506225586</score>
+</geoname>
+<geoname>
+<toponymName>Potter Heigham</toponymName>
+<name>Potter Heigham</name>
+<lat>52.71888</lat>
+<lng>1.59106</lng>
+<geonameId>7301580</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF075</adminCode4>
+<adminName4>Potter Heigham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.55326</west>
+<north>52.73515</north>
+<east>1.62887</east>
+<south>52.70261</south>
+</bbox>
+<score>75.99678802490234</score>
+</geoname>
+</geonames>

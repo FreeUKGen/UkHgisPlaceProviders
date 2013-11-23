@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Tredunnock</toponymName>
+<name>Tredunnock</name>
+<lat>51.64858</lat>
+<lng>-2.89849</lng>
+<geonameId>2635544</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP017</adminCode3>
+<adminName3>Llanhennock</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tredunnock</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.91298</west>
+<north>51.65757</north>
+<east>-2.88399</east>
+<south>51.63959</south>
+</bbox>
+<score>95.02735900878906</score>
+</geoname>
+</geonames>

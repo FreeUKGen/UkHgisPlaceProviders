@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hinton on the Green</toponymName>
+<name>Hinton on the Green</name>
+<lat>52.06063</lat>
+<lng>-1.97064</lng>
+<geonameId>2646843</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hinton,Hinton on the Green</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.98527</west>
+<north>52.06962</north>
+<east>-1.95601</east>
+<south>52.05163</south>
+</bbox>
+<score>65.08597564697266</score>
+</geoname>
+<geoname>
+<toponymName>Hinton on the Green</toponymName>
+<name>Hinton on the Green</name>
+<lat>52.05777</lat>
+<lng>-1.96428</lng>
+<geonameId>7291732</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<adminCode4>47UF051</adminCode4>
+<adminName4>Hinton on the Green</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.00006</west>
+<north>52.07447</north>
+<east>-1.9285</east>
+<south>52.04107</south>
+</bbox>
+<score>64.77890014648438</score>
+</geoname>
+</geonames>

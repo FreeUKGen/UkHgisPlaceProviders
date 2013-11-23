@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llangan</toponymName>
+<name>Llangan</name>
+<lat>51.49544</lat>
+<lng>-3.50365</lng>
+<geonameId>7292861</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<adminCode3>00PD010</adminCode3>
+<adminName3>Llangan</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.53943</west>
+<north>51.51534</north>
+<east>-3.46786</east>
+<south>51.47553</south>
+</bbox>
+<score>105.80110931396484</score>
+</geoname>
+<geoname>
+<toponymName>Llangan</toponymName>
+<name>Llangan</name>
+<lat>51.48694</lat>
+<lng>-3.50056</lng>
+<geonameId>2644044</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<adminCode3>00PD010</adminCode3>
+<adminName3>Llangan</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llangan</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.52945</west>
+<north>51.50493</north>
+<east>-3.47166</east>
+<south>51.46896</south>
+</bbox>
+<score>72.64274597167969</score>
+</geoname>
+</geonames>

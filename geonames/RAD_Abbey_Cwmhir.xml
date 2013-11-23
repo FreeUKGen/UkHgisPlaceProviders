@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Abbey-Cwmhir</toponymName>
+<name>Abbey-Cwmhir</name>
+<lat>52.33333</lat>
+<lng>-3.4</lng>
+<geonameId>2657877</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Abbey-Cwmhir</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cwmhir_Abbey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.41472</west>
+<north>52.34233</north>
+<east>-3.38528</east>
+<south>52.32434</south>
+</bbox>
+<score>97.24069213867188</score>
+</geoname>
+<geoname>
+<toponymName>Abbey Cwmhir</toponymName>
+<name>Abbey Cwmhir</name>
+<lat>52.35383</lat>
+<lng>-3.41056</lng>
+<geonameId>7293929</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN001</adminCode3>
+<adminName3>Abbey Cwmhir</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.49026</west>
+<north>52.41113</north>
+<east>-3.33086</east>
+<south>52.29653</south>
+</bbox>
+<score>96.77093505859375</score>
+</geoname>
+</geonames>

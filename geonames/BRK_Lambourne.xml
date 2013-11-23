@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Lambourne</toponymName>
+<name>Lambourne</name>
+<lat>51.64126</lat>
+<lng>0.13274</lng>
+<geonameId>7295124</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UH</adminCode3>
+<adminName3>Epping Forest District</adminName3>
+<adminCode4>22UH008</adminCode4>
+<adminName4>Lambourne</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lambourne</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.10469</west>
+<north>51.66108</north>
+<east>0.16079</east>
+<south>51.62144</south>
+</bbox>
+<score>56.568450927734375</score>
+</geoname>
+</geonames>

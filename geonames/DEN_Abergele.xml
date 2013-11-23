@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Abergele</toponymName>
+<name>Abergele</name>
+<lat>53.28436</lat>
+<lng>-3.5822</lng>
+<geonameId>2657812</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>17769</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<adminCode3>00NE001</adminCode3>
+<adminName3>Abergele</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Abergele</alternateName>
+<alternateName lang="unlc">AEE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.61035</west>
+<north>53.30119</north>
+<east>-3.55404</east>
+<south>53.26754</south>
+</bbox>
+<score>104.83213806152344</score>
+</geoname>
+<geoname>
+<toponymName>Abergele</toponymName>
+<name>Abergele</name>
+<lat>53.28704</lat>
+<lng>-3.58086</lng>
+<geonameId>7294422</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<adminCode3>00NE001</adminCode3>
+<adminName3>Abergele</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.61804</west>
+<north>53.3028</north>
+<east>-3.51739</east>
+<south>53.25302</south>
+</bbox>
+<score>99.02409362792969</score>
+</geoname>
+</geonames>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Warrington</toponymName>
+<name>Warrington</name>
+<lat>53.39254</lat>
+<lng>-2.58024</lng>
+<geonameId>2634739</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>81238</population>
+<alternateNames>Uorrington,Vorington,Warrington,waryngtwn,wo ling dun,wolingteon,Ворингтон,Уоррингтон,وارینگتون,沃灵顿,워링턴</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P2</adminCode2>
+<adminName2>Warrington</adminName2>
+<alternateName lang="de">Warrington</alternateName>
+<alternateName lang="en">Warrington</alternateName>
+<alternateName lang="eo">Warrington</alternateName>
+<alternateName lang="fa">وارینگتون</alternateName>
+<alternateName lang="fi">Warrington</alternateName>
+<alternateName lang="fr">Warrington</alternateName>
+<alternateName lang="ko">워링턴</alternateName>
+<alternateName lang="lb">Warrington</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Warrington</alternateName>
+<alternateName lang="nl">Warrington</alternateName>
+<alternateName lang="ro">Warrington</alternateName>
+<alternateName lang="ru">Уоррингтон</alternateName>
+<alternateName lang="sk">Warrington</alternateName>
+<alternateName lang="sr">Ворингтон</alternateName>
+<alternateName lang="sv">Warrington</alternateName>
+<alternateName lang="zh">沃灵顿</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.64202</west>
+<north>53.42935</north>
+<east>-2.51846</east>
+<south>53.35573</south>
+</bbox>
+<score>139.93222045898438</score>
+</geoname>
+<geoname>
+<toponymName>Borough of Warrington</toponymName>
+<name>Borough of Warrington</name>
+<lat>53.41667</lat>
+<lng>-2.58333</lng>
+<geonameId>3333216</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>WRT,Warrington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P2</adminCode2>
+<adminName2>Warrington</adminName2>
+<alternateName lang="abbr">WRT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.69772</west>
+<north>53.48092</north>
+<east>-2.42538</east>
+<south>53.32231</south>
+</bbox>
+<score>75.07115173339844</score>
+</geoname>
+<geoname>
+<toponymName>Warrington</toponymName>
+<name>Warrington</name>
+<lat>52.17943</lat>
+<lng>-0.69622</lng>
+<geonameId>7295994</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I6</adminCode2>
+<adminName2>Milton Keynes</adminName2>
+<adminCode3>00MG033</adminCode3>
+<adminName3>Warrington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Warrington%2C_Buckinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.714</west>
+<north>52.19632</north>
+<east>-0.67844</east>
+<south>52.16254</south>
+</bbox>
+<score>54.165184020996094</score>
+</geoname>
+<geoname>
+<toponymName>Warrington</toponymName>
+<name>Warrington</name>
+<lat>52.18446</lat>
+<lng>-0.68759</lng>
+<geonameId>2634740</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I6</adminCode2>
+<adminName2>Milton Keynes</adminName2>
+<adminCode3>00MG033</adminCode3>
+<adminName3>Warrington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.71694</west>
+<north>52.20245</north>
+<east>-0.65824</east>
+<south>52.16647</south>
+</bbox>
+<score>29.83566665649414</score>
+</geoname>
+</geonames>

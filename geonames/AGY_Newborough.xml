@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Newborough</toponymName>
+<name>Newborough</name>
+<lat>52.63932</lat>
+<lng>-0.20784</lng>
+<geonameId>7293026</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K3</adminCode2>
+<adminName2>Peterborough</adminName2>
+<adminCode3>00JA014</adminCode3>
+<adminName3>Newborough</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.27461</west>
+<north>52.66805</north>
+<east>-0.14108</east>
+<south>52.6106</south>
+</bbox>
+<score>103.16273498535156</score>
+</geoname>
+<geoname>
+<toponymName>Newborough</toponymName>
+<name>Newborough</name>
+<lat>52.81667</lat>
+<lng>-1.8</lng>
+<geonameId>2641707</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Newborough</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UC</adminCode3>
+<adminName3>East Staffordshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newborough%2C_Staffordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.81488</west>
+<north>52.82566</north>
+<east>-1.78512</east>
+<south>52.80767</south>
+</bbox>
+<score>93.27237701416016</score>
+</geoname>
+<geoname>
+<toponymName>Newborough</toponymName>
+<name>Newborough</name>
+<lat>53.16667</lat>
+<lng>-4.36667</lng>
+<geonameId>2641706</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newborough%2C_Anglesey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.38167</west>
+<north>53.17566</north>
+<east>-4.35166</east>
+<south>53.15767</south>
+</bbox>
+<score>77.93336486816406</score>
+</geoname>
+<geoname>
+<toponymName>Newborough</toponymName>
+<name>Newborough</name>
+<lat>52.83252</lat>
+<lng>-1.81361</lng>
+<geonameId>7291752</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UC</adminCode3>
+<adminName3>East Staffordshire</adminName3>
+<adminCode4>41UC017</adminCode4>
+<adminName4>Newborough</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.84943</west>
+<north>52.85457</north>
+<east>-1.77778</east>
+<south>52.81047</south>
+</bbox>
+<score>74.37928009033203</score>
+</geoname>
+<geoname>
+<toponymName>Newborough</toponymName>
+<name>Newborough</name>
+<lat>52.6389</lat>
+<lng>-0.22333</lng>
+<geonameId>2641708</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K3</adminCode2>
+<adminName2>Peterborough</adminName2>
+<adminCode3>00JA014</adminCode3>
+<adminName3>Newborough</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newborough%2C_Cambridgeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.25298</west>
+<north>52.65688</north>
+<east>-0.19368</east>
+<south>52.62091</south>
+</bbox>
+<score>66.04933166503906</score>
+</geoname>
+</geonames>

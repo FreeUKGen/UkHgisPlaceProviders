@@ -1,0 +1,74 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>3159</id>
+<name>MILEHAM</name>
+<container>NORFOLK</container>
+<lat>52.7325435726351</lat>
+<lon>0.84005125934425</lon>
+<gazetteerText>MILEHAM, a parish in Mitford district, Norfolk; at the sources of the river Nar, 2&#188; miles NE by E of Litcham, and 4 NNE of Fransham r. station. Post town, Litcham, under Swaffham. Acres, 2,851. Real property, &#163;4,806. Pop., 546. Houses, 117. The manor of Mileham was given by William the Conqueror to Alan, son of Flaald; and belongs now to the Rev.B. Barnwell. The manor of Burghwood belongs to the Earl of Leicester. Remains exist of an ancient castle, supposed to have been erected by Alan, son of Flaald. The living is a rectory in the diocese of Norwich. Valne, &#163;650.* Patron, the Rev.B. Barnwell. The church is ancient; consists of nave and chancel, with a tower; and contains a brass of 1526, and monuments to the Stranges, the Barnwells, and the Davys. There are an endowed school with &#163;12 a year, and charities &#163;53. Lord Chief Justice Coke was a native. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.origins.org.uk/genuki/NFK/places/m/mileham/</link>
+<link>http://en.wikipedia.org/wiki/Mileham</link>
+<link>http://www.geonames.org/2642540</link>
+</links>
+<unit>
+   <id>10092541</id>
+   <status>CP/AP</status>
+   <name>MILEHAM</name>
+</unit>
+<nearByPlace>
+   <id>2275</id>
+   <name>STANFIELD</name>
+</nearByPlace>
+</place>
+<place>
+<id>1737</id>
+<name>BEESTON</name>
+<container>NORFOLK</container>
+<lat>52.7097853708721</lat>
+<lon>0.827898790615857</lon>
+<gazetteerText>BEESTON, or Beeston-next-Litcham, a parish in Mitford district, Norfolk; 2 miles N of Fransham r. station, and 6&#189; NE of Swaffham. It includes Little Bittering; and its Post Town is Great Dunham, under Swaffham. Acres, 2,073. Real property, &#163;4,491. Pop., 645. Houses, 140. The property is much subdivided. Beeston Hall is the seat of the Rev.B. Barnwell. The living is a rectory in the diocese of Norwich. Value, &#163;450.* Patron, the Rev.B. Barnwell. The church is very good, and has a conspicuous tower and spire. Charities, &#163;61. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2656015</link>
+<link>http://en.wikipedia.org/wiki/Beeston,_Norfolk</link>
+<link>http://www.origins.org.uk/genuki/NFK/places/b/beeston/</link>
+</links>
+<unit>
+   <id>10016241</id>
+   <status>CP</status>
+   <name>BEESTON WITH BITTERING</name>
+</unit>
+<unit>
+   <id>10090799</id>
+   <status>AP</status>
+   <name>BEESTON</name>
+</unit>
+<unit>
+   <id>10197417</id>
+   <status>EP</status>
+   <name>BEESTON</name>
+</unit>
+<unit>
+   <id>10506785</id>
+   <status></status>
+   <name>MILEHAM AND BEESTON ON THE PART OF BEESTON</name>
+</unit>
+<nearByPlace>
+   <id>2235</id>
+   <name>LITTLE FRANSHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5154</id>
+   <name>LONGHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5816</id>
+   <name>WENDLING</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6168</id>
+   <name>GREAT FRANSHAM</name>
+</nearByPlace>
+</place>
+</results>

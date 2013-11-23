@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>10</totalResultsCount>
+<geoname>
+<toponymName>Bentley</toponymName>
+<name>Bentley</name>
+<lat>53.53333</lat>
+<lng>-1.15</lng>
+<geonameId>2655882</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>34821</population>
+<alternateNames>Bentley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D5</adminCode2>
+<adminName2>Doncaster</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bentley%2C_South_Yorkshire</alternateName>
+<alternateName lang="unlc">NTY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.19077</west>
+<north>53.55755</north>
+<east>-1.10923</east>
+<south>53.50912</south>
+</bbox>
+<score>105.29557800292969</score>
+</geoname>
+<geoname>
+<toponymName>Bentley</toponymName>
+<name>Bentley</name>
+<lat>53.8</lat>
+<lng>-0.45</lng>
+<geonameId>2655881</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bentley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bentley%2C_East_Riding_of_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.46523</west>
+<north>53.80899</north>
+<east>-0.43477</east>
+<south>53.79101</south>
+</bbox>
+<score>80.36297607421875</score>
+</geoname>
+<geoname>
+<toponymName>Bentley</toponymName>
+<name>Bentley</name>
+<lat>51.19204</lat>
+<lng>-0.87504</lng>
+<geonameId>2655885</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bentley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UC</adminCode3>
+<adminName3>East Hampshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bentley%2C_Hampshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.8894</west>
+<north>51.20103</north>
+<east>-0.86069</east>
+<south>51.18305</south>
+</bbox>
+<score>80.36297607421875</score>
+</geoname>
+<geoname>
+<toponymName>Bentley</toponymName>
+<name>Bentley</name>
+<lat>51.99001</lat>
+<lng>1.07031</lng>
+<geonameId>2655884</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UB</adminCode3>
+<adminName3>Babergh District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bentley%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.0557</west>
+<north>51.999</north>
+<east>1.08492</east>
+<south>51.98101</south>
+</bbox>
+<score>67.55309295654297</score>
+</geoname>
+<geoname>
+<toponymName>Bentley</toponymName>
+<name>Bentley</name>
+<lat>51.99578</lat>
+<lng>1.08457</lng>
+<geonameId>7297885</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UB</adminCode3>
+<adminName3>Babergh District</adminName3>
+<adminCode4>42UB007</adminCode4>
+<adminName4>Bentley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.05396</west>
+<north>52.01823</north>
+<east>1.11518</east>
+<south>51.97332</south>
+</bbox>
+<score>62.108192443847656</score>
+</geoname>
+<geoname>
+<toponymName>Bentley</toponymName>
+<name>Bentley</name>
+<lat>51.19635</lat>
+<lng>-0.8698</lng>
+<geonameId>7300667</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UC</adminCode3>
+<adminName3>East Hampshire</adminName3>
+<adminCode4>24UC002</adminCode4>
+<adminName4>Bentley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.90154</west>
+<north>51.21274</north>
+<east>-0.83805</east>
+<south>51.17995</south>
+</bbox>
+<score>62.108192443847656</score>
+</geoname>
+<geoname>
+<toponymName>Bentley</toponymName>
+<name>Bentley</name>
+<lat>52.28333</lat>
+<lng>-2</lng>
+<geonameId>2655883</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UB</adminCode3>
+<adminName3>Bromsgrove District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.0147</west>
+<north>52.29233</north>
+<east>-1.9853</east>
+<south>52.27434</south>
+</bbox>
+<score>49.33470153808594</score>
+</geoname>
+<geoname>
+<toponymName>Bentley</toponymName>
+<name>Bentley</name>
+<lat>52.55009</lat>
+<lng>-1.58547</lng>
+<geonameId>7292659</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UB</adminCode3>
+<adminName3>North Warwickshire District</adminName3>
+<adminCode4>44UB008</adminCode4>
+<adminName4>Bentley</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bentley%2C_Warwickshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.61677</west>
+<north>52.56851</north>
+<east>-1.55418</east>
+<south>52.53167</south>
+</bbox>
+<score>44.278072357177734</score>
+</geoname>
+<geoname>
+<toponymName>Bentley</toponymName>
+<name>Bentley</name>
+<lat>51.181</lat>
+<lng>-0.868</lng>
+<geonameId>6952035</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>BTY</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UC</adminCode3>
+<adminName3>East Hampshire</adminName3>
+<alternateName lang="abbr">BTY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>12.773494720458984</score>
+</geoname>
+<geoname>
+<toponymName>Bentley</toponymName>
+<name>Bentley</name>
+<lat>53.544</lat>
+<lng>-1.151</lng>
+<geonameId>6952036</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>BYK</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D5</adminCode2>
+<adminName2>Doncaster</adminName2>
+<alternateName lang="abbr">BYK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>12.773494720458984</score>
+</geoname>
+</geonames>

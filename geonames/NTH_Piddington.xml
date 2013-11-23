@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Piddington</toponymName>
+<name>Piddington</name>
+<lat>52.18341</lat>
+<lng>-0.82681</lng>
+<geonameId>2640304</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Piddington%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.84148</west>
+<north>52.1924</north>
+<east>-0.81214</east>
+<south>52.17441</south>
+</bbox>
+<score>83.7223129272461</score>
+</geoname>
+<geoname>
+<toponymName>Piddington</toponymName>
+<name>Piddington</name>
+<lat>51.83333</lat>
+<lng>-1.06667</lng>
+<geonameId>2640305</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UB</adminCode3>
+<adminName3>Aylesbury Vale</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Piddington%2C_Oxfordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.08122</west>
+<north>51.84233</north>
+<east>-1.05211</east>
+<south>51.82434</south>
+</bbox>
+<score>83.7223129272461</score>
+</geoname>
+<geoname>
+<toponymName>Piddington</toponymName>
+<name>Piddington</name>
+<lat>51.85302</lat>
+<lng>-1.07191</lng>
+<geonameId>7300932</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UB</adminCode3>
+<adminName3>Cherwell District</adminName3>
+<adminCode4>38UB056</adminCode4>
+<adminName4>Piddington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.09667</west>
+<north>51.87682</north>
+<east>-1.04714</east>
+<south>51.82922</south>
+</bbox>
+<score>79.62623596191406</score>
+</geoname>
+</geonames>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Hay</toponymName>
+<name>Hay</name>
+<lat>52.07057</lat>
+<lng>-3.13204</lng>
+<geonameId>7301008</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN035</adminCode3>
+<adminName3>Hay</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.14568</west>
+<north>52.07832</north>
+<east>-3.11841</east>
+<south>52.06282</south>
+</bbox>
+<score>87.8638916015625</score>
+</geoname>
+<geoname>
+<toponymName>Hay</toponymName>
+<name>Hay-on-wye</name>
+<lat>52.07049</lat>
+<lng>-3.12741</lng>
+<geonameId>2647267</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Hay,Hay-on-wye</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN035</adminCode3>
+<adminName3>Hay</adminName3>
+<alternateName lang="en">Hay-on-wye</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hay-on-Wye</alternateName>
+<alternateName lang="unlc">XHW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.15669</west>
+<north>52.08847</north>
+<east>-3.09814</east>
+<south>52.0525</south>
+</bbox>
+<score>61.201168060302734</score>
+</geoname>
+<geoname>
+<toponymName>Hayle</toponymName>
+<name>Hayle</name>
+<lat>50.18392</lat>
+<lng>-5.42137</lng>
+<geonameId>2647258</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8019</population>
+<alternateNames>Hayle,Heyl,Khejl,Хейл</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE047</adminCode3>
+<adminName3>Hayle</adminName3>
+<alternateName lang="bg">Хейл</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hayle</alternateName>
+<alternateName lang="unlc">HAY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.43858</west>
+<north>50.19494</north>
+<east>-5.40417</east>
+<south>50.17291</south>
+</bbox>
+<score>44.6107292175293</score>
+</geoname>
+<geoname>
+<toponymName>Hayes And Harlington Railway Station</toponymName>
+<name>Hayes And Harlington Railway Station</name>
+<lat>51.502</lat>
+<lng>-0.4201</lng>
+<geonameId>6952766</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>HAY</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>F9</adminCode3>
+<adminName3>Hillingdon</adminName3>
+<alternateName lang="abbr">HAY</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hayes_and_Harlington_railway_station</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>33.87900924682617</score>
+</geoname>
+</geonames>

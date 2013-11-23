@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Norton Fitzwarren</toponymName>
+<name>Norton Fitzwarren</name>
+<lat>51.02662</lat>
+<lng>-3.15009</lng>
+<geonameId>2641189</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Norton_Fitzwarren</alternateName>
+<alternateName lang="unlc">NFZ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.16439</west>
+<north>51.03561</north>
+<east>-3.13579</east>
+<south>51.01763</south>
+</bbox>
+<score>80.3431396484375</score>
+</geoname>
+<geoname>
+<toponymName>Norton Fitzwarren</toponymName>
+<name>Norton Fitzwarren</name>
+<lat>51.03172</lat>
+<lng>-3.16115</lng>
+<geonameId>7297224</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<adminCode4>40UE027</adminCode4>
+<adminName4>Norton Fitzwarren</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.18927</west>
+<north>51.04693</north>
+<east>-3.13304</east>
+<south>51.01651</south>
+</bbox>
+<score>75.22315979003906</score>
+</geoname>
+</geonames>

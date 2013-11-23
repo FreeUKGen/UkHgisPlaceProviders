@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Peterborough</toponymName>
+<name>Peterborough</name>
+<lat>52.57364</lat>
+<lng>-0.24777</lng>
+<geonameId>2640354</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>140141</population>
+<alternateNames>Peterborough,Peterbrough,Petersborough,Petroburgum,Piterboras,Piterboro,Pīterboro,XVH,bi de bo lei,pitabara,piteobeoleo,pytrbwrw,Питерборо,Пітерборо,پیتربورو,پیٹربرا,ピーターバラ,彼得伯勒,피터버러</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K3</adminCode2>
+<adminName2>Peterborough</adminName2>
+<adminCode3>00JA016</adminCode3>
+<adminName3>Orton Longueville</adminName3>
+<alternateName lang="af">Peterborough</alternateName>
+<alternateName lang="cy">Peterborough</alternateName>
+<alternateName lang="de">Peterborough</alternateName>
+<alternateName lang="en">Peterborough</alternateName>
+<alternateName lang="eo">Peterborough</alternateName>
+<alternateName lang="es">Peterborough</alternateName>
+<alternateName lang="fa">پیتربورو</alternateName>
+<alternateName lang="fi">Peterborough</alternateName>
+<alternateName lang="fr">Peterborough</alternateName>
+<alternateName lang="iata">XVH</alternateName>
+<alternateName lang="it">Peterborough</alternateName>
+<alternateName lang="ja">ピーターバラ</alternateName>
+<alternateName lang="ko">피터버러</alternateName>
+<alternateName lang="la">Petroburgum</alternateName>
+<alternateName lang="lb">Peterborough</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Peterborough</alternateName>
+<alternateName lang="lt">Piterboras</alternateName>
+<alternateName lang="lv">Pīterboro</alternateName>
+<alternateName lang="mzn">پیتربورو</alternateName>
+<alternateName lang="nl">Peterborough</alternateName>
+<alternateName lang="no">Peterborough</alternateName>
+<alternateName lang="pl">Peterborough</alternateName>
+<alternateName lang="pnb">پیٹربرا</alternateName>
+<alternateName lang="ro">Peterborough</alternateName>
+<alternateName lang="ru">Питерборо</alternateName>
+<alternateName lang="sr">Питерборо</alternateName>
+<alternateName lang="sv">Peterborough</alternateName>
+<alternateName lang="tr">Peterborough</alternateName>
+<alternateName lang="uk">Пітерборо</alternateName>
+<alternateName lang="zh">彼得伯勒</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.32755</west>
+<north>52.62207</north>
+<east>-0.16798</east>
+<south>52.52521</south>
+</bbox>
+<score>181.93408203125</score>
+</geoname>
+<geoname>
+<toponymName>City of Peterborough</toponymName>
+<name>City of Peterborough</name>
+<lat>52.58333</lat>
+<lng>-0.25</lng>
+<geonameId>3333180</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>PTE,Peterborough</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K3</adminCode2>
+<adminName2>Peterborough</adminName2>
+<alternateName lang="abbr">PTE</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/City_of_Peterborough</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.49766</west>
+<north>52.67522</north>
+<east>-0.01277</east>
+<south>52.50609</south>
+</bbox>
+<score>67.36921691894531</score>
+</geoname>
+</geonames>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Nash</toponymName>
+<name>Nash</name>
+<lat>51.55053</lat>
+<lng>-2.95376</lng>
+<geonameId>7294300</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y6</adminCode2>
+<adminName2>City of Newport</adminName2>
+<adminCode3>00PR018</adminCode3>
+<adminName3>Nash</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.98705</west>
+<north>51.57385</north>
+<east>-2.92046</east>
+<south>51.5272</south>
+</bbox>
+<score>93.16117095947266</score>
+</geoname>
+<geoname>
+<toponymName>Nash</toponymName>
+<name>Nash</name>
+<lat>52.34643</lat>
+<lng>-2.58026</lng>
+<geonameId>7301667</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG132</adminCode3>
+<adminName3>Nash</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.61687</west>
+<north>52.36813</north>
+<east>-2.54364</east>
+<south>52.32472</south>
+</bbox>
+<score>93.16117095947266</score>
+</geoname>
+<geoname>
+<toponymName>Nash</toponymName>
+<name>Nash</name>
+<lat>52.00343</lat>
+<lng>-0.86655</lng>
+<geonameId>2641872</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Nash</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UB</adminCode3>
+<adminName3>Aylesbury Vale</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nash%2C_Buckinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.88116</west>
+<north>52.01242</north>
+<east>-0.85193</east>
+<south>51.99444</south>
+</bbox>
+<score>87.72444915771484</score>
+</geoname>
+<geoname>
+<toponymName>Nash</toponymName>
+<name>Nash</name>
+<lat>52.00122</lat>
+<lng>-0.86669</lng>
+<geonameId>7296370</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UB</adminCode3>
+<adminName3>Aylesbury Vale</adminName3>
+<adminCode4>11UB064</adminCode4>
+<adminName4>Nash</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.89109</west>
+<north>52.01267</north>
+<east>-0.84229</east>
+<south>51.98976</south>
+</bbox>
+<score>67.38667297363281</score>
+</geoname>
+<geoname>
+<toponymName>Nash</toponymName>
+<name>Nash</name>
+<lat>51.54889</lat>
+<lng>-2.94611</lng>
+<geonameId>2641873</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y6</adminCode2>
+<adminName2>City of Newport</adminName2>
+<adminCode3>00PR018</adminCode3>
+<adminName3>Nash</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.97505</west>
+<north>51.56688</north>
+<east>-2.91717</east>
+<south>51.5309</south>
+</bbox>
+<score>33.693336486816406</score>
+</geoname>
+</geonames>

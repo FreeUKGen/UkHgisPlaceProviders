@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Rothley</toponymName>
+<name>Rothley</name>
+<lat>55.19827</lat>
+<lng>-1.97588</lng>
+<geonameId>7298825</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM133</adminCode3>
+<adminName3>Rothley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.04464</west>
+<north>55.22056</north>
+<east>-1.90712</east>
+<south>55.17597</south>
+</bbox>
+<score>110.54647827148438</score>
+</geoname>
+<geoname>
+<toponymName>Rothley</toponymName>
+<name>Rothley</name>
+<lat>52.70916</lat>
+<lng>-1.13739</lng>
+<geonameId>2639076</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>Charnwood District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rothley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.15223</west>
+<north>52.71815</north>
+<east>-1.12254</east>
+<south>52.70016</south>
+</bbox>
+<score>89.73085021972656</score>
+</geoname>
+<geoname>
+<toponymName>Rothley</toponymName>
+<name>Rothley</name>
+<lat>52.71103</lat>
+<lng>-1.14636</lng>
+<geonameId>7296313</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>Charnwood District</adminName3>
+<adminCode4>31UC020</adminCode4>
+<adminName4>Rothley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.1744</west>
+<north>52.72931</north>
+<east>-1.11832</east>
+<south>52.69276</south>
+</bbox>
+<score>79.67196655273438</score>
+</geoname>
+<geoname>
+<toponymName>Rothley</toponymName>
+<name>Rothley</name>
+<lat>55.18333</lat>
+<lng>-1.91667</lng>
+<geonameId>2639075</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM133</adminCode3>
+<adminName3>Rothley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.94818</west>
+<north>55.20132</north>
+<east>-1.88515</east>
+<south>55.16535</south>
+</bbox>
+<score>39.83598327636719</score>
+</geoname>
+</geonames>

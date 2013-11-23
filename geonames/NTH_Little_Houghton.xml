@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Little Houghton</toponymName>
+<name>Little Houghton</name>
+<lat>53.55022</lat>
+<lng>-1.36251</lng>
+<geonameId>7299737</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A3</adminCode2>
+<adminName2>Barnsley</adminName2>
+<adminCode3>00CC010</adminCode3>
+<adminName3>Little Houghton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.37705</west>
+<north>53.56333</north>
+<east>-1.34796</east>
+<south>53.53711</south>
+</bbox>
+<score>85.59782409667969</score>
+</geoname>
+<geoname>
+<toponymName>Little Houghton</toponymName>
+<name>Little Houghton</name>
+<lat>53.54576</lat>
+<lng>-1.35999</lng>
+<geonameId>2644307</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A3</adminCode2>
+<adminName2>Barnsley</adminName2>
+<adminCode3>00CC010</adminCode3>
+<adminName3>Little Houghton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Little_Houghton%2C_South_Yorkshire</alternateName>
+<alternateName lang="unlc">LHG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.39027</west>
+<north>53.56375</north>
+<east>-1.3297</east>
+<south>53.52778</south>
+</bbox>
+<score>61.49906539916992</score>
+</geoname>
+<geoname>
+<toponymName>Little Houghton</toponymName>
+<name>Little Houghton</name>
+<lat>52.21975</lat>
+<lng>-0.82456</lng>
+<geonameId>7297702</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<adminCode4>34UG041</adminCode4>
+<adminName4>Little Houghton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Little_Houghton%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.84775</west>
+<north>52.24083</north>
+<east>-0.80138</east>
+<south>52.19866</south>
+</bbox>
+<score>49.199249267578125</score>
+</geoname>
+</geonames>

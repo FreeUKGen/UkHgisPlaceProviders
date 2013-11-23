@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Appleby</toponymName>
+<name>Appleby</name>
+<lat>53.611</lat>
+<lng>-0.56362</lng>
+<geonameId>7298807</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD003</adminCode3>
+<adminName3>Appleby</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.61005</west>
+<north>53.63838</north>
+<east>-0.51718</east>
+<south>53.58362</south>
+</bbox>
+<score>99.45159912109375</score>
+</geoname>
+<geoname>
+<toponymName>Appleby</toponymName>
+<name>Appleby</name>
+<lat>53.61667</lat>
+<lng>-0.56667</lng>
+<geonameId>2657240</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>2926</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD003</adminCode3>
+<adminName3>Appleby</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Appleby%2C_North_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.57739</west>
+<north>53.62303</north>
+<east>-0.55594</east>
+<south>53.61031</south>
+</bbox>
+<score>76.67936706542969</score>
+</geoname>
+<geoname>
+<toponymName>Appleby</toponymName>
+<name>Appleby</name>
+<lat>54.58333</lat>
+<lng>-2.48333</lng>
+<geonameId>2657239</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UF</adminCode3>
+<adminName3>Eden District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.49886</west>
+<north>54.59233</north>
+<east>-2.46781</east>
+<south>54.57434</south>
+</bbox>
+<score>57.092674255371094</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Barrow Gurney</toponymName>
+<name>Barrow Gurney</name>
+<lat>51.40605</lat>
+<lng>-2.68099</lng>
+<geonameId>7296937</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC004</adminCode3>
+<adminName3>Barrow Gurney</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barrow_Gurney</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.70805</west>
+<north>51.4207</north>
+<east>-2.65394</east>
+<south>51.3914</south>
+</bbox>
+<score>71.82012939453125</score>
+</geoname>
+</geonames>

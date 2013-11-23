@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bishop Sutton</toponymName>
+<name>Bishop Sutton</name>
+<lat>51.33444</lat>
+<lng>-2.59472</lng>
+<geonameId>3345404</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bishop Sutton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bishop_Sutton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.60912</west>
+<north>51.34344</north>
+<east>-2.58032</east>
+<south>51.32545</south>
+</bbox>
+<score>84.48452758789062</score>
+</geoname>
+<geoname>
+<toponymName>Bishops Sutton</toponymName>
+<name>Bishops Sutton</name>
+<lat>51.08352</lat>
+<lng>-1.13683</lng>
+<geonameId>2655561</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bishop Sutton,Bishops Sutton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UP</adminCode3>
+<adminName3>Winchester District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bishops_Sutton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.15115</west>
+<north>51.09252</north>
+<east>-1.12251</east>
+<south>51.07453</south>
+</bbox>
+<score>80.7779541015625</score>
+</geoname>
+</geonames>

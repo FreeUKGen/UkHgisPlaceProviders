@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Saxby</toponymName>
+<name>Saxby</name>
+<lat>53.36667</lat>
+<lng>-0.48333</lng>
+<geonameId>2638470</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Saxby</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saxby%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.49841</west>
+<north>53.37566</north>
+<east>-0.46826</east>
+<south>53.35767</south>
+</bbox>
+<score>96.1017837524414</score>
+</geoname>
+<geoname>
+<toponymName>Saxby</toponymName>
+<name>Saxby</name>
+<lat>53.36397</lat>
+<lng>-0.49887</lng>
+<geonameId>7299198</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<adminCode4>32UH084</adminCode4>
+<adminName4>Saxby</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.54541</west>
+<north>53.37379</north>
+<east>-0.45232</east>
+<south>53.35416</south>
+</bbox>
+<score>75.97888946533203</score>
+</geoname>
+<geoname>
+<toponymName>Saxby</toponymName>
+<name>Saxby</name>
+<lat>52.77162</lat>
+<lng>-0.78587</lng>
+<geonameId>2638471</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UG</adminCode3>
+<adminName3>Melton District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.80073</west>
+<north>52.78061</north>
+<east>-0.771</east>
+<south>52.76262</south>
+</bbox>
+<score>60.435237884521484</score>
+</geoname>
+<geoname>
+<toponymName>Saxby All Saints</toponymName>
+<name>Saxby All Saints</name>
+<lat>53.63726</lat>
+<lng>-0.503</lng>
+<geonameId>2638469</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Saxby,Saxby All Saints</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD043</adminCode3>
+<adminName3>Saxby All Saints</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saxby_All_Saints</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.51817</west>
+<north>53.64625</north>
+<east>-0.48783</east>
+<south>53.62827</south>
+</bbox>
+<score>59.24169158935547</score>
+</geoname>
+</geonames>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hounslow</toponymName>
+<name>London Borough of Hounslow</name>
+<lat>51.46839</lat>
+<lng>-0.36092</lng>
+<geonameId>2646517</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Hounslow,Hounslow keruelet,Hounslow kerület,London Borough of Hounslow,ha'unslo,hwnslw,هونسلو,हाउंस्लो</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>G1</adminCode3>
+<adminName3>Hounslow</adminName3>
+<alternateName lang="ar">هونسلو</alternateName>
+<alternateName lang="cs">Hounslow</alternateName>
+<alternateName lang="de">London Borough of Hounslow</alternateName>
+<alternateName lang="en">London Borough of Hounslow</alternateName>
+<alternateName lang="fr">Hounslow</alternateName>
+<alternateName lang="hi">हाउंस्लो</alternateName>
+<alternateName lang="hu">Hounslow kerület</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hounslow</alternateName>
+<alternateName lang="nl">Hounslow</alternateName>
+<alternateName lang="no">Hounslow</alternateName>
+<alternateName lang="ro">Hounslow</alternateName>
+<alternateName lang="unlc">HOU</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.3898</west>
+<north>51.48638</north>
+<east>-0.33203</east>
+<south>51.4504</south>
+</bbox>
+<score>75.6517333984375</score>
+</geoname>
+<geoname>
+<toponymName>Hounslow</toponymName>
+<name>Hounslow</name>
+<lat>51.4677</lat>
+<lng>-0.36469</lng>
+<geonameId>3333155</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>236800</population>
+<alternateNames>HNS,Hounslow,London Borough of Hounslow</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>G1</adminCode3>
+<adminName3>Hounslow</adminName3>
+<alternateName lang="abbr">HNS</alternateName>
+<alternateName lang="en">Hounslow</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/London_Borough_of_Hounslow</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.4615</west>
+<north>51.50285</north>
+<east>-0.24344</east>
+<south>51.42074</south>
+</bbox>
+<score>68.65240478515625</score>
+</geoname>
+</geonames>

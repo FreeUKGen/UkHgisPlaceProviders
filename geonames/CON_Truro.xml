@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Truro</toponymName>
+<name>Truro</name>
+<lat>50.26526</lat>
+<lng>-5.05436</lng>
+<geonameId>2635412</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>22044</population>
+<alternateNames>Trouro,Truro,Truru,te lu luo,teululo,to~ururo,trwrw,Τρούρο,Труро,ترورو,ٹرورو,トゥルーロ,特魯羅,트루로</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE202</adminCode3>
+<adminName3>Truro</adminName3>
+<alternateName lang="br">Truru</alternateName>
+<alternateName lang="cy">Truro</alternateName>
+<alternateName lang="de">Truro</alternateName>
+<alternateName lang="el">Τρούρο</alternateName>
+<alternateName lang="en">Truro</alternateName>
+<alternateName lang="es">Truro</alternateName>
+<alternateName lang="fa">ترورو</alternateName>
+<alternateName lang="fi">Truro</alternateName>
+<alternateName lang="fr">Truro</alternateName>
+<alternateName lang="gv">Truru</alternateName>
+<alternateName lang="ja">トゥルーロ</alternateName>
+<alternateName lang="ko">트루로</alternateName>
+<alternateName lang="kw">Truru</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Truro</alternateName>
+<alternateName lang="mzn">ترورو</alternateName>
+<alternateName lang="nl">Truro</alternateName>
+<alternateName lang="no">Truro</alternateName>
+<alternateName lang="os">Труро</alternateName>
+<alternateName lang="pnb">ٹرورو</alternateName>
+<alternateName lang="ru">Труро</alternateName>
+<alternateName lang="tr">Truro</alternateName>
+<alternateName lang="unlc">TRU</alternateName>
+<alternateName lang="zh">特魯羅</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.08422</west>
+<north>50.28434</north>
+<east>-5.02451</east>
+<south>50.24618</south>
+</bbox>
+<score>132.11048889160156</score>
+</geoname>
+<geoname>
+<toponymName>Truro</toponymName>
+<name>Truro</name>
+<lat>50.26369</lat>
+<lng>-5.05831</lng>
+<geonameId>7298372</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE202</adminCode3>
+<adminName3>Truro</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.09273</west>
+<north>50.28014</north>
+<east>-5.02389</east>
+<south>50.24724</south>
+</bbox>
+<score>99.67584228515625</score>
+</geoname>
+</geonames>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Manston</toponymName>
+<name>Manston</name>
+<lat>50.95</lat>
+<lng>-2.26667</lng>
+<geonameId>2643095</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5261</population>
+<alternateNames>Manston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UE</adminCode3>
+<adminName3>North Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Manston%2C_Dorset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.28095</west>
+<north>50.95899</north>
+<east>-2.25239</east>
+<south>50.94101</south>
+</bbox>
+<score>92.89752197265625</score>
+</geoname>
+<geoname>
+<toponymName>Manston</toponymName>
+<name>Manston</name>
+<lat>50.94086</lat>
+<lng>-2.26822</lng>
+<geonameId>7293397</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UE</adminCode3>
+<adminName3>North Dorset District</adminName3>
+<adminCode4>19UE034</adminCode4>
+<adminName4>Manston</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.29219</west>
+<north>50.9539</north>
+<east>-2.24424</east>
+<south>50.92781</south>
+</bbox>
+<score>66.60213470458984</score>
+</geoname>
+<geoname>
+<toponymName>Manston</toponymName>
+<name>Manston</name>
+<lat>51.3551</lat>
+<lng>1.35808</lng>
+<geonameId>7295907</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>66.60213470458984</score>
+</geoname>
+<geoname>
+<toponymName>Manston</toponymName>
+<name>Manston</name>
+<lat>51.35088</lat>
+<lng>1.34488</lng>
+<geonameId>2643094</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>MSE</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>2636057</adminCode3>
+<adminName3>Thanet District</adminName3>
+<alternateName lang="iata">MSE</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Manston%2C_Kent</alternateName>
+<alternateName lang="unlc">MSE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.33048</west>
+<north>51.35987</north>
+<east>1.35928</east>
+<south>51.34189</south>
+</bbox>
+<score>60.74379348754883</score>
+</geoname>
+<geoname>
+<toponymName>Manston</toponymName>
+<name>Manston</name>
+<lat>51.35</lat>
+<lng>1.35</lng>
+<geonameId>6301520</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>STNM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>meteorological station</fcodeName>
+<population/>
+<alternateNames>EGUM</alternateNames>
+<elevation>55</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>2636057</adminCode3>
+<adminName3>Thanet District</adminName3>
+<alternateName lang="icao">EGUM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>13.612653732299805</score>
+</geoname>
+</geonames>

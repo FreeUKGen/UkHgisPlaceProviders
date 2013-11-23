@@ -1,0 +1,85 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>477</id>
+<name>ETON</name>
+<container>BUCKINGHAMSHIRE</container>
+<lat>51.4942956995083</lat>
+<lon>-0.613026166944201</lon>
+<gazetteerText>Eton, town and par., on S. border of Bucks, on left bank of river Thames, opposite Windsor (with which it is connected by a bridge), and 21 miles SW. of London -- par., 786 ac. (23 water), pop. 3984; town, pop. 3464; P.O., T.O. Eton is known chiefly for its college (founded by Henry VI. in 1440), one of the great public schools, at which some of the most celebrated men of England have been educated. The original structure, begun in 1441, and finished in 1523, has received large additions during the present century. The foundation comprises a provost and 10 fellows; a head master, and a second master; and 70 &quot;collegers, &quot; or scholars on the foundation. Besides these there are between 800 and 900 &quot;oppidans, &quot; who lodge outside the college. The annual income, originally a few hundreds, is now upwards of &#163;20,000. The population of the parish includes Eton College; the entire town is included in the parliamentary limits of Windsor. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://met.open.ac.uk/genuki/big/eng/BKM/Eton/Index.html</link>
+<link>http://www.workhouses.org.uk/Eton</link>
+<link>http://www.geonames.org/2649873</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42557</link>
+</links>
+<unit>
+   <id>10028437</id>
+   <status>RSD</status>
+   <name>ETON</name>
+</unit>
+<unit>
+   <id>10065203</id>
+   <status>CP</status>
+   <name>ETON WICK</name>
+</unit>
+<unit>
+   <id>10081520</id>
+   <status>UD</status>
+   <name>ETON</name>
+</unit>
+<unit>
+   <id>10112151</id>
+   <status>RegD/PLU</status>
+   <name>ETON</name>
+</unit>
+<unit>
+   <id>10135850</id>
+   <status>RD</status>
+   <name>ETON</name>
+</unit>
+<unit>
+   <id>10176827</id>
+   <status>EP</status>
+   <name>ETON WITH BOVENEY</name>
+</unit>
+<unit>
+   <id>10194040</id>
+   <status>USD</status>
+   <name>ETON</name>
+</unit>
+<unit>
+   <id>10195962</id>
+   <status>EP</status>
+   <name>ETON</name>
+</unit>
+<unit>
+   <id>10213800</id>
+   <status>AP/CP</status>
+   <name>ETON</name>
+</unit>
+<unit>
+   <id>10552370</id>
+   <status></status>
+   <name>ETON</name>
+</unit>
+<unit>
+   <id>12736939</id>
+   <status>BCon</status>
+   <name>ETON AND SLOUGH</name>
+</unit>
+<unit>
+   <id>12752982</id>
+   <status>PDivCon</status>
+   <name>BUCKINGHAMSHIRE ETON AND SLOUGH</name>
+</unit>
+<nearByPlace>
+   <id>2146</id>
+   <name>DATCHET</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3185</id>
+   <name>BOVENEY</name>
+</nearByPlace>
+</place>
+</results>

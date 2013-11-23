@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Southwell</toponymName>
+<name>Southwell</name>
+<lat>53.07804</lat>
+<lng>-0.95538</lng>
+<geonameId>2637296</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6425</population>
+<alternateNames>Southwell,Southwell i Nottinghamshire</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Southwell%2C_Nottinghamshire</alternateName>
+<alternateName lang="nn">Southwell i Nottinghamshire</alternateName>
+<alternateName lang="unlc">SUE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.97212</west>
+<north>53.0881</north>
+<east>-0.93864</east>
+<south>53.06799</south>
+</bbox>
+<score>82.81346130371094</score>
+</geoname>
+<geoname>
+<toponymName>Southwell</toponymName>
+<name>Southwell</name>
+<lat>53.08168</lat>
+<lng>-0.96696</lng>
+<geonameId>7296963</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG069</adminCode4>
+<adminName4>Southwell</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.02749</west>
+<north>53.10655</north>
+<east>-0.90644</east>
+<south>53.05682</south>
+</bbox>
+<score>70.7334213256836</score>
+</geoname>
+<geoname>
+<toponymName>Southwell</toponymName>
+<name>Southwell</name>
+<lat>50.53454</lat>
+<lng>-2.4454</lng>
+<geonameId>6692040</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UJ</adminCode3>
+<adminName3>Weymouth and Portland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Southwell%2C_Dorset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.44682</west>
+<north>50.53544</north>
+<east>-2.44399</east>
+<south>50.53364</south>
+</bbox>
+<score>63.196563720703125</score>
+</geoname>
+<geoname>
+<toponymName>Southwell</toponymName>
+<name>Southwell</name>
+<lat>50.53333</lat>
+<lng>-2.43333</lng>
+<geonameId>2637297</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UJ</adminCode3>
+<adminName3>Weymouth and Portland District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.44749</west>
+<north>50.54233</north>
+<east>-2.41918</east>
+<south>50.52434</south>
+</bbox>
+<score>56.27092361450195</score>
+</geoname>
+</geonames>

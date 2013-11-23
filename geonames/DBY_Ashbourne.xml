@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ashbourne</toponymName>
+<name>Ashbourne</name>
+<lat>53.01667</lat>
+<lng>-1.73333</lng>
+<geonameId>2656981</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5132</population>
+<alternateNames>Ashbourne</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UF</adminCode3>
+<adminName3>Derbyshire Dales District</adminName3>
+<alternateName lang="unlc">ASH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.74829</west>
+<north>53.02566</north>
+<east>-1.71838</east>
+<south>53.00767</south>
+</bbox>
+<score>74.65049743652344</score>
+</geoname>
+<geoname>
+<toponymName>Ashbourne</toponymName>
+<name>Ashbourne</name>
+<lat>53.01265</lat>
+<lng>-1.7276</lng>
+<geonameId>7298131</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UF</adminCode3>
+<adminName3>Derbyshire Dales District</adminName3>
+<adminCode4>17UF004</adminCode4>
+<adminName4>Ashbourne</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ashbourne%2C_Derbyshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.74949</west>
+<north>53.0246</north>
+<east>-1.70571</east>
+<south>53.00069</south>
+</bbox>
+<score>52.36116027832031</score>
+</geoname>
+</geonames>

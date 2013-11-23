@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Stallingborough</toponymName>
+<name>Stallingborough</name>
+<lat>53.59398</lat>
+<lng>-0.18285</lng>
+<geonameId>7296115</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC017</adminCode3>
+<adminName3>Stallingborough</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.23853</west>
+<north>53.61996</north>
+<east>-0.12718</east>
+<south>53.568</south>
+</bbox>
+<score>113.40838623046875</score>
+</geoname>
+<geoname>
+<toponymName>Stallingborough</toponymName>
+<name>Stallingborough</name>
+<lat>53.58675</lat>
+<lng>-0.18489</lng>
+<geonameId>2637108</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Stallingborough</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC017</adminCode3>
+<adminName3>Stallingborough</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stallingborough</alternateName>
+<alternateName lang="unlc">SLG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.20004</west>
+<north>53.59575</north>
+<east>-0.16974</east>
+<south>53.57776</south>
+</bbox>
+<score>93.29423522949219</score>
+</geoname>
+</geonames>

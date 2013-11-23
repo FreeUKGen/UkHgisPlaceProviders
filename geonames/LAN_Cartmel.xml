@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Cartmel</toponymName>
+<name>Cartmel</name>
+<lat>54.2</lat>
+<lng>-2.95</lng>
+<geonameId>2653631</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cartmel</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UG</adminCode3>
+<adminName3>South Lakeland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cartmel</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.96538</west>
+<north>54.20899</north>
+<east>-2.93462</east>
+<south>54.19101</south>
+</bbox>
+<score>107.56254577636719</score>
+</geoname>
+</geonames>

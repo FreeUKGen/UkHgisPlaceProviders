@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Maentwrog</toponymName>
+<name>Maentwrog</name>
+<lat>52.93492</lat>
+<lng>-3.93612</lng>
+<geonameId>7296532</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC050</adminCode3>
+<adminName3>Maentwrog</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Maentwrog</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.04357</west>
+<north>52.96561</north>
+<east>-3.82867</east>
+<south>52.90422</south>
+</bbox>
+<score>79.03948974609375</score>
+</geoname>
+<geoname>
+<toponymName>Maentwrog</toponymName>
+<name>Maentwrog</name>
+<lat>52.946</lat>
+<lng>-3.98787</lng>
+<geonameId>2643224</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Maentwrog</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC050</adminCode3>
+<adminName3>Maentwrog</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.01773</west>
+<north>52.96399</north>
+<east>-3.958</east>
+<south>52.92801</south>
+</bbox>
+<score>40.681190490722656</score>
+</geoname>
+</geonames>

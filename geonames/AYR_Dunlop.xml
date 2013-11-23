@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Dunlop</toponymName>
+<name>Dunlop</name>
+<lat>55.71198</lat>
+<lng>-4.53622</lng>
+<geonameId>2650710</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>844</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U4</adminCode2>
+<adminName2>East Ayrshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dunlop_cheese</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.53781</west>
+<north>55.71288</north>
+<east>-4.53462</east>
+<south>55.71108</south>
+</bbox>
+<score>74.94189453125</score>
+</geoname>
+</geonames>

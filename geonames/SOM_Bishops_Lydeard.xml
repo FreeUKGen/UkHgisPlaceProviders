@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bishops Lydeard</toponymName>
+<name>Bishops Lydeard</name>
+<lat>51.05917</lat>
+<lng>-3.18778</lng>
+<geonameId>2655564</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2019</population>
+<alternateNames>Bishops Lydeard</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bishops_Lydeard</alternateName>
+<alternateName lang="unlc">BPY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.19493</west>
+<north>51.06366</north>
+<east>-3.18062</east>
+<south>51.05467</south>
+</bbox>
+<score>98.09786987304688</score>
+</geoname>
+</geonames>

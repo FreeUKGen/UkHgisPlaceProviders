@@ -1,0 +1,110 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>170</id>
+<name>ACTON</name>
+<container>MIDDLESEX</container>
+<lat>51.5093307519091</lat>
+<lon>-0.273514707794102</lon>
+<gazetteerText>ACTON, a village, a parish and a subdistrict in Brentford, Middlesex. The village stands 8&#189; miles W of St. Paul&apos;s, London; is linked to the metropolis by an almost continuous line of houses, bisected by the Junction railway, connecting the Northwestern railway with the Southwestern; and it has a station on the railway and a post office&#8225; under London W. The parish contains also the hamlets of East Acton and Steyne. Acres, 2,286. Real property, &#163;18,477. Pop., 3,151. Houses, 610. The property is subdivided. Old Oak Common, traversed by the Great Western railway and by the North and Southwestern junction, was anciently a thick oak forest. Acton Wells, on the common, were in much repute, about the middle of last century, for their medicinal waters. Berrymead Priory was once the seat of the Savilles and the Evelyns. Sir P. Skippon, Richard Baxter, Sir Matthew Hale, Bishop Lloyd, Provost Rous, Thicknesse, the traveller, and Ryres, the author of &quot;Mercurius Rusticus,&quot; resided in Acton. The living is a rectory in the diocese of London. Value, &#163;968.* Patron, the Bishop of London. The church is early English, and was restored in 1865. There are Independent and Wesleyan chapels, a literary institution, handsome national schools, Wesleyan schools, and well-endowed alms-houses. -The subdistrict comprises four parishes. Acres, 5,963. Pop., 6,443. Houses, 1,044. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://homepages.gold.ac.uk/genuki/MDX/Acton/index.html</link>
+<link>http://www.geonames.org/2657697</link>
+<link>http://en.wikipedia.org/wiki/Acton,_London</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22547</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22549</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22550</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22553</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22554</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22556</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22552</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22544</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22546</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22545</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22548</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22551</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22555</link>
+</links>
+<unit>
+   <id>10025850</id>
+   <status>UD/MB</status>
+   <name>ACTON</name>
+</unit>
+<unit>
+   <id>10167206</id>
+   <status>USD</status>
+   <name>ACTON</name>
+</unit>
+<unit>
+   <id>10188740</id>
+   <status>CP/AP</status>
+   <name>ACTON</name>
+</unit>
+<unit>
+   <id>10543903</id>
+   <status></status>
+   <name>ACTON</name>
+</unit>
+<unit>
+   <id>12736460</id>
+   <status>PDivCon</status>
+   <name>MIDDLESEX ACTON</name>
+</unit>
+<unit>
+   <id>12740062</id>
+   <status>BCon</status>
+   <name>EALING ACTON</name>
+</unit>
+<unit>
+   <id>12745606</id>
+   <status>BCon</status>
+   <name>EALING ACTON AND SHEPHERDS BUSH</name>
+</unit>
+<unit>
+   <id>12753226</id>
+   <status>BCon</status>
+   <name>ACTON</name>
+</unit>
+<unit>
+   <id>12833600</id>
+   <status></status>
+   <name>ACTON</name>
+</unit>
+</place>
+<place>
+<id>23552</id>
+<name>ACTON GREEN</name>
+<container>MIDDLESEX</container>
+<lat>51.4956779904748</lat>
+<lon>-0.262504227088617</lon>
+<gazetteerText>Acton Green, ry. sta., W. suburbs of London. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Acton_Green,_London</link>
+</links>
+<unit>
+   <id>10095840</id>
+   <status>EP</status>
+   <name>ACTON GREEN ST ALBAN THE MARTYR</name>
+</unit>
+<unit>
+   <id>10168053</id>
+   <status>EP</status>
+   <name>ACTON GREEN ST PETER</name>
+</unit>
+</place>
+<place>
+<id>23553</id>
+<name>ACTON VALE</name>
+<container>MIDDLESEX</container>
+<lat>51.5072344744281</lat>
+<lon>-0.253417535340817</lon>
+<links>
+<link>http://en.wikipedia.org/wiki/Acton_Vale,_London</link>
+</links>
+<unit>
+   <id>10032507</id>
+   <status>EP</status>
+   <name>ACTON VALE</name>
+</unit>
+</place>
+</results>

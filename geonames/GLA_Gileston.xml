@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Gileston</toponymName>
+<name>Gileston</name>
+<lat>51.39414</lat>
+<lng>-3.41255</lng>
+<geonameId>2648671</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Gileston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<adminCode3>00PD019</adminCode3>
+<adminName3>St. Athan</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gileston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.42697</west>
+<north>51.40314</north>
+<east>-3.39813</east>
+<south>51.38515</south>
+</bbox>
+<score>108.84864044189453</score>
+</geoname>
+</geonames>

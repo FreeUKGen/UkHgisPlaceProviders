@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Palgrave</toponymName>
+<name>Palgrave</name>
+<lat>52.35966</lat>
+<lng>1.10207</lng>
+<geonameId>7299595</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<adminCode4>42UE076</adminCode4>
+<adminName4>Palgrave</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Palgrave%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.07633</west>
+<north>52.37307</north>
+<east>1.12781</east>
+<south>52.34625</south>
+</bbox>
+<score>53.958465576171875</score>
+</geoname>
+<geoname>
+<toponymName>Great Palgrave</toponymName>
+<name>Great Palgrave</name>
+<lat>52.66667</lat>
+<lng>0.73333</lng>
+<geonameId>2648040</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Great Palgrave,Palgrave</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.7185</west>
+<north>52.67566</north>
+<east>0.74817</east>
+<south>52.65767</south>
+</bbox>
+<score>51.273170471191406</score>
+</geoname>
+</geonames>

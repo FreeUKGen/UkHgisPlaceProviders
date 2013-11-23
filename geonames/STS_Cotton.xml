@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Cotton</toponymName>
+<name>Cotton</name>
+<lat>53.03276</lat>
+<lng>-1.89741</lng>
+<geonameId>7291035</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UH</adminCode3>
+<adminName3>Staffordshire Moorlands</adminName3>
+<adminCode4>41UH014</adminCode4>
+<adminName4>Cotton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.93182</west>
+<north>53.05952</north>
+<east>-1.86301</east>
+<south>53.00599</south>
+</bbox>
+<score>60.416236877441406</score>
+</geoname>
+<geoname>
+<toponymName>Cotton</toponymName>
+<name>Cotton</name>
+<lat>52.26317</lat>
+<lng>1.03186</lng>
+<geonameId>2652261</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.01716</west>
+<north>52.27216</north>
+<east>1.04655</east>
+<south>52.25417</south>
+</bbox>
+<score>47.978782653808594</score>
+</geoname>
+<geoname>
+<toponymName>Cotton</toponymName>
+<name>Cotton</name>
+<lat>52.2607</lat>
+<lng>1.03639</lng>
+<geonameId>7299217</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<adminCode4>42UE026</adminCode4>
+<adminName4>Cotton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cotton%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.01511</west>
+<north>52.28181</north>
+<east>1.05767</east>
+<south>52.23958</south>
+</bbox>
+<score>44.067726135253906</score>
+</geoname>
+<geoname>
+<toponymName>Coton</toponymName>
+<name>Coton</name>
+<lat>52.9</lat>
+<lng>-2.71667</lng>
+<geonameId>2652274</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Coton,Cotton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Coton%2C_Shropshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.73158</west>
+<north>52.90899</north>
+<east>-2.70175</east>
+<south>52.89101</south>
+</bbox>
+<score>43.712181091308594</score>
+</geoname>
+</geonames>

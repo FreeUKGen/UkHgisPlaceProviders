@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Misterton</toponymName>
+<name>Misterton</name>
+<lat>53.45</lat>
+<lng>-0.85</lng>
+<geonameId>2642417</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2060</population>
+<alternateNames>Misterton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Misterton%2C_Nottinghamshire</alternateName>
+<alternateName lang="unlc">MST</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.85755</west>
+<north>53.4545</north>
+<east>-0.84245</east>
+<south>53.4455</south>
+</bbox>
+<score>100.72459411621094</score>
+</geoname>
+<geoname>
+<toponymName>Misterton</toponymName>
+<name>Misterton</name>
+<lat>50.86667</lat>
+<lng>-2.8</lng>
+<geonameId>2642418</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Misterton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Misterton%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.81425</west>
+<north>50.87566</north>
+<east>-2.78575</east>
+<south>50.85767</south>
+</bbox>
+<score>99.05815124511719</score>
+</geoname>
+<geoname>
+<toponymName>Misterton</toponymName>
+<name>Misterton</name>
+<lat>50.8688</lat>
+<lng>-2.77978</lng>
+<geonameId>7294146</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD077</adminCode4>
+<adminName4>Misterton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.80513</west>
+<north>50.88478</north>
+<east>-2.75443</east>
+<south>50.85282</south>
+</bbox>
+<score>79.23429870605469</score>
+</geoname>
+<geoname>
+<toponymName>Misterton</toponymName>
+<name>Misterton</name>
+<lat>53.44981</lat>
+<lng>-0.87075</lng>
+<geonameId>7299323</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<adminCode4>37UC037</adminCode4>
+<adminName4>Misterton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.92211</west>
+<north>53.46634</north>
+<east>-0.8194</east>
+<south>53.43329</south>
+</bbox>
+<score>79.23429870605469</score>
+</geoname>
+</geonames>

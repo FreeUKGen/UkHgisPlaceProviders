@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Dale</toponymName>
+<name>Dale</name>
+<lat>51.70121</lat>
+<lng>-5.17685</lng>
+<geonameId>7293508</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS016</adminCode3>
+<adminName3>Dale</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.20433</west>
+<north>51.7226</north>
+<east>-5.14937</east>
+<south>51.67981</south>
+</bbox>
+<score>83.89750671386719</score>
+</geoname>
+<geoname>
+<toponymName>Dale</toponymName>
+<name>Dale</name>
+<lat>51.70917</lat>
+<lng>-5.17333</lng>
+<geonameId>2651600</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Dale</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS016</adminCode3>
+<adminName3>Dale</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dale%2C_Pembrokeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.20237</west>
+<north>51.72715</north>
+<east>-5.14429</east>
+<south>51.69118</south>
+</bbox>
+<score>64.60525512695312</score>
+</geoname>
+</geonames>

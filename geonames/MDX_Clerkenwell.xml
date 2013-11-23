@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Clerkenwell</toponymName>
+<name>Clerkenwell</name>
+<lat>51.52438</lat>
+<lng>-0.11022</lng>
+<geonameId>6690574</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4934</population>
+<alternateNames>klarkanavela,klrknwyl, lndn,کلرکنویل، لندن,क्लर्कनवेल</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>G3</adminCode3>
+<adminName3>Islington</adminName3>
+<alternateName lang="hi">क्लर्कनवेल</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clerkenwell</alternateName>
+<alternateName lang="ur">کلرکنویل، لندن</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.12468</west>
+<north>51.53338</north>
+<east>-0.09576</east>
+<south>51.51539</south>
+</bbox>
+<score>78.615234375</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Edworth</toponymName>
+<name>Edworth</name>
+<lat>52.05182</lat>
+<lng>-0.21454</lng>
+<geonameId>7296466</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC021</adminCode3>
+<adminName3>Edworth</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.23408</west>
+<north>52.06691</north>
+<east>-0.19501</east>
+<south>52.03672</south>
+</bbox>
+<score>112.88270568847656</score>
+</geoname>
+<geoname>
+<toponymName>Edworth</toponymName>
+<name>Edworth</name>
+<lat>52.05597</lat>
+<lng>-0.21715</lng>
+<geonameId>2650199</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC021</adminCode3>
+<adminName3>Edworth</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Edworth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.24642</west>
+<north>52.07396</north>
+<east>-0.18789</east>
+<south>52.03799</south>
+</bbox>
+<score>77.50494384765625</score>
+</geoname>
+</geonames>

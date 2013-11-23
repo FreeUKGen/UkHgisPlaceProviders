@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ludgvan</toponymName>
+<name>Ludgvan</name>
+<lat>50.1568</lat>
+<lng>-5.4851</lng>
+<geonameId>7293082</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE077</adminCode3>
+<adminName3>Ludgvan</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ludgvan</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.53252</west>
+<north>50.18973</north>
+<east>-5.43768</east>
+<south>50.12386</south>
+</bbox>
+<score>79.03948974609375</score>
+</geoname>
+<geoname>
+<toponymName>Ludgvan</toponymName>
+<name>Ludgvan</name>
+<lat>50.14459</lat>
+<lng>-5.49473</lng>
+<geonameId>2643427</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ludgvan</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE077</adminCode3>
+<adminName3>Ludgvan</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.50877</west>
+<north>50.15358</north>
+<east>-5.4807</east>
+<south>50.1356</south>
+</bbox>
+<score>61.02178955078125</score>
+</geoname>
+</geonames>

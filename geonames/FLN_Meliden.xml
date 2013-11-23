@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Meliden</toponymName>
+<name>Meliden</name>
+<lat>53.31733</lat>
+<lng>-3.4083</lng>
+<geonameId>2642787</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Meliden</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG033</adminCode3>
+<adminName3>Prestatyn</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Meliden</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.42336</west>
+<north>53.32633</north>
+<east>-3.39324</east>
+<south>53.30834</south>
+</bbox>
+<score>103.31173706054688</score>
+</geoname>
+</geonames>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Springfield</toponymName>
+<name>Springfield</name>
+<lat>56.28333</lat>
+<lng>-3.06667</lng>
+<geonameId>2637194</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Springfield</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V1</adminCode2>
+<adminName2>Fife</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Springfield%2C_Fife</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.08287</west>
+<north>56.29233</north>
+<east>-3.05046</east>
+<south>56.27434</south>
+</bbox>
+<score>52.100669860839844</score>
+</geoname>
+<geoname>
+<toponymName>Springfield</toponymName>
+<name>Springfield</name>
+<lat>53.63333</lat>
+<lng>-2.66667</lng>
+<geonameId>2637196</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Springfield,Springfields</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UE</adminCode3>
+<adminName3>Chorley District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.68184</west>
+<north>53.64233</north>
+<east>-2.6515</east>
+<south>53.62434</south>
+</bbox>
+<score>48.77219772338867</score>
+</geoname>
+<geoname>
+<toponymName>Springfield</toponymName>
+<name>Springfield</name>
+<lat>51.74776</lat>
+<lng>0.51121</lng>
+<geonameId>6693125</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UF</adminCode3>
+<adminName3>Chelmsford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Springfield%2C_Essex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.49668</west>
+<north>51.75675</north>
+<east>0.52574</east>
+<south>51.73876</south>
+</bbox>
+<score>44.18656921386719</score>
+</geoname>
+<geoname>
+<toponymName>Springfield</toponymName>
+<name>Springfield</name>
+<lat>51.74882</lat>
+<lng>0.50644</lng>
+<geonameId>7300512</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UF</adminCode3>
+<adminName3>Chelmsford District</adminName3>
+<adminCode4>22UF023</adminCode4>
+<adminName4>Springfield</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.48037</west>
+<north>51.77267</north>
+<east>0.53252</east>
+<south>51.72496</south>
+</bbox>
+<score>40.00444030761719</score>
+</geoname>
+<geoname>
+<toponymName>Springfield</toponymName>
+<name>Springfield</name>
+<lat>54.6</lat>
+<lng>-5.96667</lng>
+<geonameId>2637195</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NIR">NIR</adminCode1>
+<adminName1>N Ireland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.9822</west>
+<north>54.60899</north>
+<east>-5.95114</east>
+<south>54.59101</south>
+</bbox>
+<score>31.704456329345703</score>
+</geoname>
+<geoname>
+<toponymName>Springfield House</toponymName>
+<name>Springfield House</name>
+<lat>52.95</lat>
+<lng>-2.28333</lng>
+<geonameId>2637193</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames>Spring Fields,Springfield House</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UE</adminCode3>
+<adminName3>Newcastle-under-Lyme District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>7.8653483390808105</score>
+</geoname>
+</geonames>

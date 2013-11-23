@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Great Oakley</toponymName>
+<name>Great Oakley</name>
+<lat>52.45</lat>
+<lng>-0.71667</lng>
+<geonameId>2648048</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Great Oakley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UE</adminCode3>
+<adminName3>Kettering District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Great_Oakley%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.73143</west>
+<north>52.45899</north>
+<east>-0.70191</east>
+<south>52.44101</south>
+</bbox>
+<score>89.84945678710938</score>
+</geoname>
+<geoname>
+<toponymName>Great Oakley</toponymName>
+<name>Great Oakley</name>
+<lat>51.90308</lat>
+<lng>1.18807</lng>
+<geonameId>2648049</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UN</adminCode3>
+<adminName3>Tendring District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Great_Oakley%2C_Essex</alternateName>
+<alternateName lang="unlc">GOA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.17349</west>
+<north>51.91208</north>
+<east>1.20265</east>
+<south>51.89409</south>
+</bbox>
+<score>75.15737915039062</score>
+</geoname>
+<geoname>
+<toponymName>Great Oakley</toponymName>
+<name>Great Oakley</name>
+<lat>51.90278</lat>
+<lng>1.18904</lng>
+<geonameId>7295136</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UN</adminCode3>
+<adminName3>Tendring District</adminName3>
+<adminCode4>22UN011</adminCode4>
+<adminName4>Great Oakley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.12109</west>
+<north>51.92159</north>
+<east>1.25699</east>
+<south>51.88397</south>
+</bbox>
+<score>67.66485595703125</score>
+</geoname>
+</geonames>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanrhian</toponymName>
+<name>Llanrhian</name>
+<lat>51.93005</lat>
+<lng>-5.16529</lng>
+<geonameId>7301631</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS035</adminCode3>
+<adminName3>Llanrhian</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.2131</west>
+<north>51.96512</north>
+<east>-5.11748</east>
+<south>51.89498</south>
+</bbox>
+<score>111.34626007080078</score>
+</geoname>
+<geoname>
+<toponymName>Llanrhian</toponymName>
+<name>Llanrhian</name>
+<lat>51.9375</lat>
+<lng>-5.17389</lng>
+<geonameId>2643960</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Llanrhian,Llanrian</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS035</adminCode3>
+<adminName3>Llanrhian</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanrhian</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.20308</west>
+<north>51.95549</north>
+<east>-5.1447</east>
+<south>51.91951</south>
+</bbox>
+<score>83.55860900878906</score>
+</geoname>
+</geonames>

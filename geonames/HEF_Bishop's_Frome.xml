@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bishop's Frome</toponymName>
+<name>Bishop's Frome</name>
+<lat>52.13209</lat>
+<lng>-2.49631</lng>
+<geonameId>7294492</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA016</adminCode3>
+<adminName3>Bishop's Frome</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bishop%27s_Frome</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.54619</west>
+<north>52.15759</north>
+<east>-2.44643</east>
+<south>52.10659</south>
+</bbox>
+<score>62.90266036987305</score>
+</geoname>
+</geonames>

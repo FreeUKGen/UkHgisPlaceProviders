@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llanenddwyn</toponymName>
+<name>Llanenddwyn</name>
+<lat>52.78888</lat>
+<lng>-4.10301</lng>
+<geonameId>2644098</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC022</adminCode3>
+<adminName3>Dyffryn Ardudwy</adminName3>
+<alternateName lang="unlc">LAE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.11789</west>
+<north>52.79787</north>
+<east>-4.08814</east>
+<south>52.77989</south>
+</bbox>
+<score>51.842525482177734</score>
+</geoname>
+</geonames>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Nafferton</toponymName>
+<name>Nafferton</name>
+<lat>54.02116</lat>
+<lng>-0.41262</lng>
+<geonameId>7296229</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB098</adminCode3>
+<adminName3>Nafferton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.47751</west>
+<north>54.06006</north>
+<east>-0.34773</east>
+<south>53.98227</south>
+</bbox>
+<score>110.54647827148438</score>
+</geoname>
+<geoname>
+<toponymName>Nafferton</toponymName>
+<name>Nafferton</name>
+<lat>54.01917</lat>
+<lng>-0.38976</lng>
+<geonameId>2641915</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>2233</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB098</adminCode3>
+<adminName3>Nafferton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nafferton</alternateName>
+<alternateName lang="unlc">NFF</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.39741</west>
+<north>54.02366</north>
+<east>-0.3821</east>
+<south>54.01467</south>
+</bbox>
+<score>89.73085021972656</score>
+</geoname>
+</geonames>

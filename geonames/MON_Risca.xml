@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Risca</toponymName>
+<name>Risca</name>
+<lat>51.60799</lat>
+<lng>-3.10081</lng>
+<geonameId>2639317</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>20443</population>
+<alternateNames>Risca</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X4</adminCode2>
+<adminName2>Caerphilly</adminName2>
+<adminCode3>00PK023</adminCode3>
+<adminName3>Risca</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Risca</alternateName>
+<alternateName lang="unlc">RSC</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.13068</west>
+<north>51.62654</north>
+<east>-3.07094</east>
+<south>51.58945</south>
+</bbox>
+<score>121.45948791503906</score>
+</geoname>
+<geoname>
+<toponymName>Risca</toponymName>
+<name>Risca</name>
+<lat>51.61089</lat>
+<lng>-3.09291</lng>
+<geonameId>7298757</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X4</adminCode2>
+<adminName2>Caerphilly</adminName2>
+<adminCode3>00PK023</adminCode3>
+<adminName3>Risca</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.12219</west>
+<north>51.63038</north>
+<east>-3.06363</east>
+<south>51.59139</south>
+</bbox>
+<score>104.55865478515625</score>
+</geoname>
+</geonames>

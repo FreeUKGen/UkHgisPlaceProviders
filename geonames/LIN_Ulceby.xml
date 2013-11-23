@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Ulceby</toponymName>
+<name>Ulceby</name>
+<lat>53.6164</lat>
+<lng>-0.33055</lng>
+<geonameId>7298813</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD048</adminCode3>
+<adminName3>Ulceby</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.3619</west>
+<north>53.64265</north>
+<east>-0.2992</east>
+<south>53.59014</south>
+</bbox>
+<score>111.81939697265625</score>
+</geoname>
+<geoname>
+<toponymName>Ulceby</toponymName>
+<name>Ulceby</name>
+<lat>53.21667</lat>
+<lng>0.13333</lng>
+<geonameId>2635206</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ulceby</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ulceby%2C_East_Lindsey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.11831</west>
+<north>53.22566</north>
+<east>0.14836</east>
+<south>53.20767</south>
+</bbox>
+<score>100.96337890625</score>
+</geoname>
+<geoname>
+<toponymName>Ulceby</toponymName>
+<name>Ulceby</name>
+<lat>53.61667</lat>
+<lng>-0.33333</lng>
+<geonameId>2635205</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD048</adminCode3>
+<adminName3>Ulceby</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ulceby%2C_North_Lincolnshire</alternateName>
+<alternateName lang="unlc">ULY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.36367</west>
+<north>53.63465</north>
+<east>-0.303</east>
+<south>53.59868</south>
+</bbox>
+<score>67.79769134521484</score>
+</geoname>
+</geonames>

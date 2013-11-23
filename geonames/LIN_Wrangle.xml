@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wrangle</toponymName>
+<name>Wrangle</name>
+<lat>53.03935</lat>
+<lng>0.12989</lng>
+<geonameId>2633501</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UB</adminCode3>
+<adminName3>Boston District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wrangle%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.11493</west>
+<north>53.04834</north>
+<east>0.14485</east>
+<south>53.03035</south>
+</bbox>
+<score>83.65377807617188</score>
+</geoname>
+<geoname>
+<toponymName>Wrangle</toponymName>
+<name>Wrangle</name>
+<lat>53.04131</lat>
+<lng>0.16521</lng>
+<geonameId>7301561</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UB</adminCode3>
+<adminName3>Boston District</adminName3>
+<adminCode4>32UB017</adminCode4>
+<adminName4>Wrangle</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wrangle</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.09173</west>
+<north>53.08666</north>
+<east>0.23869</east>
+<south>52.99596</south>
+</bbox>
+<score>58.2333984375</score>
+</geoname>
+</geonames>

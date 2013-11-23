@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Malpas</toponymName>
+<name>Malpas</name>
+<lat>53.02094</lat>
+<lng>-2.75869</lng>
+<geonameId>7293035</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW105</adminCode3>
+<adminName3>Malpas</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.78847</west>
+<north>53.0361</north>
+<east>-2.72891</east>
+<south>53.00577</south>
+</bbox>
+<score>91.56466674804688</score>
+</geoname>
+<geoname>
+<toponymName>Malpas</toponymName>
+<name>Malpas</name>
+<lat>53.01667</lat>
+<lng>-2.76667</lng>
+<geonameId>2643145</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>1628</population>
+<alternateNames>Malpas</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW105</adminCode3>
+<adminName3>Malpas</adminName3>
+<alternateName lang="en">Malpas</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Malpas,_Cheshire</alternateName>
+<alternateName lang="post">SY14</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.77414</west>
+<north>53.02116</north>
+<east>-2.75919</east>
+<south>53.01217</south>
+</bbox>
+<score>60.0831184387207</score>
+</geoname>
+<geoname>
+<toponymName>Malpas</toponymName>
+<name>Malpas</name>
+<lat>51.61274</lat>
+<lng>-3.0053</lng>
+<geonameId>7294312</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y6</adminCode2>
+<adminName2>City of Newport</adminName2>
+<adminCode3>00PR015</adminCode3>
+<adminName3>Malpas</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Malpas%2C_Newport</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.01987</west>
+<north>51.62139</north>
+<east>-2.99073</east>
+<south>51.60408</south>
+</bbox>
+<score>58.95640563964844</score>
+</geoname>
+</geonames>

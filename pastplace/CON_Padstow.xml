@@ -1,0 +1,64 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>7</id>
+<name>PADSTOW</name>
+<container>CORNWALL</container>
+<lat>50.5414737888581</lat>
+<lon>-4.95542215809491</lon>
+<gazetteerText>Padstow, seaport and market town, and par., Cornwall, on S. side of estuary of river Camel, 5 miles NW. of Wadebridge ry. sta. and 12 miles NW. of Bodmin - par., 3341 ac., pop. 2191; town, pop. 1749; P.O., T.O., 1 Bank. Market-day, Saturday. This is a very ancient place, its former names being Lodenek, Athelstowe, and Petrocstowe. The town furnished ships for the siege of Calais in 1346. It is nominally governed by a portreeve and other officers, under charter of Elizabeth. Padstow has a fine situation in a luxuriant valley. Its coasting trade is considerable. (For shipping statistics, see Appendix.) The chief articles of commerce are coals, corn, and malt; and some shipbuilding is carried on. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Padstow</link>
+<link>http://www.genuki.org.uk/big/eng/Cornwall/Padstow/index.html</link>
+<link>http://www.geonames.org/2640685</link>
+</links>
+<unit>
+   <id>10000592</id>
+   <status>UD</status>
+   <name>PADSTOW</name>
+</unit>
+<unit>
+   <id>10082821</id>
+   <status>EP</status>
+   <name>PADSTOW</name>
+</unit>
+<unit>
+   <id>10091524</id>
+   <status>Borough</status>
+   <name>PADSTOW</name>
+</unit>
+<unit>
+   <id>10121991</id>
+   <status>AP/CP</status>
+   <name>PADSTOW</name>
+</unit>
+<unit>
+   <id>10174181</id>
+   <status>USD</status>
+   <name>PADSTOW</name>
+</unit>
+<unit>
+   <id>10179610</id>
+   <status>CP</status>
+   <name>PADSTOW RURAL</name>
+</unit>
+<unit>
+   <id>10192407</id>
+   <status>CP</status>
+   <name>PADSTOW</name>
+</unit>
+<unit>
+   <id>10542730</id>
+   <status></status>
+   <name>PADSTOW</name>
+</unit>
+<nearByPlace>
+   <id>3462</id>
+   <name>LITTLE PETHERICK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3880</id>
+   <name>ST ISSEY</name>
+</nearByPlace>
+</place>
+</results>

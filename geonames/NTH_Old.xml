@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Borough of Oldham</toponymName>
+<name>Borough of Oldham</name>
+<lat>53.55</lat>
+<lng>-2.08333</lng>
+<geonameId>3333179</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>219800</population>
+<alternateNames>OLD,Oldham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K1</adminCode2>
+<adminName2>Oldham</adminName2>
+<alternateName lang="abbr">OLD</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Metropolitan_Borough_of_Oldham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.18592</west>
+<north>53.62423</north>
+<east>-1.90962</east>
+<south>53.49112</south>
+</bbox>
+<score>65.88003540039062</score>
+</geoname>
+<geoname>
+<toponymName>Old</toponymName>
+<name>Old</name>
+<lat>52.35637</lat>
+<lng>-0.83656</lng>
+<geonameId>7301950</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<adminCode4>34UC052</adminCode4>
+<adminName4>Old</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Old%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.86374</west>
+<north>52.38113</north>
+<east>-0.80939</east>
+<south>52.33162</south>
+</bbox>
+<score>48.58192443847656</score>
+</geoname>
+<geoname>
+<toponymName>Old Street Station</toponymName>
+<name>Old Street Station</name>
+<lat>51.52581</lat>
+<lng>-0.08709</lng>
+<geonameId>6953272</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>OLD</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>G3</adminCode3>
+<adminName3>Islington</adminName3>
+<alternateName lang="abbr">OLD</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Old_Street_station</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>38.47685623168945</score>
+</geoname>
+</geonames>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Urswick</toponymName>
+<name>Urswick</name>
+<lat>54.14993</lat>
+<lng>-3.10342</lng>
+<geonameId>7294802</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UG</adminCode3>
+<adminName3>South Lakeland District</adminName3>
+<adminCode4>16UG075</adminCode4>
+<adminName4>Urswick</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Urswick</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.1647</west>
+<north>54.17411</north>
+<east>-3.04214</east>
+<south>54.12575</south>
+</bbox>
+<score>61.27012252807617</score>
+</geoname>
+</geonames>

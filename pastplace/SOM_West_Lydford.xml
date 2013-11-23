@@ -1,0 +1,48 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>13089</id>
+<name>WEST LYDFORD</name>
+<container>SOMERSET</container>
+<lat>51.0863156948435</lat>
+<lon>-2.61740275352195</lon>
+<gazetteerText>LYDFORD (WEST), a village and a parish in Shepton-Mallet district, Somerset. The village stands on the river Brue, 4&#190; miles W of Castle-Cary r. station; and has a five-arched bridge across the river, a post office under Taunton, and fairs on Holy Thursday and 12 Aug. The parish comprises 1,900 acres. Real property, &#163;2,633. Pop., 320. Houses, 69. The property is divided among a few. The manor belongs to Mrs. Colston. The living is a rectory in the diocese of Bath and Wells. Value, &#163;350. * Patron, Mrs. Colston. The church was rebuilt in 1846, at the expense of the Colstons; is in the pointed style; consists of nave, transept, and chancel, with porch and tower; and has a fine memorial window. There are a Wesleyan chapel, a national school, and chari ties &#163;1 4. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/SOM/WestLydford/index.html</link>
+<link>http://en.wikipedia.org/wiki/Lydford-on-Fosse</link>
+<link>http://www.geonames.org/2634351</link>
+</links>
+<unit>
+   <id>10437854</id>
+   <status>CP</status>
+   <name>LYDFORD</name>
+</unit>
+<unit>
+   <id>10437891</id>
+   <status>CP/AP</status>
+   <name>WEST LYDFORD</name>
+</unit>
+<unit>
+   <id>10437908</id>
+   <status>EP</status>
+   <name>WEST LYDFORD</name>
+</unit>
+<unit>
+   <id>10437910</id>
+   <status>EP</status>
+   <name>LYDFORD ON FOSSE</name>
+</unit>
+<nearByPlace>
+   <id>13061</id>
+   <name>LOVINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13088</id>
+   <name>EAST LYDFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13396</id>
+   <name>WHEATHILL</name>
+</nearByPlace>
+</place>
+</results>

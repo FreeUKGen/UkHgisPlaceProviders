@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Builth</toponymName>
+<name>Builth</name>
+<lat>52.14477</lat>
+<lng>-3.39881</lng>
+<geonameId>7291212</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN011</adminCode3>
+<adminName3>Builth</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.41691</west>
+<north>52.15579</north>
+<east>-3.38071</east>
+<south>52.13375</south>
+</bbox>
+<score>112.29936218261719</score>
+</geoname>
+<geoname>
+<toponymName>Builth Wells</toponymName>
+<name>Builth Wells</name>
+<lat>52.1494</lat>
+<lng>-3.40469</lng>
+<geonameId>2654359</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2669</population>
+<alternateNames>Builth,Builth Wells,Llanfair-ym-Muallt</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN011</adminCode3>
+<adminName3>Builth</adminName3>
+<alternateName lang="cy">Llanfair-ym-Muallt</alternateName>
+<alternateName lang="en">Builth Wells</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Builth_Wells</alternateName>
+<alternateName lang="unlc">BUI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.41506</west>
+<north>52.15576</north>
+<east>-3.39433</east>
+<south>52.14304</south>
+</bbox>
+<score>66.96267700195312</score>
+</geoname>
+</geonames>

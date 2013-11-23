@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bethnal Green</toponymName>
+<name>Bethnal Green</name>
+<lat>51.52718</lat>
+<lng>-0.06109</lng>
+<geonameId>6690989</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population>17590</population>
+<alternateNames>beseuneolgeulin,bethanala grina,globa ta'una,بینتھل گرین,ग्लोब टाउन,বেথনাল গ্রিন,베스널그린</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>O5</adminCode3>
+<adminName3>Tower Hamlets</adminName3>
+<alternateName lang="bn">বেথনাল গ্রিন</alternateName>
+<alternateName lang="hi">ग्लोब टाउन</alternateName>
+<alternateName lang="ko">베스널그린</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bethnal_Green</alternateName>
+<alternateName lang="ur">بینتھل گرین</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.08814</west>
+<north>51.544</north>
+<east>-0.03403</east>
+<south>51.51035</south>
+</bbox>
+<score>62.70745086669922</score>
+</geoname>
+</geonames>

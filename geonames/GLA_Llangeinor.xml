@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llangeinor</toponymName>
+<name>Llangeinor</name>
+<lat>51.57559</lat>
+<lng>-3.56897</lng>
+<geonameId>2644036</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X3</adminCode2>
+<adminName2>County Borough of Bridgend</adminName2>
+<adminCode3>00PB008</adminCode3>
+<adminName3>Garw Valley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llangeinor</alternateName>
+<alternateName lang="unlc">LLI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.58345</west>
+<north>51.58459</north>
+<east>-3.5545</east>
+<south>51.5666</south>
+</bbox>
+<score>95.02735900878906</score>
+</geoname>
+</geonames>

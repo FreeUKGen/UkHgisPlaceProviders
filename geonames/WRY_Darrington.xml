@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Darrington</toponymName>
+<name>Darrington</name>
+<lat>53.6711</lat>
+<lng>-1.27137</lng>
+<geonameId>7292656</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O7</adminCode2>
+<adminName2>Wakefield</adminName2>
+<adminCode3>00DB006</adminCode3>
+<adminName3>Darrington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.3003</west>
+<north>53.69385</north>
+<east>-1.24243</east>
+<south>53.64836</south>
+</bbox>
+<score>97.29771423339844</score>
+</geoname>
+<geoname>
+<toponymName>Darrington</toponymName>
+<name>Darrington</name>
+<lat>53.67566</lat>
+<lng>-1.26901</lng>
+<geonameId>2651503</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O7</adminCode2>
+<adminName2>Wakefield</adminName2>
+<adminCode3>00DB006</adminCode3>
+<adminName3>Darrington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Darrington%2C_West_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.29939</west>
+<north>53.69365</north>
+<east>-1.23863</east>
+<south>53.65768</south>
+</bbox>
+<score>62.89107131958008</score>
+</geoname>
+</geonames>

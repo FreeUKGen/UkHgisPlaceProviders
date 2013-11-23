@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hexham</toponymName>
+<name>Hexham</name>
+<lat>54.9663</lat>
+<lng>-2.12079</lng>
+<geonameId>7291395</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM080</adminCode3>
+<adminName3>Hexham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.17847</west>
+<north>54.98884</north>
+<east>-2.06311</east>
+<south>54.94376</south>
+</bbox>
+<score>105.31431579589844</score>
+</geoname>
+<geoname>
+<toponymName>Hexham</toponymName>
+<name>Hexham</name>
+<lat>54.96986</lat>
+<lng>-2.104</lng>
+<geonameId>2647007</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>10920</population>
+<alternateNames>Hagastaldunum,Hexham,Kheksem,Хексем</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM080</adminCode3>
+<adminName3>Hexham</adminName3>
+<alternateName lang="la">Hagastaldunum</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hexham</alternateName>
+<alternateName lang="ru">Хексем</alternateName>
+<alternateName lang="unlc">HXH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.12751</west>
+<north>54.98335</north>
+<east>-2.08049</east>
+<south>54.95637</south>
+</bbox>
+<score>95.33901977539062</score>
+</geoname>
+</geonames>

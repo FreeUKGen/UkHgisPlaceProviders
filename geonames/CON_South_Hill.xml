@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>South Hill</toponymName>
+<name>South Hill</name>
+<lat>50.51954</lat>
+<lng>-4.35537</lng>
+<geonameId>7300033</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE126</adminCode3>
+<adminName3>South Hill</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/South_Hill%2C_Cornwall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.38641</west>
+<north>50.54599</north>
+<east>-4.32434</east>
+<south>50.4931</south>
+</bbox>
+<score>42.53880310058594</score>
+</geoname>
+<geoname>
+<toponymName>South Hill</toponymName>
+<name>South Hill</name>
+<lat>50.53333</lat>
+<lng>-4.35</lng>
+<geonameId>2637404</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE126</adminCode3>
+<adminName3>South Hill</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.37831</west>
+<north>50.55132</north>
+<east>-4.32169</east>
+<south>50.51535</south>
+</bbox>
+<score>21.114822387695312</score>
+</geoname>
+</geonames>

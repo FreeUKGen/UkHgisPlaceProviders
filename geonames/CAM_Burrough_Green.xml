@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Burrough Green</toponymName>
+<name>Burrough Green</name>
+<lat>52.17317</lat>
+<lng>0.39452</lng>
+<geonameId>7670881</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<adminCode4>12UC004</adminCode4>
+<adminName4>GB.ENG.C3.12UG.12UC004</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burrough_Green</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.37985</west>
+<north>52.18216</north>
+<east>0.40919</east>
+<south>52.16417</south>
+</bbox>
+<score>82.97001647949219</score>
+</geoname>
+<geoname>
+<toponymName>Burrough Green</toponymName>
+<name>Burrough Green</name>
+<lat>52.18455</lat>
+<lng>0.37831</lng>
+<geonameId>7294251</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>72.35823059082031</score>
+</geoname>
+</geonames>

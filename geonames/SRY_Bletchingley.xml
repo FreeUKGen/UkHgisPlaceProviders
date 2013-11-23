@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bletchingley</toponymName>
+<name>Bletchingley</name>
+<lat>51.24059</lat>
+<lng>-0.10038</lng>
+<geonameId>2655352</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2338</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UK</adminCode3>
+<adminName3>Tandridge District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bletchingley</alternateName>
+<alternateName lang="unlc">BLN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.10757</west>
+<north>51.24509</north>
+<east>-0.0932</east>
+<south>51.2361</south>
+</bbox>
+<score>101.3486099243164</score>
+</geoname>
+<geoname>
+<toponymName>Bletchingley</toponymName>
+<name>Bletchingley</name>
+<lat>51.23329</lat>
+<lng>-0.10022</lng>
+<geonameId>7297355</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UK</adminCode3>
+<adminName3>Tandridge District</adminName3>
+<adminCode4>43UK001</adminCode4>
+<adminName4>Bletchingley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.1321</west>
+<north>51.27248</north>
+<east>-0.06834</east>
+<south>51.19409</south>
+</bbox>
+<score>81.69823455810547</score>
+</geoname>
+</geonames>

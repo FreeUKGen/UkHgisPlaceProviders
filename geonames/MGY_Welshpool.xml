@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Welshpool</toponymName>
+<name>Welshpool</name>
+<lat>52.66265</lat>
+<lng>-3.15408</lng>
+<geonameId>7301034</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN106</adminCode3>
+<adminName3>Welshpool</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.21477</west>
+<north>52.71428</north>
+<east>-3.0934</east>
+<south>52.61102</south>
+</bbox>
+<score>101.35665893554688</score>
+</geoname>
+<geoname>
+<toponymName>Welshpool</toponymName>
+<name>Welshpool</name>
+<lat>52.65973</lat>
+<lng>-3.1471</lng>
+<geonameId>2634560</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5600</population>
+<alternateNames>Welshpool,Y Trallwng</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN106</adminCode3>
+<adminName3>Welshpool</adminName3>
+<alternateName lang="cy">Y Trallwng</alternateName>
+<alternateName lang="en">Welshpool</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Welshpool</alternateName>
+<alternateName lang="post">SY21</alternateName>
+<alternateName lang="unlc">WPS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.16193</west>
+<north>52.66873</north>
+<east>-3.13227</east>
+<south>52.65074</south>
+</bbox>
+<score>85.3770523071289</score>
+</geoname>
+<geoname>
+<toponymName>Welshpool</toponymName>
+<name>Welshpool</name>
+<lat>52.65703</lat>
+<lng>-3.14286</lng>
+<geonameId>6288535</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>STDM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>stadium</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>18.273513793945312</score>
+</geoname>
+</geonames>

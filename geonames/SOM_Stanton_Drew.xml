@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Stanton Drew</toponymName>
+<name>Stanton Drew</name>
+<lat>51.36107</lat>
+<lng>-2.56951</lng>
+<geonameId>7296083</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA042</adminCode3>
+<adminName3>Stanton Drew</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stanton_Drew</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.59605</west>
+<north>51.37805</north>
+<east>-2.54297</east>
+<south>51.34409</south>
+</bbox>
+<score>65.34364318847656</score>
+</geoname>
+</geonames>

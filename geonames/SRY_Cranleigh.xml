@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cranleigh</toponymName>
+<name>Cranleigh</name>
+<lat>51.14209</lat>
+<lng>-0.48374</lng>
+<geonameId>2652082</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9247</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UL</adminCode3>
+<adminName3>Waverley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cranleigh</alternateName>
+<alternateName lang="unlc">CGH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.50271</west>
+<north>51.15399</north>
+<east>-0.46477</east>
+<south>51.1302</south>
+</bbox>
+<score>98.6305923461914</score>
+</geoname>
+<geoname>
+<toponymName>Cranleigh</toponymName>
+<name>Cranleigh</name>
+<lat>51.13556</lat>
+<lng>-0.49197</lng>
+<geonameId>7297363</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UL</adminCode3>
+<adminName3>Waverley District</adminName3>
+<adminCode4>43UL005</adminCode4>
+<adminName4>Cranleigh</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.53426</west>
+<north>51.17952</north>
+<east>-0.44967</east>
+<south>51.09161</south>
+</bbox>
+<score>79.35822296142578</score>
+</geoname>
+</geonames>

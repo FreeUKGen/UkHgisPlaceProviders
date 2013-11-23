@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Jeffreyston</toponymName>
+<name>Jeffreyston</name>
+<lat>51.725</lat>
+<lng>-4.7675</lng>
+<geonameId>2645967</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Jefferston,Jeffreston,Jeffreyston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS026</adminCode3>
+<adminName3>Jeffreyston</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.79655</west>
+<north>51.74299</north>
+<east>-4.73845</east>
+<south>51.70701</south>
+</bbox>
+<score>76.51472473144531</score>
+</geoname>
+<geoname>
+<toponymName>Jeffreyston</toponymName>
+<name>Jeffreyston</name>
+<lat>51.73831</lat>
+<lng>-4.79644</lng>
+<geonameId>7301102</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS026</adminCode3>
+<adminName3>Jeffreyston</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Jeffreyston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.83323</west>
+<north>51.77385</north>
+<east>-4.75965</east>
+<south>51.70277</south>
+</bbox>
+<score>74.4688720703125</score>
+</geoname>
+</geonames>

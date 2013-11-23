@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Barton Bendish</toponymName>
+<name>Barton Bendish</name>
+<lat>52.61553</lat>
+<lng>0.54319</lng>
+<geonameId>7301876</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<adminCode4>33UE003</adminCode4>
+<adminName4>Barton Bendish</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barton_Bendish</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.51092</west>
+<north>52.64518</north>
+<east>0.57545</east>
+<south>52.58588</south>
+</bbox>
+<score>53.636444091796875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Ysgubor-y-Coed</toponymName>
+<name>Ysgubor-y-Coed</name>
+<lat>52.53437</lat>
+<lng>-3.91866</lng>
+<geonameId>7294041</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ049</adminCode3>
+<adminName3>Ysgubor-y-Coed</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.00112</west>
+<north>52.56243</north>
+<east>-3.83619</east>
+<south>52.50631</south>
+</bbox>
+<score>103.40365600585938</score>
+</geoname>
+</geonames>

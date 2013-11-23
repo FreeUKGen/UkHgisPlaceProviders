@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Puncheston</toponymName>
+<name>Puncheston</name>
+<lat>51.93148</lat>
+<lng>-4.88393</lng>
+<geonameId>7291007</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS057</adminCode3>
+<adminName3>Puncheston</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.9618</west>
+<north>51.96008</north>
+<east>-4.80606</east>
+<south>51.90288</south>
+</bbox>
+<score>108.65621948242188</score>
+</geoname>
+<geoname>
+<toponymName>Puncheston</toponymName>
+<name>Puncheston</name>
+<lat>51.93028</lat>
+<lng>-4.89978</lng>
+<geonameId>2639850</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS057</adminCode3>
+<adminName3>Puncheston</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Puncheston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.91436</west>
+<north>51.93928</north>
+<east>-4.88519</east>
+<south>51.92129</south>
+</bbox>
+<score>87.75396728515625</score>
+</geoname>
+</geonames>

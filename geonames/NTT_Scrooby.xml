@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Scrooby</toponymName>
+<name>Scrooby</name>
+<lat>53.40978</lat>
+<lng>-1.02232</lng>
+<geonameId>2638329</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.03741</west>
+<north>53.41878</north>
+<east>-1.00723</east>
+<south>53.40079</south>
+</bbox>
+<score>66.00886535644531</score>
+</geoname>
+<geoname>
+<toponymName>Scrooby</toponymName>
+<name>Scrooby</name>
+<lat>53.40819</lat>
+<lng>-1.01771</lng>
+<geonameId>7299025</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<adminCode4>37UC049</adminCode4>
+<adminName4>Scrooby</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Scrooby</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.04004</west>
+<north>53.42672</north>
+<east>-0.99539</east>
+<south>53.38967</south>
+</bbox>
+<score>60.419189453125</score>
+</geoname>
+</geonames>

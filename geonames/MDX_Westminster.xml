@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>City of Westminster</toponymName>
+<name>City of Westminster</name>
+<lat>51.5</lat>
+<lng>-0.16667</lng>
+<geonameId>3333218</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>234100</population>
+<alternateNames>City of Westminster,WSM,Westminster</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>P5</adminCode3>
+<adminName3>City of Westminster</adminName3>
+<alternateName lang="abbr">WSM</alternateName>
+<alternateName lang="en">City of Westminster</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/City_of_Westminster</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.21609</west>
+<north>51.53979</north>
+<east>-0.1111</east>
+<south>51.48381</south>
+</bbox>
+<score>38.71281051635742</score>
+</geoname>
+<geoname>
+<toponymName>City of Westminster</toponymName>
+<name>City of Westminster</name>
+<lat>51.5</lat>
+<lng>-0.11667</lng>
+<geonameId>2634341</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Westminster</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>P5</adminCode3>
+<adminName3>City of Westminster</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Westminster</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.14557</west>
+<north>51.51799</north>
+<east>-0.08776</east>
+<south>51.48201</south>
+</bbox>
+<score>38.62131118774414</score>
+</geoname>
+<geoname>
+<toponymName>Westminster</toponymName>
+<name>Westminster</name>
+<lat>52.971</lat>
+<lng>-1.153</lng>
+<geonameId>6467820</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J8</adminCode2>
+<adminName2>Nottingham</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>14.90616512298584</score>
+</geoname>
+</geonames>

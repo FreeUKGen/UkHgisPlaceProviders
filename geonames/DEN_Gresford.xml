@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Gresford</toponymName>
+<name>Gresford</name>
+<lat>53.08539</lat>
+<lng>-2.97062</lng>
+<geonameId>2647919</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5393</population>
+<alternateNames>Gresford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z4</adminCode2>
+<adminName2>Wrexham</adminName2>
+<adminCode3>00NL015</adminCode3>
+<adminName3>Gresford</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gresford</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.9856</west>
+<north>53.09438</north>
+<east>-2.95565</east>
+<south>53.0764</south>
+</bbox>
+<score>112.72010040283203</score>
+</geoname>
+<geoname>
+<toponymName>Gresford</toponymName>
+<name>Gresford</name>
+<lat>53.08461</lat>
+<lng>-2.96826</lng>
+<geonameId>7297550</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z4</adminCode2>
+<adminName2>Wrexham</adminName2>
+<adminCode3>00NL015</adminCode3>
+<adminName3>Gresford</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.99731</west>
+<north>53.10246</north>
+<east>-2.9392</east>
+<south>53.06677</south>
+</bbox>
+<score>106.96673583984375</score>
+</geoname>
+</geonames>

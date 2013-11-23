@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Saint Martin</toponymName>
+<name>Saint Martin</name>
+<lat>49.43333</lat>
+<lng>-2.55722</lng>
+<geonameId>6417224</geonameId>
+<countryCode>GG</countryCode>
+<countryName>Guernsey</countryName>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>first-order administrative division</fcodeName>
+<population/>
+<alternateNames>Saint Martin,St. Martin</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1>6417224</adminCode1>
+<adminName1>Saint Martin</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Saint Martin</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saint_Martin%2C_Guernsey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Guernsey</timezone>
+<score>70.4825439453125</score>
+</geoname>
+<geoname>
+<toponymName>St Martin</toponymName>
+<name>St Martin</name>
+<lat>49.43713</lat>
+<lng>-2.55479</lng>
+<geonameId>6696773</geonameId>
+<countryCode>GG</countryCode>
+<countryName>Guernsey</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Guernsey</timezone>
+<bbox>
+<west>-2.56863</west>
+<north>49.44612</north>
+<east>-2.54096</east>
+<south>49.42814</south>
+</bbox>
+<score>38.6837043762207</score>
+</geoname>
+<geoname>
+<toponymName>St Martin</toponymName>
+<name>St Martin</name>
+<lat>49.21917</lat>
+<lng>-2.04989</lng>
+<geonameId>8199130</geonameId>
+<countryCode>JE</countryCode>
+<countryName>Jersey</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Jersey</timezone>
+<bbox>
+<west>-2.06367</west>
+<north>49.22816</north>
+<east>-2.03612</east>
+<south>49.21017</south>
+</bbox>
+<score>38.6837043762207</score>
+</geoname>
+<geoname>
+<toponymName>Saint Martin's</toponymName>
+<name>St Martin's</name>
+<lat>49.96436</lat>
+<lng>-6.29105</lng>
+<geonameId>6943075</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>142</population>
+<alternateNames>Saint Martin's,St Martin's,St Martins</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z9</adminCode2>
+<adminName2>Isles of Scilly</adminName2>
+<adminCode3>00HF003</adminCode3>
+<adminName3>St. Martin's</adminName3>
+<alternateName lang="en">St Martin's</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St_Martin%27s,_Isles_of_Scilly</alternateName>
+<alternateName lang="post">TR21</alternateName>
+<alternateName lang="unlc">SQK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-6.29244</west>
+<north>49.96526</north>
+<east>-6.28965</east>
+<south>49.96346</south>
+</bbox>
+<score>35.74714660644531</score>
+</geoname>
+</geonames>

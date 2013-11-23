@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wrexham</toponymName>
+<name>Wrexham</name>
+<lat>53.04664</lat>
+<lng>-2.99132</lng>
+<geonameId>2633485</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>43649</population>
+<alternateNames>Reksamas,Reksem,Reksum,Rexam,Wrecsam,Wreksam,Wrexham,legseom,Ρέξαμ,Рексем,Рексъм,רקסהאם,렉섬</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z4</adminCode2>
+<adminName2>Wrexham</adminName2>
+<adminCode3>00NL007</adminCode3>
+<adminName3>Caia Park</adminName3>
+<alternateName lang="bg">Рексъм</alternateName>
+<alternateName lang="br">Wrecsam</alternateName>
+<alternateName lang="cy">Wrecsam</alternateName>
+<alternateName lang="de">Wrexham</alternateName>
+<alternateName lang="el">Ρέξαμ</alternateName>
+<alternateName lang="en">Wrexham</alternateName>
+<alternateName lang="fr">Wrexham</alternateName>
+<alternateName lang="he">רקסהאם</alternateName>
+<alternateName lang="it">Wrexham</alternateName>
+<alternateName lang="ko">렉섬</alternateName>
+<alternateName lang="kw">Wreksam</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wrexham</alternateName>
+<alternateName lang="lt">Reksamas</alternateName>
+<alternateName lang="no">Wrexham</alternateName>
+<alternateName lang="pl">Wrexham</alternateName>
+<alternateName lang="pt">Wrexham</alternateName>
+<alternateName lang="sv">Wrexham</alternateName>
+<alternateName lang="uk">Рексем</alternateName>
+<alternateName lang="unlc">WXH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.03623</west>
+<north>53.07362</north>
+<east>-2.94641</east>
+<south>53.01966</south>
+</bbox>
+<score>137.857177734375</score>
+</geoname>
+<geoname>
+<toponymName>Wrexham</toponymName>
+<name>Wrexham</name>
+<lat>53</lat>
+<lng>-3</lng>
+<geonameId>2633484</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>130000</population>
+<alternateNames>Bwrdeistref Sirol Wrecsam,Co-chorp Coontae Wrecsam,County Borough of Wrexham,Kontelezh Wrecsam,Rehksem,Reksem,Reksum,WRX,Wrecsam,Wrexham,Wrexham Coonty Burgh,Wrexham County Borough,Wrexham Maelor,legseom ju,Рексем,Рексъм,Рэксем,רקסהאם,렉섬 주</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z4</adminCode2>
+<adminName2>Wrexham</adminName2>
+<alternateName lang="abbr">WRX</alternateName>
+<alternateName lang="be">Рэксем</alternateName>
+<alternateName lang="bg">Рексъм</alternateName>
+<alternateName lang="br">Kontelezh Wrecsam</alternateName>
+<alternateName lang="cy">Wrecsam</alternateName>
+<alternateName lang="en">Wrexham</alternateName>
+<alternateName lang="es">Wrexham County Borough</alternateName>
+<alternateName lang="gv">Co-chorp Coontae Wrecsam</alternateName>
+<alternateName lang="he">רקסהאם</alternateName>
+<alternateName lang="ko">렉섬 주</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wrexham_County_Borough</alternateName>
+<alternateName lang="ru">Рексем</alternateName>
+<alternateName lang="scn">Wrecsam</alternateName>
+<alternateName lang="sco">Wrexham Coonty Burgh</alternateName>
+<alternateName lang="uk">Рексем</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.37552</west>
+<north>53.13431</north>
+<east>-2.72413</east>
+<south>52.86659</south>
+</bbox>
+<score>71.3692626953125</score>
+</geoname>
+</geonames>

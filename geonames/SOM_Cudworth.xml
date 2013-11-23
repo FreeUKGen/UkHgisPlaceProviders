@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cudworth</toponymName>
+<name>Cudworth</name>
+<lat>53.57131</lat>
+<lng>-1.41595</lng>
+<geonameId>2651778</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11903</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A3</adminCode2>
+<adminName2>Barnsley</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cudworth%2C_South_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.43867</west>
+<north>53.5848</north>
+<east>-1.39322</east>
+<south>53.55782</south>
+</bbox>
+<score>102.999267578125</score>
+</geoname>
+<geoname>
+<toponymName>Cudworth</toponymName>
+<name>Cudworth</name>
+<lat>50.89118</lat>
+<lng>-2.89596</lng>
+<geonameId>7292410</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD036</adminCode4>
+<adminName4>Cudworth</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cudworth%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.91589</west>
+<north>50.90723</north>
+<east>-2.87604</east>
+<south>50.87512</south>
+</bbox>
+<score>51.4996337890625</score>
+</geoname>
+</geonames>

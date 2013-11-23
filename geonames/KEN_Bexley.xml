@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bexley</toponymName>
+<name>Bexley</name>
+<lat>51.44162</lat>
+<lng>0.14866</lng>
+<geonameId>2655775</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population>228000</population>
+<alternateNames>Bexley,Bexley keruelet,Bexley kerület,London Borough of Bexley,Londonska opshtina Beksli,Лондонска општина Бексли</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>A6</adminCode3>
+<adminName3>Bexley</adminName3>
+<alternateName lang="cs">Bexley</alternateName>
+<alternateName lang="en">Bexley</alternateName>
+<alternateName lang="fi">Bexley</alternateName>
+<alternateName lang="fr">Bexley</alternateName>
+<alternateName lang="hu">Bexley kerület</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bexley</alternateName>
+<alternateName lang="nl">Bexley</alternateName>
+<alternateName lang="no">Bexley</alternateName>
+<alternateName lang="post">DA5</alternateName>
+<alternateName lang="ro">Bexley</alternateName>
+<alternateName lang="sr">Лондонска општина Бексли</alternateName>
+<alternateName lang="unlc">BEX</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.04908</west>
+<north>51.50361</north>
+<east>0.24824</east>
+<south>51.37964</south>
+</bbox>
+<score>151.75497436523438</score>
+</geoname>
+<geoname>
+<toponymName>Bexley</toponymName>
+<name>Bexley</name>
+<lat>51.41667</lat>
+<lng>0.13333</lng>
+<geonameId>3333124</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>228000</population>
+<alternateNames>BEX,Bexley,London Borough of Bexley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>A6</adminCode3>
+<adminName3>Bexley</adminName3>
+<alternateName lang="abbr">BEX</alternateName>
+<alternateName lang="en">Bexley</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/London_Borough_of_Bexley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.07465</west>
+<north>51.51554</north>
+<east>0.22368</east>
+<south>51.40848</south>
+</bbox>
+<score>64.20628356933594</score>
+</geoname>
+</geonames>

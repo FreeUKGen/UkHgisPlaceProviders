@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>St. Martin-in-Meneage</toponymName>
+<name>St. Martin-in-Meneage</name>
+<lat>50.07027</lat>
+<lng>-5.16641</lng>
+<geonameId>7294448</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE169</adminCode3>
+<adminName3>St. Martin-in-Meneage</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.19447</west>
+<north>50.09391</north>
+<east>-5.13835</east>
+<south>50.04662</south>
+</bbox>
+<score>89.2003173828125</score>
+</geoname>
+</geonames>

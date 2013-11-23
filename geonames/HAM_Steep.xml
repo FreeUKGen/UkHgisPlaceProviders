@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Steep</toponymName>
+<name>Steep</name>
+<lat>51.02277</lat>
+<lng>-0.94212</lng>
+<geonameId>2636975</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UC</adminCode3>
+<adminName3>East Hampshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Steep</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.95642</west>
+<north>51.03177</north>
+<east>-0.92782</east>
+<south>51.01378</south>
+</bbox>
+<score>84.80570983886719</score>
+</geoname>
+<geoname>
+<toponymName>Steep</toponymName>
+<name>Steep</name>
+<lat>51.02074</lat>
+<lng>-0.93516</lng>
+<geonameId>7298646</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UC</adminCode3>
+<adminName3>East Hampshire</adminName3>
+<adminCode4>24UC033</adminCode4>
+<adminName4>Steep</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.97695</west>
+<north>51.0407</north>
+<east>-0.89336</east>
+<south>51.00079</south>
+</bbox>
+<score>72.8905258178711</score>
+</geoname>
+</geonames>

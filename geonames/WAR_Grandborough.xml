@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Grandborough</toponymName>
+<name>Grandborough</name>
+<lat>52.29683</lat>
+<lng>-1.28034</lng>
+<geonameId>2648223</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UD</adminCode3>
+<adminName3>Rugby District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Grandborough</alternateName>
+<alternateName lang="unlc">GBH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.29505</west>
+<north>52.30582</north>
+<east>-1.26563</east>
+<south>52.28783</south>
+</bbox>
+<score>85.31221008300781</score>
+</geoname>
+<geoname>
+<toponymName>Grandborough</toponymName>
+<name>Grandborough</name>
+<lat>52.29293</lat>
+<lng>-1.29063</lng>
+<geonameId>7301485</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UD</adminCode3>
+<adminName3>Rugby District</adminName3>
+<adminCode4>44UD017</adminCode4>
+<adminName4>Grandborough</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.33486</west>
+<north>52.32841</north>
+<east>-1.2464</east>
+<south>52.25745</south>
+</bbox>
+<score>76.00455474853516</score>
+</geoname>
+<geoname>
+<toponymName>Grandborough</toponymName>
+<name>Grandborough</name>
+<lat>51.91667</lat>
+<lng>-0.88333</lng>
+<geonameId>2648224</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UB</adminCode3>
+<adminName3>Aylesbury Vale</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.89792</west>
+<north>51.92566</north>
+<east>-0.86875</east>
+<south>51.90767</south>
+</bbox>
+<score>60.50189208984375</score>
+</geoname>
+</geonames>

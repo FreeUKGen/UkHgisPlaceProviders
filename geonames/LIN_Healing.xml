@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Healing</toponymName>
+<name>Healing</name>
+<lat>53.58319</lat>
+<lng>-0.1497</lng>
+<geonameId>7298229</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC011</adminCode3>
+<adminName3>Healing</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.19518</west>
+<north>53.60283</north>
+<east>-0.10423</east>
+<south>53.56355</south>
+</bbox>
+<score>93.15318298339844</score>
+</geoname>
+<geoname>
+<toponymName>Healing</toponymName>
+<name>Healing</name>
+<lat>53.58101</lat>
+<lng>-0.16202</lng>
+<geonameId>2647229</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2664</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC011</adminCode3>
+<adminName3>Healing</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Healing%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.17274</west>
+<north>53.58737</north>
+<east>-0.15131</east>
+<south>53.57465</south>
+</bbox>
+<score>90.3211669921875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,187 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>231</id>
+<name>GRANTHAM</name>
+<container>LINCOLNSHIRE</container>
+<lat>52.9090714940338</lat>
+<lon>-0.643884086209256</lon>
+<gazetteerText>Grantham.-- parl. and mun. bor., market town, par., and township, S. Lincolnshire, 25 miles SW. of Lincoln and 105 miles N. of London by rail -- parl. bor., 5811 ac., pop. 17,345; mun. bor., 1676 ac., pop. 16,886; par., 5560 ac., pop. 16,442; township, pop. 6080; 3 Banks, 2 newspapers. Market-day, Saturday. From its being situated on the Roman road called Ermine Street, it has been assumed that Grantham was a strong Roman station. The town was first incorporated by Edward IV. in 1463. At the grammar-school Sir Isaac Newton (1642-1727) was educated. With the exception of some agricultural trade, some malting, and a few minor industries, Grantham has no great commercial importance. It returns 1 member to Parliament. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LIN/Grantham/</link>
+<link>http://en.wikipedia.org/wiki/Grantham</link>
+<link>http://www.workhouses.org.uk/Grantham</link>
+<link>http://www.geonames.org/2648208</link>
+</links>
+<unit>
+   <id>10027070</id>
+   <status>MB</status>
+   <name>GRANTHAM</name>
+</unit>
+<unit>
+   <id>10043591</id>
+   <status>USD</status>
+   <name>GRANTHAM</name>
+</unit>
+<unit>
+   <id>10081609</id>
+   <status>RSD</status>
+   <name>GRANTHAM</name>
+</unit>
+<unit>
+   <id>10140031</id>
+   <status>Soke</status>
+   <name>GRANTHAM</name>
+</unit>
+<unit>
+   <id>10174960</id>
+   <status>Borough</status>
+   <name>GRANTHAM</name>
+</unit>
+<unit>
+   <id>10187850</id>
+   <status>RegD/PLU</status>
+   <name>GRANTHAM</name>
+</unit>
+<unit>
+   <id>10196978</id>
+   <status>RD</status>
+   <name>GRANTHAM</name>
+</unit>
+<unit>
+   <id>10418276</id>
+   <status>Tn/AP/CP</status>
+   <name>GRANTHAM</name>
+</unit>
+<unit>
+   <id>10418379</id>
+   <status>EP</status>
+   <name>GRANTHAM</name>
+</unit>
+<unit>
+   <id>10418380</id>
+   <status>CP/ExP</status>
+   <name>GRANTHAM GRANGE</name>
+</unit>
+<unit>
+   <id>10418422</id>
+   <status>EP</status>
+   <name>GRANTHAM ST ANNE</name>
+</unit>
+<unit>
+   <id>10418434</id>
+   <status>EP</status>
+   <name>GRANTHAM ST JOHN</name>
+</unit>
+<unit>
+   <id>10547842</id>
+   <status></status>
+   <name>GRANTHAM NORTH</name>
+</unit>
+<unit>
+   <id>10547854</id>
+   <status></status>
+   <name>GRANTHAM SOUTH</name>
+</unit>
+<unit>
+   <id>10562612</id>
+   <status></status>
+   <name>GRANTHAM</name>
+</unit>
+<unit>
+   <id>10574020</id>
+   <status></status>
+   <name>GRANTHAM</name>
+</unit>
+<unit>
+   <id>10574031</id>
+   <status></status>
+   <name>GRANTHAM</name>
+</unit>
+<unit>
+   <id>10574043</id>
+   <status></status>
+   <name>GRANTHAM 1</name>
+</unit>
+<unit>
+   <id>10574055</id>
+   <status></status>
+   <name>GRANTHAM 2</name>
+</unit>
+<unit>
+   <id>10580055</id>
+   <status></status>
+   <name>SOUTH GRANTHAM</name>
+</unit>
+<unit>
+   <id>10583378</id>
+   <status></status>
+   <name>NORTH GRANTHAM</name>
+</unit>
+<unit>
+   <id>12738705</id>
+   <status>PDivCon</status>
+   <name>LINCOLNSHIRE PARTS OF KESTEVEN AND RUTLAND GRANTHAM</name>
+</unit>
+<unit>
+   <id>12739825</id>
+   <status>CCon</status>
+   <name>GRANTHAM AND STAMFORD</name>
+</unit>
+<unit>
+   <id>12743701</id>
+   <status>PBCon</status>
+   <name>GRANTHAM</name>
+</unit>
+<unit>
+   <id>12756781</id>
+   <status>CCon</status>
+   <name>GRANTHAM</name>
+</unit>
+<unit>
+   <id>12829140</id>
+   <status></status>
+   <name>GRANTHAM</name>
+</unit>
+<nearByPlace>
+   <id>103</id>
+   <name>BOURNE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>780</id>
+   <name>SLEAFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10633</id>
+   <name>BOTTESFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11569</id>
+   <name>BILLINGBOROUGH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12006</id>
+   <name>CRANWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12010</id>
+   <name>CROWLAND</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12020</id>
+   <name>MARKET DEEPING</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12023</id>
+   <name>DEEPING ST NICHOLAS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12323</id>
+   <name>GREAT GONERBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13653</id>
+   <name>SPITTLEGATE</name>
+</nearByPlace>
+</place>
+</results>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hatch Beauchamp</toponymName>
+<name>Hatch Beauchamp</name>
+<lat>50.97757</lat>
+<lng>-2.99774</lng>
+<geonameId>2647352</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hatch_Beauchamp</alternateName>
+<alternateName lang="unlc">HBU</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.01203</west>
+<north>50.98657</north>
+<east>-2.98346</east>
+<south>50.96858</south>
+</bbox>
+<score>79.16499328613281</score>
+</geoname>
+<geoname>
+<toponymName>Hatch Beauchamp</toponymName>
+<name>Hatch Beauchamp</name>
+<lat>50.97368</lat>
+<lng>-2.99521</lng>
+<geonameId>7298270</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<adminCode4>40UE021</adminCode4>
+<adminName4>Hatch Beauchamp</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.01532</west>
+<north>50.99028</north>
+<east>-2.9751</east>
+<south>50.95708</south>
+</bbox>
+<score>72.94544982910156</score>
+</geoname>
+</geonames>

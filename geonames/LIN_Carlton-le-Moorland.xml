@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Carlton le Moorland</toponymName>
+<name>Carlton le Moorland</name>
+<lat>53.11163</lat>
+<lng>-0.64469</lng>
+<geonameId>2653759</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Carlton,Carlton le Moorland</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.65968</west>
+<north>53.12062</north>
+<east>-0.62971</east>
+<south>53.10263</south>
+</bbox>
+<score>65.52713012695312</score>
+</geoname>
+<geoname>
+<toponymName>Carlton-le-Moorland</toponymName>
+<name>Carlton-le-Moorland</name>
+<lat>53.1057</lat>
+<lng>-0.639</lng>
+<geonameId>7298679</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<adminCode4>32UE018</adminCode4>
+<adminName4>Carlton-le-Moorland</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Carlton-le-Moorland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.67725</west>
+<north>53.12357</north>
+<east>-0.60075</east>
+<south>53.08783</south>
+</bbox>
+<score>57.973731994628906</score>
+</geoname>
+</geonames>

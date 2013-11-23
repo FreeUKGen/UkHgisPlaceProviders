@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Loughborough</toponymName>
+<name>Loughborough</name>
+<lat>52.76667</lat>
+<lng>-1.2</lng>
+<geonameId>2643567</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>59317</population>
+<alternateNames>Lafboro,Loughborough,Lufburou,la fu bao,lafbwrw,rafubara,Лафборо,Лъфбъроу,لافبورو,ラフバラー,拉夫堡</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>Charnwood District</adminName3>
+<alternateName lang="bg">Лъфбъроу</alternateName>
+<alternateName lang="en">Loughborough</alternateName>
+<alternateName lang="fa">لافبورو</alternateName>
+<alternateName lang="ja">ラフバラー</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Loughborough</alternateName>
+<alternateName lang="ru">Лафборо</alternateName>
+<alternateName lang="sr">Лафборо</alternateName>
+<alternateName lang="unlc">LOU</alternateName>
+<alternateName lang="zh">拉夫堡</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.25206</west>
+<north>52.79814</north>
+<east>-1.14794</east>
+<south>52.73519</south>
+</bbox>
+<score>113.82764434814453</score>
+</geoname>
+</geonames>

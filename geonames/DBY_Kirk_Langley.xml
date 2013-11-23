@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kirk Langley</toponymName>
+<name>Kirk Langley</name>
+<lat>52.94597</lat>
+<lng>-1.57254</lng>
+<geonameId>2645256</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UB</adminCode3>
+<adminName3>Amber Valley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirk_Langley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.58747</west>
+<north>52.95496</north>
+<east>-1.55761</east>
+<south>52.93698</south>
+</bbox>
+<score>82.3885498046875</score>
+</geoname>
+<geoname>
+<toponymName>Kirk Langley</toponymName>
+<name>Kirk Langley</name>
+<lat>52.95008</lat>
+<lng>-1.57955</lng>
+<geonameId>7300186</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UB</adminCode3>
+<adminName3>Amber Valley District</adminName3>
+<adminCode4>17UB020</adminCode4>
+<adminName4>Kirk Langley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.6101</west>
+<north>52.96712</north>
+<east>-1.54901</east>
+<south>52.93304</south>
+</bbox>
+<score>71.59261322021484</score>
+</geoname>
+</geonames>

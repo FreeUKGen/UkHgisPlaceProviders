@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Greenwich</toponymName>
+<name>Greenwich</name>
+<lat>51.45</lat>
+<lng>0.05</lng>
+<geonameId>3333147</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>228500</population>
+<alternateNames>Burgul londonez Greenwich,GRE,Greenwich,Grenovicum,Grinvich,London Borough of Greenwich,ghrynytsh,grynyz',gurinijji,Гринвич,גריניץ',غرينيتش,グリニッジ</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>E7</adminCode3>
+<adminName3>Greenwich</adminName3>
+<alternateName lang="abbr">GRE</alternateName>
+<alternateName lang="ar">غرينيتش</alternateName>
+<alternateName lang="cs">Greenwich</alternateName>
+<alternateName lang="en">Greenwich</alternateName>
+<alternateName lang="fi">Greenwich</alternateName>
+<alternateName lang="he">גריניץ'</alternateName>
+<alternateName lang="id">Greenwich</alternateName>
+<alternateName lang="it">Greenwich</alternateName>
+<alternateName lang="ja">グリニッジ</alternateName>
+<alternateName lang="la">Grenovicum</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/London_Borough_of_Greenwich</alternateName>
+<alternateName lang="nl">Greenwich</alternateName>
+<alternateName lang="no">Greenwich</alternateName>
+<alternateName lang="ro">Greenwich</alternateName>
+<alternateName lang="ru">Гринвич</alternateName>
+<alternateName lang="sl">Greenwich</alternateName>
+<alternateName lang="sv">Greenwich</alternateName>
+<alternateName lang="tr">Greenwich</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.02641</west>
+<north>51.51359</north>
+<east>0.12416</east>
+<south>51.42373</south>
+</bbox>
+<score>55.29248809814453</score>
+</geoname>
+<geoname>
+<toponymName>Greenwich</toponymName>
+<name>Greenwich</name>
+<lat>51.47785</lat>
+<lng>-0.01176</lng>
+<geonameId>2647937</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Barrio de Greenwich,Greenwich,Grenovicum,Grinica,Grinich,Griniča,Grinuich,Grinvicas,Grinvich,Grinvičas,Grynvich,ge lin ni zhi,geulinichi,ghrynytsh,grenisa,grynwych,grynyz',gurinijji,kirenic,kri nich,Гринвич,Гринвіч,Гринич,Гринуич,Грынвіч,גריניץ',غرينيتش,گرینویچ,ग्रेनिश,கிரேனிச்,గ్రీన్‌విచ్,กรีนิช,グリニッジ,格林尼治,그리니치</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>E7</adminCode3>
+<adminName3>Greenwich</adminName3>
+<alternateName lang="ar">غرينيتش</alternateName>
+<alternateName lang="be">Грынвіч</alternateName>
+<alternateName lang="bg">Гринуич</alternateName>
+<alternateName lang="es">Barrio de Greenwich</alternateName>
+<alternateName lang="fa">گرینویچ</alternateName>
+<alternateName lang="he">גריניץ'</alternateName>
+<alternateName lang="hi">ग्रेनिश</alternateName>
+<alternateName lang="ja">グリニッジ</alternateName>
+<alternateName lang="ko">그리니치</alternateName>
+<alternateName lang="la">Grenovicum</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Greenwich</alternateName>
+<alternateName lang="lt">Grinvičas</alternateName>
+<alternateName lang="lv">Griniča</alternateName>
+<alternateName lang="ru">Гринвич</alternateName>
+<alternateName lang="sr">Гринич</alternateName>
+<alternateName lang="ta">கிரேனிச்</alternateName>
+<alternateName lang="te">గ్రీన్‌విచ్</alternateName>
+<alternateName lang="th">กรีนิช</alternateName>
+<alternateName lang="uk">Гринвіч</alternateName>
+<alternateName lang="unlc">GNW</alternateName>
+<alternateName lang="zh">格林尼治</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.01754</west>
+<north>51.48145</north>
+<east>-0.00598</east>
+<south>51.47426</south>
+</bbox>
+<score>42.48397445678711</score>
+</geoname>
+<geoname>
+<toponymName>Royal Greenwich Observatory</toponymName>
+<name>Royal Observatory</name>
+<lat>51.47724</lat>
+<lng>-0.00004</lng>
+<geonameId>6295636</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>OBS</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>observatory</fcodeName>
+<population/>
+<alternateNames>Greenwich,Greenwich Goezlemevi,Greenwich Gözlemevi,Koninklijk Greenwich Observatorium,Kralovska greenvichska observator,Krolewskie Obserwatorium Astronomiczne w Greenwich,Královská greenvichská observatoř,Królewskie Obserwatorium Astronomiczne w Greenwich,Observatoire royal de Greenwich,Observatorio de Greenwich,Observatorul Regal din Greenwich,Observatório de Greenwich,Osservatorio di Greenwich,Royal Greenwich Observatory,Royal Observatory,Yr Arsyllfa Frenhinol,ge lin ni zhi tian wen tai,gurinijji tian wen tai,mzph hkwkbym hmlkwty sl grynyz',osservatorio di Greenwich,מצפה הכוכבים המלכותי של גריניץ',グリニッジ天文台,格林尼治天文台</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>E7</adminCode3>
+<adminName3>Greenwich</adminName3>
+<alternateName lang="cs">Královská greenvichská observatoř</alternateName>
+<alternateName lang="cy">Yr Arsyllfa Frenhinol</alternateName>
+<alternateName lang="de">Royal Greenwich Observatory</alternateName>
+<alternateName lang="en">Royal Observatory</alternateName>
+<alternateName lang="es">Observatorio de Greenwich</alternateName>
+<alternateName lang="fr">Observatoire royal de Greenwich</alternateName>
+<alternateName lang="he">מצפה הכוכבים המלכותי של גריניץ'</alternateName>
+<alternateName lang="it">Osservatorio di Greenwich</alternateName>
+<alternateName lang="ja">グリニッジ天文台</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Royal_Observatory%2C_Greenwich</alternateName>
+<alternateName lang="nl">Koninklijk Greenwich Observatorium</alternateName>
+<alternateName lang="pl">Królewskie Obserwatorium Astronomiczne w Greenwich</alternateName>
+<alternateName lang="pt">Observatório de Greenwich</alternateName>
+<alternateName lang="ro">Observatorul Regal din Greenwich</alternateName>
+<alternateName lang="sv">Greenwich</alternateName>
+<alternateName lang="tr">Greenwich Gözlemevi</alternateName>
+<alternateName lang="zh">格林尼治天文台</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>31.25368881225586</score>
+</geoname>
+</geonames>

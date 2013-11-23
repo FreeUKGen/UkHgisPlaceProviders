@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Cwmcarvan</toponymName>
+<name>Cwmcarvan</name>
+<lat>51.76418</lat>
+<lng>-2.7588</lng>
+<geonameId>2651652</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP024</adminCode3>
+<adminName3>Mitchel Troy</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cwmcarvan</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.77334</west>
+<north>51.77317</north>
+<east>-2.74427</east>
+<south>51.75518</south>
+</bbox>
+<score>95.02735900878906</score>
+</geoname>
+</geonames>

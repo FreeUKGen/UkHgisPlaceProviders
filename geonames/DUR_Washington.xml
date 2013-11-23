@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Washington</toponymName>
+<name>Washington</name>
+<lat>54.9</lat>
+<lng>-1.51667</lng>
+<geonameId>2634715</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>53526</population>
+<alternateNames>Vashington,Washington,Washington New Town,Вашингтон</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N6</adminCode2>
+<adminName2>Sunderland</adminName2>
+<alternateName lang="en">Washington</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Washington%2C_Tyne_and_Wear</alternateName>
+<alternateName lang="ru">Вашингтон</alternateName>
+<alternateName lang="unlc">WNN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.56858</west>
+<north>54.92983</north>
+<east>-1.46475</east>
+<south>54.87017</south>
+</bbox>
+<score>95.72012329101562</score>
+</geoname>
+<geoname>
+<toponymName>Washington</toponymName>
+<name>Washington</name>
+<lat>50.90487</lat>
+<lng>-0.40649</lng>
+<geonameId>2634716</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1930</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UF</adminCode3>
+<adminName3>Horsham District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.41363</west>
+<north>50.90937</north>
+<east>-0.39936</east>
+<south>50.90038</south>
+</bbox>
+<score>53.604400634765625</score>
+</geoname>
+<geoname>
+<toponymName>Washington</toponymName>
+<name>Washington</name>
+<lat>50.90512</lat>
+<lng>-0.40406</lng>
+<geonameId>7297486</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UF</adminCode3>
+<adminName3>Horsham District</adminName3>
+<adminCode4>45UF029</adminCode4>
+<adminName4>Washington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Washington%2C_West_Sussex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.43123</west>
+<north>50.93065</north>
+<east>-0.37689</east>
+<south>50.87959</south>
+</bbox>
+<score>40.143585205078125</score>
+</geoname>
+</geonames>

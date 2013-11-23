@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Gatton</toponymName>
+<name>Gatton</name>
+<lat>51.2635</lat>
+<lng>-0.17211</lng>
+<geonameId>2648769</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Gatton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UF</adminCode3>
+<adminName3>Reigate and Banstead District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Gatton%2C_Surrey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.18649</west>
+<north>51.27249</north>
+<east>-0.15774</east>
+<south>51.2545</south>
+</bbox>
+<score>93.56781005859375</score>
+</geoname>
+</geonames>

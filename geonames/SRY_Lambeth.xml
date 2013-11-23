@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Lambeth</toponymName>
+<name>Lambeth</name>
+<lat>51.41667</lat>
+<lng>-0.13333</lng>
+<geonameId>3333163</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>284500</population>
+<alternateNames>LBH,Lambeth,London Borough of Lambeth,Londonska opshtina Lambet,Лондонска општина Ламбет</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>H1</adminCode3>
+<adminName3>Lambeth</adminName3>
+<alternateName lang="abbr">LBH</alternateName>
+<alternateName lang="cs">Lambeth</alternateName>
+<alternateName lang="de">London Borough of Lambeth</alternateName>
+<alternateName lang="en">Lambeth</alternateName>
+<alternateName lang="fi">Lambeth</alternateName>
+<alternateName lang="fr">Lambeth</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/London_Borough_of_Lambeth</alternateName>
+<alternateName lang="no">Lambeth</alternateName>
+<alternateName lang="pl">Lambeth</alternateName>
+<alternateName lang="ro">Lambeth</alternateName>
+<alternateName lang="sr">Лондонска општина Ламбет</alternateName>
+<alternateName lang="sv">Lambeth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.15123</west>
+<north>51.50987</north>
+<east>-0.07831</east>
+<south>51.41099</south>
+</bbox>
+<score>69.98927307128906</score>
+</geoname>
+<geoname>
+<toponymName>Lambeth</toponymName>
+<name>Lambeth</name>
+<lat>51.49635</lat>
+<lng>-0.11152</lng>
+<geonameId>6545250</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population>6000</population>
+<alternateNames>Lambeth,Waterloo</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>H1</adminCode3>
+<adminName3>Lambeth</adminName3>
+<alternateName lang="en">Lambeth</alternateName>
+<alternateName lang="unlc">BXE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.12768</west>
+<north>51.5064</north>
+<east>-0.09537</east>
+<south>51.48629</south>
+</bbox>
+<score>64.24209594726562</score>
+</geoname>
+</geonames>

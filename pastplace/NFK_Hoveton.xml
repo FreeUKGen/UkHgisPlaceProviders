@@ -1,0 +1,64 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>3965</id>
+<name>HOVETON ST PETER</name>
+<container>NORFOLK</container>
+<lat>52.7216965487045</lat>
+<lon>1.4295463735999</lon>
+<gazetteerText>HOVETON-ST. PETER, a parish in Tunstead district, Norfolk; near the river Bure, 9 miles NE of Norwich r. station. It has a post office under Norwich. Acres, 952. Real property, &#163;2, 356. Pop., 131. Houses, 27. The property is divided among a few. Hoveton Hall is a chief residence. The living is a vicarage, united with the p. curacy of Hoveton-St. John, in the diocese of Norwich. Value, &#163;134. Patron, the Bishop of Norwich. The church is a brick structure of 1624, and was recently in bad condition. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.origins.org.uk/genuki/NFK/places/h/hoveton_st_peter/</link>
+<link>http://www.geonames.org/7295678</link>
+</links>
+<unit>
+   <id>10123835</id>
+   <status>CP/AP</status>
+   <name>HOVETON ST PETER</name>
+</unit>
+<unit>
+   <id>10505586</id>
+   <status></status>
+   <name>HOVETON ST PETER</name>
+</unit>
+</place>
+<place>
+<id>3908</id>
+<name>HOVETON</name>
+<container>NORFOLK</container>
+<lat>52.7064625156282</lat>
+<lon>1.43106704185826</lon>
+<gazetteerText>HOVETON-ST. JOHN, a parish in Tunstead district, Norfolk; on the river Bure, 8 miles NE of Norwich r. station. Post town, Hoveton-St. Peter, under Norwich. Acres, 1, 541. Real property, &#163;2, 373. Pop., 285. Houses, 60. The property is divided among a few. The manor belongs to the Rev. T. G. Blofield. Hoveton House is a mansion of brick, with Grecian pilasters; and stands in a well wooded park. There is a lake of 123 acres. The living is a p. curacy, annexed to the vicarage of HovetonST. Peter, in the diocese of Norwich. The church is ancient but good; has a brick tower; and stands on a rising ground. There are four alms houses. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.origins.org.uk/genuki/NFK/places/h/hoveton_st_john/</link>
+<link>http://en.wikipedia.org/wiki/Hoveton</link>
+<link>http://www.geonames.org/7295678</link>
+</links>
+<unit>
+   <id>10122971</id>
+   <status>CP/AP</status>
+   <name>HOVETON ST JOHN</name>
+</unit>
+<unit>
+   <id>10124566</id>
+   <status>CP</status>
+   <name>HOVETON</name>
+</unit>
+<nearByPlace>
+   <id>2307</id>
+   <name>BEESTON ST LAWRENCE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3965</id>
+   <name>HOVETON ST PETER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5692</id>
+   <name>NEATISHEAD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5955</id>
+   <name>ASHMANHAUGH</name>
+</nearByPlace>
+</place>
+</results>

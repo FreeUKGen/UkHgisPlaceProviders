@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Isleworth</toponymName>
+<name>Isleworth</name>
+<lat>51.47518</lat>
+<lng>-0.34246</lng>
+<geonameId>2646004</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>20500</population>
+<alternateNames>Isleworth,QIF,a'izalavartha,ayzlwrth,ايزلورث,आइज़लवर्थ</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>G1</adminCode3>
+<adminName3>Hounslow</adminName3>
+<alternateName lang="ar">ايزلورث</alternateName>
+<alternateName lang="en">Isleworth</alternateName>
+<alternateName lang="hi">आइज़लवर्थ</alternateName>
+<alternateName lang="iata">QIF</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Isleworth</alternateName>
+<alternateName lang="unlc">ISW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.37224</west>
+<north>51.49372</north>
+<east>-0.31268</east>
+<south>51.45664</south>
+</bbox>
+<score>86.61884307861328</score>
+</geoname>
+</geonames>

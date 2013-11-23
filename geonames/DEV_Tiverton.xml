@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Tiverton</toponymName>
+<name>Tiverton</name>
+<lat>53.14224</lat>
+<lng>-2.68404</lng>
+<geonameId>7293050</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW149</adminCode3>
+<adminName3>Tiverton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.71832</west>
+<north>53.15345</north>
+<east>-2.64975</east>
+<south>53.13103</south>
+</bbox>
+<score>88.82341003417969</score>
+</geoname>
+<geoname>
+<toponymName>Tiverton</toponymName>
+<name>Tiverton</name>
+<lat>50.9</lat>
+<lng>-3.48333</lng>
+<geonameId>2635762</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>16799</population>
+<alternateNames>Tiverton,Tiverton i Devon,Tivertonia,Tivurtun,Тивъртън</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UD</adminCode3>
+<adminName3>Mid Devon District</adminName3>
+<alternateName lang="bg">Тивъртън</alternateName>
+<alternateName lang="la">Tivertonia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tiverton%2C_Devon</alternateName>
+<alternateName lang="nn">Tiverton i Devon</alternateName>
+<alternateName lang="unlc">TVN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.50905</west>
+<north>50.91621</north>
+<east>-3.45762</east>
+<south>50.88379</south>
+</bbox>
+<score>81.08726501464844</score>
+</geoname>
+<geoname>
+<toponymName>Tiverton</toponymName>
+<name>Tiverton</name>
+<lat>50.91733</lat>
+<lng>-3.50617</lng>
+<geonameId>7293317</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UD</adminCode3>
+<adminName3>Mid Devon District</adminName3>
+<adminCode4>18UD052</adminCode4>
+<adminName4>Tiverton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.58844</west>
+<north>50.97797</north>
+<east>-3.42389</east>
+<south>50.85668</south>
+</bbox>
+<score>64.141845703125</score>
+</geoname>
+<geoname>
+<toponymName>Tiverton</toponymName>
+<name>Tiverton</name>
+<lat>53.13333</lat>
+<lng>-2.66667</lng>
+<geonameId>2635761</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW149</adminCode3>
+<adminName3>Tiverton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tiverton%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.69666</west>
+<north>53.15132</north>
+<east>-2.63667</east>
+<south>53.11535</south>
+</bbox>
+<score>57.702369689941406</score>
+</geoname>
+</geonames>

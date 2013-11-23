@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Chew Stoke</toponymName>
+<name>Chew Stoke</name>
+<lat>51.35065</lat>
+<lng>-2.64156</lng>
+<geonameId>7296351</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA009</adminCode3>
+<adminName3>Chew Stoke</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.66734</west>
+<north>51.37143</north>
+<east>-2.61578</east>
+<south>51.32987</south>
+</bbox>
+<score>94.57331085205078</score>
+</geoname>
+<geoname>
+<toponymName>Chew Stoke</toponymName>
+<name>Chew Stoke</name>
+<lat>51.35365</lat>
+<lng>-2.63266</lng>
+<geonameId>2653196</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA009</adminCode3>
+<adminName3>Chew Stoke</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chew_Stoke</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.64707</west>
+<north>51.36265</north>
+<east>-2.61826</east>
+<south>51.34466</south>
+</bbox>
+<score>84.28939056396484</score>
+</geoname>
+</geonames>

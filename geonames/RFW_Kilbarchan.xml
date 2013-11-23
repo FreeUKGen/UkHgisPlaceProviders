@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Kilbarchan</toponymName>
+<name>Kilbarchan</name>
+<lat>55.8362</lat>
+<lng>-4.55356</lng>
+<geonameId>2645714</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3560</population>
+<alternateNames>Kilbarchan</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W2</adminCode2>
+<adminName2>Renfrewshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kilbarchan</alternateName>
+<alternateName lang="unlc">KLB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.56489</west>
+<north>55.84256</north>
+<east>-4.54224</east>
+<south>55.82984</south>
+</bbox>
+<score>112.25341796875</score>
+</geoname>
+</geonames>

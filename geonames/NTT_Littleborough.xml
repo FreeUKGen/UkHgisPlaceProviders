@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Littleborough</toponymName>
+<name>Littleborough</name>
+<lat>53.64413</lat>
+<lng>-2.09581</lng>
+<geonameId>2644367</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>13807</population>
+<alternateNames>Littleborough</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I2</adminCode2>
+<adminName2>Manchester</adminName2>
+<alternateName lang="en">Littleborough</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Littleborough%2C_Greater_Manchester</alternateName>
+<alternateName lang="post">OL15</alternateName>
+<alternateName lang="unlc">LLB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.12098</west>
+<north>53.65904</north>
+<east>-2.07065</east>
+<south>53.62921</south>
+</bbox>
+<score>105.29383087158203</score>
+</geoname>
+<geoname>
+<toponymName>Littleborough</toponymName>
+<name>Littleborough</name>
+<lat>53.33333</lat>
+<lng>-0.76667</lng>
+<geonameId>2644368</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Littleborough</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<alternateName lang="en">Littleborough</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Littleborough%2C_Nottinghamshire</alternateName>
+<alternateName lang="post">DN22</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.78173</west>
+<north>53.34233</north>
+<east>-0.7516</east>
+<south>53.32434</south>
+</bbox>
+<score>88.1910400390625</score>
+</geoname>
+</geonames>

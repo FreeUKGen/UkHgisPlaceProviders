@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Lowestoft</toponymName>
+<name>Lowestoft</name>
+<lat>52.4752</lat>
+<lng>1.75159</lng>
+<geonameId>2643490</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>71479</population>
+<alternateNames>Loustoft,Lowestoft,lwystaft,Лоустофт,لوئستافت</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UH</adminCode3>
+<adminName3>Waveney District</adminName3>
+<alternateName lang="de">Lowestoft</alternateName>
+<alternateName lang="en">Lowestoft</alternateName>
+<alternateName lang="fa">لوئستافت</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lowestoft</alternateName>
+<alternateName lang="ru">Лоустофт</alternateName>
+<alternateName lang="sr">Лоустофт</alternateName>
+<alternateName lang="unlc">LOW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.69483</west>
+<north>52.50974</north>
+<east>1.80834</east>
+<south>52.44066</south>
+</bbox>
+<score>119.41551208496094</score>
+</geoname>
+</geonames>

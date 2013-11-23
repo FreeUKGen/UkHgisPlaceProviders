@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Oystermouth</toponymName>
+<name>Oystermouth</name>
+<lat>51.57507</lat>
+<lng>-4.00508</lng>
+<geonameId>2640705</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Oystermouth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z1</adminCode2>
+<adminName2>Swansea</adminName2>
+<adminCode3>00NX023</adminCode3>
+<adminName3>Mumbles</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Oystermouth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.01955</west>
+<north>51.58406</north>
+<east>-3.9906</east>
+<south>51.56607</south>
+</bbox>
+<score>110.68106079101562</score>
+</geoname>
+</geonames>

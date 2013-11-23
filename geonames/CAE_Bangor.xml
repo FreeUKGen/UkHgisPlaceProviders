@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Bangor</toponymName>
+<name>Bangor</name>
+<lat>54.65338</lat>
+<lng>-5.66895</lng>
+<geonameId>2656396</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>60385</population>
+<alternateNames>Bangor,Beannchar,Бангор</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NIR">NIR</adminCode1>
+<adminName1>N Ireland</adminName1>
+<adminCode2>T2</adminCode2>
+<adminName2>North Down</adminName2>
+<alternateName lang="de">Bangor</alternateName>
+<alternateName lang="en">Bangor</alternateName>
+<alternateName lang="fr">Bangor</alternateName>
+<alternateName lang="ga">Beannchar</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bangor%2C_County_Down</alternateName>
+<alternateName lang="no">Bangor</alternateName>
+<alternateName lang="ru">Бангор</alternateName>
+<alternateName lang="sv">Bangor</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.72395</west>
+<north>54.68518</north>
+<east>-5.61394</east>
+<south>54.62158</south>
+</bbox>
+<score>119.17071533203125</score>
+</geoname>
+<geoname>
+<toponymName>Bangor</toponymName>
+<name>Bangor</name>
+<lat>53.22647</lat>
+<lng>-4.13459</lng>
+<geonameId>2656397</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>15449</population>
+<alternateNames>Ban'nkor,Bangon,Bangor,Bangoras,baeng-geo,ban ge,bangori,banjwr,bngwr, wlz,byngwr,Μπανγκόρ,Бангор,Բանգոր,بانجور,بنگور، ولز,بینگور,ბანგორი,班戈,뱅거</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC006</adminCode3>
+<adminName3>Bangor</adminName3>
+<alternateName lang="ar">بانجور</alternateName>
+<alternateName lang="arz">بانجور</alternateName>
+<alternateName lang="bg">Бангор</alternateName>
+<alternateName lang="el">Μπανγκόρ</alternateName>
+<alternateName lang="fa">بنگور، ولز</alternateName>
+<alternateName lang="hy">Բանգոր</alternateName>
+<alternateName lang="ka">ბანგორი</alternateName>
+<alternateName lang="ko">뱅거</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bangor%2C_Gwynedd</alternateName>
+<alternateName lang="lt">Bangoras</alternateName>
+<alternateName lang="pnb">بینگور</alternateName>
+<alternateName lang="ru">Бангор</alternateName>
+<alternateName lang="uk">Бангор</alternateName>
+<alternateName lang="zh">班戈</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.16062</west>
+<north>53.24204</north>
+<east>-4.10856</east>
+<south>53.21089</south>
+</bbox>
+<score>82.90975952148438</score>
+</geoname>
+<geoname>
+<toponymName>Bangor</toponymName>
+<name>Bangor</name>
+<lat>53.2223</lat>
+<lng>-4.13579</lng>
+<geonameId>7298620</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC006</adminCode3>
+<adminName3>Bangor</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.16345</west>
+<north>53.23979</north>
+<east>-4.10813</east>
+<south>53.20481</south>
+</bbox>
+<score>72.92837524414062</score>
+</geoname>
+<geoname>
+<toponymName>Bangor-is-y-coed</toponymName>
+<name>Bangor-is-y-coed</name>
+<lat>53</lat>
+<lng>-2.91667</lng>
+<geonameId>2656394</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bangor,Bangor-is-y-coed</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z4</adminCode2>
+<adminName2>Wrexham</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.93161</west>
+<north>53.00899</north>
+<east>-2.90172</east>
+<south>52.99101</south>
+</bbox>
+<score>31.794692993164062</score>
+</geoname>
+<geoname>
+<toponymName>Bangor</toponymName>
+<name>Bangor</name>
+<lat>53.222</lat>
+<lng>-4.136</lng>
+<geonameId>6951978</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>BNG</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<alternateName lang="abbr">BNG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>10.857156753540039</score>
+</geoname>
+</geonames>

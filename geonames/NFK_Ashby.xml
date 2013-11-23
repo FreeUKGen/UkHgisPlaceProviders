@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Ashby</toponymName>
+<name>Ashby</name>
+<lat>53.21667</lat>
+<lng>-0.01667</lng>
+<geonameId>2656973</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.03169</west>
+<north>53.22566</north>
+<east>-0.00164</east>
+<south>53.20767</south>
+</bbox>
+<score>55.2296142578125</score>
+</geoname>
+<geoname>
+<toponymName>Ashby de la Launde</toponymName>
+<name>Ashby de la Launde</name>
+<lat>53.08223</lat>
+<lng>-0.42803</lng>
+<geonameId>2656971</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ashby,Ashby de la Launde</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ashby_de_la_Launde</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.443</west>
+<north>53.09122</north>
+<east>-0.41305</east>
+<south>53.07323</south>
+</bbox>
+<score>55.19574737548828</score>
+</geoname>
+<geoname>
+<toponymName>Ashby cum Fenby</toponymName>
+<name>Ashby cum Fenby</name>
+<lat>53.4904</lat>
+<lng>-0.11216</lng>
+<geonameId>2656972</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ashby,Ashby cum Fenby</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC001</adminCode3>
+<adminName3>Ashby cum Fenby</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ashby_cum_Fenby</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.12728</west>
+<north>53.49939</north>
+<east>-0.09704</east>
+<south>53.4814</south>
+</bbox>
+<score>55.19574737548828</score>
+</geoname>
+<geoname>
+<toponymName>Ashby Saint Ledgers</toponymName>
+<name>Ashby Saint Ledgers</name>
+<lat>52.30829</lat>
+<lng>-1.16219</lng>
+<geonameId>2656967</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ashby,Ashby Saint Ledgers</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.1769</west>
+<north>52.31729</north>
+<east>-1.14748</east>
+<south>52.2993</south>
+</bbox>
+<score>41.74756622314453</score>
+</geoname>
+</geonames>

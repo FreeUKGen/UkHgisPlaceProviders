@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ashby de la Zouch</toponymName>
+<name>Ashby de la Zouch</name>
+<lat>52.74632</lat>
+<lng>-1.4732</lng>
+<geonameId>2656970</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11663</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>17UK</adminCode3>
+<adminName3>GB.ENG.H5.17UK</adminName3>
+<alternateName lang="unlc">ADZ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.49549</west>
+<north>52.75981</north>
+<east>-1.45091</east>
+<south>52.73283</south>
+</bbox>
+<score>74.36151123046875</score>
+</geoname>
+<geoname>
+<toponymName>Ashby-de-la-Zouch</toponymName>
+<name>Ashby-de-la-Zouch</name>
+<lat>52.75439</lat>
+<lng>-1.48064</lng>
+<geonameId>7299145</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ashby-de-la-Zouch</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>56.534217834472656</score>
+</geoname>
+</geonames>

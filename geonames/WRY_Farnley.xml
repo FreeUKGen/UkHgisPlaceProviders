@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Farnley</toponymName>
+<name>Farnley</name>
+<lat>53.91667</lat>
+<lng>-1.66667</lng>
+<geonameId>2649654</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Farnley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UD</adminCode3>
+<adminName3>Harrogate District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Farnley%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.68194</west>
+<north>53.92566</north>
+<east>-1.65139</east>
+<south>53.90767</south>
+</bbox>
+<score>95.01699829101562</score>
+</geoname>
+<geoname>
+<toponymName>Farnley</toponymName>
+<name>Farnley</name>
+<lat>53.92951</lat>
+<lng>-1.67379</lng>
+<geonameId>7296835</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UD</adminCode3>
+<adminName3>Harrogate District</adminName3>
+<adminCode4>36UD036</adminCode4>
+<adminName4>Farnley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.69874</west>
+<north>53.9487</north>
+<east>-1.64884</east>
+<south>53.91031</south>
+</bbox>
+<score>75.7225570678711</score>
+</geoname>
+<geoname>
+<toponymName>Farnley</toponymName>
+<name>Farnley</name>
+<lat>53.78728</lat>
+<lng>-1.60754</lng>
+<geonameId>2649655</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H3</adminCode2>
+<adminName2>Leeds</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.62277</west>
+<north>53.79627</north>
+<east>-1.59231</east>
+<south>53.77829</south>
+</bbox>
+<score>60.26053237915039</score>
+</geoname>
+</geonames>

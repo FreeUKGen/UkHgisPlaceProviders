@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ideford</toponymName>
+<name>Ideford</name>
+<lat>50.58269</lat>
+<lng>-3.57475</lng>
+<geonameId>7300300</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UH</adminCode3>
+<adminName3>Teignbridge District</adminName3>
+<adminCode4>18UH024</adminCode4>
+<adminName4>Ideford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.59875</west>
+<north>50.59963</north>
+<east>-3.55074</east>
+<south>50.56574</south>
+</bbox>
+<score>81.29920959472656</score>
+</geoname>
+<geoname>
+<toponymName>Ideford</toponymName>
+<name>Ideford</name>
+<lat>50.5849</lat>
+<lng>-3.56575</lng>
+<geonameId>2646296</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UH</adminCode3>
+<adminName3>Teignbridge District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.57992</west>
+<north>50.59389</north>
+<east>-3.55159</east>
+<south>50.57591</south>
+</bbox>
+<score>64.72731018066406</score>
+</geoname>
+</geonames>

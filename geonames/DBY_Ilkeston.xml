@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Ilkeston</toponymName>
+<name>Ilkeston</name>
+<lat>52.97055</lat>
+<lng>-1.30951</lng>
+<geonameId>2646274</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>38587</population>
+<alternateNames>Ilkeston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UG</adminCode3>
+<adminName3>Erewash District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ilkeston</alternateName>
+<alternateName lang="unlc">IKS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.35177</west>
+<north>52.99599</north>
+<east>-1.26724</east>
+<south>52.94511</south>
+</bbox>
+<score>144.0091552734375</score>
+</geoname>
+</geonames>

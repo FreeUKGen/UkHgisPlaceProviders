@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Raglan</toponymName>
+<name>Raglan</name>
+<lat>51.74812</lat>
+<lng>-2.83888</lng>
+<geonameId>7292345</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP027</adminCode3>
+<adminName3>Raglan</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.89944</west>
+<north>51.78163</north>
+<east>-2.77831</east>
+<south>51.7146</south>
+</bbox>
+<score>94.6091079711914</score>
+</geoname>
+<geoname>
+<toponymName>Raglan</toponymName>
+<name>Raglan</name>
+<lat>51.76451</lat>
+<lng>-2.85098</lng>
+<geonameId>2639700</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP027</adminCode3>
+<adminName3>Raglan</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Raglan%2C_Monmouthshire</alternateName>
+<alternateName lang="unlc">RGA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.86552</west>
+<north>51.7735</north>
+<east>-2.83645</east>
+<south>51.75552</south>
+</bbox>
+<score>72.77790069580078</score>
+</geoname>
+</geonames>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Corston</toponymName>
+<name>Corston</name>
+<lat>51.38417</lat>
+<lng>-2.45538</lng>
+<geonameId>7296162</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA015</adminCode3>
+<adminName3>Corston</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.47938</west>
+<north>51.39564</north>
+<east>-2.43137</east>
+<south>51.3727</south>
+</bbox>
+<score>105.29791259765625</score>
+</geoname>
+<geoname>
+<toponymName>Corston</toponymName>
+<name>Corston</name>
+<lat>51.55611</lat>
+<lng>-2.11083</lng>
+<geonameId>2652312</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Corston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Corston%2C_Wiltshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.1253</west>
+<north>51.5651</north>
+<east>-2.09637</east>
+<south>51.54712</south>
+</bbox>
+<score>94.56488037109375</score>
+</geoname>
+<geoname>
+<toponymName>Corston</toponymName>
+<name>Corston</name>
+<lat>51.385</lat>
+<lng>-2.44028</lng>
+<geonameId>2652313</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA015</adminCode3>
+<adminName3>Corston</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Corston%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.46911</west>
+<north>51.40299</north>
+<east>-2.41144</east>
+<south>51.36701</south>
+</bbox>
+<score>66.88882446289062</score>
+</geoname>
+</geonames>

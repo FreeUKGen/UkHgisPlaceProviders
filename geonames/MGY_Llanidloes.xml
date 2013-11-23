@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanidloes</toponymName>
+<name>Llanidloes</name>
+<lat>52.44983</lat>
+<lng>-3.54212</lng>
+<geonameId>7298396</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN069</adminCode3>
+<adminName3>Llanidloes</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.56072</west>
+<north>52.46504</north>
+<east>-3.52351</east>
+<south>52.43462</south>
+</bbox>
+<score>112.80574798583984</score>
+</geoname>
+<geoname>
+<toponymName>Llanidloes</toponymName>
+<name>Llanidloes</name>
+<lat>52.44977</lat>
+<lng>-3.53997</lng>
+<geonameId>2643990</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2838</population>
+<alternateNames>Llanidloes</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN069</adminCode3>
+<adminName3>Llanidloes</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanidloes</alternateName>
+<alternateName lang="unlc">LLZ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.55041</west>
+<north>52.45613</north>
+<east>-3.52954</east>
+<south>52.44341</south>
+</bbox>
+<score>109.18053436279297</score>
+</geoname>
+</geonames>

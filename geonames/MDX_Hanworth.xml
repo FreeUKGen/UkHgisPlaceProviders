@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hanworth</toponymName>
+<name>Hanworth</name>
+<lat>51.43333</lat>
+<lng>-0.38333</lng>
+<geonameId>2647514</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hanworth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>G1</adminCode3>
+<adminName3>Hounslow</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hanworth</alternateName>
+<alternateName lang="unlc">HAO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.39776</west>
+<north>51.44233</north>
+<east>-0.3689</east>
+<south>51.42434</south>
+</bbox>
+<score>82.82463073730469</score>
+</geoname>
+<geoname>
+<toponymName>Hanworth</toponymName>
+<name>Hanworth</name>
+<lat>52.86276</lat>
+<lng>1.29325</lng>
+<geonameId>7296604</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF038</adminCode4>
+<adminName4>Hanworth</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hanworth%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.25503</west>
+<north>52.88039</north>
+<east>1.33146</east>
+<south>52.84512</south>
+</bbox>
+<score>49.610076904296875</score>
+</geoname>
+</geonames>

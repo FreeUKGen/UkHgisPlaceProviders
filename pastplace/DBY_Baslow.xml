@@ -1,0 +1,53 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>20664</id>
+<name>BASLOW</name>
+<container>DERBYSHIRE</container>
+<lat>53.2477403829261</lat>
+<lon>-1.62229657860043</lon>
+<gazetteerText>BASLOW, a village, a township, and a chapelry in Bakewell parish, Derby. The village stands on the river Derwent, in the northern vicinity of Chatsworth, 3&#189; miles NE of Bakewell r. station. It has a post office&#8225; under Chesterfield, and a good inn; and it forms a pleasant centre to tourists for visiting Chatsworth and some of the most picturesque parts of the Peak district. A neat small Italian villa is at its east end.-The township is united to Bubnell, under the name of Baslow-with Bubnell. Acres, 2,360. Real property, &#163;4,004. Pop., 903. Houses, 191.&#151;The chapelry includes the township, but is more extensive. Rated property, &#163;6,129. Pop., 2,400. The property is divided among a few. The living is a p. curacy in the diocese of Lichfield. Value, &#163;115.* Patron, the Duke of Devonshire. The church stands at the village; and is neat and commodious. The churchyard contains some interesting slabs and stone coffins. There are a Unitarian chapel, two public schools, and charities &#163;10. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2656191</link>
+<link>http://en.wikipedia.org/wiki/Baslow</link>
+<link>http://www.genuki.org.uk/big/eng/DBY/Baslow/index.html</link>
+</links>
+<unit>
+   <id>10003430</id>
+   <status>UD</status>
+   <name>BASLOW AND BUBNELL</name>
+</unit>
+<unit>
+   <id>10111420</id>
+   <status>USD</status>
+   <name>BASLOW AND BUBNELL</name>
+</unit>
+<unit>
+   <id>10119996</id>
+   <status>EP</status>
+   <name>BASLOW</name>
+</unit>
+<unit>
+   <id>10120007</id>
+   <status>Tn/CP</status>
+   <name>BASLOW AND BUBNELL</name>
+</unit>
+<unit>
+   <id>10159362</id>
+   <status>Ch</status>
+   <name>BASLOW</name>
+</unit>
+<nearByPlace>
+   <id>2351</id>
+   <name>CURBAR</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4801</id>
+   <name>CHATSWORTH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5208</id>
+   <name>EDENSOR</name>
+</nearByPlace>
+</place>
+</results>

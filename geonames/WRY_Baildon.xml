@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Baildon</toponymName>
+<name>Baildon</name>
+<lat>53.85303</lat>
+<lng>-1.77153</lng>
+<geonameId>7292859</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B4</adminCode2>
+<adminName2>Bradford</adminName2>
+<adminCode3>00CX016</adminCode3>
+<adminName3>Baildon</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.80701</west>
+<north>53.86893</north>
+<east>-1.73604</east>
+<south>53.83714</south>
+</bbox>
+<score>104.34994506835938</score>
+</geoname>
+<geoname>
+<toponymName>Baildon</toponymName>
+<name>Baildon</name>
+<lat>53.84711</lat>
+<lng>-1.78785</lng>
+<geonameId>2656627</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>15710</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B4</adminCode2>
+<adminName2>Bradford</adminName2>
+<adminCode3>00CX016</adminCode3>
+<adminName3>Baildon</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Baildon</alternateName>
+<alternateName lang="unlc">BAI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.81535</west>
+<north>53.86332</north>
+<east>-1.76036</east>
+<south>53.8309</south>
+</bbox>
+<score>93.2773208618164</score>
+</geoname>
+</geonames>

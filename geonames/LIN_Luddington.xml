@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Luddington</toponymName>
+<name>Luddington</name>
+<lat>52.43999</lat>
+<lng>-0.37753</lng>
+<geonameId>7299549</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<adminCode4>34UD032</adminCode4>
+<adminName4>Luddington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.40157</west>
+<north>52.46154</north>
+<east>-0.35349</east>
+<south>52.41845</south>
+</bbox>
+<score>75.65591430664062</score>
+</geoname>
+<geoname>
+<toponymName>Luddington in the Brook</toponymName>
+<name>Luddington in the Brook</name>
+<lat>52.43935</lat>
+<lng>-0.37521</lng>
+<geonameId>2643433</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Luddington,Luddington in the Brook</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Luddington-in-the-Brook</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.38997</west>
+<north>52.44834</north>
+<east>-0.36045</east>
+<south>52.43035</south>
+</bbox>
+<score>61.3406867980957</score>
+</geoname>
+<geoname>
+<toponymName>Luddington</toponymName>
+<name>Luddington</name>
+<lat>53.63333</lat>
+<lng>-0.75</lng>
+<geonameId>2643434</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.76517</west>
+<north>53.64233</north>
+<east>-0.73483</east>
+<south>53.62434</south>
+</bbox>
+<score>60.20526123046875</score>
+</geoname>
+<geoname>
+<toponymName>Luddington</toponymName>
+<name>Luddington</name>
+<lat>52.17981</lat>
+<lng>-1.75914</lng>
+<geonameId>7292696</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<adminCode4>44UE060</adminCode4>
+<adminName4>Luddington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Luddington%2C_Warwickshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.78098</west>
+<north>52.19325</north>
+<east>-1.73731</east>
+<south>52.16637</south>
+</bbox>
+<score>51.818077087402344</score>
+</geoname>
+</geonames>

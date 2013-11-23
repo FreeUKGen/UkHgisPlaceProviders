@@ -1,0 +1,172 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>727</id>
+<name>BASINGSTOKE</name>
+<container>HAMPSHIRE</container>
+<lat>51.2593862903172</lat>
+<lon>-1.1046128855902</lon>
+<gazetteerText>Basingstoke .-- mun. bor. and market town, N. Hants, 14&#189; miles SW. of Reading, 27 miles NE. of Southampton, and 48 miles SW. of London by rail, 4172 ac., pop. 6681; P.O., T.O., 3 Banks, 2 newspapers. Market-days, Wednesday and Saturday. It is connected with London by two canals; good trade in corn, malt, and timber. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2656192</link>
+<link>http://en.wikipedia.org/wiki/Basingstoke</link>
+<link>http://www.workhouses.org.uk/Basingstoke</link>
+<link>http://www.genuki.org.uk/big/eng/HAM/Basingstoke/index.shtml</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=56762</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=56768</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=56774</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=56764</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=56769</link>
+</links>
+<unit>
+   <id>10004019</id>
+   <status>USD</status>
+   <name>BASINGSTOKE</name>
+</unit>
+<unit>
+   <id>10024092</id>
+   <status>Hundred</status>
+   <name>BASINGSTOKE</name>
+</unit>
+<unit>
+   <id>10025187</id>
+   <status>Borough</status>
+   <name>BASINGSTOKE</name>
+</unit>
+<unit>
+   <id>10044029</id>
+   <status>RegD/PLU</status>
+   <name>BASINGSTOKE</name>
+</unit>
+<unit>
+   <id>10074903</id>
+   <status>RSD</status>
+   <name>BASINGSTOKE</name>
+</unit>
+<unit>
+   <id>10135758</id>
+   <status>MB</status>
+   <name>BASINGSTOKE</name>
+</unit>
+<unit>
+   <id>10135771</id>
+   <status>RD</status>
+   <name>BASINGSTOKE</name>
+</unit>
+<unit>
+   <id>10195949</id>
+   <status>AP/Ch/CP</status>
+   <name>BASINGSTOKE</name>
+</unit>
+<unit>
+   <id>10211955</id>
+   <status></status>
+   <name>BASINGSTOKE AND DEANE</name>
+</unit>
+<unit>
+   <id>10492889</id>
+   <status></status>
+   <name>BASINGSTOKE</name>
+</unit>
+<unit>
+   <id>10543496</id>
+   <status></status>
+   <name>BASINGSTOKE</name>
+</unit>
+<unit>
+   <id>10568249</id>
+   <status></status>
+   <name>BASINGSTOKE</name>
+</unit>
+<unit>
+   <id>10569357</id>
+   <status></status>
+   <name>BASINGSTOKE</name>
+</unit>
+<unit>
+   <id>10569369</id>
+   <status></status>
+   <name>BASINGSTOKE</name>
+</unit>
+<unit>
+   <id>10577652</id>
+   <status></status>
+   <name>NORTH EAST BASINGSTOKE</name>
+</unit>
+<unit>
+   <id>10580183</id>
+   <status></status>
+   <name>SOUTH WEST BASINGSTOKE</name>
+</unit>
+<unit>
+   <id>10589162</id>
+   <status>EP</status>
+   <name>BASINGSTOKE</name>
+</unit>
+<unit>
+   <id>12738845</id>
+   <status>CCon</status>
+   <name>BASINGSTOKE</name>
+</unit>
+<unit>
+   <id>12750791</id>
+   <status>PDivCon</status>
+   <name>HAMPSHIRE NORTHERN OR BASINGSTOKE</name>
+</unit>
+<unit>
+   <id>12753093</id>
+   <status>PDivCon</status>
+   <name>HAMPSHIRE BASINGSTOKE</name>
+</unit>
+<unit>
+   <id>12758017</id>
+   <status>PBCon</status>
+   <name>BASINGSTOKE</name>
+</unit>
+<unit>
+   <id>12831020</id>
+   <status></status>
+   <name>BASINGSTOKE</name>
+</unit>
+<nearByPlace>
+   <id>51</id>
+   <name>ALTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1660</id>
+   <name>SHERBORNE ST JOHN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1739</id>
+   <name>BAUGHURST</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2334</id>
+   <name>TADLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2650</id>
+   <name>WOOTTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2804</id>
+   <name>WHITCHURCH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3594</id>
+   <name>BURGHFIELD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3999</id>
+   <name>OVERTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5181</id>
+   <name>BASING</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6101</id>
+   <name>STRATFIELD MORTIMER</name>
+</nearByPlace>
+</place>
+</results>

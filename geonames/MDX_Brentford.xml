@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Brentford</toponymName>
+<name>Brentford</name>
+<lat>51.48619</lat>
+<lng>-0.3083</lng>
+<geonameId>2654787</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>10750</population>
+<alternateNames>Brentford,brentafarda,burentofodo,Брентфорд,ब्रेंटफ़र्ड,ブレントフォード</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>D9</adminCode3>
+<adminName3>Ealing</adminName3>
+<alternateName lang="hi">ब्रेंटफ़र्ड</alternateName>
+<alternateName lang="ja">ブレントフォード</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brentford</alternateName>
+<alternateName lang="ru">Брентфорд</alternateName>
+<alternateName lang="unlc">BFD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.32873</west>
+<north>51.49891</north>
+<east>-0.28787</east>
+<south>51.47347</south>
+</bbox>
+<score>100.34375</score>
+</geoname>
+</geonames>

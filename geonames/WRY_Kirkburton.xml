@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kirkburton</toponymName>
+<name>Kirkburton</name>
+<lat>53.62895</lat>
+<lng>-1.69371</lng>
+<geonameId>7295925</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G8</adminCode2>
+<adminName2>Kirklees</adminName2>
+<adminCode3>00CZ003</adminCode3>
+<adminName3>Kirkburton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.77714</west>
+<north>53.68449</north>
+<east>-1.61029</east>
+<south>53.57341</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Kirkburton</toponymName>
+<name>Kirkburton</name>
+<lat>53.61047</lat>
+<lng>-1.70292</lng>
+<geonameId>2645314</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3786</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G8</adminCode2>
+<adminName2>Kirklees</adminName2>
+<adminCode3>00CZ003</adminCode3>
+<adminName3>Kirkburton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirkburton</alternateName>
+<alternateName lang="unlc">KBU</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.71605</west>
+<north>53.61826</north>
+<east>-1.68979</east>
+<south>53.60268</south>
+</bbox>
+<score>102.21806335449219</score>
+</geoname>
+</geonames>

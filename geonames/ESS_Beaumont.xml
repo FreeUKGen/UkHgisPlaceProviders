@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Beaumont</toponymName>
+<name>Beaumont</name>
+<lat>54.92231</lat>
+<lng>-3.0209</lng>
+<geonameId>2656072</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Beaumont</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UD</adminCode3>
+<adminName3>Carlisle District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Beaumont%2C_Cumbria</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.03655</west>
+<north>54.9313</north>
+<east>-3.00524</east>
+<south>54.91331</south>
+</bbox>
+<score>64.56980895996094</score>
+</geoname>
+<geoname>
+<toponymName>Beaumont</toponymName>
+<name>Beaumont</name>
+<lat>54.9145</lat>
+<lng>-3.00732</lng>
+<geonameId>7296399</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UD</adminCode3>
+<adminName3>Carlisle District</adminName3>
+<adminCode4>16UD003</adminCode4>
+<adminName4>Beaumont</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.0416</west>
+<north>54.94772</north>
+<east>-2.97304</east>
+<south>54.88128</south>
+</bbox>
+<score>50.21135711669922</score>
+</geoname>
+<geoname>
+<toponymName>Beaumont</toponymName>
+<name>Beaumont</name>
+<lat>49.19639</lat>
+<lng>-2.15861</lng>
+<geonameId>3042165</geonameId>
+<countryCode>JE</countryCode>
+<countryName>Jersey</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Jersey</timezone>
+<bbox>
+<west>-2.17238</west>
+<north>49.20538</north>
+<east>-2.14485</east>
+<south>49.1874</south>
+</bbox>
+<score>38.115516662597656</score>
+</geoname>
+</geonames>

@@ -1,0 +1,64 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>11063</id>
+<name>OVER WYRESDALE</name>
+<container>LANCASHIRE</container>
+<lat>53.9876568922929</lat>
+<lon>-2.64754421641771</lon>
+<gazetteerText>WYERSDALE (Over), a township-chapelry in Lancaster parish, Lancashire; on the river Wyre, 4&#190; miles E by N of Bay-Horse r. station, and 7 SE of Lancaster. Post town, Lancaster. Acres, 16,938. Real property, &#163;4,728. Pop. in 1851, 680; in 1861, 524. Houses, 90. The decrease of pop. arose from the destruction, by fire, of a cotton factory. The manor belongs to H. Garnett, Esq. The living is a vicarage in the diocese of Manchester. Value, &#163;170.* Patron, the Vicar of Lancaster-The church is plain. There are Quaker and Wesleyan chapels, and an endowed school. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LAN/OverWyresdale/</link>
+<link>http://www.geonames.org/7295825</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=53269</link>
+</links>
+<unit>
+   <id>10385908</id>
+   <status>EP</status>
+   <name>WYRESDALE</name>
+</unit>
+<unit>
+   <id>10385933</id>
+   <status>CP/Ch</status>
+   <name>OVER WYRESDALE</name>
+</unit>
+</place>
+<place>
+<id>11062</id>
+<name>NETHER WYRESDALE</name>
+<container>LANCASHIRE</container>
+<lat>53.9461746381336</lat>
+<lon>-2.73302700293143</lon>
+<gazetteerText>WYERSDALE (Nether), a township in Garstang parish, Lancashire; on the river Wyre, 4 miles NNE of Garstang. It contains Scorton village and Dolphinholme cotton factory; and comprises 3,640 acres. Real property, &#163;3,892. Pop., 667. Houses, 121. The manor belongs to P. Ormrod, Esq. Wyre Side is the seat of H. Garnett, Esq. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LAN/NetherWyresdale/</link>
+<link>http://www.geonames.org/7295961</link>
+</links>
+<unit>
+   <id>10385910</id>
+   <status>Tn/CP</status>
+   <name>NETHER WYRESDALE</name>
+</unit>
+<unit>
+   <id>10385921</id>
+   <status>EExP</status>
+   <name>NETHER WYRESDALE</name>
+</unit>
+<nearByPlace>
+   <id>10049</id>
+   <name>CLEVELEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10053</id>
+   <name>COCKERHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10235</id>
+   <name>FORTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10346</id>
+   <name>HOLLETH</name>
+</nearByPlace>
+</place>
+</results>

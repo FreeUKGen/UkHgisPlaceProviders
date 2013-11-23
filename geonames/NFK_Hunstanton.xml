@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hunstanton</toponymName>
+<name>Hunstanton</name>
+<lat>52.95</lat>
+<lng>0.5</lng>
+<geonameId>2646403</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4605</population>
+<alternateNames>Hunstanton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hunstanton</alternateName>
+<alternateName lang="unlc">HNT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.48707</west>
+<north>52.95779</north>
+<east>0.51293</east>
+<south>52.94221</south>
+</bbox>
+<score>107.1971664428711</score>
+</geoname>
+<geoname>
+<toponymName>Hunstanton</toponymName>
+<name>Hunstanton</name>
+<lat>52.94555</lat>
+<lng>0.49677</lng>
+<geonameId>7295659</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<adminCode4>33UE043</adminCode4>
+<adminName4>Hunstanton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.47406</west>
+<north>52.96823</north>
+<east>0.51948</east>
+<south>52.92287</south>
+</bbox>
+<score>79.62623596191406</score>
+</geoname>
+</geonames>

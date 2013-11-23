@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Vaynor</toponymName>
+<name>Vaynor</name>
+<lat>51.79508</lat>
+<lng>-3.40068</lng>
+<geonameId>7296584</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y3</adminCode2>
+<adminName2>Merthyr Tydfil</adminName2>
+<adminCode3>00PH012</adminCode3>
+<adminName3>Vaynor</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Vaynor</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.44582</west>
+<north>51.83509</north>
+<east>-3.35553</east>
+<south>51.75507</south>
+</bbox>
+<score>80.7945556640625</score>
+</geoname>
+</geonames>

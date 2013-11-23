@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Lochinver</toponymName>
+<name>Lochinver</name>
+<lat>58.1486</lat>
+<lng>-5.24075</lng>
+<geonameId>2643818</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Lochinver</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V3</adminCode2>
+<adminName2>Highland</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lochinver</alternateName>
+<alternateName lang="unlc">LOV</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.25779</west>
+<north>58.15759</north>
+<east>-5.2237</east>
+<south>58.1396</south>
+</bbox>
+<score>87.1738510131836</score>
+</geoname>
+</geonames>

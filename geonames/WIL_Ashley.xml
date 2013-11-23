@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>Ashley</toponymName>
+<name>Ashley</name>
+<lat>53.35333</lat>
+<lng>-2.33677</lng>
+<geonameId>7292985</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z7</adminCode2>
+<adminName2>Cheshire East</adminName2>
+<adminCode3>00EQ008</adminCode3>
+<adminName3>Ashley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.37713</west>
+<north>53.36853</north>
+<east>-2.29641</east>
+<south>53.33813</south>
+</bbox>
+<score>87.8623275756836</score>
+</geoname>
+<geoname>
+<toponymName>Ashley</toponymName>
+<name>Ashley</name>
+<lat>51.65</lat>
+<lng>-2.1</lng>
+<geonameId>2656941</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ashley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ashley%2C_Gloucestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.1145</west>
+<north>51.65899</north>
+<east>-2.0855</east>
+<south>51.64101</south>
+</bbox>
+<score>82.64894104003906</score>
+</geoname>
+<geoname>
+<toponymName>Ashley</toponymName>
+<name>Ashley</name>
+<lat>52.9237</lat>
+<lng>-2.35425</lng>
+<geonameId>2656938</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UE</adminCode3>
+<adminName3>Newcastle-under-Lyme District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ashley%2C_Staffordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.36917</west>
+<north>52.9327</north>
+<east>-2.33933</east>
+<south>52.91471</south>
+</bbox>
+<score>69.64968872070312</score>
+</geoname>
+<geoname>
+<toponymName>Ashley</toponymName>
+<name>Ashley</name>
+<lat>52.51142</lat>
+<lng>-0.83196</lng>
+<geonameId>2656939</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UE</adminCode3>
+<adminName3>Kettering District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ashley%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.84674</west>
+<north>52.52041</north>
+<east>-0.81718</east>
+<south>52.50242</south>
+</bbox>
+<score>69.64968872070312</score>
+</geoname>
+<geoname>
+<toponymName>Ashley</toponymName>
+<name>Ashley</name>
+<lat>52.22643</lat>
+<lng>0.48409</lng>
+<geonameId>2656940</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>2650488</adminCode3>
+<adminName3>East Cambridgeshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ashley%2C_Cambridgeshire</alternateName>
+<alternateName lang="unlc">AGR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.4694</west>
+<north>52.23543</north>
+<east>0.49877</east>
+<south>52.21744</south>
+</bbox>
+<score>69.64968872070312</score>
+</geoname>
+<geoname>
+<toponymName>Ashley</toponymName>
+<name>Ashley</name>
+<lat>52.50934</lat>
+<lng>-0.82166</lng>
+<geonameId>7291337</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UE</adminCode3>
+<adminName3>Kettering District</adminName3>
+<adminCode4>34UE001</adminCode4>
+<adminName4>Ashley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.84715</west>
+<north>52.5196</north>
+<east>-0.79617</east>
+<south>52.49908</south>
+</bbox>
+<score>63.60234832763672</score>
+</geoname>
+<geoname>
+<toponymName>Ashley</toponymName>
+<name>Ashley</name>
+<lat>51.65106</lat>
+<lng>-2.10137</lng>
+<geonameId>7298018</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<adminCode4>23UC007</adminCode4>
+<adminName4>Ashley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.12933</west>
+<north>51.67057</north>
+<east>-2.07342</east>
+<south>51.63154</south>
+</bbox>
+<score>63.60234832763672</score>
+</geoname>
+<geoname>
+<toponymName>Ashley</toponymName>
+<name>Ashley</name>
+<lat>52.22615</lat>
+<lng>0.47892</lng>
+<geonameId>7298334</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>63.60234832763672</score>
+</geoname>
+<geoname>
+<toponymName>Ashley</toponymName>
+<name>Ashley</name>
+<lat>53.35</lat>
+<lng>-2.33333</lng>
+<geonameId>2656937</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z7</adminCode2>
+<adminName2>Cheshire East</adminName2>
+<adminCode3>00EQ008</adminCode3>
+<adminName3>Ashley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ashley%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.36348</west>
+<north>53.36799</north>
+<east>-2.30319</east>
+<south>53.33201</south>
+</bbox>
+<score>58.79432678222656</score>
+</geoname>
+<geoname>
+<toponymName>Ashley</toponymName>
+<name>Ashley</name>
+<lat>51.08015</lat>
+<lng>-1.46037</lng>
+<geonameId>2656942</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UN</adminCode3>
+<adminName3>Test Valley District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.47468</west>
+<north>51.08915</north>
+<east>-1.44605</east>
+<south>51.07116</south>
+</bbox>
+<score>50.48822784423828</score>
+</geoname>
+</geonames>

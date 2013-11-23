@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Syston</toponymName>
+<name>Syston</name>
+<lat>52.68333</lat>
+<lng>-1.06667</lng>
+<geonameId>2636341</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11508</population>
+<alternateNames>Syston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>Charnwood District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Syston</alternateName>
+<alternateName lang="unlc">SYS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.08893</west>
+<north>52.69682</north>
+<east>-1.04441</east>
+<south>52.66984</south>
+</bbox>
+<score>124.36564636230469</score>
+</geoname>
+<geoname>
+<toponymName>Syston</toponymName>
+<name>Syston</name>
+<lat>52.95784</lat>
+<lng>-0.61884</lng>
+<geonameId>2636340</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Syston%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.63377</west>
+<north>52.96684</north>
+<east>-0.60391</east>
+<south>52.94885</south>
+</bbox>
+<score>81.01807403564453</score>
+</geoname>
+<geoname>
+<toponymName>Syston</toponymName>
+<name>Syston</name>
+<lat>52.69795</lat>
+<lng>-1.08709</lng>
+<geonameId>7296315</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>Charnwood District</adminName3>
+<adminCode4>31UC026</adminCode4>
+<adminName4>Syston</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.12031</west>
+<north>52.71044</north>
+<east>-1.05387</east>
+<south>52.68547</south>
+</bbox>
+<score>77.60838317871094</score>
+</geoname>
+<geoname>
+<toponymName>Syston</toponymName>
+<name>Syston</name>
+<lat>52.95664</lat>
+<lng>-0.6044</lng>
+<geonameId>7301797</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<adminCode4>32UG073</adminCode4>
+<adminName4>Syston</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.65483</west>
+<north>52.96754</north>
+<east>-0.55397</east>
+<south>52.94574</south>
+</bbox>
+<score>77.60838317871094</score>
+</geoname>
+</geonames>

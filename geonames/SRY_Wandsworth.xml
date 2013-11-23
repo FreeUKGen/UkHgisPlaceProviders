@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wandsworth</toponymName>
+<name>London Borough of Wandsworth</name>
+<lat>51.45722</lat>
+<lng>-0.19278</lng>
+<geonameId>2634812</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>District londonien de Wandsworth,Khu Wandsworth cua Luan GJon,Khu Wandsworth của Luân Đôn,London Borough of Wandsworth,Municipio de Wandsworth,Vandsvorta,Vandzvert,Wandsworth,vandsavartha baro,wang zi wo si qu,wwndswwrt',Вандзверт,וונדסוורת',לאנדאנער בארא פון וואנדזווערט,وینڈزورتھ بورو,वंड्सवर्थ बरो,ワンズワース・ロンドン特別区,旺茲沃思區</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>P1</adminCode3>
+<adminName3>Wandsworth</adminName3>
+<alternateName lang="cs">Wandsworth</alternateName>
+<alternateName lang="de">London Borough of Wandsworth</alternateName>
+<alternateName lang="en">London Borough of Wandsworth</alternateName>
+<alternateName lang="es">Municipio de Wandsworth</alternateName>
+<alternateName lang="fi">Wandsworth</alternateName>
+<alternateName lang="fr">District londonien de Wandsworth</alternateName>
+<alternateName lang="ga">London Borough of Wandsworth</alternateName>
+<alternateName lang="he">וונדסוורת'</alternateName>
+<alternateName lang="hi">वंड्सवर्थ बरो</alternateName>
+<alternateName lang="ja">ワンズワース・ロンドン特別区</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/London_Borough_of_Wandsworth</alternateName>
+<alternateName lang="lv">Vandsvorta</alternateName>
+<alternateName lang="nl">Wandsworth</alternateName>
+<alternateName lang="nn">London Borough of Wandsworth</alternateName>
+<alternateName lang="no">Wandsworth</alternateName>
+<alternateName lang="pl">London Borough of Wandsworth</alternateName>
+<alternateName lang="ro">Wandsworth</alternateName>
+<alternateName lang="sco">London Borough of Wandsworth</alternateName>
+<alternateName lang="sv">London Borough of Wandsworth</alternateName>
+<alternateName lang="uk">Вандзверт</alternateName>
+<alternateName lang="unlc">WAN</alternateName>
+<alternateName lang="ur">وینڈزورتھ بورو</alternateName>
+<alternateName lang="vi">Khu Wandsworth của Luân Đôn</alternateName>
+<alternateName lang="yi">לאנדאנער בארא פון וואנדזווערט</alternateName>
+<alternateName lang="zh">旺茲沃思區</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.22165</west>
+<north>51.4752</north>
+<east>-0.1639</east>
+<south>51.43923</south>
+</bbox>
+<score>80.70809936523438</score>
+</geoname>
+<geoname>
+<toponymName>Wandsworth</toponymName>
+<name>Wandsworth</name>
+<lat>51.45719</lat>
+<lng>-0.19089</lng>
+<geonameId>3333215</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>1665</population>
+<alternateNames>London Borough of Wandsworth,WND,Wandsworth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>P1</adminCode3>
+<adminName3>Wandsworth</adminName3>
+<alternateName lang="abbr">WND</alternateName>
+<alternateName lang="en">Wandsworth</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wandsworth_%28HM_Prison%29</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.25911</west>
+<north>51.48589</north>
+<east>-0.12636</east>
+<south>51.41775</south>
+</bbox>
+<score>69.32426452636719</score>
+</geoname>
+</geonames>

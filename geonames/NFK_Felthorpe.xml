@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Felthorpe</toponymName>
+<name>Felthorpe</name>
+<lat>52.71619</lat>
+<lng>1.20703</lng>
+<geonameId>7301835</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<adminCode4>33UC021</adminCode4>
+<adminName4>Felthorpe</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Felthorpe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.1757</west>
+<north>52.73412</north>
+<east>1.23836</east>
+<south>52.69825</south>
+</bbox>
+<score>61.74647521972656</score>
+</geoname>
+</geonames>

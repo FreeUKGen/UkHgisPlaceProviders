@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Thornham</toponymName>
+<name>Thornham</name>
+<lat>52.95991</lat>
+<lng>0.57953</lng>
+<geonameId>2635986</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thornham%2C_Norfolk</alternateName>
+<alternateName lang="unlc">TRM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.5646</west>
+<north>52.9689</north>
+<east>0.59446</east>
+<south>52.95092</south>
+</bbox>
+<score>76.25241088867188</score>
+</geoname>
+<geoname>
+<toponymName>Thornham</toponymName>
+<name>Thornham</name>
+<lat>52.95384</lat>
+<lng>0.58354</lng>
+<geonameId>7295665</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<adminCode4>33UE079</adminCode4>
+<adminName4>Thornham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.56133</west>
+<north>52.98393</north>
+<east>0.60575</east>
+<south>52.92374</south>
+</bbox>
+<score>72.77497863769531</score>
+</geoname>
+<geoname>
+<toponymName>Thornham Magna</toponymName>
+<name>Thornham Magna</name>
+<lat>52.2942</lat>
+<lng>1.08417</lng>
+<geonameId>2635985</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Thornham,Thornham Magna</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thornham_Magna</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.06947</west>
+<north>52.3032</north>
+<east>1.09888</east>
+<south>52.28521</south>
+</bbox>
+<score>61.05387496948242</score>
+</geoname>
+</geonames>

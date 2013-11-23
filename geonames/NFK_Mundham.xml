@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>North Mundham</toponymName>
+<name>North Mundham</name>
+<lat>50.81385</lat>
+<lng>-0.75874</lng>
+<geonameId>2641299</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Mundham,North Mundham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UD</adminCode3>
+<adminName3>Chichester District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/North_Mundham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.77298</west>
+<north>50.82285</north>
+<east>-0.74451</east>
+<south>50.80486</south>
+</bbox>
+<score>62.66477584838867</score>
+</geoname>
+<geoname>
+<toponymName>Mundham</toponymName>
+<name>Mundham</name>
+<lat>52.5228</lat>
+<lng>1.43269</lng>
+<geonameId>7295707</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH072</adminCode4>
+<adminName4>Mundham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mundham%2C_South_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.4124</west>
+<north>52.54169</north>
+<east>1.45298</east>
+<south>52.50392</south>
+</bbox>
+<score>51.33277893066406</score>
+</geoname>
+</geonames>

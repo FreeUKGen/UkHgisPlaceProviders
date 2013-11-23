@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Bolton</toponymName>
+<name>Bolton</name>
+<lat>53.58333</lat>
+<lng>-2.43333</lng>
+<geonameId>2655237</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>141331</population>
+<alternateNames>Bolton,Boltonas,Boltonium,Boltun,bo er dun,bol tan,bolteon,bwltwn,Болтон,Болтън,بولتون,โบลตัน,ბოლტონი,博尔顿,볼턴</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B1</adminCode2>
+<adminName2>Bolton</adminName2>
+<alternateName lang="ar">بولتون</alternateName>
+<alternateName lang="bg">Болтън</alternateName>
+<alternateName lang="de">Bolton</alternateName>
+<alternateName lang="en">Bolton</alternateName>
+<alternateName lang="es">Bolton</alternateName>
+<alternateName lang="fa">بولتون</alternateName>
+<alternateName lang="fi">Bolton</alternateName>
+<alternateName lang="fr">Bolton</alternateName>
+<alternateName lang="id">Bolton</alternateName>
+<alternateName lang="ka">ბოლტონი</alternateName>
+<alternateName lang="ko">볼턴</alternateName>
+<alternateName lang="la">Boltonium</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bolton</alternateName>
+<alternateName lang="lt">Boltonas</alternateName>
+<alternateName lang="nl">Bolton</alternateName>
+<alternateName lang="no">Bolton</alternateName>
+<alternateName lang="pl">Bolton</alternateName>
+<alternateName lang="ro">Bolton</alternateName>
+<alternateName lang="ru">Болтон</alternateName>
+<alternateName lang="sr">Болтон</alternateName>
+<alternateName lang="sv">Bolton</alternateName>
+<alternateName lang="th">โบลตัน</alternateName>
+<alternateName lang="uk">Болтон</alternateName>
+<alternateName lang="unlc">BLT</alternateName>
+<alternateName lang="zh">博尔顿</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.51536</west>
+<north>53.63197</north>
+<east>-2.3513</east>
+<south>53.53469</south>
+</bbox>
+<score>150.5205535888672</score>
+</geoname>
+<geoname>
+<toponymName>Bolton</toponymName>
+<name>Bolton</name>
+<lat>55.92165</lat>
+<lng>-2.78898</lng>
+<geonameId>2655236</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bolton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U6</adminCode2>
+<adminName2>East Lothian</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bolton%2C_East_Lothian</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.80504</west>
+<north>55.93065</north>
+<east>-2.77293</east>
+<south>55.91266</south>
+</bbox>
+<score>72.39289855957031</score>
+</geoname>
+<geoname>
+<toponymName>Borough of Bolton</toponymName>
+<name>Borough of Bolton</name>
+<lat>53.58333</lat>
+<lng>-2.5</lng>
+<geonameId>3333128</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>266500</population>
+<alternateNames>BOL,Bolton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B1</adminCode2>
+<adminName2>Bolton</adminName2>
+<alternateName lang="abbr">BOL</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Metropolitan_Borough_of_Bolton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.62862</west>
+<north>53.64603</north>
+<east>-2.33704</east>
+<south>53.52285</south>
+</bbox>
+<score>61.86845397949219</score>
+</geoname>
+<geoname>
+<toponymName>Bolton</toponymName>
+<name>Bolton</name>
+<lat>54.6053</lat>
+<lng>-2.57884</lng>
+<geonameId>7296023</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UF</adminCode3>
+<adminName3>Eden District</adminName3>
+<adminCode4>16UF008</adminCode4>
+<adminName4>Bolton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bolton%2C_Cumbria</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.61965</west>
+<north>54.62801</north>
+<east>-2.53802</east>
+<south>54.58259</south>
+</bbox>
+<score>39.962188720703125</score>
+</geoname>
+</geonames>

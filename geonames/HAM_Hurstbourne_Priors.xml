@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hurstbourne Priors</toponymName>
+<name>Hurstbourne Priors</name>
+<lat>51.21554</lat>
+<lng>-1.37466</lng>
+<geonameId>2646359</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UN</adminCode3>
+<adminName3>Test Valley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hurstbourne_Priors</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.38902</west>
+<north>51.22453</north>
+<east>-1.3603</east>
+<south>51.20655</south>
+</bbox>
+<score>86.60689544677734</score>
+</geoname>
+<geoname>
+<toponymName>Hurstbourne Priors</toponymName>
+<name>Hurstbourne Priors</name>
+<lat>51.22126</lat>
+<lng>-1.36684</lng>
+<geonameId>7300658</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UB</adminCode3>
+<adminName3>Basingstoke and Deane District</adminName3>
+<adminCode4>24UB020</adminCode4>
+<adminName4>Hurstbourne Priors</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.42111</west>
+<north>51.25795</north>
+<east>-1.31257</east>
+<south>51.18458</south>
+</bbox>
+<score>76.95207977294922</score>
+</geoname>
+</geonames>

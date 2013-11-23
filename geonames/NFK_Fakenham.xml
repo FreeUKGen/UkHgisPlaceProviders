@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Fakenham</toponymName>
+<name>Fakenham</name>
+<lat>52.82996</lat>
+<lng>0.8477</lng>
+<geonameId>2649730</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7902</population>
+<alternateNames>FKH,Fakenham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<alternateName lang="en">Fakenham</alternateName>
+<alternateName lang="iata">FKH</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Fakenham</alternateName>
+<alternateName lang="unlc">FKM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.82946</west>
+<north>52.84098</north>
+<east>0.86593</east>
+<south>52.81895</south>
+</bbox>
+<score>108.15541076660156</score>
+</geoname>
+<geoname>
+<toponymName>Fakenham</toponymName>
+<name>Fakenham</name>
+<lat>52.84091</lat>
+<lng>0.86473</lng>
+<geonameId>7299273</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF029</adminCode4>
+<adminName4>Fakenham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.83809</west>
+<north>52.85765</north>
+<east>0.89137</east>
+<south>52.82418</south>
+</bbox>
+<score>78.63372802734375</score>
+</geoname>
+</geonames>

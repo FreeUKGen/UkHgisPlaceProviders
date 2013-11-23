@@ -1,0 +1,72 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>5398</id>
+<name>CRANBROOK</name>
+<container>KENT</container>
+<lat>51.1010709585635</lat>
+<lon>0.540203763062299</lon>
+<gazetteerText>Cranbrook, market town and par., mid. Kent, on river Crane, 6 miles S. of Staplehurst ry. sta. and 46 miles SE. of London, 10,374 ac., pop. 4216; P.O., T.O., 1 Bank. From the 14th to the 17th century C. was one of the principal seats of the broadcloth mfr. introduced by the Flemings; it is now the centre of the agricultural district called the Weald of Kent, and carries on trade in malt, hops, &amp;C. There is a market for corn and hops every alternate Wednesday. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Cranbrook,_Kent</link>
+<link>http://www.geonames.org/2652088</link>
+<link>http://www.workhouses.org.uk/Cranbrook</link>
+</links>
+<unit>
+   <id>10044091</id>
+   <status>PLU/RegD</status>
+   <name>CRANBROOK</name>
+</unit>
+<unit>
+   <id>10044212</id>
+   <status>Hundred</status>
+   <name>CRANBROOK</name>
+</unit>
+<unit>
+   <id>10154285</id>
+   <status>RSD</status>
+   <name>CRANBROOK</name>
+</unit>
+<unit>
+   <id>10166731</id>
+   <status>RD</status>
+   <name>CRANBROOK</name>
+</unit>
+<unit>
+   <id>10172160</id>
+   <status>EP</status>
+   <name>CRANBROOK</name>
+</unit>
+<unit>
+   <id>10193333</id>
+   <status>AP/CP</status>
+   <name>CRANBROOK</name>
+</unit>
+<unit>
+   <id>10536911</id>
+   <status></status>
+   <name>CRANBROOK</name>
+</unit>
+<unit>
+   <id>12829747</id>
+   <status></status>
+   <name>CRANBROOK</name>
+</unit>
+<nearByPlace>
+   <id>2069</id>
+   <name>FRITTENDEN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2074</id>
+   <name>HEADCORN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4416</id>
+   <name>BENENDEN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6411</id>
+   <name>STAPLEHURST</name>
+</nearByPlace>
+</place>
+</results>

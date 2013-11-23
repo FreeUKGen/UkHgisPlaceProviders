@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Chepstow</toponymName>
+<name>Chepstow</name>
+<lat>51.62062</lat>
+<lng>-2.67698</lng>
+<geonameId>7301587</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP004</adminCode3>
+<adminName3>Chepstow</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.69745</west>
+<north>51.64954</north>
+<east>-2.65651</east>
+<south>51.5917</south>
+</bbox>
+<score>96.64546203613281</score>
+</geoname>
+<geoname>
+<toponymName>Chepstow</toponymName>
+<name>Chepstow</name>
+<lat>51.64087</lat>
+<lng>-2.67683</lng>
+<geonameId>2653256</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11062</population>
+<alternateNames>Cas-gwent,Chepstou,Chepstow,cepsto,Чепстоу,चेप्स्टो</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP004</adminCode3>
+<adminName3>Chepstow</adminName3>
+<alternateName lang="bg">Чепстоу</alternateName>
+<alternateName lang="cy">Cas-gwent</alternateName>
+<alternateName lang="hi">चेप्स्टो</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chepstow</alternateName>
+<alternateName lang="ru">Чепстоу</alternateName>
+<alternateName lang="uk">Чепстоу</alternateName>
+<alternateName lang="unlc">CHT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.69857</west>
+<north>51.65436</north>
+<east>-2.65508</east>
+<south>51.62738</south>
+</bbox>
+<score>91.35066223144531</score>
+</geoname>
+</geonames>

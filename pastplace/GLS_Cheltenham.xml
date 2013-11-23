@@ -1,0 +1,208 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>72</id>
+<name>CHELTENHAM</name>
+<container>GLOUCESTERSHIRE</container>
+<lat>51.8988996075932</lat>
+<lon>-2.0908742439467</lon>
+<gazetteerText>Cheltenham, watering-place, parl. and mun. bor., and par., E. Gloucestershire, 7 miles NE. of Gloucester and 114 miles NW. of London -- par. and mun. bor., 4203 ac., pop. 43,972; parl. borough, pop. 50,842; 4 Banks, 7 newspapers. Market-days, Thursday and Saturday; is finely situated in a valley watered by the river Chelt, and sheltered on the E. and NE. by the Cotswold Hills. C. is a fashionable and educational resort, and is one of the healthiest, cleanest, and cheapest places in the kingdom. It owes its prosperity to its mineral springs, which were accidentally discovered in 1716. They are four in number, and are all saline, with the exception of one, which is chalybeate. In 1788 George III. derived much benefit from their use, and C. immediately came into favour. It is now a town of handsome squares, crescents, and terraces, while its promenades and pump-rooms are reckoned among the finest in England. Among the educational institutions of C. are a foundation grammar-school, established 1574; a proprietary college. opened 1842; a ladies&apos; college; and a training college for male and female teachers. The bor. returns 1 member to Parliament; its parl. limits were extended in 1895, to include part of Charlton Kings par. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/GLS/Cheltenham/index.html</link>
+<link>http://en.wikipedia.org/wiki/Cheltenham</link>
+<link>http://www.geonames.org/2653261</link>
+<link>http://www.workhouses.org.uk/Cheltenham</link>
+</links>
+<unit>
+   <id>10366859</id>
+   <status>EP</status>
+   <name>CHELTENHAM ST MICHAEL</name>
+</unit>
+<unit>
+   <id>10002424</id>
+   <status>MB</status>
+   <name>CHELTENHAM</name>
+</unit>
+<unit>
+   <id>12832242</id>
+   <status></status>
+   <name>CHELTENHAM</name>
+</unit>
+<unit>
+   <id>12745333</id>
+   <status>PBCon/BCon</status>
+   <name>CHELTENHAM</name>
+</unit>
+<unit>
+   <id>10366513</id>
+   <status>EP</status>
+   <name>CHELTENHAM</name>
+</unit>
+<unit>
+   <id>10366811</id>
+   <status>EP</status>
+   <name>CHELTENHAM ST LUKE</name>
+</unit>
+<unit>
+   <id>10139790</id>
+   <status>RegD/PLU</status>
+   <name>CHELTENHAM</name>
+</unit>
+<unit>
+   <id>10137718</id>
+   <status>RSD</status>
+   <name>CHELTENHAM</name>
+</unit>
+<unit>
+   <id>10366914</id>
+   <status>EP</status>
+   <name>CHELTENHAM ST PAUL</name>
+</unit>
+<unit>
+   <id>10366987</id>
+   <status>EP</status>
+   <name>CHELTENHAM ST STEPHEN</name>
+</unit>
+<unit>
+   <id>10366677</id>
+   <status>EP</status>
+   <name>CHELTENHAM ST JAMES</name>
+</unit>
+<unit>
+   <id>10571376</id>
+   <status></status>
+   <name>CHELTENHAM</name>
+</unit>
+<unit>
+   <id>10186407</id>
+   <status>RD</status>
+   <name>CHELTENHAM</name>
+</unit>
+<unit>
+   <id>10366458</id>
+   <status>CP/AP</status>
+   <name>CHELTENHAM</name>
+</unit>
+<unit>
+   <id>10168284</id>
+   <status></status>
+   <name>CHELTENHAM</name>
+</unit>
+<unit>
+   <id>10553052</id>
+   <status></status>
+   <name>CHELTENHAM</name>
+</unit>
+<unit>
+   <id>10003970</id>
+   <status>USD</status>
+   <name>CHELTENHAM</name>
+</unit>
+<unit>
+   <id>10152719</id>
+   <status>Hundred</status>
+   <name>CHELTENHAM</name>
+</unit>
+<unit>
+   <id>10366938</id>
+   <status>EP</status>
+   <name>CHELTENHAM ST PETER</name>
+</unit>
+<unit>
+   <id>10366665</id>
+   <status>EP</status>
+   <name>CHELTENHAM HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10366823</id>
+   <status>EP</status>
+   <name>CHELTENHAM ST LUKE AND ST JOHN</name>
+</unit>
+<unit>
+   <id>10366549</id>
+   <status>EP</status>
+   <name>CHELTENHAM CHRIST CHURCH</name>
+</unit>
+<unit>
+   <id>10567579</id>
+   <status></status>
+   <name>CHELTENHAM</name>
+</unit>
+<unit>
+   <id>10366574</id>
+   <status>EP</status>
+   <name>CHELTENHAM EMMANUEL</name>
+</unit>
+<unit>
+   <id>10366793</id>
+   <status>EP</status>
+   <name>CHELTENHAM ST JOHN</name>
+</unit>
+<unit>
+   <id>10366847</id>
+   <status>EP</status>
+   <name>CHELTENHAM ST MARK</name>
+</unit>
+<unit>
+   <id>12780382</id>
+   <status></status>
+   <name>CHELTENHAM</name>
+</unit>
+<nearByPlace>
+   <id>48</id>
+   <name>CHARLTON KINGS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10549</id>
+   <name>COBERLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10574</id>
+   <name>COWLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10600</id>
+   <name>DOWDESWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10833</id>
+   <name>UP HATHERLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10944</id>
+   <name>LECKHAMPTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11267</id>
+   <name>SHIPTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11403</id>
+   <name>TURKDEAN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11426</id>
+   <name>UCKINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11473</id>
+   <name>WITHINGTON</name>
+</nearByPlace>
+</place>
+<place>
+<id>24395</id>
+<name>PITTVILLE</name>
+<container>GLOUCESTERSHIRE</container>
+<lat>51.9068777111204</lat>
+<lon>-2.07559648293749</lon>
+<gazetteerText>Pittville, eccl. dist., Cheltenham par., Gloucestershire, pop. 3762; P.O., T.O. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Pittville</link>
+</links>
+<unit>
+   <id>10386639</id>
+   <status>EP</status>
+   <name>PITTVILLE</name>
+</unit>
+</place>
+</results>

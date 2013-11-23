@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Hanwell</toponymName>
+<name>Hanwell</name>
+<lat>52.0893</lat>
+<lng>-1.3675</lng>
+<geonameId>2647515</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UB</adminCode3>
+<adminName3>Cherwell District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hanwell%2C_Oxfordshire</alternateName>
+<alternateName lang="unlc">ZBH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.38214</west>
+<north>52.0983</north>
+<east>-1.35286</east>
+<south>52.08031</south>
+</bbox>
+<score>75.5750732421875</score>
+</geoname>
+<geoname>
+<toponymName>Hanwell</toponymName>
+<name>Hanwell</name>
+<lat>52.09081</lat>
+<lng>-1.36394</lng>
+<geonameId>7290964</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UB</adminCode3>
+<adminName3>Cherwell District</adminName3>
+<adminCode4>38UB032</adminCode4>
+<adminName4>Hanwell</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.38567</west>
+<north>52.10137</north>
+<east>-1.34221</east>
+<south>52.08024</south>
+</bbox>
+<score>71.8141860961914</score>
+</geoname>
+<geoname>
+<toponymName>Hanwell</toponymName>
+<name>Hanwell</name>
+<lat>51.51809</lat>
+<lng>-0.33517</lng>
+<geonameId>2647516</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>hainavela,ہینویل، لندن,हैनवेल</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>D9</adminCode3>
+<adminName3>Ealing</adminName3>
+<alternateName lang="hi">हैनवेल</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hanwell</alternateName>
+<alternateName lang="unlc">HNW</alternateName>
+<alternateName lang="ur">ہینویل، لندن</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.34962</west>
+<north>51.52708</north>
+<east>-0.32071</east>
+<south>51.5091</south>
+</bbox>
+<score>59.721038818359375</score>
+</geoname>
+</geonames>

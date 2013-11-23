@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Brownhills</toponymName>
+<name>Brownhills</name>
+<lat>52.63333</lat>
+<lng>-1.93333</lng>
+<geonameId>2654490</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>20308</population>
+<alternateNames>Braunkhills,Brownhills,Браунхиллс</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O8</adminCode2>
+<adminName2>Walsall</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brownhills</alternateName>
+<alternateName lang="ru">Браунхиллс</alternateName>
+<alternateName lang="unlc">BWS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.96298</west>
+<north>52.65132</north>
+<east>-1.90368</east>
+<south>52.61535</south>
+</bbox>
+<score>103.30416870117188</score>
+</geoname>
+</geonames>

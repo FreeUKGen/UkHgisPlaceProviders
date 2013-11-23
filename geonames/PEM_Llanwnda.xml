@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Llanwnda</toponymName>
+<name>Llanwnda</name>
+<lat>53.09693</lat>
+<lng>-4.26591</lng>
+<geonameId>7300650</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC047</adminCode3>
+<adminName3>Llanwnda</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.32057</west>
+<north>53.11349</north>
+<east>-4.21125</east>
+<south>53.08037</south>
+</bbox>
+<score>109.52635955810547</score>
+</geoname>
+<geoname>
+<toponymName>Llanwnda</toponymName>
+<name>Llanwnda</name>
+<lat>52.01538</lat>
+<lng>-5.01451</lng>
+<geonameId>2643914</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanwnda%2C_Pembrokeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.02912</west>
+<north>52.02438</north>
+<east>-4.99989</east>
+<south>52.00639</south>
+</bbox>
+<score>82.03706359863281</score>
+</geoname>
+<geoname>
+<toponymName>Llanwnda</toponymName>
+<name>Llanwnda</name>
+<lat>53.09959</lat>
+<lng>-4.27832</lng>
+<geonameId>2643913</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Llanwnda</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC047</adminCode3>
+<adminName3>Llanwnda</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanwnda%2C_Gwynedd</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.30829</west>
+<north>53.11758</north>
+<east>-4.24835</east>
+<south>53.0816</south>
+</bbox>
+<score>79.00312805175781</score>
+</geoname>
+</geonames>

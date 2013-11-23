@@ -1,0 +1,53 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>257</id>
+<name>ALVASTON</name>
+<container>DERBYSHIRE</container>
+<lat>52.8876056314194</lat>
+<lon>-1.43234524011245</lon>
+<gazetteerText>ALVASTON, a township-chapelry in St. Michael parish, Derby; on the Derwent river, near the Midland railway, 3 miles SE of Derby. It has a post office under Derby. Acres, 870. Rated property, &#163;2,930. Pop., 558. Houses, 117. The property is much subdivided. The living is a vicarage in the diocese of Lichfield. Value, &#163;116. Patrons, the parishioners. The church was rebuilt in 1856. There are Presbyterian and Wesleyan chapels, and a church school. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Alvaston</link>
+<link>http://www.genuki.org.uk/big/eng/DBY/Alvaston/index.html</link>
+</links>
+<unit>
+   <id>10012405</id>
+   <status>EP</status>
+   <name>ALVASTON</name>
+</unit>
+<unit>
+   <id>10027615</id>
+   <status>UD</status>
+   <name>ALVASTON AND BOULTON</name>
+</unit>
+<unit>
+   <id>10043657</id>
+   <status>USD</status>
+   <name>ALVASTON AND BOULTON</name>
+</unit>
+<unit>
+   <id>10048023</id>
+   <status>CP</status>
+   <name>ALVASTON AND BOULTON</name>
+</unit>
+<unit>
+   <id>10119868</id>
+   <status>CP/Ch</status>
+   <name>ALVASTON</name>
+</unit>
+<unit>
+   <id>10212730</id>
+   <status>CP</status>
+   <name>UNNAMED</name>
+</unit>
+<nearByPlace>
+   <id>1590</id>
+   <name>ASTON UPON TRENT</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5706</id>
+   <name>ELVASTON</name>
+</nearByPlace>
+</place>
+</results>

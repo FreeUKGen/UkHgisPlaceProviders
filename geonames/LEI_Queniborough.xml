@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Queniborough</toponymName>
+<name>Queniborough</name>
+<lat>52.70591</lat>
+<lng>-1.04749</lng>
+<geonameId>2639779</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2307</population>
+<alternateNames>Queniboro,Queniborough</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>Charnwood District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Queniborough</alternateName>
+<alternateName lang="unlc">QBG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.05491</west>
+<north>52.71041</north>
+<east>-1.04007</east>
+<south>52.70141</south>
+</bbox>
+<score>99.43340301513672</score>
+</geoname>
+<geoname>
+<toponymName>Queniborough</toponymName>
+<name>Queniborough</name>
+<lat>52.70029</lat>
+<lng>-1.04034</lng>
+<geonameId>7291629</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>Charnwood District</adminName3>
+<adminCode4>31UC016</adminCode4>
+<adminName4>Queniborough</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.07582</west>
+<north>52.71341</north>
+<east>-1.00485</east>
+<south>52.68717</south>
+</bbox>
+<score>81.3717041015625</score>
+</geoname>
+</geonames>

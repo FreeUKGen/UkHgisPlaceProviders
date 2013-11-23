@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Devizes</toponymName>
+<name>Devizes</name>
+<lat>51.34762</lat>
+<lng>-1.99972</lng>
+<geonameId>7300333</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY079</adminCode3>
+<adminName3>Devizes</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.02588</west>
+<north>51.35862</north>
+<east>-1.97357</east>
+<south>51.33662</south>
+</bbox>
+<score>106.38423919677734</score>
+</geoname>
+<geoname>
+<toponymName>Devizes</toponymName>
+<name>Devizes</name>
+<lat>51.35084</lat>
+<lng>-1.99421</lng>
+<geonameId>2651294</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>14699</population>
+<alternateNames>Devizes,Divisae</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY079</adminCode3>
+<adminName3>Devizes</adminName3>
+<alternateName lang="la">Divisae</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Devizes</alternateName>
+<alternateName lang="unlc">DVZ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.01916</west>
+<north>51.36642</north>
+<east>-1.96926</east>
+<south>51.33526</south>
+</bbox>
+<score>104.76170349121094</score>
+</geoname>
+</geonames>

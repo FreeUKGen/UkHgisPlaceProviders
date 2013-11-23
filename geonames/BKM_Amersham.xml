@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Amersham</toponymName>
+<name>Amersham</name>
+<lat>51.66667</lat>
+<lng>-0.61667</lng>
+<geonameId>2657356</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>21731</population>
+<alternateNames>Amersham,Амершам</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UC</adminCode3>
+<adminName3>Chiltern District</adminName3>
+<alternateName lang="ru">Амершам</alternateName>
+<alternateName lang="unlc">AME</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.64744</west>
+<north>51.68575</north>
+<east>-0.58589</east>
+<south>51.64759</south>
+</bbox>
+<score>96.7823486328125</score>
+</geoname>
+<geoname>
+<toponymName>Amersham</toponymName>
+<name>Amersham</name>
+<lat>51.66685</lat>
+<lng>-0.61405</lng>
+<geonameId>7298769</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames>Agmodesham,Amursham,amashamu,ameosyam,Амършам,アマーシャム,아머샴</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UC</adminCode3>
+<adminName3>Chiltern District</adminName3>
+<adminCode4>11UC001</adminCode4>
+<adminName4>Amersham</adminName4>
+<alternateName lang="ang">Agmodesham</alternateName>
+<alternateName lang="bg">Амършам</alternateName>
+<alternateName lang="ja">アマーシャム</alternateName>
+<alternateName lang="ko">아머샴</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Amersham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.66553</west>
+<north>51.69092</north>
+<east>-0.56258</east>
+<south>51.64277</south>
+</bbox>
+<score>48.29307556152344</score>
+</geoname>
+</geonames>

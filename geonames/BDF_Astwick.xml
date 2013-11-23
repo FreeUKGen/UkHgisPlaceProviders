@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Astwick</toponymName>
+<name>Astwick</name>
+<lat>52.03838</lat>
+<lng>-0.23007</lng>
+<geonameId>7298870</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC005</adminCode3>
+<adminName3>Astwick</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.24535</west>
+<north>52.0472</north>
+<east>-0.2148</east>
+<south>52.02955</south>
+</bbox>
+<score>112.98971557617188</score>
+</geoname>
+<geoname>
+<toponymName>Astwick</toponymName>
+<name>Astwick</name>
+<lat>52.0323</lat>
+<lng>-0.23127</lng>
+<geonameId>2656857</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC005</adminCode3>
+<adminName3>Astwick</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Astwick</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.26052</west>
+<north>52.05028</north>
+<east>-0.20202</east>
+<south>52.01431</south>
+</bbox>
+<score>77.57841491699219</score>
+</geoname>
+</geonames>

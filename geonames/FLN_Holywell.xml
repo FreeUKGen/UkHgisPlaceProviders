@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Holywell</toponymName>
+<name>Holywell</name>
+<lat>53.29022</lat>
+<lng>-3.20301</lng>
+<geonameId>7297174</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ014</adminCode3>
+<adminName3>Holywell</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.24775</west>
+<north>53.32151</north>
+<east>-3.15827</east>
+<south>53.25894</south>
+</bbox>
+<score>101.41452026367188</score>
+</geoname>
+<geoname>
+<toponymName>Holywell</toponymName>
+<name>Holywell</name>
+<lat>53.27466</lat>
+<lng>-3.22895</lng>
+<geonameId>2646673</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>6969</population>
+<alternateNames>Holywell,Treffynnon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ014</adminCode3>
+<adminName3>Holywell</adminName3>
+<alternateName lang="cy">Treffynnon</alternateName>
+<alternateName lang="en">Holywell</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Holywell</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.24577</west>
+<north>53.28471</north>
+<east>-3.21213</east>
+<south>53.2646</south>
+</bbox>
+<score>84.35834503173828</score>
+</geoname>
+<geoname>
+<toponymName>Holywell</toponymName>
+<name>Holywell</name>
+<lat>52.31667</lat>
+<lng>-0.03333</lng>
+<geonameId>2646674</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Holywell</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Holywell%2C_Cambridgeshire</alternateName>
+<alternateName lang="unlc">HWL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.04805</west>
+<north>52.32566</north>
+<east>-0.01862</east>
+<south>52.30767</south>
+</bbox>
+<score>79.91786193847656</score>
+</geoname>
+<geoname>
+<toponymName>Holywell</toponymName>
+<name>Holywell</name>
+<lat>54.3</lat>
+<lng>-7.88333</lng>
+<geonameId>2646672</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NIR">NIR</adminCode1>
+<adminName1>N Ireland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-7.89875</west>
+<north>54.30899</north>
+<east>-7.86792</east>
+<south>54.29101</south>
+</bbox>
+<score>58.182090759277344</score>
+</geoname>
+</geonames>

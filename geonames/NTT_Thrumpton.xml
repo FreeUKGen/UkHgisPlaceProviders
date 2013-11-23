@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Thrumpton</toponymName>
+<name>Thrumpton</name>
+<lat>52.87831</lat>
+<lng>-1.24469</lng>
+<geonameId>7291095</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<adminCode4>37UJ049</adminCode4>
+<adminName4>Thrumpton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thrumpton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.27024</west>
+<north>52.89242</north>
+<east>-1.21914</east>
+<south>52.86421</south>
+</bbox>
+<score>61.74647521972656</score>
+</geoname>
+</geonames>

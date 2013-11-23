@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Newcastle under Lyme</toponymName>
+<name>Newcastle-under-Lyme</name>
+<lat>53</lat>
+<lng>-2.23333</lng>
+<geonameId>2641674</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>75794</population>
+<alternateNames>Newcastle under Lyme,Newcastle-under-Lyme</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UE</adminCode3>
+<adminName3>Newcastle-under-Lyme District</adminName3>
+<alternateName lang="de">Newcastle-under-Lyme</alternateName>
+<alternateName lang="en">Newcastle-under-Lyme</alternateName>
+<alternateName lang="eo">Newcastle-under-Lyme</alternateName>
+<alternateName lang="fi">Newcastle-under-Lyme</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newcastle-under-Lyme</alternateName>
+<alternateName lang="nl">Newcastle-under-Lyme</alternateName>
+<alternateName lang="no">Newcastle-under-Lyme</alternateName>
+<alternateName lang="tr">Newcastle-under-Lyme</alternateName>
+<alternateName lang="unlc">NCE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.29269</west>
+<north>53.03569</north>
+<east>-2.17398</east>
+<south>52.96431</south>
+</bbox>
+<score>190.97634887695312</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Coppenhall</toponymName>
+<name>Coppenhall</name>
+<lat>52.76667</lat>
+<lng>-2.13333</lng>
+<geonameId>2652393</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Coppenhall</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UF</adminCode3>
+<adminName3>South Staffordshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Coppenhall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.1482</west>
+<north>52.77566</north>
+<east>-2.11847</east>
+<south>52.75767</south>
+</bbox>
+<score>108.45050811767578</score>
+</geoname>
+<geoname>
+<toponymName>Coppenhall</toponymName>
+<name>Coppenhall</name>
+<lat>52.77344</lat>
+<lng>-2.13547</lng>
+<geonameId>7297249</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UF</adminCode3>
+<adminName3>South Staffordshire District</adminName3>
+<adminCode4>41UF008</adminCode4>
+<adminName4>Coppenhall</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.15642</west>
+<north>52.7841</north>
+<east>-2.11452</east>
+<south>52.76278</south>
+</bbox>
+<score>82.2243881225586</score>
+</geoname>
+</geonames>

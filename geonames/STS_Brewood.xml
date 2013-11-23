@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Brewood</toponymName>
+<name>Brewood</name>
+<lat>52.67712</lat>
+<lng>-2.17414</lng>
+<geonameId>2654767</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2532</population>
+<alternateNames>Brewood,Brewood and Coven</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UF</adminCode3>
+<adminName3>South Staffordshire District</adminName3>
+<alternateName lang="es">Brewood and Coven</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brewood</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.18463</west>
+<north>52.68347</north>
+<east>-2.16365</east>
+<south>52.67076</south>
+</bbox>
+<score>112.97511291503906</score>
+</geoname>
+</geonames>

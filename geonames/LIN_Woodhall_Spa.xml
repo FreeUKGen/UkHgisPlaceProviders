@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Woodhall Spa</toponymName>
+<name>Woodhall Spa</name>
+<lat>53.15215</lat>
+<lng>-0.21453</lng>
+<geonameId>2633651</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4225</population>
+<alternateNames>Woodhall Spa</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Woodhall_Spa</alternateName>
+<alternateName lang="unlc">WDH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.22752</west>
+<north>53.15994</north>
+<east>-0.20154</east>
+<south>53.14436</south>
+</bbox>
+<score>102.50743865966797</score>
+</geoname>
+<geoname>
+<toponymName>Woodhall Spa</toponymName>
+<name>Woodhall Spa</name>
+<lat>53.14653</lat>
+<lng>-0.21218</lng>
+<geonameId>7297816</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC188</adminCode4>
+<adminName4>Woodhall Spa</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.24673</west>
+<north>53.17418</north>
+<east>-0.17762</east>
+<south>53.11888</south>
+</bbox>
+<score>73.85122680664062</score>
+</geoname>
+</geonames>

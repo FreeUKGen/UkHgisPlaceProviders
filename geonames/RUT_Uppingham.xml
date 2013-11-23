@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Uppingham</toponymName>
+<name>Uppingham</name>
+<lat>52.58622</lat>
+<lng>-0.72821</lng>
+<geonameId>7301046</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L4</adminCode2>
+<adminName2>Rutland</adminName2>
+<adminCode3>00FP054</adminCode3>
+<adminName3>Uppingham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.75403</west>
+<north>52.59669</north>
+<east>-0.70239</east>
+<south>52.57575</south>
+</bbox>
+<score>112.42731475830078</score>
+</geoname>
+<geoname>
+<toponymName>Uppingham</toponymName>
+<name>Uppingham</name>
+<lat>52.58803</lat>
+<lng>-0.72272</lng>
+<geonameId>2635101</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4035</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L4</adminCode2>
+<adminName2>Rutland</adminName2>
+<adminCode3>00FP054</adminCode3>
+<adminName3>Uppingham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Uppingham</alternateName>
+<alternateName lang="unlc">UPI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.73554</west>
+<north>52.59582</north>
+<east>-0.7099</east>
+<south>52.58024</south>
+</bbox>
+<score>100.26214599609375</score>
+</geoname>
+</geonames>

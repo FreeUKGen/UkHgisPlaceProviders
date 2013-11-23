@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Farmborough</toponymName>
+<name>Farmborough</name>
+<lat>51.33802</lat>
+<lng>-2.4939</lng>
+<geonameId>7296164</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA019</adminCode3>
+<adminName3>Farmborough</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.52322</west>
+<north>51.35009</north>
+<east>-2.46458</east>
+<south>51.32596</south>
+</bbox>
+<score>104.86876678466797</score>
+</geoname>
+<geoname>
+<toponymName>Farmborough</toponymName>
+<name>Farmborough</name>
+<lat>51.3439</lat>
+<lng>-2.48778</lng>
+<geonameId>2649674</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Farmboro,Farmborough</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA019</adminCode3>
+<adminName3>Farmborough</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Farmborough</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.50218</west>
+<north>51.35289</north>
+<east>-2.47338</east>
+<south>51.3349</south>
+</bbox>
+<score>86.41624450683594</score>
+</geoname>
+</geonames>

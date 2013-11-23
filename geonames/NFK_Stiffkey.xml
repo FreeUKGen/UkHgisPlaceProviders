@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Stiffkey</toponymName>
+<name>Stiffkey</name>
+<lat>52.9491</lat>
+<lng>0.93281</lng>
+<geonameId>2636921</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.91788</west>
+<north>52.9581</north>
+<east>0.94774</east>
+<south>52.94011</south>
+</bbox>
+<score>65.0355453491211</score>
+</geoname>
+<geoname>
+<toponymName>Stiffkey</toponymName>
+<name>Stiffkey</name>
+<lat>52.95671</lat>
+<lng>0.93861</lng>
+<geonameId>7299491</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF093</adminCode4>
+<adminName4>Stiffkey</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stiffkey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.90891</west>
+<north>52.984</north>
+<east>0.96831</east>
+<south>52.92942</south>
+</bbox>
+<score>59.823448181152344</score>
+</geoname>
+</geonames>

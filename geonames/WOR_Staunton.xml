@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Staunton</toponymName>
+<name>Staunton</name>
+<lat>51.81667</lat>
+<lng>-2.65</lng>
+<geonameId>2637001</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Staunton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UD</adminCode3>
+<adminName3>Forest of Dean</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Staunton%2C_Gloucestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.66455</west>
+<north>51.82566</north>
+<east>-2.63545</east>
+<south>51.80767</south>
+</bbox>
+<score>85.50340270996094</score>
+</geoname>
+<geoname>
+<toponymName>Staunton</toponymName>
+<name>Staunton</name>
+<lat>51.96118</lat>
+<lng>-2.32406</lng>
+<geonameId>7295183</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UD</adminCode3>
+<adminName3>Forest of Dean</adminName3>
+<adminCode4>23UD032</adminCode4>
+<adminName4>Staunton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.34769</west>
+<north>51.97659</north>
+<east>-2.30044</east>
+<south>51.94577</south>
+</bbox>
+<score>66.42322540283203</score>
+</geoname>
+<geoname>
+<toponymName>Staunton</toponymName>
+<name>Staunton</name>
+<lat>52.99138</lat>
+<lng>-0.79961</lng>
+<geonameId>7296964</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG071</adminCode4>
+<adminName4>Staunton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.82242</west>
+<north>53.00637</north>
+<east>-0.77679</east>
+<south>52.97638</south>
+</bbox>
+<score>66.42322540283203</score>
+</geoname>
+<geoname>
+<toponymName>Staunton</toponymName>
+<name>Staunton</name>
+<lat>52.23333</lat>
+<lng>-2.93333</lng>
+<geonameId>2636999</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.94802</west>
+<north>52.24233</north>
+<east>-2.91865</east>
+<south>52.22434</south>
+</bbox>
+<score>52.781166076660156</score>
+</geoname>
+<geoname>
+<toponymName>Staunton</toponymName>
+<name>Staunton</name>
+<lat>51.96667</lat>
+<lng>-2.31667</lng>
+<geonameId>2637000</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UD</adminCode3>
+<adminName3>Forest of Dean</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.33127</west>
+<north>51.97566</north>
+<east>-2.30207</east>
+<south>51.95767</south>
+</bbox>
+<score>52.781166076660156</score>
+</geoname>
+<geoname>
+<toponymName>Staunton on Wye</toponymName>
+<name>Staunton on Wye</name>
+<lat>52.10207</lat>
+<lng>-2.92074</lng>
+<geonameId>2636997</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Staunton,Staunton on Wye</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA194</adminCode3>
+<adminName3>Staunton on Wye</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.93539</west>
+<north>52.11107</north>
+<east>-2.9061</east>
+<south>52.09308</south>
+</bbox>
+<score>40.679283142089844</score>
+</geoname>
+<geoname>
+<toponymName>Staunton in the Vale</toponymName>
+<name>Staunton in the Vale</name>
+<lat>52.98439</lat>
+<lng>-0.80109</lng>
+<geonameId>2636998</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Staunton,Staunton in the Vale</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.81604</west>
+<north>52.99339</north>
+<east>-0.78615</east>
+<south>52.9754</south>
+</bbox>
+<score>40.679283142089844</score>
+</geoname>
+</geonames>

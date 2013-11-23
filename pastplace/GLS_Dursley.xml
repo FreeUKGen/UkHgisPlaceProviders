@@ -1,0 +1,78 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>10620</id>
+<name>DURSLEY</name>
+<container>GLOUCESTERSHIRE</container>
+<lat>51.6771343153117</lat>
+<lon>-2.34672747488431</lon>
+<gazetteerText>Dursley, market town, par., and ry. sta., in co. and 15 miles SW. of Gloucester and 200 miles NW. of London, 1059 ac., pop. 2344; P.O., T.O., 2 Banks, 1 newspaper. Market-days, Thursday and Saturday. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/GLS/Dursley/index.html</link>
+<link>http://en.wikipedia.org/wiki/Dursley</link>
+<link>http://www.workhouses.org.uk/Dursley</link>
+<link>http://www.geonames.org/2650613</link>
+</links>
+<unit>
+   <id>10030316</id>
+   <status>RegD/PLU</status>
+   <name>DURSLEY</name>
+</unit>
+<unit>
+   <id>10041697</id>
+   <status>Borough</status>
+   <name>DURSLEY</name>
+</unit>
+<unit>
+   <id>10110282</id>
+   <status>RSD</status>
+   <name>DURSLEY</name>
+</unit>
+<unit>
+   <id>10220634</id>
+   <status>RD</status>
+   <name>DURSLEY</name>
+</unit>
+<unit>
+   <id>10370644</id>
+   <status>CP/AP</status>
+   <name>DURSLEY</name>
+</unit>
+<unit>
+   <id>10370681</id>
+   <status>EP</status>
+   <name>DURSLEY</name>
+</unit>
+<unit>
+   <id>10552965</id>
+   <status></status>
+   <name>DURSLEY</name>
+</unit>
+<unit>
+   <id>10572794</id>
+   <status></status>
+   <name>DURSLEY</name>
+</unit>
+<unit>
+   <id>12834639</id>
+   <status></status>
+   <name>DURSLEY</name>
+</unit>
+<nearByPlace>
+   <id>10315</id>
+   <name>ALKINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11024</id>
+   <name>NORTH NIBLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11058</id>
+   <name>OWLPEN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11427</id>
+   <name>ULEY</name>
+</nearByPlace>
+</place>
+</results>

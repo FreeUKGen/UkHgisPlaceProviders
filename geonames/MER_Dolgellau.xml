@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Dolgellau</toponymName>
+<name>Dolgellau</name>
+<lat>52.75056</lat>
+<lng>-3.88435</lng>
+<geonameId>7300638</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC021</adminCode3>
+<adminName3>Dolgellau</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.96392</west>
+<north>52.75679</north>
+<east>-3.82432</east>
+<south>52.7009</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Dolgellau</toponymName>
+<name>Dolgelly</name>
+<lat>52.7432</lat>
+<lng>-3.88508</lng>
+<geonameId>2651154</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2434</population>
+<alternateNames>Dolgelaj,Dolgellau,Dolgelley,Dolgelly,Долгелай</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC021</adminCode3>
+<adminName3>Dolgellau</adminName3>
+<alternateName lang="bg">Долгелай</alternateName>
+<alternateName lang="cy">Dolgellau</alternateName>
+<alternateName lang="en">Dolgelly</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dolgellau</alternateName>
+<alternateName lang="unlc">DLG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.89558</west>
+<north>52.74956</north>
+<east>-3.87457</east>
+<south>52.73684</south>
+</bbox>
+<score>96.79768371582031</score>
+</geoname>
+</geonames>

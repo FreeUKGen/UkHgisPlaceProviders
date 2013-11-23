@@ -1,0 +1,125 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>586</id>
+<name>HARWICH</name>
+<container>ESSEX</container>
+<lat>51.9328969460567</lat>
+<lon>1.26639758381522</lon>
+<gazetteerText>Harwich, municipal bor., watering-place, seaport, and par., E. Essex, on peninsula on S. side of river Stour, at its confluence with the Orwell, 21 miles NE. of Colchester and 70 miles NE. of London - bor., 1479 ac., pop. 7842; par., 88 ac., pop. 5821; 1 Bank, 1 newspaper. Market-day, Tuesday. Harwich has been a place of note from a very early period; it was called Harwic by the Saxons. Being one of the best and safest harbours on the E. coast, its shipping is very important, especially the trade with Holland and North Germany. Steam packets ply regularly between Harwich and the Continent in connection with the Great Eastern Ry. (For shipping statistics, see Appendix.) The town depends a good deal upon the success of its shrimp and lobster fisheries. Other industries of the district are shipbuilding, Roman cement works, brewing, sailmaking, ropemaking, and the mfr. of artificial manure. On the snore, or Inner Ridge, abreast of Dovercourt, are 2 fixed lights (Harwich) seen 11 and 9&#189; miles; and near the extremity of Landguard Point is a fixed light (Harwich) seen 10 miles. Harwich returned 1 member to Parliament until 1885. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Harwich</link>
+<link>http://www.geonames.org/2647383</link>
+</links>
+<unit>
+   <id>10003933</id>
+   <status>USD</status>
+   <name>HARWICH</name>
+</unit>
+<unit>
+   <id>10024535</id>
+   <status>Borough</status>
+   <name>HARWICH</name>
+</unit>
+<unit>
+   <id>10108123</id>
+   <status>MB</status>
+   <name>HARWICH</name>
+</unit>
+<unit>
+   <id>10241753</id>
+   <status>CP</status>
+   <name>HARWICH</name>
+</unit>
+<unit>
+   <id>10241789</id>
+   <status>Ch/CP</status>
+   <name>HARWICH ST NICHOLAS</name>
+</unit>
+<unit>
+   <id>10241820</id>
+   <status>EP</status>
+   <name>HARWICH ST NICHOLAS</name>
+</unit>
+<unit>
+   <id>10538191</id>
+   <status></status>
+   <name>HARWICH</name>
+</unit>
+<unit>
+   <id>10574614</id>
+   <status></status>
+   <name>HARWICH</name>
+</unit>
+<unit>
+   <id>10574626</id>
+   <status></status>
+   <name>HARWICH</name>
+</unit>
+<unit>
+   <id>12737816</id>
+   <status>PDivCon</status>
+   <name>ESSEX HARWICH</name>
+</unit>
+<unit>
+   <id>12743555</id>
+   <status>PBCon</status>
+   <name>HARWICH</name>
+</unit>
+<unit>
+   <id>12750584</id>
+   <status>PDivCon</status>
+   <name>ESSEX NORTH EASTERN OR HARWICH</name>
+</unit>
+<unit>
+   <id>12756690</id>
+   <status>CCon</status>
+   <name>HARWICH</name>
+</unit>
+<unit>
+   <id>12834706</id>
+   <status></status>
+   <name>HARWICH</name>
+</unit>
+<nearByPlace>
+   <id>6550</id>
+   <name>BRADFIELD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6685</id>
+   <name>DOVERCOURT</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6831</id>
+   <name>MISTLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6844</id>
+   <name>GREAT OAKLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6845</id>
+   <name>LITTLE OAKLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7059</id>
+   <name>BRANTHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7086</id>
+   <name>CHELMONDISTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7292</id>
+   <name>HOLBROOK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7507</id>
+   <name>NACTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7677</id>
+   <name>SHOTLEY</name>
+</nearByPlace>
+</place>
+</results>

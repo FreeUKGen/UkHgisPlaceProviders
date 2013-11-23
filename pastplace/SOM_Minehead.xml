@@ -1,0 +1,96 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>152</id>
+<name>MINEHEAD</name>
+<container>SOMERSET</container>
+<lat>51.2100018795917</lat>
+<lon>-3.48110335058398</lon>
+<gazetteerText>Minehead, watering-place, par., and market town, Somerset, on S. shore of Bristol Channel, 8&#188; miles NW. of Watchet and 24&#190; miles NW. of Taunton by rail, 4581 ac. (590 water), pop. 1774; P.O., T.O., 1 Bank. Market-day, Wednesday. The harbour is very safe, but does not receive much support from shipmasters. Minehead is a pleasant place, with excellent houses and good hotels, and is rapidly growing in favour with visitors; it has ample sands, fair bathing, and an interesting neighbourhood. Leather mfr. is the leading industry. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/SOM/Minehead/index.html</link>
+<link>http://en.wikipedia.org/wiki/Minehead</link>
+<link>http://www.geonames.org/2642450</link>
+</links>
+<unit>
+   <id>10025540</id>
+   <status>UD</status>
+   <name>MINEHEAD</name>
+</unit>
+<unit>
+   <id>10097540</id>
+   <status>USD</status>
+   <name>MINEHEAD</name>
+</unit>
+<unit>
+   <id>10438251</id>
+   <status>CP/AP</status>
+   <name>MINEHEAD</name>
+</unit>
+<unit>
+   <id>10438263</id>
+   <status>EP</status>
+   <name>MINEHEAD</name>
+</unit>
+<unit>
+   <id>10438275</id>
+   <status>CP</status>
+   <name>MINEHEAD WITHOUT</name>
+</unit>
+<unit>
+   <id>10549802</id>
+   <status></status>
+   <name>MINEHEAD</name>
+</unit>
+<unit>
+   <id>12758911</id>
+   <status>PBCon</status>
+   <name>MINEHEAD</name>
+</unit>
+<unit>
+   <id>12829309</id>
+   <status></status>
+   <name>MINEHEAD</name>
+</unit>
+<nearByPlace>
+   <id>702</id>
+   <name>WATCHET</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12517</id>
+   <name>CARHAMPTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12610</id>
+   <name>OLD CLEEVE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12728</id>
+   <name>CUTCOMBE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12803</id>
+   <name>DUNSTER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13071</id>
+   <name>LUCCOMBE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13083</id>
+   <name>LUXBOROUGH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13150</id>
+   <name>PORLOCK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13210</id>
+   <name>SELWORTHY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13244</id>
+   <name>STOGUMBER</name>
+</nearByPlace>
+</place>
+</results>

@@ -1,0 +1,66 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>12472</id>
+<name>SOUTH BREWHAM</name>
+<container>SOMERSET</container>
+<lat>51.114746411463</lat>
+<lon>-2.38558839030185</lon>
+<gazetteerText>BREWHAM (South), a parish in Wincanton district, Somerset: on the Wilts and Somerset railway; 2&#189; miles NE by N of Bruton. It has a post office under Bath. Acres, 2,671. Real property, with North Brewham and Eastrip, &#163;6,394. Pop., 519. Houses, 121. The property is subdivided. The living is a vicarage, with North Brewham, in the diocese of Bath and Wells. Value, &#163;102. Patron, Sir H. Hoare, Bart. The church is good; and there are a Wesleyan chapel and a national school. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Brewham</link>
+<link>http://www.genuki.org.uk/big/eng/SOM/Brewham/index.html</link>
+<link>http://www.geonames.org/2637470</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=18729</link>
+</links>
+<unit>
+   <id>10421779</id>
+   <status>CP</status>
+   <name>BREWHAM</name>
+</unit>
+<unit>
+   <id>10421792</id>
+   <status>CP</status>
+   <name>SOUTH BREWHAM</name>
+</unit>
+<unit>
+   <id>10421809</id>
+   <status>Ch</status>
+   <name>SOUTH BREWHAM WITH NORTH BREWHAM</name>
+</unit>
+<unit>
+   <id>10421822</id>
+   <status>EP</status>
+   <name>SOUTH BREWHAM WITH NORTH BREWHAM</name>
+</unit>
+</place>
+<place>
+<id>12471</id>
+<name>NORTH BREWHAM</name>
+<container>SOMERSET</container>
+<lat>51.1325098921655</lat>
+<lon>-2.40159966774858</lon>
+<gazetteerText>BREWHAM (North), a parish in Wincanton district, Somerset; adjacent to the Wilts and Somerset railway, 3 miles NE of Bruton. Post Town, South Brewham, under Bath. Acres, 2,026. Real property, returned with South Brewham. Pop., 321. Houses, 73. The living is annexed to South Brewham; and the church is used as a barn. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2641412</link>
+</links>
+<unit>
+   <id>10421780</id>
+   <status>CP</status>
+   <name>NORTH BREWHAM</name>
+</unit>
+</place>
+<place>
+<id>24418</id>
+<name>BREWHAM LODGE</name>
+<container>SOMERSET</container>
+<lat>51.1284977227458</lat>
+<lon>-2.36016066156341</lon>
+<gazetteerText>BREWHAM-LODGE, an extra-parochial tract in Wincanton district, Somerset; on the east border of the county, 4&#189; miles ENE of Bruton. It was a hunting-seat of King John; and belongs now to the Hoares. Pop., 8. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<unit>
+   <id>10586744</id>
+   <status>EExP</status>
+   <name>BREWHAM LODGE</name>
+</unit>
+</place>
+</results>

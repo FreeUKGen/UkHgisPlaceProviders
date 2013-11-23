@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Grange</toponymName>
+<name>Grange</name>
+<lat>55.98333</lat>
+<lng>-3.6</lng>
+<geonameId>2648218</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W9</adminCode2>
+<adminName2>West Lothian</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.61608</west>
+<north>55.99233</north>
+<east>-3.58392</east>
+<south>55.97434</south>
+</bbox>
+<score>44.63507080078125</score>
+</geoname>
+<geoname>
+<toponymName>Grange</toponymName>
+<name>Grange</name>
+<lat>54.61667</lat>
+<lng>-6.71667</lng>
+<geonameId>2648219</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NIR">NIR</adminCode1>
+<adminName1>N Ireland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-6.7322</west>
+<north>54.62566</north>
+<east>-6.70113</east>
+<south>54.60767</south>
+</bbox>
+<score>44.63507080078125</score>
+</geoname>
+<geoname>
+<toponymName>Grange</toponymName>
+<name>Grange</name>
+<lat>54.18333</lat>
+<lng>-2.91667</lng>
+<geonameId>2648220</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UG</adminCode3>
+<adminName3>South Lakeland District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.93204</west>
+<north>54.19233</north>
+<east>-2.90129</east>
+<south>54.17434</south>
+</bbox>
+<score>44.63507080078125</score>
+</geoname>
+</geonames>

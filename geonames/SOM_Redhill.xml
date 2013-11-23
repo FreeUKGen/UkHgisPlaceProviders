@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Redhill</toponymName>
+<name>Redhill</name>
+<lat>51.24048</lat>
+<lng>-0.17044</lng>
+<geonameId>2639545</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>51559</population>
+<alternateNames>KRH,Redhill</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UF</adminCode3>
+<adminName3>Reigate and Banstead District</adminName3>
+<alternateName lang="iata">KRH</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Redhill%2C_Surrey</alternateName>
+<alternateName lang="unlc">REH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.21702</west>
+<north>51.26962</north>
+<east>-0.12386</east>
+<south>51.21134</south>
+</bbox>
+<score>125.78205871582031</score>
+</geoname>
+<geoname>
+<toponymName>Redhill</toponymName>
+<name>Redhill</name>
+<lat>51.36583</lat>
+<lng>-2.72028</lng>
+<geonameId>2639544</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Redhill</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Redhill%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.73469</west>
+<north>51.37483</north>
+<east>-2.70587</east>
+<south>51.35684</south>
+</bbox>
+<score>88.02236938476562</score>
+</geoname>
+<geoname>
+<toponymName>Redhill</toponymName>
+<name>Redhill</name>
+<lat>53.01282</lat>
+<lng>-1.13254</lng>
+<geonameId>6695041</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UE</adminCode3>
+<adminName3>Gedling District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Redhill%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.13852</west>
+<north>53.01642</north>
+<east>-1.12656</east>
+<south>53.00922</south>
+</bbox>
+<score>62.51084518432617</score>
+</geoname>
+<geoname>
+<toponymName>Redhill</toponymName>
+<name>Redhill</name>
+<lat>52.20329</lat>
+<lng>-1.79704</lng>
+<geonameId>6693712</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.81171</west>
+<north>52.21229</north>
+<east>-1.78236</east>
+<south>52.1943</south>
+</bbox>
+<score>55.41454315185547</score>
+</geoname>
+<geoname>
+<toponymName>Redhill</toponymName>
+<name>Redhill</name>
+<lat>52.45343</lat>
+<lng>-2.13964</lng>
+<geonameId>6289960</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>SCH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>school</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D7</adminCode2>
+<adminName2>Dudley</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>17.42758560180664</score>
+</geoname>
+</geonames>

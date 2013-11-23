@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Kirkby Underwood</toponymName>
+<name>Kirkby Underwood</name>
+<lat>52.83085</lat>
+<lng>-0.41339</lng>
+<geonameId>7295539</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<adminCode4>32UG048</adminCode4>
+<adminName4>Kirkby Underwood</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirkby_Underwood</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.43219</west>
+<north>52.84449</north>
+<east>-0.39459</east>
+<south>52.81721</south>
+</bbox>
+<score>49.139190673828125</score>
+</geoname>
+</geonames>

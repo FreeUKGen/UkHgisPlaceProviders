@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Kew</toponymName>
+<name>Kew</name>
+<lat>51.48614</lat>
+<lng>-0.28728</lng>
+<geonameId>2645740</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kew,kyu,क्यू,キュー</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>L1</adminCode3>
+<adminName3>Richmond upon Thames</adminName3>
+<alternateName lang="hi">क्यू</alternateName>
+<alternateName lang="ja">キュー</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kew</alternateName>
+<alternateName lang="unlc">KEW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.30172</west>
+<north>51.49513</north>
+<east>-0.27283</east>
+<south>51.47715</south>
+</bbox>
+<score>77.3202896118164</score>
+</geoname>
+</geonames>

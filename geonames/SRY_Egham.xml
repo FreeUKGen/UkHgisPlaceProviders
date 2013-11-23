@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Egham</toponymName>
+<name>Egham</name>
+<lat>51.43158</lat>
+<lng>-0.55239</lng>
+<geonameId>2650188</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>29663</population>
+<alternateNames>Egham,Ehgkhem,Эгхем</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UG</adminCode3>
+<adminName3>Runnymede District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Egham</alternateName>
+<alternateName lang="ru">Эгхем</alternateName>
+<alternateName lang="unlc">EGH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.58774</west>
+<north>51.45361</north>
+<east>-0.51704</east>
+<south>51.40955</south>
+</bbox>
+<score>120.47013854980469</score>
+</geoname>
+</geonames>

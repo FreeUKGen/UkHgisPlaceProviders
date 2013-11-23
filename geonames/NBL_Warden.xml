@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Warden</toponymName>
+<name>Warden</name>
+<lat>55.01324</lat>
+<lng>-2.16335</lng>
+<geonameId>7300691</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM152</adminCode3>
+<adminName3>Warden</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.19681</west>
+<north>55.03879</north>
+<east>-2.12988</east>
+<south>54.9877</south>
+</bbox>
+<score>82.16853332519531</score>
+</geoname>
+<geoname>
+<toponymName>Warden</toponymName>
+<name>Warden</name>
+<lat>54.98333</lat>
+<lng>-2.13333</lng>
+<geonameId>2634790</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM152</adminCode3>
+<adminName3>Warden</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Warden%2C_Northumberland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.16469</west>
+<north>55.00132</north>
+<east>-2.10197</east>
+<south>54.96535</south>
+</bbox>
+<score>54.211463928222656</score>
+</geoname>
+<geoname>
+<toponymName>Old Warden</toponymName>
+<name>Old Warden</name>
+<lat>52.08183</lat>
+<lng>-0.341</lng>
+<geonameId>2640985</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Warden</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC051</adminCode3>
+<adminName3>Old Warden</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Old_Warden</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.35564</west>
+<north>52.09082</north>
+<east>-0.32636</east>
+<south>52.07283</south>
+</bbox>
+<score>52.02269744873047</score>
+</geoname>
+<geoname>
+<toponymName>Warden</toponymName>
+<name>Warden</name>
+<lat>51.40748</lat>
+<lng>0.90556</lng>
+<geonameId>2634791</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UM</adminCode3>
+<adminName3>Swale District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.89114</west>
+<north>51.41647</north>
+<east>0.91998</east>
+<south>51.39848</south>
+</bbox>
+<score>47.183998107910156</score>
+</geoname>
+<geoname>
+<toponymName>Warden</toponymName>
+<name>Warden</name>
+<lat>51.41107</lat>
+<lng>0.90864</lng>
+<geonameId>7295807</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UM</adminCode3>
+<adminName3>Swale District</adminName3>
+<adminCode4>29UM039</adminCode4>
+<adminName4>Warden</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Warden%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.89618</west>
+<north>51.41882</north>
+<east>0.9211</east>
+<south>51.40332</south>
+</bbox>
+<score>42.012001037597656</score>
+</geoname>
+</geonames>

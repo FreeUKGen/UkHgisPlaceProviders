@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Plumstead</toponymName>
+<name>Plumstead</name>
+<lat>51.48333</lat>
+<lng>0.08333</lng>
+<geonameId>2640201</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Plumstead</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>E7</adminCode3>
+<adminName3>Greenwich</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Plumstead</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.06889</west>
+<north>51.49233</north>
+<east>0.09778</east>
+<south>51.47434</south>
+</bbox>
+<score>100.69950103759766</score>
+</geoname>
+<geoname>
+<toponymName>Plumstead</toponymName>
+<name>Plumstead</name>
+<lat>52.86667</lat>
+<lng>1.16667</lng>
+<geonameId>2640200</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Plumstead</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Plumstead%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.15177</west>
+<north>52.87566</north>
+<east>1.18157</east>
+<south>52.85767</south>
+</bbox>
+<score>95.89228820800781</score>
+</geoname>
+<geoname>
+<toponymName>Plumstead</toponymName>
+<name>Plumstead</name>
+<lat>52.86958</lat>
+<lng>1.15687</lng>
+<geonameId>7299454</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF074</adminCode4>
+<adminName4>Plumstead</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.13123</west>
+<north>52.88007</north>
+<east>1.18252</east>
+<south>52.85909</south>
+</bbox>
+<score>75.67407989501953</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>St. Fagans</toponymName>
+<name>St. Fagans</name>
+<lat>51.49595</lat>
+<lng>-3.27997</lng>
+<geonameId>7298748</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X5</adminCode2>
+<adminName2>City and County of Cardiff</adminName2>
+<adminCode3>00PT026</adminCode3>
+<adminName3>St. Fagans</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St_Fagans</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.31156</west>
+<north>51.51689</north>
+<east>-3.24837</east>
+<south>51.47502</south>
+</bbox>
+<score>71.16043090820312</score>
+</geoname>
+</geonames>

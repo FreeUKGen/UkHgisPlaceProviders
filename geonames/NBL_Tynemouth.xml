@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Tynemouth</toponymName>
+<name>Tynemouth</name>
+<lat>55.01788</lat>
+<lng>-1.42559</lng>
+<geonameId>2635269</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>17436</population>
+<alternateNames>Tynemouth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J5</adminCode2>
+<adminName2>North Tyneside</adminName2>
+<adminCode3>00EM167</adminCode3>
+<adminName3>GB.ENG.J5.00EM167</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tynemouth</alternateName>
+<alternateName lang="unlc">TYM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.45495</west>
+<north>55.03471</north>
+<east>-1.39623</east>
+<south>55.00105</south>
+</bbox>
+<score>126.01715850830078</score>
+</geoname>
+<geoname>
+<toponymName>Tynemouth</toponymName>
+<name>Tynemouth</name>
+<lat>55.01713</lat>
+<lng>-1.4286</lng>
+<geonameId>7677059</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>MTRO</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>metro station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J5</adminCode2>
+<adminName2>North Tyneside</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tynemouth_Metro_station</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>53.90175247192383</score>
+</geoname>
+</geonames>

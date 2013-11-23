@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llywel</toponymName>
+<name>Llywel</name>
+<lat>51.91525</lat>
+<lng>-3.6704</lng>
+<geonameId>7297053</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN079</adminCode3>
+<adminName3>Llywel</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.75315</west>
+<north>52.00371</north>
+<east>-3.58764</east>
+<south>51.82678</south>
+</bbox>
+<score>114.34236145019531</score>
+</geoname>
+<geoname>
+<toponymName>Llywel</toponymName>
+<name>Llywel</name>
+<lat>51.95704</lat>
+<lng>-3.64648</lng>
+<geonameId>2643864</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llywel,Llywell</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN079</adminCode3>
+<adminName3>Llywel</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llywel</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.66108</west>
+<north>51.96603</north>
+<east>-3.63189</east>
+<south>51.94805</south>
+</bbox>
+<score>98.3848876953125</score>
+</geoname>
+</geonames>

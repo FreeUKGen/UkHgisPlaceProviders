@@ -1,0 +1,55 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>16759</id>
+<name>WEMYSS</name>
+<container>FIFE</container>
+<lat>56.1640704875375</lat>
+<lon>-3.07280290295552</lon>
+<gazetteerText>Wemyss, par., Fife, on Firth of Forth, 4732 ac., pop. 7307; contains Buckhaven and West Wemyss towns, and East Wemyss vil.; the par. gives the title of earl to a branch of the family of Douglas; the church is at East Wemyss. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/sct/FIF/parishes/Wemyss/index.htm</link>
+</links>
+<unit>
+   <id>10125388</id>
+   <status></status>
+   <name>WEMYSS</name>
+</unit>
+<unit>
+   <id>12837732</id>
+   <status>DoC</status>
+   <name>WEMYSS</name>
+</unit>
+<nearByPlace>
+   <id>16418</id>
+   <name>MARKINCH</name>
+</nearByPlace>
+</place>
+<place>
+<id>21403</id>
+<name>EAST WEMYSS</name>
+<container>FIFE</container>
+<lat>56.1602530095607</lat>
+<lon>-3.0643761777032</lon>
+<gazetteerText>Wemyss, East, vil. with ry. sta. (Wemyss Castle), Wemyss par., Fife, 1 m. SW. of Buckhaven, pop. 846; P.O.; has a large linen factory and a small brewery. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2650314</link>
+</links>
+</place>
+<place>
+<id>21655</id>
+<name>WEST WEMYSS</name>
+<container>FIFE</container>
+<lat>56.1403205036531</lat>
+<lon>-3.08313919828208</lon>
+<gazetteerText>Wemyss, West, town and quoad sacra par. with ry. sta., Wemyss par.,Fife, on Firth of Forth, 2 miles NE. of Dysart - quoad sacra par., pop. 1658; town, pop. 1206; P.O., T.O.; is a burgh of barony, and has a good harbour and considerable traffic in coal; Wemyss Castle, seat, is in vicinity. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2634235</link>
+</links>
+<unit>
+   <id>10362428</id>
+   <status>Burgh</status>
+   <name>WEST WEMYSS</name>
+</unit>
+</place>
+</results>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Mautby</toponymName>
+<name>Mautby</name>
+<lat>52.65246</lat>
+<lng>1.66346</lng>
+<geonameId>2642898</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UD</adminCode3>
+<adminName3>Great Yarmouth District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mautby</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.64863</west>
+<north>52.66146</north>
+<east>1.67829</east>
+<south>52.64347</south>
+</bbox>
+<score>90.70196533203125</score>
+</geoname>
+<geoname>
+<toponymName>Mautby</toponymName>
+<name>Mautby</name>
+<lat>52.63658</lat>
+<lng>1.6538</lng>
+<geonameId>7296667</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UD</adminCode3>
+<adminName3>Great Yarmouth District</adminName3>
+<adminCode4>33UD012</adminCode4>
+<adminName4>Mautby</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.60916</west>
+<north>52.65886</north>
+<east>1.69843</east>
+<south>52.6143</south>
+</bbox>
+<score>80.8841552734375</score>
+</geoname>
+</geonames>

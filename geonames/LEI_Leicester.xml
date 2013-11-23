@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Leicester</toponymName>
+<name>Leicester</name>
+<lat>52.6386</lat>
+<lng>-1.13169</lng>
+<geonameId>2644668</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>339239</population>
+<alternateNames>Caerlyr,Caerlŷr,Gorad Lestehr,Leicester,Leicestria,Leiscester,Lester,Lestera,Lesteris,Lestur,Leysester,Léyséstér,QEW,lai si te,laystr,les texr,leseuteo,lstr,resuta,Λέστερ,Горад Лестэр,Лестер,Лестър,לסטר,לעסטער,لايستر,لستر,لیسسٹر,เลสเตอร์,レスター,莱斯特,레스터</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H4</adminCode2>
+<adminName2>Leicester</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>GB.ENG.H4.31UC</adminName3>
+<alternateName lang="ar">لستر</alternateName>
+<alternateName lang="az">Lester</alternateName>
+<alternateName lang="be">Горад Лестэр</alternateName>
+<alternateName lang="bg">Лестър</alternateName>
+<alternateName lang="cs">Leicester</alternateName>
+<alternateName lang="cy">Caerlŷr</alternateName>
+<alternateName lang="de">Leicester</alternateName>
+<alternateName lang="el">Λέστερ</alternateName>
+<alternateName lang="en">Leicester</alternateName>
+<alternateName lang="eo">Leicester</alternateName>
+<alternateName lang="es">Leicester</alternateName>
+<alternateName lang="eu">Leicester</alternateName>
+<alternateName lang="fa">لستر</alternateName>
+<alternateName lang="fi">Leicester</alternateName>
+<alternateName lang="fr">Leicester</alternateName>
+<alternateName lang="he">לסטר</alternateName>
+<alternateName lang="hu">Leicester</alternateName>
+<alternateName lang="iata">QEW</alternateName>
+<alternateName lang="id">Leicester</alternateName>
+<alternateName lang="it">Leicester</alternateName>
+<alternateName lang="ja">レスター</alternateName>
+<alternateName lang="ko">레스터</alternateName>
+<alternateName lang="la">Leicestria</alternateName>
+<alternateName lang="lb">Leicester</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Leicester</alternateName>
+<alternateName lang="lt">Lesteris</alternateName>
+<alternateName lang="lv">Lestera</alternateName>
+<alternateName lang="mzn">لستر</alternateName>
+<alternateName lang="nl">Leicester</alternateName>
+<alternateName lang="no">Leicester</alternateName>
+<alternateName lang="pl">Leicester</alternateName>
+<alternateName lang="pnb">لیسسٹر</alternateName>
+<alternateName lang="ro">Leicester</alternateName>
+<alternateName lang="ru">Лестер</alternateName>
+<alternateName lang="sk">Leicester</alternateName>
+<alternateName lang="sr">Лестер</alternateName>
+<alternateName lang="sv">Leicester</alternateName>
+<alternateName lang="th">เลสเตอร์</alternateName>
+<alternateName lang="tr">Leicester</alternateName>
+<alternateName lang="ug">Léyséstér</alternateName>
+<alternateName lang="uk">Лестер</alternateName>
+<alternateName lang="yi">לעסטער</alternateName>
+<alternateName lang="zh">莱斯特</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.25635</west>
+<north>52.71411</north>
+<east>-1.00704</east>
+<south>52.56309</south>
+</bbox>
+<score>154.79864501953125</score>
+</geoname>
+<geoname>
+<toponymName>City of Leicester</toponymName>
+<name>Leicester</name>
+<lat>52.63333</lat>
+<lng>-1.13333</lng>
+<geonameId>3333165</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>LCE,Leicester</alternateNames>
+<elevation>20</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H4</adminCode2>
+<adminName2>Leicester</adminName2>
+<alternateName lang="abbr">LCE</alternateName>
+<alternateName lang="en">Leicester</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.21599</west>
+<north>52.69151</north>
+<east>-1.04621</east>
+<south>52.58065</south>
+</bbox>
+<score>93.43588256835938</score>
+</geoname>
+<geoname>
+<toponymName>Leicestershire</toponymName>
+<name>Leicestershire</name>
+<lat>52.66667</lat>
+<lng>-1</lng>
+<geonameId>2644667</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>924700</population>
+<alternateNames>County of Leicestershire,Grafstva Lestehrshyr,LEC,Laegreceastrescir,Leicester,Leicestershire,Leicestriensis comitatus,Lestershir,Lestersira,Lesteršīra,Lesturshur,Lægreceastrescīr,Swydd Gaerlyr,Swydd Gaerlŷr,lai si te jun,les te xr chex r,leseuteosyeo ju,lestarasayara,lystrshyr,resutasha,Графства Лестэршыр,Лестершир,Лестършър,ليسترشير,لیسسٹرشائر,लेस्टरशायर,เลสเตอร์เชอร์,レスターシャー,莱斯特郡,레스터셔 주</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<alternateName lang="abbr">LEC</alternateName>
+<alternateName lang="ang">Lægreceastrescīr</alternateName>
+<alternateName lang="ar">ليسترشير</alternateName>
+<alternateName lang="be">Графства Лестэршыр</alternateName>
+<alternateName lang="bg">Лестършър</alternateName>
+<alternateName lang="cy">Swydd Gaerlŷr</alternateName>
+<alternateName lang="en">Leicestershire</alternateName>
+<alternateName lang="hi">लेस्टरशायर</alternateName>
+<alternateName lang="ja">レスターシャー</alternateName>
+<alternateName lang="ko">레스터셔 주</alternateName>
+<alternateName lang="la">Leicestriensis comitatus</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Leicestershire</alternateName>
+<alternateName lang="lv">Lesteršīra</alternateName>
+<alternateName lang="mr">लेस्टरशायर</alternateName>
+<alternateName lang="pnb">لیسسٹرشائر</alternateName>
+<alternateName lang="ru">Лестершир</alternateName>
+<alternateName lang="th">เลสเตอร์เชอร์</alternateName>
+<alternateName lang="uk">Лестершир</alternateName>
+<alternateName lang="zh">莱斯特郡</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.59755</west>
+<north>52.97765</north>
+<east>-0.66411</east>
+<south>52.39215</south>
+</bbox>
+<score>30.076507568359375</score>
+</geoname>
+</geonames>

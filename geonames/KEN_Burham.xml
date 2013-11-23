@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Burham</toponymName>
+<name>Burham</name>
+<lat>51.33243</lat>
+<lng>0.47833</lng>
+<geonameId>2654293</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UP</adminCode3>
+<adminName3>Tonbridge and Malling District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.46394</west>
+<north>51.34143</north>
+<east>0.49273</east>
+<south>51.32344</south>
+</bbox>
+<score>83.49362182617188</score>
+</geoname>
+<geoname>
+<toponymName>Burham</toponymName>
+<name>Burham</name>
+<lat>51.33136</lat>
+<lng>0.47821</lng>
+<geonameId>7293805</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UP</adminCode3>
+<adminName3>Tonbridge and Malling District</adminName3>
+<adminCode4>29UP005</adminCode4>
+<adminName4>Burham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.45073</west>
+<north>51.34452</north>
+<east>0.5057</east>
+<south>51.3182</south>
+</bbox>
+<score>73.86345672607422</score>
+</geoname>
+</geonames>

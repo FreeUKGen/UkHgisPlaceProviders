@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ryhall</toponymName>
+<name>Ryhall</name>
+<lat>52.6898</lat>
+<lng>-0.47419</lng>
+<geonameId>7292237</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L4</adminCode2>
+<adminName2>Rutland</adminName2>
+<adminCode3>00FP043</adminCode3>
+<adminName3>Ryhall</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.51034</west>
+<north>52.71358</north>
+<east>-0.43803</east>
+<south>52.66602</south>
+</bbox>
+<score>112.95478820800781</score>
+</geoname>
+<geoname>
+<toponymName>Ryhall</toponymName>
+<name>Ryhall</name>
+<lat>52.68585</lat>
+<lng>-0.46846</lng>
+<geonameId>2638902</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L4</adminCode2>
+<adminName2>Rutland</adminName2>
+<adminCode3>00FP043</adminCode3>
+<adminName3>Ryhall</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ryhall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.49815</west>
+<north>52.70384</north>
+<east>-0.43878</east>
+<south>52.66787</south>
+</bbox>
+<score>77.55443572998047</score>
+</geoname>
+</geonames>

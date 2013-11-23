@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Clopton</toponymName>
+<name>Clopton</name>
+<lat>52.11667</lat>
+<lng>1.25</lng>
+<geonameId>2652789</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Clopton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UG</adminCode3>
+<adminName3>Suffolk Coastal District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clopton%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.23535</west>
+<north>52.12566</north>
+<east>1.26465</east>
+<south>52.10767</south>
+</bbox>
+<score>90.85113525390625</score>
+</geoname>
+<geoname>
+<toponymName>Clopton</toponymName>
+<name>Clopton</name>
+<lat>52.14432</lat>
+<lng>1.24999</lng>
+<geonameId>7291890</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UG</adminCode3>
+<adminName3>Suffolk Coastal District</adminName3>
+<adminCode4>42UG025</adminCode4>
+<adminName4>Clopton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.22477</west>
+<north>52.16543</north>
+<east>1.27522</east>
+<south>52.12321</south>
+</bbox>
+<score>71.54313659667969</score>
+</geoname>
+<geoname>
+<toponymName>Clopton</toponymName>
+<name>Clopton</name>
+<lat>52.40911</lat>
+<lng>-0.44229</lng>
+<geonameId>7296712</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<adminCode4>34UD010</adminCode4>
+<adminName4>Clopton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clopton%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.478</west>
+<north>52.42192</north>
+<east>-0.40658</east>
+<south>52.39631</south>
+</bbox>
+<score>49.6900634765625</score>
+</geoname>
+</geonames>

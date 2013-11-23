@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Chart Sutton</toponymName>
+<name>Chart Sutton</name>
+<lat>51.20709</lat>
+<lng>0.56877</lng>
+<geonameId>7293758</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UH</adminCode3>
+<adminName3>Maidstone</adminName3>
+<adminCode4>29UH009</adminCode4>
+<adminName4>Chart Sutton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chart_Sutton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.55048</west>
+<north>51.23116</north>
+<east>0.58706</east>
+<south>51.18302</south>
+</bbox>
+<score>54.066200256347656</score>
+</geoname>
+</geonames>

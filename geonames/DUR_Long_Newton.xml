@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Long Newnton</toponymName>
+<name>Long Newnton</name>
+<lat>51.62639</lat>
+<lng>-2.13333</lng>
+<geonameId>2643656</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Long Newnton,Long Newton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.14782</west>
+<north>51.63538</north>
+<east>-2.11884</east>
+<south>51.6174</south>
+</bbox>
+<score>56.77728271484375</score>
+</geoname>
+<geoname>
+<toponymName>Long Newton</toponymName>
+<name>Long Newton</name>
+<lat>54.53333</lat>
+<lng>-1.41667</lng>
+<geonameId>2643655</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K9</adminCode2>
+<adminName2>Redcar and Cleveland</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.43217</west>
+<north>54.54233</north>
+<east>-1.40116</east>
+<south>54.52434</south>
+</bbox>
+<score>45.4443473815918</score>
+</geoname>
+</geonames>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Swannington</toponymName>
+<name>Swannington</name>
+<lat>52.72883</lat>
+<lng>1.15846</lng>
+<geonameId>2636435</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Swannington%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.1436</west>
+<north>52.73783</north>
+<east>1.17331</east>
+<south>52.71984</south>
+</bbox>
+<score>78.78007507324219</score>
+</geoname>
+<geoname>
+<toponymName>Swannington</toponymName>
+<name>Swannington</name>
+<lat>52.72388</lat>
+<lng>1.16558</lng>
+<geonameId>7296663</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<adminCode4>33UC057</adminCode4>
+<adminName4>Swannington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.14565</west>
+<north>52.73971</north>
+<east>1.1855</east>
+<south>52.70804</south>
+</bbox>
+<score>75.69403076171875</score>
+</geoname>
+<geoname>
+<toponymName>Swannington</toponymName>
+<name>Swannington</name>
+<lat>52.73333</lat>
+<lng>-1.35</lng>
+<geonameId>2636434</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>6896157</adminCode3>
+<adminName3>North West Leicestershire</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.36486</west>
+<north>52.74233</north>
+<east>-1.33514</east>
+<south>52.72434</south>
+</bbox>
+<score>60.24662399291992</score>
+</geoname>
+<geoname>
+<toponymName>Swannington</toponymName>
+<name>Swannington</name>
+<lat>52.74373</lat>
+<lng>-1.38907</lng>
+<geonameId>7291743</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Swannington%2C_Leicestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>51.361351013183594</score>
+</geoname>
+</geonames>

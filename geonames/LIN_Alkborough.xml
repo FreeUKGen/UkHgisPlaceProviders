@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Alkborough</toponymName>
+<name>Alkborough</name>
+<lat>53.68561</lat>
+<lng>-0.66983</lng>
+<geonameId>7296116</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD001</adminCode3>
+<adminName3>Alkborough</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.69874</west>
+<north>53.71316</north>
+<east>-0.64092</east>
+<south>53.65805</south>
+</bbox>
+<score>109.31106567382812</score>
+</geoname>
+<geoname>
+<toponymName>Alkborough</toponymName>
+<name>Alkborough</name>
+<lat>53.68459</lat>
+<lng>-0.66616</lng>
+<geonameId>2657501</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Alkborough</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD001</adminCode3>
+<adminName3>Alkborough</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alkborough</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.68135</west>
+<north>53.69359</north>
+<east>-0.65097</east>
+<south>53.6756</south>
+</bbox>
+<score>103.5924072265625</score>
+</geoname>
+</geonames>

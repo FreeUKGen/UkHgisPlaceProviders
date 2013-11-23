@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Culcheth</toponymName>
+<name>Culcheth</name>
+<lat>53.4511</lat>
+<lng>-2.52104</lng>
+<geonameId>2651763</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6879</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P2</adminCode2>
+<adminName2>Warrington</adminName2>
+<adminCode3>00EU006</adminCode3>
+<adminName3>Culcheth and Glazebury</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Culcheth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.53793</west>
+<north>53.46115</north>
+<east>-2.50415</east>
+<south>53.44104</south>
+</bbox>
+<score>111.70423126220703</score>
+</geoname>
+</geonames>

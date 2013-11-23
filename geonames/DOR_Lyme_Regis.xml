@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Lyme Regis</toponymName>
+<name>Lyme Regis</name>
+<lat>50.73613</lat>
+<lng>-2.93444</lng>
+<geonameId>7300420</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH069</adminCode4>
+<adminName4>Lyme Regis</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.9531</west>
+<north>50.75428</north>
+<east>-2.91578</east>
+<south>50.71798</south>
+</bbox>
+<score>73.28753662109375</score>
+</geoname>
+<geoname>
+<toponymName>Lyme Regis</toponymName>
+<name>Lyme Regis</name>
+<lat>50.72654</lat>
+<lng>-2.93477</lng>
+<geonameId>2643314</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4504</population>
+<alternateNames>Lajm-Redzhis,Lyme Regis,la'ima regisa,lai mu li jie si,Лайм-Реджис,Лайм-Реджіс,लाईम रेगीस,莱姆里杰斯</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lyme_Regis</alternateName>
+<alternateName lang="mr">लाईम रेगीस</alternateName>
+<alternateName lang="ru">Лайм-Реджис</alternateName>
+<alternateName lang="uk">Лайм-Реджіс</alternateName>
+<alternateName lang="unlc">LYR</alternateName>
+<alternateName lang="zh">莱姆里杰斯</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.94707</west>
+<north>50.73433</north>
+<east>-2.92246</east>
+<south>50.71875</south>
+</bbox>
+<score>63.48753356933594</score>
+</geoname>
+</geonames>

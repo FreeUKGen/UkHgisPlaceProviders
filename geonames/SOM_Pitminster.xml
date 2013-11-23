@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Pitminster</toponymName>
+<name>Pitminster</name>
+<lat>50.96747</lat>
+<lng>-3.11132</lng>
+<geonameId>2640251</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.1256</west>
+<north>50.97646</north>
+<east>-3.09703</east>
+<south>50.95847</south>
+</bbox>
+<score>66.00886535644531</score>
+</geoname>
+<geoname>
+<toponymName>Pitminster</toponymName>
+<name>Pitminster</name>
+<lat>50.96567</lat>
+<lng>-3.12371</lng>
+<geonameId>7301246</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<adminCode4>40UE032</adminCode4>
+<adminName4>Pitminster</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pitminster</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.16548</west>
+<north>50.99588</north>
+<east>-3.08193</east>
+<south>50.93546</south>
+</bbox>
+<score>60.419189453125</score>
+</geoname>
+</geonames>

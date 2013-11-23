@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>9</totalResultsCount>
+<geoname>
+<toponymName>Westbury</toponymName>
+<name>Westbury</name>
+<lat>51.25489</lat>
+<lng>-2.18017</lng>
+<geonameId>7299370</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY238</adminCode3>
+<adminName3>Westbury</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.21665</west>
+<north>51.27658</north>
+<east>-2.14368</east>
+<south>51.23321</south>
+</bbox>
+<score>91.07774353027344</score>
+</geoname>
+<geoname>
+<toponymName>Westbury</toponymName>
+<name>Westbury</name>
+<lat>51.23869</lat>
+<lng>-2.72193</lng>
+<geonameId>7301190</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<adminCode4>40UB058</adminCode4>
+<adminName4>Westbury</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.76078</west>
+<north>51.2581</north>
+<east>-2.68309</east>
+<south>51.21928</south>
+</bbox>
+<score>65.83929443359375</score>
+</geoname>
+<geoname>
+<toponymName>Westbury</toponymName>
+<name>Westbury</name>
+<lat>52.67327</lat>
+<lng>-2.95858</lng>
+<geonameId>7292295</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG187</adminCode3>
+<adminName3>Westbury</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Westbury%2C_Shropshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.04696</west>
+<north>52.70453</north>
+<east>-2.8702</east>
+<south>52.64201</south>
+</bbox>
+<score>59.661861419677734</score>
+</geoname>
+<geoname>
+<toponymName>Westbury-sub-Mendip</toponymName>
+<name>Westbury-sub-Mendip</name>
+<lat>51.23556</lat>
+<lng>-2.71722</lng>
+<geonameId>2634484</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Westbury,Westbury-sub-Mendip</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Westbury-sub-Mendip</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.73159</west>
+<north>51.24455</north>
+<east>-2.70286</east>
+<south>51.22656</south>
+</bbox>
+<score>53.955360412597656</score>
+</geoname>
+<geoname>
+<toponymName>Westbury</toponymName>
+<name>Westbury</name>
+<lat>52.01695</lat>
+<lng>-1.09314</lng>
+<geonameId>2634482</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UB</adminCode3>
+<adminName3>Cherwell District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.10776</west>
+<north>52.02595</north>
+<east>-1.07852</east>
+<south>52.00796</south>
+</bbox>
+<score>52.30567932128906</score>
+</geoname>
+<geoname>
+<toponymName>Westbury</toponymName>
+<name>Westbury</name>
+<lat>51.26</lat>
+<lng>-2.1875</lng>
+<geonameId>2634483</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Westbury i Wiltshire,wysbry, wyltshyr,ويسبري، ويلتشير</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY238</adminCode3>
+<adminName3>Westbury</adminName3>
+<alternateName lang="ar">ويسبري، ويلتشير</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Westbury%2C_Wiltshire</alternateName>
+<alternateName lang="nn">Westbury i Wiltshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.21625</west>
+<north>51.27799</north>
+<east>-2.15875</east>
+<south>51.24201</south>
+</bbox>
+<score>50.9559440612793</score>
+</geoname>
+<geoname>
+<toponymName>Westbury</toponymName>
+<name>Westbury</name>
+<lat>52.02032</lat>
+<lng>-1.09356</lng>
+<geonameId>7294239</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UB</adminCode3>
+<adminName3>Aylesbury Vale</adminName3>
+<adminCode4>11UB098</adminCode4>
+<adminName4>Westbury</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Westbury%2C_Buckinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.1181</west>
+<north>52.0349</north>
+<east>-1.06902</east>
+<south>52.00574</south>
+</bbox>
+<score>46.12825012207031</score>
+</geoname>
+<geoname>
+<toponymName>Westbury on Severn</toponymName>
+<name>Westbury on Severn</name>
+<lat>51.82374</lat>
+<lng>-2.41193</lng>
+<geonameId>2634480</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Westbury,Westbury on Severn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UD</adminCode3>
+<adminName3>Forest of Dean</adminName3>
+<alternateName lang="unlc">WYS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.42648</west>
+<north>51.83273</north>
+<east>-2.39737</east>
+<south>51.81474</south>
+</bbox>
+<score>38.17017364501953</score>
+</geoname>
+<geoname>
+<toponymName>Westbury</toponymName>
+<name>Westbury</name>
+<lat>52.68333</lat>
+<lng>-2.95</lng>
+<geonameId>2634481</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG187</adminCode3>
+<adminName3>Westbury</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.97968</west>
+<north>52.70132</north>
+<east>-2.92032</east>
+<south>52.66535</south>
+</bbox>
+<score>32.919647216796875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ffestiniog</toponymName>
+<name>Ffestiniog</name>
+<lat>52.98433</lat>
+<lng>-3.91864</lng>
+<geonameId>7300639</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC023</adminCode3>
+<adminName3>Ffestiniog</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.00466</west>
+<north>53.02256</north>
+<east>-3.83262</east>
+<south>52.94609</south>
+</bbox>
+<score>111.86306762695312</score>
+</geoname>
+<geoname>
+<toponymName>Ffestiniog</toponymName>
+<name>Ffestiniog</name>
+<lat>52.95996</lat>
+<lng>-3.93242</lng>
+<geonameId>2649493</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Ffestiniog</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC023</adminCode3>
+<adminName3>Ffestiniog</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ffestiniog</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.96229</west>
+<north>52.97795</north>
+<east>-3.90255</east>
+<south>52.94197</south>
+</bbox>
+<score>85.84263610839844</score>
+</geoname>
+</geonames>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Sutton on Trent</toponymName>
+<name>Sutton on Trent</name>
+<lat>53.18437</lat>
+<lng>-0.81091</lng>
+<geonameId>2636474</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sutton,Sutton on Trent,Sutton upon Trent</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sutton-on-Trent</alternateName>
+<alternateName lang="unlc">SRE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.82592</west>
+<north>53.19336</north>
+<east>-0.7959</east>
+<south>53.17537</south>
+</bbox>
+<score>85.88088989257812</score>
+</geoname>
+<geoname>
+<toponymName>Sutton-on-Trent</toponymName>
+<name>Sutton-on-Trent</name>
+<lat>53.18179</lat>
+<lng>-0.81574</lng>
+<geonameId>7299476</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG073</adminCode4>
+<adminName4>Sutton-on-Trent</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.85441</west>
+<north>53.19589</north>
+<east>-0.77706</east>
+<south>53.16769</south>
+</bbox>
+<score>67.76271057128906</score>
+</geoname>
+</geonames>

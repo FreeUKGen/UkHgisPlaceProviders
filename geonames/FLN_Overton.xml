@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Overton</toponymName>
+<name>Overton</name>
+<lat>52.96529</lat>
+<lng>-2.9291</lng>
+<geonameId>7292824</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z4</adminCode2>
+<adminName2>Wrexham</adminName2>
+<adminCode3>00NL026</adminCode3>
+<adminName3>Overton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.97282</west>
+<north>52.99194</north>
+<east>-2.88537</east>
+<south>52.93865</south>
+</bbox>
+<score>83.35176086425781</score>
+</geoname>
+<geoname>
+<toponymName>Overton</toponymName>
+<name>Overton</name>
+<lat>51.24389</lat>
+<lng>-1.26154</lng>
+<geonameId>2640765</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3392</population>
+<alternateNames>Overton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UB</adminCode3>
+<adminName3>Basingstoke and Deane District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Overton%2C_Hampshire</alternateName>
+<alternateName lang="unlc">OVE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.2717</west>
+<north>51.25025</north>
+<east>-1.25138</east>
+<south>51.23753</south>
+</bbox>
+<score>79.21424865722656</score>
+</geoname>
+<geoname>
+<toponymName>Overton</toponymName>
+<name>Overton</name>
+<lat>54.01528</lat>
+<lng>-2.86065</lng>
+<geonameId>2640763</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UH</adminCode3>
+<adminName3>Lancaster</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Overton%2C_Lancashire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.87596</west>
+<north>54.02428</north>
+<east>-2.84534</east>
+<south>54.00629</south>
+</bbox>
+<score>65.17363739013672</score>
+</geoname>
+<geoname>
+<toponymName>Overton</toponymName>
+<name>Overton</name>
+<lat>51.24113</lat>
+<lng>-1.25558</lng>
+<geonameId>7291296</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UB</adminCode3>
+<adminName3>Basingstoke and Deane District</adminName3>
+<adminCode4>24UB033</adminCode4>
+<adminName4>Overton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.29673</west>
+<north>51.29175</north>
+<east>-1.21443</east>
+<south>51.19051</south>
+</bbox>
+<score>60.283287048339844</score>
+</geoname>
+<geoname>
+<toponymName>Overton</toponymName>
+<name>Overton</name>
+<lat>54.00292</lat>
+<lng>-1.16316</lng>
+<geonameId>7292062</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<adminCode4>36UC117</adminCode4>
+<adminName4>Overton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.18934</west>
+<north>54.01697</north>
+<east>-1.13699</east>
+<south>53.98887</south>
+</bbox>
+<score>60.283287048339844</score>
+</geoname>
+<geoname>
+<toponymName>Overton</toponymName>
+<name>Overton</name>
+<lat>53.9998</lat>
+<lng>-2.90717</lng>
+<geonameId>7293832</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UH</adminCode3>
+<adminName3>Lancaster</adminName3>
+<adminCode4>30UH021</adminCode4>
+<adminName4>Overton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.98365</west>
+<north>54.02674</north>
+<east>-2.8307</east>
+<south>53.97287</south>
+</bbox>
+<score>60.283287048339844</score>
+</geoname>
+<geoname>
+<toponymName>Overton</toponymName>
+<name>Overton</name>
+<lat>53.03427</lat>
+<lng>-2.78695</lng>
+<geonameId>7294409</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW122</adminCode3>
+<adminName3>Overton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Overton%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.80521</west>
+<north>53.04567</north>
+<east>-2.7687</east>
+<south>53.02288</south>
+</bbox>
+<score>55.08269500732422</score>
+</geoname>
+<geoname>
+<toponymName>Overton</toponymName>
+<name>Overton</name>
+<lat>52.96667</lat>
+<lng>-2.93333</lng>
+<geonameId>2640764</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z4</adminCode2>
+<adminName2>Wrexham</adminName2>
+<adminCode3>00NL026</adminCode3>
+<adminName3>Overton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.96321</west>
+<north>52.98465</north>
+<east>-2.90346</east>
+<south>52.94868</south>
+</bbox>
+<score>30.141643524169922</score>
+</geoname>
+</geonames>

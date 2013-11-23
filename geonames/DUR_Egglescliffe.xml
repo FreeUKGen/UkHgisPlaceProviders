@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Egglescliffe</toponymName>
+<name>Egglescliffe</name>
+<lat>54.5197</lat>
+<lng>-1.36163</lng>
+<geonameId>7294162</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N3</adminCode2>
+<adminName2>Stockton-on-Tees</adminName2>
+<adminCode3>00EF004</adminCode3>
+<adminName3>Egglescliffe</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Egglescliffe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.38784</west>
+<north>54.53608</north>
+<east>-1.33543</east>
+<south>54.50332</south>
+</bbox>
+<score>79.54898071289062</score>
+</geoname>
+</geonames>

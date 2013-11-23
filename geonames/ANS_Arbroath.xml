@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Arbroath</toponymName>
+<name>Arbroath</name>
+<lat>56.56317</lat>
+<lng>-2.58736</lng>
+<geonameId>2657215</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>22291</population>
+<alternateNames>Aiberbrothock,Arbroath,Arbrot,Arbrout,Obar Bhrothaig,Арброт,Арброут</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T7</adminCode2>
+<adminName2>Angus</adminName2>
+<alternateName lang="bg">Арброут</alternateName>
+<alternateName lang="gd">Obar Bhrothaig</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Arbroath</alternateName>
+<alternateName lang="ru">Арброт</alternateName>
+<alternateName lang="sco">Aiberbrothock</alternateName>
+<alternateName lang="uk">Арброт</alternateName>
+<alternateName lang="unlc">ARB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.622</west>
+<north>56.58225</north>
+<east>-2.55272</east>
+<south>56.54409</south>
+</bbox>
+<score>83.39787292480469</score>
+</geoname>
+<geoname>
+<toponymName>Arbroath</toponymName>
+<name>Arbroath</name>
+<lat>56.55454</lat>
+<lng>-2.59689</lng>
+<geonameId>6289598</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>HSP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hospital</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T7</adminCode2>
+<adminName2>Angus</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>19.499614715576172</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Locking</toponymName>
+<name>Locking</name>
+<lat>51.33948</lat>
+<lng>-2.91361</lng>
+<geonameId>7293646</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC022</adminCode3>
+<adminName3>Locking</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.93358</west>
+<north>51.34951</north>
+<east>-2.89364</east>
+<south>51.32944</south>
+</bbox>
+<score>110.6364974975586</score>
+</geoname>
+<geoname>
+<toponymName>Locking</toponymName>
+<name>Locking</name>
+<lat>51.33327</lat>
+<lng>-2.91387</lng>
+<geonameId>2643790</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC022</adminCode3>
+<adminName3>Locking</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Locking%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.92827</west>
+<north>51.34227</north>
+<east>-2.89947</east>
+<south>51.32428</south>
+</bbox>
+<score>83.54887390136719</score>
+</geoname>
+</geonames>

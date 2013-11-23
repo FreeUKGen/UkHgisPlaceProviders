@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Loddon</toponymName>
+<name>Loddon</name>
+<lat>52.5327</lat>
+<lng>1.48183</lng>
+<geonameId>2643783</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3532</population>
+<alternateNames>Loddon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Loddon%2C_Norfolk</alternateName>
+<alternateName lang="unlc">LDQ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.47137</west>
+<north>52.53906</north>
+<east>1.49228</east>
+<south>52.52634</south>
+</bbox>
+<score>94.87757873535156</score>
+</geoname>
+<geoname>
+<toponymName>Loddon</toponymName>
+<name>Loddon</name>
+<lat>52.52213</lat>
+<lng>1.47945</lng>
+<geonameId>7301930</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH066</adminCode4>
+<adminName4>Loddon</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.44761</west>
+<north>52.54147</north>
+<east>1.51129</east>
+<south>52.5028</south>
+</bbox>
+<score>73.38827514648438</score>
+</geoname>
+</geonames>

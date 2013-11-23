@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Pistyll</toponymName>
+<name>Pistyll</name>
+<lat>52.95665</lat>
+<lng>-4.45701</lng>
+<geonameId>7293629</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC056</adminCode3>
+<adminName3>Pistyll</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.51161</west>
+<north>52.98573</north>
+<east>-4.4024</east>
+<south>52.92758</south>
+</bbox>
+<score>109.77394104003906</score>
+</geoname>
+<geoname>
+<toponymName>Pistyll</toponymName>
+<name>Pistyll</name>
+<lat>52.94843</lat>
+<lng>-4.4943</lng>
+<geonameId>2640263</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC056</adminCode3>
+<adminName3>Pistyll</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pistyll</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.50923</west>
+<north>52.95743</north>
+<east>-4.47937</east>
+<south>52.93944</south>
+</bbox>
+<score>88.85797119140625</score>
+</geoname>
+</geonames>

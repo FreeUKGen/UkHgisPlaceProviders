@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Rochford</toponymName>
+<name>Rochford</name>
+<lat>51.58198</lat>
+<lng>0.70673</lng>
+<geonameId>2639265</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>16739</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UL</adminCode3>
+<adminName3>Rochford</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rochford</alternateName>
+<alternateName lang="unlc">RFD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.68063</west>
+<north>51.59819</north>
+<east>0.73283</east>
+<south>51.56576</south>
+</bbox>
+<score>110.13593292236328</score>
+</geoname>
+<geoname>
+<toponymName>Rochford</toponymName>
+<name>Rochford</name>
+<lat>51.58385</lat>
+<lng>0.68366</lng>
+<geonameId>7291176</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UL</adminCode3>
+<adminName3>Rochford</adminName3>
+<adminCode4>22UL010</adminCode4>
+<adminName4>Rochford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.6396</west>
+<north>51.60128</north>
+<east>0.72772</east>
+<south>51.56643</south>
+</bbox>
+<score>74.60270690917969</score>
+</geoname>
+<geoname>
+<toponymName>Rochford</toponymName>
+<name>Rochford</name>
+<lat>51.58371</lat>
+<lng>0.81641</lng>
+<geonameId>2639266</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UL</adminCode3>
+<adminName3>Rochford</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rochford_District</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.54901</west>
+<north>51.65828</north>
+<east>1.08381</east>
+<south>51.50915</south>
+</bbox>
+<score>66.75680541992188</score>
+</geoname>
+<geoname>
+<toponymName>Rochford</toponymName>
+<name>Rochford</name>
+<lat>52.30256</lat>
+<lng>-2.53888</lng>
+<geonameId>7301612</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UC</adminCode3>
+<adminName3>Malvern Hills District</adminName3>
+<adminCode4>47UC053</adminCode4>
+<adminName4>Rochford</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rochford%2C_Worcestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.56565</west>
+<north>52.31617</north>
+<east>-2.5121</east>
+<south>52.28894</south>
+</bbox>
+<score>51.50079345703125</score>
+</geoname>
+</geonames>

@@ -1,0 +1,187 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>658</id>
+<name>WARRINGTON</name>
+<container>LANCASHIRE</container>
+<lat>53.3905748535909</lat>
+<lon>-2.58757914502394</lon>
+<gazetteerText>Warrington.-- parl. and mun. bor., market town, par., and township, SW. Lancashire, on river Mersey, midway between Liverpool and Manchester, and 182 miles from London by rail - par., 12,954 ac., pop. 44,352; township, 2887 ac., pop. 40,957; parl. bor., 3783 ac., pop. 45,253; mun. bor., 1442 ac., pop. 41,452; 3 Banks, 4 newspapers. Market-days, Wednesday and Saturday. (The bor. extends into Grappenhall and Runcorn pars., Cheshire.) The Mersey is here navigable for vessels of 100 tons, and Warrington has communication, by water and by rail, with all the principal places of Lancashire and Cheshire. The mfrs. comprise wire-work, pins, files, edge-tools, cotton, glass, soap, &amp;c. Warrington is noted for its ale. There are many fine public buildings, and a public park and gardens. Warrington is an old town (mentioned in Domesday Book as &quot;Wallintun&quot;), and has still some quaint timber houses. The parish church stands on the site of an ancient Saxon church dedicated to St Elphin. An Augustinian friary was erected in 1379, but no trace of it remains. The bridge was built in 1496; being the principal passage over the river from Cheshire to Lancashire, it has been the scene of many conflicts. Warrington was made a parl. bor. in 1832, and a mun. bor. in 1847; it returns 1 member to Parliament. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.workhouses.org.uk/Warrington</link>
+<link>http://www.genuki.org.uk/big/eng/LAN/Warrington/</link>
+<link>http://www.geonames.org/2634739</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41341</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41339</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41340</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41338</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41342</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=41337</link>
+</links>
+<unit>
+   <id>10027020</id>
+   <status>RD</status>
+   <name>WARRINGTON</name>
+</unit>
+<unit>
+   <id>10075245</id>
+   <status>USD</status>
+   <name>WARRINGTON</name>
+</unit>
+<unit>
+   <id>10075415</id>
+   <status>RegD/PLU</status>
+   <name>WARRINGTON</name>
+</unit>
+<unit>
+   <id>10109450</id>
+   <status>CB/MB</status>
+   <name>WARRINGTON</name>
+</unit>
+<unit>
+   <id>10137330</id>
+   <status>RSD</status>
+   <name>WARRINGTON</name>
+</unit>
+<unit>
+   <id>10185592</id>
+   <status>Borough</status>
+   <name>WARRINGTON</name>
+</unit>
+<unit>
+   <id>10217672</id>
+   <status>UA</status>
+   <name>WARRINGTON</name>
+</unit>
+<unit>
+   <id>10332590</id>
+   <status>EP</status>
+   <name>WARRINGTON ST BARNABAS</name>
+</unit>
+<unit>
+   <id>10384321</id>
+   <status>CP/AP</status>
+   <name>WARRINGTON</name>
+</unit>
+<unit>
+   <id>10384333</id>
+   <status>EP</status>
+   <name>WARRINGTON</name>
+</unit>
+<unit>
+   <id>10384345</id>
+   <status>EP</status>
+   <name>WARRINGTON CHRIST CHURCH</name>
+</unit>
+<unit>
+   <id>10384357</id>
+   <status>EP</status>
+   <name>WARRINGTON HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10384369</id>
+   <status>EP</status>
+   <name>WARRINGTON ST ANN</name>
+</unit>
+<unit>
+   <id>10384370</id>
+   <status>EP</status>
+   <name>WARRINGTON ST PAUL</name>
+</unit>
+<unit>
+   <id>10384382</id>
+   <status>EP</status>
+   <name>WARRINGTON ST PETER</name>
+</unit>
+<unit>
+   <id>10546229</id>
+   <status></status>
+   <name>WARRINGTON</name>
+</unit>
+<unit>
+   <id>10567786</id>
+   <status></status>
+   <name>WARRINGTON</name>
+</unit>
+<unit>
+   <id>10581849</id>
+   <status></status>
+   <name>WARRINGTON</name>
+</unit>
+<unit>
+   <id>10581850</id>
+   <status></status>
+   <name>WARRINGTON</name>
+</unit>
+<unit>
+   <id>12747433</id>
+   <status>BCon</status>
+   <name>WARRINGTON NORTH</name>
+</unit>
+<unit>
+   <id>12747445</id>
+   <status>BCon</status>
+   <name>WARRINGTON SOUTH</name>
+</unit>
+<unit>
+   <id>12752593</id>
+   <status>PBCon/CCon</status>
+   <name>WARRINGTON</name>
+</unit>
+<unit>
+   <id>12780795</id>
+   <status></status>
+   <name>WARRINGTON</name>
+</unit>
+<unit>
+   <id>12830920</id>
+   <status></status>
+   <name>WARRINGTON</name>
+</unit>
+<unit>
+   <id>12839893</id>
+   <status></status>
+   <name>WARRINGTON</name>
+</unit>
+<nearByPlace>
+   <id>244</id>
+   <name>ST HELENS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>469</id>
+   <name>WIDNES</name>
+</nearByPlace>
+<nearByPlace>
+   <id>773</id>
+   <name>NEWTON LE WILLOWS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>805</id>
+   <name>WINSFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1483</id>
+   <name>NORLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1528</id>
+   <name>WEAVERHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2559</id>
+   <name>STOCKTON HEATH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5577</id>
+   <name>PRESTON ON THE HILL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6097</id>
+   <name>FRODSHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10751</id>
+   <name>PENKETH</name>
+</nearByPlace>
+</place>
+</results>

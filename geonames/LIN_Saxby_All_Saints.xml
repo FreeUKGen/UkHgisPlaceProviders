@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Saxby All Saints</toponymName>
+<name>Saxby All Saints</name>
+<lat>53.635</lat>
+<lng>-0.49916</lng>
+<geonameId>7290739</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD043</adminCode3>
+<adminName3>Saxby All Saints</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.54392</west>
+<north>53.65248</north>
+<east>-0.4544</east>
+<south>53.61752</south>
+</bbox>
+<score>91.31573486328125</score>
+</geoname>
+<geoname>
+<toponymName>Saxby All Saints</toponymName>
+<name>Saxby All Saints</name>
+<lat>53.63726</lat>
+<lng>-0.503</lng>
+<geonameId>2638469</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Saxby,Saxby All Saints</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD043</adminCode3>
+<adminName3>Saxby All Saints</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saxby_All_Saints</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.51817</west>
+<north>53.64625</north>
+<east>-0.48783</east>
+<south>53.62827</south>
+</bbox>
+<score>84.76837158203125</score>
+</geoname>
+</geonames>

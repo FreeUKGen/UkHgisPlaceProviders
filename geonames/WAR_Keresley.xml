@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Keresley</toponymName>
+<name>Keresley</name>
+<lat>52.45365</lat>
+<lng>-1.53584</lng>
+<geonameId>7294755</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C7</adminCode2>
+<adminName2>Coventry</adminName2>
+<adminCode3>00CQ002</adminCode3>
+<adminName3>Keresley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.55411</west>
+<north>52.46478</north>
+<east>-1.51758</east>
+<south>52.44252</south>
+</bbox>
+<score>112.88270568847656</score>
+</geoname>
+<geoname>
+<toponymName>Keresley</toponymName>
+<name>Keresley</name>
+<lat>52.45156</lat>
+<lng>-1.53319</lng>
+<geonameId>2645778</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>2432</population>
+<alternateNames>Keresley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C7</adminCode2>
+<adminName2>Coventry</adminName2>
+<adminCode3>00CQ002</adminCode3>
+<adminName3>Keresley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Keresley</alternateName>
+<alternateName lang="unlc">KRY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.54363</west>
+<north>52.45792</north>
+<east>-1.52276</east>
+<south>52.4452</south>
+</bbox>
+<score>92.47710418701172</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Betws-yn-Rhôs</toponymName>
+<name>Betws yn Rhos</name>
+<lat>53.24919</lat>
+<lng>-3.6375</lng>
+<geonameId>2655791</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bettws Abergele,Bettws-yn-Rhos,Bettws-yn-Rhôs,Betws yn Rhos</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<alternateName lang="en">Betws yn Rhos</alternateName>
+<alternateName lang="unlc">BYH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.65254</west>
+<north>53.25819</north>
+<east>-3.62247</east>
+<south>53.2402</south>
+</bbox>
+<score>80.73426055908203</score>
+</geoname>
+<geoname>
+<toponymName>Betws Yn Rhos</toponymName>
+<name>Betws Yn Rhos</name>
+<lat>53.24944</lat>
+<lng>-3.67287</lng>
+<geonameId>7299981</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<adminCode3>00NE003</adminCode3>
+<adminName3>Betws Yn Rhos</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Betws_yn_Rhos</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.75847</west>
+<north>53.2781</north>
+<east>-3.58727</east>
+<south>53.22077</south>
+</bbox>
+<score>66.83718872070312</score>
+</geoname>
+</geonames>

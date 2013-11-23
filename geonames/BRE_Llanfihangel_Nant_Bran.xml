@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llanfihangel-Nant-Brân</toponymName>
+<name>Llanfihangel-Nant-Brân</name>
+<lat>51.98333</lat>
+<lng>-3.55</lng>
+<geonameId>2644066</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanfihangel-Nant-Bran,Llanfihangel-Nant-Brân</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanfihangel_Nant_Br%C3%A2n</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.56461</west>
+<north>51.99233</north>
+<east>-3.53539</east>
+<south>51.97434</south>
+</bbox>
+<score>97.3555908203125</score>
+</geoname>
+</geonames>

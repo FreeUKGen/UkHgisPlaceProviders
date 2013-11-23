@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Amport</toponymName>
+<name>Amport</name>
+<lat>51.19286</lat>
+<lng>-1.6116</lng>
+<geonameId>7298660</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UN</adminCode3>
+<adminName3>Test Valley District</adminName3>
+<adminCode4>24UN003</adminCode4>
+<adminName4>Amport</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Amport</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.67238</west>
+<north>51.22366</north>
+<east>-1.55082</east>
+<south>51.16207</south>
+</bbox>
+<score>60.960182189941406</score>
+</geoname>
+</geonames>

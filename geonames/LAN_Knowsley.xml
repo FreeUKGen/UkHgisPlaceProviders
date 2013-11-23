@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Borough of Knowsley</toponymName>
+<name>Borough of Knowsley</name>
+<lat>53.41667</lat>
+<lng>-2.83333</lng>
+<geonameId>3333162</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>KWL,Knowsley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G9</adminCode2>
+<adminName2>Knowsley</adminName2>
+<alternateName lang="abbr">KWL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.92257</west>
+<north>53.50391</north>
+<east>-2.7434</east>
+<south>53.34663</south>
+</bbox>
+<score>98.07467651367188</score>
+</geoname>
+<geoname>
+<toponymName>Knowsley</toponymName>
+<name>Knowsley</name>
+<lat>53.44594</lat>
+<lng>-2.84335</lng>
+<geonameId>7295391</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G9</adminCode2>
+<adminName2>Knowsley</adminName2>
+<adminCode3>00BX003</adminCode3>
+<adminName3>Knowsley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Metropolitan_Borough_of_Knowsley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.89159</west>
+<north>53.46724</north>
+<east>-2.79511</east>
+<south>53.42463</south>
+</bbox>
+<score>69.82462310791016</score>
+</geoname>
+<geoname>
+<toponymName>Knowsley</toponymName>
+<name>Knowsley</name>
+<lat>53.45401</lat>
+<lng>-2.85396</lng>
+<geonameId>2645097</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G9</adminCode2>
+<adminName2>Knowsley</adminName2>
+<adminCode3>00BX003</adminCode3>
+<adminName3>Knowsley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Knowsley%2C_Merseyside</alternateName>
+<alternateName lang="unlc">KNW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.88418</west>
+<north>53.472</north>
+<east>-2.82374</east>
+<south>53.43602</south>
+</bbox>
+<score>66.32579040527344</score>
+</geoname>
+</geonames>

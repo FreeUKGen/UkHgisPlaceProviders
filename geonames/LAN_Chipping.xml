@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Chipping</toponymName>
+<name>Chipping</name>
+<lat>53.88333</lat>
+<lng>-2.58333</lng>
+<geonameId>2653141</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Chipping</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UL</adminCode3>
+<adminName3>Ribble Valley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chipping%2C_Lancashire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.59859</west>
+<north>53.89233</north>
+<east>-2.56807</east>
+<south>53.87434</south>
+</bbox>
+<score>87.13848114013672</score>
+</geoname>
+<geoname>
+<toponymName>Chipping</toponymName>
+<name>Chipping</name>
+<lat>53.8867</lat>
+<lng>-2.57355</lng>
+<geonameId>7295376</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UL</adminCode3>
+<adminName3>Ribble Valley District</adminName3>
+<adminCode4>30UL010</adminCode4>
+<adminName4>Chipping</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.64546</west>
+<north>53.92401</north>
+<east>-2.56569</east>
+<south>53.84946</south>
+</bbox>
+<score>68.20857238769531</score>
+</geoname>
+</geonames>

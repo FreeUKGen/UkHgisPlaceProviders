@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Downham</toponymName>
+<name>Downham</name>
+<lat>52.45726</lat>
+<lng>0.22343</lng>
+<geonameId>7298759</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>78.78022766113281</score>
+</geoname>
+<geoname>
+<toponymName>Downham</toponymName>
+<name>Downham</name>
+<lat>52.43179</lat>
+<lng>0.23861</lng>
+<geonameId>2651031</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>2650488</adminCode3>
+<adminName3>East Cambridgeshire</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.22386</west>
+<north>52.44078</north>
+<east>0.25336</east>
+<south>52.42279</south>
+</bbox>
+<score>62.68893051147461</score>
+</geoname>
+<geoname>
+<toponymName>Downham</toponymName>
+<name>Downham</name>
+<lat>53.88573</lat>
+<lng>-2.31032</lng>
+<geonameId>7293843</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UL</adminCode3>
+<adminName3>Ribble Valley District</adminName3>
+<adminCode4>30UL014</adminCode4>
+<adminName4>Downham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Downham%2C_Lancashire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.34682</west>
+<north>53.90382</north>
+<east>-2.27382</east>
+<south>53.86763</south>
+</bbox>
+<score>54.40296936035156</score>
+</geoname>
+</geonames>

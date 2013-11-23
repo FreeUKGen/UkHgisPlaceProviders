@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bickerstaffe</toponymName>
+<name>Bickerstaffe</name>
+<lat>53.53153</lat>
+<lng>-2.83806</lng>
+<geonameId>2655725</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bickerstaffe</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UP</adminCode3>
+<adminName3>West Lancashire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bickerstaffe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.85319</west>
+<north>53.54053</north>
+<east>-2.82293</east>
+<south>53.52254</south>
+</bbox>
+<score>98.6725845336914</score>
+</geoname>
+<geoname>
+<toponymName>Bickerstaffe</toponymName>
+<name>Bickerstaffe</name>
+<lat>53.52379</lat>
+<lng>-2.83738</lng>
+<geonameId>7295385</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UP</adminCode3>
+<adminName3>West Lancashire District</adminName3>
+<adminCode4>30UP002</adminCode4>
+<adminName4>Bickerstaffe</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.89229</west>
+<north>53.55323</north>
+<east>-2.78248</east>
+<south>53.49436</south>
+</bbox>
+<score>74.60599517822266</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ingram</toponymName>
+<name>Ingram</name>
+<lat>55.4425</lat>
+<lng>-2.02163</lng>
+<geonameId>7297837</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM089</adminCode3>
+<adminName3>Ingram</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.13664</west>
+<north>55.47179</north>
+<east>-1.90663</east>
+<south>55.41321</south>
+</bbox>
+<score>93.95602416992188</score>
+</geoname>
+<geoname>
+<toponymName>Ingram</toponymName>
+<name>Ingram</name>
+<lat>55.44022</lat>
+<lng>-1.97453</lng>
+<geonameId>2646199</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ingram</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM089</adminCode3>
+<adminName3>Ingram</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ingram%2C_Northumberland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.99038</west>
+<north>55.44921</north>
+<east>-1.95867</east>
+<south>55.43122</south>
+</bbox>
+<score>88.56034088134766</score>
+</geoname>
+</geonames>

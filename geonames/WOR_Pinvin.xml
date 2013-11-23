@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Pinvin</toponymName>
+<name>Pinvin</name>
+<lat>52.13809</lat>
+<lng>-2.07051</lng>
+<geonameId>7298323</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<adminCode4>47UF073</adminCode4>
+<adminName4>Pinvin</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pinvin</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.09123</west>
+<north>52.14843</north>
+<east>-2.04979</east>
+<south>52.12775</south>
+</bbox>
+<score>58.5267219543457</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Longframlington</toponymName>
+<name>Longframlington</name>
+<lat>55.31579</lat>
+<lng>-1.79914</lng>
+<geonameId>7291399</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM098</adminCode3>
+<adminName3>Longframlington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.8436</west>
+<north>55.34674</north>
+<east>-1.75469</east>
+<south>55.28484</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Longframlington</toponymName>
+<name>Longframlington</name>
+<lat>55.30392</lat>
+<lng>-1.79504</lng>
+<geonameId>2643688</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM098</adminCode3>
+<adminName3>Longframlington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Longframlington</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.81085</west>
+<north>55.31291</north>
+<east>-1.77924</east>
+<south>55.29492</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+</geonames>

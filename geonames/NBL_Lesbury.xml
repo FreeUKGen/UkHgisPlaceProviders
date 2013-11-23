@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Lesbury</toponymName>
+<name>Lesbury</name>
+<lat>55.39608</lat>
+<lng>-1.63109</lng>
+<geonameId>7296756</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM096</adminCode3>
+<adminName3>Lesbury</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.67373</west>
+<north>55.41903</north>
+<east>-1.58844</east>
+<south>55.37313</south>
+</bbox>
+<score>111.19422149658203</score>
+</geoname>
+<geoname>
+<toponymName>Lesbury</toponymName>
+<name>Lesbury</name>
+<lat>55.39832</lat>
+<lng>-1.6283</lng>
+<geonameId>2644604</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Lesbury,Lisburg</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM096</adminCode3>
+<adminName3>Lesbury</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lesbury</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.64414</west>
+<north>55.40732</north>
+<east>-1.61246</east>
+<south>55.38933</south>
+</bbox>
+<score>91.20266723632812</score>
+</geoname>
+</geonames>

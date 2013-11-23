@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Grendon</toponymName>
+<name>Grendon</name>
+<lat>52.23442</lat>
+<lng>-0.71411</lng>
+<geonameId>2647924</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UH</adminCode3>
+<adminName3>Wellingborough District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Grendon%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.7288</west>
+<north>52.24342</north>
+<east>-0.69942</east>
+<south>52.22543</south>
+</bbox>
+<score>76.67120361328125</score>
+</geoname>
+<geoname>
+<toponymName>Grendon</toponymName>
+<name>Grendon</name>
+<lat>52.23867</lat>
+<lng>-0.71653</lng>
+<geonameId>7291365</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UH</adminCode3>
+<adminName3>Wellingborough District</adminName3>
+<adminCode4>34UH008</adminCode4>
+<adminName4>Grendon</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.74867</west>
+<north>52.25624</north>
+<east>-0.68439</east>
+<south>52.2211</south>
+</bbox>
+<score>72.95474243164062</score>
+</geoname>
+<geoname>
+<toponymName>Grendon</toponymName>
+<name>Grendon</name>
+<lat>52.6</lat>
+<lng>-1.56667</lng>
+<geonameId>2647923</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Grendon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UB</adminCode3>
+<adminName3>North Warwickshire District</adminName3>
+<alternateName lang="unlc">GDO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.58148</west>
+<north>52.60899</north>
+<east>-1.55186</east>
+<south>52.59101</south>
+</bbox>
+<score>53.70451354980469</score>
+</geoname>
+<geoname>
+<toponymName>Grendon</toponymName>
+<name>Grendon</name>
+<lat>52.5997</lat>
+<lng>-1.57444</lng>
+<geonameId>7297391</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UB</adminCode3>
+<adminName3>North Warwickshire District</adminName3>
+<adminCode4>44UB016</adminCode4>
+<adminName4>Grendon</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Old_Grendon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.60137</west>
+<north>52.62262</north>
+<east>-1.54752</east>
+<south>52.57679</south>
+</bbox>
+<score>50.05293273925781</score>
+</geoname>
+</geonames>

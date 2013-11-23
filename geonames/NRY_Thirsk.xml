@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Thirsk</toponymName>
+<name>Thirsk</name>
+<lat>54.23298</lat>
+<lng>-1.34411</lng>
+<geonameId>2636021</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>9302</population>
+<alternateNames>XTK</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<alternateName lang="iata">XTK</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thirsk</alternateName>
+<alternateName lang="unlc">TSK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.36447</west>
+<north>54.24488</north>
+<east>-1.32375</east>
+<south>54.22108</south>
+</bbox>
+<score>91.20124053955078</score>
+</geoname>
+<geoname>
+<toponymName>Thirsk</toponymName>
+<name>Thirsk</name>
+<lat>54.24249</lat>
+<lng>-1.34798</lng>
+<geonameId>7296824</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<adminCode4>36UC152</adminCode4>
+<adminName4>Thirsk</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.40273</west>
+<north>54.2603</north>
+<east>-1.29324</east>
+<south>54.22468</south>
+</bbox>
+<score>79.36787414550781</score>
+</geoname>
+<geoname>
+<toponymName>Thirsk Junction Station</toponymName>
+<name>Thirsk Junction Station</name>
+<lat>54.22824</lat>
+<lng>-1.37262</lng>
+<geonameId>2636020</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>THI,Thirsk,Thirsk Junction Station</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<alternateName lang="abbr">THI</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thirsk_railway_station</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>39.90958786010742</score>
+</geoname>
+</geonames>

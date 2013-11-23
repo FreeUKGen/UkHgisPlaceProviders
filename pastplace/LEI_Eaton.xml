@@ -1,0 +1,37 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>10730</id>
+<name>EATON</name>
+<container>LEICESTERSHIRE</container>
+<lat>52.8496919322693</lat>
+<lon>-0.833399207472901</lon>
+<gazetteerText>EATON, a parish in Melton-Mowbray district, Leicester; on the river Devon, 7 miles N of Saxby r. station, and 8 NE by N of Melton-Mowbray. Post town, Branstone, under Grantham. Acres, 2, 470. Real property, &#163;2, 771. Pop., 421. Houses, 92. The property is divided among a few. The living is a vicarage in the diocese of Peterborough. Value, &#163;83. Patron, the Lord Chancellor. The church is a neat building, with tower and spire. There are a Wesleyan chapel, a national school, and charities &#163;32. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Eaton,_Leicestershire</link>
+<link>http://www.geonames.org/2650299</link>
+</links>
+<unit>
+   <id>10374972</id>
+   <status>AP/CP</status>
+   <name>EATON</name>
+</unit>
+<unit>
+   <id>10374984</id>
+   <status>EP</status>
+   <name>EATON</name>
+</unit>
+<nearByPlace>
+   <id>10642</id>
+   <name>BRANSTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10729</id>
+   <name>EASTWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10845</id>
+   <name>GOADBY MARWOOD</name>
+</nearByPlace>
+</place>
+</results>

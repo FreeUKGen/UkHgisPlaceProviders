@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Salisbury</toponymName>
+<name>Salisbury</name>
+<lat>51.06931</lat>
+<lng>-1.79569</lng>
+<geonameId>2638664</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>45600</population>
+<alternateNames>Caersallog,New Sarum,Salisbury,Sarisberia,Searoburg,Solsb"ri,Solsberi,Solsberis,Solsmperi,XSR,salsbry,salysbry,salzbry,soljeubeli,soljhabri,soruzuberi,suo er zi bo li,swlsbry,sxls bri,Σόλσμπερι,Солсбери,Солсбері,Солсбъри,סולסברי,سالزبری,سالسبری,ساليسبري,سولسبرى,सॉल्झब्री,সল্‌স্‌বারি,ซอลส์บรี,ሳልዝብሪ,ソールズベリー,索爾茲伯里,솔즈베리</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY261</adminCode3>
+<adminName3>Salisbury</adminName3>
+<alternateName lang="am">ሳልዝብሪ</alternateName>
+<alternateName lang="ang">Searoburg</alternateName>
+<alternateName lang="ar">ساليسبري</alternateName>
+<alternateName lang="arz">سولسبرى</alternateName>
+<alternateName lang="bg">Солсбъри</alternateName>
+<alternateName lang="bn">সল্‌স্‌বারি</alternateName>
+<alternateName lang="cy">Caersallog</alternateName>
+<alternateName lang="de">Salisbury</alternateName>
+<alternateName lang="el">Σόλσμπερι</alternateName>
+<alternateName lang="en">Salisbury</alternateName>
+<alternateName lang="eo">Salisbury</alternateName>
+<alternateName lang="es">Salisbury</alternateName>
+<alternateName lang="fa">سالزبری</alternateName>
+<alternateName lang="fi">Salisbury</alternateName>
+<alternateName lang="fr">Salisbury</alternateName>
+<alternateName lang="he">סולסברי</alternateName>
+<alternateName lang="iata">XSR</alternateName>
+<alternateName lang="it">Salisbury</alternateName>
+<alternateName lang="ja">ソールズベリー</alternateName>
+<alternateName lang="ko">솔즈베리</alternateName>
+<alternateName lang="la">Sarisberia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Salisbury</alternateName>
+<alternateName lang="lt">Solsberis</alternateName>
+<alternateName lang="mr">सॉल्झब्री</alternateName>
+<alternateName lang="mzn">سالزبری</alternateName>
+<alternateName lang="nl">Salisbury</alternateName>
+<alternateName lang="no">Salisbury</alternateName>
+<alternateName lang="pl">Salisbury</alternateName>
+<alternateName lang="pnb">سالسبری</alternateName>
+<alternateName lang="pt">Salisbury</alternateName>
+<alternateName lang="ru">Солсбери</alternateName>
+<alternateName lang="sv">Salisbury</alternateName>
+<alternateName lang="th">ซอลส์บรี</alternateName>
+<alternateName lang="tr">Salisbury</alternateName>
+<alternateName lang="uk">Солсбері</alternateName>
+<alternateName lang="unlc">SLS</alternateName>
+<alternateName lang="zh">索爾茲伯里</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.83983</west>
+<north>51.09703</north>
+<east>-1.75154</east>
+<south>51.04159</south>
+</bbox>
+<score>92.37661743164062</score>
+</geoname>
+<geoname>
+<toponymName>Salisbury</toponymName>
+<name>Salisbury</name>
+<lat>51.07971</lat>
+<lng>-1.80924</lng>
+<geonameId>2638663</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY261</adminCode3>
+<adminName3>Salisbury</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.85026</west>
+<north>51.11089</north>
+<east>-1.76821</east>
+<south>51.04853</south>
+</bbox>
+<score>53.49031066894531</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Cholesbury</toponymName>
+<name>Cholesbury</name>
+<lat>51.75494</lat>
+<lng>-0.65175</lng>
+<geonameId>2653099</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cholesbury</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UC</adminCode3>
+<adminName3>Chiltern District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cholesbury</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.66628</west>
+<north>51.76394</north>
+<east>-0.63722</east>
+<south>51.74595</south>
+</bbox>
+<score>110.68106079101562</score>
+</geoname>
+</geonames>

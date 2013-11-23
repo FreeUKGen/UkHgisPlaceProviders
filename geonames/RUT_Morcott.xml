@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Morcott</toponymName>
+<name>Morcott</name>
+<lat>52.598</lat>
+<lng>-0.64588</lng>
+<geonameId>7292030</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L4</adminCode2>
+<adminName2>Rutland</adminName2>
+<adminCode3>00FP035</adminCode3>
+<adminName3>Morcott</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.66628</west>
+<north>52.61468</north>
+<east>-0.62549</east>
+<south>52.58132</south>
+</bbox>
+<score>110.9444808959961</score>
+</geoname>
+<geoname>
+<toponymName>Morcott</toponymName>
+<name>Morcott</name>
+<lat>52.59669</lat>
+<lng>-0.63704</lng>
+<geonameId>2642235</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Morcott</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L4</adminCode2>
+<adminName2>Rutland</adminName2>
+<adminCode3>00FP035</adminCode3>
+<adminName3>Morcott</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Morcott</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.66666</west>
+<north>52.61467</north>
+<east>-0.60741</east>
+<south>52.5787</south>
+</bbox>
+<score>84.13945007324219</score>
+</geoname>
+</geonames>

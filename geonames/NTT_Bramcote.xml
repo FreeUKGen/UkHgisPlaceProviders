@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bramcote</toponymName>
+<name>Bramcote</name>
+<lat>52.93333</lat>
+<lng>-1.25</lng>
+<geonameId>2654933</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bramcote</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UD</adminCode3>
+<adminName3>Broxtowe District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bramcote</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.26492</west>
+<north>52.94233</north>
+<east>-1.23508</east>
+<south>52.92434</south>
+</bbox>
+<score>104.83998107910156</score>
+</geoname>
+</geonames>

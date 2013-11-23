@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Smethwick</toponymName>
+<name>Smethwick</name>
+<lat>52.49699</lat>
+<lng>-1.97305</lng>
+<geonameId>2637607</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>12842</population>
+<alternateNames>Smedikas,Smethwick,اسمت‌ویک</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L7</adminCode2>
+<adminName2>Sandwell</adminName2>
+<adminCode3>47UB</adminCode3>
+<adminName3>GB.ENG.L7.47UB</adminName3>
+<alternateName lang="fa">اسمت‌ویک</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Smethwick</alternateName>
+<alternateName lang="lt">Smedikas</alternateName>
+<alternateName lang="unlc">SME</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.99641</west>
+<north>52.51121</north>
+<east>-1.94968</east>
+<south>52.48277</south>
+</bbox>
+<score>108.16263580322266</score>
+</geoname>
+</geonames>

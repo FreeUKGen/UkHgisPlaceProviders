@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Longdon</toponymName>
+<name>Longdon</name>
+<lat>52.71667</lat>
+<lng>-1.88333</lng>
+<geonameId>2643699</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Longdon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UD</adminCode3>
+<adminName3>Lichfield District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Longdon%2C_Staffordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.89818</west>
+<north>52.72566</north>
+<east>-1.86848</east>
+<south>52.70767</south>
+</bbox>
+<score>82.89690399169922</score>
+</geoname>
+<geoname>
+<toponymName>Longdon</toponymName>
+<name>Longdon</name>
+<lat>52.01667</lat>
+<lng>-2.23333</lng>
+<geonameId>2643700</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Longdon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UC</adminCode3>
+<adminName3>Malvern Hills District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Longdon%2C_Worcestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.24795</west>
+<north>52.02566</north>
+<east>-2.21872</east>
+<south>52.00767</south>
+</bbox>
+<score>82.89690399169922</score>
+</geoname>
+<geoname>
+<toponymName>Longdon</toponymName>
+<name>Longdon</name>
+<lat>52.71663</lat>
+<lng>-1.89214</lng>
+<geonameId>7291758</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UD</adminCode3>
+<adminName3>Lichfield District</adminName3>
+<adminCode4>41UD019</adminCode4>
+<adminName4>Longdon</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.93773</west>
+<north>52.74044</north>
+<east>-1.84655</east>
+<south>52.69283</south>
+</bbox>
+<score>66.06360626220703</score>
+</geoname>
+<geoname>
+<toponymName>Longdon</toponymName>
+<name>Longdon</name>
+<lat>52.02452</lat>
+<lng>-2.24091</lng>
+<geonameId>7299681</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UC</adminCode3>
+<adminName3>Malvern Hills District</adminName3>
+<adminCode4>47UC039</adminCode4>
+<adminName4>Longdon</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.27666</west>
+<north>52.05132</north>
+<east>-2.20516</east>
+<south>51.99773</south>
+</bbox>
+<score>66.06360626220703</score>
+</geoname>
+</geonames>

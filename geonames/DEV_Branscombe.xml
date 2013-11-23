@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Branscombe</toponymName>
+<name>Branscombe</name>
+<lat>50.69134</lat>
+<lng>-3.1389</lng>
+<geonameId>2654886</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UB</adminCode3>
+<adminName3>East Devon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Branscombe</alternateName>
+<alternateName lang="unlc">BBE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.1531</west>
+<north>50.70034</north>
+<east>-3.1247</east>
+<south>50.68235</south>
+</bbox>
+<score>83.57292938232422</score>
+</geoname>
+<geoname>
+<toponymName>Branscombe</toponymName>
+<name>Branscombe</name>
+<lat>50.69992</lat>
+<lng>-3.15257</lng>
+<geonameId>7291148</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UB</adminCode3>
+<adminName3>East Devon District</adminName3>
+<adminCode4>18UB009</adminCode4>
+<adminName4>Branscombe</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.19083</west>
+<north>50.71589</north>
+<east>-3.1143</east>
+<south>50.68395</south>
+</bbox>
+<score>74.14218139648438</score>
+</geoname>
+</geonames>

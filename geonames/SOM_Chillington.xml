@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Chillington</toponymName>
+<name>Chillington</name>
+<lat>50.88333</lat>
+<lng>-2.86667</lng>
+<geonameId>2653161</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.88092</west>
+<north>50.89233</north>
+<east>-2.85241</east>
+<south>50.87434</south>
+</bbox>
+<score>57.311920166015625</score>
+</geoname>
+<geoname>
+<toponymName>Chillington</toponymName>
+<name>Chillington</name>
+<lat>50.89591</lat>
+<lng>-2.8642</lng>
+<geonameId>7297211</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD024</adminCode4>
+<adminName4>Chillington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chillington%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.88016</west>
+<north>50.90852</north>
+<east>-2.84825</east>
+<south>50.88331</south>
+</bbox>
+<score>48.94343566894531</score>
+</geoname>
+</geonames>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Holbrook</toponymName>
+<name>Holbrook</name>
+<lat>53.00125</lat>
+<lng>-1.45839</lng>
+<geonameId>2646777</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Holbrook</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UB</adminCode3>
+<adminName3>Amber Valley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Holbrook%2C_Derbyshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.47334</west>
+<north>53.01025</north>
+<east>-1.44344</east>
+<south>52.99226</south>
+</bbox>
+<score>78.83692932128906</score>
+</geoname>
+<geoname>
+<toponymName>Holbrook</toponymName>
+<name>Holbrook</name>
+<lat>51.9834</lat>
+<lng>1.15854</lng>
+<geonameId>2646778</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UB</adminCode3>
+<adminName3>Babergh District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Holbrook%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.14394</west>
+<north>51.99239</north>
+<east>1.17315</east>
+<south>51.97441</south>
+</bbox>
+<score>66.340576171875</score>
+</geoname>
+<geoname>
+<toponymName>Holbrook</toponymName>
+<name>Holbrook</name>
+<lat>51.97601</lat>
+<lng>1.15848</lng>
+<geonameId>7297272</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UB</adminCode3>
+<adminName3>Babergh District</adminName3>
+<adminCode4>42UB037</adminCode4>
+<adminName4>Holbrook</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.1303</west>
+<north>52.00018</north>
+<east>1.18667</east>
+<south>51.95185</south>
+</bbox>
+<score>61.15447998046875</score>
+</geoname>
+<geoname>
+<toponymName>Holbrook</toponymName>
+<name>Holbrook</name>
+<lat>52.99632</lat>
+<lng>-1.45781</lng>
+<geonameId>7300184</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UB</adminCode3>
+<adminName3>Amber Valley District</adminName3>
+<adminCode4>17UB013</adminCode4>
+<adminName4>Holbrook</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.47173</west>
+<north>53.01172</north>
+<east>-1.44389</east>
+<south>52.98092</south>
+</bbox>
+<score>61.15447998046875</score>
+</geoname>
+</geonames>

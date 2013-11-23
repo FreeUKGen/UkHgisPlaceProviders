@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Anstey</toponymName>
+<name>Anstey</name>
+<lat>52.67368</lat>
+<lng>-1.18841</lng>
+<geonameId>2657268</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5951</population>
+<alternateNames>Anstey,Ansty</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>Charnwood District</adminName3>
+<adminCode4>31UC001</adminCode4>
+<adminName4>Anstey</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Anstey%2C_Leicestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.20325</west>
+<north>52.68267</north>
+<east>-1.17358</east>
+<south>52.66468</south>
+</bbox>
+<score>95.25773620605469</score>
+</geoname>
+<geoname>
+<toponymName>Anstey</toponymName>
+<name>Anstey</name>
+<lat>52.67318</lat>
+<lng>-1.19246</lng>
+<geonameId>7293866</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>Charnwood District</adminName3>
+<adminCode4>31UC001</adminCode4>
+<adminName4>Anstey</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.21418</west>
+<north>52.68602</north>
+<east>-1.17074</east>
+<south>52.66034</south>
+</bbox>
+<score>73.73912048339844</score>
+</geoname>
+<geoname>
+<toponymName>Anstey</toponymName>
+<name>Anstey</name>
+<lat>51.97626</lat>
+<lng>0.04356</lng>
+<geonameId>2657269</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UD</adminCode3>
+<adminName3>East Hertfordshire District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.02896</west>
+<north>51.98526</north>
+<east>0.05816</east>
+<south>51.96727</south>
+</bbox>
+<score>58.653892517089844</score>
+</geoname>
+<geoname>
+<toponymName>Anstey</toponymName>
+<name>Anstey</name>
+<lat>51.97471</lat>
+<lng>0.03945</lng>
+<geonameId>7295249</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UD</adminCode3>
+<adminName3>East Hertfordshire District</adminName3>
+<adminCode4>26UD002</adminCode4>
+<adminName4>Anstey</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Anstey%2C_Hertfordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.00917</west>
+<north>51.98962</north>
+<east>0.06972</east>
+<south>51.9598</south>
+</bbox>
+<score>51.150596618652344</score>
+</geoname>
+<geoname>
+<toponymName>Ansty</toponymName>
+<name>Ansty</name>
+<lat>51.03639</lat>
+<lng>-2.06389</lng>
+<geonameId>2657270</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Anstey,Ansty</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY008</adminCode3>
+<adminName3>Ansty</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ansty%2C_Wiltshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.0925</west>
+<north>51.05438</north>
+<east>-2.03527</east>
+<south>51.0184</south>
+</bbox>
+<score>41.913780212402344</score>
+</geoname>
+</geonames>

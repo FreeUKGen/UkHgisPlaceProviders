@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanfihangel Ystrad</toponymName>
+<name>Llanfihangel Ystrad</name>
+<lat>52.16314</lat>
+<lng>-4.16134</lng>
+<geonameId>7291019</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ023</adminCode3>
+<adminName3>Llanfihangel Ystrad</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.24627</west>
+<north>52.20084</north>
+<east>-4.07642</east>
+<south>52.12543</south>
+</bbox>
+<score>97.17696380615234</score>
+</geoname>
+<geoname>
+<toponymName>Llanfihangel-Ystrad</toponymName>
+<name>Llanfihangel-Ystrad</name>
+<lat>52.18333</lat>
+<lng>-4.16667</lng>
+<geonameId>2644057</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.18134</west>
+<north>52.19233</north>
+<east>-4.152</east>
+<south>52.17434</south>
+</bbox>
+<score>63.267547607421875</score>
+</geoname>
+</geonames>

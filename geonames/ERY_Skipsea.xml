@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Skipsea</toponymName>
+<name>Skipsea</name>
+<lat>53.97712</lat>
+<lng>-0.22815</lng>
+<geonameId>7295068</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB130</adminCode3>
+<adminName3>Skipsea</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.2687</west>
+<north>53.99733</north>
+<east>-0.1876</east>
+<south>53.95691</south>
+</bbox>
+<score>111.89846801757812</score>
+</geoname>
+<geoname>
+<toponymName>Skipsea</toponymName>
+<name>Skipsea</name>
+<lat>53.97674</lat>
+<lng>-0.22084</lng>
+<geonameId>2637703</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB130</adminCode3>
+<adminName3>Skipsea</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Skipsea</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.25144</west>
+<north>53.99472</north>
+<east>-0.19024</east>
+<south>53.95875</south>
+</bbox>
+<score>76.97048950195312</score>
+</geoname>
+</geonames>

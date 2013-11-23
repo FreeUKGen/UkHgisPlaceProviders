@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Guildford</toponymName>
+<name>Guildford</name>
+<lat>51.23536</lat>
+<lng>-0.57427</lng>
+<geonameId>2647793</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>71873</population>
+<alternateNames>Gildfordas,Gilford,Gilfordia,Guildford,Guilford,gilpeodeu,gyldfwrd,ji er fu de,jylfwrd,Гилфорд,Гілфорд,جيلفورد,گیلدفورد,吉爾福德,길퍼드</alternateNames>
+<elevation>45</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UD</adminCode3>
+<adminName3>Guildford District</adminName3>
+<alternateName lang="ar">جيلفورد</alternateName>
+<alternateName lang="de">Guildford</alternateName>
+<alternateName lang="en">Guildford</alternateName>
+<alternateName lang="es">Guildford</alternateName>
+<alternateName lang="fa">گیلدفورد</alternateName>
+<alternateName lang="fr">Guildford</alternateName>
+<alternateName lang="ko">길퍼드</alternateName>
+<alternateName lang="la">Gilfordia</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Guildford</alternateName>
+<alternateName lang="lt">Gildfordas</alternateName>
+<alternateName lang="nl">Guildford</alternateName>
+<alternateName lang="no">Guildford</alternateName>
+<alternateName lang="pl">Guildford</alternateName>
+<alternateName lang="pt">Guildford</alternateName>
+<alternateName lang="ru">Гилфорд</alternateName>
+<alternateName lang="sr">Гилфорд</alternateName>
+<alternateName lang="sv">Guildford</alternateName>
+<alternateName lang="uk">Гілфорд</alternateName>
+<alternateName lang="unlc">GDD</alternateName>
+<alternateName lang="zh">吉爾福德</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.62948</west>
+<north>51.2699</north>
+<east>-0.51906</east>
+<south>51.20082</south>
+</bbox>
+<score>80.76968383789062</score>
+</geoname>
+<geoname>
+<toponymName>Guilford</toponymName>
+<name>Guilford</name>
+<lat>51.52363</lat>
+<lng>-0.11466</lng>
+<geonameId>6468157</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>C4</adminCode3>
+<adminName3>Camden</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>16.5035400390625</score>
+</geoname>
+</geonames>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Lytham St Annes</toponymName>
+<name>St Annes</name>
+<lat>53.7426</lat>
+<lng>-2.997</lng>
+<geonameId>6693470</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>41327</population>
+<alternateNames>Lytham,Lytham St Annes,Lytham St. Annes,St Annes</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UF</adminCode3>
+<adminName3>Fylde District</adminName3>
+<alternateName lang="en">St Annes</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lytham_St_Annes</alternateName>
+<alternateName lang="nn">Lytham St. Annes</alternateName>
+<alternateName lang="no">Lytham St. Annes</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.04136</west>
+<north>53.76882</north>
+<east>-2.95264</east>
+<south>53.71638</south>
+</bbox>
+<score>137.73287963867188</score>
+</geoname>
+</geonames>

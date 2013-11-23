@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Llanbedr</toponymName>
+<name>Llanbedr</name>
+<lat>52.83515</lat>
+<lng>-4.0582</lng>
+<geonameId>7298623</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC027</adminCode3>
+<adminName3>Llanbedr</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.15475</west>
+<north>52.8695</north>
+<east>-3.96165</east>
+<south>52.80079</south>
+</bbox>
+<score>107.44715881347656</score>
+</geoname>
+<geoname>
+<toponymName>Llanbedr Airport</toponymName>
+<name>RAF Llanbedr</name>
+<lat>52.81174</lat>
+<lng>-4.12358</lng>
+<geonameId>6296614</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>EGOD,Llanbedr,Llanbedr Airport,RAF Llanbedr</alternateNames>
+<elevation>9</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<alternateName lang="en">RAF Llanbedr</alternateName>
+<alternateName lang="icao">EGOD</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanbedr_Airport</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>82.52291870117188</score>
+</geoname>
+<geoname>
+<toponymName>Llanbedr</toponymName>
+<name>Llanbedr</name>
+<lat>52.81667</lat>
+<lng>-4.1</lng>
+<geonameId>2644176</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Llanbedr</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC027</adminCode3>
+<adminName3>Llanbedr</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanbedr</alternateName>
+<alternateName lang="unlc">LNB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.12977</west>
+<north>52.83465</north>
+<east>-4.07023</east>
+<south>52.79868</south>
+</bbox>
+<score>73.21876525878906</score>
+</geoname>
+<geoname>
+<toponymName>Llanbedr-y-cennin</toponymName>
+<name>Llanbedr-y-cennin</name>
+<lat>53.2</lat>
+<lng>-3.86667</lng>
+<geonameId>2644173</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanbedr,Llanbedr-y-cennin</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanbedr-y-Cennin</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.88168</west>
+<north>53.20899</north>
+<east>-3.85165</east>
+<south>53.19101</south>
+</bbox>
+<score>62.493019104003906</score>
+</geoname>
+<geoname>
+<toponymName>Llanbedr</toponymName>
+<name>Llanbedr</name>
+<lat>52.1</lat>
+<lng>-3.25</lng>
+<geonameId>2644177</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.26464</west>
+<north>52.10899</north>
+<east>-3.23536</east>
+<south>52.09101</south>
+</bbox>
+<score>61.641944885253906</score>
+</geoname>
+<geoname>
+<toponymName>Llanbedr</toponymName>
+<name>Llanbedr</name>
+<lat>51.88333</lat>
+<lng>-3.1</lng>
+<geonameId>2644178</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.11457</west>
+<north>51.89233</north>
+<east>-3.08543</east>
+<south>51.87434</south>
+</bbox>
+<score>61.641944885253906</score>
+</geoname>
+<geoname>
+<toponymName>Llabedr-Dyffryn-Clwyd</toponymName>
+<name>Llabedr-Dyffryn-Clwyd</name>
+<lat>53.11667</lat>
+<lng>-3.28333</lng>
+<geonameId>2644198</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llabedr-Dyffryn-Clwyd,Llanbedr</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.29832</west>
+<north>53.12566</north>
+<east>-3.26835</east>
+<south>53.10767</south>
+</bbox>
+<score>38.66625213623047</score>
+</geoname>
+</geonames>

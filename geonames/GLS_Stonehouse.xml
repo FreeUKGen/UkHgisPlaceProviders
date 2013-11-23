@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Stonehouse</toponymName>
+<name>Stonehouse</name>
+<lat>51.75</lat>
+<lng>-2.28333</lng>
+<geonameId>2636811</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7481</population>
+<alternateNames>Stonehouse</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UF</adminCode3>
+<adminName3>Stroud</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stonehouse%2C_Gloucestershire</alternateName>
+<alternateName lang="unlc">YVZ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.30113</west>
+<north>51.76101</north>
+<east>-2.26554</east>
+<south>51.73899</south>
+</bbox>
+<score>82.72179412841797</score>
+</geoname>
+<geoname>
+<toponymName>Stonehouse</toponymName>
+<name>Stonehouse</name>
+<lat>55.66667</lat>
+<lng>-3.98333</lng>
+<geonameId>2636810</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4950</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W5</adminCode2>
+<adminName2>South Lanarkshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.99928</west>
+<north>55.67566</north>
+<east>-3.96738</east>
+<south>55.65767</south>
+</bbox>
+<score>63.33726501464844</score>
+</geoname>
+<geoname>
+<toponymName>Stonehouse</toponymName>
+<name>Stonehouse</name>
+<lat>51.74735</lat>
+<lng>-2.28192</lng>
+<geonameId>7298605</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UF</adminCode3>
+<adminName3>Stroud</adminName3>
+<adminCode4>23UF044</adminCode4>
+<adminName4>Stonehouse</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.30596</west>
+<north>51.75755</north>
+<east>-2.25788</east>
+<south>51.73715</south>
+</bbox>
+<score>63.33726501464844</score>
+</geoname>
+</geonames>

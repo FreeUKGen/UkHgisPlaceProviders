@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Barrowby</toponymName>
+<name>Barrowby</name>
+<lat>52.91636</lat>
+<lng>-0.69094</lng>
+<geonameId>2656246</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2040</population>
+<alternateNames>Barrowby</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.6984</west>
+<north>52.92085</north>
+<east>-0.68348</east>
+<south>52.91186</south>
+</bbox>
+<score>81.36238098144531</score>
+</geoname>
+<geoname>
+<toponymName>Barrowby</toponymName>
+<name>Barrowby</name>
+<lat>52.92272</lat>
+<lng>-0.70515</lng>
+<geonameId>7300672</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<adminCode4>32UG006</adminCode4>
+<adminName4>Barrowby</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barrowby</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.74044</west>
+<north>52.94511</north>
+<east>-0.66985</east>
+<south>52.90033</south>
+</bbox>
+<score>60.419189453125</score>
+</geoname>
+</geonames>

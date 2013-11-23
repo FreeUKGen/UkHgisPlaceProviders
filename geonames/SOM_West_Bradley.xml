@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>West Bradley</toponymName>
+<name>West Bradley</name>
+<lat>51.11843</lat>
+<lng>-2.62427</lng>
+<geonameId>7293945</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<adminCode4>40UB057</adminCode4>
+<adminName4>West Bradley</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/West_Bradley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.65318</west>
+<north>51.13443</north>
+<east>-2.56258</east>
+<south>51.08878</south>
+</bbox>
+<score>52.219058990478516</score>
+</geoname>
+</geonames>

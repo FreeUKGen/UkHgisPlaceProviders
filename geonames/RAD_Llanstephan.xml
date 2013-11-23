@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanstephan</toponymName>
+<name>Llanstephan</name>
+<lat>52.06654</lat>
+<lng>-3.28749</lng>
+<geonameId>2643941</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN030</adminCode3>
+<adminName3>Glasbury</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.30213</west>
+<north>52.07553</north>
+<east>-3.27286</east>
+<south>52.05755</south>
+</bbox>
+<score>65.88218688964844</score>
+</geoname>
+<geoname>
+<toponymName>Llansteffan</toponymName>
+<name>Llansteffan</name>
+<lat>51.77222</lat>
+<lng>-4.39139</lng>
+<geonameId>2643942</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Llansteffan,Llanstephan</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU054</adminCode3>
+<adminName3>Llansteffan</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llansteffan</alternateName>
+<alternateName lang="unlc">LLS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.42047</west>
+<north>51.79021</north>
+<east>-4.36231</east>
+<south>51.75423</south>
+</bbox>
+<score>49.078060150146484</score>
+</geoname>
+</geonames>

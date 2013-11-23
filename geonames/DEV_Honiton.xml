@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Honiton</toponymName>
+<name>Honiton</name>
+<lat>50.7996</lat>
+<lng>-3.18899</lng>
+<geonameId>2646658</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>11463</population>
+<alternateNames>Honiton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UB</adminCode3>
+<adminName3>East Devon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Honiton</alternateName>
+<alternateName lang="unlc">HIN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.21034</west>
+<north>50.81309</north>
+<east>-3.16764</east>
+<south>50.78611</south>
+</bbox>
+<score>123.78884887695312</score>
+</geoname>
+<geoname>
+<toponymName>Honiton</toponymName>
+<name>Honiton</name>
+<lat>50.78524</lat>
+<lng>-3.18473</lng>
+<geonameId>7298183</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UB</adminCode3>
+<adminName3>East Devon District</adminName3>
+<adminCode4>18UB033</adminCode4>
+<adminName4>Honiton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.21619</west>
+<north>50.81427</north>
+<east>-3.15327</east>
+<south>50.7562</south>
+</bbox>
+<score>76.99947357177734</score>
+</geoname>
+</geonames>

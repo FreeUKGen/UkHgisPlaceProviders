@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wigan</toponymName>
+<name>Wigan</name>
+<lat>53.53333</lat>
+<lng>-2.61667</lng>
+<geonameId>2633948</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>80788</population>
+<alternateNames>Uigan,Uigun,Vigan,Viganas,Wigan,XWI,la uigyn,u~igan,wei gan,wei gen,wigeon,wygan,Виган,Віган,Уиган,Уигън,ویگان,ウィガン,威根,维甘,위건</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P7</adminCode2>
+<adminName2>Wigan</adminName2>
+<alternateName lang="bg">Уигън</alternateName>
+<alternateName lang="de">Wigan</alternateName>
+<alternateName lang="en">Wigan</alternateName>
+<alternateName lang="eo">Wigan</alternateName>
+<alternateName lang="es">Wigan</alternateName>
+<alternateName lang="fa">ویگان</alternateName>
+<alternateName lang="fr">Wigan</alternateName>
+<alternateName lang="iata">XWI</alternateName>
+<alternateName lang="ja">ウィガン</alternateName>
+<alternateName lang="jbo">la uigyn</alternateName>
+<alternateName lang="ko">위건</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wigan</alternateName>
+<alternateName lang="lt">Viganas</alternateName>
+<alternateName lang="nl">Wigan</alternateName>
+<alternateName lang="no">Wigan</alternateName>
+<alternateName lang="pl">Wigan</alternateName>
+<alternateName lang="pt">Wigan</alternateName>
+<alternateName lang="ro">Wigan</alternateName>
+<alternateName lang="ru">Уиган</alternateName>
+<alternateName lang="sr">Виган</alternateName>
+<alternateName lang="sv">Wigan</alternateName>
+<alternateName lang="uk">Віган</alternateName>
+<alternateName lang="unlc">WGN</alternateName>
+<alternateName lang="zh">威根</alternateName>
+<alternateName lang="zh-CN">维甘</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.67865</west>
+<north>53.57014</north>
+<east>-2.55468</east>
+<south>53.49653</south>
+</bbox>
+<score>161.1947021484375</score>
+</geoname>
+<geoname>
+<toponymName>Borough of Wigan</toponymName>
+<name>Borough of Wigan</name>
+<lat>53.5</lat>
+<lng>-2.58333</lng>
+<geonameId>3333219</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>307600</population>
+<alternateNames>WGN,Wigan</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P7</adminCode2>
+<adminName2>Wigan</adminName2>
+<alternateName lang="abbr">WGN</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Metropolitan_Borough_of_Wigan</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.73052</west>
+<north>53.6083</north>
+<east>-2.41458</east>
+<south>53.44604</south>
+</bbox>
+<score>84.58589935302734</score>
+</geoname>
+</geonames>

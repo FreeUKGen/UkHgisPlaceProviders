@@ -1,0 +1,150 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>578</id>
+<name>GILLINGHAM</name>
+<container>KENT</container>
+<lat>51.378182475222</lat>
+<lon>0.587698825003658</lon>
+<gazetteerText>Gillingham, par., township, and local government dist., Kent, on river Medway, on NE. side and mostly in parl. bor. of Chatham -- par., 5016 ac., pop. 20,865; township, 4317 ac., pop. 20,644; dist. (partly also in Chatham par.), 4302 ac., pop. 20,745; P.O.; was the birthplacc of William Adams (1575-1621), discoverer of Japan. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.nwkfhs.org.uk/GILL_plc.htm</link>
+<link>http://www.geonames.org/2648657</link>
+</links>
+<unit>
+   <id>10040693</id>
+   <status>EP</status>
+   <name>GILLINGHAM HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10040700</id>
+   <status>EP</status>
+   <name>GILLINGHAM ST MARK</name>
+</unit>
+<unit>
+   <id>10062585</id>
+   <status>USD</status>
+   <name>GILLINGHAM</name>
+</unit>
+<unit>
+   <id>10081180</id>
+   <status>EP</status>
+   <name>GILLINGHAM</name>
+</unit>
+<unit>
+   <id>10092310</id>
+   <status>EP</status>
+   <name>GILLINGHAM ST BARNABAS</name>
+</unit>
+<unit>
+   <id>10098350</id>
+   <status>EP</status>
+   <name>SOUTH GILLINGHAM</name>
+</unit>
+<unit>
+   <id>10100823</id>
+   <status>AP/CP</status>
+   <name>GILLINGHAM</name>
+</unit>
+<unit>
+   <id>10107994</id>
+   <status>UD/MB</status>
+   <name>GILLINGHAM</name>
+</unit>
+<unit>
+   <id>10151685</id>
+   <status>EP</status>
+   <name>GILLINGHAM ST AUGUSTINE</name>
+</unit>
+<unit>
+   <id>10536704</id>
+   <status></status>
+   <name>GILLINGHAM</name>
+</unit>
+<unit>
+   <id>10594935</id>
+   <status></status>
+   <name>GILLINGHAM</name>
+</unit>
+<unit>
+   <id>12737993</id>
+   <status>PBDivCon</status>
+   <name>ROCHESTER GILLINGHAM</name>
+</unit>
+<unit>
+   <id>12740992</id>
+   <status>BCon</status>
+   <name>GILLINGHAM</name>
+</unit>
+<nearByPlace>
+   <id>162</id>
+   <name>QUEENBOROUGH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>579</id>
+   <name>SITTINGBOURNE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>838</id>
+   <name>MILTON REGIS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1058</id>
+   <name>FAVERSHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3168</id>
+   <name>EASTCHURCH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4976</id>
+   <name>HOO</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6281</id>
+   <name>MINSTER IN SHEPPEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6294</id>
+   <name>NEWINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6324</id>
+   <name>RAINHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6439</id>
+   <name>TEYNHAM</name>
+</nearByPlace>
+</place>
+<place>
+<id>22941</id>
+<name>NEW BROMPTON</name>
+<container>KENT</container>
+<lat>51.3883649332544</lat>
+<lon>0.541308351133531</lon>
+<gazetteerText>New Brompton, eccl. dist. and ry. sta., Gillingham par., Kent, on E. side of Chatham, pop. 8958; P.O., T.O. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<unit>
+   <id>10039460</id>
+   <status>EP</status>
+   <name>NEW BROMPTON ST LUKE</name>
+</unit>
+<unit>
+   <id>10150279</id>
+   <status>EP</status>
+   <name>NEW BROMPTON ST MARK</name>
+</unit>
+</place>
+<place>
+<id>23459</id>
+<name>WIGMORE</name>
+<container>KENT</container>
+<lat>51.3487296790426</lat>
+<lon>0.585077475408931</lon>
+<unit>
+   <id>10228918</id>
+   <status>EP</status>
+   <name>WIGMORE WITH HEMPSTEAD</name>
+</unit>
+</place>
+</results>

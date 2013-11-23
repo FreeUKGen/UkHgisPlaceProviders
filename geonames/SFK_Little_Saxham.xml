@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Little Saxham</toponymName>
+<name>Little Saxham</name>
+<lat>52.24226</lat>
+<lng>0.63444</lng>
+<geonameId>2644258</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Little Saxham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UF</adminCode3>
+<adminName3>St. Edmundsbury District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Little_Saxham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.61975</west>
+<north>52.25125</north>
+<east>0.64913</east>
+<south>52.23326</south>
+</bbox>
+<score>95.59182739257812</score>
+</geoname>
+</geonames>

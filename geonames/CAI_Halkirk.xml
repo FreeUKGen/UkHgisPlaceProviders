@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Halkirk</toponymName>
+<name>Halkirk</name>
+<lat>58.51227</lat>
+<lng>-3.49155</lng>
+<geonameId>2647630</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>897</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V3</adminCode2>
+<adminName2>Highland</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Halkirk</alternateName>
+<alternateName lang="unlc">HKI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.49327</west>
+<north>58.51317</north>
+<east>-3.48982</east>
+<south>58.51137</south>
+</bbox>
+<score>91.51898193359375</score>
+</geoname>
+</geonames>

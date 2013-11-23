@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Esh</toponymName>
+<name>Esh</name>
+<lat>54.79018</lat>
+<lng>-1.69423</lng>
+<geonameId>7293122</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ036</adminCode3>
+<adminName3>Esh</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.74093</west>
+<north>54.80746</north>
+<east>-1.64753</east>
+<south>54.7729</south>
+</bbox>
+<score>92.81218719482422</score>
+</geoname>
+<geoname>
+<toponymName>Esh</toponymName>
+<name>Esh</name>
+<lat>54.79106</lat>
+<lng>-1.69566</lng>
+<geonameId>2649914</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ036</adminCode3>
+<adminName3>Esh</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Esh%2C_County_Durham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.71126</west>
+<north>54.80005</north>
+<east>-1.68005</east>
+<south>54.78207</south>
+</bbox>
+<score>75.25127410888672</score>
+</geoname>
+<geoname>
+<toponymName>Brighton Shoreham Airport</toponymName>
+<name>Brighton Shoreham Airport</name>
+<lat>50.83556</lat>
+<lng>-0.29722</lng>
+<geonameId>6296596</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>EGKA,ESH,Shorkhehm,Шорхэм</alternateNames>
+<elevation>2</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UB</adminCode3>
+<adminName3>Adur District</adminName3>
+<alternateName lang="iata">ESH</alternateName>
+<alternateName lang="icao">EGKA</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shoreham_Airport</alternateName>
+<alternateName lang="ru">Шорхэм</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>59.270263671875</score>
+</geoname>
+<geoname>
+<toponymName>Shoreham-by-Sea</toponymName>
+<name>Shoreham-by-Sea</name>
+<lat>50.83413</lat>
+<lng>-0.27431</lng>
+<geonameId>2637916</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>19175</population>
+<alternateNames>New Shoreham,Shoreham,Shoreham-by-Sea</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UB</adminCode3>
+<adminName3>Adur District</adminName3>
+<adminCode4>45UB002</adminCode4>
+<adminName4>Lancing</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shoreham-by-Sea</alternateName>
+<alternateName lang="unlc">ESH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.3019</west>
+<north>50.85155</north>
+<east>-0.24673</east>
+<south>50.81672</south>
+</bbox>
+<score>57.91143798828125</score>
+</geoname>
+<geoname>
+<toponymName>Esher Railway Station</toponymName>
+<name>Esher Railway Station</name>
+<lat>51.38</lat>
+<lng>-0.3526</lng>
+<geonameId>6952557</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>ESH</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UB</adminCode3>
+<adminName3>Elmbridge District</adminName3>
+<alternateName lang="abbr">ESH</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Esher_railway_station</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>35.97513961791992</score>
+</geoname>
+</geonames>

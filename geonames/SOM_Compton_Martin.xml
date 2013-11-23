@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Compton Martin</toponymName>
+<name>Compton Martin</name>
+<lat>51.32192</lat>
+<lng>-2.64521</lng>
+<geonameId>7298313</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA014</adminCode3>
+<adminName3>Compton Martin</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.67045</west>
+<north>51.34255</north>
+<east>-2.61997</east>
+<south>51.30129</south>
+</bbox>
+<score>90.36441802978516</score>
+</geoname>
+<geoname>
+<toponymName>Compton Martin</toponymName>
+<name>Compton Martin</name>
+<lat>51.31056</lat>
+<lng>-2.65528</lng>
+<geonameId>2652481</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA014</adminCode3>
+<adminName3>Compton Martin</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Compton_Martin</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.68406</west>
+<north>51.32854</north>
+<east>-2.62649</east>
+<south>51.29257</south>
+</bbox>
+<score>67.85245513916016</score>
+</geoname>
+</geonames>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Caio</toponymName>
+<name>Caio</name>
+<lat>52.03333</lat>
+<lng>-3.93333</lng>
+<geonameId>2654078</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Caio,Conwil Caio,Conwil Cayo</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Caio</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.94796</west>
+<north>52.04233</north>
+<east>-3.91871</east>
+<south>52.02434</south>
+</bbox>
+<score>76.11267852783203</score>
+</geoname>
+</geonames>

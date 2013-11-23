@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Woodford cum Membris</toponymName>
+<name>Woodford cum Membris</name>
+<lat>52.16726</lat>
+<lng>-1.21579</lng>
+<geonameId>7299537</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<adminCode4>34UC073</adminCode4>
+<adminName4>Woodford cum Membris</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Woodford_cum_Membris</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.25488</west>
+<north>52.18674</north>
+<east>-1.1767</east>
+<south>52.14778</south>
+</bbox>
+<score>57.270050048828125</score>
+</geoname>
+</geonames>

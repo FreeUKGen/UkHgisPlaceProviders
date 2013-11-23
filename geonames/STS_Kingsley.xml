@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Kingsley</toponymName>
+<name>Kingsley</name>
+<lat>53.27156</lat>
+<lng>-2.68218</lng>
+<geonameId>7294601</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW092</adminCode3>
+<adminName3>Kingsley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.71948</west>
+<north>53.29066</north>
+<east>-2.64488</east>
+<south>53.25246</south>
+</bbox>
+<score>87.90586853027344</score>
+</geoname>
+<geoname>
+<toponymName>Kingsley</toponymName>
+<name>Kingsley</name>
+<lat>51.13935</lat>
+<lng>-0.87118</lng>
+<geonameId>2645459</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UC</adminCode3>
+<adminName3>East Hampshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kingsley%2C_Hampshire</alternateName>
+<alternateName lang="unlc">KGS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.88552</west>
+<north>51.14834</north>
+<east>-0.85684</east>
+<south>51.13035</south>
+</bbox>
+<score>68.87730407714844</score>
+</geoname>
+<geoname>
+<toponymName>Kingsley</toponymName>
+<name>Kingsley</name>
+<lat>51.1381</lat>
+<lng>-0.86861</lng>
+<geonameId>7296507</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UC</adminCode3>
+<adminName3>East Hampshire</adminName3>
+<adminCode4>24UC021</adminCode4>
+<adminName4>Kingsley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.90415</west>
+<north>51.15166</north>
+<east>-0.83306</east>
+<south>51.12455</south>
+</bbox>
+<score>63.554473876953125</score>
+</geoname>
+<geoname>
+<toponymName>Kingsley</toponymName>
+<name>Kingsley</name>
+<lat>53.26667</lat>
+<lng>-2.66667</lng>
+<geonameId>2645457</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW092</adminCode3>
+<adminName3>Kingsley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kingsley%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.69675</west>
+<north>53.28465</north>
+<east>-2.63658</east>
+<south>53.24868</south>
+</bbox>
+<score>58.191829681396484</score>
+</geoname>
+<geoname>
+<toponymName>Kingsley</toponymName>
+<name>Kingsley</name>
+<lat>53.01667</lat>
+<lng>-1.98333</lng>
+<geonameId>2645458</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kingsley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UH</adminCode3>
+<adminName3>Staffordshire Moorlands</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.99829</west>
+<north>53.02566</north>
+<east>-1.96838</east>
+<south>53.00767</south>
+</bbox>
+<score>46.810943603515625</score>
+</geoname>
+<geoname>
+<toponymName>Kingsley</toponymName>
+<name>Kingsley</name>
+<lat>53.01757</lat>
+<lng>-1.97702</lng>
+<geonameId>7292485</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UH</adminCode3>
+<adminName3>Staffordshire Moorlands</adminName3>
+<adminCode4>41UH028</adminCode4>
+<adminName4>Kingsley</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kingsley%2C_Staffordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.03727</west>
+<north>53.03642</north>
+<east>-1.91676</east>
+<south>52.99873</south>
+</bbox>
+<score>45.12413024902344</score>
+</geoname>
+</geonames>

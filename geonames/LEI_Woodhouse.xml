@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Woodhouse</toponymName>
+<name>Woodhouse</name>
+<lat>53.35762</lat>
+<lng>-1.37278</lng>
+<geonameId>2633640</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L9</adminCode2>
+<adminName2>Sheffield</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.38785</west>
+<north>53.36661</north>
+<east>-1.3577</east>
+<south>53.34863</south>
+</bbox>
+<score>54.44484329223633</score>
+</geoname>
+<geoname>
+<toponymName>Woodhouse</toponymName>
+<name>Woodhouse</name>
+<lat>52.73369</lat>
+<lng>-1.20283</lng>
+<geonameId>2633641</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>Charnwood District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.21769</west>
+<north>52.74269</north>
+<east>-1.18798</east>
+<south>52.7247</south>
+</bbox>
+<score>54.44484329223633</score>
+</geoname>
+<geoname>
+<toponymName>Woodhouse</toponymName>
+<name>Woodhouse</name>
+<lat>52.72632</lat>
+<lng>-1.22074</lng>
+<geonameId>7295984</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>Charnwood District</adminName3>
+<adminCode4>31UC033</adminCode4>
+<adminName4>Woodhouse</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Woodhouse%2C_Leicestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.26043</west>
+<north>52.74651</north>
+<east>-1.18105</east>
+<south>52.70612</south>
+</bbox>
+<score>47.861778259277344</score>
+</geoname>
+</geonames>

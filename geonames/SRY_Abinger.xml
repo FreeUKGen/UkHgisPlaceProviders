@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Abinger</toponymName>
+<name>Abinger</name>
+<lat>51.18333</lat>
+<lng>-0.4</lng>
+<geonameId>2657779</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Abinger</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UE</adminCode3>
+<adminName3>Mole Valley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Abinger</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.41435</west>
+<north>51.19233</north>
+<east>-0.38565</east>
+<south>51.17434</south>
+</bbox>
+<score>102.613525390625</score>
+</geoname>
+<geoname>
+<toponymName>Abinger</toponymName>
+<name>Abinger</name>
+<lat>51.17315</lat>
+<lng>-0.40229</lng>
+<geonameId>7291939</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UE</adminCode3>
+<adminName3>Mole Valley</adminName3>
+<adminCode4>43UE001</adminCode4>
+<adminName4>Abinger</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.43846</west>
+<north>51.24115</north>
+<east>-0.36612</east>
+<south>51.10514</south>
+</bbox>
+<score>77.80673217773438</score>
+</geoname>
+</geonames>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Deal</toponymName>
+<name>Deal</name>
+<lat>51.22322</lat>
+<lng>1.40432</lng>
+<geonameId>2651468</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>29248</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UE</adminCode3>
+<adminName3>Dover District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Deal%2C_Kent</alternateName>
+<alternateName lang="unlc">DEX</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.36913</west>
+<north>51.24525</north>
+<east>1.43951</east>
+<south>51.20119</south>
+</bbox>
+<score>99.80784606933594</score>
+</geoname>
+<geoname>
+<toponymName>Deal</toponymName>
+<name>Deal</name>
+<lat>51.21899</lat>
+<lng>1.38254</lng>
+<geonameId>7295300</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UE</adminCode3>
+<adminName3>Dover District</adminName3>
+<adminCode4>29UE032</adminCode4>
+<adminName4>Deal</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.35952</west>
+<north>51.23883</north>
+<east>1.40556</east>
+<south>51.19915</south>
+</bbox>
+<score>70.00467681884766</score>
+</geoname>
+</geonames>

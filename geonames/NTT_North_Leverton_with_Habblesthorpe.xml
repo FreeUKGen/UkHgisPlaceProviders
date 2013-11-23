@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>North Leverton with Habblesthorpe</toponymName>
+<name>North Leverton with Habblesthorpe</name>
+<lat>53.329</lat>
+<lng>-0.81118</lng>
+<geonameId>7297718</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<adminCode4>37UC040</adminCode4>
+<adminName4>North Leverton with Habblesthorpe</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/North_Leverton_with_Habblesthorpe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.87264</west>
+<north>53.3381</north>
+<east>-0.74973</east>
+<south>53.31991</south>
+</bbox>
+<score>58.873565673828125</score>
+</geoname>
+</geonames>

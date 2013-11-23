@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Crowland</toponymName>
+<name>Crowland</name>
+<lat>52.67571</lat>
+<lng>-0.16849</lng>
+<geonameId>2651843</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3320</population>
+<alternateNames>Crowland,Croyland</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UF</adminCode3>
+<adminName3>South Holland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Crowland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.17898</west>
+<north>52.68207</north>
+<east>-0.158</east>
+<south>52.66935</south>
+</bbox>
+<score>107.8792724609375</score>
+</geoname>
+<geoname>
+<toponymName>Crowland</toponymName>
+<name>Crowland</name>
+<lat>52.68478</lat>
+<lng>-0.14325</lng>
+<geonameId>7299137</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UF</adminCode3>
+<adminName3>South Holland District</adminName3>
+<adminCode4>32UF002</adminCode4>
+<adminName4>Crowland</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.23529</west>
+<north>52.71808</north>
+<east>-0.05121</east>
+<south>52.65148</south>
+</bbox>
+<score>72.04120635986328</score>
+</geoname>
+</geonames>

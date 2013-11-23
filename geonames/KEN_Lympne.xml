@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Lympne</toponymName>
+<name>Lympne</name>
+<lat>51.07773</lat>
+<lng>1.02808</lng>
+<geonameId>2643308</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>6945806</adminCode3>
+<adminName3>Shepway District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lympne</alternateName>
+<alternateName lang="unlc">LYN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.01376</west>
+<north>51.08672</north>
+<east>1.0424</east>
+<south>51.06873</south>
+</bbox>
+<score>91.96344757080078</score>
+</geoname>
+<geoname>
+<toponymName>Lympne</toponymName>
+<name>Lympne</name>
+<lat>51.08056</lat>
+<lng>1.00698</lng>
+<geonameId>7295896</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>81.69823455810547</score>
+</geoname>
+</geonames>

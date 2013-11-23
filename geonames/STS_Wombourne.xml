@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wombourn</toponymName>
+<name>Wombourn</name>
+<lat>52.53333</lat>
+<lng>-2.18333</lng>
+<geonameId>2633683</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Wombourn,Wombourne</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UF</adminCode3>
+<adminName3>South Staffordshire District</adminName3>
+<alternateName lang="en">Wombourn</alternateName>
+<alternateName lang="unlc">WBC</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.19812</west>
+<north>52.54233</north>
+<east>-2.16855</east>
+<south>52.52434</south>
+</bbox>
+<score>66.09536743164062</score>
+</geoname>
+<geoname>
+<toponymName>Wombourne</toponymName>
+<name>Wombourne</name>
+<lat>52.53852</lat>
+<lng>-2.17501</lng>
+<geonameId>7297253</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UF</adminCode3>
+<adminName3>South Staffordshire District</adminName3>
+<adminCode4>41UF029</adminCode4>
+<adminName4>Wombourne</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wombourne</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.21656</west>
+<north>52.55852</north>
+<east>-2.13346</east>
+<south>52.51853</south>
+</bbox>
+<score>58.439754486083984</score>
+</geoname>
+</geonames>

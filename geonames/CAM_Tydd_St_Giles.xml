@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Tydd St. Giles</toponymName>
+<name>Tydd St. Giles</name>
+<lat>52.71537</lat>
+<lng>0.10787</lng>
+<geonameId>7299833</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UD</adminCode3>
+<adminName3>Fenland District</adminName3>
+<adminCode4>12UD010</adminCode4>
+<adminName4>Tydd St. Giles</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.04413</west>
+<north>52.73998</north>
+<east>0.17161</east>
+<south>52.69077</south>
+</bbox>
+<score>74.12962341308594</score>
+</geoname>
+</geonames>

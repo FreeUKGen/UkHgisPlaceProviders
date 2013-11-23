@@ -1,0 +1,57 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>392</id>
+<name>KEMPSTON</name>
+<container>BEDFORDSHIRE</container>
+<lat>52.1180628658001</lat>
+<lon>-0.49170792757878</lon>
+<gazetteerText>KEMPSTON, a village and a parish in the district and county of Bedford. The village stands on the river Ouse, 2&#189; miles SW of Bedford r. station; and has a postoffice under Bedford. The parish comprises 5, 160 acres. Real property, &#163;10, 868. Pop. in 1851, 1, 962; in 1861, 2, 1 91. Houses, 478. The property is much subdivided. The manor house is the seat of the Williamsons; Hoo House, of Barnard Talbot, Esq.; Kempston House, of Capt. B. Newland; and the Grange, of H. Littledale, Esq. Springfield House, standing on a plot of 18 acres, is a private lunatic asylnm. Roman coins, an ancient spur, and indications of a large Saxon cemetery have been found. Kempston Wood is a meet for the Oakley hounds. The living is a vicarage in the diocese of Ely. Value, &#163;350. * Patron, J. D. Allcroft, Esq. The church is partly Norman; has decorated clerestory, aisles, and S porch; has a tower partly Norman, partly later; was restored in 1864; and contains a decorated font. Another church, St. John&apos;s, was erected in 1868. There are chapels for Baptists, Wesleyans, and Primitive Methodists, a national school, and charities &#163;46. An extensive Saxon burying place was recently discovered, containing a large number of skeletons, an ancient British coin, two coins of Constantine, a variety of weapons, a unique drinkingcup, and a great variety of Saxon ornaments. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Kempston</link>
+<link>http://www.genuki.org.uk/big/eng/BDF/Kempston/index.html</link>
+<link>http://www.geonames.org/2645831</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=42434</link>
+</links>
+<unit>
+   <id>10000117</id>
+   <status>AP/CP</status>
+   <name>KEMPSTON</name>
+</unit>
+<unit>
+   <id>10061763</id>
+   <status>UD</status>
+   <name>KEMPSTON</name>
+</unit>
+<unit>
+   <id>10106187</id>
+   <status>CP</status>
+   <name>KEMPSTON RURAL</name>
+</unit>
+<unit>
+   <id>10152288</id>
+   <status>EP</status>
+   <name>KEMPSTON</name>
+</unit>
+<nearByPlace>
+   <id>1376</id>
+   <name>BIDDENHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2540</id>
+   <name>ASTWOOD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3493</id>
+   <name>WOOTTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4984</id>
+   <name>ELSTOW</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5754</id>
+   <name>STAGSDEN</name>
+</nearByPlace>
+</place>
+</results>

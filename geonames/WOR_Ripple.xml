@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Ripple</toponymName>
+<name>Ripple</name>
+<lat>52.03333</lat>
+<lng>-2.18333</lng>
+<geonameId>2639321</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ripple</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UC</adminCode3>
+<adminName3>Malvern Hills District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ripple%2C_Worcestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.19796</west>
+<north>52.04233</north>
+<east>-2.16871</east>
+<south>52.02434</south>
+</bbox>
+<score>91.82766723632812</score>
+</geoname>
+<geoname>
+<toponymName>Ripple</toponymName>
+<name>Ripple</name>
+<lat>52.05077</lat>
+<lng>-2.19583</lng>
+<geonameId>7292786</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UC</adminCode3>
+<adminName3>Malvern Hills District</adminName3>
+<adminCode4>47UC052</adminCode4>
+<adminName4>Ripple</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.22198</west>
+<north>52.08247</north>
+<east>-2.16967</east>
+<south>52.01907</south>
+</bbox>
+<score>70.80192565917969</score>
+</geoname>
+<geoname>
+<toponymName>Ripple</toponymName>
+<name>Ripple</name>
+<lat>51.19309</lat>
+<lng>1.36282</lng>
+<geonameId>7295864</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UE</adminCode3>
+<adminName3>Dover District</adminName3>
+<adminCode4>29UE017</adminCode4>
+<adminName4>Ripple</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ripple%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.33942</west>
+<north>51.20974</north>
+<east>1.38622</east>
+<south>51.17643</south>
+</bbox>
+<score>50.46143341064453</score>
+</geoname>
+</geonames>

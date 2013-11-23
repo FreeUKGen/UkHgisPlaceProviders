@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Barford</toponymName>
+<name>Barford</name>
+<lat>52.24958</lat>
+<lng>-1.59557</lng>
+<geonameId>7296064</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UF</adminCode3>
+<adminName3>Warwick District</adminName3>
+<adminCode4>44UF004</adminCode4>
+<adminName4>Barford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.62776</west>
+<north>52.2655</north>
+<east>-1.56339</east>
+<south>52.23366</south>
+</bbox>
+<score>65.56440734863281</score>
+</geoname>
+<geoname>
+<toponymName>Barford</toponymName>
+<name>Barford</name>
+<lat>52.24467</lat>
+<lng>-1.60692</lng>
+<geonameId>2656348</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UF</adminCode3>
+<adminName3>Warwick District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.62161</west>
+<north>52.25367</north>
+<east>-1.59223</east>
+<south>52.23568</south>
+</bbox>
+<score>52.146942138671875</score>
+</geoname>
+<geoname>
+<toponymName>Barford</toponymName>
+<name>Barford</name>
+<lat>52.62425</lat>
+<lng>1.1146</lng>
+<geonameId>7301922</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH007</adminCode4>
+<adminName4>Barford</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barford%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.09154</west>
+<north>52.63537</north>
+<east>1.13766</east>
+<south>52.61314</south>
+</bbox>
+<score>45.211917877197266</score>
+</geoname>
+<geoname>
+<toponymName>Barford Saint John</toponymName>
+<name>Barford Saint John</name>
+<lat>51.99516</lat>
+<lng>-1.36381</lng>
+<geonameId>2656347</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Barford,Barford Saint John</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UB</adminCode3>
+<adminName3>Cherwell District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.37842</west>
+<north>52.00415</north>
+<east>-1.3492</east>
+<south>51.98617</south>
+</bbox>
+<score>39.027183532714844</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Chelsham</toponymName>
+<name>Chelsham</name>
+<lat>51.31404</lat>
+<lng>-0.0236</lng>
+<geonameId>2653263</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Chelsham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UK</adminCode3>
+<adminName3>Tandridge District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chelsham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.03799</west>
+<north>51.32303</north>
+<east>-0.00921</east>
+<south>51.30504</south>
+</bbox>
+<score>108.91585540771484</score>
+</geoname>
+</geonames>

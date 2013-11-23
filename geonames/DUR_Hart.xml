@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hart</toponymName>
+<name>Hart</name>
+<lat>54.70869</lat>
+<lng>-1.27629</lng>
+<geonameId>7295797</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F5</adminCode2>
+<adminName2>Hartlepool</adminName2>
+<adminCode3>00EB006</adminCode3>
+<adminName3>Hart</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.31423</west>
+<north>54.72716</north>
+<east>-1.23835</east>
+<south>54.69022</south>
+</bbox>
+<score>84.06381225585938</score>
+</geoname>
+<geoname>
+<toponymName>Hart</toponymName>
+<name>Hart</name>
+<lat>54.70712</lat>
+<lng>-1.27334</lng>
+<geonameId>2647417</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F5</adminCode2>
+<adminName2>Hartlepool</adminName2>
+<adminCode3>00EB006</adminCode3>
+<adminName3>Hart</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hart%2C_County_Durham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.28891</west>
+<north>54.71611</north>
+<east>-1.25777</east>
+<south>54.69812</south>
+</bbox>
+<score>67.24325561523438</score>
+</geoname>
+</geonames>

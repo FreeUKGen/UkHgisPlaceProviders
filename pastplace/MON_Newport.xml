@@ -1,0 +1,116 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1121</id>
+<name>NEWPORT</name>
+<container>MONMOUTHSHIRE</container>
+<lat>51.5797838801003</lat>
+<lon>-2.98537885185155</lon>
+<gazetteerText>Newport, parl. and mun. bor., seaport, market town, par., and township, Monmouthshire, on river Usk, 12 miles NE. of Cardiff and 159 miles W. of London by rail - par. (Newport St Woollos), 3584 ac., pop. 35,932; township, pop. 10,423; parl. bor., 1690 ac., pop. 38,427; mun. bor., 1040 ac., pop. 35,313; 3 Banks, 5 newspapers. Market-days, Wednesday and Saturday. To distinguish it from the ancient Caerleon, this town received from Giraldus the name Novus Burgus, while the Welsh called it Castel Newydd - i.e., Newcastle. Edward II. granted the town its first charter of incorporation. Close to the river&apos;s edge are some towers and portions of the walls of the castle erected by the Earl of Gloucester, son of Henry I.; the remains of the building now form part of a brewery. In 1839 Newport was the scene of a great Chartist riot, the rioters being 10,000 armed miners, of whom 20 were shot dead in an encounter with the troops. Commodious docks are here, and the shipping trade of the port is active. (For shipping statistics, see Appendix.) Shipbuilding, iron-founding, steam engine and boiler mfrs., railway plant works, chain cable and anchor works, chemical works, and agricultural implement mfrs., are the chief local employments. The great trade of the place is the export of manufactured iron. The new Pontypridd, Caerphilly, and Newport Ry. connects the port with the Rhondda Valley coal district. Newport is one of the Monmouth District of Parliamentary Boroughs, which returns 1 member to Parliament. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/wal/MON/StWoollos/index.html</link>
+<link>http://www.workhouses.org.uk/Newport</link>
+<link>http://www.geonames.org/2641598</link>
+</links>
+<unit>
+   <id>10104129</id>
+   <status>RegD/PLU</status>
+   <name>NEWPORT</name>
+</unit>
+<unit>
+   <id>10142600</id>
+   <status></status>
+   <name>NEWPORT</name>
+</unit>
+<unit>
+   <id>10287947</id>
+   <status>CP/AP</status>
+   <name>NEWPORT</name>
+</unit>
+<unit>
+   <id>10287960</id>
+   <status>CB</status>
+   <name>NEWPORT</name>
+</unit>
+<unit>
+   <id>10549115</id>
+   <status></status>
+   <name>NEWPORT</name>
+</unit>
+<unit>
+   <id>12740268</id>
+   <status>PBCon/BCon</status>
+   <name>NEWPORT</name>
+</unit>
+<unit>
+   <id>12746593</id>
+   <status>CCon</status>
+   <name>NEWPORT WEST</name>
+</unit>
+<unit>
+   <id>12748851</id>
+   <status>CCon</status>
+   <name>NEWPORT EAST</name>
+</unit>
+<unit>
+   <id>12783024</id>
+   <status></status>
+   <name>NEWPORT</name>
+</unit>
+<unit>
+   <id>12827866</id>
+   <status>USD</status>
+   <name>NEWPORT</name>
+</unit>
+<unit>
+   <id>12827878</id>
+   <status>RSD</status>
+   <name>NEWPORT</name>
+</unit>
+<unit>
+   <id>12834871</id>
+   <status></status>
+   <name>NEWPORT</name>
+</unit>
+<nearByPlace>
+   <id>240</id>
+   <name>HEREFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>329</id>
+   <name>PONTYPOOL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>671</id>
+   <name>ABERTILLERY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>672</id>
+   <name>NANTYGLO</name>
+</nearByPlace>
+<nearByPlace>
+   <id>876</id>
+   <name>ABER CARN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1130</id>
+   <name>RISCA</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1255</id>
+   <name>CWM BRAN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8806</id>
+   <name>ST WOOLLOOS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10586</id>
+   <name>EAST DEAN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10587</id>
+   <name>WEST DEAN</name>
+</nearByPlace>
+</place>
+</results>

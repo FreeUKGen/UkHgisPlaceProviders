@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>King's Lynn</toponymName>
+<name>Kings Lynn</name>
+<lat>52.75172</lat>
+<lng>0.39516</lng>
+<geonameId>2645456</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>34564</population>
+<alternateNames>KNF,King's Lynn,Kings Lin,Kings Linas,Kings Lynn,Kingslinn,King’s Lynn,Lynn,Lynn Regis,Кингс Лин,Кингслинн</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<alternateName lang="bg">Кингс Лин</alternateName>
+<alternateName lang="de">King’s Lynn</alternateName>
+<alternateName lang="en">Kings Lynn</alternateName>
+<alternateName lang="fi">King’s Lynn</alternateName>
+<alternateName lang="iata">KNF</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/King%27s_Lynn</alternateName>
+<alternateName lang="lt">Kings Linas</alternateName>
+<alternateName lang="nds">King’s Lynn</alternateName>
+<alternateName lang="ru">Кингслинн</alternateName>
+<alternateName lang="sk">King’s Lynn</alternateName>
+<alternateName lang="unlc">KLN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.35583</west>
+<north>52.77552</north>
+<east>0.4345</east>
+<south>52.72793</south>
+</bbox>
+<score>122.53418731689453</score>
+</geoname>
+<geoname>
+<toponymName>Kings Lynn</toponymName>
+<name>Kings Lynn</name>
+<lat>52.75178</lat>
+<lng>0.4057</lng>
+<geonameId>6287586</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>15.440571784973145</score>
+</geoname>
+</geonames>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Stoughton</toponymName>
+<name>Stoughton</name>
+<lat>50.89605</lat>
+<lng>-0.86114</lng>
+<geonameId>2636780</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UD</adminCode3>
+<adminName3>Chichester District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stoughton%2C_West_Sussex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.8754</west>
+<north>50.90504</north>
+<east>-0.84688</east>
+<south>50.88706</south>
+</bbox>
+<score>78.86837768554688</score>
+</geoname>
+<geoname>
+<toponymName>Stoughton</toponymName>
+<name>Stoughton</name>
+<lat>50.89458</lat>
+<lng>-0.89002</lng>
+<geonameId>7297473</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UD</adminCode3>
+<adminName3>Chichester District</adminName3>
+<adminCode4>45UD053</adminCode4>
+<adminName4>Stoughton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.9576</west>
+<north>50.91979</north>
+<east>-0.82245</east>
+<south>50.86937</south>
+</bbox>
+<score>73.56477355957031</score>
+</geoname>
+<geoname>
+<toponymName>Stoughton</toponymName>
+<name>Stoughton</name>
+<lat>51.25407</lat>
+<lng>-0.59592</lng>
+<geonameId>2636779</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UD</adminCode3>
+<adminName3>Guildford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stoughton%2C_Surrey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.60167</west>
+<north>51.25767</north>
+<east>-0.59017</east>
+<south>51.25048</south>
+</bbox>
+<score>66.68753814697266</score>
+</geoname>
+<geoname>
+<toponymName>Stoughton</toponymName>
+<name>Stoughton</name>
+<lat>52.61098</lat>
+<lng>-1.04501</lng>
+<geonameId>7290835</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UD</adminCode3>
+<adminName3>Harborough District</adminName3>
+<adminCode4>31UD077</adminCode4>
+<adminName4>Stoughton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stoughton%2C_Leicestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.07096</west>
+<north>52.6237</north>
+<east>-1.01906</east>
+<south>52.59827</south>
+</bbox>
+<score>51.61503219604492</score>
+</geoname>
+</geonames>

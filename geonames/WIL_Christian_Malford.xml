@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Christian Malford</toponymName>
+<name>Christian Malford</name>
+<lat>51.51039</lat>
+<lng>-2.05508</lng>
+<geonameId>2653070</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Christian Malford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY061</adminCode3>
+<adminName3>Christian Malford</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Christian_Malford</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.06954</west>
+<north>51.51939</north>
+<east>-2.04063</east>
+<south>51.5014</south>
+</bbox>
+<score>95.43047332763672</score>
+</geoname>
+<geoname>
+<toponymName>Christian Malford</toponymName>
+<name>Christian Malford</name>
+<lat>51.51635</lat>
+<lng>-2.03803</lng>
+<geonameId>7299332</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY061</adminCode3>
+<adminName3>Christian Malford</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.07195</west>
+<north>51.53685</north>
+<east>-2.00411</east>
+<south>51.49585</south>
+</bbox>
+<score>94.30702209472656</score>
+</geoname>
+</geonames>

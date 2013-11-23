@@ -1,0 +1,73 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>453</id>
+<name>STREET</name>
+<container>SOMERSET</container>
+<lat>51.1184901832174</lat>
+<lon>-2.7371792381222</lon>
+<gazetteerText>STREET, a parish, with a village, in Wells district, Somerset; 1&#189; mile SSW of Glastonbury r. station. It has a post-office under Bath. Acres, 2,913. Real property, &#163;7,970. Pop. in 1851, 1,647; in 1861, 1,898. Houses, 381. The property is subdivided. There is a large sheepskin, rug, and shoe manufactory. The living is a rectory, united with Walton, in the diocese of Bath and Wells. Value, &#163;675.* Patron, the Marquis of Bath. The church is later English and good. There are four dissenting chapels and two public schools. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/SOM/Street/index.html</link>
+<link>http://en.wikipedia.org/wiki/Street,_Somerset</link>
+<link>http://www.geonames.org/2636671</link>
+</links>
+<unit>
+   <id>10074344</id>
+   <status>UD</status>
+   <name>STREET</name>
+</unit>
+<unit>
+   <id>10213563</id>
+   <status>USD</status>
+   <name>STREET</name>
+</unit>
+<unit>
+   <id>10442904</id>
+   <status>CP/AP</status>
+   <name>STREET</name>
+</unit>
+<unit>
+   <id>10442916</id>
+   <status>EP</status>
+   <name>STREET</name>
+</unit>
+<unit>
+   <id>12836557</id>
+   <status></status>
+   <name>STREET</name>
+</unit>
+<nearByPlace>
+   <id>12336</id>
+   <name>ASHCOTT</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12380</id>
+   <name>BARTON ST DAVID</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12505</id>
+   <name>BUTLEIGH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12524</id>
+   <name>CATCOTT</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12914</id>
+   <name>GREINTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13212</id>
+   <name>SHAPWICK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13213</id>
+   <name>SHARPHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13367</id>
+   <name>WALTON</name>
+</nearByPlace>
+</place>
+</results>

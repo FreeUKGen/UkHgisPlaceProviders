@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Isle of Cumbrae</toponymName>
+<name>Cumbrae</name>
+<lat>55.76933</lat>
+<lng>-4.91913</lng>
+<geonameId>8299852</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated locality</fcodeName>
+<population>1434</population>
+<alternateNames>Cumaradh Mor,Cumaradh Mòr,Cumbrae,Great Cumbrae,Isle of Cumbrae</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V7</adminCode2>
+<adminName2>North Ayrshire</adminName2>
+<alternateName lang="en">Cumbrae</alternateName>
+<alternateName lang="gd">Cumaradh Mòr</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Isle_of_Cumbrae</alternateName>
+<alternateName lang="post">KA28</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.92712</west>
+<north>55.77383</north>
+<east>-4.91113</east>
+<south>55.76483</south>
+</bbox>
+<score>49.9536247253418</score>
+</geoname>
+</geonames>

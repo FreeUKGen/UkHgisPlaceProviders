@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llandovery</toponymName>
+<name>Llandovery</name>
+<lat>52.01054</lat>
+<lng>-3.7895</lng>
+<geonameId>7292354</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU027</adminCode3>
+<adminName3>Llandovery</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.83413</west>
+<north>52.04337</north>
+<east>-3.74487</east>
+<south>51.9777</south>
+</bbox>
+<score>110.10324096679688</score>
+</geoname>
+<geoname>
+<toponymName>Llandovery</toponymName>
+<name>Llandovery</name>
+<lat>51.99415</lat>
+<lng>-3.79637</lng>
+<geonameId>2644127</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2260</population>
+<alternateNames>Llandovery,Llanymddyfri</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU027</adminCode3>
+<adminName3>Llandovery</adminName3>
+<alternateName lang="cy">Llanymddyfri</alternateName>
+<alternateName lang="en">Llandovery</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llandovery</alternateName>
+<alternateName lang="unlc">LDV</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.80368</west>
+<north>51.99865</north>
+<east>-3.78907</east>
+<south>51.98965</south>
+</bbox>
+<score>109.20552825927734</score>
+</geoname>
+</geonames>

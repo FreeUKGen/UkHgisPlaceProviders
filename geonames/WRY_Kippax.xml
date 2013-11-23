@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kippax</toponymName>
+<name>Kippax</name>
+<lat>53.76674</lat>
+<lng>-1.37111</lng>
+<geonameId>7294388</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H3</adminCode2>
+<adminName2>Leeds</adminName2>
+<adminCode3>00DA034</adminCode3>
+<adminName3>Kippax</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.39295</west>
+<north>53.78226</north>
+<east>-1.34927</east>
+<south>53.75121</south>
+</bbox>
+<score>113.36953735351562</score>
+</geoname>
+<geoname>
+<toponymName>Kippax</toponymName>
+<name>Kippax</name>
+<lat>53.76687</lat>
+<lng>-1.37099</lng>
+<geonameId>2645347</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H3</adminCode2>
+<adminName2>Leeds</adminName2>
+<adminCode3>00DA034</adminCode3>
+<adminName3>Kippax</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kippax%2C_West_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.38621</west>
+<north>53.77587</north>
+<east>-1.35577</east>
+<south>53.75788</south>
+</bbox>
+<score>85.12425231933594</score>
+</geoname>
+</geonames>

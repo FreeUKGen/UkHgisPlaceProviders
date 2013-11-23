@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bushey</toponymName>
+<name>Bushey</name>
+<lat>51.64316</lat>
+<lng>-0.36053</lng>
+<geonameId>2654179</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>17380</population>
+<alternateNames>Bushey,Bushey Heath</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UE</adminCode3>
+<adminName3>Hertsmere District</adminName3>
+<alternateName lang="en">Bushey</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bushey</alternateName>
+<alternateName lang="post">WD23</alternateName>
+<alternateName lang="unlc">BYQ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.38766</west>
+<north>51.65999</north>
+<east>-0.33341</east>
+<south>51.62634</south>
+</bbox>
+<score>108.05094909667969</score>
+</geoname>
+</geonames>

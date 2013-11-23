@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cameley</toponymName>
+<name>Cameley</name>
+<lat>51.31772</lat>
+<lng>-2.55374</lng>
+<geonameId>7296348</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA004</adminCode3>
+<adminName3>Cameley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.57935</west>
+<north>51.33231</north>
+<east>-2.52813</east>
+<south>51.30314</south>
+</bbox>
+<score>106.26434326171875</score>
+</geoname>
+<geoname>
+<toponymName>Cameley</toponymName>
+<name>Cameley</name>
+<lat>51.31616</lat>
+<lng>-2.56079</lng>
+<geonameId>6619695</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1286</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA004</adminCode3>
+<adminName3>Cameley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cameley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.56799</west>
+<north>51.32065</north>
+<east>-2.5536</east>
+<south>51.31166</south>
+</bbox>
+<score>101.42250061035156</score>
+</geoname>
+</geonames>

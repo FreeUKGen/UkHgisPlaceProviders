@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Newcastle Emlyn</toponymName>
+<name>Newcastle Emlyn</name>
+<lat>52.04056</lat>
+<lng>-4.4667</lng>
+<geonameId>2641676</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1719</population>
+<alternateNames>Castell Newydd Emlyn,Newcastle Emlyn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ018</adminCode3>
+<adminName3>Llandyfriog</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newcastle_Emlyn</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.47402</west>
+<north>52.04505</north>
+<east>-4.45939</east>
+<south>52.03606</south>
+</bbox>
+<score>108.24090576171875</score>
+</geoname>
+<geoname>
+<toponymName>Newcastle Emlyn</toponymName>
+<name>Newcastle Emlyn</name>
+<lat>52.03744</lat>
+<lng>-4.4657</lng>
+<geonameId>7292362</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU062</adminCode3>
+<adminName3>Newcastle Emlyn</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.48855</west>
+<north>52.04736</north>
+<east>-4.44285</east>
+<south>52.02752</south>
+</bbox>
+<score>95.95266723632812</score>
+</geoname>
+</geonames>

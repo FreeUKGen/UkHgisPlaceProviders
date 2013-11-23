@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Kenilworth</toponymName>
+<name>Kenilworth</name>
+<lat>52.34286</lat>
+<lng>-1.58015</lng>
+<geonameId>2645822</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>22799</population>
+<alternateNames>Keniluurt,Kenilworth,Кенилуърт</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UF</adminCode3>
+<adminName3>Warwick District</adminName3>
+<alternateName lang="bg">Кенилуърт</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kenilworth</alternateName>
+<alternateName lang="unlc">KLW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.61139</west>
+<north>52.36193</north>
+<east>-1.54891</east>
+<south>52.32378</south>
+</bbox>
+<score>95.04244995117188</score>
+</geoname>
+<geoname>
+<toponymName>Kenilworth</toponymName>
+<name>Kenilworth</name>
+<lat>52.34821</lat>
+<lng>-1.58889</lng>
+<geonameId>7299639</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UF</adminCode3>
+<adminName3>Warwick District</adminName3>
+<adminCode4>44UF017</adminCode4>
+<adminName4>Kenilworth</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.64648</west>
+<north>52.3735</north>
+<east>-1.53129</east>
+<south>52.32293</south>
+</bbox>
+<score>68.32254028320312</score>
+</geoname>
+<geoname>
+<toponymName>Kenilworth</toponymName>
+<name>Kenilworth</name>
+<lat>51.5179</lat>
+<lng>-0.1285</lng>
+<geonameId>6467221</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>C4</adminCode3>
+<adminName3>Camden</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>17.08063507080078</score>
+</geoname>
+</geonames>

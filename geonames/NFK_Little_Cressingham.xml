@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Little Cressingham</toponymName>
+<name>Little Cressingham</name>
+<lat>52.55914</lat>
+<lng>0.76756</lng>
+<geonameId>7301849</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<adminCode4>33UB055</adminCode4>
+<adminName4>Little Cressingham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Little_Cressingham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.72887</west>
+<north>52.57706</north>
+<east>0.80624</east>
+<south>52.54123</south>
+</bbox>
+<score>53.55720138549805</score>
+</geoname>
+</geonames>

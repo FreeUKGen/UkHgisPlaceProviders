@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Helland</toponymName>
+<name>Helland</name>
+<lat>50.49715</lat>
+<lng>-4.71553</lng>
+<geonameId>7300011</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE048</adminCode3>
+<adminName3>Helland</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.75272</west>
+<north>50.51939</north>
+<east>-4.67834</east>
+<south>50.47492</south>
+</bbox>
+<score>87.1980972290039</score>
+</geoname>
+<geoname>
+<toponymName>Helland</toponymName>
+<name>Helland</name>
+<lat>50.5</lat>
+<lng>-4.71667</lng>
+<geonameId>2647171</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE048</adminCode3>
+<adminName3>Helland</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Helland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.74496</west>
+<north>50.51799</north>
+<east>-4.68838</east>
+<south>50.48201</south>
+</bbox>
+<score>60.64768981933594</score>
+</geoname>
+</geonames>

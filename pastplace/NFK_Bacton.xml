@@ -1,0 +1,109 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>4739</id>
+<name>BACTON</name>
+<container>NORFOLK</container>
+<lat>52.8421809427233</lat>
+<lon>1.46053774366193</lon>
+<gazetteerText>BACTON, a parish in Tunstead district, Norfolk; on the coast, 4&#189; miles NE of North Walsham r. station, and 19 NNE of Norwich. It includes the hamlets of Bacton Green, Bromholm, and Keswick; and has a post office under Norwich. Acres, 1,770; of which 170 are water. Real property, &#163;3,058. Pop., 490. Houses, 129. The property is subdivided. Considerable encroachments have recently been made by the sea. A church formerly stood at Keswick, but has been completely washed away. Ruins of a Cluniac-priory, founded in 1113 by Baxton de Glanville, stand at Bromholm. The living is a vicarage in the diocese of Norwich. Value. &#163;263.* Patron, Ear. l of Kimbersley. The church is an ancient structure, with a square tower; has a good font; and is in good condition. There are a Baptist chapel, a national school, and a coastguard station. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2656667</link>
+<link>http://www.origins.org.uk/genuki/NFK/places/b/bacton/</link>
+<link>http://en.wikipedia.org/wiki/Bacton,_Norfolk</link>
+</links>
+<unit>
+   <id>10161769</id>
+   <status>AP/CP</status>
+   <name>BACTON</name>
+</unit>
+<unit>
+   <id>10501490</id>
+   <status></status>
+   <name>BROMHOLME AND KESWICK IN BACTON</name>
+</unit>
+</place>
+<place>
+<id>964</id>
+<name>NORTH WALSHAM</name>
+<container>NORFOLK</container>
+<lat>52.8183178005636</lat>
+<lon>1.38531795649222</lon>
+<gazetteerText>WALSHAM (North), a small town, a parish, and a sub-district, in Erpingham district, Norfolk. The town stands at the projected terminus of a branch of the Great Eastern railway, 14&#188; miles N by E of Norwich; suffered much injury from fire in 1600; is a seat of petty sessions and county courts, and a polling place; and has a post-office under Norwich, three banking offices, several inns, an ancient market-cross, a police station, a corn exchange, an ancient church recently restored, four dissenting chapels, a public cemetery, an endowed grammar-school with &#163;233 a year, a national school transmuted from an old theatre, a British school, a literary institute, a horticultural society, two agricultural implement manufactories, a weekly market on Thursday, and a horse and cattle fair on the day before Holy Thursday. The parish comprises 4,252 acres. Real property, &#163;12,815; of which &#163;162 are in a canal. Pop., 2,896. Houses, 679. The manor belongs to the Bishop of Norwich. A cross about a mile S of the town marks the scene of a battle, in 1381, between rebel forces under Lytester and royal forces under Bishop Spencer. The living is a vicarage, united with Antingham, in the diocese of Norwich. Value, &#163;415.* Patron, the Bishop of N.&#151;The sub-district contains 13 parishes. Acres, 20,523. Pop., 6,942. Houses, 1,655. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.origins.org.uk/genuki/NFK/places/w/walsham_north/</link>
+<link>http://en.wikipedia.org/wiki/North_Walsham</link>
+<link>http://www.geonames.org/2641233</link>
+</links>
+<unit>
+   <id>10015194</id>
+   <status>AP/CP</status>
+   <name>NORTH WALSHAM</name>
+</unit>
+<unit>
+   <id>10062445</id>
+   <status>USD</status>
+   <name>NORTH WALSHAM</name>
+</unit>
+<unit>
+   <id>10186250</id>
+   <status>UD</status>
+   <name>NORTH WALSHAM</name>
+</unit>
+<unit>
+   <id>10512736</id>
+   <status></status>
+   <name>NORTH WALSHAM</name>
+</unit>
+<unit>
+   <id>10541402</id>
+   <status></status>
+   <name>NORTH WALSHAM</name>
+</unit>
+<unit>
+   <id>12756823</id>
+   <status>PDivCon</status>
+   <name>NORFOLK EASTERN</name>
+</unit>
+<nearByPlace>
+   <id>1679</id>
+   <name>MUNDESLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2627</id>
+   <name>WINTERTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3498</id>
+   <name>COLTISHALL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3533</id>
+   <name>STALHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3908</id>
+   <name>HOVETON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3917</id>
+   <name>SCOTTOW</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4734</id>
+   <name>LUDHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5131</id>
+   <name>WROXHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5475</id>
+   <name>MARTHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5746</id>
+   <name>HAPPISBURGH</name>
+</nearByPlace>
+</place>
+</results>

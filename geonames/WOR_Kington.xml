@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Kington</toponymName>
+<name>Kington</name>
+<lat>52.19882</lat>
+<lng>-3.03574</lng>
+<geonameId>7294517</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA109</adminCode3>
+<adminName3>Kington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.06178</west>
+<north>52.20774</north>
+<east>-3.00971</east>
+<south>52.1899</south>
+</bbox>
+<score>89.58074951171875</score>
+</geoname>
+<geoname>
+<toponymName>Kington</toponymName>
+<name>Kington</name>
+<lat>52.20605</lat>
+<lng>-2.01866</lng>
+<geonameId>7292802</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<adminCode4>47UF056</adminCode4>
+<adminName4>Kington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.04044</west>
+<north>52.22395</north>
+<east>-1.99688</east>
+<south>52.18815</south>
+</bbox>
+<score>64.60047149658203</score>
+</geoname>
+<geoname>
+<toponymName>Kington</toponymName>
+<name>Kington</name>
+<lat>52.2</lat>
+<lng>-2.01667</lng>
+<geonameId>2645411</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2655</population>
+<alternateNames>Ceintun,Kington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<alternateName lang="cy">Ceintun</alternateName>
+<alternateName lang="en">Kington</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kington,_Herefordshire</alternateName>
+<alternateName lang="post">HR5</alternateName>
+<alternateName lang="unlc">KTN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.02704</west>
+<north>52.20636</north>
+<east>-2.00629</east>
+<south>52.19364</south>
+</bbox>
+<score>64.12127685546875</score>
+</geoname>
+<geoname>
+<toponymName>Kington</toponymName>
+<name>Kington</name>
+<lat>52.20408</lat>
+<lng>-3.02553</lng>
+<geonameId>2645410</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA109</adminCode3>
+<adminName3>Kington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kington%2C_Herefordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.05489</west>
+<north>52.22207</north>
+<east>-2.99617</east>
+<south>52.1861</south>
+</bbox>
+<score>57.83052062988281</score>
+</geoname>
+</geonames>

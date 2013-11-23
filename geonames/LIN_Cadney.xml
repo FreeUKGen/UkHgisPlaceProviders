@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cadney</toponymName>
+<name>Cadney</name>
+<lat>53.52502</lat>
+<lng>-0.45407</lng>
+<geonameId>7298237</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD014</adminCode3>
+<adminName3>Cadney</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.50308</west>
+<north>53.54639</north>
+<east>-0.40505</east>
+<south>53.50365</south>
+</bbox>
+<score>111.3479232788086</score>
+</geoname>
+<geoname>
+<toponymName>Cadney</toponymName>
+<name>Cadney</name>
+<lat>53.51801</lat>
+<lng>-0.46809</lng>
+<geonameId>2654106</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD014</adminCode3>
+<adminName3>Cadney</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cadney</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.48322</west>
+<north>53.527</north>
+<east>-0.45296</east>
+<south>53.50902</south>
+</bbox>
+<score>90.1320571899414</score>
+</geoname>
+</geonames>

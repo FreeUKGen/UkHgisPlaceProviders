@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>23</totalResultsCount>
+<geoname>
+<toponymName>Newton</toponymName>
+<name>Newton</name>
+<lat>51.98623</lat>
+<lng>-2.96407</lng>
+<geonameId>7291445</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA161</adminCode3>
+<adminName3>Newton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.98664</west>
+<north>52.00351</north>
+<east>-2.9415</east>
+<south>51.96895</south>
+</bbox>
+<score>78.26348114013672</score>
+</geoname>
+<geoname>
+<toponymName>Newton</toponymName>
+<name>Newton</name>
+<lat>52.18106</lat>
+<lng>-2.72982</lng>
+<geonameId>7294525</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA160</adminCode3>
+<adminName3>Newton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.74939</west>
+<north>52.18842</north>
+<east>-2.71024</east>
+<south>52.17371</south>
+</bbox>
+<score>78.26348114013672</score>
+</geoname>
+<geoname>
+<toponymName>Newton</toponymName>
+<name>Newton</name>
+<lat>51.48417</lat>
+<lng>-3.67806</lng>
+<geonameId>2641566</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Newton,Newton Nottage</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X3</adminCode2>
+<adminName2>County Borough of Bridgend</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newton%2C_Bridgend</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.6925</west>
+<north>51.49316</north>
+<east>-3.66361</east>
+<south>51.47517</south>
+</bbox>
+<score>66.5367431640625</score>
+</geoname>
+<geoname>
+<toponymName>Newton</toponymName>
+<name>Newton</name>
+<lat>52.43333</lat>
+<lng>-0.7</lng>
+<geonameId>2641565</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Newton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UE</adminCode3>
+<adminName3>Kettering District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newton%2C_Northamptonshire</alternateName>
+<alternateName lang="unlc">NTO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.71475</west>
+<north>52.44233</north>
+<east>-0.68525</east>
+<south>52.42434</south>
+</bbox>
+<score>64.69207763671875</score>
+</geoname>
+<geoname>
+<toponymName>Newton</toponymName>
+<name>Newton</name>
+<lat>52.91397</lat>
+<lng>-0.44529</lng>
+<geonameId>2641563</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newton%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.46021</west>
+<north>52.92297</north>
+<east>-0.43037</east>
+<south>52.90498</south>
+</bbox>
+<score>62.86377716064453</score>
+</geoname>
+<geoname>
+<toponymName>Newton</toponymName>
+<name>Newton</name>
+<lat>54.3141</lat>
+<lng>-0.74973</lng>
+<geonameId>7290972</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UF</adminCode3>
+<adminName3>Ryedale District</adminName3>
+<adminCode4>36UF076</adminCode4>
+<adminName4>Newton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.77448</west>
+<north>54.3442</north>
+<east>-0.72498</east>
+<south>54.28399</south>
+</bbox>
+<score>56.750450134277344</score>
+</geoname>
+<geoname>
+<toponymName>Newton</toponymName>
+<name>Newton</name>
+<lat>53.9458</lat>
+<lng>-2.46071</lng>
+<geonameId>7295948</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UL</adminCode3>
+<adminName3>Ribble Valley District</adminName3>
+<adminCode4>30UL029</adminCode4>
+<adminName4>Newton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.51547</west>
+<north>53.97708</north>
+<east>-2.40594</east>
+<south>53.91452</south>
+</bbox>
+<score>56.750450134277344</score>
+</geoname>
+<geoname>
+<toponymName>Newton</toponymName>
+<name>Newton</name>
+<lat>52.70434</lat>
+<lng>0.10665</lng>
+<geonameId>7298772</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UD</adminCode3>
+<adminName3>Fenland District</adminName3>
+<adminCode4>12UD008</adminCode4>
+<adminName4>Newton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.04701</west>
+<north>52.7247</north>
+<east>0.1663</east>
+<south>52.68399</south>
+</bbox>
+<score>56.750450134277344</score>
+</geoname>
+<geoname>
+<toponymName>Newton Regis</toponymName>
+<name>Newton Regis</name>
+<lat>52.66602</lat>
+<lng>-1.58778</lng>
+<geonameId>2641535</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Newton,Newton Regis</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UB</adminCode3>
+<adminName3>North Warwickshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newton_Regis</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.60261</west>
+<north>52.67502</north>
+<east>-1.57295</east>
+<south>52.65703</south>
+</bbox>
+<score>49.094749450683594</score>
+</geoname>
+<geoname>
+<toponymName>Newton</toponymName>
+<name>Newton</name>
+<lat>56.13333</lat>
+<lng>-5.15</lng>
+<geonameId>2641558</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T8</adminCode2>
+<adminName2>Argyll and Bute</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.16614</west>
+<north>56.14233</north>
+<east>-5.13386</east>
+<south>56.12434</south>
+</bbox>
+<score>45.004642486572266</score>
+</geoname>
+</geonames>

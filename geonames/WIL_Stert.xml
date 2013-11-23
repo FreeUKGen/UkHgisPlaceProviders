@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Stert</toponymName>
+<name>Stert</name>
+<lat>51.33131</lat>
+<lng>-1.94016</lng>
+<geonameId>7299368</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY211</adminCode3>
+<adminName3>Stert</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stert</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.97022</west>
+<north>51.34021</north>
+<east>-1.91011</east>
+<south>51.32241</south>
+</bbox>
+<score>77.79908752441406</score>
+</geoname>
+<geoname>
+<toponymName>Steart</toponymName>
+<name>Steart</name>
+<lat>51.20694</lat>
+<lng>-3.04472</lng>
+<geonameId>2636943</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Steart,Stert</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.05908</west>
+<north>51.21594</north>
+<east>-3.03036</east>
+<south>51.19795</south>
+</bbox>
+<score>48.04093933105469</score>
+</geoname>
+</geonames>

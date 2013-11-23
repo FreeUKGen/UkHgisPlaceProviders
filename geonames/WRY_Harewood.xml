@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Harewood</toponymName>
+<name>Harewood</name>
+<lat>51.95063</lat>
+<lng>-2.67984</lng>
+<geonameId>7293170</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA089</adminCode3>
+<adminName3>Harewood</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.69698</west>
+<north>51.96302</north>
+<east>-2.66271</east>
+<south>51.93824</south>
+</bbox>
+<score>86.76232147216797</score>
+</geoname>
+<geoname>
+<toponymName>Harewood</toponymName>
+<name>Harewood</name>
+<lat>53.88532</lat>
+<lng>-1.5135</lng>
+<geonameId>7295966</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H3</adminCode2>
+<adminName2>Leeds</adminName2>
+<adminCode3>00DA014</adminCode3>
+<adminName3>Harewood</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.56064</west>
+<north>53.91532</north>
+<east>-1.46635</east>
+<south>53.85532</south>
+</bbox>
+<score>86.76232147216797</score>
+</geoname>
+<geoname>
+<toponymName>Harewood</toponymName>
+<name>Harewood</name>
+<lat>53.90119</lat>
+<lng>-1.51196</lng>
+<geonameId>2647481</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H3</adminCode2>
+<adminName2>Leeds</adminName2>
+<adminCode3>00DA014</adminCode3>
+<adminName3>Harewood</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harewood</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.52723</west>
+<north>53.91018</north>
+<east>-1.49669</east>
+<south>53.8922</south>
+</bbox>
+<score>71.0765609741211</score>
+</geoname>
+<geoname>
+<toponymName>Harewood</toponymName>
+<name>Harewood</name>
+<lat>51.95</lat>
+<lng>-2.68333</lng>
+<geonameId>2647482</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>EST</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>estate(s)</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>15.65966510772705</score>
+</geoname>
+<geoname>
+<toponymName>Harewood</toponymName>
+<name>Harewood</name>
+<lat>57.21526</lat>
+<lng>-2.15658</lng>
+<geonameId>6269355</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>FRM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>farm</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T6</adminCode2>
+<adminName2>Aberdeenshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>15.65966510772705</score>
+</geoname>
+</geonames>

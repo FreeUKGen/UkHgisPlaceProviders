@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Monkton</toponymName>
+<name>Monkton</name>
+<lat>51.33823</lat>
+<lng>1.2818</lng>
+<geonameId>2642319</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>2636057</adminCode3>
+<adminName3>Thanet District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Monkton%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.2674</west>
+<north>51.34722</north>
+<east>1.29619</east>
+<south>51.32923</south>
+</bbox>
+<score>65.94232177734375</score>
+</geoname>
+<geoname>
+<toponymName>Monkton</toponymName>
+<name>Monkton</name>
+<lat>51.34203</lat>
+<lng>1.28781</lng>
+<geonameId>7295908</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>61.85025405883789</score>
+</geoname>
+<geoname>
+<toponymName>Monkton</toponymName>
+<name>Monkton</name>
+<lat>50.81542</lat>
+<lng>-3.15334</lng>
+<geonameId>7298186</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UB</adminCode3>
+<adminName3>East Devon District</adminName3>
+<adminCode4>18UB039</adminCode4>
+<adminName4>Monkton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.1719</west>
+<north>50.83341</north>
+<east>-3.13478</east>
+<south>50.79743</south>
+</bbox>
+<score>61.85025405883789</score>
+</geoname>
+<geoname>
+<toponymName>Winterborne Monkton</toponymName>
+<name>Winterborne Monkton</name>
+<lat>50.69204</lat>
+<lng>-2.45322</lng>
+<geonameId>2633800</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Monkton,Winterborne Monkton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Winterborne_Monkton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.46742</west>
+<north>50.70104</north>
+<east>-2.43902</east>
+<south>50.68305</south>
+</bbox>
+<score>52.08758544921875</score>
+</geoname>
+<geoname>
+<toponymName>Bishop Monkton</toponymName>
+<name>Bishop Monkton</name>
+<lat>54.09299</lat>
+<lng>-1.49572</lng>
+<geonameId>2655577</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bishop Monkton,Monkton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UD</adminCode3>
+<adminName3>Harrogate District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bishop_Monkton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.51106</west>
+<north>54.10198</north>
+<east>-1.48038</east>
+<south>54.08399</south>
+</bbox>
+<score>52.08758544921875</score>
+</geoname>
+<geoname>
+<toponymName>Monkton</toponymName>
+<name>Monkton</name>
+<lat>55.5</lat>
+<lng>-4.6</lng>
+<geonameId>2642318</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>668</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W4</adminCode2>
+<adminName2>South Ayrshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.60159</west>
+<north>55.5009</north>
+<east>-4.59841</east>
+<south>55.4991</south>
+</bbox>
+<score>49.178401947021484</score>
+</geoname>
+<geoname>
+<toponymName>Monkton</toponymName>
+<name>Monkton</name>
+<lat>50.81667</lat>
+<lng>-3.15</lng>
+<geonameId>2642320</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UB</adminCode3>
+<adminName3>East Devon District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.16424</west>
+<north>50.82566</north>
+<east>-3.13576</east>
+<south>50.80767</south>
+</bbox>
+<score>49.178401947021484</score>
+</geoname>
+</geonames>

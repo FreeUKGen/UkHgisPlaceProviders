@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Rougham</toponymName>
+<name>Rougham</name>
+<lat>52.75</lat>
+<lng>0.71667</lng>
+<geonameId>2639066</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Rougham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rougham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.70181</west>
+<north>52.75899</north>
+<east>0.73153</east>
+<south>52.74101</south>
+</bbox>
+<score>101.38998413085938</score>
+</geoname>
+<geoname>
+<toponymName>Rougham</toponymName>
+<name>Rougham</name>
+<lat>52.22422</lat>
+<lng>0.80166</lng>
+<geonameId>6693643</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UF</adminCode3>
+<adminName3>St. Edmundsbury District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.78697</west>
+<north>52.23322</north>
+<east>0.81634</east>
+<south>52.21523</south>
+</bbox>
+<score>61.186134338378906</score>
+</geoname>
+<geoname>
+<toponymName>Rougham</toponymName>
+<name>Rougham</name>
+<lat>52.75033</lat>
+<lng>0.70011</lng>
+<geonameId>7290849</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<adminCode4>33UB081</adminCode4>
+<adminName4>Rougham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rougham%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.66812</west>
+<north>52.77315</north>
+<east>0.73209</east>
+<south>52.7275</south>
+</bbox>
+<score>52.315704345703125</score>
+</geoname>
+<geoname>
+<toponymName>Rougham</toponymName>
+<name>Rougham</name>
+<lat>52.24642</lat>
+<lng>0.79742</lng>
+<geonameId>6286688</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UF</adminCode3>
+<adminName3>St. Edmundsbury District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>19.219688415527344</score>
+</geoname>
+</geonames>

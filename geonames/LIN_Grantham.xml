@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Grantham</toponymName>
+<name>Grantham</name>
+<lat>52.91149</lat>
+<lng>-0.64184</lng>
+<geonameId>2648208</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>35720</population>
+<alternateNames>Grantam,Grantham,Grantum,Granty,Grehntem,XGM,ge lan se mu,Грантъм,Гранты,Грэнтем,格兰瑟姆</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<alternateName lang="bg">Грантъм</alternateName>
+<alternateName lang="iata">XGM</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Grantham</alternateName>
+<alternateName lang="ru">Гранты</alternateName>
+<alternateName lang="sr">Grantam</alternateName>
+<alternateName lang="unlc">GTM</alternateName>
+<alternateName lang="zh">格兰瑟姆</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.68202</west>
+<north>52.93571</north>
+<east>-0.60166</east>
+<south>52.88727</south>
+</bbox>
+<score>92.24110412597656</score>
+</geoname>
+</geonames>

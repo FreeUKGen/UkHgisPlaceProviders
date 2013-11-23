@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Hannah cum Hagnaby</toponymName>
+<name>Hannah cum Hagnaby</name>
+<lat>53.29788</lat>
+<lng>0.23572</lng>
+<geonameId>7295486</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC070</adminCode4>
+<adminName4>Hannah cum Hagnaby</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hannah_cum_Hagnaby</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.21362</west>
+<north>53.30959</north>
+<east>0.25781</east>
+<south>53.28618</south>
+</bbox>
+<score>57.21613311767578</score>
+</geoname>
+</geonames>

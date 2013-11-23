@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Collaton St Mary</toponymName>
+<name>Collaton St Mary</name>
+<lat>50.42904</lat>
+<lng>-3.59862</lng>
+<geonameId>7290256</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O4</adminCode2>
+<adminName2>Torbay</adminName2>
+<adminCode3>18UG</adminCode3>
+<adminName3>GB.ENG.O4.18UG</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.61274</west>
+<north>50.43804</north>
+<east>-3.5845</east>
+<south>50.42005</south>
+</bbox>
+<score>53.7253303527832</score>
+</geoname>
+</geonames>

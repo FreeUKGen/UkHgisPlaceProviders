@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ellastone</toponymName>
+<name>Ellastone</name>
+<lat>52.98514</lat>
+<lng>-1.82659</lng>
+<geonameId>2650108</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ellastone</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UC</adminCode3>
+<adminName3>East Staffordshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ellastone</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.84153</west>
+<north>52.99413</north>
+<east>-1.81165</east>
+<south>52.97615</south>
+</bbox>
+<score>105.5211181640625</score>
+</geoname>
+<geoname>
+<toponymName>Ellastone</toponymName>
+<name>Ellastone</name>
+<lat>52.98739</lat>
+<lng>-1.82082</lng>
+<geonameId>7297238</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UC</adminCode3>
+<adminName3>East Staffordshire</adminName3>
+<adminCode4>41UC010</adminCode4>
+<adminName4>Ellastone</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.84833</west>
+<north>53.00081</north>
+<east>-1.79331</east>
+<south>52.97396</south>
+</bbox>
+<score>80.19264221191406</score>
+</geoname>
+</geonames>

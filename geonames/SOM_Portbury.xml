@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Portbury</toponymName>
+<name>Portbury</name>
+<lat>51.47251</lat>
+<lng>-2.73067</lng>
+<geonameId>7296945</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC026</adminCode3>
+<adminName3>Portbury</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.75834</west>
+<north>51.49402</north>
+<east>-2.70299</east>
+<south>51.45101</south>
+</bbox>
+<score>113.17670440673828</score>
+</geoname>
+<geoname>
+<toponymName>Portbury</toponymName>
+<name>Portbury</name>
+<lat>51.47413</lat>
+<lng>-2.72101</lng>
+<geonameId>2640075</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC026</adminCode3>
+<adminName3>Portbury</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Portbury</alternateName>
+<alternateName lang="unlc">PRU</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.73545</west>
+<north>51.48312</north>
+<east>-2.70657</east>
+<south>51.46513</south>
+</bbox>
+<score>91.51898193359375</score>
+</geoname>
+</geonames>

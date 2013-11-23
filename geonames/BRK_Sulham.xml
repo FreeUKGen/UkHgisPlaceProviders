@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Sulham</toponymName>
+<name>Sulham</name>
+<lat>51.45962</lat>
+<lng>-1.07119</lng>
+<geonameId>7294189</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P4</adminCode2>
+<adminName2>West Berkshire</adminName2>
+<adminCode3>00MB047</adminCode3>
+<adminName3>Sulham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sulham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.07977</west>
+<north>51.47854</north>
+<east>-1.06261</east>
+<south>51.44069</south>
+</bbox>
+<score>77.82064819335938</score>
+</geoname>
+</geonames>

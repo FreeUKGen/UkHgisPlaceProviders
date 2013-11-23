@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Coity</toponymName>
+<name>Coity</name>
+<lat>51.522</lat>
+<lng>-3.55531</lng>
+<geonameId>2652622</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>41352</population>
+<alternateNames>Coity,Coyty</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X3</adminCode2>
+<adminName2>County Borough of Bridgend</adminName2>
+<adminCode3>00PB004</adminCode3>
+<adminName3>Coity Higher</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Coity</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.59748</west>
+<north>51.54822</north>
+<east>-3.51315</east>
+<south>51.49578</south>
+</bbox>
+<score>142.69105529785156</score>
+</geoname>
+</geonames>

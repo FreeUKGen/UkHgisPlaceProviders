@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Staple Fitzpaine</toponymName>
+<name>Staple Fitzpaine</name>
+<lat>50.95961</lat>
+<lng>-3.04942</lng>
+<geonameId>2637026</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Staple_Fitzpaine</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.0637</west>
+<north>50.96861</north>
+<east>-3.03514</east>
+<south>50.95062</south>
+</bbox>
+<score>86.9730453491211</score>
+</geoname>
+<geoname>
+<toponymName>Staple Fitzpaine</toponymName>
+<name>Staple Fitzpaine</name>
+<lat>50.95308</lat>
+<lng>-3.06196</lng>
+<geonameId>7297225</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<adminCode4>40UE035</adminCode4>
+<adminName4>Staple Fitzpaine</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.0912</west>
+<north>50.97357</north>
+<east>-3.03273</east>
+<south>50.9326</south>
+</bbox>
+<score>77.40031433105469</score>
+</geoname>
+</geonames>

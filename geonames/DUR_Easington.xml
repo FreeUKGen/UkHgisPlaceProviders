@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Easington</toponymName>
+<name>Easington</name>
+<lat>53.62927</lat>
+<lng>0.1107</lng>
+<geonameId>7295052</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB039</adminCode3>
+<adminName3>Easington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.07157</west>
+<north>53.68779</north>
+<east>0.14983</east>
+<south>53.57075</south>
+</bbox>
+<score>100.10226440429688</score>
+</geoname>
+<geoname>
+<toponymName>Easington</toponymName>
+<name>Easington</name>
+<lat>55.60283</lat>
+<lng>-1.79313</lng>
+<geonameId>7300681</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM048</adminCode3>
+<adminName3>Easington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.84101</west>
+<north>55.62096</north>
+<east>-1.74526</east>
+<south>55.58471</south>
+</bbox>
+<score>100.10226440429688</score>
+</geoname>
+<geoname>
+<toponymName>Easington</toponymName>
+<name>Easington</name>
+<lat>54.78528</lat>
+<lng>-1.35917</lng>
+<geonameId>2650518</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Easington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Easington%2C_County_Durham</alternateName>
+<alternateName lang="unlc">ESG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.37477</west>
+<north>54.79427</north>
+<east>-1.34357</east>
+<south>54.77628</south>
+</bbox>
+<score>78.59188842773438</score>
+</geoname>
+<geoname>
+<toponymName>Easington</toponymName>
+<name>Easington</name>
+<lat>53.65359</lat>
+<lng>0.11501</lng>
+<geonameId>2650519</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>7636</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB039</adminCode3>
+<adminName3>Easington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Easington%2C_East_Riding_of_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.09642</west>
+<north>53.66461</north>
+<east>0.1336</east>
+<south>53.64258</south>
+</bbox>
+<score>75.93446350097656</score>
+</geoname>
+<geoname>
+<toponymName>Easington</toponymName>
+<name>Easington</name>
+<lat>54.55345</lat>
+<lng>-0.85058</lng>
+<geonameId>6640029</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>120</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Easington%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.85213</west>
+<north>54.55435</north>
+<east>-0.84903</east>
+<south>54.55255</south>
+</bbox>
+<score>75.93446350097656</score>
+</geoname>
+<geoname>
+<toponymName>Easington</toponymName>
+<name>Easington</name>
+<lat>54.01109</lat>
+<lng>-2.4271</lng>
+<geonameId>7295377</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UL</adminCode3>
+<adminName3>Ribble Valley District</adminName3>
+<adminCode4>30UL016</adminCode4>
+<adminName4>Easington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Easington%2C_Lancashire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.49107</west>
+<north>54.04908</north>
+<east>-2.36313</east>
+<south>53.9731</south>
+</bbox>
+<score>49.5650749206543</score>
+</geoname>
+</geonames>

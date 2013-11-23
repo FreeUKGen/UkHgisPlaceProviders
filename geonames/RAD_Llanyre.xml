@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanyre</toponymName>
+<name>Llanyre</name>
+<lat>52.23882</lat>
+<lng>-3.42203</lng>
+<geonameId>7292197</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN078</adminCode3>
+<adminName3>Llanyre</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.47275</west>
+<north>52.28082</north>
+<east>-3.37131</east>
+<south>52.19681</south>
+</bbox>
+<score>112.88270568847656</score>
+</geoname>
+<geoname>
+<toponymName>Llanyre</toponymName>
+<name>Llanyre</name>
+<lat>52.25396</lat>
+<lng>-3.40177</lng>
+<geonameId>2643894</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN078</adminCode3>
+<adminName3>Llanyre</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanyre</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.41646</west>
+<north>52.26295</north>
+<east>-3.38707</east>
+<south>52.24497</south>
+</bbox>
+<score>91.16739654541016</score>
+</geoname>
+</geonames>

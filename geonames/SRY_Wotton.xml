@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Wotton</toponymName>
+<name>Wotton</name>
+<lat>51.21774</lat>
+<lng>-0.38795</lng>
+<geonameId>2633512</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UE</adminCode3>
+<adminName3>Mole Valley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wotton%2C_Surrey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.40232</west>
+<north>51.22674</north>
+<east>-0.37359</east>
+<south>51.20875</south>
+</bbox>
+<score>79.13433074951172</score>
+</geoname>
+<geoname>
+<toponymName>Wotton</toponymName>
+<name>Wotton</name>
+<lat>51.20466</lat>
+<lng>-0.37333</lng>
+<geonameId>7292631</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UE</adminCode3>
+<adminName3>Mole Valley</adminName3>
+<adminCode4>43UE013</adminCode4>
+<adminName4>Wotton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.41096</west>
+<north>51.25701</north>
+<east>-0.33569</east>
+<south>51.15232</south>
+</bbox>
+<score>75.1009292602539</score>
+</geoname>
+<geoname>
+<toponymName>Wotton Underwood</toponymName>
+<name>Wotton Underwood</name>
+<lat>51.83822</lat>
+<lng>-1.00293</lng>
+<geonameId>2633510</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Wotton,Wotton Underwood</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B9</adminCode2>
+<adminName2>Buckinghamshire</adminName2>
+<adminCode3>11UB</adminCode3>
+<adminName3>Aylesbury Vale</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.01749</west>
+<north>51.84721</north>
+<east>-0.98837</east>
+<south>51.82922</south>
+</bbox>
+<score>49.23760223388672</score>
+</geoname>
+</geonames>

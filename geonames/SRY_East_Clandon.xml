@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>East Clandon</toponymName>
+<name>East Clandon</name>
+<lat>51.25355</lat>
+<lng>-0.48321</lng>
+<geonameId>2650481</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UD</adminCode3>
+<adminName3>Guildford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/East_Clandon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.49758</west>
+<north>51.26254</north>
+<east>-0.46883</east>
+<south>51.24456</south>
+</bbox>
+<score>74.8437271118164</score>
+</geoname>
+<geoname>
+<toponymName>East Clandon</toponymName>
+<name>East Clandon</name>
+<lat>51.25699</lat>
+<lng>-0.48098</lng>
+<geonameId>7292626</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UD</adminCode3>
+<adminName3>Guildford District</adminName3>
+<adminCode4>43UD005</adminCode4>
+<adminName4>East Clandon</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.49901</west>
+<north>51.2742</north>
+<east>-0.46295</east>
+<south>51.23978</south>
+</bbox>
+<score>65.28941345214844</score>
+</geoname>
+</geonames>

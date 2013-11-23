@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanstadwell</toponymName>
+<name>Llanstadwell</name>
+<lat>51.71933</lat>
+<lng>-4.97561</lng>
+<geonameId>7301632</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS036</adminCode3>
+<adminName3>Llanstadwell</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.00296</west>
+<north>51.73962</north>
+<east>-4.94826</east>
+<south>51.69904</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Llanstadwell</toponymName>
+<name>Llanstadwell</name>
+<lat>51.70589</lat>
+<lng>-4.9632</lng>
+<geonameId>2643943</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanstadwell</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS036</adminCode3>
+<adminName3>Llanstadwell</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanstadwell</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.97772</west>
+<north>51.71488</north>
+<east>-4.94869</east>
+<south>51.69689</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+</geonames>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Finningley</toponymName>
+<name>Finningley</name>
+<lat>53.49009</lat>
+<lng>-0.9778</lng>
+<geonameId>7291238</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D5</adminCode2>
+<adminName2>Doncaster</adminName2>
+<adminCode3>00CE021</adminCode3>
+<adminName3>Finningley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.02002</west>
+<north>53.50856</north>
+<east>-0.93558</east>
+<south>53.47161</south>
+</bbox>
+<score>113.17670440673828</score>
+</geoname>
+<geoname>
+<toponymName>Finningley</toponymName>
+<name>Finningley</name>
+<lat>53.48696</lat>
+<lng>-0.99083</lng>
+<geonameId>2649403</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4138</population>
+<alternateNames>Finningley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D5</adminCode2>
+<adminName2>Doncaster</adminName2>
+<adminCode3>00CE009</adminCode3>
+<adminName3>Blaxton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Finningley</alternateName>
+<alternateName lang="unlc">FNL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.00392</west>
+<north>53.49475</north>
+<east>-0.97773</east>
+<south>53.47917</south>
+</bbox>
+<score>108.94773864746094</score>
+</geoname>
+</geonames>

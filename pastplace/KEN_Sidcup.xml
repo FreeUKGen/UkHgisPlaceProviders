@@ -1,0 +1,92 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1191</id>
+<name>SIDCUP</name>
+<container>KENT</container>
+<lat>51.4258584046433</lat>
+<lon>0.101699788437614</lon>
+<gazetteerText>SIDCUP, a village and a chapelry in Chislehurst parish, Kent. The village stands adjacent to the Lee and Dartford loop-line of the North Kent railway, 2&#190; miles SE of Eltham; is a seat of petty sessions; and has a station on the railway, and a R. police station. The chapelry was constituted in 1844; and its Post town is Foots-Cray, under London SE. Rated property, &#163;1,743. Pop., 976. Houses, 187. S. Lodge, S. House, and Pound Place, are chief residences. The living is a p. curacy in the diocese of Canterbury. Value, &#163;200.* Patron, the Bishop of Worcester. The church was built in 1844. There are a Baptist chapel, a national school, and handsome endowed residences for six unmarried ladies. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Sidcup</link>
+<link>http://www.geonames.org/2637861</link>
+</links>
+<unit>
+   <id>10025783</id>
+   <status>UD</status>
+   <name>SIDCUP</name>
+</unit>
+<unit>
+   <id>10225735</id>
+   <status>EP</status>
+   <name>SIDCUP CHRIST CHURCH LONGLANDS</name>
+</unit>
+<unit>
+   <id>10225759</id>
+   <status>EP</status>
+   <name>SIDCUP ST ANDREW</name>
+</unit>
+<unit>
+   <id>10225760</id>
+   <status>EP</status>
+   <name>SIDCUP ST JOHN</name>
+</unit>
+<unit>
+   <id>10579843</id>
+   <status></status>
+   <name>SIDCUP</name>
+</unit>
+<unit>
+   <id>12736733</id>
+   <status>BCon</status>
+   <name>OLD BEXLEY AND SIDCUP</name>
+</unit>
+<unit>
+   <id>12753299</id>
+   <status>BCon</status>
+   <name>BEXLEY SIDCUP</name>
+</unit>
+<unit>
+   <id>12833155</id>
+   <status></status>
+   <name>SIDCUP</name>
+</unit>
+<nearByPlace>
+   <id>339</id>
+   <name>FOOTS CRAY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2062</id>
+   <name>NORTH CRAY</name>
+</nearByPlace>
+</place>
+<place>
+<id>339</id>
+<name>FOOTS CRAY</name>
+<container>KENT</container>
+<lat>51.4183585595488</lat>
+<lon>0.118616998678934</lon>
+<gazetteerText>CRAY (Foots), a village and a parish in Bromley district, Kent. The village stands on the rivulet Cray, 2&#188; miles N of St. Mary Cray r. station, and 5&#189; ENE of Bromley; and has a post office under London, S. E. The parish comprises 798 acres. Real property, &#163;3, 608. Pop., 286. Houses, 57. The property is divided among a few. The manor belonged, at the Conquest, to Godwin Fot or Foot, and in the time of Edward III., to Sir Simon de Vaughan. Foots-Cray Place is an edifice of 1752, after the model of Palladio&apos;s villa. Ursula Lodge, 1 mile NW of the village, is a recent building, founded by H. Berens, Esq., for six maiden ladies. There are several paper mills. The living is a rectory in the diocese of Canterbury. Value, &#163;251.* Patron, the Lord Chancellor. The church is partly transition Norman, partly rude early decorated English; and has effigies of Sir Simon de Vaughan and his lady. A school has &#163;10 from endowment. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.nwkfhs.org.uk/CRYF_plc.htm</link>
+<link>http://en.wikipedia.org/wiki/Foots_cray</link>
+<link>http://www.nwkfhs.org.uk/SIDC_plc.htm</link>
+<link>http://www.geonames.org/2649244</link>
+</links>
+<unit>
+   <id>10040413</id>
+   <status>EP</status>
+   <name>FOOTS CRAY</name>
+</unit>
+<unit>
+   <id>10054977</id>
+   <status>UD</status>
+   <name>FOOTS CRAY</name>
+</unit>
+<unit>
+   <id>10193382</id>
+   <status>CP/AP</status>
+   <name>SIDCUP</name>
+</unit>
+</place>
+</results>

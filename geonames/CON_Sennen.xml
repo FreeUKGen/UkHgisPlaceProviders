@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Sennen</toponymName>
+<name>Sennen</name>
+<lat>50.07141</lat>
+<lng>-5.70314</lng>
+<geonameId>7300031</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE123</adminCode3>
+<adminName3>Sennen</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.74711</west>
+<north>50.08904</north>
+<east>-5.65917</east>
+<south>50.05379</south>
+</bbox>
+<score>103.81700134277344</score>
+</geoname>
+<geoname>
+<toponymName>Sennen</toponymName>
+<name>Sennen</name>
+<lat>50.07777</lat>
+<lng>-5.70117</lng>
+<geonameId>2638204</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Sennan,Sennen</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE123</adminCode3>
+<adminName3>Sennen</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sennen</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.72921</west>
+<north>50.09576</north>
+<east>-5.67314</east>
+<south>50.05978</south>
+</bbox>
+<score>73.8659896850586</score>
+</geoname>
+</geonames>

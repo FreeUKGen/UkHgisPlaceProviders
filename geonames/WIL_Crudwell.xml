@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Crudwell</toponymName>
+<name>Crudwell</name>
+<lat>51.63551</lat>
+<lng>-2.06483</lng>
+<geonameId>7297646</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY077</adminCode3>
+<adminName3>Crudwell</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.1081</west>
+<north>51.67244</north>
+<east>-2.00541</east>
+<south>51.61718</south>
+</bbox>
+<score>111.34626007080078</score>
+</geoname>
+<geoname>
+<toponymName>Crudwell</toponymName>
+<name>Crudwell</name>
+<lat>51.63318</lat>
+<lng>-2.06959</lng>
+<geonameId>2651810</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY077</adminCode3>
+<adminName3>Crudwell</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Crudwell</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.08409</west>
+<north>51.64217</north>
+<east>-2.0551</east>
+<south>51.62419</south>
+</bbox>
+<score>89.92652130126953</score>
+</geoname>
+</geonames>

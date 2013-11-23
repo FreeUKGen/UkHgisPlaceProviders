@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Hints</toponymName>
+<name>Hints</name>
+<lat>52.61537</lat>
+<lng>-1.77397</lng>
+<geonameId>7297244</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UD</adminCode3>
+<adminName3>Lichfield District</adminName3>
+<adminCode4>41UD016</adminCode4>
+<adminName4>Hints</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hints</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.79745</west>
+<north>52.64289</north>
+<east>-1.75049</east>
+<south>52.58784</south>
+</bbox>
+<score>61.74647521972656</score>
+</geoname>
+</geonames>

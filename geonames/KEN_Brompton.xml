@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Brompton</toponymName>
+<name>Brompton</name>
+<lat>54.35</lat>
+<lng>-1.41667</lng>
+<geonameId>2654583</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Brompton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brompton%2C_Hambleton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.4321</west>
+<north>54.35899</north>
+<east>-1.40123</east>
+<south>54.34101</south>
+</bbox>
+<score>83.34798431396484</score>
+</geoname>
+<geoname>
+<toponymName>Brompton</toponymName>
+<name>Brompton</name>
+<lat>54.21667</lat>
+<lng>-0.55</lng>
+<geonameId>2654584</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Brompton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UG</adminCode3>
+<adminName3>Scarborough District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brompton%2C_Scarborough</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.56538</west>
+<north>54.22566</north>
+<east>-0.53462</east>
+<south>54.20767</south>
+</bbox>
+<score>83.34798431396484</score>
+</geoname>
+<geoname>
+<toponymName>Brompton</toponymName>
+<name>Brompton</name>
+<lat>51.4</lat>
+<lng>0.53333</lng>
+<geonameId>2654585</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brompton%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.51891</west>
+<north>51.40899</north>
+<east>0.54775</east>
+<south>51.39101</south>
+</bbox>
+<score>69.84697723388672</score>
+</geoname>
+<geoname>
+<toponymName>Brompton</toponymName>
+<name>Brompton</name>
+<lat>54.37164</lat>
+<lng>-1.42092</lng>
+<geonameId>7291501</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<adminCode4>36UC020</adminCode4>
+<adminName4>Brompton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.44925</west>
+<north>54.39795</north>
+<east>-1.3926</east>
+<south>54.34532</south>
+</bbox>
+<score>65.4705810546875</score>
+</geoname>
+<geoname>
+<toponymName>Brompton</toponymName>
+<name>Brompton</name>
+<lat>54.24484</lat>
+<lng>-0.56651</lng>
+<geonameId>7300821</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UG</adminCode3>
+<adminName3>Scarborough District</adminName3>
+<adminCode4>36UG004</adminCode4>
+<adminName4>Brompton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.59629</west>
+<north>54.29713</north>
+<east>-0.53673</east>
+<south>54.19255</south>
+</bbox>
+<score>65.4705810546875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>North Berwick</toponymName>
+<name>North Berwick</name>
+<lat>56.05825</lat>
+<lng>-2.7229</lng>
+<geonameId>2641419</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6439</population>
+<alternateNames>Bearaig a Tuath,Bearaig-a-Tuath,Nort-Bervik,North Berwick,Норт-Бервик,Норт-Бервік</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U6</adminCode2>
+<adminName2>East Lothian</adminName2>
+<alternateName lang="ga">Bearaig-a-Tuath</alternateName>
+<alternateName lang="gd">Bearaig a Tuath</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/North_Berwick</alternateName>
+<alternateName lang="ru">Норт-Бервик</alternateName>
+<alternateName lang="uk">Норт-Бервік</alternateName>
+<alternateName lang="unlc">NBW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.74091</west>
+<north>56.0683</north>
+<east>-2.70488</east>
+<south>56.04819</south>
+</bbox>
+<score>69.49725341796875</score>
+</geoname>
+</geonames>

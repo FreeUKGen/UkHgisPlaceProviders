@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llaneilian</toponymName>
+<name>Llaneilian</name>
+<lat>53.39031</lat>
+<lng>-4.29375</lng>
+<geonameId>7294076</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA015</adminCode3>
+<adminName3>Llaneilian</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llaneilian</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.33469</west>
+<north>53.4176</north>
+<east>-4.2528</east>
+<south>53.36303</south>
+</bbox>
+<score>77.30513000488281</score>
+</geoname>
+</geonames>

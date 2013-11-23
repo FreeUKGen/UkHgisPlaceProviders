@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Humbie</toponymName>
+<name>Humbie</name>
+<lat>55.85472</lat>
+<lng>-2.86543</lng>
+<geonameId>2646433</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Humbie</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U6</adminCode2>
+<adminName2>East Lothian</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Humbie</alternateName>
+<alternateName lang="unlc">HRE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.88146</west>
+<north>55.86371</north>
+<east>-2.84941</east>
+<south>55.84572</south>
+</bbox>
+<score>94.08221435546875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Colby</toponymName>
+<name>Colby</name>
+<lat>54.57564</lat>
+<lng>-2.51553</lng>
+<geonameId>2652619</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>120</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UF</adminCode3>
+<adminName3>Eden District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colby%2C_Cumbria</alternateName>
+<alternateName lang="post">CA16</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.51708</west>
+<north>54.57654</north>
+<east>-2.51397</east>
+<south>54.57474</south>
+</bbox>
+<score>75.37440490722656</score>
+</geoname>
+<geoname>
+<toponymName>Colby</toponymName>
+<name>Colby</name>
+<lat>54.57507</lat>
+<lng>-2.52875</lng>
+<geonameId>7293195</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UF</adminCode3>
+<adminName3>Eden District</adminName3>
+<adminCode4>16UF016</adminCode4>
+<adminName4>Colby</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.54817</west>
+<north>54.59028</north>
+<east>-2.50934</east>
+<south>54.55986</south>
+</bbox>
+<score>69.52708435058594</score>
+</geoname>
+<geoname>
+<toponymName>Colby</toponymName>
+<name>Colby</name>
+<lat>54.09665</lat>
+<lng>-4.70592</lng>
+<geonameId>3042251</geonameId>
+<countryCode>IM</countryCode>
+<countryName>Isle of Man</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Isle_of_Man</timezone>
+<bbox>
+<west>-4.72126</west>
+<north>54.10564</north>
+<east>-4.69059</east>
+<south>54.08766</south>
+</bbox>
+<score>53.33592224121094</score>
+</geoname>
+<geoname>
+<toponymName>Colby</toponymName>
+<name>Colby</name>
+<lat>52.82716</lat>
+<lng>1.29515</lng>
+<geonameId>7298992</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF020</adminCode4>
+<adminName4>Colby</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colby%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.27387</west>
+<north>52.84969</north>
+<east>1.31642</east>
+<south>52.80463</south>
+</bbox>
+<score>49.387611389160156</score>
+</geoname>
+</geonames>

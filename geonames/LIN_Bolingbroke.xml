@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bolingbroke</toponymName>
+<name>Bolingbroke</name>
+<lat>53.16752</lat>
+<lng>0.00963</lng>
+<geonameId>7301565</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC017</adminCode4>
+<adminName4>Bolingbroke</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bolingbroke%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.01847</west>
+<north>53.18235</north>
+<east>0.03773</east>
+<south>53.15269</south>
+</bbox>
+<score>53.14649200439453</score>
+</geoname>
+<geoname>
+<toponymName>Old Bolingbroke</toponymName>
+<name>Old Bolingbroke</name>
+<lat>53.16648</lat>
+<lng>0.01725</lng>
+<geonameId>2641041</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bolingbroke,Old Bolingbroke</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.00225</west>
+<north>53.17548</north>
+<east>0.03226</east>
+<south>53.15749</south>
+</bbox>
+<score>51.03417205810547</score>
+</geoname>
+</geonames>

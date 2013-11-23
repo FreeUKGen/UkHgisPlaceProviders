@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Rhuddlan</toponymName>
+<name>Rhuddlan</name>
+<lat>53.29465</lat>
+<lng>-3.45861</lng>
+<geonameId>7294049</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG034</adminCode3>
+<adminName3>Rhuddlan</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.48643</west>
+<north>53.31374</north>
+<east>-3.43078</east>
+<south>53.27557</south>
+</bbox>
+<score>108.5744400024414</score>
+</geoname>
+<geoname>
+<toponymName>Rhuddlan</toponymName>
+<name>Rhuddlan</name>
+<lat>53.28333</lat>
+<lng>-3.46667</lng>
+<geonameId>2639425</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>3837</population>
+<alternateNames>Rhuddlan,Rhyddlan</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG034</adminCode3>
+<adminName3>Rhuddlan</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rhuddlan</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.4797</west>
+<north>53.29112</north>
+<east>-3.45364</east>
+<south>53.27554</south>
+</bbox>
+<score>99.77338409423828</score>
+</geoname>
+</geonames>

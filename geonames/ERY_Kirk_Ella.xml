@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kirk Ella</toponymName>
+<name>Kirk Ella</name>
+<lat>53.75046</lat>
+<lng>-0.45984</lng>
+<geonameId>7300470</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB170</adminCode3>
+<adminName3>Kirk Ella</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.48266</west>
+<north>53.76411</north>
+<east>-0.43703</east>
+<south>53.73681</south>
+</bbox>
+<score>89.44874572753906</score>
+</geoname>
+<geoname>
+<toponymName>Kirk Ella</toponymName>
+<name>Kirk Ella</name>
+<lat>53.75399</lat>
+<lng>-0.4549</lng>
+<geonameId>2645283</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB170</adminCode3>
+<adminName3>Kirk Ella</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirk_Ella</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.48534</west>
+<north>53.77198</north>
+<east>-0.42447</east>
+<south>53.736</south>
+</bbox>
+<score>67.15901184082031</score>
+</geoname>
+</geonames>

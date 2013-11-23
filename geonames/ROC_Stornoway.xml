@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Stornoway</toponymName>
+<name>Stornoway</name>
+<lat>58.20925</lat>
+<lng>-6.38649</lng>
+<geonameId>2636790</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>5423</population>
+<alternateNames>SYY,Steornabhagh,Steornavaie,Steòrnabhagh,Steórnabhagh,Stornouehj,Stornovej,Stornovejus,Stornovėjus,Stornoway,seutoneowei,Сторновей,Сторноуэй,스토너웨이</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W8</adminCode2>
+<adminName2>Western Isles</adminName2>
+<alternateName lang="br">Steòrnabhagh</alternateName>
+<alternateName lang="cy">Steòrnabhagh</alternateName>
+<alternateName lang="de">Stornoway</alternateName>
+<alternateName lang="en">Stornoway</alternateName>
+<alternateName lang="eu">Steòrnabhagh</alternateName>
+<alternateName lang="fr">Stornoway</alternateName>
+<alternateName lang="ga">Steórnabhagh</alternateName>
+<alternateName lang="gd">Steòrnabhagh</alternateName>
+<alternateName lang="gv">Steornavaie</alternateName>
+<alternateName lang="iata">SYY</alternateName>
+<alternateName lang="ko">스토너웨이</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stornoway</alternateName>
+<alternateName lang="lt">Stornovėjus</alternateName>
+<alternateName lang="nl">Steòrnabhagh</alternateName>
+<alternateName lang="os">Сторновей</alternateName>
+<alternateName lang="pl">Stornoway</alternateName>
+<alternateName lang="ru">Сторноуэй</alternateName>
+<alternateName lang="sv">Stornoway</alternateName>
+<alternateName lang="uk">Сторновей</alternateName>
+<alternateName lang="unlc">STO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-6.40357</west>
+<north>58.21824</north>
+<east>-6.36941</east>
+<south>58.20025</south>
+</bbox>
+<score>84.35163879394531</score>
+</geoname>
+</geonames>

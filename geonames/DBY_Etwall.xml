@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Etwall</toponymName>
+<name>Etwall</name>
+<lat>52.88353</lat>
+<lng>-1.60023</lng>
+<geonameId>2649863</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2397</population>
+<alternateNames>Etwall</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UK</adminCode3>
+<adminName3>South Derbyshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Etwall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.60768</west>
+<north>52.88803</north>
+<east>-1.59277</east>
+<south>52.87903</south>
+</bbox>
+<score>119.25251770019531</score>
+</geoname>
+<geoname>
+<toponymName>Etwall</toponymName>
+<name>Etwall</name>
+<lat>52.88445</lat>
+<lng>-1.58977</lng>
+<geonameId>7294873</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UK</adminCode3>
+<adminName3>South Derbyshire District</adminName3>
+<adminCode4>17UK018</adminCode4>
+<adminName4>Etwall</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.61017</west>
+<north>52.90876</north>
+<east>-1.56937</east>
+<south>52.86013</south>
+</bbox>
+<score>82.3504638671875</score>
+</geoname>
+</geonames>

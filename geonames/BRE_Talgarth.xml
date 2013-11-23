@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Talgarth</toponymName>
+<name>Talgarth</name>
+<lat>51.97027</lat>
+<lng>-3.19888</lng>
+<geonameId>7292201</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN097</adminCode3>
+<adminName3>Talgarth</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.27519</west>
+<north>52.01395</north>
+<east>-3.12257</east>
+<south>51.9266</south>
+</bbox>
+<score>111.81939697265625</score>
+</geoname>
+<geoname>
+<toponymName>Talgarth</toponymName>
+<name>Talgarth</name>
+<lat>51.99588</lat>
+<lng>-3.23205</lng>
+<geonameId>2636307</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Talgarth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN097</adminCode3>
+<adminName3>Talgarth</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Talgarth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.24666</west>
+<north>52.00487</north>
+<east>-3.21744</east>
+<south>51.98688</south>
+</bbox>
+<score>106.42523193359375</score>
+</geoname>
+</geonames>

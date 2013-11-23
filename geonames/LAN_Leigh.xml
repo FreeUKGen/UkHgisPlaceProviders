@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>17</totalResultsCount>
+<geoname>
+<toponymName>Leigh</toponymName>
+<name>Leigh</name>
+<lat>51.63089</lat>
+<lng>-1.91791</lng>
+<geonameId>7299349</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY138</adminCode3>
+<adminName3>Leigh</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.94819</west>
+<north>51.65236</north>
+<east>-1.88762</east>
+<south>51.60942</south>
+</bbox>
+<score>95.08457946777344</score>
+</geoname>
+<geoname>
+<toponymName>Leigh</toponymName>
+<name>Leigh</name>
+<lat>52.18333</lat>
+<lng>-2.31667</lng>
+<geonameId>2644661</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Leigh</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UC</adminCode3>
+<adminName3>Malvern Hills District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Leigh%2C_Worcestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.33134</west>
+<north>52.19233</north>
+<east>-2.302</east>
+<south>52.17434</south>
+</bbox>
+<score>88.4065170288086</score>
+</geoname>
+<geoname>
+<toponymName>Leigh</toponymName>
+<name>Leigh</name>
+<lat>50.86667</lat>
+<lng>-2.55</lng>
+<geonameId>2644666</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Leigh</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Leigh%2C_Dorset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.56425</west>
+<north>50.87566</north>
+<east>-2.53575</east>
+<south>50.85767</south>
+</bbox>
+<score>88.4065170288086</score>
+</geoname>
+<geoname>
+<toponymName>Leigh</toponymName>
+<name>Leigh</name>
+<lat>53.48333</lat>
+<lng>-2.51667</lng>
+<geonameId>2644660</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>43626</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P7</adminCode2>
+<adminName2>Wigan</adminName2>
+<alternateName lang="unlc">LGH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.56204</west>
+<north>53.51031</north>
+<east>-2.4713</east>
+<south>53.45635</south>
+</bbox>
+<score>84.80464172363281</score>
+</geoname>
+<geoname>
+<toponymName>Leigh</toponymName>
+<name>Leigh</name>
+<lat>51.20801</lat>
+<lng>-0.24985</lng>
+<geonameId>2644664</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UE</adminCode3>
+<adminName3>Mole Valley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Leigh%2C_Surrey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.26421</west>
+<north>51.21701</north>
+<east>-0.23549</east>
+<south>51.19902</south>
+</bbox>
+<score>74.30538177490234</score>
+</geoname>
+<geoname>
+<toponymName>Leigh</toponymName>
+<name>Leigh</name>
+<lat>51.1968</lat>
+<lng>0.21531</lng>
+<geonameId>2644665</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UP</adminCode3>
+<adminName3>Tonbridge and Malling District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Leigh%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.20095</west>
+<north>51.20579</north>
+<east>0.22966</east>
+<south>51.18781</south>
+</bbox>
+<score>74.30538177490234</score>
+</geoname>
+<geoname>
+<toponymName>Leigh</toponymName>
+<name>Leigh</name>
+<lat>52.91226</lat>
+<lng>-1.97832</lng>
+<geonameId>7291751</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UC</adminCode3>
+<adminName3>East Staffordshire</adminName3>
+<adminCode4>41UC014</adminCode4>
+<adminName4>Leigh</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.04356</west>
+<north>52.94083</north>
+<east>-1.91307</east>
+<south>52.88369</south>
+</bbox>
+<score>68.74344635009766</score>
+</geoname>
+<geoname>
+<toponymName>Leigh</toponymName>
+<name>Leigh</name>
+<lat>51.20042</lat>
+<lng>-0.25248</lng>
+<geonameId>7292629</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UE</adminCode3>
+<adminName3>Mole Valley</adminName3>
+<adminCode4>43UE009</adminCode4>
+<adminName4>Leigh</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.29211</west>
+<north>51.22477</north>
+<east>-0.21285</east>
+<south>51.17607</south>
+</bbox>
+<score>68.74344635009766</score>
+</geoname>
+<geoname>
+<toponymName>Leigh</toponymName>
+<name>Leigh</name>
+<lat>51.93524</lat>
+<lng>-2.18622</lng>
+<geonameId>7293612</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<adminCode4>23UG023</adminCode4>
+<adminName4>Leigh</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.21863</west>
+<north>51.94764</north>
+<east>-2.15382</east>
+<south>51.92284</south>
+</bbox>
+<score>68.74344635009766</score>
+</geoname>
+<geoname>
+<toponymName>Leigh</toponymName>
+<name>Leigh</name>
+<lat>51.20258</lat>
+<lng>0.20929</lng>
+<geonameId>7295889</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>68.74344635009766</score>
+</geoname>
+</geonames>

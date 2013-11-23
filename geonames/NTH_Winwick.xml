@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Winwick</toponymName>
+<name>Winwick</name>
+<lat>53.43167</lat>
+<lng>-2.59142</lng>
+<geonameId>7297395</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P2</adminCode2>
+<adminName2>Warrington</adminName2>
+<adminCode3>00EU017</adminCode3>
+<adminName3>Winwick</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.62677</west>
+<north>53.45036</north>
+<east>-2.55607</east>
+<south>53.41298</south>
+</bbox>
+<score>110.44540405273438</score>
+</geoname>
+<geoname>
+<toponymName>Winwick</toponymName>
+<name>Winwick</name>
+<lat>52.41302</lat>
+<lng>-0.37774</lng>
+<geonameId>2633776</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Winwick%2C_Cambridgeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.39249</west>
+<north>52.42202</north>
+<east>-0.36299</east>
+<south>52.40403</south>
+</bbox>
+<score>82.91766357421875</score>
+</geoname>
+<geoname>
+<toponymName>Winwick</toponymName>
+<name>Winwick</name>
+<lat>52.41178</lat>
+<lng>-0.38064</lng>
+<geonameId>7298799</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<adminCode4>12UE080</adminCode4>
+<adminName4>Winwick</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.41257</west>
+<north>52.4243</north>
+<east>-0.34871</east>
+<south>52.39927</south>
+</bbox>
+<score>79.60041809082031</score>
+</geoname>
+<geoname>
+<toponymName>Winwick</toponymName>
+<name>Winwick</name>
+<lat>53.43333</lat>
+<lng>-2.6</lng>
+<geonameId>2633775</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Winwick</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P2</adminCode2>
+<adminName2>Warrington</adminName2>
+<adminCode3>00EU017</adminCode3>
+<adminName3>Winwick</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Winwick%2C_Cheshire</alternateName>
+<alternateName lang="unlc">WIW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.63021</west>
+<north>53.45132</north>
+<east>-2.56979</east>
+<south>53.41535</south>
+</bbox>
+<score>70.84837341308594</score>
+</geoname>
+<geoname>
+<toponymName>Winwick</toponymName>
+<name>Winwick</name>
+<lat>52.36201</lat>
+<lng>-1.08316</lng>
+<geonameId>7295722</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<adminCode4>34UC072</adminCode4>
+<adminName4>Winwick</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Winwick%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.11842</west>
+<north>52.37589</north>
+<east>-1.0479</east>
+<south>52.34814</south>
+</bbox>
+<score>54.06234359741211</score>
+</geoname>
+</geonames>

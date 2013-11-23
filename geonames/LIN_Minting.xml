@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Minting</toponymName>
+<name>Minting</name>
+<lat>53.25148</lat>
+<lng>-0.24359</lng>
+<geonameId>7301735</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC111</adminCode4>
+<adminName4>Minting</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Minting</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.28277</west>
+<north>53.26535</north>
+<east>-0.20442</east>
+<south>53.2376</south>
+</bbox>
+<score>50.53496170043945</score>
+</geoname>
+</geonames>

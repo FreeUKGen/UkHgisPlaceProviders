@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Islip</toponymName>
+<name>Islip</name>
+<lat>52.38333</lat>
+<lng>-0.53333</lng>
+<geonameId>2646001</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Islip</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Islip%2C_Northamptonshire</alternateName>
+<alternateName lang="unlc">ILI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.54807</west>
+<north>52.39233</north>
+<east>-0.5186</east>
+<south>52.37434</south>
+</bbox>
+<score>82.73535919189453</score>
+</geoname>
+<geoname>
+<toponymName>Islip</toponymName>
+<name>Islip</name>
+<lat>51.82368</lat>
+<lng>-1.23699</lng>
+<geonameId>2646002</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UB</adminCode3>
+<adminName3>Cherwell District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Islip%2C_Oxfordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.25155</west>
+<north>51.83268</north>
+<east>-1.22244</east>
+<south>51.81469</south>
+</bbox>
+<score>80.14878845214844</score>
+</geoname>
+<geoname>
+<toponymName>Islip</toponymName>
+<name>Islip</name>
+<lat>51.82367</lat>
+<lng>-1.23964</lng>
+<geonameId>7290969</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UB</adminCode3>
+<adminName3>Cherwell District</adminName3>
+<adminCode4>38UB039</adminCode4>
+<adminName4>Islip</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.26287</west>
+<north>51.84127</north>
+<east>-1.21641</east>
+<south>51.80606</south>
+</bbox>
+<score>74.43353271484375</score>
+</geoname>
+<geoname>
+<toponymName>Islip</toponymName>
+<name>Islip</name>
+<lat>52.40026</lat>
+<lng>-0.55695</lng>
+<geonameId>7295725</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<adminCode4>34UD026</adminCode4>
+<adminName4>Islip</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.58148</west>
+<north>52.41267</north>
+<east>-0.53243</east>
+<south>52.38784</south>
+</bbox>
+<score>74.43353271484375</score>
+</geoname>
+</geonames>

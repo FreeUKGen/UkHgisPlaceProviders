@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Boulston</toponymName>
+<name>Boulston</name>
+<lat>51.7794</lat>
+<lng>-4.93606</lng>
+<geonameId>2655105</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS076</adminCode3>
+<adminName3>Uzmaston and Boulston</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boulston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.9506</west>
+<north>51.7884</north>
+<east>-4.92152</east>
+<south>51.77041</south>
+</bbox>
+<score>88.20954895019531</score>
+</geoname>
+</geonames>

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>11</totalResultsCount>
+<geoname>
+<toponymName>Normanton</toponymName>
+<name>Normanton</name>
+<lat>53.70401</lat>
+<lng>-1.42855</lng>
+<geonameId>7292662</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O7</adminCode2>
+<adminName2>Wakefield</adminName2>
+<adminCode3>00DB014</adminCode3>
+<adminName3>Normanton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.47081</west>
+<north>53.72354</north>
+<east>-1.38629</east>
+<south>53.68447</south>
+</bbox>
+<score>94.38372802734375</score>
+</geoname>
+<geoname>
+<toponymName>Normanton</toponymName>
+<name>Normanton</name>
+<lat>53.00859</lat>
+<lng>-0.56769</lng>
+<geonameId>7298833</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<adminCode4>32UG058</adminCode4>
+<adminName4>Normanton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.60752</west>
+<north>53.0177</north>
+<east>-0.52786</east>
+<south>52.99948</south>
+</bbox>
+<score>68.11247253417969</score>
+</geoname>
+<geoname>
+<toponymName>Normanton</toponymName>
+<name>Normanton</name>
+<lat>53.7</lat>
+<lng>-1.41667</lng>
+<geonameId>2641443</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O7</adminCode2>
+<adminName2>Wakefield</adminName2>
+<adminCode3>00DB014</adminCode3>
+<adminName3>Normanton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Normanton%2C_West_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.44706</west>
+<north>53.71799</north>
+<east>-1.38627</east>
+<south>53.68201</south>
+</bbox>
+<score>60.89429473876953</score>
+</geoname>
+<geoname>
+<toponymName>Normanton</toponymName>
+<name>Normanton</name>
+<lat>52.6464</lat>
+<lng>-0.60355</lng>
+<geonameId>7292234</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L4</adminCode2>
+<adminName2>Rutland</adminName2>
+<adminCode3>00FP036</adminCode3>
+<adminName3>Normanton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Normanton%2C_Rutland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.63035</west>
+<north>52.65424</north>
+<east>-0.57674</east>
+<south>52.63857</south>
+</bbox>
+<score>60.89429473876953</score>
+</geoname>
+<geoname>
+<toponymName>Normanton</toponymName>
+<name>Normanton</name>
+<lat>52.88333</lat>
+<lng>-1.48333</lng>
+<geonameId>2641445</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.49824</west>
+<north>52.89233</north>
+<east>-1.46843</east>
+<south>52.87434</south>
+</bbox>
+<score>54.1654052734375</score>
+</geoname>
+<geoname>
+<toponymName>Normanton le Heath</toponymName>
+<name>Normanton le Heath</name>
+<lat>52.71056</lat>
+<lng>-1.44376</lng>
+<geonameId>2641442</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Normanton,Normanton le Heath</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UE</adminCode3>
+<adminName3>Hinckley and Bosworth District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Normanton_le_Heath</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.45861</west>
+<north>52.71955</north>
+<east>-1.42891</east>
+<south>52.70157</south>
+</bbox>
+<score>52.7530403137207</score>
+</geoname>
+<geoname>
+<toponymName>Normanton on Trent</toponymName>
+<name>Normanton on Trent</name>
+<lat>53.21259</lat>
+<lng>-0.81709</lng>
+<geonameId>2641440</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>299</population>
+<alternateNames>Normanton,Normanton on Trent,Normanton upon Trent</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Normanton_on_Trent</alternateName>
+<alternateName lang="unlc">NOR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.81859</west>
+<north>53.21349</north>
+<east>-0.81559</east>
+<south>53.21169</south>
+</bbox>
+<score>51.22281265258789</score>
+</geoname>
+<geoname>
+<toponymName>Normanton</toponymName>
+<name>Normanton</name>
+<lat>53.0058</lat>
+<lng>-0.58691</lng>
+<geonameId>2641444</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>204</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UG</adminCode3>
+<adminName3>South Kesteven District</adminName3>
+<alternateName lang="unlc">NMO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.5884</west>
+<north>53.0067</north>
+<east>-0.58542</east>
+<south>53.0049</south>
+</bbox>
+<score>41.841224670410156</score>
+</geoname>
+<geoname>
+<toponymName>Normanton upon Soar</toponymName>
+<name>Normanton upon Soar</name>
+<lat>52.80826</lat>
+<lng>-1.24249</lng>
+<geonameId>2641438</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Normanton,Normanton upon Soar</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.25737</west>
+<north>52.81726</north>
+<east>-1.2276</east>
+<south>52.79927</south>
+</bbox>
+<score>41.34962844848633</score>
+</geoname>
+<geoname>
+<toponymName>Normanton on the Wolds</toponymName>
+<name>Normanton on the Wolds</name>
+<lat>52.89016</lat>
+<lng>-1.07563</lng>
+<geonameId>2641441</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Normanton,Normanton on the Wolds</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.09054</west>
+<north>52.89915</north>
+<east>-1.06072</east>
+<south>52.88117</south>
+</bbox>
+<score>41.34962844848633</score>
+</geoname>
+</geonames>

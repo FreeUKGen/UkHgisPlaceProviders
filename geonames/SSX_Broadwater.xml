@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Broadwater</toponymName>
+<name>Broadwater</name>
+<lat>50.81667</lat>
+<lng>-0.36667</lng>
+<geonameId>2654630</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population>8442</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UH</adminCode3>
+<adminName3>Worthing District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Broadwater,_West_Sussex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.3855</west>
+<north>50.82856</north>
+<east>-0.34783</east>
+<south>50.80477</south>
+</bbox>
+<score>69.54025268554688</score>
+</geoname>
+<geoname>
+<toponymName>Broadwater</toponymName>
+<name>Broadwater</name>
+<lat>53.90483</lat>
+<lng>-3.03133</lng>
+<geonameId>7676545</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>MTRO</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>metro station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UQ</adminCode3>
+<adminName3>Wyre District</adminName3>
+<adminCode4>30UQ023</adminCode4>
+<adminName4>Fleetwood</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>15.155342102050781</score>
+</geoname>
+</geonames>

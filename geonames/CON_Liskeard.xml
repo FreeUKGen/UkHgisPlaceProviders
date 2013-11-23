@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Liskeard</toponymName>
+<name>Liskeard</name>
+<lat>50.45836</lat>
+<lng>-4.46605</lng>
+<geonameId>7294220</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE074</adminCode3>
+<adminName3>Liskeard</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.4936</west>
+<north>50.47803</north>
+<east>-4.4385</east>
+<south>50.43869</south>
+</bbox>
+<score>111.86306762695312</score>
+</geoname>
+<geoname>
+<toponymName>Liskeard</toponymName>
+<name>Liskeard</name>
+<lat>50.4545</lat>
+<lng>-4.46517</lng>
+<geonameId>2644409</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8667</population>
+<alternateNames>Liskeard,Lyskerrys</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE074</adminCode3>
+<adminName3>Liskeard</adminName3>
+<alternateName lang="br">Lyskerrys</alternateName>
+<alternateName lang="kw">Lyskerrys</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Liskeard</alternateName>
+<alternateName lang="unlc">LKD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.48386</west>
+<north>50.4664</north>
+<east>-4.44648</east>
+<south>50.44261</south>
+</bbox>
+<score>98.92295837402344</score>
+</geoname>
+</geonames>

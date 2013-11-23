@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Kilburn</toponymName>
+<name>Kilburn</name>
+<lat>53.0058</lat>
+<lng>-1.43869</lng>
+<geonameId>2645703</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4450</population>
+<alternateNames>Kilbourn,Kilbourne,Kilburn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UB</adminCode3>
+<adminName3>Amber Valley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kilburn%2C_Derbyshire</alternateName>
+<alternateName lang="unlc">KBN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.45164</west>
+<north>53.01359</north>
+<east>-1.42575</east>
+<south>52.99801</south>
+</bbox>
+<score>90.42613983154297</score>
+</geoname>
+<geoname>
+<toponymName>Kilburn</toponymName>
+<name>Kilburn</name>
+<lat>54.2</lat>
+<lng>-1.21667</lng>
+<geonameId>2645702</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kilburn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kilburn%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.23204</west>
+<north>54.20899</north>
+<east>-1.20129</east>
+<south>54.19101</south>
+</bbox>
+<score>89.46553039550781</score>
+</geoname>
+<geoname>
+<toponymName>Kilburn</toponymName>
+<name>Kilburn</name>
+<lat>53.01112</lat>
+<lng>-1.44117</lng>
+<geonameId>7294814</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UB</adminCode3>
+<adminName3>Amber Valley District</adminName3>
+<adminCode4>17UB019</adminCode4>
+<adminName4>Kilburn</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.46153</west>
+<north>53.02139</north>
+<east>-1.42081</east>
+<south>53.00085</south>
+</bbox>
+<score>69.95906066894531</score>
+</geoname>
+<geoname>
+<toponymName>Kilburn</toponymName>
+<name>Kilburn</name>
+<lat>51.55295</lat>
+<lng>-0.19157</lng>
+<geonameId>6690572</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Kilbjorn,kilabarna,klbrn, lndn,Килбёрн,کلبرن، لندن,किलबर्न</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>C4</adminCode3>
+<adminName3>Camden</adminName3>
+<alternateName lang="hi">किलबर्न</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kilburn%2C_London</alternateName>
+<alternateName lang="ru">Килбёрн</alternateName>
+<alternateName lang="ur">کلبرن، لندن</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.19736</west>
+<north>51.55655</north>
+<east>-0.18579</east>
+<south>51.54936</south>
+</bbox>
+<score>43.5124397277832</score>
+</geoname>
+</geonames>

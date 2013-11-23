@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kilvington</toponymName>
+<name>Kilvington</name>
+<lat>52.97742</lat>
+<lng>-0.81048</lng>
+<geonameId>2645543</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.82542</west>
+<north>52.98641</north>
+<east>-0.79554</east>
+<south>52.96843</south>
+</bbox>
+<score>57.03258514404297</score>
+</geoname>
+<geoname>
+<toponymName>Kilvington</toponymName>
+<name>Kilvington</name>
+<lat>52.97614</lat>
+<lng>-0.80991</lng>
+<geonameId>7299472</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG043</adminCode4>
+<adminName4>Kilvington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kilvington</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.82314</west>
+<north>52.9856</north>
+<east>-0.79668</east>
+<south>52.96667</south>
+</bbox>
+<score>52.62835693359375</score>
+</geoname>
+</geonames>

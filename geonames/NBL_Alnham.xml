@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Alnham</toponymName>
+<name>Alnham</name>
+<lat>55.41892</lat>
+<lng>-2.05326</lng>
+<geonameId>7296746</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM006</adminCode3>
+<adminName3>Alnham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.15983</west>
+<north>55.46925</north>
+<east>-1.94669</east>
+<south>55.3686</south>
+</bbox>
+<score>109.17082977294922</score>
+</geoname>
+<geoname>
+<toponymName>Alnham</toponymName>
+<name>Alnham</name>
+<lat>55.39197</lat>
+<lng>-2.00834</lng>
+<geonameId>2657442</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Alnham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM006</adminCode3>
+<adminName3>Alnham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alnham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.02418</west>
+<north>55.40096</north>
+<east>-1.9925</east>
+<south>55.38297</south>
+</bbox>
+<score>103.92257690429688</score>
+</geoname>
+</geonames>

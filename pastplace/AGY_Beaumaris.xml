@@ -1,0 +1,63 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>420</id>
+<name>BEAUMARIS</name>
+<container>ANGLESEY</container>
+<lat>53.2743518399496</lat>
+<lon>-4.1088639891704</lon>
+<gazetteerText>Beaumaris, mun. bor. and par., seaport town, and watering-place, Anglesey, on the Menai Strait, near its junction with the Irish Sea, 7 miles NE. of Bangor and 238 miles NW. of London -- par., 1220 ac., pop. 1907; bor., 3159 ac., pop. 2239; P.O., T.O., 1 Bank. There are ruins of a castle built by Edward I., and garrisoned (1643-1646) for Charles I. The harbour is very commodious. (For shipping statistics, see Appendix.) Beaumaris united with Amlwch, Holyhead, and Llangefni in sending 1 member to Parliament till 1885. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/wal/AGY/Beaumaris/index.html</link>
+<link>http://en.wikipedia.org/wiki/Beaumaris,_Anglesey</link>
+<link>http://www.geonames.org/2656073</link>
+</links>
+<unit>
+   <id>10064594</id>
+   <status>MB</status>
+   <name>BEAUMARIS</name>
+</unit>
+<unit>
+   <id>10213733</id>
+   <status>AP/CP</status>
+   <name>BEAUMARIS</name>
+</unit>
+<unit>
+   <id>10550968</id>
+   <status></status>
+   <name>BEAUMARIS</name>
+</unit>
+<unit>
+   <id>12735704</id>
+   <status>DistBCon</status>
+   <name>BEAUMARIS</name>
+</unit>
+<unit>
+   <id>12782755</id>
+   <status></status>
+   <name>BEAUMARIS</name>
+</unit>
+<unit>
+   <id>12796407</id>
+   <status>Borough</status>
+   <name>BEAUMARIS</name>
+</unit>
+<unit>
+   <id>12827052</id>
+   <status>USD</status>
+   <name>BEAUMARIS</name>
+</unit>
+<nearByPlace>
+   <id>1360</id>
+   <name>LLANIESTYN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4464</id>
+   <name>LLAN FAES</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4590</id>
+   <name>LLANDDONA</name>
+</nearByPlace>
+</place>
+</results>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Rothwell</toponymName>
+<name>Rothwell</name>
+<lat>52.41667</lat>
+<lng>-0.8</lng>
+<geonameId>2639074</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7266</population>
+<alternateNames>Rothwell,Rowell</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UE</adminCode3>
+<adminName3>Kettering District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rothwell%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.81806</west>
+<north>52.42768</north>
+<east>-0.78194</east>
+<south>52.40565</south>
+</bbox>
+<score>95.89886474609375</score>
+</geoname>
+<geoname>
+<toponymName>Rothwell</toponymName>
+<name>Rothwell</name>
+<lat>53.48333</lat>
+<lng>-0.26667</lng>
+<geonameId>2639073</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Rothwell</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rothwell%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.28178</west>
+<north>53.49233</north>
+<east>-0.25155</east>
+<south>53.47434</south>
+</bbox>
+<score>94.10847473144531</score>
+</geoname>
+<geoname>
+<toponymName>Rothwell</toponymName>
+<name>Rothwell</name>
+<lat>53.74849</lat>
+<lng>-1.47854</lng>
+<geonameId>2639072</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H3</adminCode2>
+<adminName2>Leeds</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rothwell%2C_West_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.49375</west>
+<north>53.75748</north>
+<east>-1.46333</east>
+<south>53.7395</south>
+</bbox>
+<score>78.81050109863281</score>
+</geoname>
+<geoname>
+<toponymName>Rothwell</toponymName>
+<name>Rothwell</name>
+<lat>52.42054</lat>
+<lng>-0.78872</lng>
+<geonameId>7295737</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UE</adminCode3>
+<adminName3>Kettering District</adminName3>
+<adminCode4>34UE017</adminCode4>
+<adminName4>Rothwell</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.84283</west>
+<north>52.43758</north>
+<east>-0.73461</east>
+<south>52.40351</south>
+</bbox>
+<score>73.86005401611328</score>
+</geoname>
+<geoname>
+<toponymName>Rothwell</toponymName>
+<name>Rothwell</name>
+<lat>53.47874</lat>
+<lng>-0.26619</lng>
+<geonameId>7301573</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<adminCode4>32UH083</adminCode4>
+<adminName4>Rothwell</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.30091</west>
+<north>53.49822</north>
+<east>-0.23146</east>
+<south>53.45927</south>
+</bbox>
+<score>73.86005401611328</score>
+</geoname>
+</geonames>

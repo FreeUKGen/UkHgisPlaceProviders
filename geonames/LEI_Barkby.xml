@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Barkby</toponymName>
+<name>Barkby</name>
+<lat>52.68188</lat>
+<lng>-1.04209</lng>
+<geonameId>7291465</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>Charnwood District</adminName3>
+<adminCode4>31UC002</adminCode4>
+<adminName4>Barkby</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barkby</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.0826</west>
+<north>52.69603</north>
+<east>-1.00157</east>
+<south>52.66774</south>
+</bbox>
+<score>57.135498046875</score>
+</geoname>
+</geonames>

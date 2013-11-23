@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanfairfechan</toponymName>
+<name>Llanfairfechan</name>
+<lat>53.24596</lat>
+<lng>-3.9711</lng>
+<geonameId>7293063</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<adminCode3>00NE019</adminCode3>
+<adminName3>Llanfairfechan</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.02943</west>
+<north>53.27307</north>
+<east>-3.91277</east>
+<south>53.21885</south>
+</bbox>
+<score>114.15132141113281</score>
+</geoname>
+<geoname>
+<toponymName>Llanfairfechan</toponymName>
+<name>Llanfairfechan</name>
+<lat>53.25779</lat>
+<lng>-3.97423</lng>
+<geonameId>2644081</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3694</population>
+<alternateNames>Llanfairfechan</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<adminCode3>00NE019</adminCode3>
+<adminName3>Llanfairfechan</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanfairfechan</alternateName>
+<alternateName lang="unlc">LFC</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.98725</west>
+<north>53.26558</north>
+<east>-3.96121</east>
+<south>53.25001</south>
+</bbox>
+<score>110.05520629882812</score>
+</geoname>
+</geonames>

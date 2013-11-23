@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llandeilo</toponymName>
+<name>Llandeilo</name>
+<lat>51.88605</lat>
+<lng>-3.99173</lng>
+<geonameId>7294061</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU026</adminCode3>
+<adminName3>Llandeilo</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.03378</west>
+<north>51.89598</north>
+<east>-3.98259</east>
+<south>51.87116</south>
+</bbox>
+<score>98.72749328613281</score>
+</geoname>
+<geoname>
+<toponymName>Llandeilo</toponymName>
+<name>Llandeilo</name>
+<lat>51.88459</lat>
+<lng>-3.99154</lng>
+<geonameId>2644135</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1750</population>
+<alternateNames>Llandeilo,Llandilo</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU026</adminCode3>
+<adminName3>Llandeilo</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llandeilo</alternateName>
+<alternateName lang="unlc">LLA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.99882</west>
+<north>51.88909</north>
+<east>-3.98425</east>
+<south>51.88009</south>
+</bbox>
+<score>95.77818298339844</score>
+</geoname>
+</geonames>

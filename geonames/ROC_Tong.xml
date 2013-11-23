@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Tong</toponymName>
+<name>Tong</name>
+<lat>53.77347</lat>
+<lng>-1.66426</lng>
+<geonameId>2635697</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B4</adminCode2>
+<adminName2>Bradford</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tong_%28ward%29</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.67948</west>
+<north>53.78247</north>
+<east>-1.64904</east>
+<south>53.76448</south>
+</bbox>
+<score>71.29434204101562</score>
+</geoname>
+<geoname>
+<toponymName>Tong</toponymName>
+<name>Tong</name>
+<lat>52.6699</lat>
+<lng>-2.28789</lng>
+<geonameId>7296202</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG178</adminCode3>
+<adminName3>Tong</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tong%2C_Shropshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.33215</west>
+<north>52.69539</north>
+<east>-2.24364</east>
+<south>52.64441</south>
+</bbox>
+<score>59.86918640136719</score>
+</geoname>
+<geoname>
+<toponymName>Aird Tong</toponymName>
+<name>Aird Tong</name>
+<lat>58.24739</lat>
+<lng>-6.34186</lng>
+<geonameId>2657604</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>487</population>
+<alternateNames>Aird Tong,Aird Tunga,Aird of Tong,Ard of Tongue,Tong</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>W8</adminCode2>
+<adminName2>Western Isles</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-6.34357</west>
+<north>58.24829</north>
+<east>-6.34015</east>
+<south>58.24649</south>
+</bbox>
+<score>48.264827728271484</score>
+</geoname>
+<geoname>
+<toponymName>Tong</toponymName>
+<name>Tong</name>
+<lat>52.66667</lat>
+<lng>-2.3</lng>
+<geonameId>2635698</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG178</adminCode3>
+<adminName3>Tong</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.32967</west>
+<north>52.68465</north>
+<east>-2.27033</east>
+<south>52.64868</south>
+</bbox>
+<score>30.91754913330078</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Alnwick</toponymName>
+<name>Alnwick</name>
+<lat>55.39449</lat>
+<lng>-1.72358</lng>
+<geonameId>7301990</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM008</adminCode3>
+<adminName3>Alnwick</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.78639</west>
+<north>55.424</north>
+<east>-1.66077</east>
+<south>55.36498</south>
+</bbox>
+<score>97.88128662109375</score>
+</geoname>
+<geoname>
+<toponymName>Alnwick</toponymName>
+<name>Alnwick</name>
+<lat>55.41318</lat>
+<lng>-1.70563</lng>
+<geonameId>2657438</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7940</population>
+<alternateNames>Almwick,Alnik,Alnwick,Алник</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM008</adminCode3>
+<adminName3>Alnwick</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alnwick</alternateName>
+<alternateName lang="ru">Алник</alternateName>
+<alternateName lang="unlc">ALW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.72504</west>
+<north>55.42419</north>
+<east>-1.68622</east>
+<south>55.40216</south>
+</bbox>
+<score>81.22315979003906</score>
+</geoname>
+</geonames>

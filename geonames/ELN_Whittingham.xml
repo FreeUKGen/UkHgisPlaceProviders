@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Whittingham</toponymName>
+<name>Whittingham</name>
+<lat>55.3917</lat>
+<lng>-1.90036</lng>
+<geonameId>7296771</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM158</adminCode3>
+<adminName3>Whittingham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.95593</west>
+<north>55.42176</north>
+<east>-1.84478</east>
+<south>55.36164</south>
+</bbox>
+<score>93.80715942382812</score>
+</geoname>
+<geoname>
+<toponymName>Whittingham</toponymName>
+<name>Whittingham</name>
+<lat>55.38333</lat>
+<lng>-1.88333</lng>
+<geonameId>2634018</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM158</adminCode3>
+<adminName3>Whittingham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Whittingham%2C_Northumberland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.91501</west>
+<north>55.40132</north>
+<east>-1.85166</east>
+<south>55.36535</south>
+</bbox>
+<score>60.20743179321289</score>
+</geoname>
+<geoname>
+<toponymName>Whittingehame</toponymName>
+<name>Whittingehame</name>
+<lat>55.95227</lat>
+<lng>-2.63268</lng>
+<geonameId>2634019</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Whittingehame,Whittingham,Whittinghame</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U6</adminCode2>
+<adminName2>East Lothian</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Whittingehame</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.64875</west>
+<north>55.96127</north>
+<east>-2.61661</east>
+<south>55.94328</south>
+</bbox>
+<score>56.63426971435547</score>
+</geoname>
+<geoname>
+<toponymName>Whittingham</toponymName>
+<name>Whittingham</name>
+<lat>53.82636</lat>
+<lng>-2.65619</lng>
+<geonameId>7293840</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UK</adminCode3>
+<adminName3>Preston District</adminName3>
+<adminCode4>30UK007</adminCode4>
+<adminName4>Whittingham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Whittingham%2C_Lancashire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.70448</west>
+<north>53.84553</north>
+<east>-2.6079</east>
+<south>53.80719</south>
+</bbox>
+<score>46.38243103027344</score>
+</geoname>
+</geonames>

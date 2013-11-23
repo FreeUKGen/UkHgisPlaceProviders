@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Reading</toponymName>
+<name>Reading</name>
+<lat>51.45625</lat>
+<lng>-0.97113</lng>
+<geonameId>2639577</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>244070</population>
+<alternateNames>Reading,Reding,XRE,Рединг</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K7</adminCode2>
+<adminName2>Reading</adminName2>
+<alternateName lang="bg">Рединг</alternateName>
+<alternateName lang="cs">Reading</alternateName>
+<alternateName lang="cy">Reading</alternateName>
+<alternateName lang="da">Reading</alternateName>
+<alternateName lang="de">Reading</alternateName>
+<alternateName lang="en">Reading</alternateName>
+<alternateName lang="eo">Reading</alternateName>
+<alternateName lang="es">Reading</alternateName>
+<alternateName lang="fi">Reading</alternateName>
+<alternateName lang="fr">Reading</alternateName>
+<alternateName lang="iata">XRE</alternateName>
+<alternateName lang="id">Reading</alternateName>
+<alternateName lang="it">Reading</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Reading%2C_Berkshire</alternateName>
+<alternateName lang="nl">Reading</alternateName>
+<alternateName lang="no">Reading</alternateName>
+<alternateName lang="pl">Reading</alternateName>
+<alternateName lang="pt">Reading</alternateName>
+<alternateName lang="ro">Reading</alternateName>
+<alternateName lang="ru">Рединг</alternateName>
+<alternateName lang="sv">Reading</alternateName>
+<alternateName lang="unlc">RDN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.0741</west>
+<north>51.52032</north>
+<east>-0.86816</east>
+<south>51.39218</south>
+</bbox>
+<score>197.372314453125</score>
+</geoname>
+<geoname>
+<toponymName>Borough of Reading</toponymName>
+<name>Borough of Reading</name>
+<lat>51.45</lat>
+<lng>-0.96667</lng>
+<geonameId>3333184</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>RDG,Reading</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K7</adminCode2>
+<adminName2>Reading</adminName2>
+<alternateName lang="abbr">RDG</alternateName>
+<alternateName lang="link">http://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B4%D0%B8%D0%BD%D0%B3_%28%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%29</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.05299</west>
+<north>51.49314</north>
+<east>-0.92849</east>
+<south>51.40978</south>
+</bbox>
+<score>60.73224639892578</score>
+</geoname>
+</geonames>

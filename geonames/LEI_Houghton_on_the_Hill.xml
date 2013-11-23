@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Houghton on the Hill</toponymName>
+<name>Houghton on the Hill</name>
+<lat>52.62663</lat>
+<lng>-0.99546</lng>
+<geonameId>2646524</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1582</population>
+<alternateNames>Houghton,Houghton on the Hill</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UD</adminCode3>
+<adminName3>Harborough District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.00287</west>
+<north>52.63113</north>
+<east>-0.98806</east>
+<south>52.62213</south>
+</bbox>
+<score>80.33900451660156</score>
+</geoname>
+<geoname>
+<toponymName>Houghton on the Hill</toponymName>
+<name>Houghton on the Hill</name>
+<lat>52.62178</lat>
+<lng>-0.99403</lng>
+<geonameId>7295422</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UD</adminCode3>
+<adminName3>Harborough District</adminName3>
+<adminCode4>31UD037</adminCode4>
+<adminName4>Houghton on the Hill</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Houghton_on_the_Hill</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.02844</west>
+<north>52.63586</north>
+<east>-0.95963</east>
+<south>52.6077</south>
+</bbox>
+<score>52.41835021972656</score>
+</geoname>
+</geonames>

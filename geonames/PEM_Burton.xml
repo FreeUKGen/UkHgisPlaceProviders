@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>14</totalResultsCount>
+<geoname>
+<toponymName>Burton</toponymName>
+<name>Burton</name>
+<lat>53.26667</lat>
+<lng>-0.56667</lng>
+<geonameId>2654216</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4106</population>
+<alternateNames>Burton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burton%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.57969</west>
+<north>53.27446</north>
+<east>-0.55364</east>
+<south>53.25888</south>
+</bbox>
+<score>76.26632690429688</score>
+</geoname>
+<geoname>
+<toponymName>Burton</toponymName>
+<name>Burton</name>
+<lat>51.7267</lat>
+<lng>-4.91895</lng>
+<geonameId>7292298</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS006</adminCode3>
+<adminName3>Burton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.95105</west>
+<north>51.74854</north>
+<east>-4.88685</east>
+<south>51.70486</south>
+</bbox>
+<score>71.7632064819336</score>
+</geoname>
+<geoname>
+<toponymName>Burton</toponymName>
+<name>Burton</name>
+<lat>53.25954</lat>
+<lng>-3.02549</lng>
+<geonameId>2654217</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burton%2C_Neston%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.04053</west>
+<north>53.26853</north>
+<east>-3.01045</east>
+<south>53.25055</south>
+</bbox>
+<score>57.252159118652344</score>
+</geoname>
+<geoname>
+<toponymName>Burton</toponymName>
+<name>Burton</name>
+<lat>50.75079</lat>
+<lng>-1.76502</lng>
+<geonameId>2654219</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UC</adminCode3>
+<adminName3>Christchurch District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burton%2C_Dorset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.77924</west>
+<north>50.75979</north>
+<east>-1.7508</east>
+<south>50.7418</south>
+</bbox>
+<score>57.252159118652344</score>
+</geoname>
+<geoname>
+<toponymName>Burton</toponymName>
+<name>Burton</name>
+<lat>51.71556</lat>
+<lng>-4.92222</lng>
+<geonameId>2654218</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Burton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS006</adminCode3>
+<adminName3>Burton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burton%2C_Pembrokeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.95127</west>
+<north>51.73354</north>
+<east>-4.89318</east>
+<south>51.69757</south>
+</bbox>
+<score>55.099300384521484</score>
+</geoname>
+<geoname>
+<toponymName>Burton</toponymName>
+<name>Burton</name>
+<lat>50.75991</lat>
+<lng>-1.76109</lng>
+<geonameId>7291551</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UC</adminCode3>
+<adminName3>Christchurch District</adminName3>
+<adminCode4>19UC001</adminCode4>
+<adminName4>Burton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.78322</west>
+<north>50.77953</north>
+<east>-1.73895</east>
+<south>50.74029</south>
+</bbox>
+<score>51.97602844238281</score>
+</geoname>
+<geoname>
+<toponymName>Burton</toponymName>
+<name>Burton</name>
+<lat>53.25869</lat>
+<lng>-0.58317</lng>
+<geonameId>7295551</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<adminCode4>32UH015</adminCode4>
+<adminName4>Burton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.62776</west>
+<north>53.27223</north>
+<east>-0.53858</east>
+<south>53.24514</south>
+</bbox>
+<score>51.97602844238281</score>
+</geoname>
+<geoname>
+<toponymName>Burton</toponymName>
+<name>Burton</name>
+<lat>53.17152</lat>
+<lng>-2.73885</lng>
+<geonameId>7291116</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW024</adminCode3>
+<adminName3>Burton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burton%2C_Gowy</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.75022</west>
+<north>53.17978</north>
+<east>-2.72748</east>
+<south>53.16327</south>
+</bbox>
+<score>48.303924560546875</score>
+</geoname>
+<geoname>
+<toponymName>Burton</toponymName>
+<name>Burton</name>
+<lat>54.16667</lat>
+<lng>-2.71667</lng>
+<geonameId>2654215</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Burton,Burton in Kendal</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UG</adminCode3>
+<adminName3>South Lakeland District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.73203</west>
+<north>54.17566</north>
+<east>-2.7013</east>
+<south>54.15767</south>
+</bbox>
+<score>47.94602966308594</score>
+</geoname>
+<geoname>
+<toponymName>Burton upon Stather</toponymName>
+<name>Burton upon Stather</name>
+<lat>53.64911</lat>
+<lng>-0.68453</lng>
+<geonameId>2654201</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2489</population>
+<alternateNames>Burton,Burton upon Stather</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD013</adminCode3>
+<adminName3>Burton upon Stather</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burton_upon_Stather</alternateName>
+<alternateName lang="unlc">BUS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.69526</west>
+<north>53.65547</north>
+<east>-0.6738</east>
+<south>53.64275</south>
+</bbox>
+<score>46.24700164794922</score>
+</geoname>
+</geonames>

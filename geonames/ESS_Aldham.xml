@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Aldham</toponymName>
+<name>Aldham</name>
+<lat>52.05</lat>
+<lng>0.98333</lng>
+<geonameId>2657535</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Aldham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UB</adminCode3>
+<adminName3>Babergh District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aldham%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.96871</west>
+<north>52.05899</north>
+<east>0.99796</east>
+<south>52.04101</south>
+</bbox>
+<score>90.30043029785156</score>
+</geoname>
+<geoname>
+<toponymName>Aldham</toponymName>
+<name>Aldham</name>
+<lat>52.06533</lat>
+<lng>0.97818</lng>
+<geonameId>7299563</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UB</adminCode3>
+<adminName3>Babergh District</adminName3>
+<adminCode4>42UB002</adminCode4>
+<adminName4>Aldham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.94929</west>
+<north>52.07725</north>
+<east>1.00708</east>
+<south>52.05341</south>
+</bbox>
+<score>72.11006164550781</score>
+</geoname>
+<geoname>
+<toponymName>Aldham</toponymName>
+<name>Aldham</name>
+<lat>51.89645</lat>
+<lng>0.77991</lng>
+<geonameId>7298523</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UG</adminCode3>
+<adminName3>Colchester District</adminName3>
+<adminCode4>22UG002</adminCode4>
+<adminName4>Aldham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aldham%2C_Essex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.7546</west>
+<north>51.91338</north>
+<east>0.80521</east>
+<south>51.87952</south>
+</bbox>
+<score>49.21471405029297</score>
+</geoname>
+</geonames>

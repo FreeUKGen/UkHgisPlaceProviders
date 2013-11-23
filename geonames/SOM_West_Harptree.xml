@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>West Harptree</toponymName>
+<name>West Harptree</name>
+<lat>51.31161</lat>
+<lng>-2.62197</lng>
+<geonameId>7296173</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA048</adminCode3>
+<adminName3>West Harptree</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.65576</west>
+<north>51.32851</north>
+<east>-2.58818</east>
+<south>51.29471</south>
+</bbox>
+<score>93.13329315185547</score>
+</geoname>
+<geoname>
+<toponymName>West Harptree</toponymName>
+<name>West Harptree</name>
+<lat>51.3091</lat>
+<lng>-2.63175</lng>
+<geonameId>2634398</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA048</adminCode3>
+<adminName3>West Harptree</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/West_Harptree</alternateName>
+<alternateName lang="unlc">ARP</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.64614</west>
+<north>51.3181</north>
+<east>-2.61736</east>
+<south>51.30011</south>
+</bbox>
+<score>78.94808197021484</score>
+</geoname>
+</geonames>

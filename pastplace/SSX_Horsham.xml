@@ -1,0 +1,178 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>688</id>
+<name>HORSHAM</name>
+<container>SUSSEX</container>
+<lat>51.066423410414</lat>
+<lon>-0.317662475311712</lon>
+<gazetteerText>Horsham.-- market town and par. with ry. sta. Sussex, on branch of river Arun, 22 miles NW. of Brighton - par., 11,089 ac., pop. 9552; town, 833 ac., pop. 6874; P.O., T.O., 2 Banks, 2 newspapers. Market-days, Monday and Wednesday. Although Horsham is an old and picturesque town, it has but few historical associations. St Mary&apos;s parish church is supposed to date from the time of King John. Corn and timber form the chief trade, and the industies include malting, brewing, tanning, iron and brass founding, and coachmaking. Horsham returned 1 member to Parliament until 1885. In vicinity is Horsham Park. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://homepages.gold.ac.uk/genuki/SSX/Horsham/index.php</link>
+<link>http://en.wikipedia.org/wiki/Horsham</link>
+<link>http://www.workhouses.org.uk/Horsham</link>
+<link>http://www.geonames.org/2646557</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=18349</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=18350</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=18355</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=18357</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=18353</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=18351</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=18352</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=18354</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=18356</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=18358</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=18359</link>
+</links>
+<unit>
+   <id>10005425</id>
+   <status>PLU/RegD</status>
+   <name>HORSHAM</name>
+</unit>
+<unit>
+   <id>10027640</id>
+   <status>USD</status>
+   <name>HORSHAM</name>
+</unit>
+<unit>
+   <id>10061489</id>
+   <status>RD</status>
+   <name>HORSHAM</name>
+</unit>
+<unit>
+   <id>10076808</id>
+   <status></status>
+   <name>HORSHAM</name>
+</unit>
+<unit>
+   <id>10135023</id>
+   <status>UD</status>
+   <name>HORSHAM</name>
+</unit>
+<unit>
+   <id>10173863</id>
+   <status>RSD</status>
+   <name>HORSHAM</name>
+</unit>
+<unit>
+   <id>10214701</id>
+   <status>Borough</status>
+   <name>HORSHAM</name>
+</unit>
+<unit>
+   <id>10298702</id>
+   <status>AP/CP</status>
+   <name>HORSHAM</name>
+</unit>
+<unit>
+   <id>10298763</id>
+   <status>EP</status>
+   <name>HORSHAM</name>
+</unit>
+<unit>
+   <id>10298775</id>
+   <status>CP</status>
+   <name>HORSHAM RURAL</name>
+</unit>
+<unit>
+   <id>10540525</id>
+   <status></status>
+   <name>WEST HORSHAM</name>
+</unit>
+<unit>
+   <id>10540537</id>
+   <status></status>
+   <name>NORTH HORSHAM</name>
+</unit>
+<unit>
+   <id>10540549</id>
+   <status></status>
+   <name>SOUTH HORSHAM</name>
+</unit>
+<unit>
+   <id>10575345</id>
+   <status></status>
+   <name>HORSHAM</name>
+</unit>
+<unit>
+   <id>12737361</id>
+   <status>CCon</status>
+   <name>HORSHAM AND CRAWLEY</name>
+</unit>
+<unit>
+   <id>12741777</id>
+   <status>PDivCon</status>
+   <name>WEST SUSSEX HORSHAM</name>
+</unit>
+<unit>
+   <id>12751448</id>
+   <status>PDivCon</status>
+   <name>WEST SUSSEX HORSHAM AND WORTHING</name>
+</unit>
+<unit>
+   <id>12753494</id>
+   <status>PDivCon</status>
+   <name>SUSSEX NORTH WESTERN OR HORSHAM</name>
+</unit>
+<unit>
+   <id>12754449</id>
+   <status>PBCon</status>
+   <name>HORSHAM</name>
+</unit>
+<unit>
+   <id>12757657</id>
+   <status>CCon</status>
+   <name>HORSHAM</name>
+</unit>
+<unit>
+   <id>12757888</id>
+   <status>CCon</status>
+   <name>HORSHAM</name>
+</unit>
+<unit>
+   <id>12836715</id>
+   <status></status>
+   <name>HORSHAM</name>
+</unit>
+<nearByPlace>
+   <id>8237</id>
+   <name>LOWER BEEDING</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8247</id>
+   <name>BILLINGSHURST</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8523</id>
+   <name>WEST GRINSTEAD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8749</id>
+   <name>KIRDFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8892</id>
+   <name>PETWORTH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8902</id>
+   <name>PULBOROUGH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8968</id>
+   <name>RUDGWICK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9016</id>
+   <name>SLINFOLD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9051</id>
+   <name>WARNHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9063</id>
+   <name>WISBOROUGH GREEN</name>
+</nearByPlace>
+</place>
+</results>

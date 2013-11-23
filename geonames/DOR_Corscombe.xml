@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Corscombe</toponymName>
+<name>Corscombe</name>
+<lat>50.84672</lat>
+<lng>-2.68728</lng>
+<geonameId>2652324</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.70153</west>
+<north>50.85572</north>
+<east>-2.67304</east>
+<south>50.83773</south>
+</bbox>
+<score>66.00886535644531</score>
+</geoname>
+<geoname>
+<toponymName>Corscombe</toponymName>
+<name>Corscombe</name>
+<lat>50.83401</lat>
+<lng>-2.68036</lng>
+<geonameId>7295016</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH039</adminCode4>
+<adminName4>Corscombe</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Corscombe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.72352</west>
+<north>50.86373</north>
+<east>-2.6372</east>
+<south>50.8043</south>
+</bbox>
+<score>60.419189453125</score>
+</geoname>
+</geonames>

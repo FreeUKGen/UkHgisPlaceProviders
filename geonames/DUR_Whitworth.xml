@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Whitworth</toponymName>
+<name>Whitworth</name>
+<lat>53.65601</lat>
+<lng>-2.1771</lng>
+<geonameId>2633997</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5798</population>
+<alternateNames>Whitworth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UM</adminCode3>
+<adminName3>Rossendale District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Whitworth%2C_Lancashire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.19228</west>
+<north>53.66501</north>
+<east>-2.16192</east>
+<south>53.64702</south>
+</bbox>
+<score>109.77339172363281</score>
+</geoname>
+<geoname>
+<toponymName>Whitworth</toponymName>
+<name>Whitworth</name>
+<lat>53.66908</lat>
+<lng>-2.18144</lng>
+<geonameId>7295611</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UM</adminCode3>
+<adminName3>Rossendale District</adminName3>
+<adminCode4>30UM001</adminCode4>
+<adminName4>Whitworth</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.21773</west>
+<north>53.69995</north>
+<east>-2.14515</east>
+<south>53.6382</south>
+</bbox>
+<score>76.62847900390625</score>
+</geoname>
+</geonames>

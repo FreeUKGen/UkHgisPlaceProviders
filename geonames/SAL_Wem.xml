@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wem</toponymName>
+<name>Wem</name>
+<lat>52.85835</lat>
+<lng>-2.71826</lng>
+<geonameId>2634550</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5257</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wem</alternateName>
+<alternateName lang="unlc">WNR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.73316</west>
+<north>52.86735</north>
+<east>-2.70336</east>
+<south>52.84936</south>
+</bbox>
+<score>97.57205200195312</score>
+</geoname>
+<geoname>
+<toponymName>Wem Railway Station</toponymName>
+<name>Wem Railway Station</name>
+<lat>52.856</lat>
+<lng>-2.719</lng>
+<geonameId>6953838</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>RSTN</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>railroad station</fcodeName>
+<population/>
+<alternateNames>WEM</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<alternateName lang="abbr">WEM</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wem_railway_station</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>44.65129470825195</score>
+</geoname>
+</geonames>

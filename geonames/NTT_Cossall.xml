@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cossall</toponymName>
+<name>Cossall</name>
+<lat>52.97735</lat>
+<lng>-1.28474</lng>
+<geonameId>2652292</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UD</adminCode3>
+<adminName3>Broxtowe District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cossall</alternateName>
+<alternateName lang="unlc">TCS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.29968</west>
+<north>52.98634</north>
+<east>-1.2698</east>
+<south>52.96835</south>
+</bbox>
+<score>89.54521942138672</score>
+</geoname>
+<geoname>
+<toponymName>Cossall</toponymName>
+<name>Cossall</name>
+<lat>52.97753</lat>
+<lng>-1.27948</lng>
+<geonameId>7299027</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UD</adminCode3>
+<adminName3>Broxtowe District</adminName3>
+<adminCode4>37UD003</adminCode4>
+<adminName4>Cossall</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.29747</west>
+<north>52.98843</north>
+<east>-1.26149</east>
+<south>52.96664</south>
+</bbox>
+<score>79.85262298583984</score>
+</geoname>
+</geonames>

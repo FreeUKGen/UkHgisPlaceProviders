@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Clacton-on-Sea</toponymName>
+<name>Clacton-on-Sea</name>
+<lat>51.78967</lat>
+<lng>1.15597</lng>
+<geonameId>2652974</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>54674</population>
+<alternateNames>Clacton,Clacton-on-Sea,Klakton na Moru,Klakton-on-Si,klktwn-an-sy,Клактон на Мору,Клактон-он-Си,کلکتون-آن-سی</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UN</adminCode3>
+<adminName3>Tendring District</adminName3>
+<alternateName lang="fa">کلکتون-آن-سی</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clacton-on-Sea</alternateName>
+<alternateName lang="ru">Клактон-он-Си</alternateName>
+<alternateName lang="sr">Клактон на Мору</alternateName>
+<alternateName lang="unlc">CLS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.10717</west>
+<north>51.81983</north>
+<east>1.20477</east>
+<south>51.7595</south>
+</bbox>
+<score>104.32431030273438</score>
+</geoname>
+</geonames>

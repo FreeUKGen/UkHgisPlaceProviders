@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llandegfan</toponymName>
+<name>Llandegfan</name>
+<lat>53.24396</lat>
+<lng>-4.15</lng>
+<geonameId>2644139</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA008</adminCode3>
+<adminName3>Cwm Cadnant</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llandegfan</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.16503</west>
+<north>53.25296</north>
+<east>-4.13497</east>
+<south>53.23497</south>
+</bbox>
+<score>95.02735900878906</score>
+</geoname>
+</geonames>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Henllan</toponymName>
+<name>Henllan</name>
+<lat>53.20012</lat>
+<lng>-3.45332</lng>
+<geonameId>7294045</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG017</adminCode3>
+<adminName3>Henllan</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.47247</west>
+<north>53.21357</north>
+<east>-3.43417</east>
+<south>53.18667</south>
+</bbox>
+<score>109.39541625976562</score>
+</geoname>
+<geoname>
+<toponymName>Henllan</toponymName>
+<name>Henllan</name>
+<lat>53.2</lat>
+<lng>-3.46667</lng>
+<geonameId>2647099</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG017</adminCode3>
+<adminName3>Henllan</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Henllan</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.49671</west>
+<north>53.21799</north>
+<east>-3.43663</east>
+<south>53.18201</south>
+</bbox>
+<score>75.30856323242188</score>
+</geoname>
+<geoname>
+<toponymName>Henllan</toponymName>
+<name>Henllan</name>
+<lat>52.03333</lat>
+<lng>-4.4</lng>
+<geonameId>2647100</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.41462</west>
+<north>52.04233</north>
+<east>-4.38538</east>
+<south>52.02434</south>
+</bbox>
+<score>62.73815155029297</score>
+</geoname>
+</geonames>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Shipton</toponymName>
+<name>Shipton</name>
+<lat>52.52722</lat>
+<lng>-2.64336</lng>
+<geonameId>7301088</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG161</adminCode3>
+<adminName3>Shipton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.67072</west>
+<north>52.54499</north>
+<east>-2.616</east>
+<south>52.50945</south>
+</bbox>
+<score>96.390869140625</score>
+</geoname>
+<geoname>
+<toponymName>Shipton</toponymName>
+<name>Shipton</name>
+<lat>54.0226</lat>
+<lng>-1.15528</lng>
+<geonameId>2637950</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shipton%2C_North_Yorkshire</alternateName>
+<alternateName lang="unlc">HPN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.17059</west>
+<north>54.03159</north>
+<east>-1.13997</east>
+<south>54.0136</south>
+</bbox>
+<score>73.56071472167969</score>
+</geoname>
+<geoname>
+<toponymName>Shipton</toponymName>
+<name>Shipton</name>
+<lat>54.02692</lat>
+<lng>-1.16216</lng>
+<geonameId>7300729</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<adminCode4>36UC131</adminCode4>
+<adminName4>Shipton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.18446</west>
+<north>54.04556</north>
+<east>-1.13985</east>
+<south>54.00828</south>
+</bbox>
+<score>69.56626892089844</score>
+</geoname>
+<geoname>
+<toponymName>Shipton under Wychwood</toponymName>
+<name>Shipton under Wychwood</name>
+<lat>51.86035</lat>
+<lng>-1.59847</lng>
+<geonameId>2637948</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2535</population>
+<alternateNames>Shipton,Shipton under Wychwood</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UF</adminCode3>
+<adminName3>West Oxfordshire District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.60877</west>
+<north>51.86671</north>
+<east>-1.58817</east>
+<south>51.85399</south>
+</bbox>
+<score>57.0322151184082</score>
+</geoname>
+<geoname>
+<toponymName>Shipton</toponymName>
+<name>Shipton</name>
+<lat>53.86667</lat>
+<lng>-0.7</lng>
+<geonameId>2637951</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.71526</west>
+<north>53.87566</north>
+<east>-0.68474</east>
+<south>53.85767</south>
+</bbox>
+<score>55.31904602050781</score>
+</geoname>
+<geoname>
+<toponymName>Shipton</toponymName>
+<name>Shipton</name>
+<lat>52.51667</lat>
+<lng>-2.48333</lng>
+<geonameId>2637952</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.49812</west>
+<north>52.52566</north>
+<east>-2.46855</east>
+<south>52.50767</south>
+</bbox>
+<score>55.31904602050781</score>
+</geoname>
+<geoname>
+<toponymName>Shipton</toponymName>
+<name>Shipton</name>
+<lat>51.85</lat>
+<lng>-1.93333</lng>
+<geonameId>2637953</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.9479</west>
+<north>51.85899</north>
+<east>-1.91877</east>
+<south>51.84101</south>
+</bbox>
+<score>55.31904602050781</score>
+</geoname>
+<geoname>
+<toponymName>Shipton</toponymName>
+<name>Shipton</name>
+<lat>51.86658</lat>
+<lng>-1.9317</lng>
+<geonameId>7298578</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<adminCode4>23UC089</adminCode4>
+<adminName4>Shipton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shipton%2C_Gloucestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.965</west>
+<north>51.88448</north>
+<east>-1.8984</east>
+<south>51.84867</south>
+</bbox>
+<score>48.04692840576172</score>
+</geoname>
+</geonames>

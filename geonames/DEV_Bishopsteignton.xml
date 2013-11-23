@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bishopsteignton</toponymName>
+<name>Bishopsteignton</name>
+<lat>50.55193</lat>
+<lng>-3.53852</lng>
+<geonameId>2655558</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2094</population>
+<alternateNames>Bishopsteignton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UH</adminCode3>
+<adminName3>Teignbridge District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bishopsteignton</alternateName>
+<alternateName lang="unlc">PQT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.5456</west>
+<north>50.55643</north>
+<east>-3.53144</east>
+<south>50.54744</south>
+</bbox>
+<score>110.68647766113281</score>
+</geoname>
+<geoname>
+<toponymName>Bishopsteignton</toponymName>
+<name>Bishopsteignton</name>
+<lat>50.57056</lat>
+<lng>-3.5455</lng>
+<geonameId>7294933</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UH</adminCode3>
+<adminName3>Teignbridge District</adminName3>
+<adminCode4>18UH006</adminCode4>
+<adminName4>Bishopsteignton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.57798</west>
+<north>50.59963</north>
+<east>-3.51302</east>
+<south>50.54148</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

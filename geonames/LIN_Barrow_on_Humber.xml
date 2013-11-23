@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Barrow upon Humber</toponymName>
+<name>Barrow upon Humber</name>
+<lat>53.6755</lat>
+<lng>-0.38062</lng>
+<geonameId>2656240</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2611</population>
+<alternateNames>Barrow,Barrow upon Humber,Barrow-on-Humber</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD005</adminCode3>
+<adminName3>Barrow upon Humber</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barrow_upon_Humber</alternateName>
+<alternateName lang="unlc">HMR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.39136</west>
+<north>53.68186</north>
+<east>-0.36988</east>
+<south>53.66914</south>
+</bbox>
+<score>90.10995483398438</score>
+</geoname>
+</geonames>

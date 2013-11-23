@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Great Stainton</toponymName>
+<name>Great Stainton</name>
+<lat>54.59189</lat>
+<lng>-1.47903</lng>
+<geonameId>2648016</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Great Stainton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D1</adminCode2>
+<adminName2>Darlington</adminName2>
+<adminCode3>00EH009</adminCode3>
+<adminName3>Great Stainton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Great_Stainton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.49455</west>
+<north>54.60088</north>
+<east>-1.4635</east>
+<south>54.58289</south>
+</bbox>
+<score>94.51553344726562</score>
+</geoname>
+<geoname>
+<toponymName>Great Stainton</toponymName>
+<name>Great Stainton</name>
+<lat>54.59068</lat>
+<lng>-1.48395</lng>
+<geonameId>7293224</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D1</adminCode2>
+<adminName2>Darlington</adminName2>
+<adminCode3>00EH009</adminCode3>
+<adminName3>Great Stainton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.51621</west>
+<north>54.60055</north>
+<east>-1.45169</east>
+<south>54.58081</south>
+</bbox>
+<score>93.01705932617188</score>
+</geoname>
+</geonames>

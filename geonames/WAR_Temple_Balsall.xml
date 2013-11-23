@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Temple Balsall</toponymName>
+<name>Temple Balsall</name>
+<lat>52.38296</lat>
+<lng>-1.69647</lng>
+<geonameId>2636123</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Temple Balsall</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M2</adminCode2>
+<adminName2>Solihull</adminName2>
+<adminCode3>00CT001</adminCode3>
+<adminName3>Balsall</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Temple_Balsall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.7112</west>
+<north>52.39195</north>
+<east>-1.68173</east>
+<south>52.37396</south>
+</bbox>
+<score>97.28292083740234</score>
+</geoname>
+</geonames>

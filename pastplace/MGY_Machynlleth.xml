@@ -1,0 +1,82 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1111</id>
+<name>MACHYNLLETH</name>
+<container>MONTGOMERYSHIRE</container>
+<lat>52.5867239815996</lat>
+<lon>-3.84748070344293</lon>
+<gazetteerText>Machynlleth, parl. bor. and market town, par., and township with ry. sta., Montgomeryshire, on river Dovey, 20 miles NE. of Aberystwith and 216 miles from London by rail - par., 14,861 ac., pop. 2804; township, pop. 2026; parl. bor., 1196 ac., pop. 2045; P.O., T.O., 1 Bank. Market-day, Wednesday. The town has a fine situation, sheltered on all sides by lofty hills. Anglers find excellent sport in the surrounding streams. The industries are mostly flannel and tweed manufactures, tanning, fulling, and wool carding. Slate quarries and lead mines are worked in the neighbourhood. Owen Glendower assembled a parliament here in 1402. Machynlleth is one of the Montgomery District of Parl. Boroughs, which returns 1 member. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/wal/MGY/Machynlleth/index.html</link>
+<link>http://en.wikipedia.org/wiki/Machynlleth</link>
+<link>http://www.workhouses.org.uk/Machynlleth</link>
+<link>http://www.geonames.org/2643251</link>
+</links>
+<unit>
+   <id>10048450</id>
+   <status>Hundred</status>
+   <name>MACHYNLLETH</name>
+</unit>
+<unit>
+   <id>10139417</id>
+   <status>RegD/PLU</status>
+   <name>MACHYNLLETH</name>
+</unit>
+<unit>
+   <id>10220907</id>
+   <status>RD</status>
+   <name>MACHYNLLETH</name>
+</unit>
+<unit>
+   <id>10240748</id>
+   <status>CP/AP</status>
+   <name>MACHYNLLETH</name>
+</unit>
+<unit>
+   <id>10240750</id>
+   <status>UD</status>
+   <name>MACHYNLLETH</name>
+</unit>
+<unit>
+   <id>10411890</id>
+   <status>RD</status>
+   <name>UNNAMED</name>
+</unit>
+<unit>
+   <id>10411968</id>
+   <status>RD</status>
+   <name>UNNAMED</name>
+</unit>
+<unit>
+   <id>10553507</id>
+   <status></status>
+   <name>MACHYNLLETH</name>
+</unit>
+<unit>
+   <id>12827702</id>
+   <status>RSD</status>
+   <name>MACHYNLLETH</name>
+</unit>
+<nearByPlace>
+   <id>2020</id>
+   <name>ISYGARREG</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8437</id>
+   <name>PENEGOES</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8459</id>
+   <name>PENNAL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9278</id>
+   <name>UWCHYGARREG</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9557</id>
+   <name>YSGUBOR Y COED</name>
+</nearByPlace>
+</place>
+</results>

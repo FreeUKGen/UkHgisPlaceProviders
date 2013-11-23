@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Alford</toponymName>
+<name>Alford</name>
+<lat>57.23257</lat>
+<lng>-2.70298</lng>
+<geonameId>2657509</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2237</population>
+<alternateNames>Alford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T6</adminCode2>
+<adminName2>Aberdeenshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alford%2C_Aberdeenshire</alternateName>
+<alternateName lang="unlc">AFO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.71129</west>
+<north>57.23707</north>
+<east>-2.69467</east>
+<south>57.22807</south>
+</bbox>
+<score>87.44059753417969</score>
+</geoname>
+<geoname>
+<toponymName>Alford</toponymName>
+<name>Alford</name>
+<lat>53.25</lat>
+<lng>0.18333</lng>
+<geonameId>2657510</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3500</population>
+<alternateNames>Alford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="en">Alford</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alford,_Lincolnshire</alternateName>
+<alternateName lang="post">LN13</alternateName>
+<alternateName lang="unlc">ABX</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.1727</west>
+<north>53.25636</north>
+<east>0.19396</east>
+<south>53.24364</south>
+</bbox>
+<score>75.73426818847656</score>
+</geoname>
+<geoname>
+<toponymName>Alford</toponymName>
+<name>Alford</name>
+<lat>51.08833</lat>
+<lng>-2.56417</lng>
+<geonameId>2657511</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>63</population>
+<alternateNames>Alford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<alternateName lang="en">Alford</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Alford%2C_Somerset</alternateName>
+<alternateName lang="post">BA7</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.5656</west>
+<north>51.08923</north>
+<east>-2.56273</east>
+<south>51.08743</south>
+</bbox>
+<score>69.3059310913086</score>
+</geoname>
+<geoname>
+<toponymName>Alford</toponymName>
+<name>Alford</name>
+<lat>53.26151</lat>
+<lng>0.17259</lng>
+<geonameId>7299157</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC003</adminCode4>
+<adminName4>Alford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.15338</west>
+<north>53.27502</north>
+<east>0.19181</east>
+<south>53.24799</south>
+</bbox>
+<score>66.53621673583984</score>
+</geoname>
+<geoname>
+<toponymName>Alford</toponymName>
+<name>Alford</name>
+<lat>51.08428</lat>
+<lng>-2.55978</lng>
+<geonameId>7301206</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD002</adminCode4>
+<adminName4>Alford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.57308</west>
+<north>51.09675</north>
+<east>-2.54647</east>
+<south>51.07181</south>
+</bbox>
+<score>66.53621673583984</score>
+</geoname>
+</geonames>

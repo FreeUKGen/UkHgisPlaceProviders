@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanfachreth</toponymName>
+<name>Llanfachreth</name>
+<lat>52.7852</lat>
+<lng>-3.84866</lng>
+<geonameId>2644092</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC013</adminCode3>
+<adminName3>Brithdir and Llanfachreth</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanfachreth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.86354</west>
+<north>52.7942</north>
+<east>-3.83379</east>
+<south>52.77621</south>
+</bbox>
+<score>85.74851989746094</score>
+</geoname>
+<geoname>
+<toponymName>Llanfachraeth</toponymName>
+<name>Llanfachraeth</name>
+<lat>53.31206</lat>
+<lng>-4.53092</lng>
+<geonameId>2644093</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Llanfachraeth,Llanfachreth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA017</adminCode3>
+<adminName3>Llanfachraeth</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanfachraeth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.56104</west>
+<north>53.33004</north>
+<east>-4.5008</east>
+<south>53.29407</south>
+</bbox>
+<score>62.828636169433594</score>
+</geoname>
+</geonames>

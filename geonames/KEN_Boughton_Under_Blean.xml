@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Boughton under Blean</toponymName>
+<name>Boughton under Blean</name>
+<lat>51.28981</lat>
+<lng>0.93763</lng>
+<geonameId>7294902</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UM</adminCode3>
+<adminName3>Swale District</adminName3>
+<adminCode4>29UM005</adminCode4>
+<adminName4>Boughton under Blean</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boughton_under_Blean</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.9115</west>
+<north>51.30833</north>
+<east>0.96375</east>
+<south>51.27128</south>
+</bbox>
+<score>57.45819854736328</score>
+</geoname>
+</geonames>

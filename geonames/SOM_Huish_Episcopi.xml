@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Huish Episcopi</toponymName>
+<name>Huish Episcopi</name>
+<lat>51.04524</lat>
+<lng>-2.82002</lng>
+<geonameId>7297750</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD054</adminCode4>
+<adminName4>Huish Episcopi</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Huish_Episcopi</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.85307</west>
+<north>51.06794</north>
+<east>-2.78698</east>
+<south>51.02253</south>
+</bbox>
+<score>55.72661590576172</score>
+</geoname>
+</geonames>

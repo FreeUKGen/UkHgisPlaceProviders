@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Sprowston</toponymName>
+<name>Sprowston</name>
+<lat>52.65</lat>
+<lng>-1.33333</lng>
+<geonameId>2637181</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UE</adminCode3>
+<adminName3>Hinckley and Bosworth District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.34816</west>
+<north>52.65899</north>
+<east>-1.31851</east>
+<south>52.64101</south>
+</bbox>
+<score>60.555870056152344</score>
+</geoname>
+<geoname>
+<toponymName>Sprowston</toponymName>
+<name>Sprowston</name>
+<lat>52.66176</lat>
+<lng>1.33362</lng>
+<geonameId>7295644</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<adminCode4>33UC054</adminCode4>
+<adminName4>Sprowston</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sprowston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.30222</west>
+<north>52.67853</north>
+<east>1.36502</east>
+<south>52.64499</south>
+</bbox>
+<score>55.581825256347656</score>
+</geoname>
+</geonames>

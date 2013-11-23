@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Cranworth</toponymName>
+<name>Cranworth</name>
+<lat>52.60152</lat>
+<lng>0.93556</lng>
+<geonameId>7296637</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<adminCode4>33UB022</adminCode4>
+<adminName4>Cranworth</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cranworth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.8869</west>
+<north>52.62723</north>
+<east>0.98421</east>
+<south>52.57581</south>
+</bbox>
+<score>61.74647521972656</score>
+</geoname>
+</geonames>

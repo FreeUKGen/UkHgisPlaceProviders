@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Coventry</toponymName>
+<name>Coventry</name>
+<lat>52.40656</lat>
+<lng>-1.51217</lng>
+<geonameId>2652221</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>308313</population>
+<alternateNames>CVT,Coventria,Coventry,Gorad Koventry,Koventri,Koventrija,Koventris,Kovuntri,kao wen chui,kawntry,khx wen thri,kobeonteuli,kovhentri,kovu~entori,kwfntry,qwbntry,Κόβεντρι,Горад Ковентры,Ковентри,Ковентрі,Ковънтри,קובנטרי,كوفنتري,کاونتری,کونٹری,कॉव्हेंट्री,คอเวนทรี,ကိုဗင်ထရီမြို့,კოვენტრი,コヴェントリー,考文垂,코번트리</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C7</adminCode2>
+<adminName2>Coventry</adminName2>
+<alternateName lang="ar">كوفنتري</alternateName>
+<alternateName lang="az">Koventri</alternateName>
+<alternateName lang="be">Горад Ковентры</alternateName>
+<alternateName lang="bg">Ковънтри</alternateName>
+<alternateName lang="da">Coventry</alternateName>
+<alternateName lang="de">Coventry</alternateName>
+<alternateName lang="el">Κόβεντρι</alternateName>
+<alternateName lang="en">Coventry</alternateName>
+<alternateName lang="eo">Coventry</alternateName>
+<alternateName lang="es">Coventry</alternateName>
+<alternateName lang="eu">Coventry</alternateName>
+<alternateName lang="fa">کاونتری</alternateName>
+<alternateName lang="fi">Coventry</alternateName>
+<alternateName lang="fr">Coventry</alternateName>
+<alternateName lang="he">קובנטרי</alternateName>
+<alternateName lang="iata">CVT</alternateName>
+<alternateName lang="it">Coventry</alternateName>
+<alternateName lang="ja">コヴェントリー</alternateName>
+<alternateName lang="ka">კოვენტრი</alternateName>
+<alternateName lang="ko">코번트리</alternateName>
+<alternateName lang="la">Coventria</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Coventry</alternateName>
+<alternateName lang="lt">Koventris</alternateName>
+<alternateName lang="lv">Koventrija</alternateName>
+<alternateName lang="mr">कॉव्हेंट्री</alternateName>
+<alternateName lang="my">ကိုဗင်ထရီမြို့</alternateName>
+<alternateName lang="mzn">کاونتری</alternateName>
+<alternateName lang="nl">Coventry</alternateName>
+<alternateName lang="no">Coventry</alternateName>
+<alternateName lang="pl">Coventry</alternateName>
+<alternateName lang="pnb">کونٹری</alternateName>
+<alternateName lang="ro">Coventry</alternateName>
+<alternateName lang="ru">Ковентри</alternateName>
+<alternateName lang="sl">Coventry</alternateName>
+<alternateName lang="sr">Ковентри</alternateName>
+<alternateName lang="sv">Coventry</alternateName>
+<alternateName lang="th">คอเวนทรี</alternateName>
+<alternateName lang="tr">Coventry</alternateName>
+<alternateName lang="uk">Ковентрі</alternateName>
+<alternateName lang="unlc">CVT</alternateName>
+<alternateName lang="zh">考文垂</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.6303</west>
+<north>52.4785</north>
+<east>-1.39403</east>
+<south>52.33461</south>
+</bbox>
+<score>167.11697387695312</score>
+</geoname>
+<geoname>
+<toponymName>City and Borough of Coventry</toponymName>
+<name>City and Borough of Coventry</name>
+<lat>52.41667</lat>
+<lng>-1.5</lng>
+<geonameId>3333139</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>COV,Coventry</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C7</adminCode2>
+<adminName2>Coventry</adminName2>
+<alternateName lang="abbr">COV</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.61446</west>
+<north>52.46478</north>
+<east>-1.42394</east>
+<south>52.36387</south>
+</bbox>
+<score>80.48878479003906</score>
+</geoname>
+</geonames>

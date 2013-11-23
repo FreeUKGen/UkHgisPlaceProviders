@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Isle of Grain</toponymName>
+<name>Isle of Grain</name>
+<lat>51.45569</lat>
+<lng>0.70334</lng>
+<geonameId>7299192</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I3</adminCode2>
+<adminName2>Medway</adminName2>
+<adminCode3>00LC009</adminCode3>
+<adminName3>Isle of Grain</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Isle_of_Grain</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.66773</west>
+<north>51.48358</north>
+<east>0.73895</east>
+<south>51.4278</south>
+</bbox>
+<score>65.38885498046875</score>
+</geoname>
+<geoname>
+<toponymName>Isle of Grain</toponymName>
+<name>Isle of Grain</name>
+<lat>51.45</lat>
+<lng>0.7</lng>
+<geonameId>2648235</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Isle of Grain</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>49.33455276489258</score>
+</geoname>
+</geonames>

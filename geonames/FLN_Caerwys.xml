@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Caerwys</toponymName>
+<name>Caerwys</name>
+<lat>53.25348</lat>
+<lng>-3.32077</lng>
+<geonameId>7292369</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ005</adminCode3>
+<adminName3>Caerwys</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.3618</west>
+<north>53.27526</north>
+<east>-3.27974</east>
+<south>53.2317</south>
+</bbox>
+<score>112.88270568847656</score>
+</geoname>
+<geoname>
+<toponymName>Caerwys</toponymName>
+<name>Caerwys</name>
+<lat>53.24651</lat>
+<lng>-3.30745</lng>
+<geonameId>2654086</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Caerwys</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ005</adminCode3>
+<adminName3>Caerwys</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Caerwys</alternateName>
+<alternateName lang="unlc">CYS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.32248</west>
+<north>53.25551</north>
+<east>-3.29242</east>
+<south>53.23752</south>
+</bbox>
+<score>92.47710418701172</score>
+</geoname>
+</geonames>

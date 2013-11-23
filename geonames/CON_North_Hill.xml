@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>North Hill</toponymName>
+<name>North Hill</name>
+<lat>50.56455</lat>
+<lng>-4.44986</lng>
+<geonameId>7293089</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE098</adminCode3>
+<adminName3>North Hill</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/North_Hill%2C_Cornwall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.50718</west>
+<north>50.58842</north>
+<east>-4.39254</east>
+<south>50.54069</south>
+</bbox>
+<score>44.047119140625</score>
+</geoname>
+<geoname>
+<toponymName>North Hill</toponymName>
+<name>North Hill</name>
+<lat>50.55</lat>
+<lng>-4.43333</lng>
+<geonameId>2641337</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE098</adminCode3>
+<adminName3>North Hill</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.46165</west>
+<north>50.56799</north>
+<east>-4.40501</east>
+<south>50.53201</south>
+</bbox>
+<score>21.859588623046875</score>
+</geoname>
+</geonames>

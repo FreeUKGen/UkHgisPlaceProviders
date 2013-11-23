@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Martham</toponymName>
+<name>Martham</name>
+<lat>52.70464</lat>
+<lng>1.63636</lng>
+<geonameId>2642959</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3089</population>
+<alternateNames>Martham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UD</adminCode3>
+<adminName3>Great Yarmouth District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Martham</alternateName>
+<alternateName lang="unlc">MRM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.62586</west>
+<north>52.711</north>
+<east>1.64685</east>
+<south>52.69828</south>
+</bbox>
+<score>97.58412170410156</score>
+</geoname>
+<geoname>
+<toponymName>Martham</toponymName>
+<name>Martham</name>
+<lat>52.71096</lat>
+<lng>1.62858</lng>
+<geonameId>7299397</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UD</adminCode3>
+<adminName3>Great Yarmouth District</adminName3>
+<adminCode4>33UD011</adminCode4>
+<adminName4>Martham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.59025</west>
+<north>52.73106</north>
+<east>1.66691</east>
+<south>52.69086</south>
+</bbox>
+<score>73.09466552734375</score>
+</geoname>
+</geonames>

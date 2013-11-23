@@ -1,0 +1,88 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>2104</id>
+<name>CHURCH COPPENHALL</name>
+<container>CHESHIRE</container>
+<lat>53.114260743863</lat>
+<lon>-2.43298260179211</lon>
+<gazetteerText>COPPENHALL, two townships and a parish in Nantwich district, Cheshire. Church-Coppenhall township lies on the North-Western railway, 1&#189; mile NNW of Crewe r. station, and 5 NE of Nantwich. Acres, 1, 530. Real property, &#163;2, 987. Pop., 822. Houses, 175. Monks-Coppenhall township lies round the junction of railways at Crewe station; and includes the town of Crewe. Acres, 1, 318. Real property, &#163;15, 532. Pop., 8, 159. Houses, 1, 473. The parish consists wholly of these two townships. Post town, Crewe. Real property, &#163;18, 519. Pop., in 1841, 747; in 1861, 8, 981. Houses, 1, 648. The property is much subdivided. The living is a rectory in the diocese of Chester. Value, &#163;216.*-Patron, the Bishop of Chester. The church was rebuilt in 1851; and is a brick edifice, with a tower. The p. curacy of Crewe is a separate benefice. See Crewe. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.ukbmd.org.uk/genuki/chs/churchcoppenhall.html</link>
+<link>http://www.geonames.org/2653044</link>
+</links>
+<unit>
+   <id>10044844</id>
+   <status>CP/AP</status>
+   <name>COPPENHALL</name>
+</unit>
+<unit>
+   <id>10044856</id>
+   <status>CP/Tn</status>
+   <name>CHURCH COPPENHALL</name>
+</unit>
+<unit>
+   <id>10090398</id>
+   <status>EP</status>
+   <name>COPPENHALL</name>
+</unit>
+<unit>
+   <id>10113600</id>
+   <status>EP</status>
+   <name>COPPENHALL ST PAUL</name>
+</unit>
+</place>
+<place>
+<id>3454</id>
+<name>MONKS COPPENHALL</name>
+<container>CHESHIRE</container>
+<lat>53.1012902036649</lat>
+<lon>-2.44276152091854</lon>
+<gazetteerText>Monks Coppenhall, township, Coppenhall par., Cheshire, 1336 ac., pop. 24,385; is conterminous with the mun. bor. of Crewe. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.ukbmd.org.uk/genuki/chs/crewe2.html</link>
+</links>
+<unit>
+   <id>10101190</id>
+   <status>EP</status>
+   <name>MONKS COPPENHALL</name>
+</unit>
+<unit>
+   <id>10103447</id>
+   <status>CP/Tn</status>
+   <name>MONKS COPPENHALL</name>
+</unit>
+<nearByPlace>
+   <id>2104</id>
+   <name>CHURCH COPPENHALL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2153</id>
+   <name>SHAVINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2566</id>
+   <name>WESTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2980</id>
+   <name>MINSHULL VERNON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3225</id>
+   <name>LEIGHTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3736</id>
+   <name>WISTASTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3738</id>
+   <name>WOOLSTANWOOD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4496</id>
+   <name>BASFORD</name>
+</nearByPlace>
+</place>
+</results>

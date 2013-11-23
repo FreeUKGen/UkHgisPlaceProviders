@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>West Halton</toponymName>
+<name>West Halton</name>
+<lat>53.67519</lat>
+<lng>-0.64745</lng>
+<geonameId>7290840</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD050</adminCode3>
+<adminName3>West Halton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.68359</west>
+<north>53.69421</north>
+<east>-0.61131</east>
+<south>53.65618</south>
+</bbox>
+<score>73.57675170898438</score>
+</geoname>
+<geoname>
+<toponymName>West Halton</toponymName>
+<name>West Halton</name>
+<lat>53.67752</lat>
+<lng>-0.63006</lng>
+<geonameId>2634404</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD050</adminCode3>
+<adminName3>West Halton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/West_Halton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.64525</west>
+<north>53.68651</north>
+<east>-0.61488</east>
+<south>53.66852</south>
+</bbox>
+<score>65.7759017944336</score>
+</geoname>
+<geoname>
+<toponymName>Halton West</toponymName>
+<name>Halton West</name>
+<lat>53.98505</lat>
+<lng>-2.23984</lng>
+<geonameId>2647594</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Halton West,West Halton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UB</adminCode3>
+<adminName3>Craven District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Halton_West</alternateName>
+<alternateName lang="unlc">HDW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.25514</west>
+<north>53.99405</north>
+<east>-2.22454</east>
+<south>53.97606</south>
+</bbox>
+<score>50.49969482421875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bolney</toponymName>
+<name>Bolney</name>
+<lat>50.99534</lat>
+<lng>-0.20303</lng>
+<geonameId>2655244</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bolney,Botney</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UG</adminCode3>
+<adminName3>Mid Sussex District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bolney</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.21732</west>
+<north>51.00433</north>
+<east>-0.18874</east>
+<south>50.98634</south>
+</bbox>
+<score>93.32981872558594</score>
+</geoname>
+<geoname>
+<toponymName>Bolney</toponymName>
+<name>Bolney</name>
+<lat>50.99304</lat>
+<lng>-0.2108</lng>
+<geonameId>7299650</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UG</adminCode3>
+<adminName3>Mid Sussex District</adminName3>
+<adminCode4>45UG004</adminCode4>
+<adminName4>Bolney</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.24202</west>
+<north>51.01781</north>
+<east>-0.17958</east>
+<south>50.96827</south>
+</bbox>
+<score>78.369384765625</score>
+</geoname>
+</geonames>

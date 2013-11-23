@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanelli</toponymName>
+<name>Llanelli</name>
+<lat>51.68195</lat>
+<lng>-4.16191</lng>
+<geonameId>2644100</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>47206</population>
+<alternateNames>Laneli,Lanelis,Llanelli,Llanelly,lnly,Ланели,Лланелли,Лланеллі,لنلی</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU032</adminCode3>
+<adminName3>Llanelli</adminName3>
+<alternateName lang="bg">Ланели</alternateName>
+<alternateName lang="fa">لنلی</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanelli</alternateName>
+<alternateName lang="lt">Lanelis</alternateName>
+<alternateName lang="ru">Лланелли</alternateName>
+<alternateName lang="uk">Лланеллі</alternateName>
+<alternateName lang="unlc">LLN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.20723</west>
+<north>51.71003</north>
+<east>-4.11658</east>
+<south>51.65386</south>
+</bbox>
+<score>142.26620483398438</score>
+</geoname>
+<geoname>
+<toponymName>Llanelli</toponymName>
+<name>Llanelli</name>
+<lat>51.67073</lat>
+<lng>-4.16522</lng>
+<geonameId>7294063</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU032</adminCode3>
+<adminName3>Llanelli</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.20616</west>
+<north>51.69651</north>
+<east>-4.12428</east>
+<south>51.64495</south>
+</bbox>
+<score>108.74913787841797</score>
+</geoname>
+</geonames>

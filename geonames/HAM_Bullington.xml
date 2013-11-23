@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Bullington</toponymName>
+<name>Bullington</name>
+<lat>51.16667</lat>
+<lng>-1.33333</lng>
+<geonameId>2654346</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bullington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UP</adminCode3>
+<adminName3>Winchester District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bullington%2C_Hampshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.34768</west>
+<north>51.17566</north>
+<east>-1.31899</east>
+<south>51.15767</south>
+</bbox>
+<score>91.20539093017578</score>
+</geoname>
+<geoname>
+<toponymName>Bullington</toponymName>
+<name>Bullington</name>
+<lat>51.17471</lat>
+<lng>-1.33647</lng>
+<geonameId>7298664</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UN</adminCode3>
+<adminName3>Test Valley District</adminName3>
+<adminCode4>24UN012</adminCode4>
+<adminName4>Bullington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.36411</west>
+<north>51.19474</north>
+<east>-1.30884</east>
+<south>51.15468</south>
+</bbox>
+<score>72.40431213378906</score>
+</geoname>
+<geoname>
+<toponymName>Bullington</toponymName>
+<name>Bullington</name>
+<lat>53.27906</lat>
+<lng>-0.35764</lng>
+<geonameId>7290860</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<adminCode4>32UH014</adminCode4>
+<adminName4>Bullington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bullington%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.37581</west>
+<north>53.29601</north>
+<east>-0.33947</east>
+<south>53.26212</south>
+</bbox>
+<score>49.705467224121094</score>
+</geoname>
+</geonames>

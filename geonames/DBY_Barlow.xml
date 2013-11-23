@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Barlow</toponymName>
+<name>Barlow</name>
+<lat>53.74993</lat>
+<lng>-1.02164</lng>
+<geonameId>2656317</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Barlow</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UH</adminCode3>
+<adminName3>Selby District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barlow%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.03686</west>
+<north>53.75892</north>
+<east>-1.00643</east>
+<south>53.74094</south>
+</bbox>
+<score>76.34757232666016</score>
+</geoname>
+<geoname>
+<toponymName>Barlow</toponymName>
+<name>Barlow</name>
+<lat>53.26667</lat>
+<lng>-1.48333</lng>
+<geonameId>2656318</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Barlow</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UJ</adminCode3>
+<adminName3>North East Derbyshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barlow%2C_Derbyshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.49837</west>
+<north>53.27566</north>
+<east>-1.46829</east>
+<south>53.25767</south>
+</bbox>
+<score>76.34757232666016</score>
+</geoname>
+<geoname>
+<toponymName>Barlow</toponymName>
+<name>Barlow</name>
+<lat>53.26857</lat>
+<lng>-1.51726</lng>
+<geonameId>7293278</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UJ</adminCode3>
+<adminName3>North East Derbyshire</adminName3>
+<adminCode4>17UJ002</adminCode4>
+<adminName4>Barlow</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.57473</west>
+<north>53.2876</north>
+<east>-1.45979</east>
+<south>53.24954</south>
+</bbox>
+<score>58.92649841308594</score>
+</geoname>
+<geoname>
+<toponymName>Barlow</toponymName>
+<name>Barlow</name>
+<lat>53.7551</lat>
+<lng>-1.02748</lng>
+<geonameId>7300834</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UH</adminCode3>
+<adminName3>Selby District</adminName3>
+<adminCode4>36UH009</adminCode4>
+<adminName4>Barlow</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.06176</west>
+<north>53.77187</north>
+<east>-0.9932</east>
+<south>53.73833</south>
+</bbox>
+<score>58.92649841308594</score>
+</geoname>
+</geonames>

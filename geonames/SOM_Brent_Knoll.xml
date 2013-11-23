@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Brent Knoll</toponymName>
+<name>Brent Knoll</name>
+<lat>51.26026</lat>
+<lng>-2.95967</lng>
+<geonameId>7292396</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<adminCode4>40UC007</adminCode4>
+<adminName4>Brent Knoll</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brent_Knoll</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.99326</west>
+<north>51.28703</north>
+<east>-2.92608</east>
+<south>51.2335</south>
+</bbox>
+<score>52.11166000366211</score>
+</geoname>
+<geoname>
+<toponymName>Brent Knoll</toponymName>
+<name>Brent Knoll</name>
+<lat>51.25219</lat>
+<lng>-2.95744</lng>
+<geonameId>2654786</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Brent Knoll</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.97181</west>
+<north>51.26119</north>
+<east>-2.94307</east>
+<south>51.2432</south>
+</bbox>
+<score>51.38427734375</score>
+</geoname>
+</geonames>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Buckley</toponymName>
+<name>Buckley</name>
+<lat>53.17219</lat>
+<lng>-3.07521</lng>
+<geonameId>7294087</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ004</adminCode3>
+<adminName3>Buckley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.10379</west>
+<north>53.19556</north>
+<east>-3.04664</east>
+<south>53.14882</south>
+</bbox>
+<score>90.3871841430664</score>
+</geoname>
+<geoname>
+<toponymName>Buckley</toponymName>
+<name>Buckley</name>
+<lat>53.16667</lat>
+<lng>-3.08333</lng>
+<geonameId>2654394</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>18471</population>
+<alternateNames>Buckley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ004</adminCode3>
+<adminName3>Buckley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Buckley</alternateName>
+<alternateName lang="unlc">BCL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.1124</west>
+<north>53.18408</north>
+<east>-3.05427</east>
+<south>53.14925</south>
+</bbox>
+<score>90.33634948730469</score>
+</geoname>
+</geonames>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Berrow</toponymName>
+<name>Berrow</name>
+<lat>51.26472</lat>
+<lng>-3.00861</lng>
+<geonameId>2655838</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Berrow</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Berrow%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.02299</west>
+<north>51.27372</north>
+<east>-2.99424</east>
+<south>51.25573</south>
+</bbox>
+<score>97.35264587402344</score>
+</geoname>
+<geoname>
+<toponymName>Berrow</toponymName>
+<name>Berrow</name>
+<lat>51.27058</lat>
+<lng>-3.03219</lng>
+<geonameId>7297747</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<adminCode4>40UC005</adminCode4>
+<adminName4>Berrow</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.08112</west>
+<north>51.29002</north>
+<east>-2.98327</east>
+<south>51.25114</south>
+</bbox>
+<score>77.5372543334961</score>
+</geoname>
+<geoname>
+<toponymName>Berrow</toponymName>
+<name>Berrow</name>
+<lat>52.01273</lat>
+<lng>-2.31432</lng>
+<geonameId>7291711</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UC</adminCode3>
+<adminName3>Malvern Hills District</adminName3>
+<adminCode4>47UC005</adminCode4>
+<adminName4>Berrow</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Berrow%2C_Worcestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.35255</west>
+<north>52.03019</north>
+<east>-2.27609</east>
+<south>51.99527</south>
+</bbox>
+<score>53.0169563293457</score>
+</geoname>
+</geonames>

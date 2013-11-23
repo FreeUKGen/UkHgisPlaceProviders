@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Hull</toponymName>
+<name>Hull</name>
+<lat>53.7446</lat>
+<lng>-0.33525</lng>
+<geonameId>2645425</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>302296</population>
+<alternateNames>Hull,Kingston upon Hull,Kingston-apon-Khall,Kingston-upon-Hull,he er he pan jing shi dun,Кингстон-апон-Халл,האל,赫爾河畔京士頓</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G6</adminCode2>
+<adminName2>City of Kingston upon Hull</adminName2>
+<alternateName lang="de">Kingston upon Hull</alternateName>
+<alternateName lang="en">Hull</alternateName>
+<alternateName lang="eo">Hull</alternateName>
+<alternateName lang="fi">Kingston upon Hull</alternateName>
+<alternateName lang="fr">Kingston-upon-Hull</alternateName>
+<alternateName lang="he">האל</alternateName>
+<alternateName lang="id">Kingston upon Hull</alternateName>
+<alternateName lang="lb">Kingston-upon-Hull</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kingston_upon_Hull</alternateName>
+<alternateName lang="nl">Kingston upon Hull</alternateName>
+<alternateName lang="nn">Kingston upon Hull</alternateName>
+<alternateName lang="no">Kingston upon Hull</alternateName>
+<alternateName lang="pl">Kingston upon Hull</alternateName>
+<alternateName lang="ro">Kingston upon Hull</alternateName>
+<alternateName lang="ru">Кингстон-апон-Халл</alternateName>
+<alternateName lang="sv">Hull</alternateName>
+<alternateName lang="tr">Kingston upon Hull</alternateName>
+<alternateName lang="unlc">KUH</alternateName>
+<alternateName lang="zh-TW">赫爾河畔京士頓</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.45593</west>
+<north>53.81584</north>
+<east>-0.21458</east>
+<south>53.67336</south>
+</bbox>
+<score>191.7205047607422</score>
+</geoname>
+<geoname>
+<toponymName>City of Kingston upon Hull</toponymName>
+<name>City of Kingston upon Hull</name>
+<lat>53.75</lat>
+<lng>-0.33333</lng>
+<geonameId>3333159</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>258700</population>
+<alternateNames>City of Kingston upon Hull,KHL,Kingston upon Hull</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G6</adminCode2>
+<adminName2>City of Kingston upon Hull</adminName2>
+<alternateName lang="abbr">KHL</alternateName>
+<alternateName lang="nb">Kingston upon Hull</alternateName>
+<alternateName lang="nn">Kingston upon Hull</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.42258</west>
+<north>53.81325</north>
+<east>-0.2414</east>
+<south>53.71156</south>
+</bbox>
+<score>101.1072769165039</score>
+</geoname>
+<geoname>
+<toponymName>Kingston upon Hull</toponymName>
+<name>Kingston upon Hull</name>
+<lat>53.7401</lat>
+<lng>-0.33129</lng>
+<geonameId>6288316</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>TOWR</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>tower</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G6</adminCode2>
+<adminName2>City of Kingston upon Hull</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>17.598281860351562</score>
+</geoname>
+</geonames>

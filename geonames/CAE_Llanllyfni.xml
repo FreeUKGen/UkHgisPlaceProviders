@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanllyfni</toponymName>
+<name>Llanllyfni</name>
+<lat>53.03938</lat>
+<lng>-4.24085</lng>
+<geonameId>7300649</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC043</adminCode3>
+<adminName3>Llanllyfni</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.3261</west>
+<north>53.06946</north>
+<east>-4.1556</east>
+<south>53.00931</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Llanllyfni</toponymName>
+<name>Llanllyfni</name>
+<lat>53.04128</lat>
+<lng>-4.28382</lng>
+<geonameId>2643978</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanllyfni</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC043</adminCode3>
+<adminName3>Llanllyfni</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanllyfni</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.29878</west>
+<north>53.05028</north>
+<east>-4.26886</east>
+<south>53.03229</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+</geonames>

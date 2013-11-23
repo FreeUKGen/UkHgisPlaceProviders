@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Northallerton</toponymName>
+<name>Northallerton</name>
+<lat>54.33901</lat>
+<lng>-1.43243</lng>
+<geonameId>2641435</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>16480</population>
+<alternateNames>XNO,nosaelleoteon,노샐러턴</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<alternateName lang="iata">XNO</alternateName>
+<alternateName lang="ko">노샐러턴</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Northallerton</alternateName>
+<alternateName lang="unlc">NAL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.46025</west>
+<north>54.35522</north>
+<east>-1.4046</east>
+<south>54.32279</south>
+</bbox>
+<score>84.75968933105469</score>
+</geoname>
+<geoname>
+<toponymName>Northallerton</toponymName>
+<name>Northallerton</name>
+<lat>54.35212</lat>
+<lng>-1.41294</lng>
+<geonameId>7291519</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<adminCode4>36UC110</adminCode4>
+<adminName4>Northallerton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.47054</west>
+<north>54.38212</north>
+<east>-1.35534</east>
+<south>54.32211</south>
+</bbox>
+<score>80.57308959960938</score>
+</geoname>
+</geonames>

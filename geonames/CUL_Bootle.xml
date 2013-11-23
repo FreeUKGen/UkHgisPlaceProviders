@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Bootle</toponymName>
+<name>Bootle</name>
+<lat>53.46667</lat>
+<lng>-3.01667</lng>
+<geonameId>2655198</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>57791</population>
+<alternateNames>Bootle,Butl,bu te er,bwtl, anglstan,Бутл,بوتل، انگلستان,布特爾</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L8</adminCode2>
+<adminName2>Sefton</adminName2>
+<alternateName lang="fa">بوتل، انگلستان</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bootle</alternateName>
+<alternateName lang="ru">Бутл</alternateName>
+<alternateName lang="sr">Бутл</alternateName>
+<alternateName lang="unlc">BOE</alternateName>
+<alternateName lang="zh">布特爾</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.06904</west>
+<north>53.49782</north>
+<east>-2.96429</east>
+<south>53.43551</south>
+</bbox>
+<score>93.06095123291016</score>
+</geoname>
+<geoname>
+<toponymName>Bootle</toponymName>
+<name>Bootle</name>
+<lat>54.28166</lat>
+<lng>-3.3716</lng>
+<geonameId>2655197</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UE</adminCode3>
+<adminName3>Copeland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bootle%2C_Cumbria</alternateName>
+<alternateName lang="unlc">BOO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.38701</west>
+<north>54.29066</north>
+<east>-3.35619</east>
+<south>54.27267</south>
+</bbox>
+<score>79.63191223144531</score>
+</geoname>
+<geoname>
+<toponymName>Bootle</toponymName>
+<name>Bootle</name>
+<lat>54.30702</lat>
+<lng>-3.37129</lng>
+<geonameId>7293184</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UE</adminCode3>
+<adminName3>Copeland District</adminName3>
+<adminCode4>16UE002</adminCode4>
+<adminName4>Bootle</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.44157</west>
+<north>54.35201</north>
+<east>-3.30102</east>
+<south>54.26204</south>
+</bbox>
+<score>75.62367248535156</score>
+</geoname>
+</geonames>

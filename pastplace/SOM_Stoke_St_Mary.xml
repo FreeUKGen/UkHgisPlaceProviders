@@ -1,0 +1,37 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>13269</id>
+<name>STOKE ST MARY</name>
+<container>SOMERSET</container>
+<lat>50.9976307846812</lat>
+<lon>-3.05824876720516</lon>
+<gazetteerText>STOKE-ST. MARY, a parish in Tannton district, Somerset; 3&#189; miles SE of Taunton r. station. Post town, Taunton. Acres, 923. Real property, &#163;1,936. Pop., 266. Houses, 55. The manor belongs to R. Mattock, Esq. S. House and S. Court are chief residences. The living is a rectory in the diocese of Bath and Wells. Value, &#163;133. Patron, Lord Portman. The church is ancient. There is an Independent chapel. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/SOM/StokeStMary/index.html</link>
+<link>http://en.wikipedia.org/wiki/Stoke_St_Mary</link>
+</links>
+<unit>
+   <id>10442564</id>
+   <status>CP/AP</status>
+   <name>STOKE ST MARY</name>
+</unit>
+<unit>
+   <id>10442588</id>
+   <status>EP</status>
+   <name>STOKE ST MARY</name>
+</unit>
+<nearByPlace>
+   <id>12933</id>
+   <name>WEST HATCH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13131</id>
+   <name>ORCHARD PORTMAN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13479</id>
+   <name>THURLBEAR</name>
+</nearByPlace>
+</place>
+</results>

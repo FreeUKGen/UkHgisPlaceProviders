@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Barwick</toponymName>
+<name>Barwick</name>
+<lat>50.92361</lat>
+<lng>-2.6253</lng>
+<geonameId>7294114</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD010</adminCode4>
+<adminName4>Barwick</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barwick%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.63968</west>
+<north>50.94244</north>
+<east>-2.60403</east>
+<south>50.90725</south>
+</bbox>
+<score>48.54372787475586</score>
+</geoname>
+<geoname>
+<toponymName>Barwick</toponymName>
+<name>Barwick</name>
+<lat>52.8824</lat>
+<lng>0.68722</lng>
+<geonameId>7295651</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<adminCode4>33UE004</adminCode4>
+<adminName4>Barwick</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barwick%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.66021</west>
+<north>52.8966</north>
+<east>0.71424</east>
+<south>52.8682</south>
+</bbox>
+<score>48.54372787475586</score>
+</geoname>
+</geonames>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Crowle</toponymName>
+<name>Crowle</name>
+<lat>53.61025</lat>
+<lng>-0.83516</lng>
+<geonameId>7290731</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD015</adminCode3>
+<adminName3>Crowle</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.89792</west>
+<north>53.64175</north>
+<east>-0.77241</east>
+<south>53.57876</south>
+</bbox>
+<score>108.34037780761719</score>
+</geoname>
+<geoname>
+<toponymName>Crowle</toponymName>
+<name>Crowle</name>
+<lat>52.2</lat>
+<lng>-2.11667</lng>
+<geonameId>2651842</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Crowle</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Crowle%2C_Worcestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.13134</west>
+<north>52.20899</north>
+<east>-2.10199</east>
+<south>52.19101</south>
+</bbox>
+<score>97.80718994140625</score>
+</geoname>
+<geoname>
+<toponymName>Crowle</toponymName>
+<name>Crowle</name>
+<lat>52.20731</lat>
+<lng>-2.10443</lng>
+<geonameId>7292794</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<adminCode4>47UF027</adminCode4>
+<adminName4>Crowle</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.12982</west>
+<north>52.22218</north>
+<east>-2.07905</east>
+<south>52.19244</south>
+</bbox>
+<score>78.08200073242188</score>
+</geoname>
+<geoname>
+<toponymName>Crowle</toponymName>
+<name>Crowle</name>
+<lat>53.60753</lat>
+<lng>-0.83256</lng>
+<geonameId>2651841</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD015</adminCode3>
+<adminName3>Crowle</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Crowle%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.86289</west>
+<north>53.62552</north>
+<east>-0.80223</east>
+<south>53.58954</south>
+</bbox>
+<score>69.20610046386719</score>
+</geoname>
+</geonames>

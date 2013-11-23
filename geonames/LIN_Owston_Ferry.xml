@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Owston Ferry</toponymName>
+<name>Owston Ferry</name>
+<lat>53.48915</lat>
+<lng>-0.7933</lng>
+<geonameId>7298246</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD040</adminCode3>
+<adminName3>Owston Ferry</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.83602</west>
+<north>53.52327</north>
+<east>-0.75058</east>
+<south>53.45504</south>
+</bbox>
+<score>94.1609115600586</score>
+</geoname>
+<geoname>
+<toponymName>Owston Ferry</toponymName>
+<name>Owston Ferry</name>
+<lat>53.49407</lat>
+<lng>-0.78045</lng>
+<geonameId>2640740</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Owston,Owston Ferry</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD040</adminCode3>
+<adminName3>Owston Ferry</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Owston_Ferry</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.79557</west>
+<north>53.50306</north>
+<east>-0.76533</east>
+<south>53.48508</south>
+</bbox>
+<score>90.10737609863281</score>
+</geoname>
+</geonames>

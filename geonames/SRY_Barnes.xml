@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Barnes</toponymName>
+<name>Barnes</name>
+<lat>51.47352</lat>
+<lng>-0.24839</lng>
+<geonameId>2656296</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>barnsa,बार्न्स</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>L1</adminCode3>
+<adminName3>Richmond upon Thames</adminName3>
+<alternateName lang="hi">बार्न्स</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barnes%2C_London</alternateName>
+<alternateName lang="unlc">BAR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.26284</west>
+<north>51.48252</north>
+<east>-0.23395</east>
+<south>51.46453</south>
+</bbox>
+<score>42.21192169189453</score>
+</geoname>
+<geoname>
+<toponymName>Barnes</toponymName>
+<name>Barnes</name>
+<lat>54.89586</lat>
+<lng>-1.41123</lng>
+<geonameId>8604498</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N6</adminCode2>
+<adminName2>Sunderland</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.41749</west>
+<north>54.89946</north>
+<east>-1.40497</east>
+<south>54.89226</south>
+</bbox>
+<score>24.682462692260742</score>
+</geoname>
+</geonames>

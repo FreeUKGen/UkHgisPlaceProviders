@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Redbourne</toponymName>
+<name>Redbourne</name>
+<lat>53.47803</lat>
+<lng>-0.51802</lng>
+<geonameId>7290738</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD041</adminCode3>
+<adminName3>Redbourne</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.56433</west>
+<north>53.49527</north>
+<east>-0.47171</east>
+<south>53.46078</south>
+</bbox>
+<score>109.76480102539062</score>
+</geoname>
+<geoname>
+<toponymName>Redbourne</toponymName>
+<name>Redbourne</name>
+<lat>53.48728</lat>
+<lng>-0.53567</lng>
+<geonameId>2639566</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Redbourne</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD041</adminCode3>
+<adminName3>Redbourne</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Redbourne</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.56591</west>
+<north>53.50527</north>
+<east>-0.50543</east>
+<south>53.46929</south>
+</bbox>
+<score>83.75289154052734</score>
+</geoname>
+</geonames>

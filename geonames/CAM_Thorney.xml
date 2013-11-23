@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Thorney</toponymName>
+<name>Thorney</name>
+<lat>53.24397</lat>
+<lng>-0.70862</lng>
+<geonameId>7300905</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG075</adminCode4>
+<adminName4>Thorney</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.73539</west>
+<north>53.25844</north>
+<east>-0.68186</east>
+<south>53.22951</south>
+</bbox>
+<score>69.44525909423828</score>
+</geoname>
+<geoname>
+<toponymName>Thorney</toponymName>
+<name>Thorney</name>
+<lat>52.62185</lat>
+<lng>-0.10174</lng>
+<geonameId>7294419</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K3</adminCode2>
+<adminName2>Peterborough</adminName2>
+<adminCode3>00JA023</adminCode3>
+<adminName3>Thorney</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thorney%2C_Cambridgeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.19071</west>
+<north>52.67521</north>
+<east>-0.01277</east>
+<south>52.56848</south>
+</bbox>
+<score>61.93739318847656</score>
+</geoname>
+<geoname>
+<toponymName>Thorney Island</toponymName>
+<name>Thorney Island</name>
+<lat>50.81667</lat>
+<lng>-0.91667</lng>
+<geonameId>2635991</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>T</fcl>
+<fcode>ISL</fcode>
+<fclName>mountain,hill,rock,... </fclName>
+<fcodeName>island</fcodeName>
+<population/>
+<alternateNames>Thorney,Thorney Island</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thorney_Island_%28West_Sussex%29</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>57.718994140625</score>
+</geoname>
+<geoname>
+<toponymName>Thorney</toponymName>
+<name>Thorney</name>
+<lat>53.23333</lat>
+<lng>-0.71667</lng>
+<geonameId>2635993</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.7317</west>
+<north>53.24233</north>
+<east>-0.70164</east>
+<south>53.22434</south>
+</bbox>
+<score>55.24864196777344</score>
+</geoname>
+<geoname>
+<toponymName>Thorney</toponymName>
+<name>Thorney</name>
+<lat>52.62147</lat>
+<lng>-0.10815</lng>
+<geonameId>2635994</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K3</adminCode2>
+<adminName2>Peterborough</adminName2>
+<adminCode3>00JA023</adminCode3>
+<adminName3>Thorney</adminName3>
+<alternateName lang="unlc">THY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.13779</west>
+<north>52.63946</north>
+<east>-0.07851</east>
+<south>52.60348</south>
+</bbox>
+<score>28.393230438232422</score>
+</geoname>
+</geonames>

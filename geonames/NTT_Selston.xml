@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Selston</toponymName>
+<name>Selston</name>
+<lat>53.07193</lat>
+<lng>-1.30179</lng>
+<geonameId>2638215</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Selston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UB</adminCode3>
+<adminName3>Ashfield District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Selston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.31677</west>
+<north>53.08093</north>
+<east>-1.28682</east>
+<south>53.06294</south>
+</bbox>
+<score>101.88623809814453</score>
+</geoname>
+<geoname>
+<toponymName>Selston</toponymName>
+<name>Selston</name>
+<lat>53.06411</lat>
+<lng>-1.31108</lng>
+<geonameId>7300853</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UB</adminCode3>
+<adminName3>Ashfield District</adminName3>
+<adminCode4>37UB003</adminCode4>
+<adminName4>Selston</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.34459</west>
+<north>53.08637</north>
+<east>-1.27757</east>
+<south>53.04186</south>
+</bbox>
+<score>77.43025207519531</score>
+</geoname>
+</geonames>

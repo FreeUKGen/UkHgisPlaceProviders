@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Brecon</toponymName>
+<name>Brecon</name>
+<lat>51.94612</lat>
+<lng>-3.38887</lng>
+<geonameId>2654817</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7989</population>
+<alternateNames>Aberhonddu,Brecknock,Brecon,Brekon,Brekun,Brycheiniog,HMS Brecon,beulekon,Брекон,Брекън,브레콘</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN009</adminCode3>
+<adminName3>Brecon</adminName3>
+<alternateName lang="bg">Брекън</alternateName>
+<alternateName lang="br">Aberhonddu</alternateName>
+<alternateName lang="cy">Aberhonddu</alternateName>
+<alternateName lang="en">Brecon</alternateName>
+<alternateName lang="fi">HMS Brecon</alternateName>
+<alternateName lang="ko">브레콘</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brecon</alternateName>
+<alternateName lang="post">LD3</alternateName>
+<alternateName lang="ru">Брекон</alternateName>
+<alternateName lang="sl">HMS Brecon</alternateName>
+<alternateName lang="uk">Брекон</alternateName>
+<alternateName lang="unlc">BCN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.40675</west>
+<north>51.95713</north>
+<east>-3.371</east>
+<south>51.9351</south>
+</bbox>
+<score>89.6546401977539</score>
+</geoname>
+<geoname>
+<toponymName>Brecon</toponymName>
+<name>Brecon</name>
+<lat>51.94765</lat>
+<lng>-3.38601</lng>
+<geonameId>2654818</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Brecknock,Breconshire,Brycheiniog</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN009</adminCode3>
+<adminName3>Brecon</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brecknockshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.42394</west>
+<north>51.96248</north>
+<east>-3.34807</east>
+<south>51.93281</south>
+</bbox>
+<score>53.68965148925781</score>
+</geoname>
+</geonames>

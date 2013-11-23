@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Hartlepool</toponymName>
+<name>Hartlepool</name>
+<lat>54.68611</lat>
+<lng>-1.2125</lng>
+<geonameId>2647400</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>86713</population>
+<alternateNames>Harlepolis,Hartlepool,Hartlepulas,Khartlpul,ha te er pu,har tli phul,Хартлпул,هارتل‌پول,ฮาร์ตลีพูล,哈特爾浦</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F5</adminCode2>
+<adminName2>Hartlepool</adminName2>
+<alternateName lang="de">Hartlepool</alternateName>
+<alternateName lang="en">Hartlepool</alternateName>
+<alternateName lang="eo">Hartlepool</alternateName>
+<alternateName lang="fa">هارتل‌پول</alternateName>
+<alternateName lang="fr">Hartlepool</alternateName>
+<alternateName lang="la">Harlepolis</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hartlepool</alternateName>
+<alternateName lang="lt">Hartlepulas</alternateName>
+<alternateName lang="nl">Hartlepool</alternateName>
+<alternateName lang="no">Hartlepool</alternateName>
+<alternateName lang="pl">Hartlepool</alternateName>
+<alternateName lang="ro">Hartlepool</alternateName>
+<alternateName lang="ru">Хартлпул</alternateName>
+<alternateName lang="sk">Hartlepool</alternateName>
+<alternateName lang="sr">Хартлпул</alternateName>
+<alternateName lang="sv">Hartlepool</alternateName>
+<alternateName lang="th">ฮาร์ตลีพูล</alternateName>
+<alternateName lang="unlc">HTP</alternateName>
+<alternateName lang="zh">哈特爾浦</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.27857</west>
+<north>54.72427</north>
+<east>-1.14643</east>
+<south>54.64795</south>
+</bbox>
+<score>164.77444458007812</score>
+</geoname>
+<geoname>
+<toponymName>Borough of Hartlepool</toponymName>
+<name>Borough of Hartlepool</name>
+<lat>54.66667</lat>
+<lng>-1.25</lng>
+<geonameId>3333152</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>HPL,Hartlepool</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F5</adminCode2>
+<adminName2>Hartlepool</adminName2>
+<alternateName lang="abbr">HPL</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hartlepool_%28borough%29</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.38375</west>
+<north>54.72716</north>
+<east>-1.14753</east>
+<south>54.62166</south>
+</bbox>
+<score>84.76300048828125</score>
+</geoname>
+<geoname>
+<toponymName>Hartlepool</toponymName>
+<name>Hartlepool</name>
+<lat>54.71086</lat>
+<lng>-1.2203</lng>
+<geonameId>7115656</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>SWT</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>sewage treatment plant</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F5</adminCode2>
+<adminName2>Hartlepool</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>19.79075813293457</score>
+</geoname>
+</geonames>

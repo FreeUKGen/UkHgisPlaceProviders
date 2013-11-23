@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Hampton</toponymName>
+<name>Hampton</name>
+<lat>51.41334</lat>
+<lng>-0.36701</lng>
+<geonameId>2647550</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>18000</population>
+<alternateNames>Hampton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>L1</adminCode3>
+<adminName3>Richmond upon Thames</adminName3>
+<alternateName lang="en">Hampton</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hampton%2C_London</alternateName>
+<alternateName lang="post">TW12</alternateName>
+<alternateName lang="unlc">HMP</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.39495</west>
+<north>51.43076</north>
+<east>-0.33908</east>
+<south>51.39592</south>
+</bbox>
+<score>78.5125732421875</score>
+</geoname>
+<geoname>
+<toponymName>Hampton</toponymName>
+<name>Hampton</name>
+<lat>53.04026</lat>
+<lng>-2.73303</lng>
+<geonameId>7291123</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW075</adminCode3>
+<adminName3>Hampton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hampton%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.75121</west>
+<north>53.05465</north>
+<east>-2.71486</east>
+<south>53.02587</south>
+</bbox>
+<score>53.09409713745117</score>
+</geoname>
+<geoname>
+<toponymName>Hampton</toponymName>
+<name>Hampton</name>
+<lat>52.46667</lat>
+<lng>-2.38333</lng>
+<geonameId>2647549</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>604</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.38481</west>
+<north>52.46757</north>
+<east>-2.38186</east>
+<south>52.46577</south>
+</bbox>
+<score>44.46430969238281</score>
+</geoname>
+</geonames>

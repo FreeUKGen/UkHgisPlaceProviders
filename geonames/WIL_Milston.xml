@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Milston</toponymName>
+<name>Milston</name>
+<lat>51.21792</lat>
+<lng>-1.73528</lng>
+<geonameId>7297651</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY160</adminCode3>
+<adminName3>Milston</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.78082</west>
+<north>51.23256</north>
+<east>-1.68975</east>
+<south>51.20328</south>
+</bbox>
+<score>104.11979675292969</score>
+</geoname>
+<geoname>
+<toponymName>Milston</toponymName>
+<name>Milston</name>
+<lat>51.20621</lat>
+<lng>-1.76901</lng>
+<geonameId>2642480</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY160</adminCode3>
+<adminName3>Milston</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Milston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.79773</west>
+<north>51.2242</north>
+<east>-1.74029</east>
+<south>51.18822</south>
+</bbox>
+<score>71.48835754394531</score>
+</geoname>
+</geonames>

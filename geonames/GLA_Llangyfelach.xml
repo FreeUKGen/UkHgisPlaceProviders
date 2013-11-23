@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llangyfelach</toponymName>
+<name>Llangyfelach</name>
+<lat>51.67675</lat>
+<lng>-3.96705</lng>
+<geonameId>7300393</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z1</adminCode2>
+<adminName2>Swansea</adminName2>
+<adminCode3>00NX016</adminCode3>
+<adminName3>Llangyfelach</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llangyfelach</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.00208</west>
+<north>51.69786</north>
+<east>-3.93201</east>
+<south>51.65564</south>
+</bbox>
+<score>80.7945556640625</score>
+</geoname>
+</geonames>

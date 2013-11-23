@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Godalming</toponymName>
+<name>Godalming</name>
+<lat>51.18462</lat>
+<lng>-0.61725</lng>
+<geonameId>2648372</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>22199</population>
+<alternateNames>Godalming,Godalminge,Godlmingas,Goldaming,godelmingi,godeolming,Годалминг,Годалминге,გოდელმინგი,고덜밍</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UL</adminCode3>
+<adminName3>Waverley District</adminName3>
+<alternateName lang="ka">გოდელმინგი</alternateName>
+<alternateName lang="kk">Годалминг</alternateName>
+<alternateName lang="ko">고덜밍</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Godalming</alternateName>
+<alternateName lang="lt">Godlmingas</alternateName>
+<alternateName lang="ru">Годалминг</alternateName>
+<alternateName lang="unlc">GOD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.6477</west>
+<north>51.20369</north>
+<east>-0.5868</east>
+<south>51.16554</south>
+</bbox>
+<score>123.54389190673828</score>
+</geoname>
+<geoname>
+<toponymName>Godalming</toponymName>
+<name>Godalming</name>
+<lat>51.18896</lat>
+<lng>-0.61291</lng>
+<geonameId>7297353</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UL</adminCode3>
+<adminName3>Waverley District</adminName3>
+<adminCode4>43UL012</adminCode4>
+<adminName4>Godalming</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.64093</west>
+<north>51.20806</north>
+<east>-0.58489</east>
+<south>51.16985</south>
+</bbox>
+<score>78.45442199707031</score>
+</geoname>
+</geonames>

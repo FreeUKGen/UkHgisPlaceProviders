@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Watford</toponymName>
+<name>Watford</name>
+<lat>51.65531</lat>
+<lng>-0.39602</lng>
+<geonameId>2634677</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>125707</population>
+<alternateNames>Uotford,Votford,Votfordas,Watford,waspeodeu,watfwrd,watofodo,wo te fu de,wtpwrd,wwtpwrd,Вотфорд,Уотфорд,ווטפורד,וטפורד,واتفورد,ワトフォード,沃特福德,왓퍼드</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UK</adminCode3>
+<adminName3>Watford District</adminName3>
+<alternateName lang="de">Watford</alternateName>
+<alternateName lang="en">Watford</alternateName>
+<alternateName lang="fa">واتفورد</alternateName>
+<alternateName lang="he">ווטפורד</alternateName>
+<alternateName lang="id">Watford</alternateName>
+<alternateName lang="it">Watford</alternateName>
+<alternateName lang="ja">ワトフォード</alternateName>
+<alternateName lang="ko">왓퍼드</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Watford</alternateName>
+<alternateName lang="lt">Votfordas</alternateName>
+<alternateName lang="nl">Watford</alternateName>
+<alternateName lang="no">Watford</alternateName>
+<alternateName lang="pl">Watford</alternateName>
+<alternateName lang="ru">Уотфорд</alternateName>
+<alternateName lang="sr">Вотфорд</alternateName>
+<alternateName lang="unlc">WAF</alternateName>
+<alternateName lang="zh">沃特福德</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.47002</west>
+<north>51.70116</north>
+<east>-0.32203</east>
+<south>51.60945</south>
+</bbox>
+<score>166.46388244628906</score>
+</geoname>
+<geoname>
+<toponymName>Watford</toponymName>
+<name>Watford</name>
+<lat>52.31687</lat>
+<lng>-1.1158</lng>
+<geonameId>2634676</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Watford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Watford%2C_Northamptonshire</alternateName>
+<alternateName lang="unlc">WF2</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.13051</west>
+<north>52.32587</north>
+<east>-1.10108</east>
+<south>52.30788</south>
+</bbox>
+<score>76.94229125976562</score>
+</geoname>
+<geoname>
+<toponymName>Watford</toponymName>
+<name>Watford</name>
+<lat>52.32384</lat>
+<lng>-1.12088</lng>
+<geonameId>7301955</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<adminCode4>34UC066</adminCode4>
+<adminName4>Watford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.15986</west>
+<north>52.34833</north>
+<east>-1.08191</east>
+<south>52.29935</south>
+</bbox>
+<score>69.98611450195312</score>
+</geoname>
+</geonames>

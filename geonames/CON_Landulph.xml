@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Landulph</toponymName>
+<name>Landulph</name>
+<lat>50.44683</lat>
+<lng>-4.22649</lng>
+<geonameId>7300014</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE058</adminCode3>
+<adminName3>Landulph</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Landulph</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.25672</west>
+<north>50.46818</north>
+<east>-4.19625</east>
+<south>50.42547</south>
+</bbox>
+<score>80.7945556640625</score>
+</geoname>
+</geonames>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ladock</toponymName>
+<name>Ladock</name>
+<lat>50.33306</lat>
+<lng>-4.96165</lng>
+<geonameId>7293073</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE055</adminCode3>
+<adminName3>Ladock</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.02422</west>
+<north>50.36111</north>
+<east>-4.89907</east>
+<south>50.30501</south>
+</bbox>
+<score>114.38015747070312</score>
+</geoname>
+<geoname>
+<toponymName>Ladock</toponymName>
+<name>Ladock</name>
+<lat>50.32026</lat>
+<lng>-4.96142</lng>
+<geonameId>2645066</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ladock</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE055</adminCode3>
+<adminName3>Ladock</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ladock</alternateName>
+<alternateName lang="unlc">LDC</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.97551</west>
+<north>50.32926</north>
+<east>-4.94733</east>
+<south>50.31127</south>
+</bbox>
+<score>93.703857421875</score>
+</geoname>
+</geonames>

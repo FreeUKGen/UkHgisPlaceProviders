@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Derwen</toponymName>
+<name>Derwen</name>
+<lat>53.0526</lat>
+<lng>-3.38595</lng>
+<geonameId>7301119</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG013</adminCode3>
+<adminName3>Derwen</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.43712</west>
+<north>53.07024</north>
+<east>-3.33479</east>
+<south>53.03496</south>
+</bbox>
+<score>108.80126190185547</score>
+</geoname>
+<geoname>
+<toponymName>Derwen</toponymName>
+<name>Derwen</name>
+<lat>53.03333</lat>
+<lng>-3.4</lng>
+<geonameId>2651321</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG013</adminCode3>
+<adminName3>Derwen</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Derwen</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.42992</west>
+<north>53.05132</north>
+<east>-3.37008</east>
+<south>53.01535</south>
+</bbox>
+<score>74.84004974365234</score>
+</geoname>
+</geonames>

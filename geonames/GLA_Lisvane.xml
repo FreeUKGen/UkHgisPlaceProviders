@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Lisvane</toponymName>
+<name>Lisvane</name>
+<lat>51.5459</lat>
+<lng>-3.18232</lng>
+<geonameId>7292887</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X5</adminCode2>
+<adminName2>City and County of Cardiff</adminName2>
+<adminCode3>00PT013</adminCode3>
+<adminName3>Lisvane</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.21586</west>
+<north>51.56043</north>
+<east>-3.14877</east>
+<south>51.53138</south>
+</bbox>
+<score>105.67742156982422</score>
+</geoname>
+<geoname>
+<toponymName>Lisvane</toponymName>
+<name>Lisvane</name>
+<lat>51.53993</lat>
+<lng>-3.17549</lng>
+<geonameId>2644391</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Lisvane,Llysvaen</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X5</adminCode2>
+<adminName2>City and County of Cardiff</adminName2>
+<adminCode3>00PT013</adminCode3>
+<adminName3>Lisvane</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lisvane</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.18127</west>
+<north>51.54353</north>
+<east>-3.1697</east>
+<south>51.53633</south>
+</bbox>
+<score>71.76666259765625</score>
+</geoname>
+</geonames>

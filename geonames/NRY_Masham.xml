@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Masham</toponymName>
+<name>Masham</name>
+<lat>54.2227</lat>
+<lng>-1.65718</lng>
+<geonameId>2642921</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UD</adminCode3>
+<adminName3>Harrogate District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Masham</alternateName>
+<alternateName lang="unlc">MAS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.67257</west>
+<north>54.2317</north>
+<east>-1.64179</east>
+<south>54.21371</south>
+</bbox>
+<score>68.96321868896484</score>
+</geoname>
+<geoname>
+<toponymName>Masham</toponymName>
+<name>Masham</name>
+<lat>54.23259</lat>
+<lng>-1.66854</lng>
+<geonameId>7291628</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UD</adminCode3>
+<adminName3>Harrogate District</adminName3>
+<adminCode4>36UD085</adminCode4>
+<adminName4>Masham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.69382</west>
+<north>54.25224</north>
+<east>-1.64326</east>
+<south>54.21294</south>
+</bbox>
+<score>61.01399230957031</score>
+</geoname>
+</geonames>

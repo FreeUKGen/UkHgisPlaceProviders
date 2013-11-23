@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Guyhirn</toponymName>
+<name>Guyhirn</name>
+<lat>52.60873</lat>
+<lng>0.05948</lng>
+<geonameId>2647742</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Guyhirn,Guyhirne</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UD</adminCode3>
+<adminName3>Fenland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Guyhirn</alternateName>
+<alternateName lang="unlc">GHN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.04467</west>
+<north>52.61772</north>
+<east>0.07429</east>
+<south>52.59974</south>
+</bbox>
+<score>91.39631652832031</score>
+</geoname>
+</geonames>

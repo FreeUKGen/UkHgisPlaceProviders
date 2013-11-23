@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bothenhampton</toponymName>
+<name>Bothenhampton</name>
+<lat>50.72351</lat>
+<lng>-2.73874</lng>
+<geonameId>7293411</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH012</adminCode4>
+<adminName4>Bothenhampton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bothenhampton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.75722</west>
+<north>50.73624</north>
+<east>-2.72027</east>
+<south>50.71079</south>
+</bbox>
+<score>61.74647521972656</score>
+</geoname>
+</geonames>

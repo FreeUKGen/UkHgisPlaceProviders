@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Upper Arley</toponymName>
+<name>Upper Arley</name>
+<lat>52.41893</lat>
+<lng>-2.34594</lng>
+<geonameId>2635148</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Arley,Upper Arley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UG</adminCode3>
+<adminName3>Wyre Forest District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Upper_Arley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.36069</west>
+<north>52.42792</north>
+<east>-2.33119</east>
+<south>52.40993</south>
+</bbox>
+<score>87.79693603515625</score>
+</geoname>
+<geoname>
+<toponymName>Upper Arley</toponymName>
+<name>Upper Arley</name>
+<lat>52.41967</lat>
+<lng>-2.32952</lng>
+<geonameId>7299702</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UG</adminCode3>
+<adminName3>Wyre Forest District</adminName3>
+<adminCode4>47UG011</adminCode4>
+<adminName4>Upper Arley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.37295</west>
+<north>52.4553</north>
+<east>-2.2861</east>
+<south>52.38404</south>
+</bbox>
+<score>71.46377563476562</score>
+</geoname>
+</geonames>

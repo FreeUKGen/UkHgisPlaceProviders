@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Retford</toponymName>
+<name>East Retford</name>
+<lat>53.32213</lat>
+<lng>-0.94315</lng>
+<geonameId>2650346</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>21897</population>
+<alternateNames>East Retford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<alternateName lang="en">East Retford</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Retford</alternateName>
+<alternateName lang="unlc">RFO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.97511</west>
+<north>53.34121</north>
+<east>-0.9112</east>
+<south>53.30305</south>
+</bbox>
+<score>89.6719741821289</score>
+</geoname>
+</geonames>

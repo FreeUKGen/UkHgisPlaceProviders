@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Castle Hedingham</toponymName>
+<name>Castle Hedingham</name>
+<lat>51.99015</lat>
+<lng>0.59882</lng>
+<geonameId>2653579</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1000</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UC</adminCode3>
+<adminName3>Braintree District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Castle_Hedingham</alternateName>
+<alternateName lang="unlc">EHE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.59736</west>
+<north>51.99105</north>
+<east>0.60028</east>
+<south>51.98925</south>
+</bbox>
+<score>79.39009857177734</score>
+</geoname>
+<geoname>
+<toponymName>Castle Hedingham</toponymName>
+<name>Castle Hedingham</name>
+<lat>51.99832</lat>
+<lng>0.60107</lng>
+<geonameId>7295100</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UC</adminCode3>
+<adminName3>Braintree District</adminName3>
+<adminCode4>22UC013</adminCode4>
+<adminName4>Castle Hedingham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.5739</west>
+<north>52.01803</north>
+<east>0.62823</east>
+<south>51.97862</south>
+</bbox>
+<score>73.39537048339844</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Newton Tony</toponymName>
+<name>Newton Tony</name>
+<lat>51.16442</lat>
+<lng>-1.6899</lng>
+<geonameId>2641527</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Newton Toney,Newton Tony</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY167</adminCode3>
+<adminName3>Newton Tony</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newton_Tony</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.70424</west>
+<north>51.17341</north>
+<east>-1.67555</east>
+<south>51.15542</south>
+</bbox>
+<score>94.76807403564453</score>
+</geoname>
+<geoname>
+<toponymName>Newton Tony</toponymName>
+<name>Newton Tony</name>
+<lat>51.1586</lat>
+<lng>-1.68463</lng>
+<geonameId>7297663</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY167</adminCode3>
+<adminName3>Newton Tony</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.71525</west>
+<north>51.17506</north>
+<east>-1.654</east>
+<south>51.14214</south>
+</bbox>
+<score>85.64128112792969</score>
+</geoname>
+</geonames>

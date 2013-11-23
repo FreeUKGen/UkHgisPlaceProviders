@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>South Normanton</toponymName>
+<name>South Normanton</name>
+<lat>53.10637</lat>
+<lng>-1.34262</lng>
+<geonameId>2637358</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UC</adminCode3>
+<adminName3>Bolsover District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/South_Normanton</alternateName>
+<alternateName lang="unlc">SNO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.3576</west>
+<north>53.11536</north>
+<east>-1.32763</east>
+<south>53.09738</south>
+</bbox>
+<score>78.18896484375</score>
+</geoname>
+<geoname>
+<toponymName>South Normanton</toponymName>
+<name>South Normanton</name>
+<lat>53.10133</lat>
+<lng>-1.34163</lng>
+<geonameId>7300190</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UC</adminCode3>
+<adminName3>Bolsover District</adminName3>
+<adminCode4>17UC012</adminCode4>
+<adminName4>South Normanton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.37365</west>
+<north>53.11612</north>
+<east>-1.30961</east>
+<south>53.08654</south>
+</bbox>
+<score>70.88331604003906</score>
+</geoname>
+</geonames>

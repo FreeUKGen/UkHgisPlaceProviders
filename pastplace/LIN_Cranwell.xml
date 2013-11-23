@@ -1,0 +1,55 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>12006</id>
+<name>CRANWELL</name>
+<container>LINCOLNSHIRE</container>
+<lat>53.0355413301479</lat>
+<lon>-0.477856232687646</lon>
+<gazetteerText>CRANWELL, a parish in Sleaford district, Lincoln: near Ermine-street and the Grantham and Boston railway, 4 miles NW of Sleaford. Post town, Sleaford. Acres, 2, 522. Real property, &#163;2, 426. Pop., 233. Houses, 44. The property is divided among a few. The parish is a meet for the Belvoir hounds. The living is a vicarage in the diocese of Lincoln. Value, &#163;370. Patron, the Bishop of Lincoln. The church was reported in 1859 to need repair. Charities, &#163;9. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LIN/Cranwell/</link>
+<link>http://en.wikipedia.org/wiki/Cranwell</link>
+<link>http://www.geonames.org/2652075</link>
+</links>
+<unit>
+   <id>10409639</id>
+   <status>CP/AP</status>
+   <name>CRANWELL</name>
+</unit>
+<unit>
+   <id>10409640</id>
+   <status>EP</status>
+   <name>CRANWELL</name>
+</unit>
+<unit>
+   <id>10409652</id>
+   <status>CP</status>
+   <name>CRANWELL AND BYARDS LEAP</name>
+</unit>
+<nearByPlace>
+   <id>11401</id>
+   <name>ANCASTER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11759</id>
+   <name>BRAUNCEWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11833</id>
+   <name>BYARDS LEAP</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11922</id>
+   <name>CAYTHORPE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13366</id>
+   <name>NORMANTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13476</id>
+   <name>NORTH RAUCEBY</name>
+</nearByPlace>
+</place>
+</results>

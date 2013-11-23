@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Burslem</toponymName>
+<name>Burslem</name>
+<lat>53.04476</lat>
+<lng>-2.19704</lng>
+<geonameId>2654225</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N4</adminCode2>
+<adminName2>Stoke-on-Trent</adminName2>
+<adminCode3>41UE</adminCode3>
+<adminName3>GB.ENG.N4.41UE</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burslem</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.212</west>
+<north>53.05376</north>
+<east>-2.18208</east>
+<south>53.03577</south>
+</bbox>
+<score>91.31184387207031</score>
+</geoname>
+</geonames>

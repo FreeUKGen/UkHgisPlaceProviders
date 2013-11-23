@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Great Tey</toponymName>
+<name>Great Tey</name>
+<lat>51.89925</lat>
+<lng>0.74903</lng>
+<geonameId>2648005</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UG</adminCode3>
+<adminName3>Colchester District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Great_Tey</alternateName>
+<alternateName lang="unlc">GTT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.73445</west>
+<north>51.90825</north>
+<east>0.76361</east>
+<south>51.89026</south>
+</bbox>
+<score>74.11785125732422</score>
+</geoname>
+<geoname>
+<toponymName>Great Tey</toponymName>
+<name>Great Tey</name>
+<lat>51.89429</lat>
+<lng>0.73108</lng>
+<geonameId>7295119</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UG</adminCode3>
+<adminName3>Colchester District</adminName3>
+<adminCode4>22UG015</adminCode4>
+<adminName4>Great Tey</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.69938</west>
+<north>51.92105</north>
+<east>0.76278</east>
+<south>51.86754</south>
+</bbox>
+<score>66.56170654296875</score>
+</geoname>
+</geonames>

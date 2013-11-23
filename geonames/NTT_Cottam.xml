@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Cottam</toponymName>
+<name>Cottam</name>
+<lat>53.3</lat>
+<lng>-0.76667</lng>
+<geonameId>2652270</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cottam,Cottom</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.78172</west>
+<north>53.30899</north>
+<east>-0.75161</east>
+<south>53.29101</south>
+</bbox>
+<score>78.14605712890625</score>
+</geoname>
+<geoname>
+<toponymName>Cottam</toponymName>
+<name>Cottam</name>
+<lat>54.06804</lat>
+<lng>-0.50614</lng>
+<geonameId>7298436</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB035</adminCode3>
+<adminName3>Cottam</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cottam%2C_East_Riding_of_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.55128</west>
+<north>54.09727</north>
+<east>-0.46099</east>
+<south>54.0388</south>
+</bbox>
+<score>68.12358856201172</score>
+</geoname>
+<geoname>
+<toponymName>Cottam</toponymName>
+<name>Cottam</name>
+<lat>53.31413</lat>
+<lng>-0.76976</lng>
+<geonameId>7299319</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<adminCode4>37UC013</adminCode4>
+<adminName4>Cottam</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cottam%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.78703</west>
+<north>53.32107</north>
+<east>-0.75248</east>
+<south>53.30719</south>
+</bbox>
+<score>52.51261901855469</score>
+</geoname>
+</geonames>

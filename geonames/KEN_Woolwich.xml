@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Woolwich</toponymName>
+<name>Woolwich</name>
+<lat>51.491</lat>
+<lng>0.0648</lng>
+<geonameId>2633583</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Vulidzh,o'ulica,wu li qi,Вулидж,وول‌ویچ,ওউলিচ,伍利奇</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>E7</adminCode3>
+<adminName3>Greenwich</adminName3>
+<alternateName lang="bn">ওউলিচ</alternateName>
+<alternateName lang="fa">وول‌ویچ</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Woolwich</alternateName>
+<alternateName lang="ru">Вулидж</alternateName>
+<alternateName lang="unlc">WLW</alternateName>
+<alternateName lang="zh">伍利奇</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.0359</west>
+<north>51.50899</north>
+<east>0.0937</east>
+<south>51.47302</south>
+</bbox>
+<score>38.71393585205078</score>
+</geoname>
+</geonames>

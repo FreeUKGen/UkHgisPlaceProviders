@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanwrtyd</toponymName>
+<name>Llanwrtyd</name>
+<lat>52.11667</lat>
+<lng>-3.66667</lng>
+<geonameId>2643906</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanwrtyd</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanwrtyd</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.68132</west>
+<north>52.12566</north>
+<east>-3.65202</east>
+<south>52.10767</south>
+</bbox>
+<score>107.9564208984375</score>
+</geoname>
+<geoname>
+<toponymName>Llanwrtyd Wells</toponymName>
+<name>Llanwrtyd Wells</name>
+<lat>52.10659</lat>
+<lng>-3.63924</lng>
+<geonameId>2643905</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanwrtyd,Llanwrtyd Wells</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN077</adminCode3>
+<adminName3>Llanwrtyd Wells</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanwrtyd_Wells</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.65389</west>
+<north>52.11558</north>
+<east>-3.6246</east>
+<south>52.0976</south>
+</bbox>
+<score>68.03817749023438</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kilkhampton</toponymName>
+<name>Kilkhampton</name>
+<lat>50.87478</lat>
+<lng>-4.49156</lng>
+<geonameId>7297571</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE054</adminCode3>
+<adminName3>Kilkhampton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.56223</west>
+<north>50.90785</north>
+<east>-4.42089</east>
+<south>50.84171</south>
+</bbox>
+<score>114.8853759765625</score>
+</geoname>
+<geoname>
+<toponymName>Kilkhampton</toponymName>
+<name>Kilkhampton</name>
+<lat>50.87566</lat>
+<lng>-4.48392</lng>
+<geonameId>2645655</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kilkhampton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE054</adminCode3>
+<adminName3>Kilkhampton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kilkhampton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.49818</west>
+<north>50.88466</north>
+<east>-4.46967</east>
+<south>50.86667</south>
+</bbox>
+<score>108.87509155273438</score>
+</geoname>
+</geonames>

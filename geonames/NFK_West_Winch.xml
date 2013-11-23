@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>West Winch</toponymName>
+<name>West Winch</name>
+<lat>52.70869</lat>
+<lng>0.42139</lng>
+<geonameId>7295666</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UE</adminCode3>
+<adminName3>King's Lynn and West Norfolk District</adminName3>
+<adminCode4>33UE096</adminCode4>
+<adminName4>West Winch</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/West_Winch</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.39009</west>
+<north>52.72902</north>
+<east>0.4527</east>
+<south>52.68837</south>
+</bbox>
+<score>53.15677261352539</score>
+</geoname>
+</geonames>

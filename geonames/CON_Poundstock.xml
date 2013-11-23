@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Poundstock</toponymName>
+<name>Poundstock</name>
+<lat>50.77102</lat>
+<lng>-4.5509</lng>
+<geonameId>7294441</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE115</adminCode3>
+<adminName3>Poundstock</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.59119</west>
+<north>50.80169</north>
+<east>-4.5106</east>
+<south>50.74035</south>
+</bbox>
+<score>108.91752624511719</score>
+</geoname>
+<geoname>
+<toponymName>Poundstock</toponymName>
+<name>Poundstock</name>
+<lat>50.76667</lat>
+<lng>-4.55</lng>
+<geonameId>2639954</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Poundstock,Pounstock</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE115</adminCode3>
+<adminName3>Poundstock</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Poundstock</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.57845</west>
+<north>50.78465</north>
+<east>-4.52155</east>
+<south>50.74868</south>
+</bbox>
+<score>83.52510070800781</score>
+</geoname>
+</geonames>

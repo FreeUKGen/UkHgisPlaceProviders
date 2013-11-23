@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Saint Helier</toponymName>
+<name>Saint Helier</name>
+<lat>49.18804</lat>
+<lng>-2.10491</lng>
+<geonameId>3042091</geonameId>
+<countryCode>JE</countryCode>
+<countryName>Jersey</countryName>
+<fcl>P</fcl>
+<fcode>PPLC</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>capital of a political entity</fcodeName>
+<population>28000</population>
+<alternateNames>JER,Saint Helier,Sent-Khel'er,St Helier,St. Helier,Сент-Хельер</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1>00</adminCode1>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="en">Saint Helier</alternateName>
+<alternateName lang="iata">JER</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saint_Helier</alternateName>
+<alternateName lang="ru">Сент-Хельер</alternateName>
+<alternateName lang="unlc">STH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Jersey</timezone>
+<bbox>
+<west>-2.13792</west>
+<north>49.20961</north>
+<east>-2.0719</east>
+<south>49.16648</south>
+</bbox>
+<score>226.81137084960938</score>
+</geoname>
+</geonames>

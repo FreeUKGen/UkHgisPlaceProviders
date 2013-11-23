@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Cockfield</toponymName>
+<name>Cockfield</name>
+<lat>54.61364</lat>
+<lng>-1.8033</lng>
+<geonameId>7300074</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ021</adminCode3>
+<adminName3>Cockfield</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.84463</west>
+<north>54.62595</north>
+<east>-1.76196</east>
+<south>54.60133</south>
+</bbox>
+<score>108.14241027832031</score>
+</geoname>
+<geoname>
+<toponymName>Cockfield</toponymName>
+<name>Cockfield</name>
+<lat>54.61373</lat>
+<lng>-1.80897</lng>
+<geonameId>2652673</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ021</adminCode3>
+<adminName3>Cockfield</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cockfield%2C_County_Durham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.8245</west>
+<north>54.62273</north>
+<east>-1.79343</east>
+<south>54.60474</south>
+</bbox>
+<score>82.02411651611328</score>
+</geoname>
+<geoname>
+<toponymName>Cockfield</toponymName>
+<name>Cockfield</name>
+<lat>52.15737</lat>
+<lng>0.78428</lng>
+<geonameId>2652674</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UB</adminCode3>
+<adminName3>Babergh District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cockfield%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.76962</west>
+<north>52.16637</north>
+<east>0.79894</east>
+<south>52.14838</south>
+</bbox>
+<score>82.02411651611328</score>
+</geoname>
+<geoname>
+<toponymName>Cockfield</toponymName>
+<name>Cockfield</name>
+<lat>52.155</lat>
+<lng>0.78788</lng>
+<geonameId>7299571</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UB</adminCode3>
+<adminName3>Babergh District</adminName3>
+<adminCode4>42UB021</adminCode4>
+<adminName4>Cockfield</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.75738</west>
+<north>52.1779</north>
+<east>0.81839</east>
+<south>52.13211</south>
+</bbox>
+<score>77.9705810546875</score>
+</geoname>
+<geoname>
+<toponymName>Cockfield</toponymName>
+<name>Cockfield</name>
+<lat>52.1516</lat>
+<lng>0.77583</lng>
+<geonameId>6287777</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UB</adminCode3>
+<adminName3>Babergh District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>19.492645263671875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Coney Weston</toponymName>
+<name>Coney Weston</name>
+<lat>52.36583</lat>
+<lng>0.87641</lng>
+<geonameId>2652467</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Coney Weston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UF</adminCode3>
+<adminName3>St. Edmundsbury District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Coney_Weston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.86167</west>
+<north>52.37482</north>
+<east>0.89114</east>
+<south>52.35683</south>
+</bbox>
+<score>94.39726257324219</score>
+</geoname>
+<geoname>
+<toponymName>Coney Weston</toponymName>
+<name>Coney Weston</name>
+<lat>52.36996</lat>
+<lng>0.87526</lng>
+<geonameId>7297313</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames>Cunungestuna</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UF</adminCode3>
+<adminName3>St. Edmundsbury District</adminName3>
+<adminCode4>42UF015</adminCode4>
+<adminName4>Coney Weston</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.84291</west>
+<north>52.38499</north>
+<east>0.90761</east>
+<south>52.35492</south>
+</bbox>
+<score>60.622459411621094</score>
+</geoname>
+</geonames>

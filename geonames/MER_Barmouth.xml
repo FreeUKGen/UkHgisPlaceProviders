@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Barmouth</toponymName>
+<name>Barmouth</name>
+<lat>52.73803</lat>
+<lng>-4.03827</lng>
+<geonameId>7293618</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC007</adminCode3>
+<adminName3>Barmouth</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.08866</west>
+<north>52.76432</north>
+<east>-3.98789</east>
+<south>52.71174</south>
+</bbox>
+<score>109.5452880859375</score>
+</geoname>
+<geoname>
+<toponymName>Barmouth</toponymName>
+<name>Barmouth</name>
+<lat>52.72377</lat>
+<lng>-4.05748</lng>
+<geonameId>2656311</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2276</population>
+<alternateNames>Abermaw,Barmouth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<adminCode3>00NC007</adminCode3>
+<adminName3>Barmouth</adminName3>
+<alternateName lang="cy">Abermaw</alternateName>
+<alternateName lang="en">Barmouth</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barmouth</alternateName>
+<alternateName lang="unlc">BMU</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.06491</west>
+<north>52.72827</north>
+<east>-4.05006</east>
+<south>52.71928</south>
+</bbox>
+<score>108.91574096679688</score>
+</geoname>
+</geonames>

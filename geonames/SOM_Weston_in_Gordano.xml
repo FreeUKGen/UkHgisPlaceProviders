@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Weston-in-Gordano</toponymName>
+<name>Weston-in-Gordano</name>
+<lat>51.46354</lat>
+<lng>-2.80117</lng>
+<geonameId>7295041</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC031</adminCode3>
+<adminName3>Weston-in-Gordano</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.82252</west>
+<north>51.47344</north>
+<east>-2.77982</east>
+<south>51.45364</south>
+</bbox>
+<score>97.40589904785156</score>
+</geoname>
+<geoname>
+<toponymName>Weston in Gordano</toponymName>
+<name>Weston in Gordano</name>
+<lat>51.46444</lat>
+<lng>-2.79667</lng>
+<geonameId>2634316</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Weston,Weston in Gordano</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Weston_in_Gordano</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.81111</west>
+<north>51.47344</north>
+<east>-2.78223</east>
+<south>51.45545</south>
+</bbox>
+<score>83.85670471191406</score>
+</geoname>
+</geonames>

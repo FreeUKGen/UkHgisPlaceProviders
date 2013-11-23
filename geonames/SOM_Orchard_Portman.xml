@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Orchard Portman</toponymName>
+<name>Orchard Portman</name>
+<lat>50.97976</lat>
+<lng>-3.06245</lng>
+<geonameId>7292435</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<adminCode4>40UE030</adminCode4>
+<adminName4>Orchard Portman</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Orchard_Portman</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.08886</west>
+<north>50.99346</north>
+<east>-3.03604</east>
+<south>50.96607</south>
+</bbox>
+<score>53.795936584472656</score>
+</geoname>
+</geonames>

@@ -1,0 +1,138 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>591</id>
+<name>ROMSEY</name>
+<container>HAMPSHIRE</container>
+<lat>50.9913957429756</lat>
+<lon>-1.49297480256988</lon>
+<gazetteerText>Romsey, mun. bor., market town, and par. with ry. sta., Hants, on river Test, or Anton, 8&#189; miles NW. of Southampton - par., 10,216 ac., pop. 5579; mun. bor., 490 ac., pop. 4204; P.O., T.O., 2 Banks, 2 news-papers. Market-day, Thursday. The par. comprises the 2 townships of Romsey Extra and Romsey Infra - Romsey Extra, 9861 ac., pop. 3549; Romsey Infra, 355 ac., pop. 2030. Romsey grew to importance under the shadow of its abbey, which is supposed to have been founded about 910 by Edward the Elder, for a convent of nuns. The church, which is said to present the outline and general aspect of a Norman conventual church more completely than any building of equal size in England, is now the parish church. Romsey was chartered by James I., and was for some time a seat of considerable manufacture, but its trade is now almost entirely local and agricultural, the chief industry being confined to a few tanyards, breweries, and corn and paper mills. Sir William Petty (1623-1687), one of the founders of the Royal Society, and the ancestor of the Lansdowne family, was the son of a Romsey clothier. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/HAM/Romsey/index.shtml</link>
+<link>http://en.wikipedia.org/wiki/Romsey</link>
+<link>http://www.workhouses.org.uk/Romsey</link>
+<link>http://www.geonames.org/2639189</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=56858</link>
+</links>
+<unit>
+   <id>10028255</id>
+   <status>RSD</status>
+   <name>ROMSEY</name>
+</unit>
+<unit>
+   <id>10055829</id>
+   <status>RegD/PLU</status>
+   <name>ROMSEY</name>
+</unit>
+<unit>
+   <id>10088598</id>
+   <status>Borough</status>
+   <name>ROMSEY</name>
+</unit>
+<unit>
+   <id>10108238</id>
+   <status>MB</status>
+   <name>ROMSEY</name>
+</unit>
+<unit>
+   <id>10124440</id>
+   <status>CP</status>
+   <name>ROMSEY EXTRA</name>
+</unit>
+<unit>
+   <id>10135813</id>
+   <status>RD</status>
+   <name>ROMSEY AND STOCKBRIDGE</name>
+</unit>
+<unit>
+   <id>10154250</id>
+   <status>USD</status>
+   <name>ROMSEY</name>
+</unit>
+<unit>
+   <id>10160900</id>
+   <status>AP/CP</status>
+   <name>ROMSEY</name>
+</unit>
+<unit>
+   <id>10162397</id>
+   <status>CP</status>
+   <name>ROMSEY INFRA</name>
+</unit>
+<unit>
+   <id>10186432</id>
+   <status>RD</status>
+   <name>ROMSEY</name>
+</unit>
+<unit>
+   <id>10202656</id>
+   <status>EP</status>
+   <name>ROMSEY</name>
+</unit>
+<unit>
+   <id>10496822</id>
+   <status></status>
+   <name>ROMSEY</name>
+</unit>
+<unit>
+   <id>10543162</id>
+   <status></status>
+   <name>ROMSEY</name>
+</unit>
+<unit>
+   <id>10579247</id>
+   <status></status>
+   <name>ROMSEY</name>
+</unit>
+<unit>
+   <id>12748917</id>
+   <status>CCon</status>
+   <name>ROMSEY</name>
+</unit>
+<unit>
+   <id>12748929</id>
+   <status>CCon</status>
+   <name>ROMSEY AND WATERSIDE</name>
+</unit>
+<nearByPlace>
+   <id>2657</id>
+   <name>BROUGHTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2665</id>
+   <name>KINGS SOMBORNE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3997</id>
+   <name>MICHELMERSH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4009</id>
+   <name>AMPFIELD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5456</id>
+   <name>SHERFIELD ENGLISH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5758</id>
+   <name>WEST WELLOW</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5823</id>
+   <name>WEST TYTHERLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11864</id>
+   <name>LANDFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12070</id>
+   <name>REDLYNCH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12150</id>
+   <name>WHITEPARISH</name>
+</nearByPlace>
+</place>
+</results>

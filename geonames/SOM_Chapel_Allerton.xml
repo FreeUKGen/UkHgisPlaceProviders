@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Chapel Allerton</toponymName>
+<name>Chapel Allerton</name>
+<lat>53.82901</lat>
+<lng>-1.53834</lng>
+<geonameId>6695247</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>18206</population>
+<alternateNames>Chapel A,Chapel Allerton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H3</adminCode2>
+<adminName2>Leeds</adminName2>
+<alternateName lang="cpe">Chapel A</alternateName>
+<alternateName lang="en">Chapel Allerton</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chapel_Allerton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.56786</west>
+<north>53.84643</north>
+<east>-1.50882</east>
+<south>53.81159</south>
+</bbox>
+<score>114.57869720458984</score>
+</geoname>
+<geoname>
+<toponymName>Chapel Allerton</toponymName>
+<name>Chapel Allerton</name>
+<lat>51.24861</lat>
+<lng>-2.84806</lng>
+<geonameId>2653371</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>340</population>
+<alternateNames>Chapel Allerton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chapel_Allerton%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.84949</west>
+<north>51.24951</north>
+<east>-2.84662</east>
+<south>51.24771</south>
+</bbox>
+<score>91.96728515625</score>
+</geoname>
+<geoname>
+<toponymName>Chapel Allerton</toponymName>
+<name>Chapel Allerton</name>
+<lat>51.24922</lat>
+<lng>-2.8586</lng>
+<geonameId>7301193</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<adminCode4>40UC015</adminCode4>
+<adminName4>Chapel Allerton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.88528</west>
+<north>51.26034</north>
+<east>-2.83191</east>
+<south>51.2381</south>
+</bbox>
+<score>69.47802734375</score>
+</geoname>
+</geonames>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Formby</toponymName>
+<name>Formby</name>
+<lat>53.55364</lat>
+<lng>-3.06816</lng>
+<geonameId>2649198</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>24225</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L8</adminCode2>
+<adminName2>Sefton</adminName2>
+<adminCode3>00CA010</adminCode3>
+<adminName3>Formby</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Formby</alternateName>
+<alternateName lang="unlc">FRM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.10203</west>
+<north>53.57375</north>
+<east>-3.0343</east>
+<south>53.53353</south>
+</bbox>
+<score>114.86276245117188</score>
+</geoname>
+<geoname>
+<toponymName>Formby</toponymName>
+<name>Formby</name>
+<lat>53.55831</lat>
+<lng>-3.08722</lng>
+<geonameId>7292246</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L8</adminCode2>
+<adminName2>Sefton</adminName2>
+<adminCode3>00CA010</adminCode3>
+<adminName3>Formby</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.15373</west>
+<north>53.58944</north>
+<east>-3.02071</east>
+<south>53.52717</south>
+</bbox>
+<score>108.37950897216797</score>
+</geoname>
+</geonames>

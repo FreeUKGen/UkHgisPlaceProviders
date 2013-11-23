@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Reynoldston</toponymName>
+<name>Reynoldston</name>
+<lat>51.58859</lat>
+<lng>-4.19726</lng>
+<geonameId>7292834</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z1</adminCode2>
+<adminName2>Swansea</adminName2>
+<adminCode3>00NX032</adminCode3>
+<adminName3>Reynoldston</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.21698</west>
+<north>51.60233</north>
+<east>-4.17754</east>
+<south>51.57485</south>
+</bbox>
+<score>98.66963958740234</score>
+</geoname>
+<geoname>
+<toponymName>Reynoldston</toponymName>
+<name>Reynoldston</name>
+<lat>51.58932</lat>
+<lng>-4.19367</lng>
+<geonameId>2639472</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Reynoldston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z1</adminCode2>
+<adminName2>Swansea</adminName2>
+<adminCode3>00NX032</adminCode3>
+<adminName3>Reynoldston</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/List_of_villages_in_Gower%23Reynoldston</alternateName>
+<alternateName lang="unlc">RYL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.20815</west>
+<north>51.59831</north>
+<east>-4.17919</east>
+<south>51.58032</south>
+</bbox>
+<score>76.98553466796875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Awsworth</toponymName>
+<name>Awsworth</name>
+<lat>52.98912</lat>
+<lng>-1.28354</lng>
+<geonameId>2656731</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2634</population>
+<alternateNames>Awsworth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UD</adminCode3>
+<adminName3>Broxtowe District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Awsworth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.29411</west>
+<north>52.99548</north>
+<east>-1.27298</east>
+<south>52.98276</south>
+</bbox>
+<score>120.06116485595703</score>
+</geoname>
+<geoname>
+<toponymName>Awsworth</toponymName>
+<name>Awsworth</name>
+<lat>52.99179</lat>
+<lng>-1.2863</lng>
+<geonameId>7299459</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UD</adminCode3>
+<adminName3>Broxtowe District</adminName3>
+<adminCode4>37UD001</adminCode4>
+<adminName4>Awsworth</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.30124</west>
+<north>52.99722</north>
+<east>-1.27137</east>
+<south>52.98637</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

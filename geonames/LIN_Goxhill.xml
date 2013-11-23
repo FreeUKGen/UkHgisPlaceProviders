@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Goxhill</toponymName>
+<name>Goxhill</name>
+<lat>53.88333</lat>
+<lng>-0.2</lng>
+<geonameId>2648252</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Goxhill</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Goxhill%2C_East_Riding_of_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.21526</west>
+<north>53.89233</north>
+<east>-0.18474</east>
+<south>53.87434</south>
+</bbox>
+<score>100.96337890625</score>
+</geoname>
+<geoname>
+<toponymName>Goxhill</toponymName>
+<name>Goxhill</name>
+<lat>53.67635</lat>
+<lng>-0.33759</lng>
+<geonameId>2648253</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2038</population>
+<alternateNames>Goxhill</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD024</adminCode3>
+<adminName3>Goxhill</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.34518</west>
+<north>53.68084</north>
+<east>-0.33</east>
+<south>53.67185</south>
+</bbox>
+<score>79.07757568359375</score>
+</geoname>
+<geoname>
+<toponymName>Goxhill</toponymName>
+<name>Goxhill</name>
+<lat>53.68766</lat>
+<lng>-0.31124</lng>
+<geonameId>7296119</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD024</adminCode3>
+<adminName3>Goxhill</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Goxhill</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.36078</west>
+<north>53.71687</north>
+<east>-0.2617</east>
+<south>53.65846</south>
+</bbox>
+<score>77.07002258300781</score>
+</geoname>
+</geonames>

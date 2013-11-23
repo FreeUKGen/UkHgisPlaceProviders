@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Durness</toponymName>
+<name>Durness</name>
+<lat>58.56829</lat>
+<lng>-4.74632</lng>
+<geonameId>2650621</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Durness</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V3</adminCode2>
+<adminName2>Highland</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Durness</alternateName>
+<alternateName lang="unlc">DNS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.76357</west>
+<north>58.57728</north>
+<east>-4.72907</east>
+<south>58.55929</south>
+</bbox>
+<score>91.30882263183594</score>
+</geoname>
+</geonames>

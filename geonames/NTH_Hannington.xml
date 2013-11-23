@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Hannington</toponymName>
+<name>Hannington</name>
+<lat>51.64307</lat>
+<lng>-1.74585</lng>
+<geonameId>7294170</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N9</adminCode2>
+<adminName2>Swindon</adminName2>
+<adminCode3>00HX006</adminCode3>
+<adminName3>Hannington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.77285</west>
+<north>51.66984</north>
+<east>-1.71884</east>
+<south>51.61631</south>
+</bbox>
+<score>109.09105682373047</score>
+</geoname>
+<geoname>
+<toponymName>Hannington</toponymName>
+<name>Hannington</name>
+<lat>51.29606</lat>
+<lng>-1.22785</lng>
+<geonameId>2647520</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hannington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UB</adminCode3>
+<adminName3>Basingstoke and Deane District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hannington%2C_Hampshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.24224</west>
+<north>51.30506</north>
+<east>-1.21347</east>
+<south>51.28707</south>
+</bbox>
+<score>98.642333984375</score>
+</geoname>
+<geoname>
+<toponymName>Hannington</toponymName>
+<name>Hannington</name>
+<lat>51.28988</lat>
+<lng>-1.22202</lng>
+<geonameId>7293634</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UB</adminCode3>
+<adminName3>Basingstoke and Deane District</adminName3>
+<adminCode4>24UB016</adminCode4>
+<adminName4>Hannington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.26664</west>
+<north>51.31497</north>
+<east>-1.1774</east>
+<south>51.26479</south>
+</bbox>
+<score>78.64186096191406</score>
+</geoname>
+<geoname>
+<toponymName>Hannington</toponymName>
+<name>Hannington</name>
+<lat>51.63333</lat>
+<lng>-1.75</lng>
+<geonameId>2647519</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N9</adminCode2>
+<adminName2>Swindon</adminName2>
+<adminCode3>00HX006</adminCode3>
+<adminName3>Hannington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hannington%2C_Wiltshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.77899</west>
+<north>51.65132</north>
+<east>-1.72101</east>
+<south>51.61535</south>
+</bbox>
+<score>69.82462310791016</score>
+</geoname>
+<geoname>
+<toponymName>Hannington</toponymName>
+<name>Hannington</name>
+<lat>52.32948</lat>
+<lng>-0.80538</lng>
+<geonameId>7299002</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<adminCode4>34UC034</adminCode4>
+<adminName4>Hannington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hannington%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.82497</west>
+<north>52.34503</north>
+<east>-0.7858</east>
+<south>52.31393</south>
+</bbox>
+<score>53.76040267944336</score>
+</geoname>
+</geonames>

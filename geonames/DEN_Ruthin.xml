@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ruthin</toponymName>
+<name>Ruthin</name>
+<lat>53.11133</lat>
+<lng>-3.31388</lng>
+<geonameId>7301126</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG036</adminCode3>
+<adminName3>Ruthin</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.33897</west>
+<north>53.1319</north>
+<east>-3.2888</east>
+<south>53.09075</south>
+</bbox>
+<score>109.89749145507812</score>
+</geoname>
+<geoname>
+<toponymName>Ruthin</toponymName>
+<name>Ruthin</name>
+<lat>53.11368</lat>
+<lng>-3.31782</lng>
+<geonameId>2638925</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>5344</population>
+<alternateNames>Ratin,Rhuthun,Ridin,Ridinas,Ратин,Ратін,Ридин</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X9</adminCode2>
+<adminName2>Denbighshire</adminName2>
+<adminCode3>00NG036</adminCode3>
+<adminName3>Ruthin</adminName3>
+<alternateName lang="bg">Ридин</alternateName>
+<alternateName lang="cy">Rhuthun</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ruthin</alternateName>
+<alternateName lang="lt">Ridinas</alternateName>
+<alternateName lang="ru">Ратин</alternateName>
+<alternateName lang="uk">Ратін</alternateName>
+<alternateName lang="unlc">RHN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.33281</west>
+<north>53.12267</north>
+<east>-3.30283</east>
+<south>53.10468</south>
+</bbox>
+<score>61.69834518432617</score>
+</geoname>
+</geonames>

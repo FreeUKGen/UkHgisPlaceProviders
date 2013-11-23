@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Walsall</toponymName>
+<name>Walsall</name>
+<lat>52.58528</lat>
+<lng>-1.98396</lng>
+<geonameId>2634853</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>172141</population>
+<alternateNames>Uolsol,Uolsoll,Volslas,Volsol,Volsoll,Walhshalh,Wallsall,Walsall,walsal,wo er suo er,wolsol,Волсол,Уолсол,Уолсолл,والسال,沃爾索爾,월솔</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O8</adminCode2>
+<adminName2>Walsall</adminName2>
+<adminCode3>41UF</adminCode3>
+<adminName3>GB.ENG.O8.41UF</adminName3>
+<alternateName lang="ang">Walhshalh</alternateName>
+<alternateName lang="az">Volsoll</alternateName>
+<alternateName lang="bg">Уолсол</alternateName>
+<alternateName lang="de">Walsall</alternateName>
+<alternateName lang="en">Walsall</alternateName>
+<alternateName lang="eo">Walsall</alternateName>
+<alternateName lang="es">Walsall</alternateName>
+<alternateName lang="fa">والسال</alternateName>
+<alternateName lang="fi">Walsall</alternateName>
+<alternateName lang="id">Walsall</alternateName>
+<alternateName lang="ko">월솔</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Walsall</alternateName>
+<alternateName lang="lt">Volslas</alternateName>
+<alternateName lang="nl">Walsall</alternateName>
+<alternateName lang="pl">Walsall</alternateName>
+<alternateName lang="ro">Walsall</alternateName>
+<alternateName lang="ru">Уолсолл</alternateName>
+<alternateName lang="sr">Волсол</alternateName>
+<alternateName lang="unlc">WAL</alternateName>
+<alternateName lang="zh">沃爾索爾</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.07257</west>
+<north>52.63905</north>
+<east>-1.89534</east>
+<south>52.5315</south>
+</bbox>
+<score>162.58767700195312</score>
+</geoname>
+<geoname>
+<toponymName>Borough of Walsall</toponymName>
+<name>Borough of Walsall</name>
+<lat>52.58333</lat>
+<lng>-2</lng>
+<geonameId>3333213</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>WLL,Walsall</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O8</adminCode2>
+<adminName2>Walsall</adminName2>
+<alternateName lang="abbr">WLL</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Metropolitan_Borough_of_Walsall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.07783</west>
+<north>52.66272</north>
+<east>-1.87257</east>
+<south>52.54729</south>
+</bbox>
+<score>80.39714813232422</score>
+</geoname>
+</geonames>

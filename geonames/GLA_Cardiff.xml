@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cardiff</toponymName>
+<name>Cardiff</name>
+<lat>51.48</lat>
+<lng>-3.18</lng>
+<geonameId>2653822</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>302139</population>
+<alternateNames>CWL,Caerdydd,Cairdiff,Cardiff,Cardiffa,Cayr Deeth,Gorad Kardyf,Kadif,Kardif,Kardifa,Kardifas,Kardiff,Kardip,Kardydh,Karntif,Kerdiz,Kārdifa,jia de fu,kadifu,kadipeu,karadifa,kardifa,kardipha,kardyf,kartihp,khardif f,Κάρντιφ,Горад Кардыф,Кардиф,Кардифф,Кардіфф,Քարդիֆ,קארדיף,كارديف,کاردیف,کارڈف,कार्डिफ,कार्डिफ़,কার্ডিফ,ਕਾਰਡਿਫ਼,கார்டிஃப்,കാർഡിഫ്,คาร์ดิฟฟ์,ကားဒစ်မြို့,კარდიფი,カーディフ,加的夫,카디프</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X5</adminCode2>
+<adminName2>City and County of Cardiff</adminName2>
+<alternateName lang="ar">كارديف</alternateName>
+<alternateName lang="arz">كارديف</alternateName>
+<alternateName lang="az">Kardiff</alternateName>
+<alternateName lang="be">Горад Кардыф</alternateName>
+<alternateName lang="bg">Кардиф</alternateName>
+<alternateName lang="bn">কার্ডিফ</alternateName>
+<alternateName lang="br">Kerdiz</alternateName>
+<alternateName lang="ckb">کاردیف</alternateName>
+<alternateName lang="cy">Caerdydd</alternateName>
+<alternateName lang="el">Κάρντιφ</alternateName>
+<alternateName lang="en">Cardiff</alternateName>
+<alternateName lang="fa">کاردیف</alternateName>
+<alternateName lang="ga">Caerdydd</alternateName>
+<alternateName lang="gd">Caerdydd</alternateName>
+<alternateName lang="gv">Cayr Deeth</alternateName>
+<alternateName lang="he">קארדיף</alternateName>
+<alternateName lang="hi">कार्डिफ़</alternateName>
+<alternateName lang="ht">Kadif</alternateName>
+<alternateName lang="hy">Քարդիֆ</alternateName>
+<alternateName lang="iata">CWL</alternateName>
+<alternateName lang="is">Cardiff</alternateName>
+<alternateName lang="ja">カーディフ</alternateName>
+<alternateName lang="ka">კარდიფი</alternateName>
+<alternateName lang="kk">Кардифф</alternateName>
+<alternateName lang="ko">카디프</alternateName>
+<alternateName lang="kw">Kardydh</alternateName>
+<alternateName lang="la">Cardiffa</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cardiff</alternateName>
+<alternateName lang="lt">Kardifas</alternateName>
+<alternateName lang="lv">Kārdifa</alternateName>
+<alternateName lang="ml">കാർഡിഫ്</alternateName>
+<alternateName lang="mr">कार्डिफ</alternateName>
+<alternateName lang="my">ကားဒစ်မြို့</alternateName>
+<alternateName lang="no">Cardiff</alternateName>
+<alternateName lang="os">Кардифф</alternateName>
+<alternateName lang="pa">ਕਾਰਡਿਫ਼</alternateName>
+<alternateName lang="pnb">کارڈف</alternateName>
+<alternateName lang="ru">Кардифф</alternateName>
+<alternateName lang="sco">Cairdiff</alternateName>
+<alternateName lang="sr">Кардиф</alternateName>
+<alternateName lang="ta">கார்டிஃப்</alternateName>
+<alternateName lang="th">คาร์ดิฟฟ์</alternateName>
+<alternateName lang="tl">Kardip</alternateName>
+<alternateName lang="uk">Кардіфф</alternateName>
+<alternateName lang="unlc">CDF</alternateName>
+<alternateName lang="yi">קארדיף</alternateName>
+<alternateName lang="zh">加的夫</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.29457</west>
+<north>51.55124</north>
+<east>-3.06543</east>
+<south>51.40876</south>
+</bbox>
+<score>120.78424072265625</score>
+</geoname>
+<geoname>
+<toponymName>City and County of Cardiff</toponymName>
+<name>City and County of Cardiff</name>
+<lat>51.5</lat>
+<lng>-3.16667</lng>
+<geonameId>3333241</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>CRF,Cardiff,City and County of Cardiff,Dinas a Sir Caerdydd</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X5</adminCode2>
+<adminName2>City and County of Cardiff</adminName2>
+<alternateName lang="abbr">CRF</alternateName>
+<alternateName lang="cy">Dinas a Sir Caerdydd</alternateName>
+<alternateName lang="en">City and County of Cardiff</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.34377</west>
+<north>51.56044</north>
+<east>-3.0689</east>
+<south>51.37455</south>
+</bbox>
+<score>62.346351623535156</score>
+</geoname>
+</geonames>

@@ -1,0 +1,103 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>817</id>
+<name>HOLBEACH</name>
+<container>LINCOLNSHIRE</container>
+<lat>52.8395196965163</lat>
+<lon>0.0510106836134305</lon>
+<gazetteerText>Holbeach.-- market town and par. with ry. sta., S. Lincolnshire, 7&#189; miles NE. of Spalding--par., 20,980 ac. land and 14,240 water, pop. 5190; P.O., T.O., 2 Banks. Market-day, Tuesday; is a town of great antiquity; numerous Roman relics have been found. Holbeach has a fine Gothic church and 2 grammar-schools. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LIN/Holbeach/</link>
+<link>http://en.wikipedia.org/wiki/Holbeach</link>
+<link>http://www.workhouses.org.uk/Holbeach</link>
+<link>http://www.geonames.org/2646787</link>
+</links>
+<unit>
+   <id>10086747</id>
+   <status>RSD</status>
+   <name>HOLBEACH</name>
+</unit>
+<unit>
+   <id>10111730</id>
+   <status>RegD/PLU</status>
+   <name>HOLBEACH</name>
+</unit>
+<unit>
+   <id>10144139</id>
+   <status>UD</status>
+   <name>HOLBEACH</name>
+</unit>
+<unit>
+   <id>10174491</id>
+   <status>USD</status>
+   <name>HOLBEACH</name>
+</unit>
+<unit>
+   <id>10425323</id>
+   <status>AP/CP</status>
+   <name>HOLBEACH</name>
+</unit>
+<unit>
+   <id>10425335</id>
+   <status>EP</status>
+   <name>HOLBEACH</name>
+</unit>
+<unit>
+   <id>10547866</id>
+   <status></status>
+   <name>HOLBEACH</name>
+</unit>
+<nearByPlace>
+   <id>12274</id>
+   <name>FOSDYKE</name>
+</nearByPlace>
+</place>
+<place>
+<id>24044</id>
+<name>HOLBEACH FEN</name>
+<container>LINCOLNSHIRE</container>
+<lat>52.763048034938</lat>
+<lon>0.00245976161723968</lon>
+<gazetteerText>Holbeach Fen, eccl. dist., Fleet. Gedney, and Holbeach pars., S. Lincolnshire, pop. 872. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<unit>
+   <id>10425396</id>
+   <status>EP</status>
+   <name>HOLBEACH FEN</name>
+</unit>
+<unit>
+   <id>10425438</id>
+   <status>EP</status>
+   <name>HOLBEACH FEN WITH GEDNEY HILL</name>
+</unit>
+</place>
+<place>
+<id>24045</id>
+<name>HOLBEACH HURN</name>
+<container>LINCOLNSHIRE</container>
+<lat>52.8221786649442</lat>
+<lon>0.0675222600947938</lon>
+<gazetteerText>Holbeach Hurn, eccl. dist., Holbeach par., S. Lincolnshire, pop. 526; P.O. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<unit>
+   <id>10425463</id>
+   <status>EP</status>
+   <name>HOLBEACH HURN</name>
+</unit>
+</place>
+<place>
+<id>24046</id>
+<name>HOLBEACH MARSH</name>
+<container>LINCOLNSHIRE</container>
+<lat>52.8448979085186</lat>
+<lon>0.0537500618584409</lon>
+<gazetteerText>Holbeach Marsh, eccl. dist., Holbeach par., S. Lincolnshire, pop. 743. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2646785</link>
+</links>
+<unit>
+   <id>10425475</id>
+   <status>EP</status>
+   <name>HOLBEACH MARSH</name>
+</unit>
+</place>
+</results>

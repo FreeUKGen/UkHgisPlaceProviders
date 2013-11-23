@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Stafford</toponymName>
+<name>Stafford</name>
+<lat>52.80521</lat>
+<lng>-2.11636</lng>
+<geonameId>2637142</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>65290</population>
+<alternateNames>Staefford,Stafford,Staford,Stæfford,XVB,astafwrd, anglstan,seutaepeodeu,si ta fu de,Стафорд,Стаффорд,استافورد، انگلستان,斯塔福德,스태퍼드</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UG</adminCode3>
+<adminName3>Stafford District</adminName3>
+<alternateName lang="ang">Stæfford</alternateName>
+<alternateName lang="bg">Стафорд</alternateName>
+<alternateName lang="de">Stafford</alternateName>
+<alternateName lang="en">Stafford</alternateName>
+<alternateName lang="fa">استافورد، انگلستان</alternateName>
+<alternateName lang="fr">Stafford</alternateName>
+<alternateName lang="iata">XVB</alternateName>
+<alternateName lang="ko">스태퍼드</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stafford</alternateName>
+<alternateName lang="nl">Stafford</alternateName>
+<alternateName lang="pl">Stafford</alternateName>
+<alternateName lang="ru">Стаффорд</alternateName>
+<alternateName lang="sr">Стафорд</alternateName>
+<alternateName lang="uk">Стаффорд</alternateName>
+<alternateName lang="unlc">SRD</alternateName>
+<alternateName lang="zh">斯塔福德</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.17106</west>
+<north>52.83825</north>
+<east>-2.06165</east>
+<south>52.77216</south>
+</bbox>
+<score>109.01594543457031</score>
+</geoname>
+<geoname>
+<toponymName>Staffordshire</toponymName>
+<name>Staffordshire</name>
+<lat>52.83333</lat>
+<lng>-2</lng>
+<geonameId>2637141</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>1062500</population>
+<alternateNames>County of Staffordshire,STS,Stafford,Staffordshire</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<alternateName lang="abbr">STS</alternateName>
+<alternateName lang="en">Staffordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.47084</west>
+<north>53.22622</north>
+<east>-1.58547</east>
+<south>52.42324</south>
+</bbox>
+<score>43.93907165527344</score>
+</geoname>
+<geoname>
+<toponymName>stafford</toponymName>
+<name>stafford</name>
+<lat>49.18778</lat>
+<lng>-2.11348</lng>
+<geonameId>7117975</geonameId>
+<countryCode>JE</countryCode>
+<countryName>Jersey</countryName>
+<fcl>S</fcl>
+<fcode>HTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>hotel</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Jersey</timezone>
+<score>11.506295204162598</score>
+</geoname>
+</geonames>

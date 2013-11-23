@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cirencester</toponymName>
+<name>Cirencester</name>
+<lat>51.71708</lat>
+<lng>-1.96825</lng>
+<geonameId>2652995</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>16214</population>
+<alternateNames>Chirenchester,Cicester,Cirenceaster,Cirencester,Ciricestria,Sajrunsestur,saileonseseuteo,Сайрънсестър,Чиренчестер,사이런세스터</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<alternateName lang="ang">Cirenceaster</alternateName>
+<alternateName lang="bg">Сайрънсестър</alternateName>
+<alternateName lang="ko">사이런세스터</alternateName>
+<alternateName lang="la">Ciricestria</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cirencester</alternateName>
+<alternateName lang="uk">Чиренчестер</alternateName>
+<alternateName lang="unlc">CIR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.99443</west>
+<north>51.7333</north>
+<east>-1.94207</east>
+<south>51.70087</south>
+</bbox>
+<score>96.29405212402344</score>
+</geoname>
+<geoname>
+<toponymName>Cirencester</toponymName>
+<name>Cirencester</name>
+<lat>51.71664</lat>
+<lng>-1.9993</lng>
+<geonameId>7298567</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<adminCode4>23UC027</adminCode4>
+<adminName4>Cirencester</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.05575</west>
+<north>51.73948</north>
+<east>-1.94286</east>
+<south>51.6938</south>
+</bbox>
+<score>74.60599517822266</score>
+</geoname>
+</geonames>

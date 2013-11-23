@@ -1,0 +1,79 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>708</id>
+<name>FLETTON</name>
+<container>HUNTINGDONSHIRE</container>
+<lat>52.5489675851024</lat>
+<lon>-0.233931938641521</lon>
+<gazetteerText>FLETTON, a parish in the district of Peterborough and county of Huntingdon; on the Great Northern railway, adjacent to the junction with it of several other railways, and at the boundary with Cambridgeshire and Northamptonshire, 1 mile SSE of Peterborough. It has a post office, of the name of New Fletton, under Peterborough. Acres, 780. Real property, &#163;5, 766. Pop. in 1851, 603; in 1861, 1, 449. Houses, 312. The increase of pop. arose from the residence of persons employed by several railway companies. The property is much subdivided. The manor belonged to Peterborough abbey, and passed to the Flettons and the Probys. The living is a rectory in the diocese of Ely. Value, &#163;292.* Patron, Hon. G. W. Fitzwilliam. The church is very good; and there are a British school and charities &#163;49. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/HUN/Fletton/index.html</link>
+</links>
+<unit>
+   <id>10135450</id>
+   <status>UD</status>
+   <name>OLD FLETTON</name>
+</unit>
+<unit>
+   <id>10254930</id>
+   <status>AP/CP</status>
+   <name>FLETTON</name>
+</unit>
+<unit>
+   <id>10254966</id>
+   <status>EP</status>
+   <name>FLETTON</name>
+</unit>
+<unit>
+   <id>10255697</id>
+   <status>CP</status>
+   <name>FLETTON</name>
+</unit>
+<unit>
+   <id>10274576</id>
+   <status>CP</status>
+   <name>FLETTON URBAN</name>
+</unit>
+<nearByPlace>
+   <id>7167</id>
+   <name>CHESTERTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7201</id>
+   <name>HADDON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7218</id>
+   <name>FOLKSWORTH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7348</id>
+   <name>ORTON WATERVILLE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7396</id>
+   <name>STANGROUND</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7646</id>
+   <name>CASTOR</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7662</id>
+   <name>WOODSTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8060</id>
+   <name>LONGTHORPE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8073</id>
+   <name>MARHOLM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8263</id>
+   <name>WALTON</name>
+</nearByPlace>
+</place>
+</results>

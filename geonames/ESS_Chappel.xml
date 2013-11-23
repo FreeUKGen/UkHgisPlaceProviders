@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Chappel</toponymName>
+<name>Chappel</name>
+<lat>51.92126</lat>
+<lng>0.75342</lng>
+<geonameId>2653348</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Chapel,Chappel</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UG</adminCode3>
+<adminName3>Colchester District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chappel</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.73883</west>
+<north>51.93025</north>
+<east>0.768</east>
+<south>51.91226</south>
+</bbox>
+<score>83.15200805664062</score>
+</geoname>
+<geoname>
+<toponymName>Chappel</toponymName>
+<name>Chappel</name>
+<lat>51.91582</lat>
+<lng>0.75335</lng>
+<geonameId>7293512</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UG</adminCode3>
+<adminName3>Colchester District</adminName3>
+<adminCode4>22UG005</adminCode4>
+<adminName4>Chappel</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.72894</west>
+<north>51.92684</north>
+<east>0.77777</east>
+<south>51.9048</south>
+</bbox>
+<score>68.68010711669922</score>
+</geoname>
+</geonames>

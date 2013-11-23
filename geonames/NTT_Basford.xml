@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Basford</toponymName>
+<name>Basford</name>
+<lat>53.06837</lat>
+<lng>-2.41863</lng>
+<geonameId>7292989</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z7</adminCode2>
+<adminName2>Cheshire East</adminName2>
+<adminCode3>00EQ016</adminCode3>
+<adminName3>Basford</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.43369</west>
+<north>53.07974</north>
+<east>-2.40357</east>
+<south>53.05699</south>
+</bbox>
+<score>95.96211242675781</score>
+</geoname>
+<geoname>
+<toponymName>Basford</toponymName>
+<name>Basford</name>
+<lat>52.96667</lat>
+<lng>-1.18333</lng>
+<geonameId>2656196</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Basford%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.19827</west>
+<north>52.97566</north>
+<east>-1.1684</east>
+<south>52.95767</south>
+</bbox>
+<score>73.02669525146484</score>
+</geoname>
+</geonames>

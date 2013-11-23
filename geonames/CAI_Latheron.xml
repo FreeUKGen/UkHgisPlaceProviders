@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Latheron</toponymName>
+<name>Latheron</name>
+<lat>58.28326</lat>
+<lng>-3.36712</lng>
+<geonameId>2644825</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Latheron</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V3</adminCode2>
+<adminName2>Highland</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Latheron</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.38424</west>
+<north>58.29225</north>
+<east>-3.35001</east>
+<south>58.27427</south>
+</bbox>
+<score>109.52067565917969</score>
+</geoname>
+</geonames>

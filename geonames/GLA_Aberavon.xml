@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Aberavon</toponymName>
+<name>Aberavon</name>
+<lat>51.60374</lat>
+<lng>-3.79957</lng>
+<geonameId>7294315</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y5</adminCode2>
+<adminName2>County Borough of Neath Port Talbot</adminName2>
+<adminCode3>00NZ001</adminCode3>
+<adminName3>Aberavon</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aberavon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.81717</west>
+<north>51.61523</north>
+<east>-3.78197</east>
+<south>51.59225</south>
+</bbox>
+<score>75.1653060913086</score>
+</geoname>
+</geonames>

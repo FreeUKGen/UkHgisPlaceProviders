@@ -1,0 +1,127 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>283</id>
+<name>GRAVESEND</name>
+<container>KENT</container>
+<lat>51.4321046806491</lat>
+<lon>0.386997253937394</lon>
+<gazetteerText>Gravesend.-- parl. and mun. bor., river-port, market town, and par., mid. Kent, on S. bank of river Thames, 24 miles E. of London by rail -- parl. bor., 3159 ac., pop. 31,283; mun. bor., 1256 ac., pop. 23,302; par., 564 ac., pop. 8416; 2 Banks, 5 newspapers. Market-days, Wednesday and Saturday. The town appears as Gravesham in Domesday Book; it was incorporated during the reign of Elizabeth. Gravesend is especially familiar as the place of embarkation and disembarkation of custom-house officers, pilots, &amp;c., attached to ships sailing to or arriving from foreign ports. It is the boundary port of London; has a considerable industry in fishing, especially for shrimps; and carries on some boat-building, ironfounding, soap-making, and brewing. Large supplies of vegetables and fruit are grown in the surrounding country for the London market. The bor. returns 1 member to Parliament. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.nwkfhs.org.uk/GRAV_plc.htm</link>
+<link>http://en.wikipedia.org/wiki/Gravesend,_Kent</link>
+<link>http://www.workhouses.org.uk/Gravesend</link>
+<link>http://www.geonames.org/2648187</link>
+</links>
+<unit>
+   <id>10040747</id>
+   <status>EP</status>
+   <name>GRAVESEND ST GEORGE</name>
+</unit>
+<unit>
+   <id>10042124</id>
+   <status>MB</status>
+   <name>GRAVESEND</name>
+</unit>
+<unit>
+   <id>10067595</id>
+   <status>USD</status>
+   <name>GRAVESEND</name>
+</unit>
+<unit>
+   <id>10151739</id>
+   <status>AP/CP</status>
+   <name>GRAVESEND</name>
+</unit>
+<unit>
+   <id>10151740</id>
+   <status>EP</status>
+   <name>GRAVESEND ST MARY</name>
+</unit>
+<unit>
+   <id>10155149</id>
+   <status>PLU/RegD</status>
+   <name>GRAVESEND AND MILTON</name>
+</unit>
+<unit>
+   <id>10172305</id>
+   <status>EP</status>
+   <name>GRAVESEND ST AIDEN</name>
+</unit>
+<unit>
+   <id>10193564</id>
+   <status>EP</status>
+   <name>GRAVESEND</name>
+</unit>
+<unit>
+   <id>10536960</id>
+   <status></status>
+   <name>GRAVESEND</name>
+</unit>
+<unit>
+   <id>10574067</id>
+   <status></status>
+   <name>GRAVESEND</name>
+</unit>
+<unit>
+   <id>12737944</id>
+   <status>PBCon</status>
+   <name>GRAVESEND</name>
+</unit>
+<unit>
+   <id>12752209</id>
+   <status>PDivCon</status>
+   <name>KENT GRAVESEND</name>
+</unit>
+<unit>
+   <id>12756392</id>
+   <status>CCon</status>
+   <name>GRAVESEND</name>
+</unit>
+<unit>
+   <id>12832722</id>
+   <status></status>
+   <name>GRAVESEND</name>
+</unit>
+<nearByPlace>
+   <id>2059</id>
+   <name>CLIFFE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2866</id>
+   <name>DENTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2872</id>
+   <name>HIGHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3151</id>
+   <name>COBHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4489</id>
+   <name>IFIELD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5391</id>
+   <name>CHALK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6279</id>
+   <name>MILTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6365</id>
+   <name>SHORNE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6940</id>
+   <name>EAST TILBURY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17365</id>
+   <name>GRAVESHAM</name>
+</nearByPlace>
+</place>
+</results>

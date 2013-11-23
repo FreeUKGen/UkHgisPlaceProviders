@@ -1,0 +1,185 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>12972</id>
+<name>ILCHESTER</name>
+<container>SOMERSET</container>
+<lat>51.0004501174858</lat>
+<lon>-2.69026701500779</lon>
+<gazetteerText>Ilchester, par. and vil., mid. Somerset, on river Yeo, 5 miles NW. of Yeovil, 653 ac., pop. 683; P.O., T.O., 1 Bank. Market-day, Wednesday. Ilchester is of ancient origin, and was at one time the chief town in Somerset. It was the birthplace of Roger Bacon (1214-1292), Franciscan monk and philosopher, and gives the title of earl to family of Fox Strangways. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/SOM/Ilchester/index.html</link>
+<link>http://en.wikipedia.org/wiki/Ilchester</link>
+<link>http://www.geonames.org/2646279</link>
+</links>
+<unit>
+   <id>10000956</id>
+   <status>Borough</status>
+   <name>ILCHESTER</name>
+</unit>
+<unit>
+   <id>10435020</id>
+   <status>AP/CP</status>
+   <name>ILCHESTER</name>
+</unit>
+<unit>
+   <id>10435043</id>
+   <status>EP</status>
+   <name>ILCHESTER</name>
+</unit>
+<unit>
+   <id>10563574</id>
+   <status></status>
+   <name>ILCHESTER</name>
+</unit>
+<unit>
+   <id>10573877</id>
+   <status></status>
+   <name>ILCHESTER</name>
+</unit>
+<unit>
+   <id>12758698</id>
+   <status>PBCon</status>
+   <name>ILCHESTER</name>
+</unit>
+</place>
+<place>
+<id>831</id>
+<name>YEOVIL</name>
+<container>SOMERSET</container>
+<lat>50.9430624902934</lat>
+<lon>-2.63607666799909</lon>
+<gazetteerText>Yeovil, mun. bor., market town, and par., Somerset, on river Yeo or Ivel, 22 miles SE. of Bridgwater, 50&#189; miles S. of Bristol, and 124&#190; miles SW. of London by rail - par., 4056 ac., pop. 9507; bor., 700 ac., pop. 8479; P.O., T.O., 3 Banks, 1 newspaper. Market-days, Friday and Saturday. Yeovil, known at Domesday as Ivel, is an old prescriptive borough. The parish church is a fine cruciform edifice, with a 15th century tower. The woollen trade once carried on has died out, but there is an extensive mfr. of kid and other gloves. Brewing is carried on. Yeovil is a railway centre of some importance. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/SOM/Yeovil/index.html</link>
+<link>http://en.wikipedia.org/wiki/Yeovil</link>
+<link>http://www.workhouses.org.uk/Yeovil</link>
+<link>http://www.geonames.org/2633373</link>
+</links>
+<unit>
+   <id>10003854</id>
+   <status>USD</status>
+   <name>YEOVIL</name>
+</unit>
+<unit>
+   <id>10028048</id>
+   <status>RSD</status>
+   <name>YEOVIL</name>
+</unit>
+<unit>
+   <id>10029697</id>
+   <status>RegD/PLU</status>
+   <name>YEOVIL</name>
+</unit>
+<unit>
+   <id>10153104</id>
+   <status>MB</status>
+   <name>YEOVIL</name>
+</unit>
+<unit>
+   <id>10186286</id>
+   <status>RD</status>
+   <name>YEOVIL</name>
+</unit>
+<unit>
+   <id>10210331</id>
+   <status>Borough</status>
+   <name>YEOVIL</name>
+</unit>
+<unit>
+   <id>10447276</id>
+   <status>CP/AP</status>
+   <name>YEOVIL</name>
+</unit>
+<unit>
+   <id>10447306</id>
+   <status>EP</status>
+   <name>YEOVIL ST MICHAEL AND ALL ANGELS</name>
+</unit>
+<unit>
+   <id>10447320</id>
+   <status>EP</status>
+   <name>YEOVIL WITH PRESTON PLUCKNETT</name>
+</unit>
+<unit>
+   <id>10447331</id>
+   <status>EP</status>
+   <name>YEOVIL WITH PRESTON PLUCKNETT AND KINGSTON PITNEY</name>
+</unit>
+<unit>
+   <id>10447355</id>
+   <status>CP</status>
+   <name>YEOVIL WITHOUT</name>
+</unit>
+<unit>
+   <id>10549590</id>
+   <status></status>
+   <name>YEOVIL</name>
+</unit>
+<unit>
+   <id>10563562</id>
+   <status></status>
+   <name>YEOVIL</name>
+</unit>
+<unit>
+   <id>12741121</id>
+   <status>CCon</status>
+   <name>YEOVIL</name>
+</unit>
+<unit>
+   <id>12742873</id>
+   <status>PDivCon</status>
+   <name>SOMERSETSHIRE YEOVIL</name>
+</unit>
+<unit>
+   <id>12751904</id>
+   <status>PDivCon</status>
+   <name>SOMERSETSHIRE SOUTHERN</name>
+</unit>
+<unit>
+   <id>12833386</id>
+   <status></status>
+   <name>YEOVIL</name>
+</unit>
+<nearByPlace>
+   <id>151</id>
+   <name>GLASTONBURY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>453</id>
+   <name>STREET</name>
+</nearByPlace>
+<nearByPlace>
+   <id>509</id>
+   <name>SHERBORNE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12497</id>
+   <name>BRYMPTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12522</id>
+   <name>CASTLE CARY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13097</id>
+   <name>MARTOCK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13102</id>
+   <name>MILBORNE PORT</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13227</id>
+   <name>SOMERTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13271</id>
+   <name>STOKE SUB HAMDON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13410</id>
+   <name>WINCANTON</name>
+</nearByPlace>
+</place>
+</results>

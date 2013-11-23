@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Britford</toponymName>
+<name>Britford</name>
+<lat>51.0502</lat>
+<lng>-1.80158</lng>
+<geonameId>7297638</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY031</adminCode3>
+<adminName3>Britford</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.85188</west>
+<north>51.06377</north>
+<east>-1.75128</east>
+<south>51.03662</south>
+</bbox>
+<score>111.52333068847656</score>
+</geoname>
+<geoname>
+<toponymName>Britford</toponymName>
+<name>Britford</name>
+<lat>51.05418</lat>
+<lng>-1.77353</lng>
+<geonameId>2654671</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Britford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY031</adminCode3>
+<adminName3>Britford</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Britford</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.78784</west>
+<north>51.06318</north>
+<east>-1.75922</east>
+<south>51.04519</south>
+</bbox>
+<score>105.68891906738281</score>
+</geoname>
+</geonames>

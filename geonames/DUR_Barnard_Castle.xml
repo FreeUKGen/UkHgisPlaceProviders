@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Barnard Castle</toponymName>
+<name>Barnard Castle</name>
+<lat>54.54312</lat>
+<lng>-1.91705</lng>
+<geonameId>7294458</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ002</adminCode3>
+<adminName3>Barnard Castle</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.93137</west>
+<north>54.55422</north>
+<east>-1.90274</east>
+<south>54.53202</south>
+</bbox>
+<score>80.98779296875</score>
+</geoname>
+<geoname>
+<toponymName>Barnard Castle</toponymName>
+<name>Barnard Castle</name>
+<lat>54.5415</lat>
+<lng>-1.919</lng>
+<geonameId>2656305</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>6864</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ002</adminCode3>
+<adminName3>Barnard Castle</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barnard_Castle</alternateName>
+<alternateName lang="unlc">BCA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.93634</west>
+<north>54.55156</north>
+<east>-1.90167</east>
+<south>54.53145</south>
+</bbox>
+<score>69.38153076171875</score>
+</geoname>
+<geoname>
+<toponymName>Barnard Castle</toponymName>
+<name>Barnard Castle</name>
+<lat>54.54294</lat>
+<lng>-1.92563</lng>
+<geonameId>6287336</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barnard_Castle_%28castle%29</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>46.25435256958008</score>
+</geoname>
+</geonames>

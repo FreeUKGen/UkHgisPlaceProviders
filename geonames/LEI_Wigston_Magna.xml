@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Wigston Magna</toponymName>
+<name>Wigston</name>
+<lat>52.58128</lat>
+<lng>-1.09248</lng>
+<geonameId>2633936</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>33720</population>
+<alternateNames>Great Wigston,Wigston,Wigston Magna,Wigston Two Steeples</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UJ</adminCode3>
+<adminName3>Oadby and Wigston</adminName3>
+<alternateName lang="en">Wigston</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wigston_Magna</alternateName>
+<alternateName lang="unlc">WGS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.13166</west>
+<north>52.60508</north>
+<east>-1.0533</east>
+<south>52.55749</south>
+</bbox>
+<score>126.77168273925781</score>
+</geoname>
+</geonames>

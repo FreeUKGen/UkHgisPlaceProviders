@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Eversley</toponymName>
+<name>Eversley</name>
+<lat>51.35387</lat>
+<lng>-0.88888</lng>
+<geonameId>6950979</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2600</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UG</adminCode3>
+<adminName3>Hart District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eversley</alternateName>
+<alternateName lang="unlc">ERY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.89907</west>
+<north>51.36023</north>
+<east>-0.8787</east>
+<south>51.34751</south>
+</bbox>
+<score>88.11726379394531</score>
+</geoname>
+<geoname>
+<toponymName>Eversley</toponymName>
+<name>Eversley</name>
+<lat>51.34035</lat>
+<lng>-0.87754</lng>
+<geonameId>7290722</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UG</adminCode3>
+<adminName3>Hart District</adminName3>
+<adminCode4>24UG005</adminCode4>
+<adminName4>Eversley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.90938</west>
+<north>51.35971</north>
+<east>-0.84571</east>
+<south>51.32099</south>
+</bbox>
+<score>70.97006225585938</score>
+</geoname>
+</geonames>

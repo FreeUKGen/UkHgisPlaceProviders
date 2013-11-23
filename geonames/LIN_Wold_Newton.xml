@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Wold Newton</toponymName>
+<name>Wold Newton</name>
+<lat>53.45287</lat>
+<lng>-0.13263</lng>
+<geonameId>7298233</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC020</adminCode3>
+<adminName3>Wold Newton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.15854</west>
+<north>53.47</north>
+<east>-0.10671</east>
+<south>53.43575</south>
+</bbox>
+<score>90.82432556152344</score>
+</geoname>
+<geoname>
+<toponymName>Wold Newton</toponymName>
+<name>Wold Newton</name>
+<lat>54.15558</lat>
+<lng>-0.40323</lng>
+<geonameId>7298469</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB162</adminCode3>
+<adminName3>Wold Newton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.43316</west>
+<north>54.17652</north>
+<east>-0.3733</east>
+<south>54.13465</south>
+</bbox>
+<score>90.82432556152344</score>
+</geoname>
+<geoname>
+<toponymName>Wold Newton</toponymName>
+<name>Wold Newton</name>
+<lat>54.13333</lat>
+<lng>-0.4</lng>
+<geonameId>2633705</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB162</adminCode3>
+<adminName3>Wold Newton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wold_Newton%2C_East_Riding_of_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.43071</west>
+<north>54.15132</north>
+<east>-0.36929</east>
+<south>54.11535</south>
+</bbox>
+<score>68.3143310546875</score>
+</geoname>
+<geoname>
+<toponymName>Wold Newton</toponymName>
+<name>Wold Newton</name>
+<lat>53.45</lat>
+<lng>-0.13333</lng>
+<geonameId>2633706</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC020</adminCode3>
+<adminName3>Wold Newton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wold_Newton%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.16355</west>
+<north>53.46799</north>
+<east>-0.10312</east>
+<south>53.43201</south>
+</bbox>
+<score>68.3143310546875</score>
+</geoname>
+</geonames>

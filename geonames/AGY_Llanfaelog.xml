@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanfaelog</toponymName>
+<name>Llanfaelog</name>
+<lat>53.23441</lat>
+<lng>-4.49409</lng>
+<geonameId>7294077</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA018</adminCode3>
+<adminName3>Llanfaelog</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.53154</west>
+<north>53.25269</north>
+<east>-4.45665</east>
+<south>53.21613</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Llanfaelog</toponymName>
+<name>Llanfaelog</name>
+<lat>53.22819</lat>
+<lng>-4.49352</lng>
+<geonameId>2644091</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA018</adminCode3>
+<adminName3>Llanfaelog</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanfaelog</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.50854</west>
+<north>53.23718</north>
+<east>-4.47849</east>
+<south>53.21919</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+</geonames>

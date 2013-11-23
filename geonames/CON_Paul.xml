@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Paul</toponymName>
+<name>Paul</name>
+<lat>50.08382</lat>
+<lng>-5.55989</lng>
+<geonameId>7294440</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE103</adminCode3>
+<adminName3>Paul</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.58836</west>
+<north>50.1078</north>
+<east>-5.53142</east>
+<south>50.05984</south>
+</bbox>
+<score>85.26615905761719</score>
+</geoname>
+<geoname>
+<toponymName>Paul</toponymName>
+<name>Paul</name>
+<lat>50.09022</lat>
+<lng>-5.54683</lng>
+<geonameId>2640563</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Paul,Saint Paul</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE107</adminCode3>
+<adminName3>Penzance</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Paul%2C_Cornwall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.56085</west>
+<north>50.09921</north>
+<east>-5.53281</east>
+<south>50.08122</south>
+</bbox>
+<score>74.46015167236328</score>
+</geoname>
+</geonames>

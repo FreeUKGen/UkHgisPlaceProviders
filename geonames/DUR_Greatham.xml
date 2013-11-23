@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Greatham</toponymName>
+<name>Greatham</name>
+<lat>54.63837</lat>
+<lng>-1.24555</lng>
+<geonameId>7293690</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F5</adminCode2>
+<adminName2>Hartlepool</adminName2>
+<adminCode3>00EB005</adminCode3>
+<adminName3>Greatham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.26676</west>
+<north>54.65206</north>
+<east>-1.22434</east>
+<south>54.62468</south>
+</bbox>
+<score>107.34761047363281</score>
+</geoname>
+<geoname>
+<toponymName>Greatham</toponymName>
+<name>Greatham</name>
+<lat>51.07171</lat>
+<lng>-0.89204</lng>
+<geonameId>2648090</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UC</adminCode3>
+<adminName3>East Hampshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Greatham%2C_Hampshire</alternateName>
+<alternateName lang="unlc">GTH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.90635</west>
+<north>51.08071</north>
+<east>-0.87772</east>
+<south>51.06272</south>
+</bbox>
+<score>80.71827697753906</score>
+</geoname>
+<geoname>
+<toponymName>Greatham</toponymName>
+<name>Greatham</name>
+<lat>51.06937</lat>
+<lng>-0.90046</lng>
+<geonameId>7298016</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UC</adminCode3>
+<adminName3>East Hampshire</adminName3>
+<adminCode4>24UC017</adminCode4>
+<adminName4>Greatham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.91967</west>
+<north>51.08557</north>
+<east>-0.88125</east>
+<south>51.05318</south>
+</bbox>
+<score>77.36012268066406</score>
+</geoname>
+<geoname>
+<toponymName>Greatham</toponymName>
+<name>Greatham</name>
+<lat>54.64183</lat>
+<lng>-1.23806</lng>
+<geonameId>2648089</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F5</adminCode2>
+<adminName2>Hartlepool</adminName2>
+<adminCode3>00EB005</adminCode3>
+<adminName3>Greatham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Greatham%2C_County_Durham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.26916</west>
+<north>54.65982</north>
+<east>-1.20697</east>
+<south>54.62384</south>
+</bbox>
+<score>68.43415069580078</score>
+</geoname>
+</geonames>

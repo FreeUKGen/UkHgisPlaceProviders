@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Keele</toponymName>
+<name>Keele</name>
+<lat>53.00382</lat>
+<lng>-2.28741</lng>
+<geonameId>2645897</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UE</adminCode3>
+<adminName3>Newcastle-under-Lyme District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.30236</west>
+<north>53.01282</north>
+<east>-2.27246</east>
+<south>52.99483</south>
+</bbox>
+<score>61.81657409667969</score>
+</geoname>
+<geoname>
+<toponymName>Keele</toponymName>
+<name>Keele</name>
+<lat>53.00628</lat>
+<lng>-2.28686</lng>
+<geonameId>7292467</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UE</adminCode3>
+<adminName3>Newcastle-under-Lyme District</adminName3>
+<adminCode4>41UE005</adminCode4>
+<adminName4>Keele</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Keele</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.31443</west>
+<north>53.02348</north>
+<east>-2.2593</east>
+<south>52.98907</south>
+</bbox>
+<score>57.611366271972656</score>
+</geoname>
+</geonames>

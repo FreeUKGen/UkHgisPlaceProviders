@@ -1,0 +1,50 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>9594</id>
+<name>BADSEY</name>
+<container>WORCESTERSHIRE</container>
+<lat>52.0840323315979</lat>
+<lon>-1.88619683633614</lon>
+<gazetteerText>BADSEY, a village and a parish in Evesham district, Worcester. The village stands on a tributary of the river Avon, adjacent to the Great Western railway, 2 miles ESE of Evesham. The parish includes also the hamlet of Aldington. Post Town, Evesham. Acres, 1,770. Real property, &#163;4,268. Pop., 546. Houses, 119. There are mineral springs, and a silk mill. The living is a vicarage in the diocese of Worcester. Value, &#163;150.* Patron, Christchurch, Oxford. The church is ancient. There are a national school, and charities &#163;18. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2656642</link>
+<link>http://www.genuki.org.uk/big/eng/WOR/Badsey/index.html</link>
+<link>http://en.wikipedia.org/wiki/Badsey</link>
+</links>
+<unit>
+   <id>10326588</id>
+   <status>Ch/AP/CP</status>
+   <name>BADSEY</name>
+</unit>
+<unit>
+   <id>10326590</id>
+   <status>EP</status>
+   <name>BADSEY WITH ALDINGTON</name>
+</unit>
+<nearByPlace>
+   <id>9734</id>
+   <name>BRETFORTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9916</id>
+   <name>CHURCH HONEYBOURNE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9940</id>
+   <name>NORTH LITTLETON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9942</id>
+   <name>SOUTH LITTLETON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10512</id>
+   <name>CHILDS WICKHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>14547</id>
+   <name>HONEYBOURNE</name>
+</nearByPlace>
+</place>
+</results>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Port-Eynon</toponymName>
+<name>Port-Eynon</name>
+<lat>51.54694</lat>
+<lng>-4.21361</lng>
+<geonameId>2640061</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Fort Eynon,Port-Eynon,Porth Eynon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z1</adminCode2>
+<adminName2>Swansea</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.22808</west>
+<north>51.55594</north>
+<east>-4.19915</east>
+<south>51.53795</south>
+</bbox>
+<score>88.15652465820312</score>
+</geoname>
+<geoname>
+<toponymName>Port Eynon</toponymName>
+<name>Port Eynon</name>
+<lat>51.5643</lat>
+<lng>-4.23315</lng>
+<geonameId>7299731</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z1</adminCode2>
+<adminName2>Swansea</adminName2>
+<adminCode3>00NX031</adminCode3>
+<adminName3>Port Eynon</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Port_Eynon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.26557</west>
+<north>51.59361</north>
+<east>-4.20073</east>
+<south>51.53498</south>
+</bbox>
+<score>66.57941436767578</score>
+</geoname>
+</geonames>

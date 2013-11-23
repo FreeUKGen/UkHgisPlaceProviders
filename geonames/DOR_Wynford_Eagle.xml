@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Wynford Eagle</toponymName>
+<name>Wynford Eagle</name>
+<lat>50.7612</lat>
+<lng>-2.60223</lng>
+<geonameId>7293445</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UH</adminCode3>
+<adminName3>West Dorset District</adminName3>
+<adminCode4>19UH137</adminCode4>
+<adminName4>Wynford Eagle</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wynford_Eagle</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.63083</west>
+<north>50.77719</north>
+<east>-2.57364</east>
+<south>50.74521</south>
+</bbox>
+<score>53.95287322998047</score>
+</geoname>
+</geonames>

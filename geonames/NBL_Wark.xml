@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Wark</toponymName>
+<name>Wark</name>
+<lat>55.08996</lat>
+<lng>-2.33621</lng>
+<geonameId>7291478</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM153</adminCode3>
+<adminName3>Wark</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.46357</west>
+<north>55.13303</north>
+<east>-2.20885</east>
+<south>55.04688</south>
+</bbox>
+<score>103.66236877441406</score>
+</geoname>
+<geoname>
+<toponymName>Wark</toponymName>
+<name>Wark</name>
+<lat>55.08623</lat>
+<lng>-2.22267</lng>
+<geonameId>2634767</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wark_on_Tyne</alternateName>
+<alternateName lang="unlc">WRQ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.23839</west>
+<north>55.09522</north>
+<east>-2.20695</east>
+<south>55.07723</south>
+</bbox>
+<score>79.12186431884766</score>
+</geoname>
+<geoname>
+<toponymName>Wark</toponymName>
+<name>Wark</name>
+<lat>55.63333</lat>
+<lng>-2.26667</lng>
+<geonameId>2634766</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<alternateName lang="unlc">WQK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.2826</west>
+<north>55.64233</north>
+<east>-2.25073</east>
+<south>55.62434</south>
+</bbox>
+<score>45.94158935546875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Devauden</toponymName>
+<name>Devauden</name>
+<lat>51.68807</lat>
+<lng>-2.75664</lng>
+<geonameId>7301129</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP006</adminCode3>
+<adminName3>Devauden</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Devauden</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.81196</west>
+<north>51.73009</north>
+<east>-2.70131</east>
+<south>51.64604</south>
+</bbox>
+<score>79.03948974609375</score>
+</geoname>
+</geonames>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bathford</toponymName>
+<name>Bathford</name>
+<lat>51.39418</lat>
+<lng>-2.29608</lng>
+<geonameId>7298312</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA003</adminCode3>
+<adminName3>Bathford</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.31361</west>
+<north>51.42625</north>
+<east>-2.27854</east>
+<south>51.36211</south>
+</bbox>
+<score>106.04415130615234</score>
+</geoname>
+<geoname>
+<toponymName>Bathford</toponymName>
+<name>Bathford</name>
+<lat>51.4002</lat>
+<lng>-2.30161</lng>
+<geonameId>2656170</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bathford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA003</adminCode3>
+<adminName3>Bathford</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bathford</alternateName>
+<alternateName lang="unlc">BTF</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.31602</west>
+<north>51.4092</north>
+<east>-2.28719</east>
+<south>51.39121</south>
+</bbox>
+<score>86.97852325439453</score>
+</geoname>
+</geonames>

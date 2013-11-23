@@ -1,0 +1,137 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>321</id>
+<name>KETTERING</name>
+<container>NORTHAMPTONSHIRE</container>
+<lat>52.3967220235535</lat>
+<lon>-0.716720623218826</lon>
+<gazetteerText>Kettering, market town and par. with ry. sta., Northamptonshire, 8 miles N. of Wellingborough and 75 miles from London, 2840 ac., pop. 11,095; P.O., T.O.; 3 Banks, 2 newspapers. Market-day, Friday. Kettering is an ancient place, and was called by the Saxons Kateringes. The charter for its market was granted by Henry III. in 1227 to the monks of Peterborough. It is a fairly prosperous town, with tanning and currying, mfrs. of boots and shoes, stays, brushes, agricultural implements, and some articles of clothing. It has a handsome town hall, a cattle market, a corn exchange, and a grammar school. Many Roman relics have been found in the vicinity. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Kettering</link>
+<link>http://www.workhouses.org.uk/Kettering</link>
+<link>http://www.geonames.org/2645753</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=66292</link>
+</links>
+<unit>
+   <id>10029831</id>
+   <status>RegD/PLU</status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>10042793</id>
+   <status>UD/MB</status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>10103381</id>
+   <status>RSD</status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>10136817</id>
+   <status>RD</status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>10142751</id>
+   <status></status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>10207162</id>
+   <status>USD</status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>10277371</id>
+   <status>AP/CP</status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>10277395</id>
+   <status>EP</status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>10277401</id>
+   <status>EP</status>
+   <name>KETTERING ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10277413</id>
+   <status>EP</status>
+   <name>KETTERING ST ANDREW</name>
+</unit>
+<unit>
+   <id>10277425</id>
+   <status>EP</status>
+   <name>KETTERING ST MARY</name>
+</unit>
+<unit>
+   <id>10553933</id>
+   <status></status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>10575709</id>
+   <status></status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>12738304</id>
+   <status>PDivCon</status>
+   <name>NORTHAMPTONSHIRE AND SOKE OF PETERBOROUGH KETTERING</name>
+</unit>
+<unit>
+   <id>12740578</id>
+   <status>CCon</status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>12829930</id>
+   <status></status>
+   <name>KETTERING</name>
+</unit>
+<nearByPlace>
+   <id>1285</id>
+   <name>BURTON LATIMER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7567</id>
+   <name>BARTON SEAGRAVE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7637</id>
+   <name>BROUGHTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7683</id>
+   <name>CRANFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7942</id>
+   <name>GEDDINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7950</id>
+   <name>GRAFTON UNDERWOOD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8164</id>
+   <name>SLIPTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8249</id>
+   <name>TWYWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8270</id>
+   <name>WARKTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8278</id>
+   <name>WEEKLEY</name>
+</nearByPlace>
+</place>
+</results>

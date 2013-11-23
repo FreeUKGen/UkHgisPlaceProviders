@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Yeovilton</toponymName>
+<name>Yeovilton</name>
+<lat>51.00936</lat>
+<lng>-2.63882</lng>
+<geonameId>6301513</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>EGDY,YEO</alternateNames>
+<elevation>22</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<alternateName lang="iata">YEO</alternateName>
+<alternateName lang="icao">EGDY</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/RNAS_Yeovilton_%28HMS_Heron%29</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>96.94932556152344</score>
+</geoname>
+<geoname>
+<toponymName>Yeovilton</toponymName>
+<name>Yeovilton</name>
+<lat>51.00359</lat>
+<lng>-2.64898</lng>
+<geonameId>2633371</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>YEO</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<alternateName lang="iata">YEO</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Yeovilton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.66328</west>
+<north>51.01259</north>
+<east>-2.63469</east>
+<south>50.9946</south>
+</bbox>
+<score>86.07657623291016</score>
+</geoname>
+<geoname>
+<toponymName>Yeovilton</toponymName>
+<name>Yeovilton</name>
+<lat>51.01968</lat>
+<lng>-2.64078</lng>
+<geonameId>7292426</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD119</adminCode4>
+<adminName4>Yeovilton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.67773</west>
+<north>51.03957</north>
+<east>-2.60383</east>
+<south>50.99978</south>
+</bbox>
+<score>76.62574005126953</score>
+</geoname>
+</geonames>

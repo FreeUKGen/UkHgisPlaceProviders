@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Penbryn</toponymName>
+<name>Penbryn</name>
+<lat>52.12414</lat>
+<lng>-4.45427</lng>
+<geonameId>7292329</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ040</adminCode3>
+<adminName3>Penbryn</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.52815</west>
+<north>52.15934</north>
+<east>-4.38038</east>
+<south>52.08893</south>
+</bbox>
+<score>108.11662292480469</score>
+</geoname>
+<geoname>
+<toponymName>Penbryn</toponymName>
+<name>Penbryn</name>
+<lat>52.13996</lat>
+<lng>-4.49042</lng>
+<geonameId>2640492</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Penbryn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ040</adminCode3>
+<adminName3>Penbryn</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Penbryn</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.50508</west>
+<north>52.14896</north>
+<east>-4.47576</east>
+<south>52.13097</south>
+</bbox>
+<score>102.75570678710938</score>
+</geoname>
+</geonames>

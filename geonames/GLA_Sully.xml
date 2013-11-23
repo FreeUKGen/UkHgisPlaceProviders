@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Sully</toponymName>
+<name>Sully</name>
+<lat>51.40704</lat>
+<lng>-3.20376</lng>
+<geonameId>7294202</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<adminCode3>00PD024</adminCode3>
+<adminName3>Sully</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.2418</west>
+<north>51.41999</north>
+<east>-3.16573</east>
+<south>51.39409</south>
+</bbox>
+<score>97.71270751953125</score>
+</geoname>
+<geoname>
+<toponymName>Sully</toponymName>
+<name>Sully</name>
+<lat>51.407</lat>
+<lng>-3.22086</lng>
+<geonameId>2636545</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z3</adminCode2>
+<adminName2>Vale of Glamorgan</adminName2>
+<adminCode3>00PD024</adminCode3>
+<adminName3>Sully</adminName3>
+<alternateName lang="unlc">SUY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.23528</west>
+<north>51.41599</north>
+<east>-3.20644</east>
+<south>51.398</south>
+</bbox>
+<score>43.48414611816406</score>
+</geoname>
+</geonames>

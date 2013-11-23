@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Steventon</toponymName>
+<name>Steventon</name>
+<lat>51.62473</lat>
+<lng>-1.32145</lng>
+<geonameId>2636936</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UE</adminCode3>
+<adminName3>Vale of White Horse District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Steventon%2C_Oxfordshire</alternateName>
+<alternateName lang="unlc">VTO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.33594</west>
+<north>51.63372</north>
+<east>-1.30696</east>
+<south>51.61574</south>
+</bbox>
+<score>71.89063262939453</score>
+</geoname>
+<geoname>
+<toponymName>Steventon</toponymName>
+<name>Steventon</name>
+<lat>51.22995</lat>
+<lng>-1.21807</lng>
+<geonameId>2636937</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UB</adminCode3>
+<adminName3>Basingstoke and Deane District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Steventon%2C_Hampshire</alternateName>
+<alternateName lang="unlc">SXN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.23243</west>
+<north>51.23894</north>
+<east>-1.2037</east>
+<south>51.22095</south>
+</bbox>
+<score>71.89063262939453</score>
+</geoname>
+<geoname>
+<toponymName>Steventon</toponymName>
+<name>Steventon</name>
+<lat>51.6235</lat>
+<lng>-1.3402</lng>
+<geonameId>7299995</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UE</adminCode3>
+<adminName3>Vale of White Horse District</adminName3>
+<adminCode4>38UE057</adminCode4>
+<adminName4>Steventon</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.37271</west>
+<north>51.64094</north>
+<east>-1.30769</east>
+<south>51.60606</south>
+</bbox>
+<score>68.61212158203125</score>
+</geoname>
+<geoname>
+<toponymName>Steventon</toponymName>
+<name>Steventon</name>
+<lat>51.21819</lat>
+<lng>-1.22159</lng>
+<geonameId>7300663</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UB</adminCode3>
+<adminName3>Basingstoke and Deane District</adminName3>
+<adminCode4>24UB041</adminCode4>
+<adminName4>Steventon</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.24864</west>
+<north>51.24537</north>
+<east>-1.19455</east>
+<south>51.191</south>
+</bbox>
+<score>68.61212158203125</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Neen Savage</toponymName>
+<name>Neen Savage</name>
+<lat>52.40289</lat>
+<lng>-2.47123</lng>
+<geonameId>7292913</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG133</adminCode3>
+<adminName3>Neen Savage</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.51152</west>
+<north>52.42229</north>
+<east>-2.43094</east>
+<south>52.3835</south>
+</bbox>
+<score>96.42906951904297</score>
+</geoname>
+<geoname>
+<toponymName>Neen Savage</toponymName>
+<name>Neen Savage</name>
+<lat>52.39316</lat>
+<lng>-2.4792</lng>
+<geonameId>2641820</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG133</adminCode3>
+<adminName3>Neen Savage</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Neen_Savage</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.49394</west>
+<north>52.40216</north>
+<east>-2.46446</east>
+<south>52.38417</south>
+</bbox>
+<score>85.85313415527344</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Diseworth</toponymName>
+<name>Diseworth</name>
+<lat>52.81635</lat>
+<lng>-1.33106</lng>
+<geonameId>2651218</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Diseworth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>6896157</adminCode3>
+<adminName3>North West Leicestershire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Diseworth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.34595</west>
+<north>52.82535</north>
+<east>-1.31618</east>
+<south>52.80736</south>
+</bbox>
+<score>110.68106079101562</score>
+</geoname>
+</geonames>

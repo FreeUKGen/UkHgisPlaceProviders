@@ -1,0 +1,80 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>16358</id>
+<name>WICK</name>
+<container>CAITHNESS</container>
+<lat>58.4385160718868</lat>
+<lon>-3.08945975463542</lon>
+<gazetteerText>Wick, seaport, parl. and royal burgh, par., and co. town of Caithness, on Wick Water and Wick Bay, 161&#189; miles NE. of Inverness by rail and 110 NW. of Aberdeen by sea - par., 47,264 ac., pop. 12,822; parl. burgh, pop. 8026; royal burgh, pop. 2954; town, pop. 8053; P.O., T.O., 6 Banks, 2 newspapers. Market-day, Friday. Wick consists of three portions - Wick proper (the oldest part), Louisburgh, and Pultneytown, and is the seat of a very important and extensive fishery district. The harbour has been enlarged and greatly improved, subsequent to 1883, at a cost of about &#163;100,000. There is regular steam communication with Aberdeen, Granton, Kirkwall, and Lerwick. (For shipping statistics, see Appendix.) Fishing, particularly herring fishing, is the great industry. There are rope and sail factories, a distillery, and a brewery. The royal burgh, created in 1589, was extended in 1883. The Wick Burghs (Wick, Kirkwall, Dornoch, Dingwall, Tain, and Cromarty) return 1 member to Parliament. The Castle of Old Wick, or &quot;The Auld Man o&apos; Wick,&quot; is situated on a headland 1&#189; mile SW. of the town. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Wick,_Caithness</link>
+<link>http://www.geonames.org/2633982</link>
+</links>
+<unit>
+   <id>10016897</id>
+   <status></status>
+   <name>WICK</name>
+</unit>
+<unit>
+   <id>10362465</id>
+   <status>Burgh</status>
+   <name>WICK</name>
+</unit>
+<unit>
+   <id>12735807</id>
+   <status>DistBCon</status>
+   <name>WICK</name>
+</unit>
+<unit>
+   <id>12782020</id>
+   <status></status>
+   <name>WICK</name>
+</unit>
+<unit>
+   <id>12833180</id>
+   <status></status>
+   <name>WICK</name>
+</unit>
+<nearByPlace>
+   <id>16345</id>
+   <name>THURSO</name>
+</nearByPlace>
+<nearByPlace>
+   <id>16357</id>
+   <name>WESTRAY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>16453</id>
+   <name>DUNNET</name>
+</nearByPlace>
+<nearByPlace>
+   <id>16472</id>
+   <name>BIRSAY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>16650</id>
+   <name>SOUTH RONALDSAY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>16731</id>
+   <name>STROMNESS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>16940</id>
+   <name>OLRIG</name>
+</nearByPlace>
+<nearByPlace>
+   <id>16987</id>
+   <name>CANISBAY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17086</id>
+   <name>ST ANDREWS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17111</id>
+   <name>KIRKWALL</name>
+</nearByPlace>
+</place>
+</results>

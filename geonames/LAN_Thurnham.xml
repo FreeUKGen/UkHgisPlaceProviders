@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Thurnham</toponymName>
+<name>Thurnham</name>
+<lat>53.99534</lat>
+<lng>-2.83507</lng>
+<geonameId>7295359</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UH</adminCode3>
+<adminName3>Lancaster</adminName3>
+<adminCode4>30UH030</adminCode4>
+<adminName4>Thurnham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thurnham%2C_Lancashire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.87706</west>
+<north>54.02036</north>
+<east>-2.79308</east>
+<south>53.97033</south>
+</bbox>
+<score>52.64119338989258</score>
+</geoname>
+<geoname>
+<toponymName>Thurnham</toponymName>
+<name>Thurnham</name>
+<lat>51.28872</lat>
+<lng>0.59581</lng>
+<geonameId>7295885</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UH</adminCode3>
+<adminName3>Maidstone</adminName3>
+<adminCode4>29UH034</adminCode4>
+<adminName4>Thurnham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thurnham%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.56156</west>
+<north>51.31845</north>
+<east>0.63006</east>
+<south>51.25899</south>
+</bbox>
+<score>52.64119338989258</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Stamfordham</toponymName>
+<name>Stamfordham</name>
+<lat>55.0354</lat>
+<lng>-1.86075</lng>
+<geonameId>7291474</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM141</adminCode3>
+<adminName3>Stamfordham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.90982</west>
+<north>55.07365</north>
+<east>-1.81168</east>
+<south>54.99715</south>
+</bbox>
+<score>113.40838623046875</score>
+</geoname>
+<geoname>
+<toponymName>Stamfordham</toponymName>
+<name>Stamfordham</name>
+<lat>55.04335</lat>
+<lng>-1.87978</lng>
+<geonameId>2637101</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM141</adminCode3>
+<adminName3>Stamfordham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stamfordham%2C_Northumberland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.89549</west>
+<north>55.05234</north>
+<east>-1.86408</east>
+<south>55.03435</south>
+</bbox>
+<score>85.42109680175781</score>
+</geoname>
+</geonames>

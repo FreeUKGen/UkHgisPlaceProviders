@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Corsenside</toponymName>
+<name>Corsenside</name>
+<lat>55.17382</lat>
+<lng>-2.15772</lng>
+<geonameId>7293984</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM041</adminCode3>
+<adminName3>Corsenside</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.24623</west>
+<north>55.21251</north>
+<east>-2.06921</east>
+<south>55.13513</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Corsenside</toponymName>
+<name>Corsenside</name>
+<lat>55.18333</lat>
+<lng>-2.16667</lng>
+<geonameId>2652320</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM041</adminCode3>
+<adminName3>Corsenside</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Corsenside</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.19818</west>
+<north>55.20132</north>
+<east>-2.13515</east>
+<south>55.16535</south>
+</bbox>
+<score>79.03948974609375</score>
+</geoname>
+</geonames>

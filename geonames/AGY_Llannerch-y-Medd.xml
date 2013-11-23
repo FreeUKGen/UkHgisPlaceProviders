@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llannerch-y-Medd</toponymName>
+<name>Llannerch-y-Medd</name>
+<lat>53.32741</lat>
+<lng>-4.38375</lng>
+<geonameId>7297165</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA028</adminCode3>
+<adminName3>Llannerch-y-Medd</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llannerch-y-medd</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.44483</west>
+<north>53.35983</north>
+<east>-4.32267</east>
+<south>53.29499</south>
+</bbox>
+<score>79.45829010009766</score>
+</geoname>
+</geonames>

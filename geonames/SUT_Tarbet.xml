@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Tarbet</toponymName>
+<name>Tarbet</name>
+<lat>56.2</lat>
+<lng>-4.71667</lng>
+<geonameId>2636233</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Tarbet</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T8</adminCode2>
+<adminName2>Argyll and Bute</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tarbet%2C_Argyll</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.73284</west>
+<north>56.20899</north>
+<east>-4.7005</east>
+<south>56.19101</south>
+</bbox>
+<score>94.1203384399414</score>
+</geoname>
+<geoname>
+<toponymName>Tarbet</toponymName>
+<name>Tarbet</name>
+<lat>56.96983</lat>
+<lng>-5.63436</lng>
+<geonameId>2636232</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V3</adminCode2>
+<adminName2>Highland</adminName2>
+<adminCode3>2646086</adminCode3>
+<adminName3>Inverness-shire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tarbet</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.65086</west>
+<north>56.97882</north>
+<east>-5.61785</east>
+<south>56.96083</south>
+</bbox>
+<score>84.41407775878906</score>
+</geoname>
+</geonames>

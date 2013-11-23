@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Chorlton cum Hardy</toponymName>
+<name>Chorlton cum Hardy</name>
+<lat>53.43505</lat>
+<lng>-2.2631</lng>
+<geonameId>6691248</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population>4741</population>
+<alternateNames>Chorlton,Chorlton cum Hardy,Chorlton-cum-Hardy</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I2</adminCode2>
+<adminName2>Manchester</adminName2>
+<alternateName lang="en">Chorlton cum Hardy</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chorlton-cum-Hardy</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.27617</west>
+<north>53.44284</north>
+<east>-2.25002</east>
+<south>53.42727</south>
+</bbox>
+<score>95.56243896484375</score>
+</geoname>
+</geonames>

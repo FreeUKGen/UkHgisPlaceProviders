@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Rowley Regis</toponymName>
+<name>Rowley Regis</name>
+<lat>52.48292</lat>
+<lng>-2.04376</lng>
+<geonameId>2639040</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1001</population>
+<alternateNames>Rowley Regis</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L7</adminCode2>
+<adminName2>Sandwell</adminName2>
+<adminCode3>47UB</adminCode3>
+<adminName3>GB.ENG.L7.47UB</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rowley_Regis</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.04524</west>
+<north>52.48382</north>
+<east>-2.04229</east>
+<south>52.48202</south>
+</bbox>
+<score>112.16287994384766</score>
+</geoname>
+</geonames>

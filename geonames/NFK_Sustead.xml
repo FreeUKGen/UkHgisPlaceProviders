@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Sustead</toponymName>
+<name>Sustead</name>
+<lat>52.88597</lat>
+<lng>1.24448</lng>
+<geonameId>7295688</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<adminCode4>33UF096</adminCode4>
+<adminName4>Sustead</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sustead</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.20858</west>
+<north>52.89618</north>
+<east>1.28039</east>
+<south>52.87577</south>
+</bbox>
+<score>61.74647521972656</score>
+</geoname>
+</geonames>

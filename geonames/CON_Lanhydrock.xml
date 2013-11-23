@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Lanhydrock</toponymName>
+<name>Lanhydrock</name>
+<lat>50.44357</lat>
+<lng>-4.69641</lng>
+<geonameId>7293075</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE060</adminCode3>
+<adminName3>Lanhydrock</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lanhydrock</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.72045</west>
+<north>50.45891</north>
+<east>-4.67237</east>
+<south>50.42823</south>
+</bbox>
+<score>79.03948974609375</score>
+</geoname>
+<geoname>
+<toponymName>Lanhydrock</toponymName>
+<name>Lanhydrock</name>
+<lat>50.41065</lat>
+<lng>-4.21471</lng>
+<geonameId>6290150</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>RECG</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>golf course</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>20.72722053527832</score>
+</geoname>
+</geonames>

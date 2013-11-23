@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Clapton-in-Gordano</toponymName>
+<name>Clapton-in-Gordano</name>
+<lat>51.45924</lat>
+<lng>-2.78095</lng>
+<geonameId>7296941</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC011</adminCode3>
+<adminName3>Clapton-in-Gordano</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.81408</west>
+<north>51.47204</north>
+<east>-2.74781</east>
+<south>51.44644</south>
+</bbox>
+<score>100.91279602050781</score>
+</geoname>
+<geoname>
+<toponymName>Clapton in Gordano</toponymName>
+<name>Clapton in Gordano</name>
+<lat>51.46333</lat>
+<lng>-2.75639</lng>
+<geonameId>2652947</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Clapton,Clapton in Gordano</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clapton_in_Gordano</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.77083</west>
+<north>51.47233</north>
+<east>-2.74195</east>
+<south>51.45434</south>
+</bbox>
+<score>87.09809875488281</score>
+</geoname>
+</geonames>

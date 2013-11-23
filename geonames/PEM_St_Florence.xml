@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>St Florence</toponymName>
+<name>St Florence</name>
+<lat>51.67958</lat>
+<lng>-4.77562</lng>
+<geonameId>7292311</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS062</adminCode3>
+<adminName3>St Florence</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St_Florence</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.82066</west>
+<north>51.70796</north>
+<east>-4.72309</east>
+<south>51.66622</south>
+</bbox>
+<score>68.46361541748047</score>
+</geoname>
+</geonames>

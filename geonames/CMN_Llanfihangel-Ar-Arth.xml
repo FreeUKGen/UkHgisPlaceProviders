@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanfihangel-ar-Arth</toponymName>
+<name>Llanfihangel-ar-Arth</name>
+<lat>52.00474</lat>
+<lng>-4.24433</lng>
+<geonameId>7301147</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU036</adminCode3>
+<adminName3>Llanfihangel-ar-Arth</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.32194</west>
+<north>52.05277</north>
+<east>-4.16672</east>
+<south>51.9567</south>
+</bbox>
+<score>98.87293243408203</score>
+</geoname>
+<geoname>
+<toponymName>Llanfihangel-ar-Arth</toponymName>
+<name>Llanfihangel-ar-Arth</name>
+<lat>52.03105</lat>
+<lng>-4.2543</lng>
+<geonameId>2644071</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanfihangel-ar-Arth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU036</adminCode3>
+<adminName3>Llanfihangel-ar-Arth</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanfihangel-ar-Arth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.26892</west>
+<north>52.04005</north>
+<east>-4.23968</east>
+<south>52.02206</south>
+</bbox>
+<score>97.25184631347656</score>
+</geoname>
+</geonames>

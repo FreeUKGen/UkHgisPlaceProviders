@@ -1,0 +1,81 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>911</id>
+<name>SKEGNESS</name>
+<container>LINCOLNSHIRE</container>
+<lat>53.1470031175459</lat>
+<lon>0.333842412334743</lon>
+<gazetteerText>SKEGNESS, a village and a parish in Spilsby district, Lincoln. The village stands on the coast, 6 miles ESE of Burgh r. station, and 10 E by S of Spilsby; succeeded an ancient walled town, with a castle, swept away by the sea before the time of Henry VIII.; is a sea-bathing resort; and has a post-office under Boston, two hotels, lodging-houses, baths, bathing-machines, a coastguard station, and a lifeboat. The parish comprises 1,644 acres of land, and 830 of water. Real property, &#163;3,455. Pop., 322. Houses, 70. The manor belongs to Lord Monson. The living is a rectory in the diocese of Lincoln. Value, &#163;180.* Patron, the Earl of Scarborough. The church is old. There are two Methodist chapels, an endowed school with &#163;20 a year, and charities &#163;6. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/LIN/Skegness/</link>
+<link>http://en.wikipedia.org/wiki/Skegness</link>
+<link>http://www.geonames.org/2637762</link>
+</links>
+<unit>
+   <id>10062974</id>
+   <status>USD</status>
+   <name>SKEGNESS</name>
+</unit>
+<unit>
+   <id>10172676</id>
+   <status>UD</status>
+   <name>SKEGNESS</name>
+</unit>
+<unit>
+   <id>10450688</id>
+   <status>CP/AP</status>
+   <name>SKEGNESS</name>
+</unit>
+<unit>
+   <id>10450690</id>
+   <status>EP</status>
+   <name>SKEGNESS</name>
+</unit>
+<unit>
+   <id>12829450</id>
+   <status></status>
+   <name>SKEGNESS</name>
+</unit>
+<nearByPlace>
+   <id>11807</id>
+   <name>BURGH LE MARSH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11926</id>
+   <name>CHAPEL ST LEONARDS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12008</id>
+   <name>CROFT</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12286</id>
+   <name>FRISKNEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12602</id>
+   <name>HOGSTHORPE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12670</id>
+   <name>INGOLDMELLS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13380</id>
+   <name>ORBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>14041</id>
+   <name>WAINFLEET</name>
+</nearByPlace>
+<nearByPlace>
+   <id>14043</id>
+   <name>WAINFLEET ST MARY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>14096</id>
+   <name>WINTHORPE</name>
+</nearByPlace>
+</place>
+</results>

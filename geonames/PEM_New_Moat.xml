@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>New Moat</toponymName>
+<name>New Moat</name>
+<lat>51.87493</lat>
+<lng>-4.81023</lng>
+<geonameId>7296309</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS049</adminCode3>
+<adminName3>New Moat</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.85482</west>
+<north>51.90918</north>
+<east>-4.76564</east>
+<south>51.84067</south>
+</bbox>
+<score>90.64159393310547</score>
+</geoname>
+<geoname>
+<toponymName>New Moat</toponymName>
+<name>New Moat</name>
+<lat>51.89408</lat>
+<lng>-4.81674</lng>
+<geonameId>2641608</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS049</adminCode3>
+<adminName3>New Moat</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/New_Moat</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.83131</west>
+<north>51.90307</north>
+<east>-4.80216</east>
+<south>51.88508</south>
+</bbox>
+<score>81.00743103027344</score>
+</geoname>
+</geonames>

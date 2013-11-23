@@ -1,0 +1,43 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>13393</id>
+<name>WESTONZOYLAND</name>
+<container>SOMERSET</container>
+<lat>51.1030905383707</lat>
+<lon>-2.92601335977947</lon>
+<gazetteerText>WESTON-ZOYLAND, a parish, with a village, in Bridgewater district, Somerset; 3&#189; miles ESE of Bridgewater r. station. It has a post-office under Bridgewater, and a fair on 9 Sept. Acres, 2,729. Real property, &#163;9,137. Pop. in 1851, 1,007; in 1861, 894. Houses, 205. The manor belongs to N . Welman, Esq. The living is a vicarage in the diocese of Bath and Wells. Value, &#163;375.* Patron, the Bishop of B. and W. The church is ancient but good, and has a very fine later English tower. There are two Methodist chapels, a national school, and charities &#163;12. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/SOM/WestonZoyland/index.html</link>
+<link>http://en.wikipedia.org/wiki/Westonzoyland</link>
+<link>http://www.geonames.org/2634300</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=15118</link>
+</links>
+<unit>
+   <id>10446211</id>
+   <status>CP/AP</status>
+   <name>WESTONZOYLAND</name>
+</unit>
+<unit>
+   <id>10446235</id>
+   <status>EP</status>
+   <name>WESTONZOYLAND</name>
+</unit>
+<nearByPlace>
+   <id>12555</id>
+   <name>CHEDZOY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13101</id>
+   <name>MIDDLEZOY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13237</id>
+   <name>STAWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13289</id>
+   <name>SUTTON MALLET</name>
+</nearByPlace>
+</place>
+</results>

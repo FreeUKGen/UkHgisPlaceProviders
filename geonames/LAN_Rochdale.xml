@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Rochdale</toponymName>
+<name>Rochdale</name>
+<lat>53.61766</lat>
+<lng>-2.1552</lng>
+<geonameId>2639272</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>97550</population>
+<alternateNames>Recedham,Rocdeilis,Rochdale,Rochdejl,Ročdeilis,lochideil,rwchdyl,Рочдейл,Рочдејл,روچدیل,로치데일</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L2</adminCode2>
+<adminName2>Rochdale</adminName2>
+<adminCode3>30UM</adminCode3>
+<adminName3>GB.ENG.L2.30UM</adminName3>
+<alternateName lang="ang">Recedham</alternateName>
+<alternateName lang="bg">Рочдейл</alternateName>
+<alternateName lang="de">Rochdale</alternateName>
+<alternateName lang="en">Rochdale</alternateName>
+<alternateName lang="eo">Rochdale</alternateName>
+<alternateName lang="fa">روچدیل</alternateName>
+<alternateName lang="ko">로치데일</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rochdale</alternateName>
+<alternateName lang="lt">Ročdeilis</alternateName>
+<alternateName lang="nl">Rochdale</alternateName>
+<alternateName lang="pl">Rochdale</alternateName>
+<alternateName lang="ru">Рочдейл</alternateName>
+<alternateName lang="sr">Рочдејл</alternateName>
+<alternateName lang="sv">Rochdale</alternateName>
+<alternateName lang="uk">Рочдейл</alternateName>
+<alternateName lang="unlc">ROL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.22349</west>
+<north>53.65813</north>
+<east>-2.0869</east>
+<south>53.57718</south>
+</bbox>
+<score>132.42538452148438</score>
+</geoname>
+<geoname>
+<toponymName>Borough of Rochdale</toponymName>
+<name>Borough of Rochdale</name>
+<lat>53.58333</lat>
+<lng>-2.16667</lng>
+<geonameId>3333188</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population>205200</population>
+<alternateNames>RCH,Rochdale</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L2</adminCode2>
+<adminName2>Rochdale</adminName2>
+<alternateName lang="abbr">RCH</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Metropolitan_Borough_of_Rochdale</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.28259</west>
+<north>53.68572</north>
+<east>-2.02687</east>
+<south>53.52904</south>
+</bbox>
+<score>72.93465423583984</score>
+</geoname>
+</geonames>

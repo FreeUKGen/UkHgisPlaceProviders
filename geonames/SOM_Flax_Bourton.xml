@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Flax Bourton</toponymName>
+<name>Flax Bourton</name>
+<lat>51.42065</lat>
+<lng>-2.70577</lng>
+<geonameId>7295038</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC017</adminCode3>
+<adminName3>Flax Bourton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.72236</west>
+<north>51.43112</north>
+<east>-2.68919</east>
+<south>51.41018</south>
+</bbox>
+<score>96.24584197998047</score>
+</geoname>
+<geoname>
+<toponymName>Flax Bourton</toponymName>
+<name>Flax Bourton</name>
+<lat>51.42122</lat>
+<lng>-2.70522</lng>
+<geonameId>2649327</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bourton,Flax Bourton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC017</adminCode3>
+<adminName3>Flax Bourton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Flax_Bourton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.71964</west>
+<north>51.43021</north>
+<east>-2.69079</east>
+<south>51.41222</south>
+</bbox>
+<score>91.40571594238281</score>
+</geoname>
+</geonames>

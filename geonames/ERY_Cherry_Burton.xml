@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cherry Burton</toponymName>
+<name>Cherry Burton</name>
+<lat>53.86236</lat>
+<lng>-0.5202</lng>
+<geonameId>7295050</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB033</adminCode3>
+<adminName3>Cherry Burton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.58112</west>
+<north>53.87794</north>
+<east>-0.45929</east>
+<south>53.84678</south>
+</bbox>
+<score>89.06414031982422</score>
+</geoname>
+<geoname>
+<toponymName>Cherry Burton</toponymName>
+<name>Cherry Burton</name>
+<lat>53.86667</lat>
+<lng>-0.5</lng>
+<geonameId>2653243</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB033</adminCode3>
+<adminName3>Cherry Burton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cherry_Burton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.53052</west>
+<north>53.88465</north>
+<east>-0.46948</east>
+<south>53.84868</south>
+</bbox>
+<score>66.95130157470703</score>
+</geoname>
+</geonames>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Boston</toponymName>
+<name>Boston</name>
+<lat>52.97633</lat>
+<lng>-0.02664</lng>
+<geonameId>2655138</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>35859</population>
+<alternateNames>Boston,Boston i England,boseuteon,bwstn,Бостон,بوسطن,보스턴</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UB</adminCode3>
+<adminName3>Boston District</adminName3>
+<alternateName lang="ar">بوسطن</alternateName>
+<alternateName lang="de">Boston</alternateName>
+<alternateName lang="en">Boston</alternateName>
+<alternateName lang="eo">Boston</alternateName>
+<alternateName lang="fr">Boston</alternateName>
+<alternateName lang="ko">보스턴</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boston%2C_Lincolnshire</alternateName>
+<alternateName lang="nl">Boston</alternateName>
+<alternateName lang="nn">Boston i England</alternateName>
+<alternateName lang="no">Boston</alternateName>
+<alternateName lang="pl">Boston</alternateName>
+<alternateName lang="ru">Бостон</alternateName>
+<alternateName lang="sv">Boston</alternateName>
+<alternateName lang="unlc">BOS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.06688</west>
+<north>53.00055</north>
+<east>0.01359</east>
+<south>52.95212</south>
+</bbox>
+<score>103.45805358886719</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Easton-in-Gordano</toponymName>
+<name>Easton-in-Gordano</name>
+<lat>51.48203</lat>
+<lng>-2.70171</lng>
+<geonameId>7296943</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC016</adminCode3>
+<adminName3>Easton-in-Gordano</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.73559</west>
+<north>51.50269</north>
+<east>-2.66784</east>
+<south>51.46136</south>
+</bbox>
+<score>97.79048919677734</score>
+</geoname>
+<geoname>
+<toponymName>Easton-in-Gordano</toponymName>
+<name>Easton-in-Gordano</name>
+<lat>51.47592</lat>
+<lng>-2.69987</lng>
+<geonameId>3345403</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4824</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC016</adminCode3>
+<adminName3>Easton-in-Gordano</adminName3>
+<alternateName lang="unlc">EIG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.71431</west>
+<north>51.48491</north>
+<east>-2.68543</east>
+<south>51.46693</south>
+</bbox>
+<score>65.24823760986328</score>
+</geoname>
+</geonames>

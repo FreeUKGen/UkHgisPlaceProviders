@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>West Leake</toponymName>
+<name>West Leake</name>
+<lat>52.83939</lat>
+<lng>-1.2151</lng>
+<geonameId>7298263</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<adminCode4>37UJ053</adminCode4>
+<adminName4>West Leake</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/West_Leake</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.2416</west>
+<north>52.8548</north>
+<east>-1.18861</east>
+<south>52.82397</south>
+</bbox>
+<score>50.51612091064453</score>
+</geoname>
+<geoname>
+<toponymName>West Leake</toponymName>
+<name>West Leake</name>
+<lat>52.83388</lat>
+<lng>-1.21553</lng>
+<geonameId>2634367</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>West Leake</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.23042</west>
+<north>52.84288</north>
+<east>-1.20064</east>
+<south>52.82489</south>
+</bbox>
+<score>49.4478874206543</score>
+</geoname>
+</geonames>

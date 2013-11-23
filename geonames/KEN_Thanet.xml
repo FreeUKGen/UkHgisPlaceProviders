@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Saint Peters</toponymName>
+<name>Saint Peters</name>
+<lat>51.36667</lat>
+<lng>1.41667</lng>
+<geonameId>2638703</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Saint Peter Extra,Saint Peters,Thanet</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>2636057</adminCode3>
+<adminName3>Thanet District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.40226</west>
+<north>51.37566</north>
+<east>1.43107</east>
+<south>51.35767</south>
+</bbox>
+<score>41.307430267333984</score>
+</geoname>
+</geonames>

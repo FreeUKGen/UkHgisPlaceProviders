@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Elton-on-the-Hill</toponymName>
+<name>Elton-on-the-Hill</name>
+<lat>52.94039</lat>
+<lng>-0.85899</lng>
+<geonameId>7300907</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<adminCode4>37UJ015</adminCode4>
+<adminName4>Elton-on-the-Hill</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Elton_on_the_Hill</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.87784</west>
+<north>52.95603</north>
+<east>-0.84013</east>
+<south>52.92474</south>
+</bbox>
+<score>53.791927337646484</score>
+</geoname>
+</geonames>

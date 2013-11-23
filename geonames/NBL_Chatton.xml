@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Chatton</toponymName>
+<name>Chatton</name>
+<lat>55.56913</lat>
+<lng>-1.90387</lng>
+<geonameId>7291378</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM035</adminCode3>
+<adminName3>Chatton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.99938</west>
+<north>55.61997</north>
+<east>-1.80836</east>
+<south>55.51829</south>
+</bbox>
+<score>88.07106018066406</score>
+</geoname>
+<geoname>
+<toponymName>Chatton</toponymName>
+<name>Chatton</name>
+<lat>55.54897</lat>
+<lng>-1.91201</lng>
+<geonameId>2653295</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Chatton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM035</adminCode3>
+<adminName3>Chatton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chatton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.92791</west>
+<north>55.55797</north>
+<east>-1.89611</east>
+<south>55.53998</south>
+</bbox>
+<score>84.28897094726562</score>
+</geoname>
+</geonames>

@@ -1,0 +1,107 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>17076</id>
+<name>DUNFERMLINE</name>
+<container>FIFE</container>
+<lat>56.0717141950591</lat>
+<lon>-3.46199572443655</lon>
+<gazetteerText>Dunfermline, parl. and royal burgh, manufacturing town, and par., Fifeshire, 3 miles N. of Firth of Forth, 16 miles NW. of Edinburgh, 42 NE. of Glasgow, and 416 NW. of London -- par., 20,764 ac., pop. 26,568; royal burgh, pop. 19,915; parl. burgh and town, pop. 17,084; P.O., T.O., 5 Banks, 2 newspapers. Market-day, Tuesday; has table linen mfrs., iron and brass foundries, soap-works, and dyeworks, and in the vicinity are extensive coal mines. Dunfermline was early a favourite residence of the Scottish kings; the Benedictine Abbey, founded by Malcolm Canmore (1070-1093), was their burial-place from the end of the llth to the middle of the 14th century; it is represented chiefly by the Abbey Church, underneath the pulpit of which are the remains of King Robert Bruce. The last royal occupant of the Palace was Charles II., who there signed the Solemn League and Covenant. Dunfermline unites with Stirling, Inverkeithing, Queensferry, and Culross in returning 1 member to Parliament. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/sct/FIF/parishes/Dunfermline/index.htm</link>
+<link>http://en.wikipedia.org/wiki/Dunfermline</link>
+<link>http://www.geonames.org/2650732</link>
+<link>http://www.workhouses.org.uk/Dunfermline</link>
+</links>
+<unit>
+   <id>10188507</id>
+   <status></status>
+   <name>DUNFERMLINE</name>
+</unit>
+<unit>
+   <id>10359170</id>
+   <status>Burgh</status>
+   <name>DUNFERMLINE</name>
+</unit>
+<unit>
+   <id>12735844</id>
+   <status>BCon/DistBCon</status>
+   <name>DUNFERMLINE</name>
+</unit>
+<unit>
+   <id>12745590</id>
+   <status>CCon</status>
+   <name>DUNFERMLINE</name>
+</unit>
+<unit>
+   <id>12748644</id>
+   <status>CCon</status>
+   <name>DUNFERMLINE EAST</name>
+</unit>
+<unit>
+   <id>12755272</id>
+   <status>CCon</status>
+   <name>DUNFERMLINE WEST</name>
+</unit>
+<unit>
+   <id>12782196</id>
+   <status></status>
+   <name>DUNFERMLINE</name>
+</unit>
+<unit>
+   <id>12797710</id>
+   <status>CCon</status>
+   <name>DUNFERMLINE AND WEST FIFE</name>
+</unit>
+<unit>
+   <id>12831080</id>
+   <status></status>
+   <name>DUNFERMLINE</name>
+</unit>
+<unit>
+   <id>12837689</id>
+   <status>DoC</status>
+   <name>DUNFERMLINE</name>
+</unit>
+<nearByPlace>
+   <id>16340</id>
+   <name>FOSSOWAY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>16470</id>
+   <name>BEATH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>16711</id>
+   <name>CLACKMANNAN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>16747</id>
+   <name>TILLICOULTRY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>16938</id>
+   <name>CULROSS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17025</id>
+   <name>INVERKEITHING</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17046</id>
+   <name>KINROSS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17068</id>
+   <name>GLENDEVON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17087</id>
+   <name>CARNOCK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17107</id>
+   <name>LARBERT</name>
+</nearByPlace>
+</place>
+</results>

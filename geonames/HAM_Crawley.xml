@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Crawley</toponymName>
+<name>Crawley</name>
+<lat>51.11303</lat>
+<lng>-0.18312</lng>
+<geonameId>2652053</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>107061</population>
+<alternateNames>Crawley,Krolis,Krouli,ke lao li,Кроули,克劳利</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UE</adminCode3>
+<adminName3>Crawley District</adminName3>
+<alternateName lang="de">Crawley</alternateName>
+<alternateName lang="en">Crawley</alternateName>
+<alternateName lang="fr">Crawley</alternateName>
+<alternateName lang="lt">Krolis</alternateName>
+<alternateName lang="nl">Crawley</alternateName>
+<alternateName lang="no">Crawley</alternateName>
+<alternateName lang="ru">Кроули</alternateName>
+<alternateName lang="unlc">CWY</alternateName>
+<alternateName lang="zh-CN">克劳利</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.25076</west>
+<north>51.15546</north>
+<east>-0.11548</east>
+<south>51.07061</south>
+</bbox>
+<score>164.81988525390625</score>
+</geoname>
+<geoname>
+<toponymName>Crawley</toponymName>
+<name>Crawley</name>
+<lat>51.80589</lat>
+<lng>-1.50684</lng>
+<geonameId>2652052</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UF</adminCode3>
+<adminName3>West Oxfordshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Crawley%2C_Oxfordshire</alternateName>
+<alternateName lang="unlc">RWY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.52139</west>
+<north>51.81489</north>
+<east>-1.4923</east>
+<south>51.7969</south>
+</bbox>
+<score>71.77009582519531</score>
+</geoname>
+<geoname>
+<toponymName>Crawley</toponymName>
+<name>Crawley</name>
+<lat>51.1112</lat>
+<lng>-1.39432</lng>
+<geonameId>2652054</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UP</adminCode3>
+<adminName3>Winchester District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Crawley%2C_Hampshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.40865</west>
+<north>51.12019</north>
+<east>-1.37999</east>
+<south>51.10221</south>
+</bbox>
+<score>71.77009582519531</score>
+</geoname>
+<geoname>
+<toponymName>Crawley</toponymName>
+<name>Crawley</name>
+<lat>51.81496</lat>
+<lng>-1.5092</lng>
+<geonameId>7297022</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UF</adminCode3>
+<adminName3>West Oxfordshire District</adminName3>
+<adminCode4>38UF025</adminCode4>
+<adminName4>Crawley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.52586</west>
+<north>51.83355</north>
+<east>-1.49254</east>
+<south>51.79637</south>
+</bbox>
+<score>66.99406433105469</score>
+</geoname>
+<geoname>
+<toponymName>Crawley</toponymName>
+<name>Crawley</name>
+<lat>51.10715</lat>
+<lng>-1.39459</lng>
+<geonameId>7298686</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames>Kroli,Krolis,ke lao li,keulolli,krawly, anglstan,Кроли,کراولی، انگلستان,克劳利,크롤리</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UP</adminCode3>
+<adminName3>Winchester District</adminName3>
+<adminCode4>24UP013</adminCode4>
+<adminName4>Crawley</adminName4>
+<alternateName lang="fa">کراولی، انگلستان</alternateName>
+<alternateName lang="ko">크롤리</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Crawley</alternateName>
+<alternateName lang="lt">Krolis</alternateName>
+<alternateName lang="sr">Кроли</alternateName>
+<alternateName lang="zh">克劳利</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.4363</west>
+<north>51.12915</north>
+<east>-1.35287</east>
+<south>51.08514</south>
+</bbox>
+<score>29.965240478515625</score>
+</geoname>
+</geonames>

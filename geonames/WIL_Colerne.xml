@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Colerne</toponymName>
+<name>Colerne</name>
+<lat>51.44938</lat>
+<lng>-2.26112</lng>
+<geonameId>7296263</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY067</adminCode3>
+<adminName3>Colerne</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.29535</west>
+<north>51.4725</north>
+<east>-2.22688</east>
+<south>51.42625</south>
+</bbox>
+<score>109.47132110595703</score>
+</geoname>
+<geoname>
+<toponymName>Colerne</toponymName>
+<name>Colerne</name>
+<lat>51.43833</lat>
+<lng>-2.2628</lng>
+<geonameId>2652585</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2564</population>
+<alternateNames>Colerne</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY067</adminCode3>
+<adminName3>Colerne</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colerne</alternateName>
+<alternateName lang="unlc">CEN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.273</west>
+<north>51.44469</north>
+<east>-2.25259</east>
+<south>51.43197</south>
+</bbox>
+<score>105.38081359863281</score>
+</geoname>
+<geoname>
+<toponymName>Colerne</toponymName>
+<name>RAF Colerne</name>
+<lat>51.43917</lat>
+<lng>-2.28639</lng>
+<geonameId>6296654</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>AIRP</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>airport</fcodeName>
+<population/>
+<alternateNames>Colerne Airfield,EGUO,RAF Colerne</alternateNames>
+<elevation>181</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<alternateName lang="en">RAF Colerne</alternateName>
+<alternateName lang="icao">EGUO</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Colerne_Airfield</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>97.1561279296875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cenarth</toponymName>
+<name>Cenarth</name>
+<lat>52.00354</lat>
+<lng>-4.48713</lng>
+<geonameId>7292348</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU008</adminCode3>
+<adminName3>Cenarth</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.55973</west>
+<north>52.05212</north>
+<east>-4.41454</east>
+<south>51.95496</south>
+</bbox>
+<score>112.98971557617188</score>
+</geoname>
+<geoname>
+<toponymName>Cenarth</toponymName>
+<name>Cenarth</name>
+<lat>52.04688</lat>
+<lng>-4.52885</lng>
+<geonameId>2653433</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cenarth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ004</adminCode3>
+<adminName3>Beulah</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cenarth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.54347</west>
+<north>52.05587</north>
+<east>-4.51422</east>
+<south>52.03789</south>
+</bbox>
+<score>107.07859802246094</score>
+</geoname>
+</geonames>

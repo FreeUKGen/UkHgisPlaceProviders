@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Weston-super-Mare</toponymName>
+<name>Weston-super-Mare</name>
+<lat>51.34603</lat>
+<lng>-2.97665</lng>
+<geonameId>2634308</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>82903</population>
+<alternateNames>Uehston-s'juper-Mehr,Uest"n sjup"r Me"r,Uestun-Sjupur-Meur,Veston na Meru,Weston super Mare,Weston-super-Mare,weseuteonsyupeomeeo,wstwn-swpr-mar,Вестон на Меру,Уестън сюпър Меър,Уестън-Сюпър-Меър,Уэстон-сьюпер-Мэр,وستون-سوپر-مار,웨스턴슈퍼메어</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC038</adminCode3>
+<adminName3>Weston-Super-Mare</adminName3>
+<alternateName lang="bg">Уестън-Сюпър-Меър</alternateName>
+<alternateName lang="cy">Weston super Mare</alternateName>
+<alternateName lang="de">Weston-super-Mare</alternateName>
+<alternateName lang="en">Weston-super-Mare</alternateName>
+<alternateName lang="fa">وستون-سوپر-مار</alternateName>
+<alternateName lang="ko">웨스턴슈퍼메어</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Weston-super-Mare</alternateName>
+<alternateName lang="no">Weston-super-Mare</alternateName>
+<alternateName lang="ru">Уэстон-сьюпер-Мэр</alternateName>
+<alternateName lang="sr">Вестон на Меру</alternateName>
+<alternateName lang="unlc">WSM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.0365</west>
+<north>51.38338</north>
+<east>-2.9168</east>
+<south>51.30868</south>
+</bbox>
+<score>106.90422058105469</score>
+</geoname>
+<geoname>
+<toponymName>Weston-Super-Mare</toponymName>
+<name>Weston-Super-Mare</name>
+<lat>51.34336</lat>
+<lng>-3.00498</lng>
+<geonameId>7295044</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC038</adminCode3>
+<adminName3>Weston-Super-Mare</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.11533</west>
+<north>51.37497</north>
+<east>-2.89463</east>
+<south>51.31176</south>
+</bbox>
+<score>93.8960189819336</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Linkinhorne</toponymName>
+<name>Linkinhorne</name>
+<lat>50.53986</lat>
+<lng>-4.41626</lng>
+<geonameId>7293081</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE073</adminCode3>
+<adminName3>Linkinhorne</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.48175</west>
+<north>50.57551</north>
+<east>-4.35078</east>
+<south>50.50422</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Linkinhorne</toponymName>
+<name>Linkinhorne</name>
+<lat>50.53759</lat>
+<lng>-4.37364</lng>
+<geonameId>2644448</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Linkinhorne</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE073</adminCode3>
+<adminName3>Linkinhorne</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Linkinhorne</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.38779</west>
+<north>50.54658</north>
+<east>-4.35949</east>
+<south>50.5286</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+</geonames>

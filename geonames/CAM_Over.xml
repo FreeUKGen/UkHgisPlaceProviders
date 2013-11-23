@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Over</toponymName>
+<name>Over</name>
+<lat>53.18333</lat>
+<lng>-2.55</lng>
+<geonameId>2640777</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2804</population>
+<alternateNames>Over</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Over%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.56061</west>
+<north>53.18969</north>
+<east>-2.53939</east>
+<south>53.17697</south>
+</bbox>
+<score>103.71842193603516</score>
+</geoname>
+<geoname>
+<toponymName>Over</toponymName>
+<name>Over</name>
+<lat>52.31667</lat>
+<lng>0.01667</lng>
+<geonameId>2640778</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Over</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Over%2C_Cambridgeshire</alternateName>
+<alternateName lang="unlc">OVR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.00195</west>
+<north>52.32566</north>
+<east>0.03138</east>
+<south>52.30767</south>
+</bbox>
+<score>79.77238464355469</score>
+</geoname>
+<geoname>
+<toponymName>Over</toponymName>
+<name>Over</name>
+<lat>52.3224</lat>
+<lng>0.02271</lng>
+<geonameId>7294299</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<adminCode4>12UG076</adminCode4>
+<adminName4>Over</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.00476</west>
+<north>52.3521</north>
+<east>0.05017</east>
+<south>52.29271</south>
+</bbox>
+<score>70.72119140625</score>
+</geoname>
+</geonames>

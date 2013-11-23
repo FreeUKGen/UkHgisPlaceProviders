@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Pontypridd</toponymName>
+<name>Pontypridd</name>
+<lat>51.59912</lat>
+<lng>-3.32303</lng>
+<geonameId>7298397</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y9</adminCode2>
+<adminName2>County Borough of Rhondda Cynon Taff</adminName2>
+<adminCode3>00PF023</adminCode3>
+<adminName3>Pontypridd</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.38172</west>
+<north>51.63671</north>
+<east>-3.26434</east>
+<south>51.56152</south>
+</bbox>
+<score>106.86564636230469</score>
+</geoname>
+<geoname>
+<toponymName>Pontypridd</toponymName>
+<name>Pontypridd</name>
+<lat>51.6021</lat>
+<lng>-3.34211</lng>
+<geonameId>2640104</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>30420</population>
+<alternateNames>Pontepridas,Pontipridd,Pontiprite,Pontuprid,Pontypridd,pontipeulideu,Понтипридд,Понтиприте,Понтъприд,폰티프리드</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y9</adminCode2>
+<adminName2>County Borough of Rhondda Cynon Taff</adminName2>
+<adminCode3>00PF023</adminCode3>
+<adminName3>Pontypridd</adminName3>
+<alternateName lang="bg">Понтъприд</alternateName>
+<alternateName lang="ko">폰티프리드</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pontypridd</alternateName>
+<alternateName lang="lt">Pontepridas</alternateName>
+<alternateName lang="ru">Понтипридд</alternateName>
+<alternateName lang="unlc">PNY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.37832</west>
+<north>51.62459</north>
+<east>-3.30589</east>
+<south>51.57962</south>
+</bbox>
+<score>102.239501953125</score>
+</geoname>
+</geonames>

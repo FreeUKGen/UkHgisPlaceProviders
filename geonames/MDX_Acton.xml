@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Acton</toponymName>
+<name>Acton</name>
+<lat>51.50901</lat>
+<lng>-0.2762</lng>
+<geonameId>2657697</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>53689</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>D9</adminCode3>
+<adminName3>Ealing</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Acton%2C_London</alternateName>
+<alternateName lang="unlc">ACN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.32416</west>
+<north>51.53884</north>
+<east>-0.22825</east>
+<south>51.47918</south>
+</bbox>
+<score>118.65485382080078</score>
+</geoname>
+<geoname>
+<toponymName>Acton</toponymName>
+<name>Acton</name>
+<lat>52.45</lat>
+<lng>-3.01667</lng>
+<geonameId>2657696</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1475</population>
+<alternateNames>Acton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Acton%2C_Shropshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.02405</west>
+<north>52.4545</north>
+<east>-3.00929</east>
+<south>52.4455</south>
+</bbox>
+<score>97.38368225097656</score>
+</geoname>
+<geoname>
+<toponymName>Acton</toponymName>
+<name>Acton</name>
+<lat>53.05991</lat>
+<lng>-2.97498</lng>
+<geonameId>7297546</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z4</adminCode2>
+<adminName2>Wrexham</adminName2>
+<adminCode3>00NL002</adminCode3>
+<adminName3>Acton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Acton%2C_Wrexham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.99183</west>
+<north>53.07306</north>
+<east>-2.95813</east>
+<south>53.04676</south>
+</bbox>
+<score>61.899105072021484</score>
+</geoname>
+<geoname>
+<toponymName>Acton</toponymName>
+<name>Acton</name>
+<lat>53.06835</lat>
+<lng>-2.54893</lng>
+<geonameId>7299882</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z7</adminCode2>
+<adminName2>Cheshire East</adminName2>
+<adminCode3>00EQ001</adminCode3>
+<adminName3>Acton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Acton%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.56268</west>
+<north>53.08243</north>
+<east>-2.53517</east>
+<south>53.05428</south>
+</bbox>
+<score>61.899105072021484</score>
+</geoname>
+<geoname>
+<toponymName>Acton</toponymName>
+<name>Acton</name>
+<lat>54.3</lat>
+<lng>-6.36667</lng>
+<geonameId>2657694</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NIR">NIR</adminCode1>
+<adminName1>N Ireland</adminName1>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-6.38208</west>
+<north>54.30899</north>
+<east>-6.35125</east>
+<south>54.29101</south>
+</bbox>
+<score>53.732383728027344</score>
+</geoname>
+<geoname>
+<toponymName>Acton</toponymName>
+<name>Acton</name>
+<lat>52.08218</lat>
+<lng>0.76075</lng>
+<geonameId>7292494</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UB</adminCode3>
+<adminName3>Babergh District</adminName3>
+<adminCode4>42UB001</adminCode4>
+<adminName4>Acton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Acton%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.73489</west>
+<north>52.10745</north>
+<east>0.78661</east>
+<south>52.05692</south>
+</bbox>
+<score>47.976280212402344</score>
+</geoname>
+</geonames>

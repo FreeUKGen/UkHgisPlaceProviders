@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>West Drayton</toponymName>
+<name>West Drayton</name>
+<lat>51.5</lat>
+<lng>-0.46667</lng>
+<geonameId>2634451</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>12156</population>
+<alternateNames>West Drayton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>F9</adminCode3>
+<adminName3>Hillingdon</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/West_Drayton</alternateName>
+<alternateName lang="unlc">WDR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.48952</west>
+<north>51.51422</north>
+<east>-0.44382</east>
+<south>51.48578</south>
+</bbox>
+<score>110.55706787109375</score>
+</geoname>
+<geoname>
+<toponymName>West Drayton</toponymName>
+<name>West Drayton</name>
+<lat>53.26173</lat>
+<lng>-0.94437</lng>
+<geonameId>7296927</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<adminCode4>37UC064</adminCode4>
+<adminName4>West Drayton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.96829</west>
+<north>53.27034</north>
+<east>-0.92046</east>
+<south>53.25312</south>
+</bbox>
+<score>67.52079772949219</score>
+</geoname>
+<geoname>
+<toponymName>West Drayton</toponymName>
+<name>West Drayton</name>
+<lat>53.26667</lat>
+<lng>-0.93333</lng>
+<geonameId>2634450</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UC</adminCode3>
+<adminName3>Bassetlaw</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.94837</west>
+<north>53.27566</north>
+<east>-0.91829</east>
+<south>53.25767</south>
+</bbox>
+<score>51.75225067138672</score>
+</geoname>
+</geonames>

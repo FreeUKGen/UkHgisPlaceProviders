@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanfair-ar-y-bryn</toponymName>
+<name>Llanfair-ar-y-bryn</name>
+<lat>52.04558</lat>
+<lng>-3.73661</lng>
+<geonameId>2644085</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llanfair-ar-y-bryn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU034</adminCode3>
+<adminName3>Llanfair-ar-y-Bryn</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanfair-ar-y-bryn</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.75123</west>
+<north>52.05457</north>
+<east>-3.72198</east>
+<south>52.03659</south>
+</bbox>
+<score>98.5117416381836</score>
+</geoname>
+<geoname>
+<toponymName>Llanfair-ar-y-Bryn</toponymName>
+<name>Llanfair-ar-y-Bryn</name>
+<lat>52.05426</lat>
+<lng>-3.72566</lng>
+<geonameId>7297153</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU034</adminCode3>
+<adminName3>Llanfair-ar-y-Bryn</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.8042</west>
+<north>52.12828</north>
+<east>-3.64713</east>
+<south>51.98024</south>
+</bbox>
+<score>94.51103210449219</score>
+</geoname>
+</geonames>

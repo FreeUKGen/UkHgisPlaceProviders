@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanddowror</toponymName>
+<name>Llanddowror</name>
+<lat>51.77089</lat>
+<lng>-4.53196</lng>
+<geonameId>7301143</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU025</adminCode3>
+<adminName3>Llanddowror</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanddowror</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.58359</west>
+<north>51.81173</north>
+<east>-4.48032</east>
+<south>51.73004</south>
+</bbox>
+<score>74.04409790039062</score>
+</geoname>
+<geoname>
+<toponymName>Llanddowror</toponymName>
+<name>Llanddowror</name>
+<lat>51.80167</lat>
+<lng>-4.53139</lng>
+<geonameId>2644125</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Llanddowror,Llandowror</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU025</adminCode3>
+<adminName3>Llanddowror</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.56049</west>
+<north>51.81965</north>
+<east>-4.50229</east>
+<south>51.78368</south>
+</bbox>
+<score>64.93064880371094</score>
+</geoname>
+</geonames>

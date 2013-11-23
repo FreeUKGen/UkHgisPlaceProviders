@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Thornbury</toponymName>
+<name>Thornbury</name>
+<lat>52.23799</lat>
+<lng>-2.55531</lng>
+<geonameId>7294533</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA203</adminCode3>
+<adminName3>Thornbury</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.58941</west>
+<north>52.25326</north>
+<east>-2.52122</east>
+<south>52.22271</south>
+</bbox>
+<score>95.35552215576172</score>
+</geoname>
+<geoname>
+<toponymName>Thornbury</toponymName>
+<name>Thornbury</name>
+<lat>51.61528</lat>
+<lng>-2.51092</lng>
+<geonameId>7299113</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M6</adminCode2>
+<adminName2>South Gloucestershire</adminName2>
+<adminCode3>00HD036</adminCode3>
+<adminName3>Thornbury</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.54914</west>
+<north>51.63829</north>
+<east>-2.4727</east>
+<south>51.59228</south>
+</bbox>
+<score>95.35552215576172</score>
+</geoname>
+<geoname>
+<toponymName>Thornbury</toponymName>
+<name>Thornbury</name>
+<lat>51.60889</lat>
+<lng>-2.52028</lng>
+<geonameId>2636002</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M6</adminCode2>
+<adminName2>South Gloucestershire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thornbury%2C_South_Gloucestershire</alternateName>
+<alternateName lang="unlc">TBB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.54925</west>
+<north>51.62688</north>
+<east>-2.4913</east>
+<south>51.5909</south>
+</bbox>
+<score>59.01490783691406</score>
+</geoname>
+<geoname>
+<toponymName>Thornbury</toponymName>
+<name>Thornbury</name>
+<lat>50.85</lat>
+<lng>-4.26667</lng>
+<geonameId>2636003</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UK</adminCode3>
+<adminName3>Torridge District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.28091</west>
+<north>50.85899</north>
+<east>-4.25242</east>
+<south>50.84101</south>
+</bbox>
+<score>54.73604965209961</score>
+</geoname>
+<geoname>
+<toponymName>Thornbury</toponymName>
+<name>Thornbury</name>
+<lat>50.85139</lat>
+<lng>-4.29353</lng>
+<geonameId>7293363</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UK</adminCode3>
+<adminName3>Torridge District</adminName3>
+<adminCode4>18UK056</adminCode4>
+<adminName4>Thornbury</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thornbury%2C_Devon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.33167</west>
+<north>50.86723</north>
+<east>-4.25538</east>
+<south>50.83554</south>
+</bbox>
+<score>47.790321350097656</score>
+</geoname>
+<geoname>
+<toponymName>Thornbury</toponymName>
+<name>Thornbury</name>
+<lat>52.23333</lat>
+<lng>-2.55</lng>
+<geonameId>2636001</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA203</adminCode3>
+<adminName3>Thornbury</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.57938</west>
+<north>52.25132</north>
+<east>-2.52062</east>
+<south>52.21535</south>
+</bbox>
+<score>34.42631530761719</score>
+</geoname>
+</geonames>

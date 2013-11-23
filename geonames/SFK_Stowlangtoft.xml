@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Stowlangtoft</toponymName>
+<name>Stowlangtoft</name>
+<lat>52.2829</lat>
+<lng>0.86525</lng>
+<geonameId>7297303</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UE</adminCode3>
+<adminName3>Mid Suffolk District</adminName3>
+<adminCode4>42UE092</adminCode4>
+<adminName4>Stowlangtoft</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stowlangtoft</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.84287</west>
+<north>52.2995</north>
+<east>0.88763</east>
+<south>52.26629</south>
+</bbox>
+<score>61.74647521972656</score>
+</geoname>
+</geonames>

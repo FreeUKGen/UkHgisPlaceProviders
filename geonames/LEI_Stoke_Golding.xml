@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Stoke Golding</toponymName>
+<name>Stoke Golding</name>
+<lat>52.5706</lat>
+<lng>-1.41124</lng>
+<geonameId>2636853</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1742</population>
+<alternateNames>Stoke Golding</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UE</adminCode3>
+<adminName3>Hinckley and Bosworth District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stoke_Golding</alternateName>
+<alternateName lang="unlc">SGO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.41864</west>
+<north>52.5751</north>
+<east>-1.40384</east>
+<south>52.5661</south>
+</bbox>
+<score>103.29440307617188</score>
+</geoname>
+<geoname>
+<toponymName>Stoke Golding</toponymName>
+<name>Stoke Golding</name>
+<lat>52.5689</lat>
+<lng>-1.40339</lng>
+<geonameId>7295444</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UE</adminCode3>
+<adminName3>Hinckley and Bosworth District</adminName3>
+<adminCode4>31UE019</adminCode4>
+<adminName4>Stoke Golding</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.42335</west>
+<north>52.57853</north>
+<east>-1.38343</east>
+<south>52.55926</south>
+</bbox>
+<score>74.65744018554688</score>
+</geoname>
+</geonames>

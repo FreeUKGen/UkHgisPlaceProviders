@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Aspley Guise</toponymName>
+<name>Aspley Guise</name>
+<lat>52.01706</lat>
+<lng>-0.63087</lng>
+<geonameId>7294297</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC003</adminCode3>
+<adminName3>Aspley Guise</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.65105</west>
+<north>52.03688</north>
+<east>-0.6107</east>
+<south>51.99724</south>
+</bbox>
+<score>97.78083801269531</score>
+</geoname>
+<geoname>
+<toponymName>Aspley Guise</toponymName>
+<name>Aspley Guise</name>
+<lat>52.01199</lat>
+<lng>-0.633</lng>
+<geonameId>2656889</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC003</adminCode3>
+<adminName3>Aspley Guise</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aspley_Guise</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.66224</west>
+<north>52.02998</north>
+<east>-0.60377</east>
+<south>51.994</south>
+</bbox>
+<score>73.40221405029297</score>
+</geoname>
+</geonames>

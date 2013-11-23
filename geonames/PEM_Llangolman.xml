@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llangolman</toponymName>
+<name>Llangolman</name>
+<lat>51.91169</lat>
+<lng>-4.72715</lng>
+<geonameId>3345145</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llangolman</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS046</adminCode3>
+<adminName3>Mynachlog-Ddu</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llangolman</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.74173</west>
+<north>51.92069</north>
+<east>-4.71256</east>
+<south>51.9027</south>
+</bbox>
+<score>111.59024810791016</score>
+</geoname>
+</geonames>

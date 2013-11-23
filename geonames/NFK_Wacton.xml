@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Wacton</toponymName>
+<name>Wacton</name>
+<lat>52.4786</lat>
+<lng>1.2088</lng>
+<geonameId>2634929</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wacton%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.19403</west>
+<north>52.48759</north>
+<east>1.22357</east>
+<south>52.4696</south>
+</bbox>
+<score>81.32942962646484</score>
+</geoname>
+<geoname>
+<toponymName>Wacton</toponymName>
+<name>Wacton</name>
+<lat>52.47047</lat>
+<lng>1.20601</lng>
+<geonameId>7299238</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH109</adminCode4>
+<adminName4>Wacton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.18491</west>
+<north>52.4861</north>
+<east>1.22712</east>
+<south>52.45485</south>
+</bbox>
+<score>78.14351654052734</score>
+</geoname>
+<geoname>
+<toponymName>Wacton</toponymName>
+<name>Wacton</name>
+<lat>52.21503</lat>
+<lng>-2.56369</lng>
+<geonameId>7294536</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA214</adminCode3>
+<adminName3>Wacton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wacton%2C_Herefordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.58381</west>
+<north>52.22738</north>
+<east>-2.54356</east>
+<south>52.20268</south>
+</bbox>
+<score>68.97071838378906</score>
+</geoname>
+<geoname>
+<toponymName>Wacton</toponymName>
+<name>Wacton</name>
+<lat>52.21667</lat>
+<lng>-2.56667</lng>
+<geonameId>2634930</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA214</adminCode3>
+<adminName3>Wacton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.59604</west>
+<north>52.23465</north>
+<east>-2.5373</east>
+<south>52.19868</south>
+</bbox>
+<score>39.07175827026367</score>
+</geoname>
+</geonames>

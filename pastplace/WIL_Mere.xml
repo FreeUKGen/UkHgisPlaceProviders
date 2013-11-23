@@ -1,0 +1,87 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>11976</id>
+<name>MERE</name>
+<container>WILTSHIRE</container>
+<lat>51.0903011374567</lat>
+<lon>-2.25307689553136</lon>
+<gazetteerText>Mere.-- town and par., Wilts, 4 miles NE. of Gillingham and 21 miles SE. of Bath, 7400 ac., pop. 2931; P.O., T.O., 1 Bank; has mfrs. of dowlas and ticking. Mere has vestiges of a castle of the earls of Cornwall. In the times of Edward I. and Edward II. it sent members to Parliament. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Mere,_Wiltshire</link>
+<link>http://www.workhouses.org.uk/Mere</link>
+<link>http://www.geonames.org/2642730</link>
+<link>http://www.genuki.org.uk/big/eng/WIL/Mere/index.htm</link>
+</links>
+<unit>
+   <id>10001341</id>
+   <status>RD</status>
+   <name>MERE AND TISBURY</name>
+</unit>
+<unit>
+   <id>10003544</id>
+   <status>RSD</status>
+   <name>MERE</name>
+</unit>
+<unit>
+   <id>10025308</id>
+   <status>RD</status>
+   <name>MERE</name>
+</unit>
+<unit>
+   <id>10031126</id>
+   <status>Hundred</status>
+   <name>MERE</name>
+</unit>
+<unit>
+   <id>10152811</id>
+   <status>Borough</status>
+   <name>MERE</name>
+</unit>
+<unit>
+   <id>10221183</id>
+   <status>RegD/PLU</status>
+   <name>MERE</name>
+</unit>
+<unit>
+   <id>10408842</id>
+   <status>AP/CP</status>
+   <name>MERE</name>
+</unit>
+<unit>
+   <id>10408854</id>
+   <status>EP</status>
+   <name>MERE</name>
+</unit>
+<unit>
+   <id>10543976</id>
+   <status></status>
+   <name>MERE</name>
+</unit>
+<unit>
+   <id>12758881</id>
+   <status>PBCon</status>
+   <name>MERE</name>
+</unit>
+<nearByPlace>
+   <id>11715</id>
+   <name>KINGSTON DEVERILL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11717</id>
+   <name>MONKTON DEVERILL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11823</id>
+   <name>HINDON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11861</id>
+   <name>EAST KNOYLE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11862</id>
+   <name>WEST KNOYLE</name>
+</nearByPlace>
+</place>
+</results>

@@ -1,0 +1,73 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>4627</id>
+<name>LONGSTANTON</name>
+<container>CAMBRIDGESHIRE</container>
+<lat>52.2825128628354</lat>
+<lon>0.0429930092864136</lon>
+<gazetteerText>STANTON (Long) ALL SAINTS, a parish, with a village, in Chesterton district, Cambridge; on the Cambridge and Huntingdon railway, 6 &#189; miles NW by N of Cambridge. It has a post-office under Cambridge, and a r. station with telegraph. Acres, 1,856. Real property, with L. S.-St. Michael, &#163;4,083. Pop., 440. Houses, 97. The manor belongs to E. H. Finch-Hatton, Esq. A palace of the Bishops of Ely stood here, and was visited by Queen Elizabeth. The living is a vicarage in the diocese of Ely. Value, &#163;155.* Patron, the Bishop of Ely. The church is decorated English, and has a tower and spire. There are a Wesleyan chapel, a national school, and charities &#163;62. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/CAM/Longstanton/AllSaints/index.html</link>
+<link>http://www.geonames.org/2643634</link>
+<link>http://www.genuki.org.uk/big/eng/CAM/Longstanton/index.html</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=15415</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=15421</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=15416</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=15418</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=15419</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=15422</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=15417</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=15420</link>
+</links>
+<unit>
+   <id>10066955</id>
+   <status>CP</status>
+   <name>LONGSTANTON</name>
+</unit>
+<unit>
+   <id>10159477</id>
+   <status>CP/AP</status>
+   <name>LONG STANTON ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10193102</id>
+   <status>EP</status>
+   <name>LONG STANTON ALL SAINTS</name>
+</unit>
+</place>
+<place>
+<id>3826</id>
+<name>LONG STANTON ST MICHAEL</name>
+<container>CAMBRIDGESHIRE</container>
+<lat>52.2703155102499</lat>
+<lon>0.0515841853539317</lon>
+<gazetteerText>STANTON (Long) ST. MICHAEL, a parish in Chesterton district, Cambridge; 1&#189; mile S of Long Stanton r. station. Post town, Long Stanton, under Cambridge. Acres, 830. Pop., 145. Houses, 33. The living is a rectory in the diocese of Ely. Value, &#163;237.* Patron, Magdalen College, Cambridge. The church is old. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/CAM/Longstanton/StMichael/index.html</link>
+</links>
+<unit>
+   <id>10048205</id>
+   <status>EP</status>
+   <name>LONG STANTON ST MICHAEL</name>
+</unit>
+<unit>
+   <id>10067029</id>
+   <status>EP</status>
+   <name>LONG STANTON ST MICHAEL AND ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10120240</id>
+   <status>AP/CP</status>
+   <name>LONG STANTON ST MICHAEL</name>
+</unit>
+<nearByPlace>
+   <id>4627</id>
+   <name>LONGSTANTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5090</id>
+   <name>OAKINGTON</name>
+</nearByPlace>
+</place>
+</results>

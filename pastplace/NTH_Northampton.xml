@@ -1,0 +1,1329 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>648</id>
+<name>NORTHAMPTON</name>
+<container>NORTHAMPTONSHIRE</container>
+<lat>52.2380236068315</lat>
+<lon>-0.895694518596856</lon>
+<gazetteerText>Northampton, parl. and mun. bor., and capital of Northamptonshire, on river Nen, 21 miles NW. of Bedford and 67&apos; miles NW. of London by rail - mun. bor., 1342 ac., pop. 51,881; parl. bor., 2406 ac., pop. 57,544; 3 Banks, 7 newspapers. Market-days, Wednesday and Saturday. During Saxon times the appellation of the place was Hamtune, Northafendon, &amp;c., while in the Domesday Book it appears as Northaneton. The distinguishing prefix &quot;North&quot; was adopted to prevent confusion with other places having similar names - e.g., Southampton. The town has a high degree of historical interest. In 921 it was a possession of the Danes, by whom it was burnt in 1010. After the Conquest it was a royal residence; and, beginning with 1179, was the meeting place of several parliaments, one of which ratified the &quot;Treaty of Northampton,&quot; which acknowledged the independence of Scotland (1328). Henry VI. was defeated and taken prisoner here in the sanguinary battle of the 10th July 1460. The old castle and walls, dating from the llth century, were demolished in 1662. Objects of considerable interest to antiquarians are the Knights Templars&apos; church, one of the four round churches in England, and a beautiful Eleanor cross. All Saints Church was rebuilt (1680) by Wren, after being burnt in the great fire which nearly destroyed the town in 1675. The staple trade of Northampton is the mfr. of boots and shoes, an industry which has made extraordinary progress during recent years, and now shows an enormous output of work. Leather mfr. is largely carried on; also brewing, malting, iron and brass founding, and paper making. The town has a canal from the Nen, uniting with the Grand Junction system. The bor. returns 2 members to Parl. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Northampton</link>
+<link>http://www.workhouses.org.uk/Northampton</link>
+<link>http://www.kellner.eclipse.co.uk/genuki/NTH/Northampton</link>
+<link>http://www.geonames.org/2641430</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=66253</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=66254</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=66255</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=66258</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=66252</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=66256</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=66257</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=66259</link>
+</links>
+<unit>
+   <id>12781040</id>
+   <status></status>
+   <name>NORTHAMPTON</name>
+</unit>
+<unit>
+   <id>10279136</id>
+   <status>AP</status>
+   <name>NORTHAMPTON ST EDMUND</name>
+</unit>
+<unit>
+   <id>10279252</id>
+   <status>EP</status>
+   <name>NORTHAMPTON ST MICHAEL</name>
+</unit>
+<unit>
+   <id>10142659</id>
+   <status></status>
+   <name>NORTHAMPTON</name>
+</unit>
+<unit>
+   <id>10273067</id>
+   <status>UD</status>
+   <name>ST JAMES</name>
+</unit>
+<unit>
+   <id>10279197</id>
+   <status>EP</status>
+   <name>NORTHAMPTON ST KATHERINE</name>
+</unit>
+<unit>
+   <id>10278995</id>
+   <status>EP</status>
+   <name>NORTHAMPTON HOLY SEPULCHRE WITH ST ANDREW</name>
+</unit>
+<unit>
+   <id>10001006</id>
+   <status>Borough</status>
+   <name>NORTHAMPTON</name>
+</unit>
+<unit>
+   <id>10278909</id>
+   <status>EP</status>
+   <name>NORTHAMPTON ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10279161</id>
+   <status>EP</status>
+   <name>NORTHAMPTON ST GILES</name>
+</unit>
+<unit>
+   <id>10279112</id>
+   <status>EP</status>
+   <name>NORTHAMPTON ST DAVID</name>
+</unit>
+<unit>
+   <id>10279215</id>
+   <status>EP</status>
+   <name>NORTHAMPTON ST MATTHEW</name>
+</unit>
+<unit>
+   <id>10279148</id>
+   <status>EP</status>
+   <name>NORTHAMPTON ST EDMUND</name>
+</unit>
+<unit>
+   <id>10279203</id>
+   <status>EP</status>
+   <name>NORTHAMPTON ST LAWRENCE</name>
+</unit>
+<unit>
+   <id>10279082</id>
+   <status>EP</status>
+   <name>NORTHAMPTON ST ANDREW</name>
+</unit>
+<unit>
+   <id>10279240</id>
+   <status>AP</status>
+   <name>NORTHAMPTON ST MICHAEL</name>
+</unit>
+<unit>
+   <id>10278892</id>
+   <status>CP/AP</status>
+   <name>NORTHAMPTON ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10279033</id>
+   <status>CP/ExP</status>
+   <name>NORTHAMPTON PRIORY OF ST ANDREW</name>
+</unit>
+<unit>
+   <id>12743750</id>
+   <status>PBCon/BCon</status>
+   <name>NORTHAMPTON</name>
+</unit>
+<unit>
+   <id>10279150</id>
+   <status>CP/AP</status>
+   <name>NORTHAMPTON ST GILES</name>
+</unit>
+<unit>
+   <id>10005498</id>
+   <status>RegD/PLU</status>
+   <name>NORTHAMPTON</name>
+</unit>
+<unit>
+   <id>10279306</id>
+   <status>EP</status>
+   <name>NORTHAMPTON ST PETER</name>
+</unit>
+<unit>
+   <id>12754589</id>
+   <status>BCon</status>
+   <name>NORTHAMPTON SOUTH</name>
+</unit>
+<unit>
+   <id>12755375</id>
+   <status>BCon</status>
+   <name>NORTHAMPTON NORTH</name>
+</unit>
+<unit>
+   <id>10279318</id>
+   <status>CP/AP</status>
+   <name>NORTHAMPTON ST SEPULCHRE</name>
+</unit>
+<unit>
+   <id>10279290</id>
+   <status>CP/AP</status>
+   <name>NORTHAMPTON ST PETER</name>
+</unit>
+<unit>
+   <id>10278879</id>
+   <status>CP</status>
+   <name>NORTHAMPTON</name>
+</unit>
+<unit>
+   <id>10027202</id>
+   <status>RD</status>
+   <name>NORTHAMPTON</name>
+</unit>
+<unit>
+   <id>10109279</id>
+   <status>CB/MB</status>
+   <name>NORTHAMPTON</name>
+</unit>
+<unit>
+   <id>10554007</id>
+   <status></status>
+   <name>ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10279173</id>
+   <status>AP</status>
+   <name>NORTHAMPTON ST GREGORY</name>
+</unit>
+<unit>
+   <id>10282202</id>
+   <status>AP</status>
+   <name>NORTHAMPTON ST MARGARET</name>
+</unit>
+<unit>
+   <id>10029259</id>
+   <status>RSD</status>
+   <name>NORTHAMPTON</name>
+</unit>
+<unit>
+   <id>10553982</id>
+   <status></status>
+   <name>ST GILES</name>
+</unit>
+<unit>
+   <id>10278946</id>
+   <status>EP</status>
+   <name>NORTHAMPTON ALL SAINTS WITH ST KATHERINE</name>
+</unit>
+<unit>
+   <id>12831158</id>
+   <status></status>
+   <name>NORTHAMPTON</name>
+</unit>
+<unit>
+   <id>10265629</id>
+   <status>EP</status>
+   <name>NORTHAMPTON ST ALBAN THE MARTYR</name>
+</unit>
+<unit>
+   <id>10279227</id>
+   <status>AP</status>
+   <name>NORTHAMPTON ST MARY</name>
+</unit>
+<unit>
+   <id>10279276</id>
+   <status>EP</status>
+   <name>NORTHAMPTON ST PAUL</name>
+</unit>
+<unit>
+   <id>10279100</id>
+   <status>EP</status>
+   <name>NORTHAMPTON ST BARTHOLOMEW</name>
+</unit>
+<unit>
+   <id>10279010</id>
+   <status>EP</status>
+   <name>NORTHAMPTON HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10279320</id>
+   <status>EP</status>
+   <name>NORTHAMPTON HOLY SEPULCHRE</name>
+</unit>
+<unit>
+   <id>10062986</id>
+   <status>USD</status>
+   <name>NORTHAMPTON</name>
+</unit>
+<unit>
+   <id>10577834</id>
+   <status></status>
+   <name>NORTHAMPTON</name>
+</unit>
+<unit>
+   <id>10279264</id>
+   <status>EP</status>
+   <name>NORTHAMPTON ST MICHAEL AND ALL ANGELS</name>
+</unit>
+<unit>
+   <id>10279185</id>
+   <status>EP</status>
+   <name>NORTHAMPTON ST GREGORY</name>
+</unit>
+<unit>
+   <id>10278960</id>
+   <status>EP</status>
+   <name>NORTHAMPTON CHRIST CHURCH</name>
+</unit>
+<unit>
+   <id>10279239</id>
+   <status>EP</status>
+   <name>NORTHAMPTON ST MARY</name>
+</unit>
+<unit>
+   <id>10568419</id>
+   <status></status>
+   <name>NORTHAMPTON</name>
+</unit>
+<unit>
+   <id>10279094</id>
+   <status>AP</status>
+   <name>NORTHAMPTON ST BARTHOLOMEW</name>
+</unit>
+<unit>
+   <id>12839832</id>
+   <status></status>
+   <name>NORTHAMPTON</name>
+</unit>
+<nearByPlace>
+   <id>23</id>
+   <name>BICESTER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>84</id>
+   <name>ROTHWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>276</id>
+   <name>WITNEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>321</id>
+   <name>KETTERING</name>
+</nearByPlace>
+<nearByPlace>
+   <id>532</id>
+   <name>WELLINGBOROUGH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>543</id>
+   <name>RAUNDS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1055</id>
+   <name>RUSHDEN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1200</id>
+   <name>CORBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1204</id>
+   <name>KINGSTHORPE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9893</id>
+   <name>KIDLINGTON</name>
+</nearByPlace>
+</place>
+<place>
+<id>532</id>
+<name>WELLINGBOROUGH</name>
+<container>NORTHAMPTONSHIRE</container>
+<lat>52.3141400287167</lat>
+<lon>-0.68453399977779</lon>
+<gazetteerText>WELLINGBOROUGH, a town, a parish, a sub-district, and a district, in Northamptonshire. The town stands on a declivity near the river Nen, and near the intersection of the Midland railway and the Northampton and Peterborough railway, 10 miles NE by E of Northampton; takes its name from chalybeate springs, which were used by Charles I., and are still of great note; was extensively destroyed by fire in 1738; is a seat of petty sessions and county courts, and a polling place; publishes a weekly newspaper; carries on a considerable trade in corn, shoe-making, boot-making, and the smelting of iron ore; comprises four principal streets, diverging from a central market-square; presents a modern and pleasant appearance, recently much improved; and has a head post-office,&#8225; a r. station with telegraph, two banking-offices, two chief inns, a police station, a recently-formed promenade, a corn exchange of 1861, built at a cost of &#163;3,500, an ancient church restored in 1861, and surmounted by a lofty spire, another church of 1867, built at a cost of &#163;4,500, two Independent chapels, four other dissenting chapels, a public cemetery, a literary institute, with an extensive library, an endowed grammar-school with &#163;87 a year, another endowed school with &#163;55, national and British schools, a workhouse built at a cost of &#163;5,000, a town-estate &#163;800, some general charities, a weekly market on Wednesday, and three annual fairs. Pop. in 1861, 6,067. Houses, 1,279. The parish comprises 4,490 acres. Real property, &#163;19,828; of which &#163;200 are in gasworks. Pop. in 1851, 5,297; in 1861, 6,382. Houses, 1,312. The increase of pop. arose from the extension of the shoe manufacture, and from the erection of a smelting furnace. Hatton Hall is the chief residence. The living is a vicarage in the diocese of Peterborough. Value, &#163;400.* Patron, Q. Vivian, Esq.&#151;The sub-district contains nine parishes. Acres, 17,865. Pop., 10,885. Houses, 2,306.&#151;The district includes also Earls-Barton and Higham-Ferrers subdistricts, and comprises 55,505 acres. Poor rates in 1863, &#163;11,742. Pop. in 1851, 21,367; in 1861, 24,224. Houses, 5,199. Marriages in 1863, 174; births, 970,-of which 38 were illegitimate; deaths, 583,-of which 264 were at ages under 5 years, and 12 at ages above 85. Marriages in the ten years 1851-60, 1,969; births, 8,298; deaths, 5,070. The places of worship, in 1851, were 27 of the Church of England, with 8,486 sittings; 8 of Independents, with 2,655 s.; 12 of Baptists, with 2,374 s.; 2 of Quakers, with 500 s.: 15 of Wesleyans, with 2,904 s.; 2 of Primitive Methodists, with 110 s.; 1 undefined, with 150 s.; and 2 of Latter Day Saints, with 50 s. The schools were 24 public day-schools, with 1,513 scholars; 28 private day-schools, with 530 s.; 43 Sunday schools, with 4,151 s.: and 3 evening schools for adults, with 41 s. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Wellingborough</link>
+<link>http://www.workhouses.org.uk/Wellingborough</link>
+<link>http://www.geonames.org/2634578</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=66335</link>
+</links>
+<unit>
+   <id>10000476</id>
+   <status>RD</status>
+   <name>WELLINGBOROUGH</name>
+</unit>
+<unit>
+   <id>10063140</id>
+   <status>RegD/PLU</status>
+   <name>WELLINGBOROUGH</name>
+</unit>
+<unit>
+   <id>10075300</id>
+   <status>USD</status>
+   <name>WELLINGBOROUGH</name>
+</unit>
+<unit>
+   <id>10084817</id>
+   <status></status>
+   <name>WELLINGBOROUGH</name>
+</unit>
+<unit>
+   <id>10100999</id>
+   <status>UD</status>
+   <name>WELLINGBOROUGH</name>
+</unit>
+<unit>
+   <id>10104543</id>
+   <status>RSD</status>
+   <name>WELLINGBOROUGH</name>
+</unit>
+<unit>
+   <id>10284120</id>
+   <status>CP/AP</status>
+   <name>WELLINGBOROUGH</name>
+</unit>
+<unit>
+   <id>10284144</id>
+   <status>EP</status>
+   <name>WELLINGBOROUGH</name>
+</unit>
+<unit>
+   <id>10284156</id>
+   <status>EP</status>
+   <name>WELLINGBOROUGH ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10284170</id>
+   <status>EP</status>
+   <name>WELLINGBOROUGH ST ANDREW</name>
+</unit>
+<unit>
+   <id>10284193</id>
+   <status>EP</status>
+   <name>WELLINGBOROUGH ST BARNABAS</name>
+</unit>
+<unit>
+   <id>10284200</id>
+   <status>EP</status>
+   <name>WELLINGBOROUGH ST MARK</name>
+</unit>
+<unit>
+   <id>10284211</id>
+   <status>EP</status>
+   <name>WELLINGBOROUGH ST MARY THE VIRGIN</name>
+</unit>
+<unit>
+   <id>10554093</id>
+   <status></status>
+   <name>WELLINGBOROUGH</name>
+</unit>
+<unit>
+   <id>10581977</id>
+   <status></status>
+   <name>WELLINGBOROUGH</name>
+</unit>
+<unit>
+   <id>12740580</id>
+   <status>CCon</status>
+   <name>WELLINGBOROUGH</name>
+</unit>
+<unit>
+   <id>12750729</id>
+   <status>PDivCon</status>
+   <name>NORTHAMPTONSHIRE AND SOKE OF PETERBOROUGH WELLINGBOROUGH</name>
+</unit>
+<unit>
+   <id>12752581</id>
+   <status>PDivCon</status>
+   <name>NORTHAMPTONSHIRE EASTERN</name>
+</unit>
+<unit>
+   <id>12831766</id>
+   <status></status>
+   <name>WELLINGBOROUGH</name>
+</unit>
+<nearByPlace>
+   <id>945</id>
+   <name>FINEDON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7526</id>
+   <name>CASTLE ASHBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7564</id>
+   <name>EARLS BARTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7894</id>
+   <name>GREAT DODDINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7957</id>
+   <name>GRENDON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7980</id>
+   <name>LITTLE HARROWDEN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8037</id>
+   <name>ISHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8201</id>
+   <name>SYWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8351</id>
+   <name>WILBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8354</id>
+   <name>WOLLASTON</name>
+</nearByPlace>
+</place>
+<place>
+<id>784</id>
+<name>PETERBOROUGH</name>
+<container>NORTHAMPTONSHIRE</container>
+<lat>52.5726835060627</lat>
+<lon>-0.240895637509827</lon>
+<gazetteerText>Peterborough, parl. and mun. bor. and city, partly in Huntingdonshire, but chiefly in Northamptonshire, on river Nen, at NW. boundary of Cambridgeshire, 43 miles NE. of Northampton and 76 N. of London by rail - mun. bor., 1818 ac., pop. 21,228; parl. bor., 6588 ac., pop. 22,394; 4 Banks, 2 newspapers. Market-day, Saturday. Peterborough was called Medehamstede by the Saxons until 970, and had its rise in the founding of a monastery (656), destroyed by the Danes in 870, and afterwards rebuilt. Upon its destruction by fire in 1116 the present cathedral was commenced, but was not completed till early in the 16th century. The cathedral is a noble edifice, its west front being unsurpassed by any other in the kingdom. A thorough restoration of the building was commenced in 1884. Among other buildings in the town may be mentioned the town hall, corn exchange, and county court offices. The educational institutions include a training college for church schoolmasters, a grammar school, and middle class school. Peterborough is an important railway centre, being connected with the Great Northern Railway, and branches of the Great Western, London and North-Western, and Midland Railways. It is the centre of a great agricultural district, and its markets for corn and fat stock, and fairs for cattle, horses, sheep, &amp;c., are of considerable importance. Trade is carried on in malt, coal, and timber. Agricultural implements are manufactured. The bor. was incorporated in 1874. It returns 1 member to Parliament; it returned 2 members until 1885. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.workhouses.org.uk/Peterborough</link>
+<link>http://www.geonames.org/2640354</link>
+</links>
+<unit>
+   <id>10279793</id>
+   <status>EP</status>
+   <name>PETERBOROUGH ST PAUL</name>
+</unit>
+<unit>
+   <id>10279719</id>
+   <status>CP</status>
+   <name>PETERBOROUGH</name>
+</unit>
+<unit>
+   <id>10578425</id>
+   <status></status>
+   <name>PETERBOROUGH</name>
+</unit>
+<unit>
+   <id>10207083</id>
+   <status>Borough</status>
+   <name>PETERBOROUGH</name>
+</unit>
+<unit>
+   <id>10279781</id>
+   <status>EP</status>
+   <name>PETERBOROUGH ST MARK</name>
+</unit>
+<unit>
+   <id>10279690</id>
+   <status>CP/AP</status>
+   <name>PETERBOROUGH</name>
+</unit>
+<unit>
+   <id>10136805</id>
+   <status>MB</status>
+   <name>PETERBOROUGH</name>
+</unit>
+<unit>
+   <id>10265940</id>
+   <status>EP</status>
+   <name>BOONGATE</name>
+</unit>
+<unit>
+   <id>10578437</id>
+   <status></status>
+   <name>PETERBOROUGH I</name>
+</unit>
+<unit>
+   <id>10578449</id>
+   <status></status>
+   <name>PETERBOROUGH II</name>
+</unit>
+<unit>
+   <id>12743762</id>
+   <status>PBCon</status>
+   <name>PETERBOROUGH</name>
+</unit>
+<unit>
+   <id>10152914</id>
+   <status></status>
+   <name>SOKE OF PETERBOROUGH</name>
+</unit>
+<unit>
+   <id>10175586</id>
+   <status>UA</status>
+   <name>PETERBOROUGH</name>
+</unit>
+<unit>
+   <id>10279744</id>
+   <status>ExP/CP</status>
+   <name>PETERBOROUGH MINSTER CLOSE PRECINCTS</name>
+</unit>
+<unit>
+   <id>12738316</id>
+   <status>PDivCon</status>
+   <name>NORTHAMPTONSHIRE AND SOKE OF PETERBOROUGH PETERBOROUGH</name>
+</unit>
+<unit>
+   <id>10107945</id>
+   <status>RD</status>
+   <name>PETERBOROUGH</name>
+</unit>
+<unit>
+   <id>10279800</id>
+   <status>CP</status>
+   <name>PETERBOROUGH WITHIN</name>
+</unit>
+<unit>
+   <id>12756811</id>
+   <status>BCon/CCon</status>
+   <name>PETERBOROUGH</name>
+</unit>
+<unit>
+   <id>10279811</id>
+   <status>CP</status>
+   <name>PETERBOROUGH WITHOUT</name>
+</unit>
+<unit>
+   <id>10030006</id>
+   <status>RegD/PLU</status>
+   <name>PETERBOROUGH</name>
+</unit>
+<unit>
+   <id>10554070</id>
+   <status></status>
+   <name>PETERBOROUGH</name>
+</unit>
+<unit>
+   <id>10187448</id>
+   <status>RSD</status>
+   <name>PETERBOROUGH</name>
+</unit>
+<unit>
+   <id>10029260</id>
+   <status>USD</status>
+   <name>PETERBOROUGH</name>
+</unit>
+<unit>
+   <id>10081841</id>
+   <status>Hundred</status>
+   <name>NASSABOROUGH</name>
+</unit>
+<unit>
+   <id>10279768</id>
+   <status>EP</status>
+   <name>PETERBOROUGH ST JUDE</name>
+</unit>
+<unit>
+   <id>10279707</id>
+   <status>EP</status>
+   <name>PETERBOROUGH</name>
+</unit>
+<unit>
+   <id>10279720</id>
+   <status>EP</status>
+   <name>PETERBOROUGH ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10578413</id>
+   <status></status>
+   <name>PETERBOROUGH</name>
+</unit>
+<unit>
+   <id>12839844</id>
+   <status></status>
+   <name>PETERBOROUGH</name>
+</unit>
+<unit>
+   <id>10279732</id>
+   <status>EP</status>
+   <name>PETERBOROUGH CHRIST THE CARPENTER</name>
+</unit>
+<unit>
+   <id>10567063</id>
+   <status></status>
+   <name>PETERBOROUGH</name>
+</unit>
+<unit>
+   <id>12831389</id>
+   <status></status>
+   <name>PETERBOROUGH</name>
+</unit>
+<unit>
+   <id>10279756</id>
+   <status>EP</status>
+   <name>PETERBOROUGH ST BARNABAS</name>
+</unit>
+<nearByPlace>
+   <id>83</id>
+   <name>OUNDLE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>864</id>
+   <name>STAMFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>708</id>
+   <name>FLETTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7622</id>
+   <name>BRIGSTOCK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7660</id>
+   <name>KINGS CLIFFE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2969</id>
+   <name>EDITH WESTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8353</id>
+   <name>WITTERING</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4921</id>
+   <name>COTTESMORE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8218</id>
+   <name>THRAPSTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7922</id>
+   <name>EYE</name>
+</nearByPlace>
+</place>
+<place>
+<id>321</id>
+<name>KETTERING</name>
+<container>NORTHAMPTONSHIRE</container>
+<lat>52.3967220235535</lat>
+<lon>-0.716720623218826</lon>
+<gazetteerText>Kettering, market town and par. with ry. sta., Northamptonshire, 8 miles N. of Wellingborough and 75 miles from London, 2840 ac., pop. 11,095; P.O., T.O.; 3 Banks, 2 newspapers. Market-day, Friday. Kettering is an ancient place, and was called by the Saxons Kateringes. The charter for its market was granted by Henry III. in 1227 to the monks of Peterborough. It is a fairly prosperous town, with tanning and currying, mfrs. of boots and shoes, stays, brushes, agricultural implements, and some articles of clothing. It has a handsome town hall, a cattle market, a corn exchange, and a grammar school. Many Roman relics have been found in the vicinity. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Kettering</link>
+<link>http://www.workhouses.org.uk/Kettering</link>
+<link>http://www.geonames.org/2645753</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=66292</link>
+</links>
+<unit>
+   <id>10029831</id>
+   <status>RegD/PLU</status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>10042793</id>
+   <status>UD/MB</status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>10103381</id>
+   <status>RSD</status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>10136817</id>
+   <status>RD</status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>10142751</id>
+   <status></status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>10207162</id>
+   <status>USD</status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>10277371</id>
+   <status>AP/CP</status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>10277395</id>
+   <status>EP</status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>10277401</id>
+   <status>EP</status>
+   <name>KETTERING ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10277413</id>
+   <status>EP</status>
+   <name>KETTERING ST ANDREW</name>
+</unit>
+<unit>
+   <id>10277425</id>
+   <status>EP</status>
+   <name>KETTERING ST MARY</name>
+</unit>
+<unit>
+   <id>10553933</id>
+   <status></status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>10575709</id>
+   <status></status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>12738304</id>
+   <status>PDivCon</status>
+   <name>NORTHAMPTONSHIRE AND SOKE OF PETERBOROUGH KETTERING</name>
+</unit>
+<unit>
+   <id>12740578</id>
+   <status>CCon</status>
+   <name>KETTERING</name>
+</unit>
+<unit>
+   <id>12829930</id>
+   <status></status>
+   <name>KETTERING</name>
+</unit>
+<nearByPlace>
+   <id>1285</id>
+   <name>BURTON LATIMER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7567</id>
+   <name>BARTON SEAGRAVE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7637</id>
+   <name>BROUGHTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7683</id>
+   <name>CRANFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7942</id>
+   <name>GEDDINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7950</id>
+   <name>GRAFTON UNDERWOOD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8164</id>
+   <name>SLIPTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8249</id>
+   <name>TWYWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8270</id>
+   <name>WARKTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8278</id>
+   <name>WEEKLEY</name>
+</nearByPlace>
+</place>
+<place>
+<id>320</id>
+<name>DAVENTRY</name>
+<container>NORTHAMPTONSHIRE</container>
+<lat>52.2632686406357</lat>
+<lon>-1.16491592719716</lon>
+<gazetteerText>Daventry (popularly Daintree), mun. bor., market town, and par., S. Northamptonshire, on an eminence between the Learn and the Nen and near the Grand Junction Canal, 13 miles NW. of Northampton and 70 NW. of London, 4090 ac., pop. 3859; P.O., T.O., 2 Banks, 1 newspaper. Market-day, Wednesday; has extensive mfrs. of whips and shoes. D. is an ancient town. It was incorporated by King John. In the old coaching days it was a great thoroughfare for the NW. of England. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Daventry</link>
+<link>http://www.workhouses.org.uk/Daventry</link>
+<link>http://www.geonames.org/2651485</link>
+<link>http://www.kellner.eclipse.co.uk/genuki/NTH/Daventry</link>
+</links>
+<unit>
+   <id>10029247</id>
+   <status>USD</status>
+   <name>DAVENTRY</name>
+</unit>
+<unit>
+   <id>10030286</id>
+   <status>RegD/PLU</status>
+   <name>DAVENTRY</name>
+</unit>
+<unit>
+   <id>10042781</id>
+   <status>MB</status>
+   <name>DAVENTRY</name>
+</unit>
+<unit>
+   <id>10085743</id>
+   <status>RD</status>
+   <name>DAVENTRY</name>
+</unit>
+<unit>
+   <id>10107120</id>
+   <status>Borough</status>
+   <name>DAVENTRY</name>
+</unit>
+<unit>
+   <id>10174508</id>
+   <status>RSD</status>
+   <name>DAVENTRY</name>
+</unit>
+<unit>
+   <id>10202632</id>
+   <status></status>
+   <name>DAVENTRY</name>
+</unit>
+<unit>
+   <id>10273122</id>
+   <status>CP/AP</status>
+   <name>DAVENTRY</name>
+</unit>
+<unit>
+   <id>10273158</id>
+   <status>EP</status>
+   <name>DAVENTRY</name>
+</unit>
+<unit>
+   <id>10273183</id>
+   <status>EP</status>
+   <name>DAVENTRY ST JAMES</name>
+</unit>
+<unit>
+   <id>10273195</id>
+   <status>EP</status>
+   <name>DAVENTRY WITH NORTON</name>
+</unit>
+<unit>
+   <id>10553880</id>
+   <status></status>
+   <name>DAVENTRY</name>
+</unit>
+<unit>
+   <id>10572411</id>
+   <status></status>
+   <name>DAVENTRY</name>
+</unit>
+<unit>
+   <id>12740566</id>
+   <status>CCon</status>
+   <name>DAVENTRY</name>
+</unit>
+<unit>
+   <id>12750717</id>
+   <status>PDivCon</status>
+   <name>NORTHAMPTONSHIRE AND SOKE OF PETERBOROUGH DAVENTRY</name>
+</unit>
+<unit>
+   <id>12835024</id>
+   <status></status>
+   <name>DAVENTRY</name>
+</unit>
+<nearByPlace>
+   <id>7532</id>
+   <name>ASHBY ST LEDGERS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7547</id>
+   <name>BADBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7620</id>
+   <name>BRAUNSTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7963</id>
+   <name>WEST HADDON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8098</id>
+   <name>NEWNHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8106</id>
+   <name>NORTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8175</id>
+   <name>STAVERTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8274</id>
+   <name>WATFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8286</id>
+   <name>WELTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9460</id>
+   <name>WOLFHAMPCOTE</name>
+</nearByPlace>
+</place>
+<place>
+<id>8248</id>
+<name>TOWCESTER</name>
+<container>NORTHAMPTONSHIRE</container>
+<lat>52.128321387603</lat>
+<lon>-0.999406211728544</lon>
+<gazetteerText>TOWCESTER, a small town, a parish, a sub-district, a district, and a hundred, in Northamptonshire. The town stands on Watling.street and the river Tove, at the termination of a branch railway 8&#188; miles SSW of Northampton; occupies the site of the Roman station Lactodurum; was known, in the Saxon times, as Tof-ceastre,-at Domesday, as Tovecestre; suffered much in the Saxon times, from frequent attacks of the Danes; was refortified, in the time of Edward the Elder, by walls and other works, of which but faint traces remain; belonged, in the time of Henry VII., to the lawyer Sir R. Empson, a native, the son of a sieve-maker, raised to the chancellorship of the duchy of Lancaster, and eventually beheaded: is now a seat of petty sessions and county courts, and a polling place; consists chiefly of one long well built street; and has a head post-office,&#8225; a banking office, two chief inns, a town hall and corn exchange, in the classic style, with dome, tower, and spire, built in 1866, a police station, erected in 1852, a theological library and reading room, a church of various periods, repaired in 1836, four dissenting chapels, an endowed grammar-school with &#163;65 a year, national schools, a workhouse with capacity for 208 inmates, alms houses with &#163;91 a year, and other charities &#163;251. A weekly market is held on Tuesday; fairs are held on 12 May and 29 Oct.; and malting, brewing, shoe-making, and pillow-lace manufacture, are carried on. Pop. in 1861, 2,417. Houses, 546.&#151;The parish includes, three hamlets, and comprises 2,790 acres. Real property, &#163;11,880; of which &#163;30 are in quarries, and &#163;90 in gasworks. Pop., 2,715. Houses, 610. The manor belongs to Sir T. F. Hesketh, Bart. An artificial mound, called Bury Mount, is on the NW side of the town; appears to have been anciently fortified; and has yielded many Roman relics. The living is a vicarage in the diocese of Peterborough. Value, &#163;300.* Patron, the Bishop of Lichfield.&#151;The sub-district contains nine parishes. Acres, 19,893. Pop., 7,531. Houses, 1,669.&#151;The district includes Abthorpe sub-district, and comprises 42,216 acres. Poor rates, in 1863, &#163;6,939. Pop. in 1851, 12,806; in 1861, 13,004. Houses, 2,956. Marriages in 1863, 82: births, 457,-of which 32 were illegitimate; deaths, 234, -of which 75 were at ages under 5 years, and 13 at ages above 85. Marriages in the ten years 1851-60, 1,022; births, 4,361; deaths, 2,927. The places of worship, in 1851, were 20 of the Church of England, with 3,184 sittings; 1 of Independents, with 390 s.; 13 of Baptists, with 2,271 s.; 12 of Wesleyans, with 1,864 s.; 2 of Primitive Methodists, with 170 s.; 1 of Wesleyan Reformers, with 60 s.; and 1 undefined, with 70 s. The schools were 17 public day-schools, with 1,053 scholars; 17 private day-schools, with 295 s.; and 32 Sunday schools, with 2,466 s.-The hundred contains six parishes. Acres, 27,490. Pop., 5,163. Houses, 1,139. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Towcester</link>
+<link>http://www.workhouses.org.uk/Towcester</link>
+<link>http://www.kellner.eclipse.co.uk/genuki/NTH/Towcester</link>
+<link>http://www.geonames.org/2635597</link>
+</links>
+<unit>
+   <id>10063139</id>
+   <status>RegD/PLU</status>
+   <name>TOWCESTER</name>
+</unit>
+<unit>
+   <id>10140924</id>
+   <status>Hundred</status>
+   <name>TOWCESTER</name>
+</unit>
+<unit>
+   <id>10166342</id>
+   <status>Borough</status>
+   <name>TOWCESTER</name>
+</unit>
+<unit>
+   <id>10211232</id>
+   <status>RD</status>
+   <name>TOWCESTER</name>
+</unit>
+<unit>
+   <id>10214828</id>
+   <status>RSD</status>
+   <name>TOWCESTER</name>
+</unit>
+<unit>
+   <id>10283176</id>
+   <status>CP/AP</status>
+   <name>TOWCESTER</name>
+</unit>
+<unit>
+   <id>10283188</id>
+   <status>EP</status>
+   <name>TOWCESTER</name>
+</unit>
+<unit>
+   <id>10553970</id>
+   <status></status>
+   <name>TOWCESTER</name>
+</unit>
+<unit>
+   <id>10581394</id>
+   <status></status>
+   <name>TOWCESTER</name>
+</unit>
+<unit>
+   <id>12743713</id>
+   <status>PDivCon</status>
+   <name>NORTHAMPTONSHIRE SOUTHERN</name>
+</unit>
+<nearByPlace>
+   <id>7472</id>
+   <name>ABTHORPE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7578</id>
+   <name>BLAKESLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8107</id>
+   <name>GREENS NORTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8117</id>
+   <name>PATTISHALL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8118</id>
+   <name>PAULERSPURY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8127</id>
+   <name>POTTERSPURY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8157</id>
+   <name>SILVERSTONE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8265</id>
+   <name>WAPPENHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8347</id>
+   <name>WHITTLEBURY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8365</id>
+   <name>YARDLEY GOBION</name>
+</nearByPlace>
+</place>
+<place>
+<id>1310</id>
+<name>FAR COTTON</name>
+<container>NORTHAMPTONSHIRE</container>
+<lat>52.2273278790839</lat>
+<lon>-0.900532039406315</lon>
+<gazetteerText>COTTON-END, or Far-Cotton, a hamlet in Hardingstone parish, Northamptonshire; 2 miles S of Northampton. Pop., 279. A lepers&apos; hospital was founded here by the Conqueror. Cotton-End House is the seat of the Chuttleworths. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<unit>
+   <id>10214774</id>
+   <status>UD</status>
+   <name>FAR COTTON</name>
+</unit>
+<unit>
+   <id>10274187</id>
+   <status>PA/CP</status>
+   <name>FAR COTTON</name>
+</unit>
+<unit>
+   <id>10274205</id>
+   <status>EP</status>
+   <name>NORTHAMPTON ST MARY VIRGIN</name>
+</unit>
+<nearByPlace>
+   <id>1232</id>
+   <name>HARDINGSTONE</name>
+</nearByPlace>
+</place>
+<place>
+<id>7634</id>
+<name>BRIXWORTH</name>
+<container>NORTHAMPTONSHIRE</container>
+<lat>52.3249904032873</lat>
+<lon>-0.895430689103453</lon>
+<gazetteerText>BRIXWORTH, a village, a parish, a subdistrict, and a district, in Northamptonshire. The village stands adjacent to the Northampton and Market-Harborough railway, 7 miles N of Northampton; and has a station on the railway, and a post office&#8225; under Northampton. It was formerly a market-town, under the Fitz-Simons; and it still has a fair on Whit-Monday. Here are a workhouse, built at a cost of &#163;5,800, and the kennels of the Pitchley hounds. The parish comprises 3,410 acres. Real property, &#163;7,636. Pop., 1,253. Houses, 269. The property is subdivided. Brixworth Hall belonged formerly to the Nicholses; and passed to the Woods. Some of the inhabitants are lace-makers, and some quarriers. The living is a vicarage in the diocese of Peterborough. Value, &#163;300.* Patron, the Bishop of Peterborough. The church shows fine features of very early Norman, with additions of later character; has a curious staircase leading to the tower; is supposed to have been built on the foundations of a Roman basilica; and was restored in 1865. There are a Wesleyan chapel, an endowed school with &#163;50 a year, and charities &#163;58. The subdistrict contains the parishes of Brixworth, Holcot, Scaldwell, Lamport, Haselbeech, Maidwell, Draughton, Faxton, Old or Wold, Walgrave, and Hannington. Acres, 19,435. Pop., 4,555. Houses, 993.&#151;The district comprehends also the subdistrict of Spratton, containing the parishes of Spratton, Ravensthorpe, Holdenby, East Haddon, Cold Ashby, Naseby, Thornby, Guilsborough, Cottesbrook, and Great Creaton; and the subdistrict of Moulton, containing the parishes of Moulton, Overstone, Boughton, Pitsford, Brington, Harlestone Church-Brampton, and Chapel-Brampton, and the extra-parochial tract of Althorp. Acres, 59,926. Poorrates in 1866, &#163;14,667. Pop. in 1861, 15,359. Houses, 3,360. Marriages in 1866, 73; births, 474,-of which 34 were illegitimate; deaths, 252,-of which 97 were at ages under 5 years, and 7 at ages above 85. Marriages in the ten years 1851-60, 1,055; births, 4,710; deaths, 3,078. The places of worship in 1851 were 30 of the Church of England, with 6,907 sittings; 6 of Independents, with 1,250 s.; 10 of Baptists, with 2,180 s.; 7 of Wesleyan Methodists, with 1,399 s.; and 2 undefined, with 260 s. The schools were 28 public day schools, with 1,573 scholars; 34 private day schools, with 477 s.; and 42 Sunday schools, with 2,345 s. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Brixworth</link>
+<link>http://www.geonames.org/2654660</link>
+<link>http://www.workhouses.org.uk/Brixworth</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=66338</link>
+</links>
+<unit>
+   <id>10138759</id>
+   <status>RSD</status>
+   <name>BRIXWORTH</name>
+</unit>
+<unit>
+   <id>10186729</id>
+   <status>RD</status>
+   <name>BRIXWORTH</name>
+</unit>
+<unit>
+   <id>10199440</id>
+   <status>RegD/PLU</status>
+   <name>BRIXWORTH</name>
+</unit>
+<unit>
+   <id>10266919</id>
+   <status>CP/AP</status>
+   <name>BRIXWORTH</name>
+</unit>
+<unit>
+   <id>10266944</id>
+   <status>EP</status>
+   <name>BRIXWORTH</name>
+</unit>
+<unit>
+   <id>10553908</id>
+   <status></status>
+   <name>EAST BRIXWORTH</name>
+</unit>
+<unit>
+   <id>10553910</id>
+   <status></status>
+   <name>WEST BRIXWORTH</name>
+</unit>
+<unit>
+   <id>10570542</id>
+   <status></status>
+   <name>BRIXWORTH</name>
+</unit>
+<unit>
+   <id>12751886</id>
+   <status>PDivCon</status>
+   <name>NORTHAMPTONSHIRE MID</name>
+</unit>
+</place>
+<place>
+<id>7694</id>
+<name>DALLINGTON</name>
+<container>NORTHAMPTONSHIRE</container>
+<lat>52.2595330448615</lat>
+<lon>-0.924135908655342</lon>
+<gazetteerText>DALLINGTON, a parish in the district and county of Northampton; on the Grand Union canal, and a branch of the river Nen, 1&#190; mile NW of Northampton. It has a post office under Northampton. Acres, 1, 520. Real property, &#163;4, 258. Pop., 686. Houses, 133. The property is divided among a few. Ironstone is found and worked. The living is a vicarage in the diocese of Peterborough. Value, &#163;300.* Patron, J. Reddall, Esq. The church was restored in 1863. There are a national school and four alms-houses. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Dallington</link>
+<link>http://www.geonames.org/2651579</link>
+</links>
+<unit>
+   <id>10268278</id>
+   <status>AP/CP</status>
+   <name>DALLINGTON</name>
+</unit>
+<unit>
+   <id>10268291</id>
+   <status>EP</status>
+   <name>DALLINGTON</name>
+</unit>
+<unit>
+   <id>10273031</id>
+   <status>CP</status>
+   <name>DALLINGTON ST JAMES</name>
+</unit>
+<unit>
+   <id>10273109</id>
+   <status>EP</status>
+   <name>NORTHAMPTON ST JAMES</name>
+</unit>
+<nearByPlace>
+   <id>7515</id>
+   <name>ALTHORP</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7969</id>
+   <name>HARLESTONE</name>
+</nearByPlace>
+</place>
+<place>
+<id>83</id>
+<name>OUNDLE</name>
+<container>NORTHAMPTONSHIRE</container>
+<lat>52.4811980762602</lat>
+<lon>-0.483625656428365</lon>
+<gazetteerText>Oundle, market town, par., and township with ry. sta., Northamptonshire, on river Nen, 13&#189; miles SW. of Peterborough and 98 miles from London - par., 5300 ac., pop. 3073; township, pop. 2953; town, pop. 2890; P.O., T.O., 1 Bank. Market-day, Thursday. The name is a corruption of Avondale. In the vicinity are several mineral springs impregnated with iron; one of these sends forth a singular noise, which gives it the name of the &quot;Drumming Well.&quot; Quantities of lace are made by the inhabitants. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.kellner.eclipse.co.uk/genuki/NTH/Oundle</link>
+<link>http://en.wikipedia.org/wiki/Oundle</link>
+<link>http://www.workhouses.org.uk/Oundle</link>
+<link>http://www.geonames.org/2640825</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=66265</link>
+</links>
+<unit>
+   <id>10002643</id>
+   <status>UD</status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10004974</id>
+   <status>USD</status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10097447</id>
+   <status>Borough</status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10138772</id>
+   <status>RSD</status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10139491</id>
+   <status>PLU/RegD</status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10153657</id>
+   <status>RD</status>
+   <name>OUNDLE AND THRAPSTON</name>
+</unit>
+<unit>
+   <id>10173553</id>
+   <status>RD</status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10279513</id>
+   <status>CP/AP</status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10279525</id>
+   <status>EP</status>
+   <name>OUNDLE WITH ASHTON</name>
+</unit>
+<unit>
+   <id>10470493</id>
+   <status>RD</status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10553854</id>
+   <status></status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10578218</id>
+   <status></status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10578220</id>
+   <status></status>
+   <name>OUNDLE</name>
+</unit>
+<unit>
+   <id>10578231</id>
+   <status></status>
+   <name>OUNDLE I</name>
+</unit>
+<unit>
+   <id>10578243</id>
+   <status></status>
+   <name>OUNDLE II</name>
+</unit>
+<unit>
+   <id>10578255</id>
+   <status></status>
+   <name>OUNDLE III</name>
+</unit>
+<unit>
+   <id>10578267</id>
+   <status></status>
+   <name>OUNDLE IV</name>
+</unit>
+<unit>
+   <id>12743622</id>
+   <status>PDivCon</status>
+   <name>NORTHAMPTONSHIRE NORTHERN</name>
+</unit>
+<nearByPlace>
+   <id>7179</id>
+   <name>ELTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7562</id>
+   <name>BARNWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7573</id>
+   <name>BENEFIELD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7943</id>
+   <name>GLAPTHORN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8056</id>
+   <name>LILFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8068</id>
+   <name>LUTTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8125</id>
+   <name>POLEBROOK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8169</id>
+   <name>SOUTHWICK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8203</id>
+   <name>TANSOR</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8272</id>
+   <name>WARMINGTON</name>
+</nearByPlace>
+</place>
+</results>

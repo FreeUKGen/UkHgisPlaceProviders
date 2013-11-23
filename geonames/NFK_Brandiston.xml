@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Brandiston</toponymName>
+<name>Brandiston</name>
+<lat>52.74631</lat>
+<lng>1.16251</lng>
+<geonameId>7291416</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UC</adminCode3>
+<adminName3>Broadland</adminName3>
+<adminCode4>33UC012</adminCode4>
+<adminName4>Brandiston</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brandiston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.14738</west>
+<north>52.75708</north>
+<east>1.17764</east>
+<south>52.73555</south>
+</bbox>
+<score>58.57857131958008</score>
+</geoname>
+</geonames>

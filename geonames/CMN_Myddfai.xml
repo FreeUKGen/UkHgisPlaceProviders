@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Myddfai</toponymName>
+<name>Myddfai</name>
+<lat>51.96275</lat>
+<lng>-3.78701</lng>
+<geonameId>7297157</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU061</adminCode3>
+<adminName3>Myddfai</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.88026</west>
+<north>52.0002</north>
+<east>-3.69377</east>
+<south>51.92531</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Myddfai</toponymName>
+<name>Myddfai</name>
+<lat>51.95571</lat>
+<lng>-3.78801</lng>
+<geonameId>2641935</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Myddfai</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU061</adminCode3>
+<adminName3>Myddfai</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Myddfai</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.80261</west>
+<north>51.96471</north>
+<east>-3.77341</east>
+<south>51.94672</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+</geonames>

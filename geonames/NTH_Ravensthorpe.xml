@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ravensthorpe</toponymName>
+<name>Ravensthorpe</name>
+<lat>53.67871</lat>
+<lng>-1.66082</lng>
+<geonameId>6693756</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G8</adminCode2>
+<adminName2>Kirklees</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.67601</west>
+<north>53.68771</north>
+<east>-1.64564</east>
+<south>53.66972</south>
+</bbox>
+<score>61.90043640136719</score>
+</geoname>
+<geoname>
+<toponymName>Ravensthorpe</toponymName>
+<name>Ravensthorpe</name>
+<lat>52.33402</lat>
+<lng>-1.01945</lng>
+<geonameId>7299532</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<adminCode4>34UC056</adminCode4>
+<adminName4>Ravensthorpe</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ravensthorpe%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.04989</west>
+<north>52.35091</north>
+<east>-0.98901</east>
+<south>52.31713</south>
+</bbox>
+<score>53.27237319946289</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>East Allington</toponymName>
+<name>East Allington</name>
+<lat>50.32409</lat>
+<lng>-3.72831</lng>
+<geonameId>2650513</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>East Allington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UG</adminCode3>
+<adminName3>South Hams District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/East_Allington</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.7424</west>
+<north>50.33309</north>
+<east>-3.71422</east>
+<south>50.3151</south>
+</bbox>
+<score>83.4962158203125</score>
+</geoname>
+<geoname>
+<toponymName>East Allington</toponymName>
+<name>East Allington</name>
+<lat>50.31911</lat>
+<lng>-3.71851</lng>
+<geonameId>7296562</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UG</adminCode3>
+<adminName3>South Hams District</adminName3>
+<adminCode4>18UG019</adminCode4>
+<adminName4>East Allington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.75882</west>
+<north>50.34959</north>
+<east>-3.67819</east>
+<south>50.28863</south>
+</bbox>
+<score>63.41722869873047</score>
+</geoname>
+</geonames>

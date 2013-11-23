@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llanrhaeadr-ym-Mochnant</toponymName>
+<name>Llanrhaeadr-ym-Mochnant</name>
+<lat>52.84086</lat>
+<lng>-3.34631</lng>
+<geonameId>7292203</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN111</adminCode3>
+<adminName3>Llanrhaeadr-ym-Mochnant</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.44885</west>
+<north>52.89341</north>
+<east>-3.24378</east>
+<south>52.78831</south>
+</bbox>
+<score>94.11788940429688</score>
+</geoname>
+<geoname>
+<toponymName>Llanrhaeadr-ym-Mochnant</toponymName>
+<name>Llanrhaeadr-ym-Mochnant</name>
+<lat>52.82507</lat>
+<lng>-3.30225</lng>
+<geonameId>7289682</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN111</adminCode3>
+<adminName3>Llanrhaeadr-ym-Mochnant</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llanrhaeadr-ym-Mochnant</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.33203</west>
+<north>52.84306</north>
+<east>-3.27247</east>
+<south>52.80708</south>
+</bbox>
+<score>71.44746398925781</score>
+</geoname>
+</geonames>

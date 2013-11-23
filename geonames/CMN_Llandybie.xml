@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llandybie</toponymName>
+<name>Llandybie</name>
+<lat>51.82044</lat>
+<lng>-4.0071</lng>
+<geonameId>2644115</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2664</population>
+<alternateNames>Llandebie,Llandybie</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU028</adminCode3>
+<adminName3>Llandybie</adminName3>
+<alternateName lang="unlc">LDB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.01739</west>
+<north>51.82679</north>
+<east>-3.99681</east>
+<south>51.81408</south>
+</bbox>
+<score>87.97727966308594</score>
+</geoname>
+<geoname>
+<toponymName>Llandybie</toponymName>
+<name>Llandybie</name>
+<lat>51.80947</lat>
+<lng>-4.00412</lng>
+<geonameId>7292355</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<adminCode3>00NU028</adminCode3>
+<adminName3>Llandybie</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llandybie</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.07307</west>
+<north>51.85039</north>
+<east>-3.93517</east>
+<south>51.76856</south>
+</bbox>
+<score>75.08580017089844</score>
+</geoname>
+</geonames>

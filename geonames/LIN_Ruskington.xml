@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ruskington</toponymName>
+<name>Ruskington</name>
+<lat>53.04544</lat>
+<lng>-0.38692</lng>
+<geonameId>2638938</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5060</population>
+<alternateNames>Buskington,Ruskington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ruskington</alternateName>
+<alternateName lang="unlc">RKO</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.40189</west>
+<north>53.05444</north>
+<east>-0.37196</east>
+<south>53.03645</south>
+</bbox>
+<score>95.30752563476562</score>
+</geoname>
+<geoname>
+<toponymName>Ruskington</toponymName>
+<name>Ruskington</name>
+<lat>53.04712</lat>
+<lng>-0.36837</lng>
+<geonameId>7296457</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<adminCode4>32UE052</adminCode4>
+<adminName4>Ruskington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.43329</west>
+<north>53.06533</north>
+<east>-0.30346</east>
+<south>53.0289</south>
+</bbox>
+<score>77.89783477783203</score>
+</geoname>
+</geonames>

@@ -1,0 +1,39 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1112</id>
+<name>PRESTATYN</name>
+<container>FLINTSHIRE</container>
+<lat>53.3360481442048</lat>
+<lon>-3.40039169144572</lon>
+<gazetteerText>PRESTATYN, a township, a chapelry, and a hundred, in Flint. The township is in Meliden parish; lies on the coast, and on the Chester and Holyhead railway, 4&#188; miles N E of Rhuddlan; and has a station on the railway, and a post-office under Rhyl. Real property, &#163;2, 123. Acastle was built here before the time of Henry II.; belonged to successively the Banasters, the Crevec&#339;urs, the Conways, and others; and has left some remains. The chapelry includes also part of Llanasa parish, and was constituted in 1860. Pop., 700. Houses, 180. Pop. of the Meliden portion, 660. Houses, 170. The living is a p. curacy in the diocese of St. Asaph. Value, &#163;233. Patron, alternately the Crown and the Bishop. The hundred contains five parishes, and part of another. Acres, 20, 704. Pop., 5, 872. Houses, 1, 348. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Prestatyn</link>
+<link>http://www.genuki.org.uk/big/wal/FLN/Prestatyn/index.html</link>
+<link>http://www.geonames.org/2639926</link>
+</links>
+<unit>
+   <id>10017737</id>
+   <status>Cmt/Hundred</status>
+   <name>PRESTATYN</name>
+</unit>
+<unit>
+   <id>10243040</id>
+   <status>UD</status>
+   <name>PRESTATYN</name>
+</unit>
+<unit>
+   <id>10296250</id>
+   <status>CP/AP</status>
+   <name>PRESTATYN</name>
+</unit>
+<nearByPlace>
+   <id>4909</id>
+   <name>GWAUNYSGOR</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6783</id>
+   <name>MELIDEN</name>
+</nearByPlace>
+</place>
+</results>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Harberton</toponymName>
+<name>Harberton</name>
+<lat>50.41366</lat>
+<lng>-3.72042</lng>
+<geonameId>2647510</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UG</adminCode3>
+<adminName3>South Hams District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harberton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.73453</west>
+<north>50.42265</north>
+<east>-3.7063</east>
+<south>50.40467</south>
+</bbox>
+<score>74.17405700683594</score>
+</geoname>
+<geoname>
+<toponymName>Harberton</toponymName>
+<name>Harberton</name>
+<lat>50.41154</lat>
+<lng>-3.73498</lng>
+<geonameId>7300282</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UG</adminCode3>
+<adminName3>South Hams District</adminName3>
+<adminCode4>18UG024</adminCode4>
+<adminName4>Harberton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.78601</west>
+<north>50.44135</north>
+<east>-3.68395</east>
+<south>50.38174</south>
+</bbox>
+<score>65.60032653808594</score>
+</geoname>
+</geonames>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bugbrooke</toponymName>
+<name>Bugbrooke</name>
+<lat>52.21006</lat>
+<lng>-1.01304</lng>
+<geonameId>2654372</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2835</population>
+<alternateNames>Bugbrooke</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bugbrooke</alternateName>
+<alternateName lang="unlc">BUB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.02342</west>
+<north>52.21642</north>
+<east>-1.00266</east>
+<south>52.2037</south>
+</bbox>
+<score>105.69082641601562</score>
+</geoname>
+<geoname>
+<toponymName>Bugbrooke</toponymName>
+<name>Bugbrooke</name>
+<lat>52.20916</lat>
+<lng>-1.01284</lng>
+<geonameId>7295745</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<adminCode4>34UG012</adminCode4>
+<adminName4>Bugbrooke</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.0461</west>
+<north>52.22573</north>
+<east>-0.97957</east>
+<south>52.19258</south>
+</bbox>
+<score>79.16693115234375</score>
+</geoname>
+</geonames>

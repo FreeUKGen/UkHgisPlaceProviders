@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Howe</toponymName>
+<name>Howe</name>
+<lat>54.21406</lat>
+<lng>-1.46199</lng>
+<geonameId>7290765</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<adminCode4>36UC068</adminCode4>
+<adminName4>Howe</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Howe%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.48029</west>
+<north>54.22193</north>
+<east>-1.44368</east>
+<south>54.20619</south>
+</bbox>
+<score>48.56589889526367</score>
+</geoname>
+<geoname>
+<toponymName>Howe</toponymName>
+<name>Howe</name>
+<lat>52.5436</lat>
+<lng>1.34433</lng>
+<geonameId>7299031</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH057</adminCode4>
+<adminName4>Howe</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Howe%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.32474</west>
+<north>52.55639</north>
+<east>1.36392</east>
+<south>52.53081</south>
+</bbox>
+<score>48.56589889526367</score>
+</geoname>
+</geonames>

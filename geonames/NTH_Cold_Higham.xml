@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Cold Higham</toponymName>
+<name>Cold Higham</name>
+<lat>52.17783</lat>
+<lng>-1.04337</lng>
+<geonameId>7291349</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<adminCode4>34UG017</adminCode4>
+<adminName4>Cold Higham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cold_Higham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.06408</west>
+<north>52.19566</north>
+<east>-1.02266</east>
+<south>52.16001</south>
+</bbox>
+<score>53.58641052246094</score>
+</geoname>
+</geonames>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Stow</toponymName>
+<name>Stow</name>
+<lat>53.31667</lat>
+<lng>-0.68333</lng>
+<geonameId>2636761</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Stow</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stow%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.69839</west>
+<north>53.32566</north>
+<east>-0.66828</east>
+<south>53.30767</south>
+</bbox>
+<score>91.92524719238281</score>
+</geoname>
+<geoname>
+<toponymName>Stow</toponymName>
+<name>Stow</name>
+<lat>52.90116</lat>
+<lng>-0.36942</lng>
+<geonameId>6691576</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stow_%28hundred%29</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.38433</west>
+<north>52.91016</north>
+<east>-0.3545</east>
+<south>52.89217</south>
+</bbox>
+<score>77.08419036865234</score>
+</geoname>
+<geoname>
+<toponymName>Stow</toponymName>
+<name>Stow</name>
+<lat>53.32416</lat>
+<lng>-0.66116</lng>
+<geonameId>7299201</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<adminCode4>32UH103</adminCode4>
+<adminName4>Stow</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.71591</west>
+<north>53.34954</north>
+<east>-0.6064</east>
+<south>53.29877</south>
+</bbox>
+<score>71.8565673828125</score>
+</geoname>
+<geoname>
+<toponymName>Stow</toponymName>
+<name>Stow</name>
+<lat>55.7</lat>
+<lng>-2.85</lng>
+<geonameId>2636760</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>551</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T9</adminCode2>
+<adminName2>Scottish Borders</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.8516</west>
+<north>55.7009</north>
+<east>-2.8484</east>
+<south>55.6991</south>
+</bbox>
+<score>57.11695098876953</score>
+</geoname>
+<geoname>
+<toponymName>Stow</toponymName>
+<name>Stow</name>
+<lat>52.35</lat>
+<lng>-3.01667</lng>
+<geonameId>2636762</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>GB.ENG.Y8</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.03139</west>
+<north>52.35899</north>
+<east>-3.00194</east>
+<south>52.34101</south>
+</bbox>
+<score>57.11695098876953</score>
+</geoname>
+<geoname>
+<toponymName>Long Stow</toponymName>
+<name>Long Stow</name>
+<lat>52.32566</lat>
+<lng>-0.37495</lng>
+<geonameId>2643630</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Long Stow,Stow</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UE</adminCode3>
+<adminName3>Huntingdonshire</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.38967</west>
+<north>52.33466</north>
+<east>-0.36023</east>
+<south>52.31667</south>
+</bbox>
+<score>47.86145782470703</score>
+</geoname>
+</geonames>

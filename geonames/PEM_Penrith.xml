@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Penrith</toponymName>
+<name>Penrith</name>
+<lat>54.66579</lat>
+<lng>-2.75757</lng>
+<geonameId>2640416</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>14793</population>
+<alternateNames>Penrit,Penrith,Penrith i England,Pioraid,Pìoraid,Píoraid,XPF,peng li si,Пенрит,彭里斯</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UF</adminCode3>
+<adminName3>Eden District</adminName3>
+<alternateName lang="bg">Пенрит</alternateName>
+<alternateName lang="ga">Píoraid</alternateName>
+<alternateName lang="gd">Pìoraid</alternateName>
+<alternateName lang="iata">XPF</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Penrith%2C_Cumbria</alternateName>
+<alternateName lang="nn">Penrith i England</alternateName>
+<alternateName lang="ru">Пенрит</alternateName>
+<alternateName lang="unlc">PNR</alternateName>
+<alternateName lang="zh">彭里斯</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.78451</west>
+<north>54.68137</north>
+<east>-2.73062</east>
+<south>54.65021</south>
+</bbox>
+<score>88.58084106445312</score>
+</geoname>
+</geonames>

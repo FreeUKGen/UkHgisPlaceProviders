@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Harrington</toponymName>
+<name>Harrington</name>
+<lat>53.21667</lat>
+<lng>0.05</lng>
+<geonameId>2647435</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Harrington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harrington%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.03498</west>
+<north>53.22566</north>
+<east>0.06502</east>
+<south>53.20767</south>
+</bbox>
+<score>64.21963500976562</score>
+</geoname>
+<geoname>
+<toponymName>Harrington</toponymName>
+<name>Harrington</name>
+<lat>52.4</lat>
+<lng>-0.85</lng>
+<geonameId>2647436</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Harrington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UE</adminCode3>
+<adminName3>Kettering District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harrington%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.86474</west>
+<north>52.40899</north>
+<east>-0.83526</east>
+<south>52.39101</south>
+</bbox>
+<score>64.21963500976562</score>
+</geoname>
+<geoname>
+<toponymName>Harrington</toponymName>
+<name>Harrington</name>
+<lat>54.61363</lat>
+<lng>-3.56163</lng>
+<geonameId>2647434</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UB</adminCode3>
+<adminName3>Allerdale District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harrington%2C_Cumbria</alternateName>
+<alternateName lang="unlc">HRR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.57716</west>
+<north>54.62263</north>
+<east>-3.5461</east>
+<south>54.60464</south>
+</bbox>
+<score>54.025917053222656</score>
+</geoname>
+<geoname>
+<toponymName>Harrington</toponymName>
+<name>Harrington</name>
+<lat>52.41618</lat>
+<lng>-0.85944</lng>
+<geonameId>7291341</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UE</adminCode3>
+<adminName3>Kettering District</adminName3>
+<adminCode4>34UE012</adminCode4>
+<adminName4>Harrington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.89068</west>
+<north>52.43718</north>
+<east>-0.8282</east>
+<south>52.39518</south>
+</bbox>
+<score>49.508811950683594</score>
+</geoname>
+<geoname>
+<toponymName>Harrington</toponymName>
+<name>Harrington</name>
+<lat>53.22321</lat>
+<lng>0.04597</lng>
+<geonameId>7295487</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC071</adminCode4>
+<adminName4>Harrington</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.02966</west>
+<north>53.23657</north>
+<east>0.06228</east>
+<south>53.20985</south>
+</bbox>
+<score>49.508811950683594</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bothal</toponymName>
+<name>Bothal</name>
+<lat>55.1734</lat>
+<lng>-1.62552</lng>
+<geonameId>2655133</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bothal</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM012</adminCode3>
+<adminName3>Ashington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bothal</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.64128</west>
+<north>55.18239</north>
+<east>-1.60977</east>
+<south>55.16441</south>
+</bbox>
+<score>104.99028015136719</score>
+</geoname>
+</geonames>

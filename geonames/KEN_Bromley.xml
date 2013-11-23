@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bromley</toponymName>
+<name>London Borough of Bromley</name>
+<lat>51.40606</lat>
+<lng>0.01519</lng>
+<geonameId>2654588</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Bromley,Bromley keruelet,Bromley kerület,Bromli,Distretto di Bromley,London Borough of Bromley,Londonska opshtina Bromli,bromali,brwmly,Бромлі,Лондонска општина Бромли,بروملی,ब्रॉमली</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>B8</adminCode3>
+<adminName3>Bromley</adminName3>
+<alternateName lang="cs">Bromley</alternateName>
+<alternateName lang="de">London Borough of Bromley</alternateName>
+<alternateName lang="en">London Borough of Bromley</alternateName>
+<alternateName lang="fi">Bromley</alternateName>
+<alternateName lang="fr">Bromley</alternateName>
+<alternateName lang="hi">ब्रॉमली</alternateName>
+<alternateName lang="hu">Bromley kerület</alternateName>
+<alternateName lang="it">Distretto di Bromley</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bromley</alternateName>
+<alternateName lang="nl">Bromley</alternateName>
+<alternateName lang="no">Bromley</alternateName>
+<alternateName lang="ro">Bromley</alternateName>
+<alternateName lang="sr">Лондонска општина Бромли</alternateName>
+<alternateName lang="sv">Bromley</alternateName>
+<alternateName lang="uk">Бромлі</alternateName>
+<alternateName lang="ur">بروملی</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.01365</west>
+<north>51.42405</north>
+<east>0.04404</east>
+<south>51.38807</south>
+</bbox>
+<score>76.45013427734375</score>
+</geoname>
+<geoname>
+<toponymName>Bromley</toponymName>
+<name>Bromley</name>
+<lat>51.41475</lat>
+<lng>0.01167</lng>
+<geonameId>3333135</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>312400</population>
+<alternateNames>BRY,Bromley,London Borough of Bromley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>B8</adminCode3>
+<adminName3>Bromley</adminName3>
+<alternateName lang="abbr">BRY</alternateName>
+<alternateName lang="en">Bromley</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bromley_(London_Borough)</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.08111</west>
+<north>51.44432</north>
+<east>0.16236</east>
+<south>51.28935</south>
+</bbox>
+<score>61.81596374511719</score>
+</geoname>
+</geonames>

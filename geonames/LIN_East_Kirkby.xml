@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>East Kirkby</toponymName>
+<name>East Kirkby</name>
+<lat>53.14034</lat>
+<lng>-0.00695</lng>
+<geonameId>6693471</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>298</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/East_Kirkby</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.00845</west>
+<north>53.14123</north>
+<east>-0.00545</east>
+<south>53.13944</south>
+</bbox>
+<score>80.28742218017578</score>
+</geoname>
+<geoname>
+<toponymName>East Kirkby</toponymName>
+<name>East Kirkby</name>
+<lat>53.13744</lat>
+<lng>-0.00936</lng>
+<geonameId>7299225</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC042</adminCode4>
+<adminName4>East Kirkby</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.03689</west>
+<north>53.16049</north>
+<east>0.01818</east>
+<south>53.11439</south>
+</bbox>
+<score>69.28915405273438</score>
+</geoname>
+<geoname>
+<toponymName>East Kirkby</toponymName>
+<name>East Kirkby</name>
+<lat>53.08333</lat>
+<lng>-1.25</lng>
+<geonameId>2650404</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UB</adminCode3>
+<adminName3>Ashfield District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.26498</west>
+<north>53.09233</north>
+<east>-1.23502</east>
+<south>53.07434</south>
+</bbox>
+<score>53.02223587036133</score>
+</geoname>
+</geonames>

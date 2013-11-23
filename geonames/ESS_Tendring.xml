@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Tendring</toponymName>
+<name>Tendring</name>
+<lat>51.87873</lat>
+<lng>1.11097</lng>
+<geonameId>7300551</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UN</adminCode3>
+<adminName3>Tendring District</adminName3>
+<adminCode4>22UN022</adminCode4>
+<adminName4>Tendring</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tendring</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.07818</west>
+<north>51.90123</north>
+<east>1.14376</east>
+<south>51.85623</south>
+</bbox>
+<score>59.823448181152344</score>
+</geoname>
+<geoname>
+<toponymName>Tendring</toponymName>
+<name>Tendring</name>
+<lat>51.88333</lat>
+<lng>-1.1</lng>
+<geonameId>2636103</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K2</adminCode2>
+<adminName2>Oxfordshire</adminName2>
+<adminCode3>38UB</adminCode3>
+<adminName3>Cherwell District</adminName3>
+<alternateName lang="unlc">RIG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.11457</west>
+<north>51.89233</north>
+<east>-1.08543</east>
+<south>51.87434</south>
+</bbox>
+<score>49.988075256347656</score>
+</geoname>
+</geonames>

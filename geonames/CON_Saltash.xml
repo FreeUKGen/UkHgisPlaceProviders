@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Saltash</toponymName>
+<name>Saltash</name>
+<lat>50.40333</lat>
+<lng>-4.24672</lng>
+<geonameId>7294642</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE121</adminCode3>
+<adminName3>Saltash</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.29318</west>
+<north>50.43184</north>
+<east>-4.20025</east>
+<south>50.37482</south>
+</bbox>
+<score>99.19786071777344</score>
+</geoname>
+<geoname>
+<toponymName>Saltash</toponymName>
+<name>Saltash</name>
+<lat>50.40959</lat>
+<lng>-4.22514</lng>
+<geonameId>2638651</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>14439</population>
+<alternateNames>Essa,Saltash</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE121</adminCode3>
+<adminName3>Saltash</adminName3>
+<alternateName lang="br">Essa</alternateName>
+<alternateName lang="kw">Essa</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Saltash</alternateName>
+<alternateName lang="unlc">SAT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.24959</west>
+<north>50.42516</north>
+<east>-4.20068</east>
+<south>50.39401</south>
+</bbox>
+<score>97.38491821289062</score>
+</geoname>
+</geonames>

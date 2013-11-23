@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Southam</toponymName>
+<name>Southam</name>
+<lat>52.25266</lat>
+<lng>-1.3884</lng>
+<geonameId>2637488</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6509</population>
+<alternateNames>Southam</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Southam</alternateName>
+<alternateName lang="unlc">SOH</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.40483</west>
+<north>52.26271</north>
+<east>-1.37197</east>
+<south>52.2426</south>
+</bbox>
+<score>98.87407684326172</score>
+</geoname>
+<geoname>
+<toponymName>Southam</toponymName>
+<name>Southam</name>
+<lat>51.92924</lat>
+<lng>-2.04028</lng>
+<geonameId>2637489</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Southam%2C_Gloucestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.05487</west>
+<north>51.93823</north>
+<east>-2.02569</east>
+<south>51.92024</south>
+</bbox>
+<score>77.04306030273438</score>
+</geoname>
+<geoname>
+<toponymName>Southam</toponymName>
+<name>Southam</name>
+<lat>51.92682</lat>
+<lng>-2.02542</lng>
+<geonameId>7296551</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<adminCode4>23UG033</adminCode4>
+<adminName4>Southam</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.07393</west>
+<north>51.95158</north>
+<east>-1.9769</east>
+<south>51.90205</south>
+</bbox>
+<score>73.76485443115234</score>
+</geoname>
+<geoname>
+<toponymName>Southam</toponymName>
+<name>Southam</name>
+<lat>52.24888</lat>
+<lng>-1.38063</lng>
+<geonameId>7301505</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<adminCode4>44UE084</adminCode4>
+<adminName4>Southam</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.41517</west>
+<north>52.26922</north>
+<east>-1.34608</east>
+<south>52.22855</south>
+</bbox>
+<score>73.76485443115234</score>
+</geoname>
+</geonames>

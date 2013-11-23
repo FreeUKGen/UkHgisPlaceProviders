@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Merriott</toponymName>
+<name>Merriott</name>
+<lat>50.91275</lat>
+<lng>-2.79538</lng>
+<geonameId>8299865</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2020</population>
+<alternateNames>Merriott</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD075</adminCode4>
+<adminName4>Merriott</adminName4>
+<alternateName lang="en">Merriott</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Merriott</alternateName>
+<alternateName lang="post">TA16</alternateName>
+<alternateName lang="unlc">MEI</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.80251</west>
+<north>50.91724</north>
+<east>-2.78824</east>
+<south>50.90825</south>
+</bbox>
+<score>95.67549896240234</score>
+</geoname>
+<geoname>
+<toponymName>Merriott</toponymName>
+<name>Merriott</name>
+<lat>50.90823</lat>
+<lng>-2.79016</lng>
+<geonameId>7301225</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD075</adminCode4>
+<adminName4>Merriott</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.81365</west>
+<north>50.93333</north>
+<east>-2.76666</east>
+<south>50.88313</south>
+</bbox>
+<score>78.12191772460938</score>
+</geoname>
+</geonames>

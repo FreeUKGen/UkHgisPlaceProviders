@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Porthleven</toponymName>
+<name>Porthleven</name>
+<lat>50.08868</lat>
+<lng>-5.30569</lng>
+<geonameId>7298049</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE113</adminCode3>
+<adminName3>Porthleven</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.32919</west>
+<north>50.1071</north>
+<east>-5.28219</east>
+<south>50.07026</south>
+</bbox>
+<score>108.94921875</score>
+</geoname>
+<geoname>
+<toponymName>Porthleven</toponymName>
+<name>Porthleven</name>
+<lat>50.08618</lat>
+<lng>-5.31501</lng>
+<geonameId>2640046</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3261</population>
+<alternateNames>Porthleven</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE113</adminCode3>
+<adminName3>Porthleven</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Porthleven</alternateName>
+<alternateName lang="unlc">PLV</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.32493</west>
+<north>50.09254</north>
+<east>-5.3051</east>
+<south>50.07982</south>
+</bbox>
+<score>104.75541687011719</score>
+</geoname>
+</geonames>

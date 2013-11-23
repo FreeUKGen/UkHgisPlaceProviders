@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Great Harrowden</toponymName>
+<name>Great Harrowden</name>
+<lat>52.32718</lat>
+<lng>-0.71456</lng>
+<geonameId>7290992</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UH</adminCode3>
+<adminName3>Wellingborough District</adminName3>
+<adminCode4>34UH007</adminCode4>
+<adminName4>Great Harrowden</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Great_Harrowden</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.74955</west>
+<north>52.33603</north>
+<east>-0.67957</east>
+<south>52.31833</south>
+</bbox>
+<score>54.067142486572266</score>
+</geoname>
+</geonames>

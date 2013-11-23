@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>7</totalResultsCount>
+<geoname>
+<toponymName>Pilton</toponymName>
+<name>Pilton</name>
+<lat>51.16528</lat>
+<lng>-2.58722</lng>
+<geonameId>2640282</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Pilton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pilton%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.60157</west>
+<north>51.17427</north>
+<east>-2.57288</east>
+<south>51.15628</south>
+</bbox>
+<score>88.80287170410156</score>
+</geoname>
+<geoname>
+<toponymName>Pilton</toponymName>
+<name>Pilton</name>
+<lat>51.08333</lat>
+<lng>-4.06667</lng>
+<geonameId>2640283</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Pilton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UE</adminCode3>
+<adminName3>North Devon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pilton%2C_Devon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.08099</west>
+<north>51.09233</north>
+<east>-4.05235</east>
+<south>51.07434</south>
+</bbox>
+<score>88.80287170410156</score>
+</geoname>
+<geoname>
+<toponymName>Pilton</toponymName>
+<name>Pilton</name>
+<lat>51.16717</lat>
+<lng>-2.58842</lng>
+<geonameId>7292387</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UB</adminCode3>
+<adminName3>Mendip District</adminName3>
+<adminCode4>40UB038</adminCode4>
+<adminName4>Pilton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.64107</west>
+<north>51.19201</north>
+<east>-2.53578</east>
+<south>51.14233</south>
+</bbox>
+<score>70.75758361816406</score>
+</geoname>
+<geoname>
+<toponymName>Pilton</toponymName>
+<name>Pilton</name>
+<lat>52.61806</lat>
+<lng>-0.65101</lng>
+<geonameId>7301403</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L4</adminCode2>
+<adminName2>Rutland</adminName2>
+<adminCode3>00FP040</adminCode3>
+<adminName3>Pilton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pilton%2C_Rutland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.66316</west>
+<north>52.62396</north>
+<east>-0.63886</east>
+<south>52.61216</south>
+</bbox>
+<score>62.92338562011719</score>
+</geoname>
+<geoname>
+<toponymName>Pilton</toponymName>
+<name>Pilton</name>
+<lat>52.43333</lat>
+<lng>-0.48333</lng>
+<geonameId>2640281</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.49809</west>
+<north>52.44233</north>
+<east>-0.46858</east>
+<south>52.42434</south>
+</bbox>
+<score>56.28909683227539</score>
+</geoname>
+<geoname>
+<toponymName>East Pilton</toponymName>
+<name>East Pilton</name>
+<lat>55.96667</lat>
+<lng>-3.23333</lng>
+<geonameId>2650355</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>East Pilton,Pilton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U8</adminCode2>
+<adminName2>City of Edinburgh</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/East_Pilton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.23976</west>
+<north>55.97026</north>
+<east>-3.2269</east>
+<south>55.96307</south>
+</bbox>
+<score>48.72520446777344</score>
+</geoname>
+<geoname>
+<toponymName>Pilton</toponymName>
+<name>Pilton</name>
+<lat>52.45684</lat>
+<lng>-0.51968</lng>
+<geonameId>7296108</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UD</adminCode3>
+<adminName3>East Northamptonshire District</adminName3>
+<adminCode4>34UD037</adminCode4>
+<adminName4>Pilton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Pilton%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.55511</west>
+<north>52.47206</north>
+<east>-0.48425</east>
+<south>52.44161</south>
+</bbox>
+<score>48.454898834228516</score>
+</geoname>
+</geonames>

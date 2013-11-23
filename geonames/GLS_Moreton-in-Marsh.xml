@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Moreton in Marsh</toponymName>
+<name>Moreton in Marsh</name>
+<lat>51.98964</lat>
+<lng>-1.70297</lng>
+<geonameId>2642200</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3269</population>
+<alternateNames>Moreton in Marsh,Moreton in the Marsh</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<alternateName lang="unlc">MIM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.7133</west>
+<north>51.996</north>
+<east>-1.69264</east>
+<south>51.98328</south>
+</bbox>
+<score>74.66634368896484</score>
+</geoname>
+<geoname>
+<toponymName>Moreton-in-Marsh</toponymName>
+<name>Moreton-in-Marsh</name>
+<lat>51.98728</lat>
+<lng>-1.69592</lng>
+<geonameId>7298574</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<adminCode4>23UC071</adminCode4>
+<adminName4>Moreton-in-Marsh</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Moreton-in-Marsh</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.72608</west>
+<north>52.00154</north>
+<east>-1.66577</east>
+<south>51.97302</south>
+</bbox>
+<score>56.96706008911133</score>
+</geoname>
+</geonames>

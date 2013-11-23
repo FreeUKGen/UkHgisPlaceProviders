@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Aberdare</toponymName>
+<name>Aberdare</name>
+<lat>51.71438</lat>
+<lng>-3.44918</lng>
+<geonameId>2657835</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>32756</population>
+<alternateNames>Aberdar,Aberdare,Aberdare - Aberdar,Aberdare - Aberdâr,Aberdehjr,Aberdehr,Aberder,Aberderas,Aberdâr,Aburdeur,aebeodeeo,Абердер,Абердэйр,Абердэр,Абърдеър,애버데어</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y9</adminCode2>
+<adminName2>County Borough of Rhondda Cynon Taff</adminName2>
+<adminCode3>00PF003</adminCode3>
+<adminName3>Aberdare</adminName3>
+<alternateName lang="bg">Абърдеър</alternateName>
+<alternateName lang="cy">Aberdâr</alternateName>
+<alternateName lang="da">Aberdare</alternateName>
+<alternateName lang="de">Aberdare</alternateName>
+<alternateName lang="en">Aberdare</alternateName>
+<alternateName lang="gl">Aberdare - Aberdâr</alternateName>
+<alternateName lang="ko">애버데어</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aberdare</alternateName>
+<alternateName lang="lt">Aberderas</alternateName>
+<alternateName lang="nb">Aberdare</alternateName>
+<alternateName lang="nl">Aberdare</alternateName>
+<alternateName lang="no">Aberdare</alternateName>
+<alternateName lang="pl">Aberdare</alternateName>
+<alternateName lang="pt">Aberdare</alternateName>
+<alternateName lang="ru">Абердэр</alternateName>
+<alternateName lang="sv">Aberdare</alternateName>
+<alternateName lang="uk">Абердер</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.48692</west>
+<north>51.73774</north>
+<east>-3.41145</east>
+<south>51.69101</south>
+</bbox>
+<score>154.63461303710938</score>
+</geoname>
+<geoname>
+<toponymName>Aberdare</toponymName>
+<name>Aberdare</name>
+<lat>51.71454</lat>
+<lng>-3.46558</lng>
+<geonameId>7292206</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y9</adminCode2>
+<adminName2>County Borough of Rhondda Cynon Taff</adminName2>
+<adminCode3>00PF003</adminCode3>
+<adminName3>Aberdare</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.52569</west>
+<north>51.74228</north>
+<east>-3.40547</east>
+<south>51.68679</south>
+</bbox>
+<score>101.31477355957031</score>
+</geoname>
+</geonames>

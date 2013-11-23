@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Llantrisant</toponymName>
+<name>Llantrisant</name>
+<lat>51.55653</lat>
+<lng>-3.37392</lng>
+<geonameId>7292209</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y9</adminCode2>
+<adminName2>County Borough of Rhondda Cynon Taff</adminName2>
+<adminCode3>00PF012</adminCode3>
+<adminName3>Llantrisant</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.41302</west>
+<north>51.58551</north>
+<east>-3.33482</east>
+<south>51.52756</south>
+</bbox>
+<score>94.62385559082031</score>
+</geoname>
+<geoname>
+<toponymName>Llantrisant</toponymName>
+<name>Llantrisant</name>
+<lat>51.54028</lat>
+<lng>-3.37389</lng>
+<geonameId>2643937</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>11001</population>
+<alternateNames>Lantrisant,Llantrisant,Llantrissant,Лантрисант</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y9</adminCode2>
+<adminName2>County Borough of Rhondda Cynon Taff</adminName2>
+<adminCode3>00PF012</adminCode3>
+<adminName3>Llantrisant</adminName3>
+<alternateName lang="bg">Лантрисант</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llantrisant</alternateName>
+<alternateName lang="unlc">LLT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.39559</west>
+<north>51.55377</north>
+<east>-3.35219</east>
+<south>51.52679</south>
+</bbox>
+<score>82.99946594238281</score>
+</geoname>
+<geoname>
+<toponymName>Llantrisant</toponymName>
+<name>Llantrisant</name>
+<lat>53.31667</lat>
+<lng>-4.48333</lng>
+<geonameId>2643936</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llantrisaint,Llantrisant</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y2</adminCode2>
+<adminName2>Caernarfonshire and Merionethshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.49839</west>
+<north>53.32566</north>
+<east>-4.46828</east>
+<south>53.30767</south>
+</bbox>
+<score>77.6451416015625</score>
+</geoname>
+<geoname>
+<toponymName>Llantrisant</toponymName>
+<name>Llantrisant</name>
+<lat>51.66667</lat>
+<lng>-2.88472</lng>
+<geonameId>2643935</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llantrisant,Llantrissent</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.89923</west>
+<north>51.67566</north>
+<east>-2.87022</east>
+<south>51.65767</south>
+</bbox>
+<score>68.17062377929688</score>
+</geoname>
+</geonames>

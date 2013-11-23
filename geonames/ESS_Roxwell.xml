@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Roxwell</toponymName>
+<name>Roxwell</name>
+<lat>51.75156</lat>
+<lng>0.3807</lng>
+<geonameId>2639028</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UF</adminCode3>
+<adminName3>Chelmsford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Roxwell</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.36617</west>
+<north>51.76055</north>
+<east>0.39523</east>
+<south>51.74256</south>
+</bbox>
+<score>89.28459930419922</score>
+</geoname>
+<geoname>
+<toponymName>Roxwell</toponymName>
+<name>Roxwell</name>
+<lat>51.74924</lat>
+<lng>0.3782</lng>
+<geonameId>7296238</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UF</adminCode3>
+<adminName3>Chelmsford District</adminName3>
+<adminCode4>22UF018</adminCode4>
+<adminName4>Roxwell</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.34109</west>
+<north>51.77622</north>
+<east>0.41532</east>
+<south>51.72226</south>
+</bbox>
+<score>79.62020874023438</score>
+</geoname>
+</geonames>

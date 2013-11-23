@@ -1,0 +1,53 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>2340</id>
+<name>WEETING</name>
+<container>NORFOLK</container>
+<lat>52.4733648491401</lat>
+<lon>0.625790083074657</lon>
+<gazetteerText>WEETING-WITH-BROOMHILL, a parish in Thetford district, Norfolk; 1&#189; mile N by W of Brandon r. station. It has a post-office under Brandon. Acres, 6,187. Real property, &#163;2,265. Pop., 365. Houses, 75. W. Hall is the seat of W. Angerstein, Esq. A castle was built, on a site within the park, by Earl de Warenne; and is now represented by some ruins. Broomhill priory belonged to Cardinal Wolsey; passed to Christ&apos;s College, Cambridge; and was purchased by the Angersteins. The living is a double rectory in the diocese of Norwich. Value, &#163;503. Patron, Gonville and Cains College, Cambridge. There were two churches; and one of them is still good, but the other is a ruin. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Weeting</link>
+<link>http://www.origins.org.uk/genuki/NFK/places/w/weeting/</link>
+<link>http://www.geonames.org/2634603</link>
+</links>
+<unit>
+   <id>10050753</id>
+   <status>CP</status>
+   <name>WEETING WITH BROMEHILL</name>
+</unit>
+<unit>
+   <id>10068307</id>
+   <status>AP</status>
+   <name>WEETING ST MARY</name>
+</unit>
+<unit>
+   <id>10105997</id>
+   <status>AP</status>
+   <name>WEETING ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10189214</id>
+   <status>EP</status>
+   <name>WEETING ALL SAINTS WITH ST MARY</name>
+</unit>
+<unit>
+   <id>10218275</id>
+   <status>AP</status>
+   <name>WEETING</name>
+</unit>
+<nearByPlace>
+   <id>5139</id>
+   <name>SANTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5884</id>
+   <name>MUNDFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6191</id>
+   <name>CRANWICH</name>
+</nearByPlace>
+</place>
+</results>

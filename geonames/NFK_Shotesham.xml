@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Shotesham</toponymName>
+<name>Shotesham</name>
+<lat>52.53185</lat>
+<lng>1.30939</lng>
+<geonameId>7299039</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH089</adminCode4>
+<adminName4>Shotesham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shotesham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.26802</west>
+<north>52.55788</north>
+<east>1.35076</east>
+<south>52.50583</south>
+</bbox>
+<score>58.20629119873047</score>
+</geoname>
+<geoname>
+<toponymName>Shotesham All Saints</toponymName>
+<name>Shotesham All Saints</name>
+<lat>52.53333</lat>
+<lng>1.31667</lng>
+<geonameId>2637910</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Shotesham All Saints,Shottesham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.30188</west>
+<north>52.54233</north>
+<east>1.33145</east>
+<south>52.52434</south>
+</bbox>
+<score>32.187110900878906</score>
+</geoname>
+</geonames>

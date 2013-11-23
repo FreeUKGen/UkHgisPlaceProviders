@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Papworth Everard</toponymName>
+<name>Papworth Everard</name>
+<lat>52.24893</lat>
+<lng>-0.11827</lng>
+<geonameId>2640624</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2057</population>
+<alternateNames>Papworth,Papworth Everard</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Papworth_Everard</alternateName>
+<alternateName lang="unlc">PEV</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.12562</west>
+<north>52.25343</north>
+<east>-0.11093</east>
+<south>52.24443</south>
+</bbox>
+<score>102.95780944824219</score>
+</geoname>
+<geoname>
+<toponymName>Papworth Everard</toponymName>
+<name>Papworth Everard</name>
+<lat>52.24505</lat>
+<lng>-0.11651</lng>
+<geonameId>7301653</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<adminCode4>12UG078</adminCode4>
+<adminName4>Papworth Everard</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.13256</west>
+<north>52.26226</north>
+<east>-0.10045</east>
+<south>52.22785</south>
+</bbox>
+<score>78.32440185546875</score>
+</geoname>
+</geonames>

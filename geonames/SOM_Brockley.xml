@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Brockley</toponymName>
+<name>Brockley</name>
+<lat>51.40357</lat>
+<lng>-2.76457</lng>
+<geonameId>7291919</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC007</adminCode3>
+<adminName3>Brockley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.78736</west>
+<north>51.41578</north>
+<east>-2.74179</east>
+<south>51.39136</south>
+</bbox>
+<score>98.06463623046875</score>
+</geoname>
+<geoname>
+<toponymName>Brockley</toponymName>
+<name>Brockley</name>
+<lat>52.16919</lat>
+<lng>0.6613</lng>
+<geonameId>7291859</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UF</adminCode3>
+<adminName3>St. Edmundsbury District</adminName3>
+<adminCode4>42UF010</adminCode4>
+<adminName4>Brockley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.63646</west>
+<north>52.1824</north>
+<east>0.68615</east>
+<south>52.15598</south>
+</bbox>
+<score>70.74005889892578</score>
+</geoname>
+<geoname>
+<toponymName>Brockley</toponymName>
+<name>Brockley</name>
+<lat>51.4</lat>
+<lng>-2.76667</lng>
+<geonameId>2654608</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC007</adminCode3>
+<adminName3>Brockley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brockley%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.79551</west>
+<north>51.41799</north>
+<east>-2.73782</east>
+<south>51.38201</south>
+</bbox>
+<score>62.927059173583984</score>
+</geoname>
+<geoname>
+<toponymName>Brockley Green</toponymName>
+<name>Brockley Green</name>
+<lat>52.16667</lat>
+<lng>0.66667</lng>
+<geonameId>2654607</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Brockley,Brockley Green</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UF</adminCode3>
+<adminName3>St. Edmundsbury District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brockley%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.652</west>
+<north>52.17566</north>
+<east>0.68133</east>
+<south>52.15767</south>
+</bbox>
+<score>59.04651641845703</score>
+</geoname>
+</geonames>

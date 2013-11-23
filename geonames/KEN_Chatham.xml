@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Chatham</toponymName>
+<name>Chatham</name>
+<lat>51.37891</lat>
+<lng>0.52786</lng>
+<geonameId>2653305</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>75509</population>
+<alternateNames>Catamas,Chatam,Chatem,Chatham,Chatham i Kent,Čatamas,Чатам,Чатем</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chatham%2C_Kent</alternateName>
+<alternateName lang="lt">Čatamas</alternateName>
+<alternateName lang="nn">Chatham i Kent</alternateName>
+<alternateName lang="ru">Чатем</alternateName>
+<alternateName lang="sr">Чатам</alternateName>
+<alternateName lang="unlc">CTM</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.47109</west>
+<north>51.41431</north>
+<east>0.58463</east>
+<south>51.3435</south>
+</bbox>
+<score>91.35588073730469</score>
+</geoname>
+</geonames>

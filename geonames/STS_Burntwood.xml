@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Burntwood</toponymName>
+<name>Burntwood</name>
+<lat>52.68075</lat>
+<lng>-1.92759</lng>
+<geonameId>2654252</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>29766</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UD</adminCode3>
+<adminName3>Lichfield District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Burntwood</alternateName>
+<alternateName lang="unlc">BUW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.96394</west>
+<north>52.70278</north>
+<east>-1.89123</east>
+<south>52.65872</south>
+</bbox>
+<score>118.11787414550781</score>
+</geoname>
+<geoname>
+<toponymName>Burntwood</toponymName>
+<name>Burntwood</name>
+<lat>52.67658</lat>
+<lng>-1.90676</lng>
+<geonameId>7290762</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UD</adminCode3>
+<adminName3>Lichfield District</adminName3>
+<adminCode4>41UD003</adminCode4>
+<adminName4>Burntwood</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.96323</west>
+<north>52.69689</north>
+<east>-1.85028</east>
+<south>52.65628</south>
+</bbox>
+<score>74.47203826904297</score>
+</geoname>
+</geonames>

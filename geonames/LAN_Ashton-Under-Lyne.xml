@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Ashton-under-Lyne</toponymName>
+<name>Ashton-under-Lyne</name>
+<lat>53.48876</lat>
+<lng>-2.0989</lng>
+<geonameId>2656915</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>43675</population>
+<alternateNames>Ashton,Ashton-under-Lyne,Ehshton-ander-Lajn,Эштон-андер-Лайн</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>O1</adminCode2>
+<adminName2>Tameside</adminName2>
+<alternateName lang="en">Ashton-under-Lyne</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ashton-under-Lyne</alternateName>
+<alternateName lang="nl">Ashton-under-Lyne</alternateName>
+<alternateName lang="ru">Эштон-андер-Лайн</alternateName>
+<alternateName lang="unlc">ASL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.14428</west>
+<north>53.51574</north>
+<east>-2.05353</east>
+<south>53.46178</south>
+</bbox>
+<score>115.99296569824219</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Newburn</toponymName>
+<name>Newburn</name>
+<lat>54.9876</lat>
+<lng>-1.74415</lng>
+<geonameId>2641690</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>41347</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I7</adminCode2>
+<adminName2>Newcastle upon Tyne</adminName2>
+<adminCode3>00EM073</adminCode3>
+<adminName3>GB.ENG.I7.00EM073</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Newburn</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.78988</west>
+<north>55.01382</north>
+<east>-1.69842</east>
+<south>54.96138</south>
+</bbox>
+<score>129.67193603515625</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Thornton Curtis</toponymName>
+<name>Thornton Curtis</name>
+<lat>53.64568</lat>
+<lng>-0.35604</lng>
+<geonameId>2635965</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Thornton Curtis</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD047</adminCode3>
+<adminName3>Thornton Curtis</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thornton_Curtis</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.37122</west>
+<north>53.65467</north>
+<east>-0.34087</east>
+<south>53.63669</south>
+</bbox>
+<score>93.46509552001953</score>
+</geoname>
+<geoname>
+<toponymName>Thornton Curtis</toponymName>
+<name>Thornton Curtis</name>
+<lat>53.64852</lat>
+<lng>-0.37541</lng>
+<geonameId>7296125</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD047</adminCode3>
+<adminName3>Thornton Curtis</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.44745</west>
+<north>53.66812</north>
+<east>-0.30338</east>
+<south>53.62891</south>
+</bbox>
+<score>91.48207092285156</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Laceby</toponymName>
+<name>Laceby</name>
+<lat>53.54092</lat>
+<lng>-0.1683</lng>
+<geonameId>2645080</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2952</population>
+<alternateNames>Laceby</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC015</adminCode3>
+<adminName3>Laceby</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Laceby</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.17901</west>
+<north>53.54728</north>
+<east>-0.1576</east>
+<south>53.53456</south>
+</bbox>
+<score>114.49139404296875</score>
+</geoname>
+<geoname>
+<toponymName>Laceby</toponymName>
+<name>Laceby</name>
+<lat>53.53796</lat>
+<lng>-0.16581</lng>
+<geonameId>7298231</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC015</adminCode3>
+<adminName3>Laceby</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.19604</west>
+<north>53.55526</north>
+<east>-0.13559</east>
+<south>53.52066</south>
+</bbox>
+<score>109.3502197265625</score>
+</geoname>
+</geonames>

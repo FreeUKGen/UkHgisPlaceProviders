@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Graveley</toponymName>
+<name>Graveley</name>
+<lat>52.26049</lat>
+<lng>-0.17295</lng>
+<geonameId>2648194</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Graveley%2C_Cambridgeshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.18765</west>
+<north>52.26948</north>
+<east>-0.15825</east>
+<south>52.25149</south>
+</bbox>
+<score>74.6540298461914</score>
+</geoname>
+<geoname>
+<toponymName>Graveley</toponymName>
+<name>Graveley</name>
+<lat>51.93606</lat>
+<lng>-0.2105</lng>
+<geonameId>2648195</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UF</adminCode3>
+<adminName3>North Hertfordshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Graveley%2C_Hertfordshire</alternateName>
+<alternateName lang="unlc">GV2</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.22509</west>
+<north>51.94506</north>
+<east>-0.19591</east>
+<south>51.92707</south>
+</bbox>
+<score>74.6540298461914</score>
+</geoname>
+<geoname>
+<toponymName>Graveley</toponymName>
+<name>Graveley</name>
+<lat>51.93917</lat>
+<lng>-0.18804</lng>
+<geonameId>7293711</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UF</adminCode3>
+<adminName3>North Hertfordshire District</adminName3>
+<adminCode4>26UF008</adminCode4>
+<adminName4>Graveley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.22081</west>
+<north>51.95818</north>
+<east>-0.15527</east>
+<south>51.92016</south>
+</bbox>
+<score>71.72962188720703</score>
+</geoname>
+<geoname>
+<toponymName>Graveley</toponymName>
+<name>Graveley</name>
+<lat>52.26568</lat>
+<lng>-0.16308</lng>
+<geonameId>7294289</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C3</adminCode2>
+<adminName2>Cambridgeshire</adminName2>
+<adminCode3>12UG</adminCode3>
+<adminName3>South Cambridgeshire District</adminName3>
+<adminCode4>12UG035</adminCode4>
+<adminName4>Graveley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.18415</west>
+<north>52.28357</north>
+<east>-0.14201</east>
+<south>52.24779</south>
+</bbox>
+<score>71.72962188720703</score>
+</geoname>
+</geonames>

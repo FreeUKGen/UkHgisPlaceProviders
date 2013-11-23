@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Trowbridge</toponymName>
+<name>Trowbridge</name>
+<lat>51.31956</lat>
+<lng>-2.20452</lng>
+<geonameId>7300371</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY226</adminCode3>
+<adminName3>Trowbridge</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.23556</west>
+<north>51.33751</north>
+<east>-2.17347</east>
+<south>51.3016</south>
+</bbox>
+<score>94.14875030517578</score>
+</geoname>
+<geoname>
+<toponymName>Trowbridge</toponymName>
+<name>Trowbridge</name>
+<lat>51.31889</lat>
+<lng>-2.20861</lng>
+<geonameId>2635427</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>36922</population>
+<alternateNames>Troubridzh,Troubridzhe,Trowbridge,teulobeuliji,trwbrydj,Троубридж,Троубридже,تروبريدج,트로브리지</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<alternateName lang="ar">تروبريدج</alternateName>
+<alternateName lang="de">Trowbridge</alternateName>
+<alternateName lang="en">Trowbridge</alternateName>
+<alternateName lang="fr">Trowbridge</alternateName>
+<alternateName lang="ko">트로브리지</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Trowbridge</alternateName>
+<alternateName lang="no">Trowbridge</alternateName>
+<alternateName lang="ru">Троубридж</alternateName>
+<alternateName lang="unlc">TBG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.24804</west>
+<north>51.34352</north>
+<east>-2.16918</east>
+<south>51.29426</south>
+</bbox>
+<score>91.15665435791016</score>
+</geoname>
+<geoname>
+<toponymName>Trowbridge</toponymName>
+<name>Trowbridge</name>
+<lat>51.50568</lat>
+<lng>-3.09635</lng>
+<geonameId>7299812</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X5</adminCode2>
+<adminName2>City and County of Cardiff</adminName2>
+<adminCode3>00PT030</adminCode3>
+<adminName3>Trowbridge</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Trowbridge%2C_Cardiff</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.1238</west>
+<north>51.53588</north>
+<east>-3.0689</east>
+<south>51.47548</south>
+</bbox>
+<score>61.494178771972656</score>
+</geoname>
+</geonames>

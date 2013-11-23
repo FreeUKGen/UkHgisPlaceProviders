@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Upper Slaughter</toponymName>
+<name>Upper Slaughter</name>
+<lat>51.90721</lat>
+<lng>-1.77549</lng>
+<geonameId>2635108</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Slaughter,Upper Slaughter</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Upper_Slaughter</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.79007</west>
+<north>51.91621</north>
+<east>-1.76091</east>
+<south>51.89822</south>
+</bbox>
+<score>85.2150650024414</score>
+</geoname>
+<geoname>
+<toponymName>Upper Slaughter</toponymName>
+<name>Upper Slaughter</name>
+<lat>51.91086</lat>
+<lng>-1.7776</lng>
+<geonameId>7300590</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<adminCode4>23UC103</adminCode4>
+<adminName4>Upper Slaughter</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.8139</west>
+<north>51.93258</north>
+<east>-1.74129</east>
+<south>51.88914</south>
+</bbox>
+<score>69.27725219726562</score>
+</geoname>
+</geonames>

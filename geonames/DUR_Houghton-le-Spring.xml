@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Houghton-le-Spring</toponymName>
+<name>Houghton-le-Spring</name>
+<lat>54.84034</lat>
+<lng>-1.46427</lng>
+<geonameId>2646525</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>37840</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Houghton-le-Spring</alternateName>
+<alternateName lang="unlc">HLS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.50778</west>
+<north>54.86538</north>
+<east>-1.42077</east>
+<south>54.81531</south>
+</bbox>
+<score>112.00186920166016</score>
+</geoname>
+</geonames>

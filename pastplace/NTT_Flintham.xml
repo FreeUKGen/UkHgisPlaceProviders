@@ -1,0 +1,66 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>7400</id>
+<name>FLINTHAM</name>
+<container>NOTTINGHAMSHIRE</container>
+<lat>53.0094918933003</lat>
+<lon>-0.900664680513943</lon>
+<gazetteerText>FLINTHAM, a parish in Bingham district, Notts; on the Fosse way and the river Trent, at Hazleford ferry, 3&#189; miles ESE of Thurgarton r. station, and 6&#189; SW of Newark. It has a post office under Newark. Acres, 2, 450. Real property, &#163;4, 927. Pop., 524. Houses, 119. The manor belongs to T. B. Thoroton Hildyard, Esq. Flintham Hall succeeded an ancient mansion of the Hoses, and was the seat of the Hackers, the Disneys, and the Thorotons. The living is a vicarage in the diocese of Lincoln. Value, &#163;364.* Patron, Trinity College, Cambridge. The church was mainly rebuilt in 1828, but retains the chancel and the tower of a previous church, which was cruciform. There is a Wesleyan chapel. An endowed school has &#163;24; and other charities have &#163;46. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/NTT/Flintham/index.html</link>
+<link>http://en.wikipedia.org/wiki/Flintham</link>
+<link>http://www.geonames.org/2649300</link>
+</links>
+<unit>
+   <id>10261053</id>
+   <status>AP/CP</status>
+   <name>FLINTHAM</name>
+</unit>
+<unit>
+   <id>10261107</id>
+   <status>EP</status>
+   <name>FLINTHAM</name>
+</unit>
+<nearByPlace>
+   <id>7261</id>
+   <name>BLEASBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7276</id>
+   <name>EAST BRIDGFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7343</id>
+   <name>CAR COLSTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7376</id>
+   <name>ELSTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7416</id>
+   <name>GONALSTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7441</id>
+   <name>HAWKSWORTH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7462</id>
+   <name>HOVERINGAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7751</id>
+   <name>SCREVETON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7756</id>
+   <name>SIBTHORPE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>7810</id>
+   <name>WHATTON</name>
+</nearByPlace>
+</place>
+</results>

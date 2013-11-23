@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Banff</toponymName>
+<name>Banff</name>
+<lat>57.66477</lat>
+<lng>-2.52964</lng>
+<geonameId>2656402</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3914</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T6</adminCode2>
+<adminName2>Aberdeenshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Banff%2C_Aberdeenshire</alternateName>
+<alternateName lang="unlc">BFF</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.5442</west>
+<north>57.67256</north>
+<east>-2.51507</east>
+<south>57.65699</south>
+</bbox>
+<score>87.71456909179688</score>
+</geoname>
+<geoname>
+<toponymName>Banffshire</toponymName>
+<name>Banffshire</name>
+<lat>57.5</lat>
+<lng>-3.08333</lng>
+<geonameId>2656399</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Banff,Banff County,County of Banff</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V6</adminCode2>
+<adminName2>Moray</adminName2>
+<adminCode3>2656399</adminCode3>
+<adminName3>Banffshire</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Banffshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>48.075531005859375</score>
+</geoname>
+</geonames>

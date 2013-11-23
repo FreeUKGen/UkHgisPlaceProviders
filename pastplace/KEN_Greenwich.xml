@@ -1,0 +1,330 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>167</id>
+<name>GREENWICH</name>
+<container>KENT</container>
+<lat>51.480791105433</lat>
+<lon>-0.00524532841999729</lon>
+<gazetteerText>Greenwich, parl. bor. and par., Kent, on river Thames, 4 miles SE. of London Bridge by rail -- par., 1741 ac., pop. 46,580; parl. bor. (which includes the pars. of Greenwich, Deptford St Nicholas, Charlton next Woolwich, and Kidbrooke), 3838 ac., pop. 65,411; 1 Bank. Market-days, Wednesday and Saturday. Greenwich posseses several important mfrs. including telegraph works, engineering works, chemical works, &amp;c. The Royal Observatory has a world-wide celebrity; English geographers calculate longitude from its meridian. Greenwich Hospital, now the Royal Naval College, is a splendid edifice built upon the site of a royal palace which was the birthplace of Henry VIII., Queen Mary, and Queen Elizabeth. The bor. returns 1 member to Parliament; it returned 2 members until 1885, when its parl. limits were reduced by the formation of the new parl. boroughs of Deptford and Woolwich. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Greenwich</link>
+<link>http://www.nwkfhs.org.uk/GRNW_plc.htm</link>
+<link>http://www.workhouses.org.uk/Greenwich</link>
+<link>http://www.geonames.org/2647937</link>
+</links>
+<unit>
+   <id>10234037</id>
+   <status>CP</status>
+   <name>BOROUGH OF GREENWICH</name>
+</unit>
+<unit>
+   <id>10234049</id>
+   <status>LB</status>
+   <name>GREENWICH</name>
+</unit>
+<unit>
+   <id>10025825</id>
+   <status>MetB</status>
+   <name>GREENWICH</name>
+</unit>
+<unit>
+   <id>12835292</id>
+   <status></status>
+   <name>GREENWICH</name>
+</unit>
+<unit>
+   <id>10193576</id>
+   <status>EP</status>
+   <name>EAST GREENWICH ST ANDREW AND ST MICHAEL</name>
+</unit>
+<unit>
+   <id>10574092</id>
+   <status></status>
+   <name>GREENWICH AND DEPTFORD</name>
+</unit>
+<unit>
+   <id>10060692</id>
+   <status>EP</status>
+   <name>GREENWICH ST PETER</name>
+</unit>
+<unit>
+   <id>10154133</id>
+   <status>Lon_SDist</status>
+   <name>GREENWICH</name>
+</unit>
+<unit>
+   <id>10574080</id>
+   <status></status>
+   <name>GREENWICH</name>
+</unit>
+<unit>
+   <id>10040772</id>
+   <status>EP</status>
+   <name>EAST GREENWICH CHRIST CHURCH</name>
+</unit>
+<unit>
+   <id>10092322</id>
+   <status>EP</status>
+   <name>GREENWICH ST PAUL</name>
+</unit>
+<unit>
+   <id>10171880</id>
+   <status></status>
+   <name>GREENWICH</name>
+</unit>
+<unit>
+   <id>10139946</id>
+   <status>RegD/PLU</status>
+   <name>GREENWICH</name>
+</unit>
+<unit>
+   <id>10151776</id>
+   <status>EP</status>
+   <name>WEST GREENWICH</name>
+</unit>
+<unit>
+   <id>12742757</id>
+   <status>BCon</status>
+   <name>GREENWICH AND WOOLWICH</name>
+</unit>
+<unit>
+   <id>12755983</id>
+   <status>PBCon/BCon</status>
+   <name>GREENWICH</name>
+</unit>
+<unit>
+   <id>10081210</id>
+   <status>AP/CP</status>
+   <name>GREENWICH</name>
+</unit>
+<unit>
+   <id>10539493</id>
+   <status></status>
+   <name>GREENWICH EAST</name>
+</unit>
+<unit>
+   <id>10539500</id>
+   <status></status>
+   <name>GREENWICH WEST</name>
+</unit>
+<unit>
+   <id>10099535</id>
+   <status>EP</status>
+   <name>GREENWICH</name>
+</unit>
+<unit>
+   <id>12758613</id>
+   <status>PBCon</status>
+   <name>GREENWICH</name>
+</unit>
+<unit>
+   <id>12780564</id>
+   <status></status>
+   <name>LONDON/GREENWICH</name>
+</unit>
+<unit>
+   <id>10172329</id>
+   <status>EP</status>
+   <name>EAST GREENWICH CHRIST CHURCH WITH ST ANDREW AND ST MICHAEL</name>
+</unit>
+<unit>
+   <id>10040760</id>
+   <status>EP</status>
+   <name>GREENWICH ST ALFEGE WITH ST PETER</name>
+</unit>
+<unit>
+   <id>10172317</id>
+   <status>EP</status>
+   <name>GREENWICH HOLY TRINITY AND ST PAUL</name>
+</unit>
+<unit>
+   <id>10583275</id>
+   <status></status>
+   <name>GREENWICH</name>
+</unit>
+<unit>
+   <id>12845479</id>
+   <status>AD_Town</status>
+   <name>GREENWICH</name>
+</unit>
+<nearByPlace>
+   <id>6511</id>
+   <name>CHARLTON</name>
+</nearByPlace>
+</place>
+<place>
+<id>1000</id>
+<name>WOOLWICH</name>
+<container>KENT</container>
+<lat>51.4938724024965</lat>
+<lon>0.07024772237403</lon>
+<gazetteerText>Woolwich, parl. bor., town, and par., Kent, on river Thames, 8 miles E. of London by rail - par., 1126 ac., pop. 36,665; bor. (including also the township of Eltham and the par. of Plumstead), 8296 ac., pop. 74,963; 3 Banks, 4 newspapers. The chief feature of Woolwich is the arsenal, one of the most extensive and complete establishments of the kind in the world. It is 4 miles in circumference, and is divided into the carriage, gun factory, laboratory, saddlery, and ordnance departments. The arsenal was transferred from Moorfields to Woolwich in 1716. The dockyard dates from the reign of Henry VIII., but it never attained to first rank among English naval yards. Almost the only buildings of interest are the military establishments, such as the military academy, the Rotunda or military museum, the barracks of the artillery and of the marine and royal engineers, the soldiers&apos; home, the ordnance hospital, and the Herbert hospital on the W. slope of Shooter&apos;s Hill. Military exercises and reviews are held on Woolwich Common; and at the practice range, on the marshes to the E., all cannon and new inventions in artillery are proved. There is a ferry from Woolwich pier to North Woolwich. Woolwich returns 1 member to Parliament; it was made a parliamentary borough in 1885, prior to which it was mostly included in the old parliamentary limits of Greenwich. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.nwkfhs.org.uk/WOOL_plc.htm</link>
+<link>http://en.wikipedia.org/wiki/Woolwich</link>
+<link>http://www.workhouses.org.uk/Woolwich</link>
+<link>http://www.geonames.org/2633583</link>
+</links>
+<unit>
+   <id>10187590</id>
+   <status>RegD/PLU</status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>10193904</id>
+   <status>MetB</status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>10229194</id>
+   <status>EP</status>
+   <name>WOOLWICH HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10229200</id>
+   <status>EP</status>
+   <name>WOOLWICH ST JOHN</name>
+</unit>
+<unit>
+   <id>10229224</id>
+   <status>EP</status>
+   <name>WOOLWICH ST MARY WITH HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>10229236</id>
+   <status>EP</status>
+   <name>WOOLWICH ST MICHAEL AND ALL ANGELS</name>
+</unit>
+<unit>
+   <id>10229250</id>
+   <status>EP</status>
+   <name>WOOLWICH ST THOMAS</name>
+</unit>
+<unit>
+   <id>10230032</id>
+   <status>Vest/CP/AP</status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>10230044</id>
+   <status>EP</status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>10235698</id>
+   <status>CP</status>
+   <name>BOROUGH OF WOOLWICH</name>
+</unit>
+<unit>
+   <id>10539432</id>
+   <status></status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>10564761</id>
+   <status></status>
+   <name>WOOLWICH ARSENAL</name>
+</unit>
+<unit>
+   <id>10564773</id>
+   <status></status>
+   <name>WOOLWICH DOCKYARD</name>
+</unit>
+<unit>
+   <id>10594133</id>
+   <status></status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>12738730</id>
+   <status>PBCon</status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>12742745</id>
+   <status>BCon</status>
+   <name>GREENWICH WOOLWICH EAST</name>
+</unit>
+<unit>
+   <id>12749235</id>
+   <status>BCon/PBDivCon</status>
+   <name>WOOLWICH EAST</name>
+</unit>
+<unit>
+   <id>12753512</id>
+   <status>BCon</status>
+   <name>GREENWICH WOOLWICH WEST</name>
+</unit>
+<unit>
+   <id>12754826</id>
+   <status>BCon/PBDivCon</status>
+   <name>WOOLWICH WEST</name>
+</unit>
+<unit>
+   <id>12756460</id>
+   <status>BCon</status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>12780606</id>
+   <status></status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>12828512</id>
+   <status>Lon_SDist</status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>12829589</id>
+   <status></status>
+   <name>WOOLWICH</name>
+</unit>
+<unit>
+   <id>12845510</id>
+   <status>AD_Town</status>
+   <name>WOOLWICH</name>
+</unit>
+<nearByPlace>
+   <id>167</id>
+   <name>GREENWICH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>441</id>
+   <name>CHISLEHURST</name>
+</nearByPlace>
+<nearByPlace>
+   <id>576</id>
+   <name>BEXLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>967</id>
+   <name>DARTFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1014</id>
+   <name>ERITH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1024</id>
+   <name>TONBRIDGE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1190</id>
+   <name>CRAYFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1191</id>
+   <name>SIDCUP</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2067</id>
+   <name>ELTHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6317</id>
+   <name>PLUMSTEAD</name>
+</nearByPlace>
+</place>
+</results>

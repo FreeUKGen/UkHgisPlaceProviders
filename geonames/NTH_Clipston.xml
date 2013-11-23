@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Clipston</toponymName>
+<name>Clipston</name>
+<lat>52.42841</lat>
+<lng>-0.95443</lng>
+<geonameId>2652822</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clipston%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.96918</west>
+<north>52.4374</north>
+<east>-0.93967</east>
+<south>52.41941</south>
+</bbox>
+<score>82.26052856445312</score>
+</geoname>
+<geoname>
+<toponymName>Clipston</toponymName>
+<name>Clipston</name>
+<lat>52.4324</lat>
+<lng>-0.96472</lng>
+<geonameId>7301945</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UC</adminCode3>
+<adminName3>Daventry District</adminName3>
+<adminCode4>34UC018</adminCode4>
+<adminName4>Clipston</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.99077</west>
+<north>52.45912</north>
+<east>-0.93868</east>
+<south>52.40567</south>
+</bbox>
+<score>79.11932373046875</score>
+</geoname>
+<geoname>
+<toponymName>Clipston</toponymName>
+<name>Clipston</name>
+<lat>52.89831</lat>
+<lng>-1.0534</lng>
+<geonameId>7300914</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<adminCode4>37UJ007</adminCode4>
+<adminName4>Clipston</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Clipston%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.07197</west>
+<north>52.91759</north>
+<east>-1.03483</east>
+<south>52.87903</south>
+</bbox>
+<score>53.62640380859375</score>
+</geoname>
+</geonames>

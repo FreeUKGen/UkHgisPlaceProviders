@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Durrington</toponymName>
+<name>Durrington</name>
+<lat>51.19769</lat>
+<lng>-1.80786</lng>
+<geonameId>7300341</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY086</adminCode3>
+<adminName3>Durrington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.85198</west>
+<north>51.20844</north>
+<east>-1.76374</east>
+<south>51.18694</south>
+</bbox>
+<score>110.86833190917969</score>
+</geoname>
+<geoname>
+<toponymName>Durrington</toponymName>
+<name>Durrington</name>
+<lat>50.83592</lat>
+<lng>-0.41242</lng>
+<geonameId>6951418</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UH</adminCode3>
+<adminName3>Worthing District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Durrington%2C_West_Sussex</alternateName>
+<alternateName lang="unlc">DRR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.42666</west>
+<north>50.84491</north>
+<east>-0.39817</east>
+<south>50.82693</south>
+</bbox>
+<score>83.87126159667969</score>
+</geoname>
+<geoname>
+<toponymName>Durrington</toponymName>
+<name>Durrington</name>
+<lat>51.19871</lat>
+<lng>-1.77185</lng>
+<geonameId>2650615</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Durrington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY086</adminCode3>
+<adminName3>Durrington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Durrington%2C_Wiltshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.80056</west>
+<north>51.2167</north>
+<east>-1.74313</east>
+<south>51.18072</south>
+</bbox>
+<score>80.8880844116211</score>
+</geoname>
+</geonames>

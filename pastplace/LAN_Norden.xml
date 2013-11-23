@@ -1,0 +1,39 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>316</id>
+<name>NORDEN</name>
+<container>LANCASHIRE</container>
+<lat>53.6425736461186</lat>
+<lon>-2.21914778275509</lon>
+<gazetteerText>NORDEN, a chapelry in Rochdale parish, Lancashire; in the W suburbs of Rochdale. It was constituted in 1862; and its post town is Rochdale. Pop., 2, 662. The living is a vicarage in the diocese of Manchester. Value, &#163;300. Patron, the Vicar of Spotland, St. Clement. The church was built in 1862, at a cost of nearly &#163;3,000; is in the decorated English style; and contains 524 sittings. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<unit>
+   <id>10042720</id>
+   <status>UD</status>
+   <name>NORDEN</name>
+</unit>
+<unit>
+   <id>10075221</id>
+   <status>USD</status>
+   <name>NORDEN</name>
+</unit>
+<unit>
+   <id>10374091</id>
+   <status>EP</status>
+   <name>NORDEN</name>
+</unit>
+<unit>
+   <id>10374108</id>
+   <status>CP</status>
+   <name>NORDEN</name>
+</unit>
+<nearByPlace>
+   <id>242</id>
+   <name>HEYWOOD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9981</id>
+   <name>BIRTLE</name>
+</nearByPlace>
+</place>
+</results>

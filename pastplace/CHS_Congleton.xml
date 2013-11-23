@@ -1,0 +1,120 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>144</id>
+<name>CONGLETON</name>
+<container>CHESHIRE</container>
+<lat>53.1628946076355</lat>
+<lon>-2.1929715085129</lon>
+<gazetteerText>Congleton, mun. bor. and market town with ry. sta., Astbury par., E. Cheshire, 26 miles S. of Manchester and 157 miles NW. of London, 2572 ac., pop. 11,116; 2 Banks, 1 newspaper. Market-day, Saturday; is a well-built town, on the banks of the Dane, a tributary of the Weaver. C. is a place of considerable antiquity, with charters dating from Edward III. The principal industry is the mfr. of silk, but there is also salt-making and coal-mining. C. has canal communication with Macclesfield, 8 miles NE. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.ukbmd.org.uk/genuki/chs/congleton.html</link>
+<link>http://en.wikipedia.org/wiki/Congleton</link>
+<link>http://www.geonames.org/2652464</link>
+<link>http://www.workhouses.org.uk/Congleton</link>
+</links>
+<unit>
+   <id>10005371</id>
+   <status>RSD</status>
+   <name>CONGLETON</name>
+</unit>
+<unit>
+   <id>10025333</id>
+   <status>MB</status>
+   <name>CONGLETON</name>
+</unit>
+<unit>
+   <id>10044832</id>
+   <status>EP</status>
+   <name>CONGLETON ST JAMES</name>
+</unit>
+<unit>
+   <id>10055921</id>
+   <status>RegD/PLU</status>
+   <name>CONGLETON</name>
+</unit>
+<unit>
+   <id>10063954</id>
+   <status>EP</status>
+   <name>CONGLETON ST STEPHEN</name>
+</unit>
+<unit>
+   <id>10074654</id>
+   <status>RD</status>
+   <name>CONGLETON</name>
+</unit>
+<unit>
+   <id>10107118</id>
+   <status>Borough</status>
+   <name>CONGLETON</name>
+</unit>
+<unit>
+   <id>10113544</id>
+   <status>CP/Ch</status>
+   <name>CONGLETON</name>
+</unit>
+<unit>
+   <id>10187620</id>
+   <status>USD</status>
+   <name>CONGLETON</name>
+</unit>
+<unit>
+   <id>10209225</id>
+   <status>EP</status>
+   <name>CONGLETON</name>
+</unit>
+<unit>
+   <id>10210707</id>
+   <status></status>
+   <name>CONGLETON</name>
+</unit>
+<unit>
+   <id>10542121</id>
+   <status></status>
+   <name>CONGLETON</name>
+</unit>
+<unit>
+   <id>10571984</id>
+   <status></status>
+   <name>CONGLETON</name>
+</unit>
+<unit>
+   <id>12748590</id>
+   <status>CCon</status>
+   <name>CONGLETON</name>
+</unit>
+<unit>
+   <id>12835255</id>
+   <status></status>
+   <name>CONGLETON</name>
+</unit>
+<nearByPlace>
+   <id>800</id>
+   <name>BUGLAWTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2120</id>
+   <name>HULME WALFIELD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2151</id>
+   <name>NORTH RODE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3666</id>
+   <name>ASTBURY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4526</id>
+   <name>EATON BY CONGLETON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4570</id>
+   <name>SOMERFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8496</id>
+   <name>RUSHTON</name>
+</nearByPlace>
+</place>
+</results>

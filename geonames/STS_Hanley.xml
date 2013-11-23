@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Hanley</toponymName>
+<name>Hanley</name>
+<lat>53.02492</lat>
+<lng>-2.17395</lng>
+<geonameId>2647525</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Hanley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N4</adminCode2>
+<adminName2>Stoke-on-Trent</adminName2>
+<adminCode3>41UE</adminCode3>
+<adminName3>GB.ENG.N4.41UE</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hanley%2C_Staffordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.17993</west>
+<north>53.02852</north>
+<east>-2.16797</east>
+<south>53.02133</south>
+</bbox>
+<score>68.08572387695312</score>
+</geoname>
+<geoname>
+<toponymName>Hanley</toponymName>
+<name>Hanley</name>
+<lat>52.28832</lat>
+<lng>-2.49516</lng>
+<geonameId>7299675</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UC</adminCode3>
+<adminName3>Malvern Hills District</adminName3>
+<adminCode4>47UC024</adminCode4>
+<adminName4>Hanley</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hanley%2C_Worcestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.53556</west>
+<north>52.30256</north>
+<east>-2.45476</east>
+<south>52.27408</south>
+</bbox>
+<score>46.18318557739258</score>
+</geoname>
+</geonames>

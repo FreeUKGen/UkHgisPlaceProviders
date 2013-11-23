@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Holborn</toponymName>
+<name>Holborn</name>
+<lat>51.51753</lat>
+<lng>-0.12045</lng>
+<geonameId>2646781</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kholbarn,Kholborn,Kholburn,holaborna,hwbrn,Холбарн,Холборн,Холбърн,הוברן,ہوبورن,हॉलबोर्न</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>GLA</adminCode2>
+<adminName2>Greater London</adminName2>
+<adminCode3>C4</adminCode3>
+<adminName3>Camden</adminName3>
+<alternateName lang="be">Холбарн</alternateName>
+<alternateName lang="bg">Холбърн</alternateName>
+<alternateName lang="he">הוברן</alternateName>
+<alternateName lang="hi">हॉलबोर्न</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Holborn</alternateName>
+<alternateName lang="ru">Холборн</alternateName>
+<alternateName lang="ur">ہوبورن</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.1349</west>
+<north>51.52653</north>
+<east>-0.10599</east>
+<south>51.50854</south>
+</bbox>
+<score>51.078460693359375</score>
+</geoname>
+</geonames>

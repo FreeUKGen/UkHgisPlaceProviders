@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Horsley</toponymName>
+<name>Horsley</name>
+<lat>54.99418</lat>
+<lng>-1.88425</lng>
+<geonameId>7291398</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM086</adminCode3>
+<adminName3>Horsley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.9356</west>
+<north>55.01536</north>
+<east>-1.8329</east>
+<south>54.973</south>
+</bbox>
+<score>87.948486328125</score>
+</geoname>
+<geoname>
+<toponymName>East Horsley</toponymName>
+<name>East Horsley</name>
+<lat>51.27358</lat>
+<lng>-0.43207</lng>
+<geonameId>2650411</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5787</population>
+<alternateNames>East Horsley,Horsley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UD</adminCode3>
+<adminName3>Guildford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/East_Horsley</alternateName>
+<alternateName lang="unlc">ESY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.44645</west>
+<north>51.28258</north>
+<east>-0.41769</east>
+<south>51.26459</south>
+</bbox>
+<score>58.38869857788086</score>
+</geoname>
+<geoname>
+<toponymName>Horsley</toponymName>
+<name>Horsley</name>
+<lat>54.98333</lat>
+<lng>-1.85</lng>
+<geonameId>2646553</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM086</adminCode3>
+<adminName3>Horsley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Horsley%2C_Northumberland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.88136</west>
+<north>55.00132</north>
+<east>-1.81864</east>
+<south>54.96535</south>
+</bbox>
+<score>57.304954528808594</score>
+</geoname>
+<geoname>
+<toponymName>Horsley</toponymName>
+<name>Horsley</name>
+<lat>51.68333</lat>
+<lng>-2.23333</lng>
+<geonameId>2646554</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UF</adminCode3>
+<adminName3>Stroud</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.24784</west>
+<north>51.69233</north>
+<east>-2.21882</east>
+<south>51.67434</south>
+</bbox>
+<score>50.47144317626953</score>
+</geoname>
+<geoname>
+<toponymName>Horsley</toponymName>
+<name>Horsley</name>
+<lat>52.99298</lat>
+<lng>-1.4326</lng>
+<geonameId>7294813</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UB</adminCode3>
+<adminName3>Amber Valley District</adminName3>
+<adminCode4>17UB014</adminCode4>
+<adminName4>Horsley</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Horsley%2C_Derbyshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.45224</west>
+<north>53.00713</north>
+<east>-1.41295</east>
+<south>52.97882</south>
+</bbox>
+<score>44.31055450439453</score>
+</geoname>
+<geoname>
+<toponymName>Horsley</toponymName>
+<name>Horsley</name>
+<lat>51.6781</lat>
+<lng>-2.23015</lng>
+<geonameId>7298601</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UF</adminCode3>
+<adminName3>Stroud</adminName3>
+<adminCode4>23UF025</adminCode4>
+<adminName4>Horsley</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Horsley%2C_Gloucestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.27275</west>
+<north>51.69654</north>
+<east>-2.18755</east>
+<south>51.65966</south>
+</bbox>
+<score>44.31055450439453</score>
+</geoname>
+</geonames>

@@ -1,0 +1,70 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1195</id>
+<name>FOWEY</name>
+<container>CORNWALL</container>
+<lat>50.3395775375516</lat>
+<lon>-4.65927164348742</lon>
+<gazetteerText>Fowey.-- small seaport, market town, and par. with ry. sta., E. Cornwall, near mouth of river Fowey, 11 miles S. of Bodmin, 1945 ac., pop. 1656; P.O., T.O., 2 Banks. Market-day, Saturday. The principal Industry is the pilchard fishery, which is very important Fowey at one time ranked among the principal seaports in England, and sent ships to the crusades and to the blockade of Calais. It has a deep and commodious harbour, well sheltered by cliffs; 180 yards W. of Whitehouse Point is a fixed light seen 5 miles. Iron ore and &quot;China Stone&quot; are exported. (For shipping statistics, see Appendix.. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Fowey</link>
+<link>http://www.geonames.org/2649126</link>
+<link>http://www.genuki.org.uk/big/eng/Cornwall/Fowey/index.html</link>
+</links>
+<unit>
+   <id>10026179</id>
+   <status>MB</status>
+   <name>FOWEY</name>
+</unit>
+<unit>
+   <id>10073649</id>
+   <status>Borough</status>
+   <name>FOWEY</name>
+</unit>
+<unit>
+   <id>10230240</id>
+   <status>AP/CP</status>
+   <name>FOWEY</name>
+</unit>
+<unit>
+   <id>10542790</id>
+   <status></status>
+   <name>FOWEY</name>
+</unit>
+<unit>
+   <id>10587335</id>
+   <status>EP</status>
+   <name>FOWEY ST FIMBARRUS</name>
+</unit>
+<unit>
+   <id>12758534</id>
+   <status>PBCon</status>
+   <name>FOWEY</name>
+</unit>
+<nearByPlace>
+   <id>1629</id>
+   <name>LANSALLOS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1641</id>
+   <name>ST MARTIN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2612</id>
+   <name>TALLAND</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2832</id>
+   <name>PELYNT</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3862</id>
+   <name>LANTEGLOS BY FOWEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3887</id>
+   <name>ST VEEP</name>
+</nearByPlace>
+</place>
+</results>

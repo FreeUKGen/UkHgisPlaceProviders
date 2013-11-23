@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>8</totalResultsCount>
+<geoname>
+<toponymName>Hutton</toponymName>
+<name>Hutton</name>
+<lat>51.32562</lat>
+<lng>-2.9251</lng>
+<geonameId>7291922</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC018</adminCode3>
+<adminName3>Hutton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.95461</west>
+<north>51.33413</north>
+<east>-2.8956</east>
+<south>51.31712</south>
+</bbox>
+<score>89.94490814208984</score>
+</geoname>
+<geoname>
+<toponymName>Hutton</toponymName>
+<name>Hutton</name>
+<lat>55.76667</lat>
+<lng>-2.15</lng>
+<geonameId>2646338</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hutton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T9</adminCode2>
+<adminName2>Scottish Borders</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hutton%2C_Scottish_Borders</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.16599</west>
+<north>55.77566</north>
+<east>-2.13401</east>
+<south>55.75767</south>
+</bbox>
+<score>84.09342956542969</score>
+</geoname>
+<geoname>
+<toponymName>Hutton</toponymName>
+<name>Hutton</name>
+<lat>53.73333</lat>
+<lng>-2.76667</lng>
+<geonameId>2646340</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hutton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UN</adminCode3>
+<adminName3>South Ribble</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hutton%2C_Lancashire</alternateName>
+<alternateName lang="unlc">HTQ</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.78187</west>
+<north>53.74233</north>
+<east>-2.75146</east>
+<south>53.72434</south>
+</bbox>
+<score>72.85884857177734</score>
+</geoname>
+<geoname>
+<toponymName>Hutton</toponymName>
+<name>Hutton</name>
+<lat>51.63126</lat>
+<lng>0.3604</lng>
+<geonameId>2646341</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UD</adminCode3>
+<adminName3>Brentwood District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hutton%2C_Essex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.34591</west>
+<north>51.64025</north>
+<east>0.37489</east>
+<south>51.62226</south>
+</bbox>
+<score>70.65167999267578</score>
+</geoname>
+<geoname>
+<toponymName>Hutton</toponymName>
+<name>Hutton</name>
+<lat>53.73987</lat>
+<lng>-2.78541</lng>
+<geonameId>7295612</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H2</adminCode2>
+<adminName2>Lancashire</adminName2>
+<adminCode3>30UN</adminCode3>
+<adminName3>South Ribble</adminName3>
+<adminCode4>30UN003</adminCode4>
+<adminName4>Hutton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.85388</west>
+<north>53.7543</north>
+<east>-2.71694</east>
+<south>53.72544</south>
+</bbox>
+<score>65.02084350585938</score>
+</geoname>
+<geoname>
+<toponymName>Hutton</toponymName>
+<name>Hutton</name>
+<lat>51.32417</lat>
+<lng>-2.93028</lng>
+<geonameId>2646342</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J4</adminCode2>
+<adminName2>North Somerset</adminName2>
+<adminCode3>00HC018</adminCode3>
+<adminName3>Hutton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hutton%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.95907</west>
+<north>51.34215</north>
+<east>-2.90148</east>
+<south>51.30618</south>
+</bbox>
+<score>59.67155456542969</score>
+</geoname>
+<geoname>
+<toponymName>Hutton</toponymName>
+<name>Hutton</name>
+<lat>53.96667</lat>
+<lng>-0.43333</lng>
+<geonameId>2646339</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.44863</west>
+<north>53.97566</north>
+<east>-0.41804</east>
+<south>53.95767</south>
+</bbox>
+<score>51.655250549316406</score>
+</geoname>
+<geoname>
+<toponymName>Hutton</toponymName>
+<name>Hutton</name>
+<lat>54.63208</lat>
+<lng>-2.90699</lng>
+<geonameId>7294777</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UF</adminCode3>
+<adminName3>Eden District</adminName3>
+<adminCode4>16UF032</adminCode4>
+<adminName4>Hutton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hutton%2C_Cumbria</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.96205</west>
+<north>54.65636</north>
+<east>-2.85194</east>
+<south>54.6078</south>
+</bbox>
+<score>46.30596160888672</score>
+</geoname>
+</geonames>

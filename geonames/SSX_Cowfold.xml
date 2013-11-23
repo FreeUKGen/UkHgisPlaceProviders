@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cowfold</toponymName>
+<name>Cowfold</name>
+<lat>50.98945</lat>
+<lng>-0.27243</lng>
+<geonameId>2652202</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cowfold</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UF</adminCode3>
+<adminName3>Horsham District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cowfold</alternateName>
+<alternateName lang="unlc">CDU</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.28672</west>
+<north>50.99844</north>
+<east>-0.25814</east>
+<south>50.98046</south>
+</bbox>
+<score>92.82872009277344</score>
+</geoname>
+<geoname>
+<toponymName>Cowfold</toponymName>
+<name>Cowfold</name>
+<lat>50.98936</lat>
+<lng>-0.26741</lng>
+<geonameId>7292024</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P6</adminCode2>
+<adminName2>West Sussex</adminName2>
+<adminCode3>45UF</adminCode3>
+<adminName3>Horsham District</adminName3>
+<adminCode4>45UF009</adminCode4>
+<adminName4>Cowfold</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.30525</west>
+<north>51.01413</north>
+<east>-0.22957</east>
+<south>50.96459</south>
+</bbox>
+<score>81.53416442871094</score>
+</geoname>
+</geonames>

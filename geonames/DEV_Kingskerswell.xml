@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kingskerswell</toponymName>
+<name>Kingskerswell</name>
+<lat>50.49915</lat>
+<lng>-3.58195</lng>
+<geonameId>2645464</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4727</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UH</adminCode3>
+<adminName3>Teignbridge District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kingskerswell</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.5942</west>
+<north>50.50694</north>
+<east>-3.5697</east>
+<south>50.49136</south>
+</bbox>
+<score>109.87246704101562</score>
+</geoname>
+<geoname>
+<toponymName>Kingskerswell</toponymName>
+<name>Kingskerswell</name>
+<lat>50.49621</lat>
+<lng>-3.58258</lng>
+<geonameId>7300301</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UH</adminCode3>
+<adminName3>Teignbridge District</adminName3>
+<adminCode4>18UH029</adminCode4>
+<adminName4>Kingskerswell</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.60308</west>
+<north>50.51468</north>
+<east>-3.56208</east>
+<south>50.47773</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Eccles</toponymName>
+<name>Eccles</name>
+<lat>55.66667</lat>
+<lng>-2.38333</lng>
+<geonameId>2650277</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Eccles</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T9</adminCode2>
+<adminName2>Scottish Borders</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Eccles%2C_Scottish_Borders</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.39928</west>
+<north>55.67566</north>
+<east>-2.36738</east>
+<south>55.65767</south>
+</bbox>
+<score>91.35702514648438</score>
+</geoname>
+<geoname>
+<toponymName>Eccles</toponymName>
+<name>Eccles</name>
+<lat>53.48333</lat>
+<lng>-2.33333</lng>
+<geonameId>2650278</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>37275</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L5</adminCode2>
+<adminName2>Salford</adminName2>
+<alternateName lang="unlc">ECS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.37543</west>
+<north>53.50837</north>
+<east>-2.29123</east>
+<south>53.4583</south>
+</bbox>
+<score>88.08324432373047</score>
+</geoname>
+<geoname>
+<toponymName>Eccles</toponymName>
+<name>Eccles</name>
+<lat>52.46667</lat>
+<lng>0.96667</lng>
+<geonameId>2650279</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.9519</west>
+<north>52.47566</north>
+<east>0.98143</east>
+<south>52.45767</south>
+</bbox>
+<score>56.906700134277344</score>
+</geoname>
+</geonames>

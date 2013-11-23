@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>St. Michael's Mount</toponymName>
+<name>St. Michael's Mount</name>
+<lat>50.11902</lat>
+<lng>-5.47632</lng>
+<geonameId>7294222</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE175</adminCode3>
+<adminName3>St. Michael's Mount</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.48045</west>
+<north>50.12317</north>
+<east>-5.47219</east>
+<south>50.11487</south>
+</bbox>
+<score>49.140411376953125</score>
+</geoname>
+</geonames>

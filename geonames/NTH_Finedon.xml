@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Finedon</toponymName>
+<name>Finedon</name>
+<lat>52.33917</lat>
+<lng>-0.65008</lng>
+<geonameId>2649428</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4281</population>
+<alternateNames>Finedon</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UH</adminCode3>
+<adminName3>Wellingborough District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Finedon</alternateName>
+<alternateName lang="unlc">FND</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.66283</west>
+<north>52.34696</north>
+<east>-0.63733</east>
+<south>52.33138</south>
+</bbox>
+<score>110.05043029785156</score>
+</geoname>
+<geoname>
+<toponymName>Finedon</toponymName>
+<name>Finedon</name>
+<lat>52.33326</lat>
+<lng>-0.65449</lng>
+<geonameId>7291364</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UH</adminCode3>
+<adminName3>Wellingborough District</adminName3>
+<adminCode4>34UH005</adminCode4>
+<adminName4>Finedon</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.68627</west>
+<north>52.36156</north>
+<east>-0.62271</east>
+<south>52.30497</south>
+</bbox>
+<score>82.43245697021484</score>
+</geoname>
+</geonames>

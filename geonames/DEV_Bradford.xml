@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Bradford</toponymName>
+<name>Bradford</name>
+<lat>53.79391</lat>
+<lng>-1.75206</lng>
+<geonameId>2654993</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>299310</population>
+<alternateNames>BRF,Bradford,Bradfordas,Brantfornt,Bredford,Bredforda,Brehdford,Brədford,Gorad Brehdfard,beulaedeupeodeu,bradfwrd,bredpordi,bu la de fu de,buraddofodo,Μπράντφορντ,Брадфорд,Бредфорд,Брэдфорд,Горад Брэдфард,Բրեդֆորդ,בראדפארד,برادفورد,بریڈفورڈ,ბრედფორდი,ብራድፎርድ,ブラッドフォード,布拉德福德,브래드퍼드</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B4</adminCode2>
+<adminName2>Bradford</adminName2>
+<alternateName lang="am">ብራድፎርድ</alternateName>
+<alternateName lang="ar">برادفورد</alternateName>
+<alternateName lang="az">Brədford</alternateName>
+<alternateName lang="be">Горад Брэдфард</alternateName>
+<alternateName lang="bg">Брадфорд</alternateName>
+<alternateName lang="cy">Bradford</alternateName>
+<alternateName lang="de">Bradford</alternateName>
+<alternateName lang="el">Μπράντφορντ</alternateName>
+<alternateName lang="en">Bradford</alternateName>
+<alternateName lang="eo">Bradford</alternateName>
+<alternateName lang="fa">برادفورد</alternateName>
+<alternateName lang="fi">Bradford</alternateName>
+<alternateName lang="fr">Bradford</alternateName>
+<alternateName lang="hy">Բրեդֆորդ</alternateName>
+<alternateName lang="iata">BRF</alternateName>
+<alternateName lang="id">Bradford</alternateName>
+<alternateName lang="ja">ブラッドフォード</alternateName>
+<alternateName lang="ka">ბრედფორდი</alternateName>
+<alternateName lang="kk">Брэдфорд</alternateName>
+<alternateName lang="ko">브래드퍼드</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bradford</alternateName>
+<alternateName lang="lt">Bradfordas</alternateName>
+<alternateName lang="lv">Bredforda</alternateName>
+<alternateName lang="mk">Бредфорд</alternateName>
+<alternateName lang="mzn">برادفورد</alternateName>
+<alternateName lang="nl">Bradford</alternateName>
+<alternateName lang="no">Bradford</alternateName>
+<alternateName lang="pl">Bradford</alternateName>
+<alternateName lang="pnb">بریڈفورڈ</alternateName>
+<alternateName lang="ro">Bradford</alternateName>
+<alternateName lang="ru">Брэдфорд</alternateName>
+<alternateName lang="sr">Бредфорд</alternateName>
+<alternateName lang="sv">Bradford</alternateName>
+<alternateName lang="tr">Bradford</alternateName>
+<alternateName lang="uk">Бредфорд</alternateName>
+<alternateName lang="unlc">BRF</alternateName>
+<alternateName lang="ur">بریڈفورڈ</alternateName>
+<alternateName lang="yi">בראדפארד</alternateName>
+<alternateName lang="zh">布拉德福德</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.87239</west>
+<north>53.86487</north>
+<east>-1.63173</east>
+<south>53.72295</south>
+</bbox>
+<score>148.26170349121094</score>
+</geoname>
+<geoname>
+<toponymName>City and Borough of Bradford</toponymName>
+<name>City and Borough of Bradford</name>
+<lat>53.83333</lat>
+<lng>-1.83333</lng>
+<geonameId>3333131</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>BRD,Bradford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>B4</adminCode2>
+<adminName2>Bradford</adminName2>
+<alternateName lang="abbr">BRD</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/City_of_Bradford</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.06125</west>
+<north>53.96315</north>
+<east>-1.64032</east>
+<south>53.72432</south>
+</bbox>
+<score>49.54045486450195</score>
+</geoname>
+<geoname>
+<toponymName>Bradford</toponymName>
+<name>Bradford</name>
+<lat>51</lat>
+<lng>-3.18333</lng>
+<geonameId>2654994</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UE</adminCode3>
+<adminName3>Taunton Deane District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.19763</west>
+<north>51.00899</north>
+<east>-3.16904</east>
+<south>50.99101</south>
+</bbox>
+<score>36.730735778808594</score>
+</geoname>
+<geoname>
+<toponymName>Bradford</toponymName>
+<name>Bradford</name>
+<lat>50.83101</lat>
+<lng>-4.24814</lng>
+<geonameId>7296001</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UK</adminCode3>
+<adminName3>Torridge District</adminName3>
+<adminCode4>18UK010</adminCode4>
+<adminName4>Bradford</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bradford%2C_Devon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.27999</west>
+<north>50.86285</north>
+<east>-4.2163</east>
+<south>50.79916</south>
+</bbox>
+<score>33.34900665283203</score>
+</geoname>
+</geonames>

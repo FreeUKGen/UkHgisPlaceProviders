@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Upper Boddington</toponymName>
+<name>Upper Boddington</name>
+<lat>52.17651</lat>
+<lng>-1.29595</lng>
+<geonameId>2635145</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Boddington,Upper Boddington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Upper_Boddington</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.31062</west>
+<north>52.18551</north>
+<east>-1.28128</east>
+<south>52.16752</south>
+</bbox>
+<score>65.14566802978516</score>
+</geoname>
+<geoname>
+<toponymName>Boddington</toponymName>
+<name>Boddington</name>
+<lat>51.91957</lat>
+<lng>-2.15502</lng>
+<geonameId>7290794</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UG</adminCode3>
+<adminName3>Tewkesbury</adminName3>
+<adminCode4>23UG006</adminCode4>
+<adminName4>Boddington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boddington%2C_Gloucestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.18508</west>
+<north>51.93954</north>
+<east>-2.12497</east>
+<south>51.8996</south>
+</bbox>
+<score>53.494354248046875</score>
+</geoname>
+<geoname>
+<toponymName>Boddington</toponymName>
+<name>Boddington</name>
+<lat>52.17143</lat>
+<lng>-1.30293</lng>
+<geonameId>7295743</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<adminCode4>34UG008</adminCode4>
+<adminName4>Boddington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Boddington%2C_Northamptonshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.33235</west>
+<north>52.19212</north>
+<east>-1.27352</east>
+<south>52.15073</south>
+</bbox>
+<score>53.494354248046875</score>
+</geoname>
+</geonames>

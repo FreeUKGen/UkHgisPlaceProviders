@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Llangrannog</toponymName>
+<name>Llangrannog</name>
+<lat>52.15805</lat>
+<lng>-4.43261</lng>
+<geonameId>7291020</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ026</adminCode3>
+<adminName3>Llangrannog</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.47734</west>
+<north>52.18281</north>
+<east>-4.38788</east>
+<south>52.13329</south>
+</bbox>
+<score>108.65621948242188</score>
+</geoname>
+<geoname>
+<toponymName>Llangranog</toponymName>
+<name>Llangrannog</name>
+<lat>52.15964</lat>
+<lng>-4.47074</lng>
+<geonameId>2644016</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Llangrannog,Llangranwg</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ026</adminCode3>
+<adminName3>Llangrannog</adminName3>
+<alternateName lang="cy">Llangrannog</alternateName>
+<alternateName lang="en">Llangrannog</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Llangrannog</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.48541</west>
+<north>52.16863</north>
+<east>-4.45608</east>
+<south>52.15065</south>
+</bbox>
+<score>84.07789611816406</score>
+</geoname>
+</geonames>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ramsgate</toponymName>
+<name>Ramsgate</name>
+<lat>51.33576</lat>
+<lng>1.41552</lng>
+<geonameId>2639660</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>38624</population>
+<alternateNames>QQR,Ramsgate,Ramsgejt,Ramsgit,lamjeugeiteu,ramuzugeto,Рамсгейт,Рамсгит,ラムズゲート,람즈게이트</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>2636057</adminCode3>
+<adminName3>Thanet District</adminName3>
+<adminCode4>29UN010</adminCode4>
+<adminName4>Ramsgate</adminName4>
+<alternateName lang="iata">QQR</alternateName>
+<alternateName lang="ja">ラムズゲート</alternateName>
+<alternateName lang="ko">람즈게이트</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ramsgate</alternateName>
+<alternateName lang="ru">Рамсгит</alternateName>
+<alternateName lang="unlc">RMG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.37478</west>
+<north>51.3612</north>
+<east>1.45626</east>
+<south>51.31032</south>
+</bbox>
+<score>86.31329345703125</score>
+</geoname>
+<geoname>
+<toponymName>Ramsgate</toponymName>
+<name>Ramsgate</name>
+<lat>51.34148</lat>
+<lng>1.40897</lng>
+<geonameId>7296491</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>2636057</adminCode3>
+<adminName3>Thanet District</adminName3>
+<adminCode4>29UN010</adminCode4>
+<adminName4>Ramsgate</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>75.80339050292969</score>
+</geoname>
+</geonames>

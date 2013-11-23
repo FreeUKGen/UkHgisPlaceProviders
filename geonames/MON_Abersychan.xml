@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Abersychan</toponymName>
+<name>Abersychan</name>
+<lat>51.73773</lat>
+<lng>-3.07141</lng>
+<geonameId>7292649</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z2</adminCode2>
+<adminName2>Torfaen</adminName2>
+<adminCode3>00PM001</adminCode3>
+<adminName3>Abersychan</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.11517</west>
+<north>51.76395</north>
+<east>-3.02765</east>
+<south>51.71151</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Abersychan</toponymName>
+<name>Abersychan</name>
+<lat>51.72468</lat>
+<lng>-3.06348</lng>
+<geonameId>2657787</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Abersychan</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Z2</adminCode2>
+<adminName2>Torfaen</adminName2>
+<adminCode3>00PM001</adminCode3>
+<adminName3>Abersychan</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Abersychan</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.078</west>
+<north>51.73367</north>
+<east>-3.04896</east>
+<south>51.71569</south>
+</bbox>
+<score>109.09526062011719</score>
+</geoname>
+</geonames>

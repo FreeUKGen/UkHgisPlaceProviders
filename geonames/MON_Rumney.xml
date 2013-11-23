@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Rumney</toponymName>
+<name>Rumney</name>
+<lat>51.5051</lat>
+<lng>-3.12571</lng>
+<geonameId>7299811</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X5</adminCode2>
+<adminName2>City and County of Cardiff</adminName2>
+<adminCode3>00PT025</adminCode3>
+<adminName3>Rumney</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.14124</west>
+<north>51.52148</north>
+<east>-3.11018</east>
+<south>51.48872</south>
+</bbox>
+<score>104.79421997070312</score>
+</geoname>
+<geoname>
+<toponymName>Rumney</toponymName>
+<name>Rumney</name>
+<lat>51.51033</lat>
+<lng>-3.12376</lng>
+<geonameId>2638965</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Rumney</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X5</adminCode2>
+<adminName2>City and County of Cardiff</adminName2>
+<adminCode3>00PT025</adminCode3>
+<adminName3>Rumney</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rumney%2C_Cardiff</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.12954</west>
+<north>51.51393</north>
+<east>-3.11798</east>
+<south>51.50674</south>
+</bbox>
+<score>77.71537780761719</score>
+</geoname>
+</geonames>

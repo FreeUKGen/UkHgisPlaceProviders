@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Fulford</toponymName>
+<name>Fulford</name>
+<lat>53.92707</lat>
+<lng>-1.0622</lng>
+<geonameId>7293977</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q5</adminCode2>
+<adminName2>York City</adminName2>
+<adminCode3>00FF011</adminCode3>
+<adminName3>Fulford</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.09196</west>
+<north>53.94197</north>
+<east>-1.03244</east>
+<south>53.91217</south>
+</bbox>
+<score>102.4844741821289</score>
+</geoname>
+<geoname>
+<toponymName>Fulford</toponymName>
+<name>Fulford</name>
+<lat>52.94796</lat>
+<lng>-2.08235</lng>
+<geonameId>7291029</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UG</adminCode3>
+<adminName3>Stafford District</adminName3>
+<adminCode4>41UG015</adminCode4>
+<adminName4>Fulford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.12166</west>
+<north>52.97383</north>
+<east>-2.04303</east>
+<south>52.9221</south>
+</bbox>
+<score>73.96934509277344</score>
+</geoname>
+<geoname>
+<toponymName>Fulford</toponymName>
+<name>Fulford</name>
+<lat>53.93333</lat>
+<lng>-1.06667</lng>
+<geonameId>2648998</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Fulford,Gate Fulford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q5</adminCode2>
+<adminName2>York City</adminName2>
+<adminCode3>00FF011</adminCode3>
+<adminName3>Fulford</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Fulford</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.09723</west>
+<north>53.95132</north>
+<east>-1.0361</east>
+<south>53.91535</south>
+</bbox>
+<score>73.38066864013672</score>
+</geoname>
+<geoname>
+<toponymName>Fulford</toponymName>
+<name>Fulford</name>
+<lat>52.95</lat>
+<lng>-2.06667</lng>
+<geonameId>2648999</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UG</adminCode3>
+<adminName3>Stafford District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.0816</west>
+<north>52.95899</north>
+<east>-2.05174</east>
+<south>52.94101</south>
+</bbox>
+<score>58.81793975830078</score>
+</geoname>
+</geonames>

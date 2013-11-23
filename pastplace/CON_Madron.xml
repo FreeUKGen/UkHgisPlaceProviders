@@ -1,0 +1,49 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>184</id>
+<name>MADRON</name>
+<container>CORNWALL</container>
+<lat>50.134570973523</lat>
+<lon>-5.57968398509273</lon>
+<gazetteerText>Madron, town, par., and township, Cornwall - par. (containing town of Penzance), 5926 ac., pop. 15,146; township, 5589 ac., pop. 2647; town, 1&#189; mile NW. of Penzance, 5440 ac., pop. 2737; P.O.; 1 mile N. of town is Madron Well, with remains of ancient baptistery. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Madron</link>
+<link>http://www.genuki.org.uk/big/eng/Cornwall/Madron/index.html</link>
+<link>http://www.geonames.org/2643228</link>
+</links>
+<unit>
+   <id>10026222</id>
+   <status>UD</status>
+   <name>MADRON</name>
+</unit>
+<unit>
+   <id>10067730</id>
+   <status>CP</status>
+   <name>MADRON IN PENZANCE</name>
+</unit>
+<unit>
+   <id>10081671</id>
+   <status>USD</status>
+   <name>MADRON</name>
+</unit>
+<unit>
+   <id>10121796</id>
+   <status>AP/CP</status>
+   <name>MADRON</name>
+</unit>
+<unit>
+   <id>10121802</id>
+   <status>EP</status>
+   <name>MADRON WITH MORVAN</name>
+</unit>
+<nearByPlace>
+   <id>1644</id>
+   <name>SANCREED</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3869</id>
+   <name>MORVAH</name>
+</nearByPlace>
+</place>
+</results>

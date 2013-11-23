@@ -1,0 +1,64 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>880</id>
+<name>BUILTH WELLS</name>
+<container>BRECKNOCKSHIRE</container>
+<lat>52.1444595156439</lat>
+<lon>-3.40344784856176</lon>
+<gazetteerText>Builth, par. and town with ry. sta., N. Brecknockshire, on river Wye, 14 miles N. of Brecon and 183 miles NW. of London -- par., 712 ac., pop. 1455; town, pop. 1424; P.O., T.O., 2 Banks. Market-day, Monday. A bridge of 6 arches over the Wye connects the town with Radnorshire. The mineral springs are much frequented. (See BUILTH WELLS.) Llewellyn, the last prince of Wales who held the regal power, lived at Aberedw, 4 miles to the SE.; he was slain in battle (1282) at CwmLlewellyn, 3 miles to the N., and was buried at Cefn-y-Bedd, a field in the neighbourhood of the town. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/wal/BRE/Builth/index.html</link>
+<link>http://www.geonames.org/2654359</link>
+<link>http://www.workhouses.org.uk/Builth</link>
+</links>
+<unit>
+   <id>10007446</id>
+   <status>Hundred</status>
+   <name>BUILTH</name>
+</unit>
+<unit>
+   <id>10157997</id>
+   <status>UD</status>
+   <name>BUILTH WELLS</name>
+</unit>
+<unit>
+   <id>10213861</id>
+   <status>CP/AP</status>
+   <name>BUILTH</name>
+</unit>
+<unit>
+   <id>10215560</id>
+   <status>RD</status>
+   <name>BUILTH</name>
+</unit>
+<unit>
+   <id>10221432</id>
+   <status>PLU/RegD</status>
+   <name>BUILTH</name>
+</unit>
+<unit>
+   <id>10550580</id>
+   <status></status>
+   <name>BUILTH</name>
+</unit>
+<unit>
+   <id>12827155</id>
+   <status>USD</status>
+   <name>BUILTH</name>
+</unit>
+<unit>
+   <id>12827167</id>
+   <status>RSD</status>
+   <name>BUILTH</name>
+</unit>
+<nearByPlace>
+   <id>6372</id>
+   <name>LLANGANTEN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6673</id>
+   <name>LLANYNYS</name>
+</nearByPlace>
+</place>
+</results>

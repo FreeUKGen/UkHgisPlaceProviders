@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wooler</toponymName>
+<name>Wooler</name>
+<lat>55.54658</lat>
+<lng>-2.03536</lng>
+<geonameId>7291481</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM163</adminCode3>
+<adminName3>Wooler</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.09612</west>
+<north>55.5717</north>
+<east>-1.9746</east>
+<south>55.52145</south>
+</bbox>
+<score>106.68048095703125</score>
+</geoname>
+<geoname>
+<toponymName>Wooler</toponymName>
+<name>Wooler</name>
+<lat>55.54755</lat>
+<lng>-2.01186</lng>
+<geonameId>2633606</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1898</population>
+<alternateNames>Wooler</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM163</adminCode3>
+<adminName3>Wooler</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wooler</alternateName>
+<alternateName lang="unlc">WLR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.01981</west>
+<north>55.55205</north>
+<east>-2.00391</east>
+<south>55.54305</south>
+</bbox>
+<score>103.13163757324219</score>
+</geoname>
+</geonames>

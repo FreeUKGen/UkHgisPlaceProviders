@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Beeston</toponymName>
+<name>Beeston</name>
+<lat>53.12371</lat>
+<lng>-2.69452</lng>
+<geonameId>7294368</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population>505</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW016</adminCode3>
+<adminName3>Beeston</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.72943</west>
+<north>53.1374</north>
+<east>-2.65961</east>
+<south>53.11002</south>
+</bbox>
+<score>98.30024719238281</score>
+</geoname>
+<geoname>
+<toponymName>Beeston</toponymName>
+<name>Beeston</name>
+<lat>52.7</lat>
+<lng>0.81667</lng>
+<geonameId>2656015</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Beeston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Beeston%2C_Norfolk</alternateName>
+<alternateName lang="unlc">EES</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.80182</west>
+<north>52.70899</north>
+<east>0.83151</east>
+<south>52.69101</south>
+</bbox>
+<score>77.47468566894531</score>
+</geoname>
+<geoname>
+<toponymName>Beeston</toponymName>
+<name>Beeston</name>
+<lat>53.76667</lat>
+<lng>-1.56667</lng>
+<geonameId>2656012</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Beeston</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H3</adminCode2>
+<adminName2>Leeds</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Beeston%2C_Leeds</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.57275</west>
+<north>53.77026</north>
+<east>-1.56058</east>
+<south>53.76307</south>
+</bbox>
+<score>72.11968231201172</score>
+</geoname>
+<geoname>
+<toponymName>Beeston</toponymName>
+<name>Beeston</name>
+<lat>52.91667</lat>
+<lng>-1.21667</lng>
+<geonameId>2656014</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Beeston,Beeston i Nottinghamshire</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UD</adminCode3>
+<adminName3>Broxtowe District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Beeston%2C_Nottinghamshire</alternateName>
+<alternateName lang="nn">Beeston i Nottinghamshire</alternateName>
+<alternateName lang="unlc">BEE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.23159</west>
+<north>52.92566</north>
+<east>-1.20175</east>
+<south>52.90767</south>
+</bbox>
+<score>68.8831787109375</score>
+</geoname>
+<geoname>
+<toponymName>Beeston</toponymName>
+<name>Beeston</name>
+<lat>53.11667</lat>
+<lng>-2.68333</lng>
+<geonameId>2656013</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW016</adminCode3>
+<adminName3>Beeston</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Beeston%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.71332</west>
+<north>53.13465</north>
+<east>-2.65335</east>
+<south>53.09868</south>
+</bbox>
+<score>63.42258071899414</score>
+</geoname>
+<geoname>
+<toponymName>Beeston Saint Lawrence</toponymName>
+<name>Beeston Saint Lawrence</name>
+<lat>52.73333</lat>
+<lng>1.45</lng>
+<geonameId>2656010</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Beeston,Beeston Saint Lawrence</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UF</adminCode3>
+<adminName3>North Norfolk District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.43514</west>
+<north>52.74233</north>
+<east>1.46486</east>
+<south>52.72434</south>
+</bbox>
+<score>42.190650939941406</score>
+</geoname>
+</geonames>

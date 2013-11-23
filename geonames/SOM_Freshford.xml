@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Freshford</toponymName>
+<name>Freshford</name>
+<lat>51.33826</lat>
+<lng>-2.31417</lng>
+<geonameId>7296166</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA021</adminCode3>
+<adminName3>Freshford</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Freshford</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.34088</west>
+<north>51.34777</north>
+<east>-2.28746</east>
+<south>51.32875</south>
+</bbox>
+<score>74.75532531738281</score>
+</geoname>
+<geoname>
+<toponymName>Freshford</toponymName>
+<name>Freshford</name>
+<lat>51.33917</lat>
+<lng>-2.30306</lng>
+<geonameId>2649070</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA021</adminCode3>
+<adminName3>Freshford</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Freshford%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.33186</west>
+<north>51.35715</north>
+<east>-2.27425</east>
+<south>51.32118</south>
+</bbox>
+<score>69.28530883789062</score>
+</geoname>
+</geonames>

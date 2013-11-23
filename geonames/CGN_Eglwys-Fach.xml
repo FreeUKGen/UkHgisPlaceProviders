@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Eglwys-fach</toponymName>
+<name>Eglwys-fach</name>
+<lat>52.53333</lat>
+<lng>-3.93333</lng>
+<geonameId>2650178</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Eglwys-fach,Scyborycoed</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.94812</west>
+<north>52.54233</north>
+<east>-3.91855</east>
+<south>52.52434</south>
+</bbox>
+<score>78.45011901855469</score>
+</geoname>
+<geoname>
+<toponymName>Eglwys-Fâch</toponymName>
+<name>Eglwys-Fâch</name>
+<lat>53.21667</lat>
+<lng>-3.8</lng>
+<geonameId>2650177</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X8</adminCode2>
+<adminName2>County Borough of Conwy</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.81502</west>
+<north>53.22566</north>
+<east>-3.78498</east>
+<south>53.20767</south>
+</bbox>
+<score>64.21210479736328</score>
+</geoname>
+</geonames>

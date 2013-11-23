@@ -1,0 +1,155 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1065</id>
+<name>WELLS</name>
+<container>SOMERSET</container>
+<lat>51.209637489112</lat>
+<lon>-2.64839842592149</lon>
+<gazetteerText>Wells, mun. bor. and ancient city, Somerset, at foot of Mendip hills, 6 miles NE. of Glastonbury and 19 SW. of Bath by rail, 726 ac., pop. 4634; P.O., T.O., 2 Banks, 1 newspaper. Market-days, Wednesday and Saturday. Wells took its name from the numerous springs in the vicinity. It originated in a collegiate church founded in 704. The diocese of Bath and Wells comprehends all Somerset except Bedminster. The cathedral and the Episcopal palace are at Wells. The cathedral is a magnificent structure, in the Early English style. The Episcopal palace is a castellated building of ancient date, surrounded by a wall and moat. Wells has breweries, flour and paper mills, and brush manufactories, but its trade is principally agricultural. It was first chartered by King John, and was made a mun. bor. by Queen Elizabeth; it returned 2 members to Parliament from the time of Edward I. until 1867-1868. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/SOM/Wells/index.html</link>
+<link>http://en.wikipedia.org/wiki/St_Cuthbert_Out</link>
+<link>http://en.wikipedia.org/wiki/Wells</link>
+<link>http://www.workhouses.org.uk/Wells</link>
+<link>http://www.geonames.org/2634569</link>
+</links>
+<unit>
+   <id>10029600</id>
+   <status>RegD/PLU</status>
+   <name>WELLS</name>
+</unit>
+<unit>
+   <id>10061581</id>
+   <status>RD</status>
+   <name>WELLS</name>
+</unit>
+<unit>
+   <id>10133749</id>
+   <status>Borough</status>
+   <name>WELLS</name>
+</unit>
+<unit>
+   <id>10137603</id>
+   <status>USD</status>
+   <name>WELLS</name>
+</unit>
+<unit>
+   <id>10175070</id>
+   <status>Hundred</status>
+   <name>WELLS FORUM</name>
+</unit>
+<unit>
+   <id>10201445</id>
+   <status>RSD</status>
+   <name>WELLS</name>
+</unit>
+<unit>
+   <id>10220592</id>
+   <status>MB</status>
+   <name>WELLS</name>
+</unit>
+<unit>
+   <id>10445530</id>
+   <status>CP</status>
+   <name>WELLS</name>
+</unit>
+<unit>
+   <id>10445541</id>
+   <status>CP/ParLib</status>
+   <name>WELLS ST ANDREW</name>
+</unit>
+<unit>
+   <id>10445553</id>
+   <status>CP/AP</status>
+   <name>WELLS ST CUTHBERT</name>
+</unit>
+<unit>
+   <id>10445619</id>
+   <status>EP</status>
+   <name>WELLS ST CUTHBERT</name>
+</unit>
+<unit>
+   <id>10445644</id>
+   <status>CP</status>
+   <name>WELLS ST CUTHBERT IN</name>
+</unit>
+<unit>
+   <id>10445700</id>
+   <status>CP</status>
+   <name>WELLS ST CUTHBERT OUT</name>
+</unit>
+<unit>
+   <id>10445747</id>
+   <status>EP</status>
+   <name>EAST WELLS</name>
+</unit>
+<unit>
+   <id>10549565</id>
+   <status></status>
+   <name>WELLS</name>
+</unit>
+<unit>
+   <id>10567233</id>
+   <status></status>
+   <name>WELLS</name>
+</unit>
+<unit>
+   <id>10582003</id>
+   <status></status>
+   <name>WELLS</name>
+</unit>
+<unit>
+   <id>12742174</id>
+   <status>PDivCon</status>
+   <name>SOMERSETSHIRE WELLS</name>
+</unit>
+<unit>
+   <id>12743580</id>
+   <status>PBCon</status>
+   <name>WELLS</name>
+</unit>
+<unit>
+   <id>12756720</id>
+   <status>CCon</status>
+   <name>WELLS</name>
+</unit>
+<unit>
+   <id>12833878</id>
+   <status></status>
+   <name>WELLS</name>
+</unit>
+<nearByPlace>
+   <id>12560</id>
+   <name>CHEWTON MENDIP</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12729</id>
+   <name>DINDER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12927</id>
+   <name>EAST HARPTREE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13140</id>
+   <name>WEST PENNARD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13154</id>
+   <name>PRIDDY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13382</id>
+   <name>WESTBURY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13422</id>
+   <name>WOOKEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13426</id>
+   <name>NORTH WOOTTON</name>
+</nearByPlace>
+</place>
+</results>

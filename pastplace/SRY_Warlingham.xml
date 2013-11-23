@@ -1,0 +1,38 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1971</id>
+<name>WARLINGHAM</name>
+<container>SURREY</container>
+<lat>51.31078728779</lat>
+<lon>-0.0613353962536891</lon>
+<gazetteerText>WARLINGHAM, a parish, with a village, in Godstone district, Surrey; adjacent to the Caterham railway, 4&#190; miles SSE of Croydon. It has a post-office under Croydon, and a r. station. Acres, 1,777. Real property, &#163;2,330. Pop., 602. Houses, 118. The manor belongs to Captain A. D. Wigsell. The living is a vicarage, united with Chelsham, in the diocese of Winchester. Value, &#163;471.* Patron, Capt. A. D. Wigsell. The church is early English and good. There are a Wesleyan chapel, a national school, and charities &#163;270. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Warlingham</link>
+<link>http://www.geonames.org/2634759</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=43074</link>
+</links>
+<unit>
+   <id>10037311</id>
+   <status>CP/AP</status>
+   <name>WARLINGHAM</name>
+</unit>
+<unit>
+   <id>10191488</id>
+   <status>EP</status>
+   <name>WARLINGHAM WITH CHELSHAM</name>
+</unit>
+<nearByPlace>
+   <id>2063</id>
+   <name>CUDHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4082</id>
+   <name>FARLEIGH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4090</id>
+   <name>CHELSHAM</name>
+</nearByPlace>
+</place>
+</results>

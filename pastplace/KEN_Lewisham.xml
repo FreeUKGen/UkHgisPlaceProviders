@@ -1,0 +1,188 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>366</id>
+<name>LEWISHAM</name>
+<container>KENT</container>
+<lat>51.4574735367917</lat>
+<lon>-0.00914158082789423</lon>
+<gazetteerText>Lewisham, parl. bor., par., and SE. suburb of London with ry. sta. (Lewisham Junction), Kent, on river Ravensbourne, 4 miles SE. of St Paul&apos;s - par., 5774 ac., pop. 53,065; pad. bor. (including also the par. of Lee), 7012 ac., pop. 67,500; 1 Bank; has large nurseries. Lewisham returns 1 member to Parliament; It was made a parl. bor. in 1885. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.nwkfhs.org.uk/LEWI_plc.htm</link>
+<link>http://en.wikipedia.org/wiki/Lewisham</link>
+<link>http://www.workhouses.org.uk/Lewisham</link>
+<link>http://www.geonames.org/2644556</link>
+</links>
+<unit>
+   <id>12746260</id>
+   <status>BCon/PBDivCon</status>
+   <name>LEWISHAM WEST</name>
+</unit>
+<unit>
+   <id>12746258</id>
+   <status>BCon</status>
+   <name>LEWISHAM SOUTH</name>
+</unit>
+<unit>
+   <id>12757694</id>
+   <status>BCon</status>
+   <name>LEWISHAM EAST</name>
+</unit>
+<unit>
+   <id>10222102</id>
+   <status>EP</status>
+   <name>LEWISHAM ST SWITHUN HITHER GREEN</name>
+</unit>
+<unit>
+   <id>12829279</id>
+   <status></status>
+   <name>LEWISHAM</name>
+</unit>
+<unit>
+   <id>12749120</id>
+   <status>PBCon</status>
+   <name>LEWISHAM</name>
+</unit>
+<unit>
+   <id>12798945</id>
+   <status>BCon</status>
+   <name>LEWISHAM NORTH</name>
+</unit>
+<unit>
+   <id>10108676</id>
+   <status>LB</status>
+   <name>LEWISHAM</name>
+</unit>
+<unit>
+   <id>10139375</id>
+   <status>RegD/PLU</status>
+   <name>LEWISHAM</name>
+</unit>
+<unit>
+   <id>10057334</id>
+   <status></status>
+   <name>LEWISHAM</name>
+</unit>
+<unit>
+   <id>10057991</id>
+   <status>MetB</status>
+   <name>LEWISHAM</name>
+</unit>
+<unit>
+   <id>10222059</id>
+   <status>CP/AP</status>
+   <name>LEWISHAM</name>
+</unit>
+<unit>
+   <id>10062240</id>
+   <status>Lon_SDist</status>
+   <name>LEWISHAM</name>
+</unit>
+<unit>
+   <id>10539390</id>
+   <status></status>
+   <name>LEWISHAM</name>
+</unit>
+<unit>
+   <id>10222060</id>
+   <status>EP</status>
+   <name>LEWISHAM</name>
+</unit>
+<unit>
+   <id>10222084</id>
+   <status>EP</status>
+   <name>LEWISHAM ST STEPHEN</name>
+</unit>
+<unit>
+   <id>10583202</id>
+   <status></status>
+   <name>LEWISHAM</name>
+</unit>
+<unit>
+   <id>10222096</id>
+   <status>EP</status>
+   <name>LEWISHAM ST STEPHEN AND ST MARK</name>
+</unit>
+<unit>
+   <id>10568134</id>
+   <status></status>
+   <name>LEWISHAM</name>
+</unit>
+<unit>
+   <id>10222072</id>
+   <status>EP</status>
+   <name>LEWISHAM ST MARK</name>
+</unit>
+<unit>
+   <id>12754486</id>
+   <status>PBDivCon</status>
+   <name>LEWISHAM EAST</name>
+</unit>
+<nearByPlace>
+   <id>38</id>
+   <name>SEVENOAKS</name>
+</nearByPlace>
+<nearByPlace>
+   <id>39</id>
+   <name>SOUTHBOROUGH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>269</id>
+   <name>BROMLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>387</id>
+   <name>DEPTFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1169</id>
+   <name>ORPINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2055</id>
+   <name>CHELSFIELD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>3451</id>
+   <name>CHEVENING</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4484</id>
+   <name>HILDENBOROUGH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4490</id>
+   <name>DUNTON GREEN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>6287</id>
+   <name>MOTTINGHAM</name>
+</nearByPlace>
+</place>
+<place>
+<id>23331</id>
+<name>CATFORD</name>
+<container>KENT</container>
+<lat>51.4450377470093</lat>
+<lon>-0.0183181505806518</lon>
+<gazetteerText>CATFORD-BRIDGE, a railway station in the west of Kent, on the Beckenham railway, adjacent to Ravensbourn river, 6 miles SE of London Bridge. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2653516</link>
+</links>
+<unit>
+   <id>10039990</id>
+   <status>EP</status>
+   <name>CATFORD ST LAURENCE</name>
+</unit>
+<unit>
+   <id>10150840</id>
+   <status>EP</status>
+   <name>CATFORD ST ANDREW</name>
+</unit>
+<unit>
+   <id>10594340</id>
+   <status>EP</status>
+   <name>CATFORD SOUTHEND AND DOWNHAM</name>
+</unit>
+</place>
+</results>

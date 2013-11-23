@@ -1,0 +1,71 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>16682</id>
+<name>TRANENT</name>
+<container>EAST LOTHIAN</container>
+<lat>55.9454962285772</lat>
+<lon>-2.95278631268047</lon>
+<gazetteerText>Tranent, police burgh and par., Haddingtonshire, 1&#188; mile SE. of Prestonpans ry. sta. and 9&#189; miles E. of Edinburgh - par., 5919 ac., pop. 5198; burgh, pop. 2235; P.O., T.O., 1 Bank; has an iron foundry and agricultural implement works; collieries are in the vicinity. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Tranent</link>
+<link>http://www.clerkington.plus.com/GENUKI/ELN/Tranent/index.html</link>
+<link>http://www.geonames.org/2635563</link>
+</links>
+<unit>
+   <id>10101906</id>
+   <status></status>
+   <name>TRANENT</name>
+</unit>
+<unit>
+   <id>10362350</id>
+   <status>Burgh</status>
+   <name>TRANENT</name>
+</unit>
+<unit>
+   <id>12837665</id>
+   <status>DoC</status>
+   <name>TRANENT</name>
+</unit>
+<nearByPlace>
+   <id>16373</id>
+   <name>NORTH BERWICK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>16378</id>
+   <name>PENCAITLAND</name>
+</nearByPlace>
+<nearByPlace>
+   <id>16446</id>
+   <name>DIRLETON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>16666</id>
+   <name>HADDINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>16669</id>
+   <name>PRESTONKIRK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>16891</id>
+   <name>DUNBAR</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17010</id>
+   <name>ABERLADY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17093</id>
+   <name>ATHELSTANEFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17147</id>
+   <name>ORMISTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17151</id>
+   <name>GLADSMUIR</name>
+</nearByPlace>
+</place>
+</results>

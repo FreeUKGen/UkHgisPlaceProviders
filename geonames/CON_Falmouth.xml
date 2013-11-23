@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Falmouth</toponymName>
+<name>Falmouth</name>
+<lat>50.15441</lat>
+<lng>-5.07113</lng>
+<geonameId>2649715</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>22222</population>
+<alternateNames>Aberfal,Aberfala,Falmouth,Falmut,Folmut,fa er mao si,farumasu,paelmeoseu,Фалмут,Фолмът,ファルマス,法尔茅斯,팰머스</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE035</adminCode3>
+<adminName3>Falmouth</adminName3>
+<alternateName lang="bg">Фолмът</alternateName>
+<alternateName lang="br">Aberfal</alternateName>
+<alternateName lang="ca">Falmouth</alternateName>
+<alternateName lang="cy">Aberfal</alternateName>
+<alternateName lang="de">Falmouth</alternateName>
+<alternateName lang="en">Falmouth</alternateName>
+<alternateName lang="es">Falmouth</alternateName>
+<alternateName lang="fi">Falmouth</alternateName>
+<alternateName lang="gd">Aberfal</alternateName>
+<alternateName lang="ja">ファルマス</alternateName>
+<alternateName lang="ko">팰머스</alternateName>
+<alternateName lang="kw">Aberfala</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Falmouth%2C_Cornwall</alternateName>
+<alternateName lang="no">Falmouth</alternateName>
+<alternateName lang="pl">Falmouth</alternateName>
+<alternateName lang="ru">Фалмут</alternateName>
+<alternateName lang="sv">Falmouth</alternateName>
+<alternateName lang="unlc">FAL</alternateName>
+<alternateName lang="zh">法尔茅斯</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.10092</west>
+<north>50.17349</north>
+<east>-5.04135</east>
+<south>50.13533</south>
+</bbox>
+<score>107.16487121582031</score>
+</geoname>
+<geoname>
+<toponymName>Falmouth</toponymName>
+<name>Falmouth</name>
+<lat>50.14505</lat>
+<lng>-5.07133</lng>
+<geonameId>7291120</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE035</adminCode3>
+<adminName3>Falmouth</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.10112</west>
+<north>50.1659</north>
+<east>-5.04154</east>
+<south>50.1242</south>
+</bbox>
+<score>97.18951416015625</score>
+</geoname>
+</geonames>

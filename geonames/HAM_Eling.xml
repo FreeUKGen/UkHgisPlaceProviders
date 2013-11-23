@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Eling</toponymName>
+<name>Eling</name>
+<lat>50.9</lat>
+<lng>-1.48333</lng>
+<geonameId>2650115</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UJ</adminCode3>
+<adminName3>New Forest</adminName3>
+<alternateName lang="unlc">EIN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.4976</west>
+<north>50.90899</north>
+<east>-1.46907</east>
+<south>50.89101</south>
+</bbox>
+<score>46.915672302246094</score>
+</geoname>
+</geonames>

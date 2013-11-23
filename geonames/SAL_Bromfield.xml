@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Bromfield</toponymName>
+<name>Bromfield</name>
+<lat>54.8</lat>
+<lng>-3.26667</lng>
+<geonameId>2654590</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bromfield</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UB</adminCode3>
+<adminName3>Allerdale District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bromfield%2C_Cumbria</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.28227</west>
+<north>54.80899</north>
+<east>-3.25106</east>
+<south>54.79101</south>
+</bbox>
+<score>83.11891174316406</score>
+</geoname>
+<geoname>
+<toponymName>Bromfield</toponymName>
+<name>Bromfield</name>
+<lat>54.802</lat>
+<lng>-3.28303</lng>
+<geonameId>7300105</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UB</adminCode3>
+<adminName3>Allerdale District</adminName3>
+<adminCode4>16UB017</adminCode4>
+<adminName4>Bromfield</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.34296</west>
+<north>54.82825</north>
+<east>-3.2231</east>
+<south>54.77576</south>
+</bbox>
+<score>66.1983871459961</score>
+</geoname>
+<geoname>
+<toponymName>Bromfield</toponymName>
+<name>Bromfield</name>
+<lat>52.38517</lat>
+<lng>-2.74983</lng>
+<geonameId>7301686</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG033</adminCode3>
+<adminName3>Bromfield</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bromfield%2C_Shropshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.80921</west>
+<north>52.41349</north>
+<east>-2.69044</east>
+<south>52.35685</south>
+</bbox>
+<score>58.85694885253906</score>
+</geoname>
+<geoname>
+<toponymName>Bromfield</toponymName>
+<name>Bromfield</name>
+<lat>52.38333</lat>
+<lng>-2.76667</lng>
+<geonameId>2654591</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG033</adminCode3>
+<adminName3>Bromfield</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.79615</west>
+<north>52.40132</north>
+<east>-2.73719</east>
+<south>52.36535</south>
+</bbox>
+<score>33.09919357299805</score>
+</geoname>
+<geoname>
+<toponymName>Bromfield</toponymName>
+<name>Bromfield</name>
+<lat>52.38765</lat>
+<lng>-2.7671</lng>
+<geonameId>6287600</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>16.549596786499023</score>
+</geoname>
+</geonames>

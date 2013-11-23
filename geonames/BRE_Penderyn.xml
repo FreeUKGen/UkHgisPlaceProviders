@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Penderyn</toponymName>
+<name>Penderyn</name>
+<lat>51.75992</lat>
+<lng>-3.52218</lng>
+<geonameId>2640478</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Penderyn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y9</adminCode2>
+<adminName2>County Borough of Rhondda Cynon Taff</adminName2>
+<adminCode3>00PF009</adminCode3>
+<adminName3>Hirwaun</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Penderyn_%28whisky%29</alternateName>
+<alternateName lang="unlc">PEY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.53671</west>
+<north>51.76891</north>
+<east>-3.50765</east>
+<south>51.75092</south>
+</bbox>
+<score>91.18495178222656</score>
+</geoname>
+</geonames>

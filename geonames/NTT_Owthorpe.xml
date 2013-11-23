@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Owthorpe</toponymName>
+<name>Owthorpe</name>
+<lat>52.88607</lat>
+<lng>-1.00381</lng>
+<geonameId>7300917</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UJ</adminCode3>
+<adminName3>Rushcliffe District</adminName3>
+<adminCode4>37UJ032</adminCode4>
+<adminName4>Owthorpe</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Owthorpe</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.02866</west>
+<north>52.90157</north>
+<east>-0.97897</east>
+<south>52.87057</south>
+</bbox>
+<score>61.74647521972656</score>
+</geoname>
+</geonames>

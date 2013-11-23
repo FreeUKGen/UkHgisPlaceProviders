@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cilybebyll</toponymName>
+<name>Cilybebyll</name>
+<lat>51.72839</lat>
+<lng>-3.81736</lng>
+<geonameId>7299859</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y5</adminCode2>
+<adminName2>County Borough of Neath Port Talbot</adminName2>
+<adminCode3>00NZ008</adminCode3>
+<adminName3>Cilybebyll</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.86442</west>
+<north>51.75963</north>
+<east>-3.77031</east>
+<south>51.69715</south>
+</bbox>
+<score>115.11770629882812</score>
+</geoname>
+<geoname>
+<toponymName>Cilybebyll</toponymName>
+<name>Cilybebyll</name>
+<lat>51.72299</lat>
+<lng>-3.82904</lng>
+<geonameId>2652999</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y5</adminCode2>
+<adminName2>County Borough of Neath Port Talbot</adminName2>
+<adminCode3>00NZ008</adminCode3>
+<adminName3>Cilybebyll</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cilybebyll</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.84356</west>
+<north>51.73198</north>
+<east>-3.81452</east>
+<south>51.714</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+</geonames>

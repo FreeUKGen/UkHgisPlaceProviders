@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Ebchester</toponymName>
+<name>Ebchester</name>
+<lat>54.89261</lat>
+<lng>-1.84188</lng>
+<geonameId>2650283</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ebchester</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EM137</adminCode3>
+<adminName3>GB.ENG.D8.00EM137</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ebchester</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.85752</west>
+<north>54.9016</north>
+<east>-1.82624</east>
+<south>54.88361</south>
+</bbox>
+<score>111.59024810791016</score>
+</geoname>
+</geonames>

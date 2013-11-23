@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Ellingham</toponymName>
+<name>Ellingham</name>
+<lat>55.54008</lat>
+<lng>-1.75011</lng>
+<geonameId>7302000</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM053</adminCode3>
+<adminName3>Ellingham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.80929</west>
+<north>55.5787</north>
+<east>-1.69093</east>
+<south>55.50145</south>
+</bbox>
+<score>107.35072326660156</score>
+</geoname>
+<geoname>
+<toponymName>Ellingham</toponymName>
+<name>Ellingham</name>
+<lat>50.86667</lat>
+<lng>-1.78333</lng>
+<geonameId>2650095</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Ellingham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UJ</adminCode3>
+<adminName3>New Forest</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ellingham%2C_Hampshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.79759</west>
+<north>50.87566</north>
+<east>-1.76908</east>
+<south>50.85767</south>
+</bbox>
+<score>97.41450500488281</score>
+</geoname>
+<geoname>
+<toponymName>Ellingham</toponymName>
+<name>Ellingham</name>
+<lat>52.47771</lat>
+<lng>1.47062</lng>
+<geonameId>2650094</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ellingham%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.45585</west>
+<north>52.4867</north>
+<east>1.48539</east>
+<south>52.46872</south>
+</bbox>
+<score>81.41751098632812</score>
+</geoname>
+<geoname>
+<toponymName>Ellingham</toponymName>
+<name>Ellingham</name>
+<lat>55.51667</lat>
+<lng>-1.71667</lng>
+<geonameId>2650093</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM053</adminCode3>
+<adminName3>Ellingham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ellingham%2C_Northumberland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.74845</west>
+<north>55.53465</north>
+<east>-1.68488</east>
+<south>55.49868</south>
+</bbox>
+<score>68.97483825683594</score>
+</geoname>
+<geoname>
+<toponymName>Ellingham</toponymName>
+<name>Ellingham</name>
+<lat>52.48336</lat>
+<lng>1.4822</lng>
+<geonameId>7299328</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH038</adminCode4>
+<adminName4>Ellingham</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ellingham%2C_Norfolk%2C_United_Kingdom</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.45529</west>
+<north>52.505</north>
+<east>1.50911</east>
+<south>52.46172</south>
+</bbox>
+<score>53.15143585205078</score>
+</geoname>
+</geonames>

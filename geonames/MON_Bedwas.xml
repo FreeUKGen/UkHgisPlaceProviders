@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bedwas</toponymName>
+<name>Bedwas</name>
+<lat>51.59183</lat>
+<lng>-3.19886</lng>
+<geonameId>2656033</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8242</population>
+<alternateNames>Bedwas</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X4</adminCode2>
+<adminName2>Caerphilly</adminName2>
+<adminCode3>00PK005</adminCode3>
+<adminName3>Bedwas, Trethomas and Machen</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bedwas</alternateName>
+<alternateName lang="unlc">BDW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.21659</west>
+<north>51.60284</north>
+<east>-3.18112</east>
+<south>51.58081</south>
+</bbox>
+<score>110.82626342773438</score>
+</geoname>
+</geonames>

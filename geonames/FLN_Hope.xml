@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Hope</toponymName>
+<name>Hope</name>
+<lat>53.11882</lat>
+<lng>-3.04138</lng>
+<geonameId>7297175</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ015</adminCode3>
+<adminName3>Hope</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.08538</west>
+<north>53.13604</north>
+<east>-2.99738</east>
+<south>53.1016</south>
+</bbox>
+<score>79.82337951660156</score>
+</geoname>
+<geoname>
+<toponymName>Hope</toponymName>
+<name>Hope</name>
+<lat>54.46685</lat>
+<lng>-1.961</lng>
+<geonameId>7300083</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ057</adminCode3>
+<adminName3>Hope</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.99676</west>
+<north>54.48223</north>
+<east>-1.92525</east>
+<south>54.45146</south>
+</bbox>
+<score>79.82337951660156</score>
+</geoname>
+<geoname>
+<toponymName>Hope Cove</toponymName>
+<name>Hope</name>
+<lat>50.24539</lat>
+<lng>-3.85895</lng>
+<geonameId>2646642</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hope</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UG</adminCode3>
+<adminName3>South Hams District</adminName3>
+<alternateName lang="en">Hope</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hope_Cove</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.87301</west>
+<north>50.25439</north>
+<east>-3.84488</east>
+<south>50.2364</south>
+</bbox>
+<score>60.292694091796875</score>
+</geoname>
+<geoname>
+<toponymName>Hope</toponymName>
+<name>Hope</name>
+<lat>53.36432</lat>
+<lng>-1.76624</lng>
+<geonameId>7300210</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UH</adminCode3>
+<adminName3>High Peak District</adminName3>
+<adminCode4>17UH014</adminCode4>
+<adminName4>Hope</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.80704</west>
+<north>53.39368</north>
+<east>-1.72543</east>
+<south>53.33495</south>
+</bbox>
+<score>58.00091552734375</score>
+</geoname>
+<geoname>
+<toponymName>Hope</toponymName>
+<name>Hope</name>
+<lat>53.35</lat>
+<lng>-1.75</lng>
+<geonameId>2646640</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>900</population>
+<alternateNames>Hope</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UH</adminCode3>
+<adminName3>High Peak District</adminName3>
+<alternateName lang="en">Hope</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hope%2C_Derbyshire</alternateName>
+<alternateName lang="post">S33</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.75151</west>
+<north>53.3509</north>
+<east>-1.74849</east>
+<south>53.3491</south>
+</bbox>
+<score>57.46485137939453</score>
+</geoname>
+<geoname>
+<toponymName>Hope</toponymName>
+<name>Hope</name>
+<lat>53.11667</lat>
+<lng>-3.03333</lng>
+<geonameId>2646641</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ015</adminCode3>
+<adminName3>Hope</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hope%2C_Flintshire</alternateName>
+<alternateName lang="unlc">HPE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.06332</west>
+<north>53.13465</north>
+<east>-3.00335</east>
+<south>53.09868</south>
+</bbox>
+<score>54.220462799072266</score>
+</geoname>
+</geonames>

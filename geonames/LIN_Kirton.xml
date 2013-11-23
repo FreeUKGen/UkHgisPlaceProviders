@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Kirton</toponymName>
+<name>Kirton</name>
+<lat>52.92774</lat>
+<lng>-0.06008</lng>
+<geonameId>2645181</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3546</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UB</adminCode3>
+<adminName3>Boston District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirton%2C_Lincolnshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.07063</west>
+<north>52.9341</north>
+<east>-0.04953</east>
+<south>52.92138</south>
+</bbox>
+<score>88.23988342285156</score>
+</geoname>
+<geoname>
+<toponymName>Kirton</toponymName>
+<name>Kirton</name>
+<lat>52.00834</lat>
+<lng>1.31939</lng>
+<geonameId>2645223</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kirkton,Kirton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UG</adminCode3>
+<adminName3>Suffolk Coastal District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirton%2C_Suffolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.30478</west>
+<north>52.01734</north>
+<east>1.334</east>
+<south>51.99935</south>
+</bbox>
+<score>79.56957244873047</score>
+</geoname>
+<geoname>
+<toponymName>Kirton</toponymName>
+<name>Kirton</name>
+<lat>52.01515</lat>
+<lng>1.32453</lng>
+<geonameId>7291878</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UG</adminCode3>
+<adminName3>Suffolk Coastal District</adminName3>
+<adminCode4>42UG060</adminCode4>
+<adminName4>Kirton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.28703</west>
+<north>52.02865</north>
+<east>1.36203</east>
+<south>52.00166</south>
+</bbox>
+<score>69.07176208496094</score>
+</geoname>
+<geoname>
+<toponymName>Kirton</toponymName>
+<name>Kirton</name>
+<lat>52.93486</lat>
+<lng>-0.04592</lng>
+<geonameId>7300876</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UB</adminCode3>
+<adminName3>Boston District</adminName3>
+<adminCode4>32UB011</adminCode4>
+<adminName4>Kirton</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.14492</west>
+<north>52.97639</north>
+<east>0.05308</east>
+<south>52.89332</south>
+</bbox>
+<score>69.07176208496094</score>
+</geoname>
+<geoname>
+<toponymName>Kirton in Lindsey</toponymName>
+<name>Kirton in Lindsey</name>
+<lat>53.47548</lat>
+<lng>-0.59566</lng>
+<geonameId>2645180</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>2754</population>
+<alternateNames>Kirton,Kirton in Lindsey</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD033</adminCode3>
+<adminName3>Kirton in Lindsey</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirton_in_Lindsey</alternateName>
+<alternateName lang="unlc">KRT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.60635</west>
+<north>53.48184</north>
+<east>-0.58498</east>
+<south>53.46912</south>
+</bbox>
+<score>49.03514862060547</score>
+</geoname>
+<geoname>
+<toponymName>Kirton</toponymName>
+<name>Kirton</name>
+<lat>53.21081</lat>
+<lng>-0.9598</lng>
+<geonameId>7290924</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG045</adminCode4>
+<adminName4>Kirton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kirton%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.98048</west>
+<north>53.22197</north>
+<east>-0.93912</east>
+<south>53.19965</south>
+</bbox>
+<score>47.805641174316406</score>
+</geoname>
+</geonames>

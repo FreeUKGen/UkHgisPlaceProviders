@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ossington</toponymName>
+<name>Ossington</name>
+<lat>53.17698</lat>
+<lng>-0.87096</lng>
+<geonameId>7296958</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG060</adminCode4>
+<adminName4>Ossington</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ossington</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.90195</west>
+<north>53.1962</north>
+<east>-0.83997</east>
+<south>53.15775</south>
+</bbox>
+<score>55.07293701171875</score>
+</geoname>
+<geoname>
+<toponymName>Ossington</toponymName>
+<name>Ossington</name>
+<lat>53.17404</lat>
+<lng>-0.8686</lng>
+<geonameId>2640866</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<alternateName lang="unlc">OSN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.88361</west>
+<north>53.18303</north>
+<east>-0.85359</east>
+<south>53.16505</south>
+</bbox>
+<score>46.194610595703125</score>
+</geoname>
+</geonames>

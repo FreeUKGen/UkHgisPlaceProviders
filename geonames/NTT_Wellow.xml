@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Wellow</toponymName>
+<name>Wellow</name>
+<lat>51.32086</lat>
+<lng>-2.37834</lng>
+<geonameId>7296558</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA047</adminCode3>
+<adminName3>Wellow</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.41603</west>
+<north>51.34475</north>
+<east>-2.34065</east>
+<south>51.29696</south>
+</bbox>
+<score>104.37547302246094</score>
+</geoname>
+<geoname>
+<toponymName>Wellow</toponymName>
+<name>Wellow</name>
+<lat>53.18333</lat>
+<lng>-0.98333</lng>
+<geonameId>2634570</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Wellow</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wellow%2C_Nottinghamshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.99834</west>
+<north>53.19233</north>
+<east>-0.96832</east>
+<south>53.17434</south>
+</bbox>
+<score>94.36885070800781</score>
+</geoname>
+<geoname>
+<toponymName>Wellow</toponymName>
+<name>Wellow</name>
+<lat>53.18896</lat>
+<lng>-0.98348</lng>
+<geonameId>7300906</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<adminCode4>37UG080</adminCode4>
+<adminName4>Wellow</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.00619</west>
+<north>53.20284</north>
+<east>-0.96076</east>
+<south>53.17507</south>
+</bbox>
+<score>75.25365447998047</score>
+</geoname>
+<geoname>
+<toponymName>Wellow</toponymName>
+<name>Wellow</name>
+<lat>51.32444</lat>
+<lng>-2.37417</lng>
+<geonameId>2634571</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA047</adminCode3>
+<adminName3>Wellow</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wellow%2C_Somerset</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.40296</west>
+<north>51.34243</north>
+<east>-2.34537</east>
+<south>51.30646</south>
+</bbox>
+<score>66.8257827758789</score>
+</geoname>
+<geoname>
+<toponymName>Wellow</toponymName>
+<name>Wellow</name>
+<lat>50.97709</lat>
+<lng>-1.56595</lng>
+<geonameId>7295782</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UN</adminCode3>
+<adminName3>Test Valley District</adminName3>
+<adminCode4>24UN055</adminCode4>
+<adminName4>Wellow</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wellow%2C_Hampshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.60213</west>
+<north>51.00291</north>
+<east>-1.52977</east>
+<south>50.95127</south>
+</bbox>
+<score>51.44850158691406</score>
+</geoname>
+<geoname>
+<toponymName>Wellow</toponymName>
+<name>Wellow</name>
+<lat>53.19128</lat>
+<lng>-0.98506</lng>
+<geonameId>6287625</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J9</adminCode2>
+<adminName2>Nottinghamshire</adminName2>
+<adminCode3>37UG</adminCode3>
+<adminName3>Newark and Sherwood District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>18.813413619995117</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Sixhills</toponymName>
+<name>Sixhills</name>
+<lat>53.36667</lat>
+<lng>-0.23333</lng>
+<geonameId>2637801</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Sixhills</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.24841</west>
+<north>53.37566</north>
+<east>-0.21826</east>
+<south>53.35767</south>
+</bbox>
+<score>61.02178955078125</score>
+</geoname>
+<geoname>
+<toponymName>Sixhills</toponymName>
+<name>Sixhills</name>
+<lat>53.36299</lat>
+<lng>-0.24238</lng>
+<geonameId>7291899</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<adminCode4>32UH091</adminCode4>
+<adminName4>Sixhills</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sixhills</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.27988</west>
+<north>53.37867</north>
+<east>-0.20487</east>
+<south>53.3473</south>
+</bbox>
+<score>60.419189453125</score>
+</geoname>
+</geonames>

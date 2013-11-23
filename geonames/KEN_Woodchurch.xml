@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Woodchurch</toponymName>
+<name>Woodchurch</name>
+<lat>53.36667</lat>
+<lng>-3.08333</lng>
+<geonameId>2633665</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Woodchurch</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q1</adminCode2>
+<adminName2>Wirral</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Woodchurch</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.09841</west>
+<north>53.37566</north>
+<east>-3.06826</east>
+<south>53.35767</south>
+</bbox>
+<score>101.5915298461914</score>
+</geoname>
+<geoname>
+<toponymName>Woodchurch</toponymName>
+<name>Woodchurch</name>
+<lat>51.07605</lat>
+<lng>0.77346</lng>
+<geonameId>2633666</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Woodchurch%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.75915</west>
+<north>51.08505</north>
+<east>0.78778</east>
+<south>51.06706</south>
+</bbox>
+<score>80.23948669433594</score>
+</geoname>
+<geoname>
+<toponymName>Woodchurch</toponymName>
+<name>Woodchurch</name>
+<lat>51.07875</lat>
+<lng>0.76892</lng>
+<geonameId>7293736</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<adminCode4>29UB041</adminCode4>
+<adminName4>Woodchurch</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.72644</west>
+<north>51.11625</north>
+<east>0.81139</east>
+<south>51.04124</south>
+</bbox>
+<score>77.17546081542969</score>
+</geoname>
+</geonames>

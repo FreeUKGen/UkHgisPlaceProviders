@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Narborough</toponymName>
+<name>Narborough</name>
+<lat>52.56667</lat>
+<lng>-1.2</lng>
+<geonameId>2641884</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6321</population>
+<alternateNames>Narborough</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UB</adminCode3>
+<adminName3>Blaby</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Narborough%2C_Leicestershire</alternateName>
+<alternateName lang="unlc">NBG</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.21655</west>
+<north>52.57672</north>
+<east>-1.18345</east>
+<south>52.55661</south>
+</bbox>
+<score>100.89085388183594</score>
+</geoname>
+<geoname>
+<toponymName>Narborough</toponymName>
+<name>Narborough</name>
+<lat>52.57806</lat>
+<lng>-1.20937</lng>
+<geonameId>7294394</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UB</adminCode3>
+<adminName3>Blaby</adminName3>
+<adminCode4>31UB017</adminCode4>
+<adminName4>Narborough</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.23033</west>
+<north>52.59627</north>
+<east>-1.1884</east>
+<south>52.55986</south>
+</bbox>
+<score>78.83746337890625</score>
+</geoname>
+<geoname>
+<toponymName>Narborough</toponymName>
+<name>Narborough</name>
+<lat>52.68333</lat>
+<lng>0.58333</lng>
+<geonameId>2641883</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Narborough</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.56849</west>
+<north>52.69233</north>
+<east>0.59817</east>
+<south>52.67434</south>
+</bbox>
+<score>58.03498840332031</score>
+</geoname>
+<geoname>
+<toponymName>Narborough</toponymName>
+<name>Narborough</name>
+<lat>52.67289</lat>
+<lng>0.59423</lng>
+<geonameId>7290846</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<adminCode4>33UB065</adminCode4>
+<adminName4>Narborough</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Narborough%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.55096</west>
+<north>52.69279</north>
+<east>0.63749</east>
+<south>52.65299</south>
+</bbox>
+<score>54.088958740234375</score>
+</geoname>
+</geonames>

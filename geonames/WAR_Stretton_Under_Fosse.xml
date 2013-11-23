@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Stretton under Fosse</toponymName>
+<name>Stretton under Fosse</name>
+<lat>52.42883</lat>
+<lng>-1.33784</lng>
+<geonameId>2636656</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Stretton,Stretton under Fosse</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UD</adminCode3>
+<adminName3>Rugby District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stretton-under-Fosse</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.3526</west>
+<north>52.43782</north>
+<east>-1.32309</east>
+<south>52.41984</south>
+</bbox>
+<score>91.02470397949219</score>
+</geoname>
+<geoname>
+<toponymName>Stretton under Fosse</toponymName>
+<name>Stretton under Fosse</name>
+<lat>52.42609</lat>
+<lng>-1.34341</lng>
+<geonameId>7293965</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UD</adminCode3>
+<adminName3>Rugby District</adminName3>
+<adminCode4>44UD032</adminCode4>
+<adminName4>Stretton under Fosse</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.36054</west>
+<north>52.44234</north>
+<east>-1.32627</east>
+<south>52.40984</south>
+</bbox>
+<score>73.21451568603516</score>
+</geoname>
+</geonames>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Broome</toponymName>
+<name>Broome</name>
+<lat>52.41667</lat>
+<lng>-2.88333</lng>
+<geonameId>2654552</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Broome</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Broome%2C_Shropshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.89808</west>
+<north>52.42566</north>
+<east>-2.86858</east>
+<south>52.40767</south>
+</bbox>
+<score>91.81401062011719</score>
+</geoname>
+<geoname>
+<toponymName>Broome</toponymName>
+<name>Broome</name>
+<lat>52.39949</lat>
+<lng>-2.14924</lng>
+<geonameId>7294196</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UG</adminCode3>
+<adminName3>Wyre Forest District</adminName3>
+<adminCode4>47UG002</adminCode4>
+<adminName4>Broome</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Broome%2C_Worcestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.17245</west>
+<north>52.41139</north>
+<east>-2.12603</east>
+<south>52.3876</south>
+</bbox>
+<score>50.34364318847656</score>
+</geoname>
+<geoname>
+<toponymName>Broome</toponymName>
+<name>Broome</name>
+<lat>52.48112</lat>
+<lng>1.45754</lng>
+<geonameId>7299013</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH018</adminCode4>
+<adminName4>Broome</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Broome%2C_Norfolk</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.44033</west>
+<north>52.50412</north>
+<east>1.47475</east>
+<south>52.45811</south>
+</bbox>
+<score>50.34364318847656</score>
+</geoname>
+</geonames>

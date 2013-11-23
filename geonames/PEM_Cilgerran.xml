@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cilgerran</toponymName>
+<name>Cilgerran</name>
+<lat>52.04305</lat>
+<lng>-4.66026</lng>
+<geonameId>7297871</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS011</adminCode3>
+<adminName3>Cilgerran</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.71646</west>
+<north>52.07835</north>
+<east>-4.60406</east>
+<south>52.00776</south>
+</bbox>
+<score>114.15132141113281</score>
+</geoname>
+<geoname>
+<toponymName>Cilgerran</toponymName>
+<name>Cilgerran</name>
+<lat>52.05513</lat>
+<lng>-4.63245</lng>
+<geonameId>2653003</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Cilgerran</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS011</adminCode3>
+<adminName3>Cilgerran</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cilgerran</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.64708</west>
+<north>52.06413</north>
+<east>-4.61782</east>
+<south>52.04614</south>
+</bbox>
+<score>108.45050811767578</score>
+</geoname>
+</geonames>

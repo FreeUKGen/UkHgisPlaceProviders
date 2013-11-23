@@ -1,0 +1,79 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>20993</id>
+<name>LLANFIHANGEL Y TRAETHAU</name>
+<container>MERIONETHSHIRE</container>
+<lat>52.8983395447187</lat>
+<lon>-4.08304280186462</lon>
+<gazetteerText>LLANFIHANGEL-Y-TRAETHAU, a parish and a sub-district in Festiniog district, Merioneth. The parish lies on the coast, at the mouth of the river Dwyryd, and on the Barmouth and Carnarvon railway-which was completed about the end of 1866-3&#188; miles N by E of Harlech. Post town, Harlech, under Carnarvon. Acres, 7,567; of which 2,656 are water. Real property, &#163;5,107. Pop. in 1851,1,587; in 1861,1,687. Houses, 385. The property is divided among a few. The surface near the river is marshy, and inland is hilly. A battle was fought, in 1073, at Bron-yr-Erw, between Trehaern-ab-Caradoc and Grufydd-ab-Cynan. The living is a rectory, united with the p. curacy of Llandecwyn, in the diocese of Bangor. Value, &#163;210. Patron, the Bishop of Bangor. The church occupies a pleasant site; succeeded one which was founded in the time of King Edgar, by W. Dermae de Deler; has a monumental stone of that person; and is good. The p. curacy of Penryhyn-Dendraeth is a separate benefice. There are two chapels for Calvinistic Methodists. The Festiniog workhouse is here; and, at the census of 1861, had 32 inmates.&#151;The sub-district contains also four other parishes. Acres, 31,954. Pop., 3,658. Houses, 813. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/wal/MER/LlanfihangelYTraethau/index.html</link>
+</links>
+<unit>
+   <id>10060813</id>
+   <status>EP</status>
+   <name>LLANFIHANGEL Y TRAETHAU</name>
+</unit>
+<unit>
+   <id>10486415</id>
+   <status>CP/AP</status>
+   <name>LLANFIHANGEL Y TRAETHAU</name>
+</unit>
+</place>
+<place>
+<id>8468</id>
+<name>PENRHYNDEUDRAETH</name>
+<container>MERIONETHSHIRE</container>
+<lat>52.9226595061705</lat>
+<lon>-4.08716457454659</lon>
+<gazetteerText>PENRHYN-DENDRAETH, a chapelry in Llanfi-hangel-y-Traethau, Llandecwyn, and Llanfrothen parishes, Merioneth; on the Festiniog railway, around Penrhyn r. station, 3&#188; miles E by N of Portmadoc. It was constituted in 1858; and it has a post-office under Carnarvon. Pop., 1,088, 78, and 149. Houses, 245, 15, and 31. The living is a p. curacy in the diocese of Bangor. Value, &#163;180. Patron, Mrs. Oakley. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Penrhyndeudraeth</link>
+<link>http://www.geonames.org/2640419</link>
+</links>
+<unit>
+   <id>10086358</id>
+   <status>RD</status>
+   <name>DEUDRAETH</name>
+</unit>
+<unit>
+   <id>10291069</id>
+   <status>CP</status>
+   <name>PENRHYNDEUDRAETH</name>
+</unit>
+<unit>
+   <id>10551717</id>
+   <status></status>
+   <name>DEUDRAETH</name>
+</unit>
+<nearByPlace>
+   <id>2475</id>
+   <name>LLANDANWG</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4465</id>
+   <name>LLANFAIR</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4952</id>
+   <name>LLANDECWYN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4996</id>
+   <name>LLANFROTHEN</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5023</id>
+   <name>BEDDGELERT</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8943</id>
+   <name>TALSARNAU</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17197</id>
+   <name>GWYNEDD</name>
+</nearByPlace>
+</place>
+</results>

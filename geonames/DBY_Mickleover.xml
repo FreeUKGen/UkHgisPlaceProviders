@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Mickleover</toponymName>
+<name>Mickleover</name>
+<lat>52.9049</lat>
+<lng>-1.54277</lng>
+<geonameId>2642640</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Mickleover</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D2</adminCode2>
+<adminName2>Derby</adminName2>
+<adminCode3>17UK</adminCode3>
+<adminName3>GB.ENG.D2.17UK</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Mickleover</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.55769</west>
+<north>52.91389</north>
+<east>-1.52786</east>
+<south>52.8959</south>
+</bbox>
+<score>111.59024810791016</score>
+</geoname>
+</geonames>

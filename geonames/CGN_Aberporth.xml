@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Aberporth</toponymName>
+<name>Aberporth</name>
+<lat>52.12405</lat>
+<lng>-4.55046</lng>
+<geonameId>7292320</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ002</adminCode3>
+<adminName3>Aberporth</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.59333</west>
+<north>52.14452</north>
+<east>-4.50758</east>
+<south>52.10358</south>
+</bbox>
+<score>111.81939697265625</score>
+</geoname>
+<geoname>
+<toponymName>Aberporth</toponymName>
+<name>Aberporth</name>
+<lat>52.13248</lat>
+<lng>-4.54173</lng>
+<geonameId>2657789</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1711</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ002</adminCode3>
+<adminName3>Aberporth</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aberporth</alternateName>
+<alternateName lang="unlc">ABP</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.54906</west>
+<north>52.13698</north>
+<east>-4.53441</east>
+<south>52.12799</south>
+</bbox>
+<score>99.95417785644531</score>
+</geoname>
+<geoname>
+<toponymName>Aberporth</toponymName>
+<name>Aberporth</name>
+<lat>52.13333</lat>
+<lng>-4.56667</lng>
+<geonameId>6296652</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>STNM</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>meteorological station</fcodeName>
+<population/>
+<alternateNames>EGUC</alternateNames>
+<elevation>133</elevation>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<alternateName lang="icao">EGUC</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>16.4422607421875</score>
+</geoname>
+</geonames>

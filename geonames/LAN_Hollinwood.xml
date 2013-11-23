@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Hollinwood</toponymName>
+<name>Hollinwood</name>
+<lat>53.51667</lat>
+<lng>-2.13333</lng>
+<geonameId>2646742</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Hollinwood</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K1</adminCode2>
+<adminName2>Oldham</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hollinwood%2C_Greater_Manchester</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.14846</west>
+<north>53.52566</north>
+<east>-2.1182</east>
+<south>53.50767</south>
+</bbox>
+<score>96.94982147216797</score>
+</geoname>
+</geonames>

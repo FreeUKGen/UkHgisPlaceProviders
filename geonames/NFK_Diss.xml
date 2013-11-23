@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Diss</toponymName>
+<name>Diss</name>
+<lat>52.37675</lat>
+<lng>1.1091</lng>
+<geonameId>2651214</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7610</population>
+<alternateNames>Diss,Diss i England</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Diss</alternateName>
+<alternateName lang="nn">Diss i England</alternateName>
+<alternateName lang="unlc">DIS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.09106</west>
+<north>52.38777</north>
+<east>1.12715</east>
+<south>52.36574</south>
+</bbox>
+<score>92.28018188476562</score>
+</geoname>
+<geoname>
+<toponymName>Diss</toponymName>
+<name>Diss</name>
+<lat>52.38117</lat>
+<lng>1.11984</lng>
+<geonameId>7298981</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH033</adminCode4>
+<adminName4>Diss</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.09617</west>
+<north>52.39522</north>
+<east>1.14351</east>
+<south>52.36712</south>
+</bbox>
+<score>75.0533218383789</score>
+</geoname>
+</geonames>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Walton le Wolds</toponymName>
+<name>Walton le Wolds</name>
+<lat>52.77203</lat>
+<lng>-1.12421</lng>
+<geonameId>2634829</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Walton,Walton le Wolds,Walton-on-the-Wolds</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>Charnwood District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.13908</west>
+<north>52.78103</north>
+<east>-1.10934</east>
+<south>52.76304</south>
+</bbox>
+<score>60.513206481933594</score>
+</geoname>
+<geoname>
+<toponymName>Walton on the Wolds</toponymName>
+<name>Walton on the Wolds</name>
+<lat>52.77138</lat>
+<lng>-1.1149</lng>
+<geonameId>7296316</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H5</adminCode2>
+<adminName2>Leicestershire</adminName2>
+<adminCode3>31UC</adminCode3>
+<adminName3>Charnwood District</adminName3>
+<adminCode4>31UC031</adminCode4>
+<adminName4>Walton on the Wolds</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Walton_on_the_Wolds</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.17591</west>
+<north>52.78078</north>
+<east>-1.05389</east>
+<south>52.76197</south>
+</bbox>
+<score>54.01105499267578</score>
+</geoname>
+</geonames>

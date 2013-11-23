@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Old Penshaw</toponymName>
+<name>Old Penshaw</name>
+<lat>54.88333</lat>
+<lng>-1.48333</lng>
+<geonameId>2641001</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Old Penshaw,Painshaw,Penshaw</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N6</adminCode2>
+<adminName2>Sunderland</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Penshaw</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.49897</west>
+<north>54.89233</north>
+<east>-1.4677</east>
+<south>54.87434</south>
+</bbox>
+<score>67.1251220703125</score>
+</geoname>
+</geonames>

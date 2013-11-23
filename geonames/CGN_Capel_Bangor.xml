@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Capel Bangor</toponymName>
+<name>Capel Bangor</name>
+<lat>52.4</lat>
+<lng>-3.96667</lng>
+<geonameId>2653854</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Capel Bangor</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Capel_Bangor</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.98141</west>
+<north>52.40899</north>
+<east>-3.95192</east>
+<south>52.39101</south>
+</bbox>
+<score>95.13941955566406</score>
+</geoname>
+<geoname>
+<toponymName>Capel Bangor</toponymName>
+<name>Capel Bangor</name>
+<lat>52.39953</lat>
+<lng>-3.98944</lng>
+<geonameId>7671143</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>MTRO</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>metro station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ037</adminCode3>
+<adminName3>Melindwr</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>18.334115982055664</score>
+</geoname>
+</geonames>

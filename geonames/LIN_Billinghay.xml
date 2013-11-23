@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Billinghay</toponymName>
+<name>Billinghay</name>
+<lat>53.07959</lat>
+<lng>-0.27689</lng>
+<geonameId>2655663</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1702</population>
+<alternateNames>Billinghay</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Billinghay</alternateName>
+<alternateName lang="unlc">BHY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.28438</west>
+<north>53.08409</north>
+<east>-0.2694</east>
+<south>53.07509</south>
+</bbox>
+<score>104.75541687011719</score>
+</geoname>
+<geoname>
+<toponymName>Billinghay</toponymName>
+<name>Billinghay</name>
+<lat>53.07956</lat>
+<lng>-0.26511</lng>
+<geonameId>7301763</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<adminCode4>32UE009</adminCode4>
+<adminName4>Billinghay</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.31691</west>
+<north>53.1006</north>
+<east>-0.21331</east>
+<south>53.05853</south>
+</bbox>
+<score>78.46627807617188</score>
+</geoname>
+</geonames>

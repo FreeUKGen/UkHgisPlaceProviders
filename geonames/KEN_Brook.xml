@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Brook</toponymName>
+<name>Brook</name>
+<lat>50.92573</lat>
+<lng>-1.614</lng>
+<geonameId>2654570</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UJ</adminCode3>
+<adminName3>New Forest</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brook%2C_New_Forest</alternateName>
+<alternateName lang="unlc">BOK</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.62827</west>
+<north>50.93473</north>
+<east>-1.59973</east>
+<south>50.91674</south>
+</bbox>
+<score>70.7055892944336</score>
+</geoname>
+<geoname>
+<toponymName>Brook</toponymName>
+<name>Brook</name>
+<lat>50.65202</lat>
+<lng>-1.4502</lng>
+<geonameId>2654571</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G2</adminCode2>
+<adminName2>Isle of Wight</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brook%2C_Isle_of_Wight</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.46438</west>
+<north>50.66101</north>
+<east>-1.43601</east>
+<south>50.64302</south>
+</bbox>
+<score>70.7055892944336</score>
+</geoname>
+<geoname>
+<toponymName>Brook</toponymName>
+<name>Brook</name>
+<lat>51.15903</lat>
+<lng>0.94989</lng>
+<geonameId>2654569</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.93555</west>
+<north>51.16802</north>
+<east>0.96423</east>
+<south>51.15003</south>
+</bbox>
+<score>47.71153259277344</score>
+</geoname>
+<geoname>
+<toponymName>Brook</toponymName>
+<name>Brook</name>
+<lat>51.75611</lat>
+<lng>-4.51361</lng>
+<geonameId>3345213</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X7</adminCode2>
+<adminName2>Carmarthenshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.52814</west>
+<north>51.7651</north>
+<east>-4.49908</east>
+<south>51.74712</south>
+</bbox>
+<score>47.71153259277344</score>
+</geoname>
+<geoname>
+<toponymName>Brook</toponymName>
+<name>Brook</name>
+<lat>51.15589</lat>
+<lng>0.95091</lng>
+<geonameId>7295279</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<adminCode4>29UB009</adminCode4>
+<adminName4>Brook</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Brook%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.93531</west>
+<north>51.16959</north>
+<east>0.9665</east>
+<south>51.14219</south>
+</bbox>
+<score>46.78901672363281</score>
+</geoname>
+</geonames>

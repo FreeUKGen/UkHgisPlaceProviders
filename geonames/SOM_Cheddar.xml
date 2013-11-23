@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cheddar</toponymName>
+<name>Cheddar</name>
+<lat>51.27537</lat>
+<lng>-2.77662</lng>
+<geonameId>2653281</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>5724</population>
+<alternateNames>Chedder,cheda,chedeo,Чеддер,チェダー,체더</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<alternateName lang="ja">チェダー</alternateName>
+<alternateName lang="ko">체더</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cheddar</alternateName>
+<alternateName lang="ru">Чеддер</alternateName>
+<alternateName lang="unlc">CDA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.791</west>
+<north>51.28436</north>
+<east>-2.76224</east>
+<south>51.26637</south>
+</bbox>
+<score>73.35768127441406</score>
+</geoname>
+<geoname>
+<toponymName>Cheddar</toponymName>
+<name>Cheddar</name>
+<lat>51.27245</lat>
+<lng>-2.77452</lng>
+<geonameId>7292399</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UC</adminCode3>
+<adminName3>Sedgemoor District</adminName3>
+<adminCode4>40UC016</adminCode4>
+<adminName4>Cheddar</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.83916</west>
+<north>51.30903</north>
+<east>-2.70989</east>
+<south>51.23586</south>
+</bbox>
+<score>70.78973388671875</score>
+</geoname>
+</geonames>

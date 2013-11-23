@@ -1,0 +1,75 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>21004</id>
+<name>MAYFAIR</name>
+<container>MIDDLESEX</container>
+<lat>51.5091709688718</lat>
+<lon>-0.145250055216277</lon>
+<gazetteerText>St George Hanover Square, par., Middlesex, in W. of London, 1119 ac., pop. 89,573; forms the Hanover Square parl. div. of Westminster. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://homepages.gold.ac.uk/genuki/MDX/StGeorgeHanoverSquare/index.html</link>
+<link>http://www.geonames.org/2642878</link>
+</links>
+<unit>
+   <id>10020396</id>
+   <status>EP</status>
+   <name>REGENT STREET</name>
+</unit>
+<unit>
+   <id>10056329</id>
+   <status>EP</status>
+   <name>NORTH AUDLEY STREET</name>
+</unit>
+<unit>
+   <id>10129667</id>
+   <status>EP</status>
+   <name>ST GEORGE HANOVER SQUARE</name>
+</unit>
+<unit>
+   <id>10139648</id>
+   <status>RegD/PLU</status>
+   <name>ST GEORGES</name>
+</unit>
+<unit>
+   <id>10164503</id>
+   <status>CP/Vest</status>
+   <name>ST GEORGE HANOVER SQUARE</name>
+</unit>
+<unit>
+   <id>10164655</id>
+   <status>EP</status>
+   <name>MAYFAIR</name>
+</unit>
+<unit>
+   <id>10184149</id>
+   <status>EP</status>
+   <name>HANOVER CHAPEL</name>
+</unit>
+<unit>
+   <id>10540100</id>
+   <status></status>
+   <name>MAYFAIR AND KNIGHTSBRIDGE</name>
+</unit>
+<unit>
+   <id>10580328</id>
+   <status></status>
+   <name>ST GEORGE HANOVER SQUARE</name>
+</unit>
+<unit>
+   <id>12741364</id>
+   <status>PBDivCon</status>
+   <name>WESTMINSTER ST GEORGES</name>
+</unit>
+<unit>
+   <id>12742599</id>
+   <status>PBCon</status>
+   <name>ST GEORGE HANOVER SQUARE</name>
+</unit>
+<unit>
+   <id>12828421</id>
+   <status>Lon_SDist</status>
+   <name>ST GEORGE HANOVER SQUARE</name>
+</unit>
+</place>
+</results>

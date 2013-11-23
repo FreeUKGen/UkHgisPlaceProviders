@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Tacolneston</toponymName>
+<name>Tacolneston</name>
+<lat>52.50984</lat>
+<lng>1.15686</lng>
+<geonameId>7295711</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH097</adminCode4>
+<adminName4>Tacolneston</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tacolneston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.12272</west>
+<north>52.52072</north>
+<east>1.19101</east>
+<south>52.49895</south>
+</bbox>
+<score>61.14936828613281</score>
+</geoname>
+</geonames>

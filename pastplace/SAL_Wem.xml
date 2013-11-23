@@ -1,0 +1,96 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>314</id>
+<name>WEM</name>
+<container>SHROPSHIRE</container>
+<lat>52.8551790526988</lat>
+<lon>-2.72286453736716</lon>
+<gazetteerText>Wem, market town and par. with ry. sta., Shropshire, on Ellesmere Canal, 10&#189; miles N. of Shrewsbury - par., 13,898 ac., pop. 3751; town, pop. 2600; P.O., T.O., 2 Banks. Market-day, Thursday. Wem is an old town, and numbers among its natives William Wycherley (1640-1715), the dramatist, and Judge Jeffreys (1640-1689), who in 1685 took the title of Baron Wem. The church, destroyed by fire in 1677, was rebuilt in 1679. Wem has a town hall, a market house, and an endowed school. Malting and tanning are the chief industries. In addition to the weekly market there are fairs on the second and fourth Mondays of every month. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Wem</link>
+<link>http://www.workhouses.org.uk/Wem</link>
+<link>http://www.genuki.org.uk/big/eng/SAL/Wem/index.html</link>
+<link>http://www.geonames.org/2634550</link>
+</links>
+<unit>
+   <id>10026880</id>
+   <status>RD</status>
+   <name>WEM</name>
+</unit>
+<unit>
+   <id>10042665</id>
+   <status>UD</status>
+   <name>WEM</name>
+</unit>
+<unit>
+   <id>10138425</id>
+   <status>RSD</status>
+   <name>WEM</name>
+</unit>
+<unit>
+   <id>10139119</id>
+   <status>RegD/PLU</status>
+   <name>WEM</name>
+</unit>
+<unit>
+   <id>10367311</id>
+   <status>CP/AP</status>
+   <name>WEM</name>
+</unit>
+<unit>
+   <id>10367323</id>
+   <status>EP</status>
+   <name>WEM</name>
+</unit>
+<unit>
+   <id>10367335</id>
+   <status>CP</status>
+   <name>WEM RURAL</name>
+</unit>
+<unit>
+   <id>10367347</id>
+   <status>CP</status>
+   <name>WEM URBAN</name>
+</unit>
+<unit>
+   <id>10546527</id>
+   <status></status>
+   <name>WEM</name>
+</unit>
+<unit>
+   <id>10582027</id>
+   <status></status>
+   <name>WEM</name>
+</unit>
+<unit>
+   <id>10582039</id>
+   <status></status>
+   <name>WEM AND WHITCHURCH</name>
+</unit>
+<nearByPlace>
+   <id>10171</id>
+   <name>BROUGHTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10208</id>
+   <name>CLIVE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10397</id>
+   <name>LEE BROCKHURST</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10412</id>
+   <name>LOPPINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10526</id>
+   <name>WESTON UNDER REDCASTLE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>17276</id>
+   <name>NORTH SHROPSHIRE</name>
+</nearByPlace>
+</place>
+</results>

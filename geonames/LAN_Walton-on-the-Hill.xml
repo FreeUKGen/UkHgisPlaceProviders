@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Walton on the Hill</toponymName>
+<name>Walton on the Hill</name>
+<lat>51.28296</lat>
+<lng>-0.24805</lng>
+<geonameId>2634828</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Walton,Walton on the Hill</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UF</adminCode3>
+<adminName3>Reigate and Banstead District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.26243</west>
+<north>51.29196</north>
+<east>-0.23367</east>
+<south>51.27397</south>
+</bbox>
+<score>62.44292449951172</score>
+</geoname>
+<geoname>
+<toponymName>Walton on the Hill</toponymName>
+<name>Walton on the Hill</name>
+<lat>53.45</lat>
+<lng>-2.95</lng>
+<geonameId>2634827</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames>Walton,Walton on the Hill</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H8</adminCode2>
+<adminName2>Liverpool</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.95604</west>
+<north>53.4536</north>
+<east>-2.94396</east>
+<south>53.4464</south>
+</bbox>
+<score>47.11444091796875</score>
+</geoname>
+<geoname>
+<toponymName>Walton on the Hill</toponymName>
+<name>Walton on the Hill</name>
+<lat>51.28194</lat>
+<lng>-0.24922</lng>
+<geonameId>6286403</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CSTL</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>castle</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UF</adminCode3>
+<adminName3>Reigate and Banstead District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>15.755151748657227</score>
+</geoname>
+</geonames>

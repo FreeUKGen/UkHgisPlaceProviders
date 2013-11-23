@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>York</toponymName>
+<name>York</name>
+<lat>53.95763</lat>
+<lng>-1.08271</lng>
+<geonameId>2633352</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>144202</population>
+<alternateNames>Aebura,Eabhrac,Eabhraig,Eboracum,Efrog,Eoforwic,Everoui,Evrek,Giork,Gorad Jork,Jork,Jorka,Jorkas,Jorvik,Jórvík,QQY,York,yark,yokeu,yoku,yorka,yue ke,ywrk,ywrq,yxrk,Évèroui,Γιορκ,Јорк,Горад Ёрк,Йорк,Յորք,יורק,يورك,یارک,یورک,یۆرک,यॉर्क,யார்க்,ยอร์ก,იორკი,ヨーク,約克,요크</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q5</adminCode2>
+<adminName2>York City</adminName2>
+<alternateName lang="ang">Eoforwic</alternateName>
+<alternateName lang="ar">يورك</alternateName>
+<alternateName lang="be">Горад Ёрк</alternateName>
+<alternateName lang="bg">Йорк</alternateName>
+<alternateName lang="br">York</alternateName>
+<alternateName lang="ckb">یۆرک</alternateName>
+<alternateName lang="cy">Efrog</alternateName>
+<alternateName lang="da">York</alternateName>
+<alternateName lang="de">York</alternateName>
+<alternateName lang="el">Γιορκ</alternateName>
+<alternateName lang="en">York</alternateName>
+<alternateName lang="eo">York</alternateName>
+<alternateName lang="es">York</alternateName>
+<alternateName lang="fa">یورک</alternateName>
+<alternateName lang="fi">York</alternateName>
+<alternateName lang="fr">York</alternateName>
+<alternateName lang="ga">Eabhrac</alternateName>
+<alternateName lang="gd">Eabhraig</alternateName>
+<alternateName lang="he">יורק</alternateName>
+<alternateName lang="hy">Յորք</alternateName>
+<alternateName lang="iata">QQY</alternateName>
+<alternateName lang="it">York</alternateName>
+<alternateName lang="ja">ヨーク</alternateName>
+<alternateName lang="ka">იორკი</alternateName>
+<alternateName lang="kk">Йорк</alternateName>
+<alternateName lang="ko">요크</alternateName>
+<alternateName lang="kw">Evrek</alternateName>
+<alternateName lang="la">Eboracum</alternateName>
+<alternateName lang="lb">York</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/York</alternateName>
+<alternateName lang="lt">Jorkas</alternateName>
+<alternateName lang="lv">Jorka</alternateName>
+<alternateName lang="mr">यॉर्क</alternateName>
+<alternateName lang="mzn">یورک</alternateName>
+<alternateName lang="nl">York</alternateName>
+<alternateName lang="nn">York</alternateName>
+<alternateName lang="no">York</alternateName>
+<alternateName lang="non">Jórvík</alternateName>
+<alternateName lang="nrm">Évèroui</alternateName>
+<alternateName lang="pl">York</alternateName>
+<alternateName lang="pnb">یارک</alternateName>
+<alternateName lang="pt">York</alternateName>
+<alternateName lang="ro">York</alternateName>
+<alternateName lang="ru">Йорк</alternateName>
+<alternateName lang="sk">York</alternateName>
+<alternateName lang="sr">Јорк</alternateName>
+<alternateName lang="sv">York</alternateName>
+<alternateName lang="ta">யார்க்</alternateName>
+<alternateName lang="th">ยอร์ก</alternateName>
+<alternateName lang="tr">York</alternateName>
+<alternateName lang="uk">Йорк</alternateName>
+<alternateName lang="zh">約克</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.16653</west>
+<north>54.00689</north>
+<east>-0.99889</east>
+<south>53.90837</south>
+</bbox>
+<score>143.85574340820312</score>
+</geoname>
+<geoname>
+<toponymName>City of York</toponymName>
+<name>York City</name>
+<lat>53.96396</lat>
+<lng>-1.09142</lng>
+<geonameId>2633351</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>YOR,York,York City</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q5</adminCode2>
+<adminName2>York City</adminName2>
+<alternateName lang="abbr">YOR</alternateName>
+<alternateName lang="en">York City</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.22371</west>
+<north>54.05687</north>
+<east>-0.91967</east>
+<south>53.87457</south>
+</bbox>
+<score>67.30945587158203</score>
+</geoname>
+<geoname>
+<toponymName>Yorkshire</toponymName>
+<name>Yorkshire</name>
+<lat>54</lat>
+<lng>-1.5</lng>
+<geonameId>2633349</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADMD</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>administrative division</fcodeName>
+<population>3978484</population>
+<alternateNames>Conteth Evrek,Eoferwicscir,Eoferwicscīr,Isuria,Jorkshir,Jorksiro,Jorkŝiro,Swydd Efrog,York,Yorkshire,Yorkshire konderria,yarkshayr,yokeusyeo,yokusha,yorkasayara,yue ke jun,ywrkshayr,ywrqsyyr,yxrkh chex r,Йоркшир,יורקשייר,يوركشاير,یارکشائر,यॉर्कशायर,ಯಾರ್ಕ್‌ಷೈರ್,ยอร์คเชอร์,იორკშირი,ヨークシャー,約克郡,요크셔</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="ang">Eoferwicscīr</alternateName>
+<alternateName lang="ar">يوركشاير</alternateName>
+<alternateName lang="cy">Swydd Efrog</alternateName>
+<alternateName lang="eo">Jorkŝiro</alternateName>
+<alternateName lang="eu">Yorkshire konderria</alternateName>
+<alternateName lang="he">יורקשייר</alternateName>
+<alternateName lang="ja">ヨークシャー</alternateName>
+<alternateName lang="ka">იორკშირი</alternateName>
+<alternateName lang="kn">ಯಾರ್ಕ್‌ಷೈರ್</alternateName>
+<alternateName lang="ko">요크셔</alternateName>
+<alternateName lang="kw">Conteth Evrek</alternateName>
+<alternateName lang="la">Isuria</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Yorkshire</alternateName>
+<alternateName lang="mr">यॉर्कशायर</alternateName>
+<alternateName lang="pnb">یارکشائر</alternateName>
+<alternateName lang="ru">Йоркшир</alternateName>
+<alternateName lang="th">ยอร์คเชอร์</alternateName>
+<alternateName lang="uk">Йоркшир</alternateName>
+<alternateName lang="ur">یارکشائر</alternateName>
+<alternateName lang="zh">約克郡</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>21.229345321655273</score>
+</geoname>
+</geonames>

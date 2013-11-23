@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Winterborne Zelston</toponymName>
+<name>Winterborne Zelston</name>
+<lat>50.7795</lat>
+<lng>-2.14776</lng>
+<geonameId>7298920</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D6</adminCode2>
+<adminName2>Dorset</adminName2>
+<adminCode3>19UE</adminCode3>
+<adminName3>North Dorset District</adminName3>
+<adminCode4>19UE073</adminCode4>
+<adminName4>Winterborne Zelston</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Winterborne_Zelston</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.16127</west>
+<north>50.79202</north>
+<east>-2.13425</east>
+<south>50.76699</south>
+</bbox>
+<score>55.71435546875</score>
+</geoname>
+</geonames>

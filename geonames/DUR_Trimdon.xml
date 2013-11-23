@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Trimdon</toponymName>
+<name>Trimdon</name>
+<lat>54.70057</lat>
+<lng>-1.42181</lng>
+<geonameId>7294698</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ115</adminCode3>
+<adminName3>Trimdon</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.45405</west>
+<north>54.71981</north>
+<east>-1.38957</east>
+<south>54.68132</south>
+</bbox>
+<score>112.80574798583984</score>
+</geoname>
+<geoname>
+<toponymName>Trimdon</toponymName>
+<name>Trimdon</name>
+<lat>54.69878</lat>
+<lng>-1.42881</lng>
+<geonameId>2635465</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3074</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D8</adminCode2>
+<adminName2>Durham</adminName2>
+<adminCode3>00EJ115</adminCode3>
+<adminName3>Trimdon</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Trimdon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.43982</west>
+<north>54.70514</north>
+<east>-1.41781</east>
+<south>54.69242</south>
+</bbox>
+<score>108.85594177246094</score>
+</geoname>
+</geonames>

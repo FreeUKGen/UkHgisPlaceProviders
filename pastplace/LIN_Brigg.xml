@@ -1,0 +1,112 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>319</id>
+<name>BRIGG</name>
+<container>LINCOLNSHIRE</container>
+<lat>53.5526986893598</lat>
+<lon>-0.486788643751166</lon>
+<gazetteerText>Brigg, market town with ry. sta., mostly in Scawby and Wrawby pars., in co. and 24 miles N. of Lincoln, pop. 3087; P.O., T.O., 2 Banks. Market-day, Thursday. See GLANFORD BRIGG. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.workhouses.org.uk/GlanfordBrigg</link>
+<link>http://www.genuki.org.uk/big/eng/LIN/Brigg/</link>
+<link>http://www.geonames.org/2654721</link>
+</links>
+<unit>
+   <id>10003600</id>
+   <status>RSD</status>
+   <name>GLANFORD BRIGG</name>
+</unit>
+<unit>
+   <id>10042768</id>
+   <status>UD</status>
+   <name>BRIGG</name>
+</unit>
+<unit>
+   <id>10042770</id>
+   <status>RD</status>
+   <name>GLANFORD BRIGG</name>
+</unit>
+<unit>
+   <id>10154601</id>
+   <status>USD</status>
+   <name>BRIGG</name>
+</unit>
+<unit>
+   <id>10174831</id>
+   <status>RegD/PLU</status>
+   <name>GLANFORD BRIGG</name>
+</unit>
+<unit>
+   <id>10417739</id>
+   <status>Ch</status>
+   <name>GLANFORD BRIDGE</name>
+</unit>
+<unit>
+   <id>10417764</id>
+   <status>CP/Ch</status>
+   <name>GLANFORD BRIGG</name>
+</unit>
+<unit>
+   <id>10417788</id>
+   <status>EP</status>
+   <name>GLANFORD BRIDGE</name>
+</unit>
+<unit>
+   <id>10548068</id>
+   <status></status>
+   <name>BRIGG</name>
+</unit>
+<unit>
+   <id>12738651</id>
+   <status>CCon</status>
+   <name>BRIGG AND SCUNTHORPE</name>
+</unit>
+<unit>
+   <id>12738699</id>
+   <status>CCon</status>
+   <name>BRIGG AND GOOLE</name>
+</unit>
+<unit>
+   <id>12739801</id>
+   <status>PDivCon</status>
+   <name>LINCOLNSHIRE PARTS OF LINDSEY BRIGG</name>
+</unit>
+<unit>
+   <id>12748279</id>
+   <status>CCon</status>
+   <name>BRIGG</name>
+</unit>
+<unit>
+   <id>12752337</id>
+   <status>CCon</status>
+   <name>BRIGG AND CLEETHORPES</name>
+</unit>
+<unit>
+   <id>12754693</id>
+   <status>CCon</status>
+   <name>GLANFORD AND SCUNTHORPE</name>
+</unit>
+<unit>
+   <id>12754899</id>
+   <status>PDivCon</status>
+   <name>LINCOLNSHIRE NORTH LINDSEY OR BRIGG</name>
+</unit>
+<nearByPlace>
+   <id>779</id>
+   <name>BROUGHTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11847</id>
+   <name>CADNEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13335</id>
+   <name>NEWSTEAD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>14104</id>
+   <name>WRAWBY</name>
+</nearByPlace>
+</place>
+</results>

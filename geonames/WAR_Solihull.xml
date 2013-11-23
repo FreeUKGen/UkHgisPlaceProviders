@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Solihull</toponymName>
+<name>Solihull</name>
+<lat>52.41426</lat>
+<lng>-1.78094</lng>
+<geonameId>2637546</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>96267</population>
+<alternateNames>Solihalas,Solihull,Solikhal,Solikhall,sorifuru,swlyhal,Солихал,Солихалл,سولیهال,ソリフル</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M2</adminCode2>
+<adminName2>Solihull</adminName2>
+<adminCode3>00CT008</adminCode3>
+<adminName3>Hampton in Arden</adminName3>
+<alternateName lang="de">Solihull</alternateName>
+<alternateName lang="en">Solihull</alternateName>
+<alternateName lang="eo">Solihull</alternateName>
+<alternateName lang="fa">سولیهال</alternateName>
+<alternateName lang="fi">Solihull</alternateName>
+<alternateName lang="fr">Solihull</alternateName>
+<alternateName lang="ja">ソリフル</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Solihull</alternateName>
+<alternateName lang="lt">Solihalas</alternateName>
+<alternateName lang="nl">Solihull</alternateName>
+<alternateName lang="no">Solihull</alternateName>
+<alternateName lang="ro">Solihull</alternateName>
+<alternateName lang="ru">Солихалл</alternateName>
+<alternateName lang="sr">Солихал</alternateName>
+<alternateName lang="unlc">SOL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.84694</west>
+<north>52.45448</north>
+<east>-1.71494</east>
+<south>52.37404</south>
+</bbox>
+<score>171.59413146972656</score>
+</geoname>
+<geoname>
+<toponymName>Borough of Solihull</toponymName>
+<name>Borough of Solihull</name>
+<lat>52.41667</lat>
+<lng>-1.75</lng>
+<geonameId>3333195</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>SOL,Solihull</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M2</adminCode2>
+<adminName2>Solihull</adminName2>
+<alternateName lang="abbr">SOL</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Metropolitan_Borough_of_Solihull</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.87204</west>
+<north>52.51446</north>
+<east>-1.59277</east>
+<south>52.34772</south>
+</bbox>
+<score>85.4085464477539</score>
+</geoname>
+</geonames>

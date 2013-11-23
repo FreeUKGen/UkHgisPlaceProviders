@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Aldingham</toponymName>
+<name>Aldingham</name>
+<lat>54.1301</lat>
+<lng>-3.09858</lng>
+<geonameId>2657532</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UG</adminCode3>
+<adminName3>South Lakeland District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Aldingham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.11394</west>
+<north>54.13909</north>
+<east>-3.08323</east>
+<south>54.12111</south>
+</bbox>
+<score>80.3643798828125</score>
+</geoname>
+<geoname>
+<toponymName>Aldingham</toponymName>
+<name>Aldingham</name>
+<lat>54.1008</lat>
+<lng>-3.1002</lng>
+<geonameId>7298092</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C9</adminCode2>
+<adminName2>Cumbria</adminName2>
+<adminCode3>16UG</adminCode3>
+<adminName3>South Lakeland District</adminName3>
+<adminCode4>16UG001</adminCode4>
+<adminName4>Aldingham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.17499</west>
+<north>54.15735</north>
+<east>-3.02542</east>
+<south>54.04424</south>
+</bbox>
+<score>71.47599029541016</score>
+</geoname>
+</geonames>

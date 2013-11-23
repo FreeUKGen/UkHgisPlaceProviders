@@ -1,0 +1,105 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>106</id>
+<name>SCUNTHORPE</name>
+<container>LINCOLNSHIRE</container>
+<lat>53.5854939276042</lat>
+<lon>-0.645689504709282</lon>
+<gazetteerText>SCUNTHORPE, a township, with a village, in Frodingham parish, Lincoln; 7&#189; miles N W by W of Glanford-Brigg. It has a post-office under Brigg, extensive iron-works, and a Wesleyan chapel. Acres, 998. Pop., 278. Houses, 50. The manor belongs to Winn, Esq. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2638324</link>
+<link>http://www.genuki.org.uk/big/eng/LIN/Scunthorpe/</link>
+</links>
+<unit>
+   <id>10003027</id>
+   <status>UD/MB</status>
+   <name>SCUNTHORPE</name>
+</unit>
+<unit>
+   <id>10138735</id>
+   <status>USD</status>
+   <name>SCUNTHORPE</name>
+</unit>
+<unit>
+   <id>10450329</id>
+   <status>CP/Tn</status>
+   <name>SCUNTHORPE</name>
+</unit>
+<unit>
+   <id>10450378</id>
+   <status>EP</status>
+   <name>SCUNTHORPE</name>
+</unit>
+<unit>
+   <id>10450380</id>
+   <status>CP</status>
+   <name>SCUNTHORPE</name>
+</unit>
+<unit>
+   <id>10450410</id>
+   <status>EP</status>
+   <name>SCUNTHORPE ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10450421</id>
+   <status>EP</status>
+   <name>SCUNTHORPE THE RESSURECTION BERKLEY</name>
+</unit>
+<unit>
+   <id>10584334</id>
+   <status>UD</status>
+   <name>SCUNTHORPE</name>
+</unit>
+<unit>
+   <id>12736873</id>
+   <status>CCon</status>
+   <name>SCUNTHORPE</name>
+</unit>
+<unit>
+   <id>12836790</id>
+   <status></status>
+   <name>SCUNTHORPE</name>
+</unit>
+<nearByPlace>
+   <id>235</id>
+   <name>WINTERTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>319</id>
+   <name>BRIGG</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11397</id>
+   <name>ALTHORPE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>11506</id>
+   <name>BARNETBY LE WOLD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12009</id>
+   <name>CROSBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12202</id>
+   <name>EPWORTH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12599</id>
+   <name>HIBALDSTOW</name>
+</nearByPlace>
+<nearByPlace>
+   <id>12771</id>
+   <name>KIRTON IN LINDSEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13001</id>
+   <name>MESSINGHAM</name>
+</nearByPlace>
+<nearByPlace>
+   <id>13403</id>
+   <name>OWSTON FERRY</name>
+</nearByPlace>
+</place>
+</results>

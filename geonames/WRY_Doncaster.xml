@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Doncaster</toponymName>
+<name>Doncaster</name>
+<lat>53.52327</lat>
+<lng>-1.13691</lng>
+<geonameId>2651123</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>67670</population>
+<alternateNames>DSA,Denocestria,Doncaster,Donkaster,Donkasteris,Donkastur,dongkeoseuteo,donkasuta,dwnkstr,dxng khas texr,tang ka si te,Донкастер,Донкастър,دونکستر,ดองคัสเตอร์,ドンカスター,唐卡斯特,동커스터</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D5</adminCode2>
+<adminName2>Doncaster</adminName2>
+<alternateName lang="bg">Донкастър</alternateName>
+<alternateName lang="de">Doncaster</alternateName>
+<alternateName lang="en">Doncaster</alternateName>
+<alternateName lang="eo">Doncaster</alternateName>
+<alternateName lang="fa">دونکستر</alternateName>
+<alternateName lang="fi">Doncaster</alternateName>
+<alternateName lang="fr">Doncaster</alternateName>
+<alternateName lang="iata">DSA</alternateName>
+<alternateName lang="ja">ドンカスター</alternateName>
+<alternateName lang="ko">동커스터</alternateName>
+<alternateName lang="la">Denocestria</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Doncaster</alternateName>
+<alternateName lang="lt">Donkasteris</alternateName>
+<alternateName lang="nl">Doncaster</alternateName>
+<alternateName lang="no">Doncaster</alternateName>
+<alternateName lang="pl">Doncaster</alternateName>
+<alternateName lang="ro">Doncaster</alternateName>
+<alternateName lang="ru">Донкастер</alternateName>
+<alternateName lang="sr">Донкастер</alternateName>
+<alternateName lang="sv">Doncaster</alternateName>
+<alternateName lang="th">ดองคัสเตอร์</alternateName>
+<alternateName lang="uk">Донкастер</alternateName>
+<alternateName lang="unlc">DON</alternateName>
+<alternateName lang="zh">唐卡斯特</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.19356</west>
+<north>53.55692</north>
+<east>-1.08026</east>
+<south>53.48962</south>
+</bbox>
+<score>160.49456787109375</score>
+</geoname>
+<geoname>
+<toponymName>Borough of Doncaster</toponymName>
+<name>Borough of Doncaster</name>
+<lat>53.5</lat>
+<lng>-1.08333</lng>
+<geonameId>3333143</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>DNC,Doncaster</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D5</adminCode2>
+<adminName2>Doncaster</adminName2>
+<alternateName lang="abbr">DNC</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Metropolitan_Borough_of_Doncaster</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.34863</west>
+<north>53.66121</north>
+<east>-0.86533</east>
+<south>53.40574</south>
+</bbox>
+<score>75.83766174316406</score>
+</geoname>
+</geonames>

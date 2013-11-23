@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Darlington</toponymName>
+<name>Darlington</name>
+<lat>54.52429</lat>
+<lng>-1.55039</lng>
+<geonameId>2651513</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>87204</population>
+<alternateNames>Darlington,Darlingtonas,XVG,dallingteon,darinton,darlyngtwn,Дарлингтон,Дарлінгтон,دارلینگتون,ダーリントン,달링턴</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D1</adminCode2>
+<adminName2>Darlington</adminName2>
+<adminCode3>00EH013</adminCode3>
+<adminName3>Hurworth</adminName3>
+<alternateName lang="de">Darlington</alternateName>
+<alternateName lang="en">Darlington</alternateName>
+<alternateName lang="eo">Darlington</alternateName>
+<alternateName lang="fa">دارلینگتون</alternateName>
+<alternateName lang="fr">Darlington</alternateName>
+<alternateName lang="iata">XVG</alternateName>
+<alternateName lang="ja">ダーリントン</alternateName>
+<alternateName lang="ko">달링턴</alternateName>
+<alternateName lang="lb">Darlington</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Darlington</alternateName>
+<alternateName lang="lt">Darlingtonas</alternateName>
+<alternateName lang="nl">Darlington</alternateName>
+<alternateName lang="no">Darlington</alternateName>
+<alternateName lang="pt">Darlington</alternateName>
+<alternateName lang="ro">Darlington</alternateName>
+<alternateName lang="ru">Дарлингтон</alternateName>
+<alternateName lang="sk">Darlington</alternateName>
+<alternateName lang="sr">Дарлингтон</alternateName>
+<alternateName lang="sv">Darlington</alternateName>
+<alternateName lang="uk">Дарлінгтон</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.6162</west>
+<north>54.56244</north>
+<east>-1.48458</east>
+<south>54.48613</south>
+</bbox>
+<score>131.07635498046875</score>
+</geoname>
+<geoname>
+<toponymName>Borough of Darlington</toponymName>
+<name>Borough of Darlington</name>
+<lat>54.53333</lat>
+<lng>-1.53333</lng>
+<geonameId>3333141</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>DAL,Darlington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D1</adminCode2>
+<adminName2>Darlington</adminName2>
+<alternateName lang="abbr">DAL</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Darlington_(borough)</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.70976</west>
+<north>54.61936</north>
+<east>-1.40734</east>
+<south>54.45113</south>
+</bbox>
+<score>54.402313232421875</score>
+</geoname>
+</geonames>

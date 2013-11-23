@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Bisham</toponymName>
+<name>Bisham</name>
+<lat>51.5422</lat>
+<lng>-0.77208</lng>
+<geonameId>7299655</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P9</adminCode2>
+<adminName2>Windsor and Maidenhead</adminName2>
+<adminCode3>00ME001</adminCode3>
+<adminName3>Bisham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.79697</west>
+<north>51.56841</north>
+<east>-0.74719</east>
+<south>51.516</south>
+</bbox>
+<score>100.7679443359375</score>
+</geoname>
+<geoname>
+<toponymName>Bisham</toponymName>
+<name>Bisham</name>
+<lat>51.55704</lat>
+<lng>-0.77557</lng>
+<geonameId>2655585</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P9</adminCode2>
+<adminName2>Windsor and Maidenhead</adminName2>
+<adminCode3>00ME001</adminCode3>
+<adminName3>Bisham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bisham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.80451</west>
+<north>51.57502</north>
+<east>-0.74662</east>
+<south>51.53905</south>
+</bbox>
+<score>69.58180236816406</score>
+</geoname>
+</geonames>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bradden</toponymName>
+<name>Bradden</name>
+<lat>52.12975</lat>
+<lng>-1.04857</lng>
+<geonameId>7295744</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J1</adminCode2>
+<adminName2>Northamptonshire</adminName2>
+<adminCode3>34UG</adminCode3>
+<adminName3>South Northamptonshire District</adminName3>
+<adminCode4>34UG010</adminCode4>
+<adminName4>Bradden</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bradden</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.06975</west>
+<north>52.14207</north>
+<east>-1.0274</east>
+<south>52.11742</south>
+</bbox>
+<score>55.94072723388672</score>
+</geoname>
+</geonames>

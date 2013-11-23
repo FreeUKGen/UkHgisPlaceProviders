@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Marshfield</toponymName>
+<name>Marshfield</name>
+<lat>51.53651</lat>
+<lng>-3.06753</lng>
+<geonameId>7290868</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y6</adminCode2>
+<adminName2>City of Newport</adminName2>
+<adminCode3>00PR016</adminCode3>
+<adminName3>Marshfield</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.09558</west>
+<north>51.55062</north>
+<east>-3.03947</east>
+<south>51.52239</south>
+</bbox>
+<score>76.83679962158203</score>
+</geoname>
+<geoname>
+<toponymName>Marshfield</toponymName>
+<name>Marshfield</name>
+<lat>51.4553</lat>
+<lng>-2.32766</lng>
+<geonameId>7296007</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M6</adminCode2>
+<adminName2>South Gloucestershire</adminName2>
+<adminCode3>00HD024</adminCode3>
+<adminName3>Marshfield</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.3702</west>
+<north>51.48816</north>
+<east>-2.28513</east>
+<south>51.42244</south>
+</bbox>
+<score>76.83679962158203</score>
+</geoname>
+<geoname>
+<toponymName>Marshfield</toponymName>
+<name>Marshfield</name>
+<lat>51.53389</lat>
+<lng>-3.07306</lng>
+<geonameId>2642980</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>2665</population>
+<alternateNames>Marshfield,Marshfields</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y6</adminCode2>
+<adminName2>City of Newport</adminName2>
+<adminCode3>00PR016</adminCode3>
+<adminName3>Marshfield</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marshfield%2C_Newport</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.08328</west>
+<north>51.54025</north>
+<east>-3.06283</east>
+<south>51.52753</south>
+</bbox>
+<score>74.85830688476562</score>
+</geoname>
+<geoname>
+<toponymName>Marshfield</toponymName>
+<name>Marshfield</name>
+<lat>51.46194</lat>
+<lng>-2.32</lng>
+<geonameId>2642981</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M6</adminCode2>
+<adminName2>South Gloucestershire</adminName2>
+<adminCode3>00HD024</adminCode3>
+<adminName3>Marshfield</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Marshfield%2C_Gloucestershire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.34888</west>
+<north>51.47993</north>
+<east>-2.29112</east>
+<south>51.44396</south>
+</bbox>
+<score>50.591590881347656</score>
+</geoname>
+</geonames>

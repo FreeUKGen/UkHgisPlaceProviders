@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Tasburgh</toponymName>
+<name>Tasburgh</name>
+<lat>52.51787</lat>
+<lng>1.25018</lng>
+<geonameId>7299517</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UH</adminCode3>
+<adminName3>South Norfolk District</adminName3>
+<adminCode4>33UH098</adminCode4>
+<adminName4>Tasburgh</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tasburgh</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>1.2303</west>
+<north>52.53021</north>
+<east>1.27006</east>
+<south>52.50552</south>
+</bbox>
+<score>61.27012252807617</score>
+</geoname>
+</geonames>

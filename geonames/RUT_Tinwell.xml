@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Tinwell</toponymName>
+<name>Tinwell</name>
+<lat>52.65617</lat>
+<lng>-0.52671</lng>
+<geonameId>7301045</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L4</adminCode2>
+<adminName2>Rutland</adminName2>
+<adminCode3>00FP052</adminCode3>
+<adminName3>Tinwell</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.55838</west>
+<north>52.67307</north>
+<east>-0.49504</east>
+<south>52.63927</south>
+</bbox>
+<score>110.99826049804688</score>
+</geoname>
+<geoname>
+<toponymName>Tinwell</toponymName>
+<name>Tinwell</name>
+<lat>52.64629</lat>
+<lng>-0.51498</lng>
+<geonameId>2635787</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Tinwell</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L4</adminCode2>
+<adminName2>Rutland</adminName2>
+<adminCode3>00FP052</adminCode3>
+<adminName3>Tinwell</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tinwell</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.54464</west>
+<north>52.66428</north>
+<east>-0.48533</east>
+<south>52.6283</south>
+</bbox>
+<score>84.18023681640625</score>
+</geoname>
+</geonames>

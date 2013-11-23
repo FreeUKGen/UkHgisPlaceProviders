@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Higham</toponymName>
+<name>Higham</name>
+<lat>51.96667</lat>
+<lng>0.96667</lng>
+<geonameId>2646987</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Higham</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UG</adminCode3>
+<adminName3>Colchester District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Higham%2C_Babergh</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.95207</west>
+<north>51.97566</north>
+<east>0.98127</east>
+<south>51.95767</south>
+</bbox>
+<score>93.65878295898438</score>
+</geoname>
+<geoname>
+<toponymName>Higham</toponymName>
+<name>Higham</name>
+<lat>52.25276</lat>
+<lng>0.55524</lng>
+<geonameId>2646986</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UC</adminCode3>
+<adminName3>Forest Heath District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Higham%2C_Forest_Heath</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.54054</west>
+<north>52.26176</north>
+<east>0.56993</east>
+<south>52.24377</south>
+</bbox>
+<score>78.35385131835938</score>
+</geoname>
+<geoname>
+<toponymName>Higham</toponymName>
+<name>Higham</name>
+<lat>51.41548</lat>
+<lng>0.45971</lng>
+<geonameId>2646988</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UG</adminCode3>
+<adminName3>Gravesham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Higham%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.44529</west>
+<north>51.42448</north>
+<east>0.47413</east>
+<south>51.40649</south>
+</bbox>
+<score>78.35385131835938</score>
+</geoname>
+<geoname>
+<toponymName>Higham</toponymName>
+<name>Higham</name>
+<lat>51.43087</lat>
+<lng>0.46411</lng>
+<geonameId>7294844</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UG</adminCode3>
+<adminName3>Gravesham</adminName3>
+<adminCode4>29UG002</adminCode4>
+<adminName4>Higham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.43705</west>
+<north>51.46344</north>
+<east>0.49117</east>
+<south>51.3983</south>
+</bbox>
+<score>73.86985778808594</score>
+</geoname>
+<geoname>
+<toponymName>Higham</toponymName>
+<name>Higham</name>
+<lat>52.2676</lat>
+<lng>0.56547</lng>
+<geonameId>7297282</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UC</adminCode3>
+<adminName3>Forest Heath District</adminName3>
+<adminCode4>42UC010</adminCode4>
+<adminName4>Higham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.5343</west>
+<north>52.29131</north>
+<east>0.59663</east>
+<south>52.2439</south>
+</bbox>
+<score>73.86985778808594</score>
+</geoname>
+<geoname>
+<toponymName>Higham</toponymName>
+<name>Higham</name>
+<lat>51.98615</lat>
+<lng>0.9611</lng>
+<geonameId>7299573</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N5</adminCode2>
+<adminName2>Suffolk</adminName2>
+<adminCode3>42UB</adminCode3>
+<adminName3>Babergh District</adminName3>
+<adminCode4>42UB034</adminCode4>
+<adminName4>Higham</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.94631</west>
+<north>51.9992</north>
+<east>0.97589</east>
+<south>51.9731</south>
+</bbox>
+<score>73.86985778808594</score>
+</geoname>
+</geonames>

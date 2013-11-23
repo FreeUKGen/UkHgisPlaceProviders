@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Whitley</toponymName>
+<name>Whitley</name>
+<lat>51.39528</lat>
+<lng>-2.16444</lng>
+<geonameId>3345347</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Whitley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Whitley%2C_Wiltshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.17886</west>
+<north>51.40427</north>
+<east>-2.15003</east>
+<south>51.38628</south>
+</bbox>
+<score>85.43380737304688</score>
+</geoname>
+<geoname>
+<toponymName>Whitley Bay</toponymName>
+<name>Whitley Bay</name>
+<lat>55.03973</lat>
+<lng>-1.44713</lng>
+<geonameId>2634032</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>38055</population>
+<alternateNames>Whitley,Whitley Bay</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J5</adminCode2>
+<adminName2>North Tyneside</adminName2>
+<adminCode3>00EM167</adminCode3>
+<adminName3>GB.ENG.J5.00EM167</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Whitley_Bay</alternateName>
+<alternateName lang="unlc">WTL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.49086</west>
+<north>55.06476</north>
+<east>-1.40341</east>
+<south>55.01469</south>
+</bbox>
+<score>75.50532531738281</score>
+</geoname>
+<geoname>
+<toponymName>Whitley</toponymName>
+<name>Whitley</name>
+<lat>53.31224</lat>
+<lng>-2.58027</lng>
+<geonameId>7293054</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW157</adminCode3>
+<adminName3>Whitley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Whitley%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.60942</west>
+<north>53.32938</north>
+<east>-2.55113</east>
+<south>53.2951</south>
+</bbox>
+<score>60.480491638183594</score>
+</geoname>
+<geoname>
+<toponymName>Whitley</toponymName>
+<name>Whitley</name>
+<lat>52.39509</lat>
+<lng>-1.49345</lng>
+<geonameId>2634034</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C7</adminCode2>
+<adminName2>Coventry</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.5082</west>
+<north>52.40408</north>
+<east>-1.47871</east>
+<south>52.38609</south>
+</bbox>
+<score>52.4190559387207</score>
+</geoname>
+<geoname>
+<toponymName>Whitley</toponymName>
+<name>Whitley</name>
+<lat>53.68333</lat>
+<lng>-1.15</lng>
+<geonameId>2634033</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Whitley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UH</adminCode3>
+<adminName3>Selby District</adminName3>
+<alternateName lang="unlc">ITY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.16519</west>
+<north>53.69233</north>
+<east>-1.13481</east>
+<south>53.67434</south>
+</bbox>
+<score>48.56391525268555</score>
+</geoname>
+<geoname>
+<toponymName>Whitley</toponymName>
+<name>Whitley</name>
+<lat>53.68172</lat>
+<lng>-1.15014</lng>
+<geonameId>7300850</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UH</adminCode3>
+<adminName3>Selby District</adminName3>
+<adminCode4>36UH085</adminCode4>
+<adminName4>Whitley</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Whitley%2C_North_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.17926</west>
+<north>53.69975</north>
+<east>-1.12103</east>
+<south>53.66369</south>
+</bbox>
+<score>46.95217514038086</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Kenwyn</toponymName>
+<name>Kenwyn</name>
+<lat>50.27797</lat>
+<lng>-5.11084</lng>
+<geonameId>7294432</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE053</adminCode3>
+<adminName3>Kenwyn</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.17008</west>
+<north>50.30421</north>
+<east>-5.05161</east>
+<south>50.25173</south>
+</bbox>
+<score>112.42731475830078</score>
+</geoname>
+<geoname>
+<toponymName>Kenwyn</toponymName>
+<name>Kenwyn</name>
+<lat>50.26959</lat>
+<lng>-5.05913</lng>
+<geonameId>2645783</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kenwyn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE202</adminCode3>
+<adminName3>Truro</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kenwyn</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.07321</west>
+<north>50.27859</north>
+<east>-5.04506</east>
+<south>50.2606</south>
+</bbox>
+<score>106.82952880859375</score>
+</geoname>
+</geonames>

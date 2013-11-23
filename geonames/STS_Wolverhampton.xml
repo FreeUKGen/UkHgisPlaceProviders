@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wolverhampton</toponymName>
+<name>Wolverhampton</name>
+<lat>52.58547</lat>
+<lng>-2.12296</lng>
+<geonameId>2633691</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>252791</population>
+<alternateNames>Goulverchampton,Heantun,Ulvurkhamptun,Vulvergempton,Vulverhamptonas,Vulverhempton,Vulverhemptona,Vulverkhempton,Wolverhampton,Wulfrunehantona,XVW,ulbeohaempeuteon,u~oruvu~ahanputon,wlwrhmptwn,wu er fu han pu dun,wwlbrhmptwn,wwlfrhambtwn,Γουλβερχάμπτον,Вулвергемптон,Вулверхемптон,Улвърхамптън,Վուլվերհեմպտոն,וואלווערהאמפטאן,וולברהמפטון,ولورهمپتون,وولفرهامبتون,وولورہیمپٹن,วุลเวอร์แฮมป์ตัน,ვულვერჰემპტონი,ウォルヴァーハンプトン,伍爾弗漢普頓,울버햄프턴</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q3</adminCode2>
+<adminName2>Wolverhampton</adminName2>
+<adminCode3>41UF</adminCode3>
+<adminName3>GB.ENG.Q3.41UF</adminName3>
+<alternateName lang="ang">Heantun</alternateName>
+<alternateName lang="ar">وولفرهامبتون</alternateName>
+<alternateName lang="az">Vulverhempton</alternateName>
+<alternateName lang="bg">Улвърхамптън</alternateName>
+<alternateName lang="de">Wolverhampton</alternateName>
+<alternateName lang="el">Γουλβερχάμπτον</alternateName>
+<alternateName lang="en">Wolverhampton</alternateName>
+<alternateName lang="eo">Wolverhampton</alternateName>
+<alternateName lang="fa">ولورهمپتون</alternateName>
+<alternateName lang="fi">Wolverhampton</alternateName>
+<alternateName lang="fr">Wolverhampton</alternateName>
+<alternateName lang="he">וולברהמפטון</alternateName>
+<alternateName lang="hy">Վուլվերհեմպտոն</alternateName>
+<alternateName lang="iata">XVW</alternateName>
+<alternateName lang="id">Wolverhampton</alternateName>
+<alternateName lang="ja">ウォルヴァーハンプトン</alternateName>
+<alternateName lang="ka">ვულვერჰემპტონი</alternateName>
+<alternateName lang="ko">울버햄프턴</alternateName>
+<alternateName lang="la">Wulfrunehantona</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wolverhampton</alternateName>
+<alternateName lang="lt">Vulverhamptonas</alternateName>
+<alternateName lang="lv">Vulverhemptona</alternateName>
+<alternateName lang="mzn">ولورهمپتون</alternateName>
+<alternateName lang="nl">Wolverhampton</alternateName>
+<alternateName lang="no">Wolverhampton</alternateName>
+<alternateName lang="pl">Wolverhampton</alternateName>
+<alternateName lang="pnb">وولورہیمپٹن</alternateName>
+<alternateName lang="ro">Wolverhampton</alternateName>
+<alternateName lang="ru">Вулвергемптон</alternateName>
+<alternateName lang="sr">Вулверхемптон</alternateName>
+<alternateName lang="sv">Wolverhampton</alternateName>
+<alternateName lang="th">วุลเวอร์แฮมป์ตัน</alternateName>
+<alternateName lang="tr">Wolverhampton</alternateName>
+<alternateName lang="uk">Вулвергемптон</alternateName>
+<alternateName lang="unlc">WOV</alternateName>
+<alternateName lang="yi">וואלווערהאמפטאן</alternateName>
+<alternateName lang="zh">伍爾弗漢普頓</alternateName>
+<alternateName lang="zh-TW">伍爾弗漢普頓</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.23038</west>
+<north>52.65063</north>
+<east>-2.01555</east>
+<south>52.5203</south>
+</bbox>
+<score>170.88197326660156</score>
+</geoname>
+<geoname>
+<toponymName>Borough of Wolverhampton</toponymName>
+<name>Borough of Wolverhampton</name>
+<lat>52.58333</lat>
+<lng>-2.11667</lng>
+<geonameId>3333222</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>second-order administrative division</fcodeName>
+<population/>
+<alternateNames>WLV,Wolverhampton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q3</adminCode2>
+<adminName2>Wolverhampton</adminName2>
+<alternateName lang="abbr">WLV</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.20688</west>
+<north>52.6379</north>
+<east>-2.04803</east>
+<south>52.54393</south>
+</bbox>
+<score>98.7806625366211</score>
+</geoname>
+</geonames>

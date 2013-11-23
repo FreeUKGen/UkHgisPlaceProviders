@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>South Littleton</toponymName>
+<name>South Littleton</name>
+<lat>52.11416</lat>
+<lng>-1.89014</lng>
+<geonameId>2637382</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1564</population>
+<alternateNames>Littleton,South Littleton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UF</adminCode3>
+<adminName3>Wychavon District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/South_Littleton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.89746</west>
+<north>52.11866</north>
+<east>-1.88281</east>
+<south>52.10966</south>
+</bbox>
+<score>59.95575714111328</score>
+</geoname>
+<geoname>
+<toponymName>Littleton</toponymName>
+<name>Littleton</name>
+<lat>53.19409</lat>
+<lng>-2.83384</lng>
+<geonameId>7293034</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW101</adminCode3>
+<adminName3>Littleton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Littleton%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.85033</west>
+<north>53.19881</north>
+<east>-2.81735</east>
+<south>53.18937</south>
+</bbox>
+<score>54.51116943359375</score>
+</geoname>
+<geoname>
+<toponymName>Littleton-upon-Severn</toponymName>
+<name>Littleton-upon-Severn</name>
+<lat>51.60694</lat>
+<lng>-2.585</lng>
+<geonameId>2644234</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Littleton,Littleton-on-Severn,Littleton-upon-Severn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M6</adminCode2>
+<adminName2>South Gloucestershire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Littleton-upon-Severn</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.59948</west>
+<north>51.61594</north>
+<east>-2.57052</east>
+<south>51.59795</south>
+</bbox>
+<score>46.36830520629883</score>
+</geoname>
+<geoname>
+<toponymName>Littleton</toponymName>
+<name>Littleton</name>
+<lat>51.08333</lat>
+<lng>-1.35</lng>
+<geonameId>2644235</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F2</adminCode2>
+<adminName2>Hampshire</adminName2>
+<adminCode3>24UP</adminCode3>
+<adminName3>Winchester District</adminName3>
+<alternateName lang="unlc">LJN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.36432</west>
+<north>51.09233</north>
+<east>-1.33568</east>
+<south>51.07434</south>
+</bbox>
+<score>36.871273040771484</score>
+</geoname>
+</geonames>

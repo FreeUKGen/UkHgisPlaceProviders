@@ -1,0 +1,108 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1180</id>
+<name>MARKET DRAYTON</name>
+<container>SHROPSHIRE</container>
+<lat>52.9037949918927</lat>
+<lon>-2.49046407188245</lon>
+<gazetteerText>Drayton, Market (or Drayton in Hales), market town and township, with ry. sta., N. Shropshire, Drayton in Hales par., on r. Terne, 18 m. NE. of Shrewsbury and 158 NW. of London, 7768ac., pop. 5188; P.O., T.O., 2 Banks. Market-day, Wednesday; is an old town, and is supposed to be the Caer Draithon of the Britons. The par. church is not much later than the Conquest. The free grammar-school was founded in the reign of Philip and Mary. Market Drayton has mfrs. of paper and haircloth, and some foundries and tanneries. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Market_Drayton</link>
+<link>http://www.workhouses.org.uk/Drayton</link>
+<link>http://www.geonames.org/2643028</link>
+<link>http://www.genuki.org.uk/big/eng/SAL/MarketDrayton/index.html</link>
+</links>
+<unit>
+   <id>10002771</id>
+   <status>UD</status>
+   <name>MARKET DRAYTON</name>
+</unit>
+<unit>
+   <id>10024675</id>
+   <status>Borough</status>
+   <name>MARKET DRAYTON</name>
+</unit>
+<unit>
+   <id>10062834</id>
+   <status>RSD</status>
+   <name>MARKET DRAYTON</name>
+</unit>
+<unit>
+   <id>10139430</id>
+   <status>RegD/PLU</status>
+   <name>MARKET DRAYTON</name>
+</unit>
+<unit>
+   <id>10153712</id>
+   <status>RD</status>
+   <name>DRAYTON</name>
+</unit>
+<unit>
+   <id>10166998</id>
+   <status>RD</status>
+   <name>MARKET DRAYTON</name>
+</unit>
+<unit>
+   <id>10277061</id>
+   <status>CP/AP</status>
+   <name>DRAYTON IN HALES</name>
+</unit>
+<unit>
+   <id>10352861</id>
+   <status>EP</status>
+   <name>MARKET DRAYTON</name>
+</unit>
+<unit>
+   <id>10546904</id>
+   <status></status>
+   <name>MARKET DRAYTON</name>
+</unit>
+<unit>
+   <id>10558530</id>
+   <status>CP</status>
+   <name>MARKET DRAYTON</name>
+</unit>
+<unit>
+   <id>10576880</id>
+   <status></status>
+   <name>MARKET DRAYTON</name>
+</unit>
+<nearByPlace>
+   <id>7852</id>
+   <name>ADBASTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8000</id>
+   <name>CHESWARDINE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8521</id>
+   <name>STANDON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8588</id>
+   <name>TYRLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10291</id>
+   <name>CHILDS ERCALL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10375</id>
+   <name>HINSTOCK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10376</id>
+   <name>HODNET</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10494</id>
+   <name>STANTON UPON HINE HEATH</name>
+</nearByPlace>
+<nearByPlace>
+   <id>10499</id>
+   <name>STOKE UPON TERN</name>
+</nearByPlace>
+</place>
+</results>

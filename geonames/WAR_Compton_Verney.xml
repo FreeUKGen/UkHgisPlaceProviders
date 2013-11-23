@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Compton Verney</toponymName>
+<name>Compton Verney</name>
+<lat>52.17022</lat>
+<lng>-1.54341</lng>
+<geonameId>2652480</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Compton Verney</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.55807</west>
+<north>52.17922</north>
+<east>-1.52874</east>
+<south>52.16123</south>
+</bbox>
+<score>53.72233581542969</score>
+</geoname>
+<geoname>
+<toponymName>Compton Verney</toponymName>
+<name>Compton Verney</name>
+<lat>52.17797</lat>
+<lng>-1.53073</lng>
+<geonameId>7297905</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<adminCode4>44UE028</adminCode4>
+<adminName4>Compton Verney</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Compton_Verney</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.55908</west>
+<north>52.18959</north>
+<east>-1.50238</east>
+<south>52.16635</south>
+</bbox>
+<score>53.322750091552734</score>
+</geoname>
+</geonames>

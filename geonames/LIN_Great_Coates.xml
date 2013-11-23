@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Great Coates</toponymName>
+<name>Great Coates</name>
+<lat>53.58118</lat>
+<lng>-0.11261</lng>
+<geonameId>7298234</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC021</adminCode3>
+<adminName3>Great Coates</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.14208</west>
+<north>53.59406</north>
+<east>-0.08315</east>
+<south>53.56829</south>
+</bbox>
+<score>90.842529296875</score>
+</geoname>
+<geoname>
+<toponymName>Great Coates</toponymName>
+<name>Great Coates</name>
+<lat>53.5707</lat>
+<lng>-0.13905</lng>
+<geonameId>2648133</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Great Coates</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC021</adminCode3>
+<adminName3>Great Coates</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Great_Coates</alternateName>
+<alternateName lang="unlc">GCS</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.16935</west>
+<north>53.58868</north>
+<east>-0.10874</east>
+<south>53.55271</south>
+</bbox>
+<score>67.86985778808594</score>
+</geoname>
+</geonames>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Bylaugh</toponymName>
+<name>Bylaugh</name>
+<lat>52.72921</lat>
+<lng>1.0175</lng>
+<geonameId>7301833</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<adminCode4>33UB016</adminCode4>
+<adminName4>Bylaugh</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bylaugh</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.99023</west>
+<north>52.74371</north>
+<east>1.04476</east>
+<south>52.71471</south>
+</bbox>
+<score>61.34955596923828</score>
+</geoname>
+</geonames>

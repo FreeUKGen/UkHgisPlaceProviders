@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Grimbsy</toponymName>
+<name>Grimbsy</name>
+<lat>53.55989</lat>
+<lng>-0.09888</lng>
+<geonameId>7304130</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA4</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J2</adminCode2>
+<adminName2>North East Lincolnshire</adminName2>
+<adminCode3>00FC021</adminCode3>
+<adminName3>Great Coates</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.12917</west>
+<north>53.57788</north>
+<east>-0.06858</east>
+<south>53.5419</south>
+</bbox>
+<score>42.425018310546875</score>
+</geoname>
+</geonames>

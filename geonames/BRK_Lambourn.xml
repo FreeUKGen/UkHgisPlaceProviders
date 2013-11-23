@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Lambourn</toponymName>
+<name>Lambourn</name>
+<lat>51.50361</lat>
+<lng>-1.53186</lng>
+<geonameId>7298375</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P4</adminCode2>
+<adminName2>West Berkshire</adminName2>
+<adminCode3>00MB035</adminCode3>
+<adminName3>Lambourn</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.58809</west>
+<north>51.55337</north>
+<east>-1.47562</east>
+<south>51.45385</south>
+</bbox>
+<score>106.21246337890625</score>
+</geoname>
+<geoname>
+<toponymName>Lambourn</toponymName>
+<name>Lambourn</name>
+<lat>51.50805</lat>
+<lng>-1.53105</lng>
+<geonameId>2644993</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3021</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P4</adminCode2>
+<adminName2>West Berkshire</adminName2>
+<adminCode3>00MB035</adminCode3>
+<adminName3>Lambourn</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Lambourn</alternateName>
+<alternateName lang="unlc">LBR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.54127</west>
+<north>51.51441</north>
+<east>-1.52083</east>
+<south>51.50169</south>
+</bbox>
+<score>95.490966796875</score>
+</geoname>
+</geonames>

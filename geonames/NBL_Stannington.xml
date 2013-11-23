@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Stannington</toponymName>
+<name>Stannington</name>
+<lat>55.10381</lat>
+<lng>-1.68302</lng>
+<geonameId>7291475</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM142</adminCode3>
+<adminName3>Stannington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.74456</west>
+<north>55.14286</north>
+<east>-1.62147</east>
+<south>55.06476</south>
+</bbox>
+<score>105.30961608886719</score>
+</geoname>
+<geoname>
+<toponymName>Stannington</toponymName>
+<name>Stannington</name>
+<lat>53.39305</lat>
+<lng>-1.54521</lng>
+<geonameId>2637058</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L9</adminCode2>
+<adminName2>Sheffield</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stannington</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.56029</west>
+<north>53.40205</north>
+<east>-1.53012</east>
+<south>53.38406</south>
+</bbox>
+<score>85.15736389160156</score>
+</geoname>
+<geoname>
+<toponymName>Stannington</toponymName>
+<name>Stannington</name>
+<lat>55.10862</lat>
+<lng>-1.66855</lng>
+<geonameId>2637057</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J6</adminCode2>
+<adminName2>Northumberland</adminName2>
+<adminCode3>00EM142</adminCode3>
+<adminName3>Stannington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Stannington%2C_Northumberland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.70001</west>
+<north>55.12661</north>
+<east>-1.63709</east>
+<south>55.09064</south>
+</bbox>
+<score>66.89625549316406</score>
+</geoname>
+</geonames>

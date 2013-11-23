@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>6</totalResultsCount>
+<geoname>
+<toponymName>Swinton</toponymName>
+<name>Swinton</name>
+<lat>53.5</lat>
+<lng>-2.35</lng>
+<geonameId>2636373</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>20000</population>
+<alternateNames>Swinton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L5</adminCode2>
+<adminName2>Salford</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Swinton,_Greater_Manchester</alternateName>
+<alternateName lang="unlc">SWN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.38025</west>
+<north>53.51799</north>
+<east>-2.31975</east>
+<south>53.48201</south>
+</bbox>
+<score>103.28709411621094</score>
+</geoname>
+<geoname>
+<toponymName>Swinton</toponymName>
+<name>Swinton</name>
+<lat>54.21667</lat>
+<lng>-1.68333</lng>
+<geonameId>2636372</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Swinton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UD</adminCode3>
+<adminName3>Harrogate District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Swinton%2C_Harrogate</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.69872</west>
+<north>54.22566</north>
+<east>-1.66795</east>
+<south>54.20767</south>
+</bbox>
+<score>87.43141174316406</score>
+</geoname>
+<geoname>
+<toponymName>Swinton</toponymName>
+<name>Swinton</name>
+<lat>53.48333</lat>
+<lng>-1.31667</lng>
+<geonameId>2636374</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Swinton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L3</adminCode2>
+<adminName2>Rotherham</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Swinton%2C_South_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.33178</west>
+<north>53.49233</north>
+<east>-1.30155</east>
+<south>53.47434</south>
+</bbox>
+<score>87.43141174316406</score>
+</geoname>
+<geoname>
+<toponymName>Swinton</toponymName>
+<name>Swinton</name>
+<lat>55.71667</lat>
+<lng>-2.26667</lng>
+<geonameId>2636371</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Swinton</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T9</adminCode2>
+<adminName2>Scottish Borders</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Swinton%2C_Scottish_Borders</alternateName>
+<alternateName lang="unlc">SWT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.28264</west>
+<north>55.72566</north>
+<east>-2.2507</east>
+<south>55.70767</south>
+</bbox>
+<score>75.67687225341797</score>
+</geoname>
+<geoname>
+<toponymName>Swinton</toponymName>
+<name>Swinton</name>
+<lat>54.14641</lat>
+<lng>-0.83349</lng>
+<geonameId>7302062</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UF</adminCode3>
+<adminName3>Ryedale District</adminName3>
+<adminCode4>36UF109</adminCode4>
+<adminName4>Swinton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Swinton%2C_Ryedale</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.85297</west>
+<north>54.16709</north>
+<east>-0.81402</east>
+<south>54.12572</south>
+</bbox>
+<score>47.81230926513672</score>
+</geoname>
+<geoname>
+<toponymName>Swinton</toponymName>
+<name>Swinton</name>
+<lat>53.51092</lat>
+<lng>-2.33502</lng>
+<geonameId>6691243</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLX</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>section of populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L5</adminCode2>
+<adminName2>Salford</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.34107</west>
+<north>53.51452</north>
+<east>-2.32897</east>
+<south>53.50732</south>
+</bbox>
+<score>34.541656494140625</score>
+</geoname>
+</geonames>

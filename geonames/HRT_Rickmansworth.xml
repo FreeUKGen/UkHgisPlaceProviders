@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Rickmansworth</toponymName>
+<name>Rickmansworth</name>
+<lat>51.63928</lat>
+<lng>-0.47295</lng>
+<geonameId>2639381</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>12043</population>
+<alternateNames>Rickmansworth</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UJ</adminCode3>
+<adminName3>Three Rivers</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rickmansworth</alternateName>
+<alternateName lang="unlc">RKW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.49587</west>
+<north>51.6535</north>
+<east>-0.45003</east>
+<south>51.62506</south>
+</bbox>
+<score>133.43856811523438</score>
+</geoname>
+</geonames>

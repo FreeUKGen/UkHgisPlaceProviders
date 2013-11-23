@@ -1,0 +1,508 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>715</id>
+<name>LAMBETH</name>
+<container>SURREY</container>
+<lat>51.4879476130822</lat>
+<lon>-0.111537464691321</lon>
+<gazetteerText>Lambeth, parl. bor. and par., Surrey, on r. Thames, in SW. of London, 3942 ac., pop. 253,699. Lambeth Palace (1197) has for centuries been the official residence of the Archbishops of Canterbury; the library contains records of the see dating from the 13th century. St Thomas&apos; Hospital is situated on the Thames, opposite the Houses of Parliament. Lambeth Bridge is 1040 ft. long, with 3 spans of 280 ft. each. The bor. returns 4 members to Parliament (4 divisions--viz., North, Kennington, Brixton, and Norwood, 1 member for each division); the old parl. bor. of Lambeth (which included parts of Camberwell and Lambeth pars. and the whole of Newington par.) returned 2 members until 1885. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.workhouses.org.uk/Lambeth</link>
+<link>http://en.wikipedia.org/wiki/Lambeth</link>
+<link>http://www.geonames.org/6545250</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=43031</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=43030</link>
+</links>
+<unit>
+   <id>10036409</id>
+   <status>EP</status>
+   <name>LAMBETH ST PHILIP</name>
+</unit>
+<unit>
+   <id>10146422</id>
+   <status>EP</status>
+   <name>LAMBETH EMMANUEL</name>
+</unit>
+<unit>
+   <id>10190897</id>
+   <status>EP</status>
+   <name>SOUTH LAMBETH ST ANNE</name>
+</unit>
+<unit>
+   <id>10146460</id>
+   <status>EP</status>
+   <name>SOUTH LAMBETH ALL SAINTS ST BARNABAS</name>
+</unit>
+<unit>
+   <id>10036410</id>
+   <status>EP</status>
+   <name>SOUTH LAMBETH ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10566368</id>
+   <status></status>
+   <name>LAMBETH CHURCH 2ND</name>
+</unit>
+<unit>
+   <id>12828354</id>
+   <status>Lon_SDist</status>
+   <name>LAMBETH</name>
+</unit>
+<unit>
+   <id>10146446</id>
+   <status>EP</status>
+   <name>ST MARY AT LAMBETH</name>
+</unit>
+<unit>
+   <id>12833477</id>
+   <status></status>
+   <name>LAMBETH</name>
+</unit>
+<unit>
+   <id>10202516</id>
+   <status>RegD/PLPar</status>
+   <name>LAMBETH</name>
+</unit>
+<unit>
+   <id>10078726</id>
+   <status>EP</status>
+   <name>LAMBETH ST THOMAS</name>
+</unit>
+<unit>
+   <id>10215171</id>
+   <status>EP</status>
+   <name>LAMBETH ST ANDREW</name>
+</unit>
+<unit>
+   <id>10146410</id>
+   <status>AP/CP/Vest</status>
+   <name>LAMBETH ST MARY</name>
+</unit>
+<unit>
+   <id>12746180</id>
+   <status>BCon</status>
+   <name>LAMBETH CENTRAL</name>
+</unit>
+<unit>
+   <id>12746209</id>
+   <status>PBDivCon</status>
+   <name>LAMBETH NORTH</name>
+</unit>
+<unit>
+   <id>12743166</id>
+   <status>PBCon</status>
+   <name>LAMBETH</name>
+</unit>
+<unit>
+   <id>10135564</id>
+   <status>MetB</status>
+   <name>LAMBETH</name>
+</unit>
+<unit>
+   <id>10055167</id>
+   <status>LB</status>
+   <name>LAMBETH</name>
+</unit>
+<unit>
+   <id>10092747</id>
+   <status></status>
+   <name>LAMBETH</name>
+</unit>
+<unit>
+   <id>10539341</id>
+   <status></status>
+   <name>LAMBETH CHURCH</name>
+</unit>
+<unit>
+   <id>10566370</id>
+   <status></status>
+   <name>LAMBETH CHURCH 1ST</name>
+</unit>
+<unit>
+   <id>10146458</id>
+   <status>EP</status>
+   <name>NORTH LAMBETH</name>
+</unit>
+<unit>
+   <id>10036379</id>
+   <status>EP</status>
+   <name>LAMBETH</name>
+</unit>
+<unit>
+   <id>10190885</id>
+   <status>EP</status>
+   <name>LAMBETH ST MARY</name>
+</unit>
+<unit>
+   <id>10190873</id>
+   <status>EP</status>
+   <name>LAMBETH ALL SAINTS LOWER MARSH</name>
+</unit>
+<unit>
+   <id>10583196</id>
+   <status></status>
+   <name>LAMBETH</name>
+</unit>
+<unit>
+   <id>10078714</id>
+   <status>EP</status>
+   <name>LAMBETH ST ANDREW WITH ST THOMAS</name>
+</unit>
+<unit>
+   <id>10036380</id>
+   <status>EP</status>
+   <name>LAMBETH HOLY TRINITY</name>
+</unit>
+<unit>
+   <id>12781465</id>
+   <status></status>
+   <name>LONDON/LAMBETH</name>
+</unit>
+<unit>
+   <id>10036422</id>
+   <status>EP</status>
+   <name>SOUTH LAMBETH ST STEPHEN</name>
+</unit>
+<nearByPlace>
+   <id>580</id>
+   <name>CAMBERWELL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>685</id>
+   <name>SOUTHWARK</name>
+</nearByPlace>
+<nearByPlace>
+   <id>712</id>
+   <name>BATTERSEA</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2376</id>
+   <name>STRAND</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5327</id>
+   <name>NEWINGTON</name>
+</nearByPlace>
+</place>
+<place>
+<id>21340</id>
+<name>WATERLOO</name>
+<container>SURREY</container>
+<lat>51.5013826205606</lat>
+<lon>-0.108100004332619</lon>
+<gazetteerText>WATERLOO ROAD (First and Second), two sub-districts in Lambeth district, Surrey; on the river Thames, 1 miles SW by W of St. Paul&apos;s, London. The First comprises the part of the original chapelry of W.-St. John lying eastward of W.-road; and the Second, the part between W.-road and Westminster-Bridge-road. Acres of the First, 91; of which 23 are water. Pop. in 1851, 14,088; in 1861, 15,269. Houses, 1,736. Acres of the Second, 142; of which 43 are water. Pop. in 1851, 18,348; in 1861, 18,640. Houses, 2,179. W.-road proper is a line of street-thoroughfare from the Thames, at right angles with it, south-south-eastward to the Borough-road. W.-bridge spans the Thames on a line with W.-road; was built in 1811-7, at a cost of more than &#163;1,000,000; has a level road way 1,326 feet long, with elegant granite balustrades; comprises 9 elliptical arches each 120 feet in span; and is approached, on the Surrey side, by an artificial inclined plane upon 40 arches,-on the Middlesex side, by an artificial road on 16 arches. W. station, or the terminus of the South-western railway, is on the W side of W.-road, near the bridge; and has been noticed in our article on London. W. and Whitehall railway is a railway on the pneumatic principle, &#190; mile long, from W. station to Charing-Cross; and was authorized in 1865. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/6931001</link>
+</links>
+<unit>
+   <id>10036392</id>
+   <status>EP</status>
+   <name>LAMBETH ST JOHN THE EVANGELIST WATERLOO ROAD WITH ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10146434</id>
+   <status>EP</status>
+   <name>LAMBETH ST JOHN THE EVANGELIST WATERLOO ROAD</name>
+</unit>
+<unit>
+   <id>10563963</id>
+   <status></status>
+   <name>WATERLOO ROAD SECOND</name>
+</unit>
+<unit>
+   <id>10563975</id>
+   <status></status>
+   <name>WATERLOO ROAD</name>
+</unit>
+</place>
+<place>
+<id>20120</id>
+<name>KENNINGTON</name>
+<container>SURREY</container>
+<lat>51.4842829220442</lat>
+<lon>-0.107367465666194</lon>
+<gazetteerText>Kennington.-- eccl. dists. (St James, St John, and St Mark), Lambeth par., Surrey, forming a S. suburb of London - pop., St James, 6395; St Mark, 13,951; St John (partly in Camberwell par.), 9394. See Kennington Division. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Kennington</link>
+<link>http://www.geonames.org/6545174</link>
+</links>
+<unit>
+   <id>10019140</id>
+   <status>EP</status>
+   <name>KENNINGTON ST MARK</name>
+</unit>
+<unit>
+   <id>10052233</id>
+   <status>EP</status>
+   <name>KENNINGTON ST JAMES</name>
+</unit>
+<unit>
+   <id>10091159</id>
+   <status>EP</status>
+   <name>KENNINGTON CROSS</name>
+</unit>
+<unit>
+   <id>10128250</id>
+   <status>EP</status>
+   <name>KENNINGTON ST JOHN THE DIVINE</name>
+</unit>
+<unit>
+   <id>10128262</id>
+   <status>EP</status>
+   <name>KENNINGTON PARK</name>
+</unit>
+<unit>
+   <id>10128614</id>
+   <status>EP</status>
+   <name>BRIXTON ROAD</name>
+</unit>
+<unit>
+   <id>10163961</id>
+   <status>EP</status>
+   <name>SOUTH KENNINGTON</name>
+</unit>
+<unit>
+   <id>10539330</id>
+   <status></status>
+   <name>KENNINGTON</name>
+</unit>
+<unit>
+   <id>10566381</id>
+   <status></status>
+   <name>KENNINGTON 1ST</name>
+</unit>
+<unit>
+   <id>10566393</id>
+   <status></status>
+   <name>KENNINGTON 2ND</name>
+</unit>
+<unit>
+   <id>10575679</id>
+   <status></status>
+   <name>KENNINGTON</name>
+</unit>
+<unit>
+   <id>12746192</id>
+   <status>PBDivCon</status>
+   <name>LAMBETH KENNINGTON</name>
+</unit>
+</place>
+<place>
+<id>20391</id>
+<name>NORWOOD</name>
+<container>SURREY</container>
+<lat>51.4283732581834</lat>
+<lon>-0.098169303151447</lon>
+<gazetteerText>NORWOOD, a sub-metropolitan tract in Lambeth and Croydon parishes. Surrey; extending along the N Eborder of the county, from the outskirts of the metropolis in the vicinity of Brixton and Dulwich, 4&#189; miles south-south-eastward, to the vicinity of Croydon. It is divided into Lower Norwood in the N, Upper Norwood in the middle, and South Norwood in the S; it contains three villages of the same names as the three divisions; it includes, on the E border, the Crystal palace and park; itis traversed by the West end, Crystal palace, and Croydon railway, and has stations on it at Lower Norwood, Gipsy Hill, the Crystal palace, and South Norwood, the last of which bears the name of Norwood Junction; it has post-offices&#8225; of Norwood-Crownhill, Lower Norwood, Lower Norwood-High-street, South Norwood, Anerley-Road, and Westow Hill, all under London S; and it contains several large hotels, many well-built detached houses, numerous villas, and not a few mansions. It took its name from a wood, famous for oaks; it was, from an early period, a favourite haunt of gipsies, who infestedit on account of its woody retreats and of its vicinity to London; it continues still to be finely wooded, not in the forest manner, but ornately and picturesquely; it has atumulated and hilly surface, rising in some parts to a height of more than 300 feet; it abounds in charming close scenes, and includes stand-points commanding extensive and charming prospects; and it enjoys a healthy climate, and is altogether an attractive suburban region. A hotel, called the Norwood hotel, stands very pleasantlyon the crown of a hill, near the Crystal palace. The Norwood or South Metropolitan cemetery lies in Lower Norwood, occupies about 40 acres, and displays much taste and beauty. Two potteries, for the manufacture of red earthenware, are at Lower Norwood and South Norwood. Three chapelries, called Norwood, St. Luke, Norwood-All Saints, and Norwood, St. Mark, were formed respectively in 1824 in Lower Norwood, in 1845 in Upper Norwood, and in 1859 in South Norwood; and will be separately noticed. Two other chapelries are Gipsy Hill and Tulse Hill. A church for another chapelry, called Norwood, St. Paul, was built in 1866 in Anerley-road; was preceded, for the use of its congregation, by a temporary iron-church in Hamlet-road; is in the early French pointed style, of brick with various stone-dressings; consists of nave, aisles, transept, and apse, with vestry and tower; and cost &#163;5, 200. There are chapels for Independents, Baptists, and Wesleyans; several national and British schools; a pauper school, in Upper Park-road, for Lambeth parish; the Westmoreland Society&apos;s school, at Tulse Hill; and a Roman Catholic convent on the ground formerly occupied by the Parkhotel. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2641179</link>
+</links>
+<unit>
+   <id>10036630</id>
+   <status>EP</status>
+   <name>NORWOOD ALL SAINTS</name>
+</unit>
+<unit>
+   <id>10191051</id>
+   <status>EP</status>
+   <name>NORWOOD ST LUKE</name>
+</unit>
+<unit>
+   <id>10539316</id>
+   <status></status>
+   <name>NORWOOD</name>
+</unit>
+<unit>
+   <id>12749260</id>
+   <status>PBDivCon/BCon</status>
+   <name>LAMBETH NORWOOD</name>
+</unit>
+<unit>
+   <id>12753159</id>
+   <status>BCon</status>
+   <name>NORWOOD</name>
+</unit>
+</place>
+<place>
+<id>20461</id>
+<name>STREATHAM</name>
+<container>SURREY</container>
+<lat>51.4288823155896</lat>
+<lon>-0.129800253812256</lon>
+<gazetteerText>STREATHAM, a village, a parish, and a sub-district, in Wandsworth district, Surrey. The village stands on the West-End and Croydon railway, 6&#189; miles SSW of St. Pauls, London; dates from ancient times; and has a post-office&#8225; under London S, a r. station with telegraph, a police station, and a much-frequented mineral spring.&#151;The parish contains also Upper Tooting, Selhurst, Thornton-Heath, Streatham-Common, and Balsam hamlets,- all of which, except the first, have r. stations; and it includes a detached tract, called Knights-Hill, between Lambeth and Camberwell. Acres, 2,904. Real property, &#163;35,887. Pop. in 1851, 6,901; in 1861, 8,027. Houses, 1,246. The property is much subdivided; and there are numerous good residences. S. Park was the seat of the Thralls, and long, in their time, the domicile of Dr. Johnson. The living is a rectory in the diocese of Winchester. Value, &#163;1,200.* Patron, the Duke of Bedford. The church was rebuilt in 1830, and its spire in 1842. A chapel of ease, built in 1868, is under care of the rector; and five other churches, in Christchurch-Road, Grove-Road, Streatham-Common, Balham, and Upper Tooting, are separate charges. There are chapels for Wesleyans and Independents, fifteen national schools, an endowed school with &#163;20 a year, St-Ann&apos;s Society schools, and charities &#163;190.&#151;The sub-district includes Lower Tooting, and comprises 3,465 acres. Pop., 10,082. Houses, 1,613. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/2636675</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=43037</link>
+</links>
+<unit>
+   <id>10037219</id>
+   <status>EP</status>
+   <name>STREATHAM</name>
+</unit>
+<unit>
+   <id>10037220</id>
+   <status>EP</status>
+   <name>STREATHAM ST MARY</name>
+</unit>
+<unit>
+   <id>10059148</id>
+   <status>EP</status>
+   <name>STREATHAM CHRIST CHURCH</name>
+</unit>
+<unit>
+   <id>10092036</id>
+   <status>EP</status>
+   <name>STREATHAM IMMANUEL</name>
+</unit>
+<unit>
+   <id>10147499</id>
+   <status>EP</status>
+   <name>STREATHAM IMMANUEL WITH ST ANSELM</name>
+</unit>
+<unit>
+   <id>10170643</id>
+   <status>CP/AP</status>
+   <name>STREATHAM</name>
+</unit>
+<unit>
+   <id>10191385</id>
+   <status>EP</status>
+   <name>STREATHAM ST PAUL FURZEDOWN</name>
+</unit>
+<unit>
+   <id>10197867</id>
+   <status>EP</status>
+   <name>STREATHAM ST ANSELM</name>
+</unit>
+<unit>
+   <id>10202863</id>
+   <status>EP</status>
+   <name>STREATHAM ST PETER</name>
+</unit>
+<unit>
+   <id>10215225</id>
+   <status>EP</status>
+   <name>WEST STREATHAM</name>
+</unit>
+<unit>
+   <id>10539857</id>
+   <status></status>
+   <name>STREATHAM</name>
+</unit>
+<unit>
+   <id>10580845</id>
+   <status></status>
+   <name>STREATHAM</name>
+</unit>
+<unit>
+   <id>10580857</id>
+   <status></status>
+   <name>STREATHAM AND MITCHAM</name>
+</unit>
+<unit>
+   <id>10595344</id>
+   <status></status>
+   <name>STREATHAM</name>
+</unit>
+<unit>
+   <id>12742083</id>
+   <status>BCon</status>
+   <name>STREATHAM</name>
+</unit>
+<unit>
+   <id>12742095</id>
+   <status>BCon</status>
+   <name>LAMBETH STREATHAM</name>
+</unit>
+<unit>
+   <id>12749259</id>
+   <status>PBDivCon/BCon</status>
+   <name>WANDSWORTH STREATHAM</name>
+</unit>
+</place>
+<place>
+<id>20198</id>
+<name>BRIXTON</name>
+<container>SURREY</container>
+<lat>51.461007782129</lat>
+<lon>-0.114089650936318</lon>
+<gazetteerText>BRIXTON, a metropolitan suburb, five chapelries, a subdistrict, and a hundred, in Surrey. The suburb is in Lambeth parish, 2 miles SSW of St. Paul&apos;s, London; extends about 2 miles southward from the vicinity of Kennington: is partly well edificed in contiguity with other suburbs; has a r. station with telegraph on the London, Chatham, and Dover railway, and a station on the line from Ludgate-Hill; has also post offices of B.,&#8225; B.-Rise,&#8225; B.-Hill, B.-Road, North B., and Tulse-Hill, under London S.; and contains Drouet&apos;s establishment for pauper children, Bailey&apos;s asylum for aged females, and the county house of correction. The chapelries are B.St. Matthew, constituted in 1824, and subsequently curtailed; B.-St. John, constituted in 1853; B.-Christchurch, in 1856; Tulse-Hill, in 1856; and B.-St. Jude, in 1868. Pop. of B.-St. M., 10,305; of B. St. John, 4,967; of B.-C., 3,776. The livings of St. M., St. John, andare vicarages, and that of St. Jude a p. curacy, in the diocese of London. Value of St. M., &#163;766;* of St. John, &#163;250;* of C., &#163;700;* of St. Jude, not reported. Patron of St. M., the Archbishop; of St. John, W. H. Stone, Esq.; of C., the Rev. J. M &apos;C. Hussey; of St. Jude, Trustees. Tulse-Hill is separately noticed. St. Matthew&apos;s church is a Doric structure, with portico, tower, and spire; and cost &#163;15,192. St. Jude&apos;s church is a cruciform edifice, in mixed pointed styles, peculiar and showy; has two porticos and a tower, and was built in 1868. There are chapels for Independents, Lady Huutingdon&apos;s Connexion, and Methodists. The subdistrict is in Lambeth district, and conterminate with the chapelry of Brixton-St. Matthew as it was originally constituted. Acres, 1,445. Pop., 20,067. Houses, 3,223. The hundred is cut into two divisions, Eastern and Western. The E. division comprises Lambeth parish, seven other parishes, and part of two others. Acres, 22,186. Pop. in 1851, 314,815. The W. division comprises Wandsworth parish, six other parishes, and part of another. Acres, 7,699. Pop. in 1851, 9,552. Pop. of the entire hundred in 1861, 409,504. Houses, 62,763. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.geonames.org/6690877</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=43023</link>
+</links>
+<unit>
+   <id>10052579</id>
+   <status>EP</status>
+   <name>BRIXTON ST MATTHEW</name>
+</unit>
+<unit>
+   <id>10128596</id>
+   <status>EP</status>
+   <name>EAST BRIXTON</name>
+</unit>
+<unit>
+   <id>10183108</id>
+   <status>EP</status>
+   <name>BRIXTON HILL</name>
+</unit>
+<unit>
+   <id>10183390</id>
+   <status>EP</status>
+   <name>BRIXTON ST PAUL</name>
+</unit>
+<unit>
+   <id>10206194</id>
+   <status>Hundred</status>
+   <name>BRIXTON</name>
+</unit>
+<unit>
+   <id>10539304</id>
+   <status></status>
+   <name>BRIXTON</name>
+</unit>
+<unit>
+   <id>10570530</id>
+   <status></status>
+   <name>BRIXTON AND KENNINGTON</name>
+</unit>
+<unit>
+   <id>12749533</id>
+   <status>BCon/PBDivCon</status>
+   <name>LAMBETH BRIXTON</name>
+</unit>
+<unit>
+   <id>12834512</id>
+   <status></status>
+   <name>BRIXTON</name>
+</unit>
+</place>
+<place>
+<id>20113</id>
+<name>VAUXHALL</name>
+<container>SURREY</container>
+<lat>51.4853901166273</lat>
+<lon>-0.120286208538866</lon>
+<gazetteerText>VAUXHALL, a metropolitan suburb and a chapelry, in Lambeth parish, Surrey; on the river Thames and on the Southwestern railway, 2&#189; miles SSW of St. Paul&apos;s, London. It has a post-office&#8225; under London SE, and a r. station with telegraph; and it communicates, by an iron bridge, with Pimlico. The bridge was constructed in 1811-6; has 9 equal arches; is 798 feet long, and 36 feet wide; and belongs to a private company. The manor belonged once to the Riverses, Earls of Devon; was given, by the Black Prince, to the Archbishops of Canterbury; and belonged, in the early part of the 17th century, to the Vauxes. A seat of the Archbishops was here; bore the name of Fauxes or Fox Hall; gave place to another mansion called Copt Hall, the residence of the mechanical amateur Sir S. Morland; and that, in its turn, gave place to a distillery. Famous gardens, long a place of public resort for amusements, were formed in 1615 by the Vauxes; assumed new features, under the new name of Spring Gardens about 1660; figured in the &quot;Spectator&quot; of 20 May 1712, as the scene of a visit of Sir Roger de Coverley; were revived in 1732 by Jonathan Tyers; became eclipsed by Cremorne gardens; and were finally closed in Aug. 1859. The chapelry bears the name of St. Peter. Pop. in 1868, about 8,000. The living is a p. curacy in the diocese of Winchester. Value, &#163;300.* Patrons, Trustees. The church stands on the site of the quondam gardens; was built in 1 864, at a cost of &#163;7,800; and is in the French first-pointed style. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Vauxhall</link>
+<link>http://www.geonames.org/6545171</link>
+</links>
+<unit>
+   <id>10037270</id>
+   <status>EP</status>
+   <name>VAUXHALL</name>
+</unit>
+<unit>
+   <id>12739436</id>
+   <status>BCon</status>
+   <name>VAUXHALL</name>
+</unit>
+<unit>
+   <id>12742010</id>
+   <status>BCon</status>
+   <name>LAMBETH VAUXHALL</name>
+</unit>
+</place>
+</results>

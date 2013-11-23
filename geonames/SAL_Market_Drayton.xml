@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Market Drayton</toponymName>
+<name>Market Drayton</name>
+<lat>52.90538</lat>
+<lng>-2.49012</lng>
+<geonameId>2643028</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>10639</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG117</adminCode3>
+<adminName3>Market Drayton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Market_Drayton</alternateName>
+<alternateName lang="unlc">MKD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.51121</west>
+<north>52.9181</north>
+<east>-2.46903</east>
+<south>52.89266</south>
+</bbox>
+<score>95.51321411132812</score>
+</geoname>
+<geoname>
+<toponymName>Market Drayton</toponymName>
+<name>Market Drayton</name>
+<lat>52.9023</lat>
+<lng>-2.4909</lng>
+<geonameId>7292764</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG117</adminCode3>
+<adminName3>Market Drayton</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.52128</west>
+<north>52.9126</north>
+<east>-2.46053</east>
+<south>52.89201</south>
+</bbox>
+<score>92.34617614746094</score>
+</geoname>
+</geonames>

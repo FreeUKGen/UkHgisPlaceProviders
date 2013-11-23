@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Llanfair-Mathafarn-Eithaf</toponymName>
+<name>Llanfair-Mathafarn-Eithaf</name>
+<lat>53.31278</lat>
+<lng>-4.23225</lng>
+<geonameId>7292366</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X1</adminCode2>
+<adminName2>Anglesey</adminName2>
+<adminCode3>00NA020</adminCode3>
+<adminName3>Llanfair-Mathafarn-Eithaf</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.27399</west>
+<north>53.33919</north>
+<east>-4.1905</east>
+<south>53.28638</south>
+</bbox>
+<score>110.3733901977539</score>
+</geoname>
+</geonames>

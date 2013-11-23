@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>5</totalResultsCount>
+<geoname>
+<toponymName>Harthill</toponymName>
+<name>Harthill</name>
+<lat>55.86667</lat>
+<lng>-3.75</lng>
+<geonameId>2647406</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>3464</population>
+<alternateNames>Harthill</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V8</adminCode2>
+<adminName2>North Lanarkshire</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harthill%2C_Scotland</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.76134</west>
+<north>55.87303</north>
+<east>-3.73866</east>
+<south>55.86031</south>
+</bbox>
+<score>102.63978576660156</score>
+</geoname>
+<geoname>
+<toponymName>Harthill</toponymName>
+<name>Harthill</name>
+<lat>53.31667</lat>
+<lng>-1.26667</lng>
+<geonameId>2647407</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1766</population>
+<alternateNames>Harthill</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L3</adminCode2>
+<adminName2>Rotherham</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harthill%2C_South_Yorkshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.27419</west>
+<north>53.32116</north>
+<east>-1.25914</east>
+<south>53.31217</south>
+</bbox>
+<score>102.63978576660156</score>
+</geoname>
+<geoname>
+<toponymName>Harthill</toponymName>
+<name>Harthill</name>
+<lat>53.16706</lat>
+<lng>-1.66799</lng>
+<geonameId>7294834</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D3</adminCode2>
+<adminName2>Derbyshire</adminName2>
+<adminCode3>17UF</adminCode3>
+<adminName3>Derbyshire Dales District</adminName3>
+<adminCode4>17UF047</adminCode4>
+<adminName4>Harthill</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.68105</west>
+<north>53.18105</north>
+<east>-1.65494</east>
+<south>53.15307</south>
+</bbox>
+<score>73.957763671875</score>
+</geoname>
+<geoname>
+<toponymName>Harthill</toponymName>
+<name>Harthill</name>
+<lat>53.09114</lat>
+<lng>-2.744</lng>
+<geonameId>7293031</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW079</adminCode3>
+<adminName3>Harthill</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Harthill%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.75626</west>
+<north>53.10044</north>
+<east>-2.73174</east>
+<south>53.08184</south>
+</bbox>
+<score>65.5673599243164</score>
+</geoname>
+<geoname>
+<toponymName>Harthill</toponymName>
+<name>Harthill</name>
+<lat>53.08333</lat>
+<lng>-2.75</lng>
+<geonameId>2647408</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z8</adminCode2>
+<adminName2>Cheshire West and Chester</adminName2>
+<adminCode3>00EW079</adminCode3>
+<adminName3>Harthill</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.77996</west>
+<north>53.10132</north>
+<east>-2.72004</east>
+<south>53.06535</south>
+</bbox>
+<score>36.9788818359375</score>
+</geoname>
+</geonames>

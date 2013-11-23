@@ -1,0 +1,52 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>20776</id>
+<name>HARTCLIFFE</name>
+<container>SOMERSET</container>
+<lat>51.4097499532139</lat>
+<lon>-2.660700875981</lon>
+<gazetteerText>HARTCLIFFE-WITH-BEDMINSTER, a hundred in the NW of Somerset; adjacent to Gloucestershire; and containing Bedminster parish, and six other parishes. Acres, 18, 377. Pop. in 1851, 6, 572; in 1861, 6, 879. Houses, 1, 265. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Hartcliffe</link>
+</links>
+<unit>
+   <id>10155320</id>
+   <status>Hundred</status>
+   <name>HARTCLIFFE WITH BEDMINSTER</name>
+</unit>
+<unit>
+   <id>10421974</id>
+   <status>EP</status>
+   <name>BRISTOL ST ANDREW HARTCLIFFE</name>
+</unit>
+</place>
+<place>
+<id>24113</id>
+<name>INNS COURT</name>
+<container>SOMERSET</container>
+<lat>51.4189158306341</lat>
+<lon>-2.59399781814675</lon>
+<unit>
+   <id>10421962</id>
+   <status>EP</status>
+   <name>BRISTOL HOLY CROSS INNS COURT</name>
+</unit>
+</place>
+<place>
+<id>24119</id>
+<name>STOCKWOOD</name>
+<container>SOMERSET</container>
+<lat>51.4174144447262</lat>
+<lon>-2.53213515861393</lon>
+<gazetteerText>Stockwood House, seat, in NE. of Somerset, 3 miles SE. of Bristol. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://en.wikipedia.org/wiki/Stockwood</link>
+</links>
+<unit>
+   <id>10421950</id>
+   <status>EP</status>
+   <name>BRISTOL CHRIST THE SERVANT STOCKWOOD</name>
+</unit>
+</place>
+</results>

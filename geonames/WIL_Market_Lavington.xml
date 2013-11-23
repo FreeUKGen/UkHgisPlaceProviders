@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Market Lavington</toponymName>
+<name>Market Lavington</name>
+<lat>51.28756</lat>
+<lng>-1.97729</lng>
+<geonameId>2643025</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1963</population>
+<alternateNames>Lavington,Market Lavington</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY152</adminCode3>
+<adminName3>Market Lavington</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Market_Lavington</alternateName>
+<alternateName lang="unlc">MAT</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.98448</west>
+<north>51.29206</north>
+<east>-1.9701</east>
+<south>51.28307</south>
+</bbox>
+<score>96.66830444335938</score>
+</geoname>
+<geoname>
+<toponymName>Market Lavington</toponymName>
+<name>Market Lavington</name>
+<lat>51.27987</lat>
+<lng>-1.95762</lng>
+<geonameId>7296287</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY152</adminCode3>
+<adminName3>Market Lavington</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.02055</west>
+<north>51.31762</north>
+<east>-1.89469</east>
+<south>51.24212</south>
+</bbox>
+<score>93.79181671142578</score>
+</geoname>
+</geonames>

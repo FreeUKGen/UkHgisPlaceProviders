@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Crowan</toponymName>
+<name>Crowan</name>
+<lat>50.16782</lat>
+<lng>-5.32303</lng>
+<geonameId>7294219</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE025</adminCode3>
+<adminName3>Crowan</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.39261</west>
+<north>50.19601</north>
+<east>-5.25344</east>
+<south>50.13963</south>
+</bbox>
+<score>114.34236145019531</score>
+</geoname>
+<geoname>
+<toponymName>Crowan</toponymName>
+<name>Crowan</name>
+<lat>50.16355</lat>
+<lng>-5.29707</lng>
+<geonameId>2651853</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Crowan</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE025</adminCode3>
+<adminName3>Crowan</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Crowan</alternateName>
+<alternateName lang="unlc">OWN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.31111</west>
+<north>50.17254</north>
+<east>-5.28302</east>
+<south>50.15455</south>
+</bbox>
+<score>93.67289733886719</score>
+</geoname>
+</geonames>

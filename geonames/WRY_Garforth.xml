@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Garforth</toponymName>
+<name>Garforth</name>
+<lat>53.79173</lat>
+<lng>-1.38067</lng>
+<geonameId>2648875</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>15737</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H3</adminCode2>
+<adminName2>Leeds</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Garforth</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.40813</west>
+<north>53.80794</north>
+<east>-1.35321</east>
+<south>53.77551</south>
+</bbox>
+<score>120.9552001953125</score>
+</geoname>
+</geonames>

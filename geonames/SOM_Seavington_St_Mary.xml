@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Seavington st. Mary</toponymName>
+<name>Seavington st. Mary</name>
+<lat>50.92863</lat>
+<lng>-2.85215</lng>
+<geonameId>6691806</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>361</population>
+<alternateNames>Seavington,Seavington saint Mary,Seavington st Mary,Seavington st. Mary</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<alternateName lang="en">Seavington st. Mary</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Seavington_St_Mary</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.85358</west>
+<north>50.92953</north>
+<east>-2.85073</east>
+<south>50.92773</south>
+</bbox>
+<score>93.36225891113281</score>
+</geoname>
+<geoname>
+<toponymName>Seavington St. Mary</toponymName>
+<name>Seavington St. Mary</name>
+<lat>50.93099</lat>
+<lng>-2.85182</lng>
+<geonameId>7294016</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD093</adminCode4>
+<adminName4>Seavington St. Mary</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.87251</west>
+<north>50.94429</north>
+<east>-2.83112</east>
+<south>50.91769</south>
+</bbox>
+<score>71.14332580566406</score>
+</geoname>
+</geonames>

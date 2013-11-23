@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Sleaford</toponymName>
+<name>Sleaford</name>
+<lat>52.99826</lat>
+<lng>-0.40941</lng>
+<geonameId>2637659</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>15558</population>
+<alternateNames>Sleaford</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Sleaford</alternateName>
+<alternateName lang="unlc">SLE</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.4353</west>
+<north>53.01383</north>
+<east>-0.38352</east>
+<south>52.98268</south>
+</bbox>
+<score>129.0386505126953</score>
+</geoname>
+<geoname>
+<toponymName>Sleaford</toponymName>
+<name>Sleaford</name>
+<lat>52.99786</lat>
+<lng>-0.41793</lng>
+<geonameId>7301771</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UE</adminCode3>
+<adminName3>North Kesteven</adminName3>
+<adminCode4>32UE057</adminCode4>
+<adminName4>Sleaford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.45782</west>
+<north>53.01947</north>
+<east>-0.37805</east>
+<south>52.97625</south>
+</bbox>
+<score>80.09135437011719</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Halkyn</toponymName>
+<name>Halkyn</name>
+<lat>53.21577</lat>
+<lng>-3.18866</lng>
+<geonameId>7297173</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ011</adminCode3>
+<adminName3>Halkyn</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.23636</west>
+<north>53.25669</north>
+<east>-3.14097</east>
+<south>53.17485</south>
+</bbox>
+<score>108.0311508178711</score>
+</geoname>
+<geoname>
+<toponymName>Halkyn</toponymName>
+<name>Halkyn</name>
+<lat>53.22556</lat>
+<lng>-3.19016</lng>
+<geonameId>2647629</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Halkin,Halkyn</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y1</adminCode2>
+<adminName2>Flintshire</adminName2>
+<adminCode3>00NJ011</adminCode3>
+<adminName3>Halkyn</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Halkyn</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.22021</west>
+<north>53.24355</north>
+<east>-3.1601</east>
+<south>53.20758</south>
+</bbox>
+<score>76.8760986328125</score>
+</geoname>
+</geonames>

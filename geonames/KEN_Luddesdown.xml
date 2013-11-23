@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Luddesdown</toponymName>
+<name>Luddesdown</name>
+<lat>51.37079</lat>
+<lng>0.39774</lng>
+<geonameId>2643435</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UG</adminCode3>
+<adminName3>Gravesham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Luddesdown</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.38333</west>
+<north>51.37978</north>
+<east>0.41215</east>
+<south>51.3618</south>
+</bbox>
+<score>92.97245788574219</score>
+</geoname>
+<geoname>
+<toponymName>Luddesdown</toponymName>
+<name>Luddesdown</name>
+<lat>51.35523</lat>
+<lng>0.39599</lng>
+<geonameId>7295870</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UG</adminCode3>
+<adminName3>Gravesham</adminName3>
+<adminCode4>29UG003</adminCode4>
+<adminName4>Luddesdown</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.36596</west>
+<north>51.38201</north>
+<east>0.42603</east>
+<south>51.32845</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

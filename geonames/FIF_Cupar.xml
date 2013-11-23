@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Cupar</toponymName>
+<name>Cupar</name>
+<lat>56.31876</lat>
+<lng>-3.01204</lng>
+<geonameId>2651698</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>8822</population>
+<alternateNames>Cupar,Cupar Fiobha,Cupar Fìobha</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V1</adminCode2>
+<adminName2>Fife</adminName2>
+<alternateName lang="gd">Cupar Fìobha</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cupar</alternateName>
+<alternateName lang="unlc">CUP</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.0335</west>
+<north>56.33065</north>
+<east>-2.99058</east>
+<south>56.30686</south>
+</bbox>
+<score>98.86988830566406</score>
+</geoname>
+</geonames>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>St Lawrence</toponymName>
+<name>St Lawrence</name>
+<lat>50.58565</lat>
+<lng>-1.25467</lng>
+<geonameId>7932001</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G2</adminCode2>
+<adminName2>Isle of Wight</adminName2>
+<adminCode3>00MW023</adminCode3>
+<adminName3>Ventnor</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/St_Lawrence%2C_Isle_of_Wight</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.26884</west>
+<north>50.59465</north>
+<east>-1.24051</east>
+<south>50.57666</south>
+</bbox>
+<score>69.86862182617188</score>
+</geoname>
+<geoname>
+<toponymName>St. Lawrence</toponymName>
+<name>St. Lawrence</name>
+<lat>51.70586</lat>
+<lng>0.82866</lng>
+<geonameId>7298540</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E4</adminCode2>
+<adminName2>Essex</adminName2>
+<adminCode3>22UK</adminCode3>
+<adminName3>Maldon District</adminName3>
+<adminCode4>22UK021</adminCode4>
+<adminName4>St. Lawrence</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.80264</west>
+<north>51.72932</north>
+<east>0.85468</east>
+<south>51.68241</south>
+</bbox>
+<score>59.71415328979492</score>
+</geoname>
+<geoname>
+<toponymName>St Lawrence</toponymName>
+<name>St Lawrence</name>
+<lat>49.21583</lat>
+<lng>-2.14139</lng>
+<geonameId>6950957</geonameId>
+<countryCode>JE</countryCode>
+<countryName>Jersey</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1/>
+<adminName1/>
+<adminCode2/>
+<adminName2/>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/Jersey</timezone>
+<bbox>
+<west>-2.15516</west>
+<north>49.22482</north>
+<east>-2.12762</east>
+<south>49.20684</south>
+</bbox>
+<score>44.18223571777344</score>
+</geoname>
+<geoname>
+<toponymName>St Lawrence</toponymName>
+<name>St Lawrence</name>
+<lat>51.11369</lat>
+<lng>1.25364</lng>
+<geonameId>7115299</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>CH</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>church</fcodeName>
+<population/>
+<alternateNames>St. Lawrence the Martyr</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UE</adminCode3>
+<adminName3>Dover District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>12.624177932739258</score>
+</geoname>
+</geonames>

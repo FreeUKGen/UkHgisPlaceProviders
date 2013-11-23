@@ -1,0 +1,81 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>374</id>
+<name>SWADLINCOTE</name>
+<container>DERBYSHIRE</container>
+<lat>52.7739365246182</lat>
+<lon>-1.57358519928901</lon>
+<gazetteerText>SWADLINCOTE, a township and a chapelry in Church-Gresley parish, Derby. The township lies on the Burton and Leicester railway, 4 miles SE of Burton-upon-Trent; contains collieries and pottery-works; and has a post-office&#8225; under Burton-upon-Trent, a r. station, a town hall, a church, a Wesleyan chapel, and a Saturday-evening market. Acres, 550. Pop., 1,076. Houses, 201.&#151;The chapelry was constituted in 1849. Pop., 1,553. Houses, 295. The living is a p. curacy in the diocese of Lichfield. Value, &#163;157. Patron, the Incumbent of Church-Gresley. (In 1870-72, John Marius Wilson&apos;s Imperial Gazetteer of England and Wales)</gazetteerText>
+<links>
+<link>http://www.genuki.org.uk/big/eng/DBY/Swadlincote/index.html</link>
+<link>http://en.wikipedia.org/wiki/Swadlincote</link>
+<link>http://www.geonames.org/2636465</link>
+</links>
+<unit>
+   <id>10061076</id>
+   <status>UD</status>
+   <name>SWADLINCOTE</name>
+</unit>
+<unit>
+   <id>10070193</id>
+   <status>EP</status>
+   <name>SWADLINCOTE</name>
+</unit>
+<unit>
+   <id>10167188</id>
+   <status>USD</status>
+   <name>SWADLINCOTE DISTRICT</name>
+</unit>
+<unit>
+   <id>10184757</id>
+   <status>CP/Tn</status>
+   <name>SWADLINCOTE</name>
+</unit>
+<unit>
+   <id>12831225</id>
+   <status></status>
+   <name>SWADLINCOTE</name>
+</unit>
+<nearByPlace>
+   <id>1831</id>
+   <name>STANTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>1837</id>
+   <name>WOODVILLE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2347</id>
+   <name>BRETBY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2363</id>
+   <name>HARTSHORNE</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2383</id>
+   <name>OVERSEAL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>2704</id>
+   <name>CHURCH GRESLEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4156</id>
+   <name>WILLINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>4261</id>
+   <name>NETHERSEAL</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5242</id>
+   <name>NEWTON SOLNEY</name>
+</nearByPlace>
+<nearByPlace>
+   <id>5244</id>
+   <name>REPTON</name>
+</nearByPlace>
+</place>
+</results>

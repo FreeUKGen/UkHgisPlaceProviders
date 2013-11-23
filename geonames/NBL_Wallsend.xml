@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Wallsend</toponymName>
+<name>Wallsend</name>
+<lat>54.99111</lat>
+<lng>-1.53397</lng>
+<geonameId>2634864</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA2</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a second-order administrative division</fcodeName>
+<population>42739</population>
+<alternateNames>Uolsend,Wallsend-on-Tyne,Уолсенд</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J5</adminCode2>
+<adminName2>North Tyneside</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wallsend</alternateName>
+<alternateName lang="ru">Уолсенд</alternateName>
+<alternateName lang="unlc">WTW</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.58037</west>
+<north>55.01771</north>
+<east>-1.48756</east>
+<south>54.9645</south>
+</bbox>
+<score>94.9091796875</score>
+</geoname>
+<geoname>
+<toponymName>Wallsend</toponymName>
+<name>Wallsend</name>
+<lat>54.98961</lat>
+<lng>-1.53233</lng>
+<geonameId>7677068</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>S</fcl>
+<fcode>MTRO</fcode>
+<fclName>spot, building, farm</fclName>
+<fcodeName>metro station</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J5</adminCode2>
+<adminName2>North Tyneside</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wallsend_Metro_station</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<score>52.81292724609375</score>
+</geoname>
+</geonames>

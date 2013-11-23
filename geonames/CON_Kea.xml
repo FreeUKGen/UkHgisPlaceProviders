@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Kea</toponymName>
+<name>Kea</name>
+<lat>50.24196</lat>
+<lng>-5.08126</lng>
+<geonameId>7293072</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE052</adminCode3>
+<adminName3>Kea</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.14749</west>
+<north>50.26174</north>
+<east>-5.01502</east>
+<south>50.22219</south>
+</bbox>
+<score>92.62930297851562</score>
+</geoname>
+<geoname>
+<toponymName>Kea</toponymName>
+<name>Kea</name>
+<lat>50.24337</lat>
+<lng>-5.07238</lng>
+<geonameId>2645919</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Kea</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE052</adminCode3>
+<adminName3>Kea</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kea%2C_Cornwall</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.08644</west>
+<north>50.25237</north>
+<east>-5.05831</east>
+<south>50.23438</south>
+</bbox>
+<score>88.42372131347656</score>
+</geoname>
+<geoname>
+<toponymName>Keadby</toponymName>
+<name>Keadby</name>
+<lat>53.59308</lat>
+<lng>-0.74021</lng>
+<geonameId>2645918</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J3</adminCode2>
+<adminName2>North Lincolnshire</adminName2>
+<adminCode3>00FD031</adminCode3>
+<adminName3>Keadby with Althorpe</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Keadby</alternateName>
+<alternateName lang="unlc">KEA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.75536</west>
+<north>53.60207</north>
+<east>-0.72505</east>
+<south>53.58409</south>
+</bbox>
+<score>56.068153381347656</score>
+</geoname>
+</geonames>

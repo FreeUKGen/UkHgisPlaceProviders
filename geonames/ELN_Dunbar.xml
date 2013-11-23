@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Dunbar</toponymName>
+<name>Dunbar</name>
+<lat>56.00062</lat>
+<lng>-2.51418</lng>
+<geonameId>2650776</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>6414</population>
+<alternateNames>Danbar,Dun Barra,Dunbar,Dùn Barra,Dún Barra,Данбар</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>U6</adminCode2>
+<adminName2>East Lothian</adminName2>
+<alternateName lang="ga">Dún Barra</alternateName>
+<alternateName lang="gd">Dùn Barra</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Dunbar</alternateName>
+<alternateName lang="ru">Данбар</alternateName>
+<alternateName lang="uk">Данбар</alternateName>
+<alternateName lang="unlc">DBR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.53217</west>
+<north>56.01068</north>
+<east>-2.49619</east>
+<south>55.99057</south>
+</bbox>
+<score>61.9511604309082</score>
+</geoname>
+</geonames>

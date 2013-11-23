@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Rugby</toponymName>
+<name>Rugby</name>
+<lat>52.37092</lat>
+<lng>-1.26417</lng>
+<geonameId>2638978</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>63323</population>
+<alternateNames>Ragbi,Rehgbi,Rugby i Warwickshire,XRU,la ge bi,leogbi,Рагби,Рэгби,拉格比,럭비</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UD</adminCode3>
+<adminName3>Rugby District</adminName3>
+<alternateName lang="iata">XRU</alternateName>
+<alternateName lang="ko">럭비</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Rugby%2C_Warwickshire</alternateName>
+<alternateName lang="lv">Ragbi</alternateName>
+<alternateName lang="nn">Rugby i Warwickshire</alternateName>
+<alternateName lang="ru">Рэгби</alternateName>
+<alternateName lang="sr">Рагби</alternateName>
+<alternateName lang="unlc">RUG</alternateName>
+<alternateName lang="zh">拉格比</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.31732</west>
+<north>52.40334</north>
+<east>-1.21101</east>
+<south>52.33849</south>
+</bbox>
+<score>80.80107116699219</score>
+</geoname>
+</geonames>

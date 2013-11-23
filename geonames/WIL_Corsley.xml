@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Corsley</toponymName>
+<name>Corsley</name>
+<lat>51.20575</lat>
+<lng>-2.24614</lng>
+<geonameId>7300332</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY074</adminCode3>
+<adminName3>Corsley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Corsley</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.28841</west>
+<north>51.22614</north>
+<east>-2.20387</east>
+<south>51.18536</south>
+</bbox>
+<score>76.62535095214844</score>
+</geoname>
+<geoname>
+<toponymName>Corsley</toponymName>
+<name>Corsley</name>
+<lat>51.21889</lat>
+<lng>-2.24806</lng>
+<geonameId>2652316</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Corsley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY074</adminCode3>
+<adminName3>Corsley</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.27678</west>
+<north>51.23688</north>
+<east>-2.21933</east>
+<south>51.2009</south>
+</bbox>
+<score>39.37278747558594</score>
+</geoname>
+</geonames>

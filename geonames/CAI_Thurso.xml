@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Thurso</toponymName>
+<name>Thurso</name>
+<lat>58.59271</lat>
+<lng>-3.52594</lng>
+<geonameId>2635881</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>7492</population>
+<alternateNames>Inbhir Theorsa,Inbhir Theòrsa,Inbhir Theórsa,Terso,Thursa,Thurso,saso,Терсо,サーソー</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>V3</adminCode2>
+<adminName2>Highland</adminName2>
+<alternateName lang="ga">Inbhir Theórsa</alternateName>
+<alternateName lang="gd">Inbhir Theòrsa</alternateName>
+<alternateName lang="ja">サーソー</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thurso</alternateName>
+<alternateName lang="ru">Терсо</alternateName>
+<alternateName lang="sco">Thursa</alternateName>
+<alternateName lang="uk">Терсо</alternateName>
+<alternateName lang="unlc">THR</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.54708</west>
+<north>58.60372</north>
+<east>-3.50479</east>
+<south>58.58169</south>
+</bbox>
+<score>78.9515380859375</score>
+</geoname>
+</geonames>

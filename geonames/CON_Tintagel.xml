@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Tintagel</toponymName>
+<name>Tintagel</name>
+<lat>50.65075</lat>
+<lng>-4.73356</lng>
+<geonameId>7293107</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE192</adminCode3>
+<adminName3>Tintagel</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.77024</west>
+<north>50.67912</north>
+<east>-4.69689</east>
+<south>50.62237</south>
+</bbox>
+<score>105.77568054199219</score>
+</geoname>
+<geoname>
+<toponymName>Tintagel</toponymName>
+<name>Tintagel</name>
+<lat>50.66317</lat>
+<lng>-4.75047</lng>
+<geonameId>8299848</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1820</population>
+<alternateNames>Dyntagell,Tintagel,Tintankel,Tre war Venydh,Trevena,tintajeru,Τίνταγκελ,טינטאגל,ティンタジェル</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE192</adminCode3>
+<adminName3>Tintagel</adminName3>
+<alternateName lang="el">Τίνταγκελ</alternateName>
+<alternateName lang="en">Tintagel</alternateName>
+<alternateName lang="he">טינטאגל</alternateName>
+<alternateName lang="ja">ティンタジェル</alternateName>
+<alternateName lang="kw">Dyntagell</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tintagel</alternateName>
+<alternateName lang="post">PL34</alternateName>
+<alternateName lang="unlc">TIA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.75757</west>
+<north>50.66767</north>
+<east>-4.74338</east>
+<south>50.65868</south>
+</bbox>
+<score>76.86986541748047</score>
+</geoname>
+</geonames>

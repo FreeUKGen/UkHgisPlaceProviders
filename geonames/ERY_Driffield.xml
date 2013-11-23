@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Driffield</toponymName>
+<name>Driffield</name>
+<lat>54.00489</lat>
+<lng>-0.43872</lng>
+<geonameId>2648120</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>11495</population>
+<alternateNames>Driffield</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB038</adminCode3>
+<adminName3>Driffield</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Driffield</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.46169</west>
+<north>54.01838</north>
+<east>-0.41576</east>
+<south>53.9914</south>
+</bbox>
+<score>115.17340087890625</score>
+</geoname>
+<geoname>
+<toponymName>Driffield</toponymName>
+<name>Driffield</name>
+<lat>54.0103</lat>
+<lng>-0.43202</lng>
+<geonameId>7295051</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E1</adminCode2>
+<adminName2>East Riding of Yorkshire</adminName2>
+<adminCode3>00FB038</adminCode3>
+<adminName3>Driffield</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.46758</west>
+<north>54.02817</north>
+<east>-0.39647</east>
+<south>53.99244</south>
+</bbox>
+<score>109.05506896972656</score>
+</geoname>
+<geoname>
+<toponymName>Driffield</toponymName>
+<name>Driffield</name>
+<lat>51.69574</lat>
+<lng>-1.89623</lng>
+<geonameId>7300570</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UC</adminCode3>
+<adminName3>Cotswold District</adminName3>
+<adminCode4>23UC044</adminCode4>
+<adminName4>Driffield</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.91856</west>
+<north>51.71456</north>
+<east>-1.87389</east>
+<south>51.67693</south>
+</bbox>
+<score>78.61639404296875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Horningsham</toponymName>
+<name>Horningsham</name>
+<lat>51.17288</lat>
+<lng>-2.26071</lng>
+<geonameId>7297649</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY122</adminCode3>
+<adminName3>Horningsham</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.30087</west>
+<north>51.19431</north>
+<east>-2.22055</east>
+<south>51.15145</south>
+</bbox>
+<score>107.18718719482422</score>
+</geoname>
+<geoname>
+<toponymName>Horningsham</toponymName>
+<name>Horningsham</name>
+<lat>51.16955</lat>
+<lng>-2.27071</lng>
+<geonameId>2646585</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P8</adminCode2>
+<adminName2>Wiltshire</adminName2>
+<adminCode3>00HY122</adminCode3>
+<adminName3>Horningsham</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Horningsham</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.28505</west>
+<north>51.17854</north>
+<east>-2.25636</east>
+<south>51.16055</south>
+</bbox>
+<score>86.5675277709961</score>
+</geoname>
+</geonames>

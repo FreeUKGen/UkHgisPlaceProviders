@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Chelmarsh</toponymName>
+<name>Chelmarsh</name>
+<lat>52.48232</lat>
+<lng>-2.40324</lng>
+<geonameId>7292256</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>L6</adminCode2>
+<adminName2>Shropshire</adminName2>
+<adminCode3>00GG041</adminCode3>
+<adminName3>Chelmarsh</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chelmarsh</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.43253</west>
+<north>52.50675</north>
+<east>-2.37396</east>
+<south>52.45789</south>
+</bbox>
+<score>80.7945556640625</score>
+</geoname>
+</geonames>

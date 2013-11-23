@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Baglan</toponymName>
+<name>Baglan</name>
+<lat>51.61371</lat>
+<lng>-3.79905</lng>
+<geonameId>7292963</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y5</adminCode2>
+<adminName2>County Borough of Neath Port Talbot</adminName2>
+<adminCode3>00NZ002</adminCode3>
+<adminName3>Baglan</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.8222</west>
+<north>51.6291</north>
+<east>-3.7759</east>
+<south>51.59833</south>
+</bbox>
+<score>80.01053619384766</score>
+</geoname>
+<geoname>
+<toponymName>Baglan</toponymName>
+<name>Baglan</name>
+<lat>51.62047</lat>
+<lng>-3.80628</lng>
+<geonameId>6692309</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y5</adminCode2>
+<adminName2>County Borough of Neath Port Talbot</adminName2>
+<adminCode3>00NZ002</adminCode3>
+<adminName3>Baglan</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Baglan%2C_Neath_Port_Talbot</alternateName>
+<alternateName lang="unlc">AGA</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.82076</west>
+<north>51.62946</north>
+<east>-3.79179</east>
+<south>51.61148</south>
+</bbox>
+<score>60.6868782043457</score>
+</geoname>
+</geonames>

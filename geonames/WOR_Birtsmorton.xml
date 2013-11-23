@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Birtsmorton</toponymName>
+<name>Birtsmorton</name>
+<lat>52.02278</lat>
+<lng>-2.30312</lng>
+<geonameId>7291712</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q4</adminCode2>
+<adminName2>Worcestershire</adminName2>
+<adminCode3>47UC</adminCode3>
+<adminName3>Malvern Hills District</adminName3>
+<adminCode4>47UC006</adminCode4>
+<adminName4>Birtsmorton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Birtsmorton</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.33783</west>
+<north>52.03139</north>
+<east>-2.26842</east>
+<south>52.01416</south>
+</bbox>
+<score>61.74647521972656</score>
+</geoname>
+</geonames>

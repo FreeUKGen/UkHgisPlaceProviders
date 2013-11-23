@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>4</totalResultsCount>
+<geoname>
+<toponymName>Egerton</toponymName>
+<name>Egerton</name>
+<lat>53.62815</lat>
+<lng>-2.43965</lng>
+<geonameId>6692985</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I2</adminCode2>
+<adminName2>Manchester</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Egerton%2C_Greater_Manchester</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.45482</west>
+<north>53.63714</north>
+<east>-2.42448</east>
+<south>53.61916</south>
+</bbox>
+<score>76.6397476196289</score>
+</geoname>
+<geoname>
+<toponymName>Egerton</toponymName>
+<name>Egerton</name>
+<lat>53.05845</lat>
+<lng>-2.71718</lng>
+<geonameId>7293001</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z7</adminCode2>
+<adminName2>Cheshire East</adminName2>
+<adminCode3>00EQ052</adminCode3>
+<adminName3>Egerton</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Egerton%2C_Cheshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.7347</west>
+<north>53.0727</north>
+<east>-2.69966</east>
+<south>53.04419</south>
+</bbox>
+<score>64.87181854248047</score>
+</geoname>
+<geoname>
+<toponymName>Egerton</toponymName>
+<name>Egerton</name>
+<lat>51.19411</lat>
+<lng>0.7281</lng>
+<geonameId>2650194</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.71375</west>
+<north>51.2031</north>
+<east>0.74246</east>
+<south>51.18512</south>
+</bbox>
+<score>57.38786315917969</score>
+</geoname>
+<geoname>
+<toponymName>Egerton</toponymName>
+<name>Egerton</name>
+<lat>51.19205</lat>
+<lng>0.71564</lng>
+<geonameId>7294552</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>G5</adminCode2>
+<adminName2>Kent</adminName2>
+<adminCode3>29UB</adminCode3>
+<adminName3>Ashford District</adminName3>
+<adminCode4>29UB015</adminCode4>
+<adminName4>Egerton</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Egerton%2C_Kent</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.68183</west>
+<north>51.21149</north>
+<east>0.74944</east>
+<south>51.17262</south>
+</bbox>
+<score>50.087806701660156</score>
+</geoname>
+</geonames>

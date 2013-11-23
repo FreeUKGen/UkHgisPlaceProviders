@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Machynlleth</toponymName>
+<name>Machynlleth</name>
+<lat>52.58965</lat>
+<lng>-3.85308</lng>
+<geonameId>7301018</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN080</adminCode3>
+<adminName3>Machynlleth</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.87771</west>
+<north>52.6012</north>
+<east>-3.82844</east>
+<south>52.57809</south>
+</bbox>
+<score>114.15132141113281</score>
+</geoname>
+<geoname>
+<toponymName>Machynlleth</toponymName>
+<name>Machynlleth</name>
+<lat>52.59097</lat>
+<lng>-3.85051</lng>
+<geonameId>2643251</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2171</population>
+<alternateNames>Machynlleth,Makhinlet,Makhunlet,Махинлет,Махънлет</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<adminCode3>00NN080</adminCode3>
+<adminName3>Machynlleth</adminName3>
+<alternateName lang="bg">Махънлет</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Machynlleth</alternateName>
+<alternateName lang="ru">Махинлет</alternateName>
+<alternateName lang="unlc">MNL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.85792</west>
+<north>52.59547</north>
+<east>-3.84311</east>
+<south>52.58648</south>
+</bbox>
+<score>85.88470458984375</score>
+</geoname>
+</geonames>

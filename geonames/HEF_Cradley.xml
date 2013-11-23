@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Cradley</toponymName>
+<name>Cradley</name>
+<lat>52.13073</lat>
+<lng>-2.3997</lng>
+<geonameId>7293160</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F7</adminCode2>
+<adminName2>Herefordshire</adminName2>
+<adminCode3>00GA051</adminCode3>
+<adminName3>Cradley</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cradley%2C_Herefordshire</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.45479</west>
+<north>52.1551</north>
+<east>-2.34461</east>
+<south>52.10637</south>
+</bbox>
+<score>68.28732299804688</score>
+</geoname>
+<geoname>
+<toponymName>Cradley</toponymName>
+<name>Cradley</name>
+<lat>52.45</lat>
+<lng>-2.08333</lng>
+<geonameId>2652170</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D7</adminCode2>
+<adminName2>Dudley</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.09809</west>
+<north>52.45899</north>
+<east>-2.06857</east>
+<south>52.44101</south>
+</bbox>
+<score>61.21388626098633</score>
+</geoname>
+</geonames>

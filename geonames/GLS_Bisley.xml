@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Bisley</toponymName>
+<name>Bisley</name>
+<lat>51.75</lat>
+<lng>-2.13333</lng>
+<geonameId>2655544</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Bisley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E6</adminCode2>
+<adminName2>Gloucestershire</adminName2>
+<adminCode3>23UF</adminCode3>
+<adminName3>Stroud</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bisley%2C_Gloucestershire</alternateName>
+<alternateName lang="unlc">BIY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.14786</west>
+<north>51.75899</north>
+<east>-2.1188</east>
+<south>51.74101</south>
+</bbox>
+<score>79.59324645996094</score>
+</geoname>
+<geoname>
+<toponymName>Bisley</toponymName>
+<name>Bisley</name>
+<lat>51.32643</lat>
+<lng>-0.63927</lng>
+<geonameId>2655545</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UJ</adminCode3>
+<adminName3>Surrey Heath</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Bisley%2C_Surrey</alternateName>
+<alternateName lang="unlc">ISL</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.65366</west>
+<north>51.33542</north>
+<east>-0.62487</east>
+<south>51.31743</south>
+</bbox>
+<score>76.86930084228516</score>
+</geoname>
+<geoname>
+<toponymName>Bisley</toponymName>
+<name>Bisley</name>
+<lat>51.32346</lat>
+<lng>-0.64127</lng>
+<geonameId>7291942</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UJ</adminCode3>
+<adminName3>Surrey Heath</adminName3>
+<adminCode4>43UJ001</adminCode4>
+<adminName4>Bisley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.65901</west>
+<north>51.33594</north>
+<east>-0.61339</east>
+<south>51.3119</south>
+</bbox>
+<score>73.37229919433594</score>
+</geoname>
+</geonames>

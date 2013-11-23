@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Pennant</toponymName>
+<name>Pennant</name>
+<lat>52.25</lat>
+<lng>-4.18333</lng>
+<geonameId>2640442</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.19803</west>
+<north>52.25899</north>
+<east>-4.16864</east>
+<south>52.24101</south>
+</bbox>
+<score>56.05431365966797</score>
+</geoname>
+<geoname>
+<toponymName>Pennant-Melangell</toponymName>
+<name>Pennant-Melangell</name>
+<lat>52.81667</lat>
+<lng>-3.45</lng>
+<geonameId>2640440</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Pennant,Pennant-Melangell</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.46488</west>
+<north>52.82566</north>
+<east>-3.43512</east>
+<south>52.80767</south>
+</bbox>
+<score>49.820098876953125</score>
+</geoname>
+<geoname>
+<toponymName>Pennant</toponymName>
+<name>Pennant</name>
+<lat>52.55</lat>
+<lng>-3.65</lng>
+<geonameId>2640441</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y8</adminCode2>
+<adminName2>Powys</adminName2>
+<alternateName lang="unlc">PAN</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.66479</west>
+<north>52.55899</north>
+<east>-3.63521</east>
+<south>52.54101</south>
+</bbox>
+<score>43.24138641357422</score>
+</geoname>
+</geonames>

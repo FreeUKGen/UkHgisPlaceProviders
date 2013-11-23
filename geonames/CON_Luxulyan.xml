@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Luxulyan</toponymName>
+<name>Luxulyan</name>
+<lat>50.40052</lat>
+<lng>-4.75643</lng>
+<geonameId>7293083</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>C6</adminCode2>
+<adminName2>Cornwall</adminName2>
+<adminCode3>00HE078</adminCode3>
+<adminName3>Luxulyan</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Luxulyan</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.8045</west>
+<north>50.43666</north>
+<east>-4.70836</east>
+<south>50.36438</south>
+</bbox>
+<score>77.49740600585938</score>
+</geoname>
+</geonames>

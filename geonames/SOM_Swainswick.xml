@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Swainswick</toponymName>
+<name>Swainswick</name>
+<lat>51.41912</lat>
+<lng>-2.35771</lng>
+<geonameId>7298320</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA044</adminCode3>
+<adminName3>Swainswick</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.37731</west>
+<north>51.43639</north>
+<east>-2.33811</east>
+<south>51.40184</south>
+</bbox>
+<score>109.92205810546875</score>
+</geoname>
+<geoname>
+<toponymName>Upper Swainswick</toponymName>
+<name>Upper Swainswick</name>
+<lat>51.41393</lat>
+<lng>-2.35096</lng>
+<geonameId>2636457</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Swainswick,Upper Swainswick</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>A4</adminCode2>
+<adminName2>Bath and North East Somerset</adminName2>
+<adminCode3>00HA044</adminCode3>
+<adminName3>Swainswick</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Swainswick</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.36538</west>
+<north>51.42292</north>
+<east>-2.33654</east>
+<south>51.40494</south>
+</bbox>
+<score>69.62667083740234</score>
+</geoname>
+</geonames>

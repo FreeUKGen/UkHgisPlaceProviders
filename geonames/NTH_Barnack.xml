@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Barnack</toponymName>
+<name>Barnack</name>
+<lat>52.63376</lat>
+<lng>-0.42392</lng>
+<geonameId>7299969</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K3</adminCode2>
+<adminName2>Peterborough</adminName2>
+<adminCode3>00JA003</adminCode3>
+<adminName3>Barnack</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.45713</west>
+<north>52.65426</north>
+<east>-0.3907</east>
+<south>52.61325</south>
+</bbox>
+<score>106.26434326171875</score>
+</geoname>
+<geoname>
+<toponymName>Barnack</toponymName>
+<name>Barnack</name>
+<lat>52.63181</lat>
+<lng>-0.40821</lng>
+<geonameId>2656307</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Barnack</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>K3</adminCode2>
+<adminName2>Peterborough</adminName2>
+<adminCode3>00JA003</adminCode3>
+<adminName3>Barnack</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Barnack</alternateName>
+<alternateName lang="unlc">KNB</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.43786</west>
+<north>52.6498</north>
+<east>-0.37856</east>
+<south>52.61383</south>
+</bbox>
+<score>71.93636322021484</score>
+</geoname>
+</geonames>

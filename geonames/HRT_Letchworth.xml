@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Letchworth</toponymName>
+<name>Letchworth</name>
+<lat>51.97944</lat>
+<lng>-0.2284</lng>
+<geonameId>2644597</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>33955</population>
+<alternateNames>Lechuort,Letchworth,Letchworth Garden,Letchworth Garden City,retchiwasu,Лечуорт,レッチワース</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UF</adminCode3>
+<adminName3>North Hertfordshire District</adminName3>
+<alternateName lang="en">Letchworth</alternateName>
+<alternateName lang="hu">Letchworth Garden City</alternateName>
+<alternateName lang="it">Letchworth Garden City</alternateName>
+<alternateName lang="ja">レッチワース</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Letchworth</alternateName>
+<alternateName lang="pl">Letchworth Garden City</alternateName>
+<alternateName lang="ru">Лечуорт</alternateName>
+<alternateName lang="unlc">LTH</alternateName>
+<alternateName lang="vo">Letchworth Garden City</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.26705</west>
+<north>52.00323</north>
+<east>-0.18974</east>
+<south>51.95564</south>
+</bbox>
+<score>122.0630111694336</score>
+</geoname>
+<geoname>
+<toponymName>Letchworth Garden City</toponymName>
+<name>Letchworth</name>
+<lat>51.97938</lat>
+<lng>-0.22664</lng>
+<geonameId>8224216</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>33600</population>
+<alternateNames>Letchworth,Letchworth Garden City</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UF</adminCode3>
+<adminName3>North Hertfordshire District</adminName3>
+<adminCode4>26UF035</adminCode4>
+<adminName4>Letchworth Garden City</adminName4>
+<alternateName lang="en">Letchworth</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Letchworth_Garden_City</alternateName>
+<alternateName lang="post">SG6</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.26529</west>
+<north>52.00318</north>
+<east>-0.18798</east>
+<south>51.95559</south>
+</bbox>
+<score>88.30508422851562</score>
+</geoname>
+</geonames>

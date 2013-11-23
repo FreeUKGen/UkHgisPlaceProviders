@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Thornton le Moor</toponymName>
+<name>Thornton le Moor</name>
+<lat>53.45</lat>
+<lng>-0.41667</lng>
+<geonameId>2635961</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Thornton,Thornton le Moor</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<cc2>GB</cc2>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UH</adminCode3>
+<adminName3>West Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thornton_le_Moor</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.43177</west>
+<north>53.45899</north>
+<east>-0.40156</east>
+<south>53.44101</south>
+</bbox>
+<score>74.38424682617188</score>
+</geoname>
+<geoname>
+<toponymName>Thornton-le-Moor</toponymName>
+<name>Thornton-le-Moor</name>
+<lat>54.29842</lat>
+<lng>-1.40466</lng>
+<geonameId>7302013</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>J7</adminCode2>
+<adminName2>North Yorkshire</adminName2>
+<adminCode3>36UC</adminCode3>
+<adminName3>Hambleton District</adminName3>
+<adminCode4>36UC157</adminCode4>
+<adminName4>Thornton-le-Moor</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thornton-le-Moor</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.42952</west>
+<north>54.31823</north>
+<east>-1.37981</east>
+<south>54.27861</south>
+</bbox>
+<score>51.47233200073242</score>
+</geoname>
+</geonames>

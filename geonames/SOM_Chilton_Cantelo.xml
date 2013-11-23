@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Chilton Cantelo</toponymName>
+<name>Chilton Cantelo</name>
+<lat>50.99166</lat>
+<lng>-2.61785</lng>
+<geonameId>7292406</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M3</adminCode2>
+<adminName2>Somerset</adminName2>
+<adminCode3>40UD</adminCode3>
+<adminName3>South Somerset District</adminName3>
+<adminCode4>40UD026</adminCode4>
+<adminName4>Chilton Cantelo</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Chilton_Cantelo</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.63938</west>
+<north>51.00519</north>
+<east>-2.59631</east>
+<south>50.97813</south>
+</bbox>
+<score>55.459007263183594</score>
+</geoname>
+</geonames>

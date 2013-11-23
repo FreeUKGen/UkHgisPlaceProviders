@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Arlesey</toponymName>
+<name>Arlesey</name>
+<lat>52.00649</lat>
+<lng>-0.26175</lng>
+<geonameId>7298857</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC002</adminCode3>
+<adminName3>Arlesey</adminName3>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.28404</west>
+<north>52.0334</north>
+<east>-0.23946</east>
+<south>51.97959</south>
+</bbox>
+<score>109.77394104003906</score>
+</geoname>
+<geoname>
+<toponymName>Arlesey</toponymName>
+<name>Arlesey</name>
+<lat>52.00713</lat>
+<lng>-0.26565</lng>
+<geonameId>2657073</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population>4847</population>
+<alternateNames>Arlesley</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z6</adminCode2>
+<adminName2>Central Bedfordshire</adminName2>
+<adminCode3>00KC002</adminCode3>
+<adminName3>Arlesey</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Arlesey</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.28026</west>
+<north>52.01612</north>
+<east>-0.25103</east>
+<south>51.99814</south>
+</bbox>
+<score>98.32228088378906</score>
+</geoname>
+</geonames>

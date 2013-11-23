@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Ipplepen</toponymName>
+<name>Ipplepen</name>
+<lat>50.48919</lat>
+<lng>-3.639</lng>
+<geonameId>2646062</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>2172</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UH</adminCode3>
+<adminName3>Teignbridge District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ipplepen</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.64606</west>
+<north>50.49368</north>
+<east>-3.63193</east>
+<south>50.48469</south>
+</bbox>
+<score>109.87246704101562</score>
+</geoname>
+<geoname>
+<toponymName>Ipplepen</toponymName>
+<name>Ipplepen</name>
+<lat>50.4831</lat>
+<lng>-3.63304</lng>
+<geonameId>7293345</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>D4</adminCode2>
+<adminName2>Devon</adminName2>
+<adminCode3>18UH</adminCode3>
+<adminName3>Teignbridge District</adminName3>
+<adminCode4>18UH026</adminCode4>
+<adminName4>Ipplepen</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.66404</west>
+<north>50.50507</north>
+<east>-3.60205</east>
+<south>50.46114</south>
+</bbox>
+<score>82.90888214111328</score>
+</geoname>
+</geonames>

@@ -1,0 +1,79 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>263</id>
+<name>LLANDEILO</name>
+<container>CARMARTHENSHIRE</container>
+<lat>51.8843746130516</lat>
+<lon>-3.99156924298273</lon>
+<gazetteerText>Llandilo.-- market town with ry. sta., Llandilofawr par., in E. of Carmarthenshire, on river Towy, 15 miles NE. of Carmarthen and 215 miles NW. of London by rail, pop. 1533; P.O., T.O., 2 Banks. Market-day, Saturday. Llandilo occupies a picturesque situation on the precipitous side of a hill rising from the N. bank of the river. The principal trade of the town is in corn and flour; the other industries include woollen cloth mills, timber and saw mills, and tanneries. A fine bridge stretches across the Towy; it was built in 1848 at a cost of &#163;22,000. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.workhouses.org.uk/LlandiloFawr</link>
+<link>http://www.geonames.org/2644135</link>
+<link>http://www.genuki.org.uk/big/wal/CMN/LlandeiloFawr/index.html</link>
+</links>
+<unit>
+   <id>10039393</id>
+   <status>UD</status>
+   <name>LLANDEILO</name>
+</unit>
+<unit>
+   <id>10039411</id>
+   <status>AP/CP</status>
+   <name>LLANDEILO FAWR URBAN</name>
+</unit>
+<unit>
+   <id>10087776</id>
+   <status>CP</status>
+   <name>LLANDEILO FAWR RURAL</name>
+</unit>
+<unit>
+   <id>10139399</id>
+   <status>RegD/PLU</status>
+   <name>LLANDILO FAWR</name>
+</unit>
+<unit>
+   <id>10192791</id>
+   <status>AP/CP</status>
+   <name>LLANDEILO FAWR</name>
+</unit>
+<unit>
+   <id>10221079</id>
+   <status>RD</status>
+   <name>LLANDEILO</name>
+</unit>
+<unit>
+   <id>10492087</id>
+   <status>RD</status>
+   <name>LLANDILOFAWR</name>
+</unit>
+<unit>
+   <id>10552734</id>
+   <status></status>
+   <name>LLANDILO</name>
+</unit>
+<unit>
+   <id>12750468</id>
+   <status>PDivCon</status>
+   <name>CARMARTHENSHIRE EASTERN</name>
+</unit>
+<unit>
+   <id>12827532</id>
+   <status>USD</status>
+   <name>LLANDILO</name>
+</unit>
+<unit>
+   <id>12827544</id>
+   <status>RSD</status>
+   <name>LLANDILOFAWR</name>
+</unit>
+<nearByPlace>
+   <id>5618</id>
+   <name>LLANDYFEISANT</name>
+</nearByPlace>
+<nearByPlace>
+   <id>8946</id>
+   <name>TALYLLYCHAU</name>
+</nearByPlace>
+</place>
+</results>

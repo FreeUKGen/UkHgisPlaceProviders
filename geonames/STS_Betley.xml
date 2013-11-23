@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Betley</toponymName>
+<name>Betley</name>
+<lat>53.03439</lat>
+<lng>-2.36865</lng>
+<geonameId>2655802</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UE</adminCode3>
+<adminName3>Newcastle-under-Lyme District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Betley</alternateName>
+<alternateName lang="unlc">ETY</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.38361</west>
+<north>53.04338</north>
+<east>-2.35369</east>
+<south>53.02539</south>
+</bbox>
+<score>84.6727294921875</score>
+</geoname>
+<geoname>
+<toponymName>Betley</toponymName>
+<name>Betley</name>
+<lat>53.02913</lat>
+<lng>-2.36277</lng>
+<geonameId>7297758</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>M9</adminCode2>
+<adminName2>Staffordshire</adminName2>
+<adminCode3>41UE</adminCode3>
+<adminName3>Newcastle-under-Lyme District</adminName3>
+<adminCode4>41UE003</adminCode4>
+<adminName4>Betley</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.38617</west>
+<north>53.04371</north>
+<east>-2.33937</east>
+<south>53.01455</south>
+</bbox>
+<score>75.30783081054688</score>
+</geoname>
+</geonames>

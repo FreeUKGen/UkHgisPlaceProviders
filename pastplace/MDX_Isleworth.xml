@@ -1,0 +1,159 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>1803</id>
+<name>ISLEWORTH</name>
+<container>MIDDLESEX</container>
+<lat>51.4705119496985</lat>
+<lon>-0.325381032286459</lon>
+<gazetteerText>Isleworth, par. and vil. with ry. sta., Middlesex, on river Thames - par. (containing part of Hounslow), 3143 ac., pop. 12,973; vil., 12 miles SW. of London; P.O., T.O; produces large quantities of fruit, and has flour mills, cement mills, breweries, and perfumery works. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://homepages.gold.ac.uk/genuki/MDX/Isleworth/index.html</link>
+<link>http://en.wikipedia.org/wiki/Isleworth</link>
+<link>http://www.geonames.org/2646004</link>
+<link>http://www.british-history.ac.uk/report.asp?compid=22269</link>
+</links>
+<unit>
+   <id>10021017</id>
+   <status>AP/CP</status>
+   <name>ISLEWORTH</name>
+</unit>
+<unit>
+   <id>10071550</id>
+   <status>EP</status>
+   <name>ISLEWORTH ST MARY THE VIRGIN</name>
+</unit>
+<unit>
+   <id>10071847</id>
+   <status>EP</status>
+   <name>ISLEWORTH ST JOHN</name>
+</unit>
+<unit>
+   <id>10130438</id>
+   <status>EP</status>
+   <name>ISLEWORTH</name>
+</unit>
+<unit>
+   <id>10164825</id>
+   <status>EP</status>
+   <name>ISLEWORTH ST FRANCIS</name>
+</unit>
+<unit>
+   <id>10188131</id>
+   <status>Hundred</status>
+   <name>ISLEWORTH</name>
+</unit>
+<unit>
+   <id>10543940</id>
+   <status></status>
+   <name>ISLEWORTH</name>
+</unit>
+<nearByPlace>
+   <id>1342</id>
+   <name>HOUNSLOW</name>
+</nearByPlace>
+</place>
+<place>
+<id>1143</id>
+<name>BRENTFORD</name>
+<container>MIDDLESEX</container>
+<lat>51.4837053161347</lat>
+<lon>-0.304731790890536</lon>
+<gazetteerText>Brentford, market town, S. Middlesex, 10&#189; miles W. of London by rail, at influx of river Brent to the Thames, pop. 11,810; P.O., T.O., 3 Banks. Market-day, Tuesday; is divided by river Brent into two parts, Old and New B.; has gin-distilleries, brewery, malt-kilns, soap works, &amp;c. Brentford is a very ancient place, and was the scene of a Danish defeat (1016) and of a Royalist victory (1642). It is the co. town of Middlesex, being the place where the elections are held. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.workhouses.org.uk/Brentford</link>
+<link>http://www.geonames.org/2654787</link>
+<link>http://en.wikipedia.org/wiki/Brentford</link>
+<link>http://homepages.gold.ac.uk/genuki/MDX/NewBrentford/index.html</link>
+</links>
+<unit>
+   <id>10032260</id>
+   <status>EP</status>
+   <name>BRENTFORD</name>
+</unit>
+<unit>
+   <id>10076444</id>
+   <status>EP</status>
+   <name>BRENTFORD ST LAWRENCE WITH ST PAUL</name>
+</unit>
+<unit>
+   <id>10076470</id>
+   <status>EP</status>
+   <name>NEW BRENTFORD</name>
+</unit>
+<unit>
+   <id>10097630</id>
+   <status>RegD/PLU</status>
+   <name>BRENTFORD</name>
+</unit>
+<unit>
+   <id>10110038</id>
+   <status>USD</status>
+   <name>BRENTFORD</name>
+</unit>
+<unit>
+   <id>10167991</id>
+   <status>CP/Ch</status>
+   <name>NEW BRENTFORD</name>
+</unit>
+<unit>
+   <id>10179646</id>
+   <status>RSD</status>
+   <name>BRENTFORD</name>
+</unit>
+<unit>
+   <id>10188635</id>
+   <status>EP</status>
+   <name>BRENTFORD ST PAUL WITH ST LAWRENCE AND ST GEORGE</name>
+</unit>
+<unit>
+   <id>10198355</id>
+   <status>UD/MB</status>
+   <name>BRENTFORD AND CHISWICK</name>
+</unit>
+<unit>
+   <id>10387139</id>
+   <status>UD</status>
+   <name>BRENTFORD</name>
+</unit>
+<unit>
+   <id>10543939</id>
+   <status></status>
+   <name>BRENTFORD</name>
+</unit>
+<unit>
+   <id>12738997</id>
+   <status>BCon</status>
+   <name>BRENTFORD AND ISLEWORTH</name>
+</unit>
+<unit>
+   <id>12740074</id>
+   <status>BCon</status>
+   <name>HOUNSLOW BRENTFORD AND ISLEWORTH</name>
+</unit>
+<unit>
+   <id>12746465</id>
+   <status>PDivCon</status>
+   <name>MIDDLESEX BRENTFORD AND CHISWICK</name>
+</unit>
+<unit>
+   <id>12750432</id>
+   <status>PDivCon</status>
+   <name>MIDDLESEX BRENTFORD</name>
+</unit>
+<unit>
+   <id>12755892</id>
+   <status>BCon</status>
+   <name>BRENTFORD AND CHISWICK</name>
+</unit>
+<unit>
+   <id>12835231</id>
+   <status></status>
+   <name>BRENTFORD</name>
+</unit>
+<nearByPlace>
+   <id>3482</id>
+   <name>OLD BRENTFORD</name>
+</nearByPlace>
+</place>
+</results>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Glenariff</toponymName>
+<name>Glenariff</name>
+<lat>55.05</lat>
+<lng>-6.06667</lng>
+<geonameId>2648538</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>1286</population>
+<alternateNames>Glenariff,Glenariffe,Warren,Waterfoot</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="NIR">NIR</adminCode1>
+<adminName1>N Ireland</adminName1>
+<adminCode2/>
+<adminName2/>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Glenariff</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-6.07452</west>
+<north>55.0545</north>
+<east>-6.05882</east>
+<south>55.0455</south>
+</bbox>
+<score>43.48505401611328</score>
+</geoname>
+<geoname>
+<toponymName>Warren</toponymName>
+<name>Warren</name>
+<lat>53.23333</lat>
+<lng>-2.16667</lng>
+<geonameId>2634745</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Z7</adminCode2>
+<adminName2>Cheshire East</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.1817</west>
+<north>53.24233</north>
+<east>-2.15164</east>
+<south>53.22434</south>
+</bbox>
+<score>42.85212707519531</score>
+</geoname>
+<geoname>
+<toponymName>Warren</toponymName>
+<name>Warren</name>
+<lat>51.63778</lat>
+<lng>-4.98944</lng>
+<geonameId>2634746</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-5.00394</west>
+<north>51.64677</north>
+<east>-4.97495</east>
+<south>51.62878</south>
+</bbox>
+<score>42.85212707519531</score>
+</geoname>
+</geonames>

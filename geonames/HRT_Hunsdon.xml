@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Hunsdon</toponymName>
+<name>Hunsdon</name>
+<lat>51.79638</lat>
+<lng>0.05328</lng>
+<geonameId>7297615</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>F8</adminCode2>
+<adminName2>Hertfordshire</adminName2>
+<adminCode3>26UD</adminCode3>
+<adminName3>East Hertfordshire District</adminName3>
+<adminCode4>26UD028</adminCode4>
+<adminName4>Hunsdon</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Hunsdon</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.02995</west>
+<north>51.81765</north>
+<east>0.07661</east>
+<south>51.77512</south>
+</bbox>
+<score>59.81330108642578</score>
+</geoname>
+</geonames>

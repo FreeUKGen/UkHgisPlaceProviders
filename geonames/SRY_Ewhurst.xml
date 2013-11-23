@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Ewhurst</toponymName>
+<name>Ewhurst</name>
+<lat>51.15394</lat>
+<lng>-0.4416</lng>
+<geonameId>2649817</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UL</adminCode3>
+<adminName3>Waverley District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ewhurst%2C_Surrey</alternateName>
+<alternateName lang="unlc">EWU</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.45594</west>
+<north>51.16293</north>
+<east>-0.42726</east>
+<south>51.14495</south>
+</bbox>
+<score>84.771240234375</score>
+</geoname>
+<geoname>
+<toponymName>Ewhurst</toponymName>
+<name>Ewhurst</name>
+<lat>51.14066</lat>
+<lng>-0.43894</lng>
+<geonameId>7297364</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>N7</adminCode2>
+<adminName2>Surrey</adminName2>
+<adminCode3>43UL</adminCode3>
+<adminName3>Waverley District</adminName3>
+<adminCode4>43UL009</adminCode4>
+<adminName4>Ewhurst</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.46462</west>
+<north>51.18359</north>
+<east>-0.41326</east>
+<south>51.09772</south>
+</bbox>
+<score>81.53416442871094</score>
+</geoname>
+<geoname>
+<toponymName>Ewhurst</toponymName>
+<name>Ewhurst</name>
+<lat>50.97839</lat>
+<lng>0.54131</lng>
+<geonameId>7298484</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>E2</adminCode2>
+<adminName2>East Sussex</adminName2>
+<adminCode3>21UG</adminCode3>
+<adminName3>Rother District</adminName3>
+<adminCode4>21UG014</adminCode4>
+<adminName4>Ewhurst</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Ewhurst%2C_East_Sussex</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.49375</west>
+<north>51.00523</north>
+<east>0.58887</east>
+<south>50.95154</south>
+</bbox>
+<score>55.263160705566406</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Cwmyoy</toponymName>
+<name>Cwmyoy</name>
+<lat>51.90345</lat>
+<lng>-3.02031</lng>
+<geonameId>2651642</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y4</adminCode2>
+<adminName2>Monmouthshire</adminName2>
+<adminCode3>00PP005</adminCode3>
+<adminName3>Crucorney</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Cwmyoy</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.03489</west>
+<north>51.91245</north>
+<east>-3.00573</east>
+<south>51.89446</south>
+</bbox>
+<score>95.02735900878906</score>
+</geoname>
+</geonames>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Silian</toponymName>
+<name>Silian</name>
+<lat>52.14079</lat>
+<lng>-4.09177</lng>
+<geonameId>2637842</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>X6</adminCode2>
+<adminName2>Cardiganshire</adminName2>
+<adminCode3>00NQ028</adminCode3>
+<adminName3>Llangybi</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Silian</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.10643</west>
+<north>52.14978</north>
+<east>-4.07712</east>
+<south>52.1318</south>
+</bbox>
+<score>63.45315933227539</score>
+</geoname>
+</geonames>

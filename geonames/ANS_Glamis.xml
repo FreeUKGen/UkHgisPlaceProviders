@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Glamis</toponymName>
+<name>Glamis</name>
+<lat>56.60858</lat>
+<lng>-3.00332</lng>
+<geonameId>2648608</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames>Glamis</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="SCT">SCT</adminCode1>
+<adminName1>Scotland</adminName1>
+<adminCode2>T7</adminCode2>
+<adminName2>Angus</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Glamis</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-3.01967</west>
+<north>56.61757</north>
+<east>-2.98698</east>
+<south>56.59958</south>
+</bbox>
+<score>99.9515609741211</score>
+</geoname>
+</geonames>

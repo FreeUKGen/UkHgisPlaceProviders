@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>1</totalResultsCount>
+<geoname>
+<toponymName>Wednesfield</toponymName>
+<name>Wednesfield</name>
+<lat>52.6</lat>
+<lng>-2.08333</lng>
+<geonameId>2634616</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>33555</population>
+<alternateNames>Wednesfield</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>Q3</adminCode2>
+<adminName2>Wolverhampton</adminName2>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Wednesfield</alternateName>
+<alternateName lang="unlc">WEF</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-2.12182</west>
+<north>52.62337</north>
+<east>-2.04484</east>
+<south>52.57663</south>
+</bbox>
+<score>145.08018493652344</score>
+</geoname>
+</geonames>

@@ -1,0 +1,127 @@
+<results>
+<copyright>(c) 2012, Great Britain Historical GIS, University of Portsmouth, UK. Published under the Creative Commons Attribution 2.0 UK: England &amp; Wales License (http://creativecommons.org/licenses/by/2.0/uk/).</copyright>
+<place>
+<id>311</id>
+<name>MORPETH</name>
+<container>NORTHUMBERLAND</container>
+<lat>55.1660545397524</lat>
+<lon>-1.69212269332836</lon>
+<gazetteerText>Morpeth.-- parl. and mun. bor., market town, par., and township, Northumberland, 10&#189; miles N. by W. of Newcastle and 288 miles from London by rail - par., 11,741 ac., pop. 6946; township, 547ac., pop. 5068; parl. bor., 17,085 ac., pop. 33,459; mun. bor., 231 ac., pop. 4556; town, 5685 ac., pop. 6115; 4 Banks, 1 newspaper. Market-day, Wednesday. The situation of Morpeth, in a beautiful valley of the Wansbeck, is very fine, as well as remarkably healthy. Prior to the Norman Conquest the place was of some importance. Of the old castle only the gateway remains. An abbey stood at Newminster, a little to the W. None of the industries of the town are important, but they comprise tanning, malting, brewing, ironfounding, and woollen mfrs. Large collieries are in close proximity to the town. The bor. returns 1 member to Parliament; it returned 2 members prior to 1832. (In 1887, John Bartholomew&apos;s Gazetteer of the British Isles)</gazetteerText>
+<links>
+<link>http://www.genuki.bpears.org.uk/NBL/Morpeth/index.html</link>
+<link>http://en.wikipedia.org/wiki/Morpeth,_Northumberland</link>
+<link>http://www.workhouses.org.uk/Morpeth</link>
+<link>http://www.geonames.org/2642182</link>
+</links>
+<unit>
+   <id>10005840</id>
+   <status>Wd</status>
+   <name>MORPETH</name>
+</unit>
+<unit>
+   <id>10042598</id>
+   <status>MB</status>
+   <name>MORPETH</name>
+</unit>
+<unit>
+   <id>10081622</id>
+   <status>USD</status>
+   <name>MORPETH</name>
+</unit>
+<unit>
+   <id>10084271</id>
+   <status>Borough</status>
+   <name>MORPETH</name>
+</unit>
+<unit>
+   <id>10110890</id>
+   <status>RSD</status>
+   <name>MORPETH</name>
+</unit>
+<unit>
+   <id>10153670</id>
+   <status>RD</status>
+   <name>MORPETH</name>
+</unit>
+<unit>
+   <id>10216540</id>
+   <status>PLU/RegD</status>
+   <name>MORPETH</name>
+</unit>
+<unit>
+   <id>10323678</id>
+   <status>Tn/CP/AP</status>
+   <name>MORPETH</name>
+</unit>
+<unit>
+   <id>10323710</id>
+   <status>EP</status>
+   <name>MORPETH</name>
+</unit>
+<unit>
+   <id>10323721</id>
+   <status>CP/Tn</status>
+   <name>MORPETH CASTLE</name>
+</unit>
+<unit>
+   <id>10551833</id>
+   <status></status>
+   <name>MORPETH</name>
+</unit>
+<unit>
+   <id>10577214</id>
+   <status></status>
+   <name>MORPETH</name>
+</unit>
+<unit>
+   <id>12749934</id>
+   <status>PBCon/CCon</status>
+   <name>MORPETH</name>
+</unit>
+<unit>
+   <id>12834846</id>
+   <status></status>
+   <name>MORPETH</name>
+</unit>
+<nearByPlace>
+   <id>8733</id>
+   <name>BIGGES QUARTER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9262</id>
+   <name>HEBRON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9280</id>
+   <name>HEPSCOTT</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9480</id>
+   <name>MELDON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9496</id>
+   <name>MITFORD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9520</id>
+   <name>NETHERWITTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9561</id>
+   <name>NEWMINSTER</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9602</id>
+   <name>PEGSWOOD</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9722</id>
+   <name>TRITLINGTON</name>
+</nearByPlace>
+<nearByPlace>
+   <id>9746</id>
+   <name>WALLINGTON DEMESNE</name>
+</nearByPlace>
+</place>
+</results>

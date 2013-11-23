@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>3</totalResultsCount>
+<geoname>
+<toponymName>Tetford</toponymName>
+<name>Tetford</name>
+<lat>53.2534</lat>
+<lng>-0.00234</lng>
+<geonameId>2636081</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Tetford</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.01738</west>
+<north>53.2624</north>
+<east>0.01269</east>
+<south>53.24441</south>
+</bbox>
+<score>90.01943969726562</score>
+</geoname>
+<geoname>
+<toponymName>Tetford</toponymName>
+<name>Tetford</name>
+<lat>53.25156</lat>
+<lng>-0.00578</lng>
+<geonameId>7295502</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>H7</adminCode2>
+<adminName2>Lincolnshire</adminName2>
+<adminCode3>32UC</adminCode3>
+<adminName3>East Lindsey District</adminName3>
+<adminCode4>32UC156</adminCode4>
+<adminName4>Tetford</adminName4>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-0.0372</west>
+<north>53.26961</north>
+<east>0.02564</east>
+<south>53.23351</south>
+</bbox>
+<score>80.19822692871094</score>
+</geoname>
+<geoname>
+<toponymName>Thetford</toponymName>
+<name>Thetford</name>
+<lat>52.41667</lat>
+<lng>0.75</lng>
+<geonameId>2636032</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>21588</population>
+<alternateNames>Tetford,Thetford,Тетфорд,ጤትፎርድ</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>I9</adminCode2>
+<adminName2>Norfolk</adminName2>
+<adminCode3>33UB</adminCode3>
+<adminName3>Breckland District</adminName3>
+<alternateName lang="am">ጤትፎርድ</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Thetford</alternateName>
+<alternateName lang="ru">Тетфорд</alternateName>
+<alternateName lang="unlc">TFD</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>0.71959</west>
+<north>52.43521</north>
+<east>0.78041</east>
+<south>52.39813</south>
+</bbox>
+<score>79.18328857421875</score>
+</geoname>
+</geonames>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Nevern</toponymName>
+<name>Nevern</name>
+<lat>52.03456</lat>
+<lng>-4.77371</lng>
+<geonameId>7293739</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM3</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>third-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS048</adminCode3>
+<adminName3>Nevern</adminName3>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Nevern</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.85054</west>
+<north>52.09327</north>
+<east>-4.69688</east>
+<south>51.97585</south>
+</bbox>
+<score>74.1162109375</score>
+</geoname>
+<geoname>
+<toponymName>Nevern</toponymName>
+<name>Nevern</name>
+<lat>52.02387</lat>
+<lng>-4.80068</lng>
+<geonameId>2641747</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPLA3</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a third-order administrative division</fcodeName>
+<population/>
+<alternateNames>Nevern</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="WLS">WLS</adminCode1>
+<adminName1>Wales</adminName1>
+<adminCode2>Y7</adminCode2>
+<adminName2>County of Pembrokeshire</adminName2>
+<adminCode3>00NS048</adminCode3>
+<adminName3>Nevern</adminName3>
+<alternateName lang="unlc">NEV</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-4.82993</west>
+<north>52.04186</north>
+<east>-4.77144</east>
+<south>52.00589</south>
+</bbox>
+<score>38.023406982421875</score>
+</geoname>
+</geonames>

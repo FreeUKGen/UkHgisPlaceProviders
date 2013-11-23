@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="FULL">
+<totalResultsCount>2</totalResultsCount>
+<geoname>
+<toponymName>Shipston on Stour</toponymName>
+<name>Shipston on Stour</name>
+<lat>52.06057</lat>
+<lng>-1.62778</lng>
+<geonameId>2637954</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>P</fcl>
+<fcode>PPL</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>populated place</fcodeName>
+<population>4555</population>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<alternateName lang="unlc">SSU</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.64045</west>
+<north>52.06835</north>
+<east>-1.61511</east>
+<south>52.05278</south>
+</bbox>
+<score>62.05071258544922</score>
+</geoname>
+<geoname>
+<toponymName>Shipston-on-Stour</toponymName>
+<name>Shipston-on-Stour</name>
+<lat>52.06309</lat>
+<lng>-1.63042</lng>
+<geonameId>7299633</geonameId>
+<countryCode>GB</countryCode>
+<countryName>United Kingdom</countryName>
+<fcl>A</fcl>
+<fcode>ADM4</fcode>
+<fclName>country, state, region,...</fclName>
+<fcodeName>fourth-order administrative division</fcodeName>
+<population/>
+<alternateNames/>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1 ISO3166-2="ENG">ENG</adminCode1>
+<adminName1>England</adminName1>
+<adminCode2>P3</adminCode2>
+<adminName2>Warwickshire</adminName2>
+<adminCode3>44UE</adminCode3>
+<adminName3>Stratford-on-Avon District</adminName3>
+<adminCode4>44UE081</adminCode4>
+<adminName4>Shipston-on-Stour</adminName4>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Shipston-on-Stour</alternateName>
+<timezone dstOffset="1.0" gmtOffset="0.0">Europe/London</timezone>
+<bbox>
+<west>-1.65002</west>
+<north>52.0767</north>
+<east>-1.61082</east>
+<south>52.04947</south>
+</bbox>
+<score>61.415985107421875</score>
+</geoname>
+</geonames>
